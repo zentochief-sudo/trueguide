@@ -1,0 +1,79 @@
+---
+const destinations = [
+  { label: 'Japan', slug: 'japan' },
+  { label: 'South Korea', slug: 'korea' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-white border-b border-[var(--color-border)] sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2">
+      <span class="text-xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">
+        True<span class="text-[var(--color-brand-600)]">Guide</span>
+      </span>
+    </a>
+
+    <!-- Nav -->
+    <nav class="hidden md:flex items-center gap-8">
+      {destinations.map((dest) => (
+        <a
+          href={`/${dest.slug}`}
+          class:list={[
+            "text-sm font-medium transition-colors hover:text-[var(--color-brand-600)]",
+            currentPath.startsWith(`/${dest.slug}`)
+              ? "text-[var(--color-brand-600)]"
+              : "text-[var(--color-text-secondary)]"
+          ]}
+        >
+          {dest.label}
+        </a>
+      ))}
+      <a
+        href="/#newsletter"
+        class="text-sm font-semibold text-white bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-700)] transition-colors px-4 py-2 rounded-lg"
+      >
+        Newsletter
+      </a>
+    </nav>
+
+    <!-- Mobile menu button -->
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden p-2 text-[var(--color-text-secondary)]"
+      aria-label="Open menu"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6" x2="21" y2="6"/>
+        <line x1="3" y1="12" x2="21" y2="12"/>
+        <line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile nav -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)] bg-white px-6 py-4">
+    {destinations.map((dest) => (
+      <a
+        href={`/${dest.slug}`}
+        class="block py-3 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-brand-600)] border-b border-[var(--color-border)]"
+      >
+        {dest.label}
+      </a>
+    ))}
+    <a
+      href="/#newsletter"
+      class="block mt-4 text-center text-sm font-semibold text-white bg-[var(--color-brand-600)] px-4 py-2.5 rounded-lg"
+    >
+      Newsletter
+    </a>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+</script>

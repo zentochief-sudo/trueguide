@@ -1,0 +1,49 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  destination: string;
+  category: string;
+  slug: string;
+  heroImage?: string;
+  readingTime: number;
+}
+
+const { title, description, destination, category, slug, heroImage, readingTime } = Astro.props;
+---
+
+<a href={`/${destination.toLowerCase()}/${slug}`} class="group block bg-white rounded-xl overflow-hidden border border-[var(--color-border)] hover:shadow-md transition-shadow">
+  <!-- Image -->
+  <div class="relative h-52 overflow-hidden bg-gray-100">
+    {heroImage ? (
+      <img
+        src={heroImage}
+        alt={title}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      />
+    ) : (
+      <div class="w-full h-full bg-gradient-to-br from-[var(--color-brand-100)] to-[var(--color-brand-50)] flex items-center justify-center">
+        <span class="text-[var(--color-brand-500)] text-4xl">✦</span>
+      </div>
+    )}
+    <span class="absolute top-3 left-3 bg-white/90 backdrop-blur-sm text-xs font-semibold uppercase tracking-wider text-[var(--color-brand-600)] px-2.5 py-1 rounded-full">
+      {category}
+    </span>
+  </div>
+
+  <!-- Content -->
+  <div class="p-5">
+    <h3 class="font-bold text-[var(--color-text-primary)] text-lg leading-snug mb-2 group-hover:text-[var(--color-brand-600)] transition-colors" style="font-family: var(--font-editorial)">
+      {title}
+    </h3>
+    <p class="text-sm text-[var(--color-text-secondary)] line-clamp-2 mb-4 leading-relaxed">
+      {description}
+    </p>
+    <div class="flex items-center justify-between">
+      <span class="text-xs text-[var(--color-text-muted)]">{readingTime} min read</span>
+      <span class="text-xs font-semibold text-[var(--color-brand-600)] group-hover:translate-x-1 transition-transform inline-block">
+        Read →
+      </span>
+    </div>
+  </div>
+</a>

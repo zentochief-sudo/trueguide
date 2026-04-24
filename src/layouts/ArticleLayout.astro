@@ -1,0 +1,129 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import EtsyCTA from '../components/EtsyCTA.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import Comments from '../components/Comments.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  destination: string;
+  category: string;
+  publishDate: Date;
+  heroImage?: string;
+  readingTime: number;
+  etsy_template?: { label: string; url: string };
+}
+
+const {
+  title,
+  description,
+  destination,
+  category,
+  publishDate,
+  heroImage,
+  readingTime,
+  etsy_template,
+} = Astro.props;
+
+const formattedDate = publishDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<BaseLayout title={title} description={description} image={heroImage}>
+  <!-- Hero -->
+  <div class="relative w-full h-[60vh] min-h-[400px] max-h-[600px] overflow-hidden bg-gray-900">
+    {heroImage && (
+      <img
+        src={heroImage}
+        alt={title}
+        class="w-full h-full object-cover opacity-80"
+      />
+    )}
+    <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+    <div class="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-4xl mx-auto">
+      <div class="flex items-center gap-3 mb-4">
+        <a
+          href={`/${destination.toLowerCase()}`}
+          class="text-white/80 text-sm font-medium hover:text-white transition-colors uppercase tracking-widest"
+        >
+          {destination}
+        </a>
+        <span class="text-white/40">·</span>
+        <span class="text-white/70 text-sm">{category}</span>
+      </div>
+      <h1 class="text-white text-3xl md:text-5xl font-bold leading-tight mb-4" style="font-family: var(--font-editorial)">
+        {title}
+      </h1>
+      <div class="flex items-center gap-4 text-white/70 text-sm">
+        <span>{formattedDate}</span>
+        <span>·</span>
+        <span>{readingTime} min read</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Article body -->
+  <div class="max-w-4xl mx-auto px-6 py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-12">
+      <!-- Main content -->
+      <div>
+        <!-- Etsy CTA — top of article -->
+        {etsy_template && (
+          <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
+        )}
+
+        <div class="prose">
+          <slot />
+        </div>
+
+        <!-- Etsy CTA — bottom of article -->
+        {etsy_template && (
+          <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="bottom" />
+        )}
+
+        <!-- Newsletter -->
+        <div class="mt-12">
+          <NewsletterSignup destination={destination} />
+        </div>
+
+        <!-- Comments -->
+        <div class="mt-12">
+          <Comments />
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="hidden lg:block">
+        <div class="sticky top-8 space-y-6">
+          {etsy_template && (
+            <div class="bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] rounded-xl p-5">
+              <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-brand-600)] mb-2">Plan your trip</p>
+              <p class="text-sm text-[var(--color-text-secondary)] mb-4">Download the editable template for this trip.</p>
+              <a
+                href={etsy_template.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="block w-full text-center bg-[var(--color-brand-600)] text-white text-sm font-semibold py-2.5 px-4 rounded-lg hover:bg-[var(--color-brand-700)] transition-colors"
+              >
+                {etsy_template.label} →
+              </a>
+            </div>
+          )}
+          <div class="bg-white border border-[var(--color-border)] rounded-xl p-5">
+            <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">More from {destination}</p>
+            <a
+              href={`/${destination.toLowerCase()}`}
+              class="text-sm text-[var(--color-brand-600)] hover:underline font-medium"
+            >
+              See all {destination} guides →
+            </a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

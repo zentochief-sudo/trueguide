@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('japan');
+const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const categories = ['Itinerary', 'Food', 'Tips', 'Culture', 'Budget', 'Transport'] as const;
+
+const byCategory = categories.reduce((acc, cat) => {
+  acc[cat] = sorted.filter((a) => a.data.category === cat);
+  return acc;
+}, {} as Record<string, typeof sorted>);
+---
+
+<BaseLayout
+  title="Japan Travel Guides"
+  description="Deep Japan travel guides — itineraries, food, hidden spots and honest tips for first-timers and repeat visitors."
+  image="/images/japan-hero.jpg"
+>
+  <!-- Destination hero -->
+  <div class="relative h-[50vh] min-h-[380px] overflow-hidden bg-gray-900">
+    <img src="/images/japan-hero.jpg" alt="Japan" class="w-full h-full object-cover opacity-70" />
+    <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+    <div class="absolute bottom-0 left-0 right-0 max-w-4xl mx-auto px-6 pb-12">
+      <p class="text-white/60 text-xs font-semibold uppercase tracking-widest mb-2">{sorted.length} guides</p>
+      <h1 class="text-white text-4xl md:text-6xl font-bold mb-3" style="font-family: var(--font-editorial)">Japan</h1>
+      <p class="text-white/70 text-lg max-w-xl">
+        Between chaos and silence — the country that rewires how you see the world.
+      </p>
+    </div>
+  </div>
+
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <!-- All articles grid -->
+    <div class="mb-14">
+      <h2 class="text-2xl font-bold text-[var(--color-text-primary)] mb-6" style="font-family: var(--font-editorial)">
+        All Japan Guides
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {sorted.map((article) => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            destination={article.data.destination}
+            category={article.data.category}
+            slug={article.id}
+            heroImage={article.data.heroImage}
+            readingTime={article.data.readingTime}
+          />
+        ))}
+      </div>
+    </div>
+
+    <!-- By category -->
+    {categories.map((cat) => byCategory[cat]?.length > 0 && (
+      <div class="mb-14">
+        <h2 class="text-xl font-bold text-[var(--color-text-primary)] mb-6 pb-3 border-b border-[var(--color-border)]" style="font-family: var(--font-editorial)">
+          {cat}
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {byCategory[cat].map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              destination={article.data.destination}
+              category={article.data.category}
+              slug={article.id}
+              heroImage={article.data.heroImage}
+              readingTime={article.data.readingTime}
+            />
+          ))}
+        </div>
+      </div>
+    ))}
+
+    <!-- Newsletter -->
+    <NewsletterSignup destination="Japan" />
+  </div>
+</BaseLayout>

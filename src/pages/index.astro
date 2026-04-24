@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DestinationCard from '../components/DestinationCard.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import { getCollection } from 'astro:content';
+
+const japanArticles = await getCollection('japan');
+const recentArticles = japanArticles
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+
+const destinations = [
+  {
+    name: 'Japan',
+    slug: 'japan',
+    tagline: 'Between chaos and silence — the country that rewires you.',
+    heroImage: '/images/japan-hero.jpg',
+    articleCount: japanArticles.length,
+  },
+  {
+    name: 'South Korea',
+    slug: 'korea',
+    tagline: 'Ancient temples, K-culture and food that changes your standards.',
+    heroImage: '/images/korea-hero.jpg',
+    articleCount: 0,
+  },
+];
+---
+
+<BaseLayout
+  title="Deep Travel Guides for the Curious Traveler"
+  description="TrueGuide — deep, honest travel guides for Japan, South Korea and beyond. Itineraries, food guides, and travel planning templates."
+>
+  <!-- Hero -->
+  <section class="relative bg-[var(--color-text-primary)] text-white overflow-hidden">
+    <div class="absolute inset-0 opacity-20 bg-cover bg-center" style="background-image: url('/images/hero-bg.jpg')" />
+    <div class="relative max-w-4xl mx-auto px-6 py-28 md:py-40 text-center">
+      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-[var(--color-brand-500)] mb-6">
+        Deep travel guides
+      </p>
+      <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-6" style="font-family: var(--font-editorial)">
+        Travel like someone<br />who actually knows.
+      </h1>
+      <p class="text-lg text-white/70 max-w-2xl mx-auto leading-relaxed mb-10">
+        No recycled listicles. No sponsored fluff. Just the kind of guide your most well-traveled friend would write — for Japan, South Korea, and beyond.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/japan" class="bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-700)] text-white font-semibold px-8 py-3.5 rounded-xl transition-colors">
+          Explore Japan
+        </a>
+        <a href="/korea" class="bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold px-8 py-3.5 rounded-xl transition-colors">
+          South Korea →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Destinations -->
+  <section class="max-w-6xl mx-auto px-6 py-20">
+    <div class="flex items-end justify-between mb-8">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-1">Where to go</p>
+        <h2 class="text-3xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">Destinations</h2>
+      </div>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+      {destinations.map((dest) => (
+        <DestinationCard {...dest} />
+      ))}
+    </div>
+  </section>
+
+  <!-- Recent articles -->
+  {recentArticles.length > 0 && (
+    <section class="max-w-6xl mx-auto px-6 pb-20">
+      <div class="flex items-end justify-between mb-8">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-1">Latest</p>
+          <h2 class="text-3xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">Recent Guides</h2>
+        </div>
+        <a href="/japan" class="text-sm font-semibold text-[var(--color-brand-600)] hover:underline hidden md:block">
+          See all →
+        </a>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {recentArticles.map((article) => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            destination={article.data.destination}
+            category={article.data.category}
+            slug={article.id}
+            heroImage={article.data.heroImage}
+            readingTime={article.data.readingTime}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Newsletter -->
+  <section class="max-w-4xl mx-auto px-6 pb-20">
+    <NewsletterSignup />
+  </section>
+</BaseLayout>

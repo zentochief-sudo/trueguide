@@ -1,0 +1,100 @@
+---
+// South Korea map with labeled, clickable city dots
+// Cities: Seoul, Busan, Gyeongju, Jeju
+interface Props {
+  activeCity?: string;
+}
+const { activeCity = 'all' } = Astro.props;
+
+const cities = [
+  { id: 'seoul',    label: 'Seoul',    x: 218, y: 135, labelX: 245, labelY: 132 },
+  { id: 'busan',    label: 'Busan',    x: 265, y: 235, labelX: 292, labelY: 232 },
+  { id: 'gyeongju', label: 'Gyeongju', x: 255, y: 210, labelX: 283, labelY: 208 },
+  { id: 'jeju',     label: 'Jeju',     x: 195, y: 290, labelX: 225, labelY: 290 },
+];
+---
+
+<div class="korea-map-container relative select-none" style="max-width: 380px; margin: 0 auto;">
+  <svg
+    id="korea-map-svg"
+    viewBox="0 0 380 360"
+    xmlns="http://www.w3.org/2000/svg"
+    class="w-full h-auto"
+    aria-label="South Korea map — click a city to filter guides"
+  >
+    <!-- Ocean -->
+    <rect width="380" height="360" fill="#f0f4ff" rx="12"/>
+
+    <!-- === KOREAN PENINSULA (simplified) === -->
+    <path d="M165 62 L220 55 L260 68 L278 90 L282 118 L278 148 L268 175 L262 205 L265 235 L255 255 L240 262 L220 260 L200 252 L185 235 L178 208 L175 178 L172 148 L168 115 L162 90 Z"
+      fill="#e8ecf8" stroke="#5269DB" stroke-width="1.2"/>
+
+    <!-- North Korea border hint (faint dashed line) -->
+    <line x1="162" y1="110" x2="282" y2="108" stroke="#5269DB" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.4"/>
+    <text x="222" y="90" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">North Korea</text>
+
+    <!-- Jeju Island -->
+    <ellipse cx="195" cy="292" rx="22" ry="12" fill="#e8ecf8" stroke="#5269DB" stroke-width="1"/>
+
+    <!-- === CITY DOTS === -->
+    {cities.map((city) => (
+      <g
+        class="city-dot cursor-pointer"
+        data-city={city.id}
+        transform={`translate(${city.x}, ${city.y})`}
+      >
+        <circle r="10" fill="#5269DB" fill-opacity="0.08" class="city-pulse"/>
+        <circle r="5" fill="#5269DB" stroke="white" stroke-width="1.5" class="city-inner"/>
+      </g>
+    ))}
+
+    <!-- === CITY LABELS === -->
+    {cities.map((city) => (
+      <text
+        x={city.labelX}
+        y={city.labelY}
+        font-size="10"
+        font-family="Inter, system-ui"
+        fill="#111111"
+        font-weight="500"
+        text-anchor="start"
+        class="cursor-pointer city-label"
+        data-city={city.id}
+      >
+        {city.label}
+      </text>
+    ))}
+
+    <!-- Sea labels -->
+    <text x="80" y="185" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">Yellow Sea</text>
+    <text x="335" y="185" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">East Sea</text>
+    <text x="222" y="345" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">Korea Strait</text>
+  </svg>
+</div>
+
+<style>
+  .city-dot:hover .city-inner { fill: #3f55c9; }
+  .city-dot.active .city-inner { fill: #F0D17C; stroke: #5269DB; }
+  .city-dot.active .city-pulse { fill-opacity: 0.2; }
+</style>
+
+<script>
+  const dots = document.querySelectorAll<SVGGElement>('.city-dot');
+  const labels = document.querySelectorAll<SVGTextElement>('.city-label');
+
+  function setActive(cityId: string) {
+    dots.forEach((d) => d.classList.toggle('active', d.dataset.city === cityId));
+    document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
+  }
+
+  dots.forEach((dot) => {
+    dot.addEventListener('click', () => setActive(dot.dataset.city!));
+  });
+  labels.forEach((lbl) => {
+    lbl.addEventListener('click', () => setActive(lbl.dataset.city!));
+  });
+
+  document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
+    dots.forEach((d) => d.classList.toggle('active', d.dataset.city === e.detail.city));
+  }) as EventListener);
+</script>

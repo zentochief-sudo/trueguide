@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 13
 heroImage: /images/korea-food-hero.jpg
 tags: [Seoul, food, Korean cuisine, restaurants, markets, street food]
+city: seoul
 ---
 
 Seoul is, quietly, one of the great food cities in the world. Not in the way Paris or Tokyo are great — no single-ingredient obsession, no rigid technique hierarchy — but in the way of a city that takes eating seriously at every level, from the corner pojangmacha (street food tent) to the haute cuisine restaurants in Cheongdam.

@@ -1,0 +1,117 @@
+---
+// World map — Asia-Pacific focused, Japan and South Korea clickable
+---
+
+<div class="world-map-container relative w-full select-none" style="max-width: 700px; margin: 0 auto;">
+  <svg
+    id="world-map-svg"
+    viewBox="0 0 700 380"
+    xmlns="http://www.w3.org/2000/svg"
+    class="w-full h-auto"
+    aria-label="World map — click Japan or South Korea to explore"
+  >
+    <!-- Ocean background -->
+    <rect width="700" height="380" fill="#f0f4ff" rx="16"/>
+
+    <!-- === CONTINENTS (simplified outlines) === -->
+
+    <!-- Europe -->
+    <path d="M270 60 L310 55 L330 65 L335 80 L320 90 L300 95 L280 88 L265 75 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Africa -->
+    <path d="M275 110 L315 105 L335 115 L340 140 L335 175 L320 210 L305 230 L290 225 L275 210 L265 175 L260 145 L265 120 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Asia (main body — western/central) -->
+    <path d="M330 50 L380 42 L440 40 L480 48 L500 60 L510 80 L505 100 L490 115 L465 120 L440 118 L415 110 L400 95 L380 88 L360 85 L345 75 L335 62 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- South Asia / India -->
+    <path d="M430 115 L460 110 L478 120 L480 145 L470 170 L455 185 L440 180 L428 165 L422 140 L425 120 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Southeast Asia -->
+    <path d="M480 120 L510 112 L530 118 L540 135 L535 155 L520 165 L505 160 L490 148 L480 132 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Russia / Siberia -->
+    <path d="M330 30 L420 20 L500 22 L560 30 L590 45 L580 60 L550 65 L510 58 L470 52 L430 50 L390 48 L360 50 L340 48 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Australia -->
+    <path d="M530 250 L580 242 L610 250 L620 275 L615 300 L595 315 L570 318 L548 308 L535 290 L528 268 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Americas (simplified) -->
+    <path d="M60 55 L105 50 L130 60 L140 90 L135 120 L120 140 L100 148 L80 142 L65 128 L55 100 L58 72 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+    <!-- South America -->
+    <path d="M95 170 L130 162 L150 172 L158 200 L155 240 L145 275 L130 295 L110 298 L92 285 L82 255 L80 220 L85 190 Z" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- === JAPAN (highlighted, clickable) === -->
+    <!-- Honshu -->
+    <path
+      id="japan-region"
+      d="M572 90 L584 82 L594 84 L598 92 L592 102 L580 110 L568 108 L562 99 Z"
+      fill="#5269DB"
+      fill-opacity="0.15"
+      stroke="#5269DB"
+      stroke-width="1.5"
+      class="cursor-pointer transition-all duration-200 hover:fill-opacity-30"
+      data-dest="japan"
+    />
+    <!-- Kyushu -->
+    <path
+      id="japan-kyushu"
+      d="M566 112 L574 108 L580 112 L580 120 L572 124 L564 120 Z"
+      fill="#5269DB"
+      fill-opacity="0.15"
+      stroke="#5269DB"
+      stroke-width="1.5"
+      class="cursor-pointer transition-all duration-200 hover:fill-opacity-30"
+      data-dest="japan"
+    />
+    <!-- Hokkaido -->
+    <path
+      id="japan-hokkaido"
+      d="M578 68 L590 64 L598 68 L600 78 L590 82 L578 78 Z"
+      fill="#5269DB"
+      fill-opacity="0.15"
+      stroke="#5269DB"
+      stroke-width="1.5"
+      class="cursor-pointer transition-all duration-200 hover:fill-opacity-30"
+      data-dest="japan"
+    />
+
+    <!-- Japan label -->
+    <g class="cursor-pointer" data-dest="japan" id="japan-label-group">
+      <text x="600" y="92" font-size="10" font-family="Inter, system-ui" fill="#5269DB" font-weight="600" text-anchor="start">Japan</text>
+      <line x1="596" y1="91" x2="600" y2="91" stroke="#5269DB" stroke-width="1" stroke-dasharray="2,1"/>
+    </g>
+
+    <!-- === SOUTH KOREA (highlighted, clickable) === -->
+    <path
+      id="korea-region"
+      d="M555 112 L563 108 L568 112 L568 125 L562 130 L554 128 L550 120 Z"
+      fill="#5269DB"
+      fill-opacity="0.15"
+      stroke="#5269DB"
+      stroke-width="1.5"
+      class="cursor-pointer transition-all duration-200 hover:fill-opacity-30"
+      data-dest="korea"
+    />
+
+    <!-- Korea label -->
+    <g class="cursor-pointer" data-dest="korea" id="korea-label-group">
+      <text x="530" y="128" font-size="10" font-family="Inter, system-ui" fill="#5269DB" font-weight="600" text-anchor="end">South Korea</text>
+      <line x1="530" y1="127" x2="550" y2="122" stroke="#5269DB" stroke-width="1" stroke-dasharray="2,1"/>
+    </g>
+
+    <!-- Hover tooltip hint -->
+    <text x="350" y="370" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle">Click a destination to explore guides</text>
+  </svg>
+</div>
+
+<script>
+  // All Japan clickable elements → navigate to /japan
+  document.querySelectorAll('[data-dest="japan"]').forEach((el) => {
+    el.addEventListener('click', () => { window.location.href = '/japan'; });
+  });
+  // All Korea clickable elements → navigate to /korea
+  document.querySelectorAll('[data-dest="korea"]').forEach((el) => {
+    el.addEventListener('click', () => { window.location.href = '/korea'; });
+  });
+</script>

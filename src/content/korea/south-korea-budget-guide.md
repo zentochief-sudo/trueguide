@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 10
 heroImage: /images/korea-budget-hero.jpg
 tags: [South Korea, budget, travel costs, Seoul, money, planning]
+city: national
 ---
 
 South Korea is, for most Western travelers, a revelation in value. You fly in expecting something comparable to Japan — and find a country where the food is equally excellent, the infrastructure is arguably better, and the daily costs are consistently 20–40% lower.

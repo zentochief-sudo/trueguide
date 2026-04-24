@@ -23,19 +23,19 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="canonical" href={canonicalURL} />
 
     <!-- SEO -->
-    <title>{title} | TrueGuide</title>
+    <title>{title} | GoinAtlas</title>
     <meta name="description" content={description} />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={`${title} | TrueGuide`} />
+    <meta property="og:title" content={`${title} | GoinAtlas`} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={image} />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={`${title} | TrueGuide`} />
+    <meta name="twitter:title" content={`${title} | GoinAtlas`} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
   </head>

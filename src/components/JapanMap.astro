@@ -1,0 +1,118 @@
+---
+// Japan country map with labeled, clickable city dots
+// Cities: Tokyo, Kyoto, Osaka, Kanazawa, Hiroshima, Nara
+interface Props {
+  activeCity?: string;
+}
+const { activeCity = 'all' } = Astro.props;
+
+const cities = [
+  { id: 'tokyo',     label: 'Tokyo',     x: 310, y: 178, labelX: 325, labelY: 175 },
+  { id: 'kyoto',     label: 'Kyoto',     x: 256, y: 218, labelX: 215, labelY: 213 },
+  { id: 'osaka',     label: 'Osaka',     x: 260, y: 232, labelX: 215, labelY: 234 },
+  { id: 'kanazawa',  label: 'Kanazawa',  x: 238, y: 195, labelX: 195, labelY: 192 },
+  { id: 'hiroshima', label: 'Hiroshima', x: 218, y: 245, labelX: 172, labelY: 244 },
+  { id: 'nara',      label: 'Nara',      x: 263, y: 240, labelX: 272, labelY: 248 },
+];
+---
+
+<div class="japan-map-container relative select-none" style="max-width: 480px; margin: 0 auto;">
+  <svg
+    id="japan-map-svg"
+    viewBox="0 0 480 360"
+    xmlns="http://www.w3.org/2000/svg"
+    class="w-full h-auto"
+    aria-label="Japan map — click a city to filter guides"
+  >
+    <!-- Ocean -->
+    <rect width="480" height="360" fill="#f0f4ff" rx="12"/>
+
+    <!-- === JAPAN ISLANDS (simplified) === -->
+
+    <!-- Hokkaido -->
+    <path d="M260 52 L310 42 L345 50 L355 70 L340 88 L315 96 L288 90 L268 75 Z"
+      fill="#e8ecf8" stroke="#5269DB" stroke-width="1.2"/>
+
+    <!-- Honshu (main island) -->
+    <path d="M170 110 L210 98 L250 100 L280 108 L310 118 L335 135 L345 158 L340 180 L325 195 L305 205 L280 210 L258 208 L238 200 L218 192 L200 185 L182 175 L168 158 L162 138 Z"
+      fill="#e8ecf8" stroke="#5269DB" stroke-width="1.2"/>
+
+    <!-- Shikoku -->
+    <path d="M220 240 L250 232 L268 238 L272 255 L258 268 L238 265 L222 255 Z"
+      fill="#e8ecf8" stroke="#5269DB" stroke-width="1.2"/>
+
+    <!-- Kyushu -->
+    <path d="M175 238 L205 230 L220 238 L225 258 L218 278 L200 288 L180 282 L165 265 L162 248 Z"
+      fill="#e8ecf8" stroke="#5269DB" stroke-width="1.2"/>
+
+    <!-- Ryukyu Islands (small chain) -->
+    <circle cx="160" cy="315" r="4" fill="#e8ecf8" stroke="#5269DB" stroke-width="1"/>
+    <circle cx="148" cy="322" r="3" fill="#e8ecf8" stroke="#5269DB" stroke-width="1"/>
+    <circle cx="136" cy="330" r="3" fill="#e8ecf8" stroke="#5269DB" stroke-width="1"/>
+
+    <!-- === CITY DOTS === -->
+    {cities.map((city) => (
+      <g
+        class="city-dot cursor-pointer"
+        data-city={city.id}
+        transform={`translate(${city.x}, ${city.y})`}
+      >
+        <!-- Outer pulse ring -->
+        <circle r="10" fill="#5269DB" fill-opacity="0.08" class="city-pulse"/>
+        <!-- Dot -->
+        <circle r="5" fill="#5269DB" stroke="white" stroke-width="1.5" class="city-inner"/>
+      </g>
+    ))}
+
+    <!-- === CITY LABELS === -->
+    {cities.map((city) => (
+      <text
+        x={city.labelX}
+        y={city.labelY}
+        font-size="10"
+        font-family="Inter, system-ui"
+        fill="#111111"
+        font-weight="500"
+        text-anchor="middle"
+        class="cursor-pointer city-label"
+        data-city={city.id}
+      >
+        {city.label}
+      </text>
+    ))}
+
+    <!-- Sea of Japan label -->
+    <text x="100" y="165" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">Sea of Japan</text>
+    <!-- Pacific label -->
+    <text x="390" y="200" font-size="9" font-family="Inter, system-ui" fill="#aaaaaa" text-anchor="middle" font-style="italic">Pacific Ocean</text>
+  </svg>
+</div>
+
+<style>
+  .city-dot:hover .city-inner { fill: #3f55c9; }
+  .city-dot.active .city-inner { fill: #F0D17C; stroke: #5269DB; }
+  .city-dot.active .city-pulse { fill-opacity: 0.2; }
+</style>
+
+<script>
+  const dots = document.querySelectorAll<SVGGElement>('.city-dot');
+  const labels = document.querySelectorAll<SVGTextElement>('.city-label');
+
+  function setActive(cityId: string) {
+    dots.forEach((d) => d.classList.toggle('active', d.dataset.city === cityId));
+    // Dispatch event for FilterSidebar / article grid
+    document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
+  }
+
+  dots.forEach((dot) => {
+    dot.addEventListener('click', () => setActive(dot.dataset.city!));
+  });
+  labels.forEach((lbl) => {
+    lbl.addEventListener('click', () => setActive(lbl.dataset.city!));
+  });
+
+  // Listen for sidebar → map sync
+  document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
+    dots.forEach((d) => d.classList.toggle('active', d.dataset.city === e.detail.city));
+  }) as EventListener);
+</script>

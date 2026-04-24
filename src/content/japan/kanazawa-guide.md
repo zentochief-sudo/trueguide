@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 11
 heroImage: /images/japan-kanazawa.jpg
 tags: [Kanazawa, Kenroku-en, geisha, Japan, Ishikawa, samurai, regional Japan]
+city: kanazawa
 ---
 
 There's a reason Kanazawa is called "Little Kyoto." But that name sells it short, because Kanazawa has something Kyoto lost decades ago: it still feels real.

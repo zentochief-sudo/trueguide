@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 11
 heroImage: /images/korea-busan-hero.jpg
 tags: [Busan, South Korea, Gamcheon, Haedong, beaches, Korean food, Jagalchi]
+city: busan
 ---
 
 Most travelers put Busan at the end of their Korea itinerary, as a two-night stop before flying home. That's one way to do it. The better way is to treat it as a separate destination — a city with its own character, its own food culture, and a coastline that makes Seoul feel very far away.

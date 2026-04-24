@@ -2,160 +2,114 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
-import SearchBar from '../../components/SearchBar.astro';
+import KoreaMap from '../../components/KoreaMap.astro';
+import FilterSidebar from '../../components/FilterSidebar.astro';
 import { getCollection } from 'astro:content';
 
 const articles = await getCollection('korea');
 const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
-const allCategories = ['Itinerary', 'Food', 'Culture', 'Budget', 'Tips', 'Transport'] as const;
-const activeCategories = allCategories.filter((cat) =>
-  sorted.some((a) => a.data.category === cat)
-);
+// Build city list with counts
+const cityMap: Record<string, number> = {};
+for (const a of sorted) {
+  const c = a.data.city ?? 'national';
+  cityMap[c] = (cityMap[c] ?? 0) + 1;
+}
 
-const searchArticles = sorted.map((a) => ({
-  title: a.data.title,
-  slug: a.id,
-  destination: a.data.destination,
-  category: a.data.category,
-  description: a.data.description,
-}));
+const cityOrder = ['seoul', 'busan', 'gyeongju', 'jeju', 'national'];
+const cityLabels: Record<string, string> = {
+  seoul: 'Seoul', busan: 'Busan', gyeongju: 'Gyeongju',
+  jeju: 'Jeju Island', national: 'All Korea',
+};
+
+const cities = cityOrder
+  .filter((id) => cityMap[id])
+  .map((id) => ({ id, label: cityLabels[id] ?? id, count: cityMap[id] }));
 ---
 
 <BaseLayout
   title="South Korea Travel Guides"
   description="Deep South Korea travel guides — Seoul, Busan, Gyeongju and beyond. Itineraries, food, K-culture and honest travel tips."
-  image="/images/korea-hero.jpg"
 >
-  <!-- Destination hero -->
-  <div class="relative h-[50vh] min-h-[380px] overflow-hidden bg-[var(--color-brand-900)]">
-    <img src="/images/korea-hero.jpg" alt="South Korea" class="w-full h-full object-cover opacity-70" />
-    <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
-    <div class="absolute bottom-0 left-0 right-0 max-w-4xl mx-auto px-6 pb-12">
-      <p class="text-white/60 text-xs font-semibold uppercase tracking-widest mb-2">{sorted.length} guides</p>
-      <h1 class="text-white text-4xl md:text-6xl font-bold mb-3" style="font-family: var(--font-editorial)">South Korea</h1>
-      <p class="text-white/70 text-lg max-w-xl">
-        Ancient temples, neon-lit alleys, and food that makes you reconsider every meal you've had before.
-      </p>
+  <!-- Destination hero: map + headline -->
+  <div class="bg-white border-b border-[var(--color-border)] py-10 px-6">
+    <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
+      <!-- Text -->
+      <div class="flex-1 text-center md:text-left">
+        <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
+          {sorted.length} guides
+        </p>
+        <h1
+          class="text-[40px] leading-tight font-black text-[var(--color-text-primary)] mb-3"
+          style="font-family: var(--font-display); font-weight: 900;"
+        >
+          South Korea
+        </h1>
+        <p class="text-[var(--color-text-secondary)] max-w-sm">
+          Ancient temples, neon-lit alleys, and food that makes you reconsider every meal you've had before.
+        </p>
+      </div>
+      <!-- Map -->
+      <div class="w-full md:w-64">
+        <KoreaMap />
+      </div>
     </div>
   </div>
 
-  <!-- Tabs + search bar + articles -->
+  <!-- Sidebar + articles -->
   <div class="max-w-6xl mx-auto px-6 py-10">
+    <div class="flex flex-col md:flex-row gap-10">
+      <!-- Sidebar -->
+      <FilterSidebar cities={cities} destination="South Korea" />
 
-    <!-- Tab bar + search -->
-    <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 border-b border-[var(--color-border)] pb-0 mb-8">
-      <div class="flex gap-0 -mb-px overflow-x-auto" id="category-tabs">
-        <button
-          class="tab-btn whitespace-nowrap px-4 py-3 text-sm border-b-2"
-          data-tab="all"
-          style="color: var(--color-brand-600); border-bottom-color: var(--color-brand-600); font-weight: 600;"
-        >
-          All Guides
-        </button>
-        {activeCategories.map((cat) => (
-          <button
-            class="tab-btn whitespace-nowrap px-4 py-3 text-sm border-b-2"
-            data-tab={cat.toLowerCase()}
-            style="color: var(--color-text-muted); border-bottom-color: transparent; font-weight: 500;"
-          >
-            {cat}
-          </button>
-        ))}
+      <!-- Articles -->
+      <div class="flex-1 min-w-0">
+        <!-- Empty state -->
+        <div id="empty-state" class="hidden text-center py-16">
+          <p class="text-[var(--color-text-muted)] text-sm">No guides found for this city yet.</p>
+        </div>
+
+        <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {sorted.map((article) => (
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              destination={article.data.destination}
+              category={article.data.category}
+              slug={article.id}
+              heroImage={article.data.heroImage}
+              readingTime={article.data.readingTime}
+              city={article.data.city}
+            />
+          ))}
+        </div>
+
+        <div class="mt-20">
+          <NewsletterSignup destination="South Korea" />
+        </div>
       </div>
-
-      <div class="pb-3 sm:pb-2 flex-shrink-0">
-        <SearchBar destination="korea" variant="compact" articles={searchArticles} />
-      </div>
-    </div>
-
-    <!-- Empty state -->
-    <div id="empty-state" class="hidden text-center py-16">
-      <p class="text-[var(--color-text-muted)] text-sm">No guides found. Try a different search.</p>
-    </div>
-
-    <!-- Articles flat grid -->
-    <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {sorted.map((article) => (
-        <ArticleCard
-          title={article.data.title}
-          description={article.data.description}
-          destination={article.data.destination}
-          category={article.data.category}
-          slug={article.id}
-          heroImage={article.data.heroImage}
-          readingTime={article.data.readingTime}
-        />
-      ))}
-    </div>
-
-    <!-- Newsletter -->
-    <div class="mt-20">
-      <NewsletterSignup destination="South Korea" />
     </div>
   </div>
 </BaseLayout>
 
 <script>
-  const tabBtns = document.querySelectorAll<HTMLButtonElement>('.tab-btn');
   const cards = document.querySelectorAll<HTMLElement>('[data-article-card]');
   const emptyState = document.getElementById('empty-state');
-  let activeTab = 'all';
-  let searchQuery = '';
+  const grid = document.getElementById('articles-grid');
 
-  const activeStyle = {
-    color: 'var(--color-brand-600)',
-    borderBottomColor: 'var(--color-brand-600)',
-    fontWeight: '600',
-  };
-  const inactiveStyle = {
-    color: 'var(--color-text-muted)',
-    borderBottomColor: 'transparent',
-    fontWeight: '500',
-  };
-
-  function applyFilters() {
+  function filterByCity(cityId: string) {
     let visible = 0;
     cards.forEach((card) => {
-      const matchesTab = activeTab === 'all' || card.dataset.category === activeTab;
-      const matchesSearch =
-        !searchQuery ||
-        (card.dataset.title ?? '').includes(searchQuery) ||
-        (card.dataset.description ?? '').includes(searchQuery);
-      const show = matchesTab && matchesSearch;
+      const cardCity = card.dataset.city ?? 'national';
+      const show = cityId === 'all' || cardCity === cityId;
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
     if (emptyState) emptyState.style.display = visible === 0 ? '' : 'none';
+    if (grid) grid.style.display = visible === 0 ? 'none' : '';
   }
 
-  function setActiveTab(tab: string) {
-    activeTab = tab;
-    tabBtns.forEach((btn) => {
-      const s = btn.dataset.tab === tab ? activeStyle : inactiveStyle;
-      btn.style.color = s.color;
-      btn.style.borderBottomColor = s.borderBottomColor;
-      btn.style.fontWeight = s.fontWeight;
-    });
-    applyFilters();
-  }
-
-  applyFilters();
-  tabBtns.forEach((btn) => {
-    btn.addEventListener('click', () => setActiveTab(btn.dataset.tab!));
-  });
-
-  document.addEventListener('trueguide:search', ((e: CustomEvent) => {
-    searchQuery = e.detail.query ?? '';
-    if (searchQuery) {
-      activeTab = 'all';
-      tabBtns.forEach((btn) => {
-        const s = btn.dataset.tab === 'all' ? activeStyle : inactiveStyle;
-        btn.style.color = s.color;
-        btn.style.borderBottomColor = s.borderBottomColor;
-        btn.style.fontWeight = s.fontWeight;
-      });
-    }
-    applyFilters();
+  document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
+    filterByCity(e.detail.city);
   }) as EventListener);
 </script>

@@ -10,6 +10,7 @@ tags: [sakura, spring, cherry blossom, seasonal, Tokyo, Kyoto, planning]
 etsy_template:
   label: Download the Japan Spring Planner
   url: https://www.etsy.com/shop/TrueGuide
+city: national
 ---
 
 There's a version of cherry blossom season that's a nightmare. You booked six months out, flew 14 hours, arrived to peak bloom — and so did 400,000 other people. Ueno Park looks like a festival grounds. Maruyama Park in Kyoto has a line to enter. The photos you imagined are impossible to take without a stranger's elbow in frame.

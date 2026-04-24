@@ -1,0 +1,86 @@
+---
+// City-level filter sidebar — e-commerce style
+// Dispatches and listens to goinatlas:cityFilter events
+
+interface Props {
+  cities: Array<{ id: string; label: string; count: number }>;
+  destination: string;
+}
+
+const { cities, destination } = Astro.props;
+---
+
+<aside id="filter-sidebar" class="w-full md:w-52 flex-shrink-0">
+  <div class="sticky top-32">
+    <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">
+      Filter by city
+    </p>
+
+    <ul class="space-y-0.5" id="city-filter-list">
+      <!-- All -->
+      <li>
+        <button
+          class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors active"
+          data-city="all"
+          style="background: var(--color-brand-50); color: var(--color-brand-600); font-weight: 600;"
+        >
+          <span>All {destination}</span>
+          <span class="text-xs text-[var(--color-text-muted)]">{cities.reduce((s, c) => s + c.count, 0)}</span>
+        </button>
+      </li>
+
+      {cities.map((city) => (
+        <li>
+          <button
+            class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors"
+            data-city={city.id}
+            style="color: var(--color-text-secondary); font-weight: 500;"
+          >
+            <span>{city.label}</span>
+            <span class="text-xs text-[var(--color-text-muted)]">{city.count}</span>
+          </button>
+        </li>
+      ))}
+    </ul>
+  </div>
+</aside>
+
+<script>
+  const btns = document.querySelectorAll<HTMLButtonElement>('.city-filter-btn');
+
+  const activeStyle = {
+    background: 'var(--color-brand-50)',
+    color: 'var(--color-brand-600)',
+    fontWeight: '600',
+  };
+  const inactiveStyle = {
+    background: 'transparent',
+    color: 'var(--color-text-secondary)',
+    fontWeight: '500',
+  };
+
+  function setActiveFilter(cityId: string) {
+    btns.forEach((btn) => {
+      const isActive = btn.dataset.city === cityId;
+      btn.style.background = isActive ? activeStyle.background : inactiveStyle.background;
+      btn.style.color = isActive ? activeStyle.color : inactiveStyle.color;
+      btn.style.fontWeight = isActive ? activeStyle.fontWeight : inactiveStyle.fontWeight;
+    });
+    // Dispatch for map + article grid
+    document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
+  }
+
+  btns.forEach((btn) => {
+    btn.addEventListener('click', () => setActiveFilter(btn.dataset.city!));
+  });
+
+  // Sync from map clicks
+  document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
+    btns.forEach((btn) => {
+      const isActive = btn.dataset.city === e.detail.city;
+      btn.style.background = isActive ? activeStyle.background : inactiveStyle.background;
+      btn.style.color = isActive ? activeStyle.color : inactiveStyle.color;
+      btn.style.fontWeight = isActive ? activeStyle.fontWeight : inactiveStyle.fontWeight;
+    });
+  }) as EventListener);
+</script>

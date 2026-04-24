@@ -7,9 +7,10 @@ interface Props {
   slug: string;
   heroImage?: string;
   readingTime: number;
+  city?: string;
 }
 
-const { title, description, destination, category, slug, heroImage, readingTime } = Astro.props;
+const { title, description, destination, category, slug, heroImage, readingTime, city = 'national' } = Astro.props;
 ---
 
 <a
@@ -20,6 +21,7 @@ const { title, description, destination, category, slug, heroImage, readingTime 
   data-description={description.toLowerCase()}
   data-destination={destination.toLowerCase()}
   data-category={category.toLowerCase()}
+  data-city={city.toLowerCase()}
 >
   <!-- Image -->
   <div class="relative h-52 overflow-hidden bg-gray-100">
@@ -41,7 +43,7 @@ const { title, description, destination, category, slug, heroImage, readingTime 
 
   <!-- Content -->
   <div class="p-5">
-    <h3 class="font-bold text-[var(--color-text-primary)] text-lg leading-snug mb-2 group-hover:text-[var(--color-brand-600)] transition-colors" style="font-family: var(--font-editorial)">
+    <h3 class="font-bold text-[var(--color-text-primary)] text-lg leading-snug mb-2 group-hover:text-[var(--color-brand-600)] transition-colors" style="font-family: var(--font-display)">
       {title}
     </h3>
     <p class="text-sm text-[var(--color-text-secondary)] line-clamp-2 mb-4 leading-relaxed">

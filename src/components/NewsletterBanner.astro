@@ -1,40 +1,34 @@
 <!--
-  Slim full-width newsletter acquisition strip.
-  Shown below the header on every page.
+  Sticky newsletter acquisition strip — below header, stays on scroll.
+  Typewriter rotation through brand copy lines.
   Dismissible per session.
-  Replace form action with Beehiiv embed once account is active.
 -->
 <div
   id="newsletter-banner"
-  class="bg-[var(--color-brand-900)] text-white border-b border-[var(--color-brand-700)]"
+  class="bg-[var(--color-brand-900)] text-white sticky top-16 z-40 border-b border-[var(--color-brand-700)]"
 >
   <div class="max-w-6xl mx-auto px-4 sm:px-6 h-11 flex items-center justify-between gap-4">
 
-    <!-- Left: Icon + copy -->
+    <!-- Left: Icon + typewriter copy -->
     <div class="flex items-center gap-2.5 min-w-0">
-      <svg class="w-4 h-4 text-[var(--color-brand-400)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <svg class="w-4 h-4 text-[var(--color-accent)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
           d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
       </svg>
-      <!-- Desktop copy -->
-      <p class="text-sm text-white/80 hidden md:block">
-        <span class="text-white font-medium">Weekly deep guides</span>
-        <span class="text-white/50 mx-1.5">·</span>
-        Japan, South Korea & beyond. No fluff, straight to the good stuff.
+      <p class="text-sm text-white/90 hidden md:block">
+        <span id="banner-typewriter" class="font-medium"></span><span class="opacity-60 animate-pulse">|</span>
       </p>
-      <!-- Mobile copy -->
-      <p class="text-sm text-white/80 md:hidden font-medium">Weekly deep travel guides</p>
+      <p class="text-sm text-white/90 md:hidden font-medium">Weekly deep travel guides</p>
     </div>
 
     <!-- Right: Form + close -->
     <div class="flex items-center gap-3 flex-shrink-0">
       <form id="banner-form" class="flex items-center gap-2">
-        <!-- Email input — hidden on small screens, shown from md up -->
         <input
           type="email"
           name="email"
           placeholder="your@email.com"
-          class="hidden md:block w-48 px-3 py-1 text-xs bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
+          class="hidden md:block w-44 px-3 py-1 text-xs bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
         />
         <button
           type="submit"
@@ -44,7 +38,6 @@
         </button>
       </form>
 
-      <!-- Dismiss -->
       <button
         id="banner-close"
         class="text-white/40 hover:text-white transition-colors flex-shrink-0"
@@ -57,49 +50,77 @@
     </div>
 
   </div>
-
-  <!-- Success state (shown after submit) -->
-  <div id="banner-success" class="hidden h-11 flex items-center justify-center">
-    <p class="text-sm text-white/80">
-      <span class="text-[var(--color-brand-400)]">✓</span>
-      You're on the list — first guide coming soon.
-    </p>
-  </div>
 </div>
 
 <script>
   const banner = document.getElementById('newsletter-banner');
   const form = document.getElementById('banner-form');
   const closeBtn = document.getElementById('banner-close');
-  const success = document.getElementById('banner-success');
+  const typewriterEl = document.getElementById('banner-typewriter');
 
-  // Check if already dismissed this session
   if (sessionStorage.getItem('newsletter-banner-dismissed')) {
     banner?.remove();
   }
 
-  // Dismiss
   closeBtn?.addEventListener('click', () => {
     banner?.remove();
     sessionStorage.setItem('newsletter-banner-dismissed', '1');
   });
 
-  // Submit — show success then slide away
   form?.addEventListener('submit', (e) => {
     e.preventDefault();
-    if (form && success) {
-      form.classList.add('hidden');
-      // Show success inside the banner div instead
-      if (banner) {
-        const inner = banner.querySelector('.max-w-6xl') as HTMLElement;
-        if (inner) {
-          inner.innerHTML = '<p class="text-sm text-white/80 text-center py-0.5">✓  You\'re on the list — first guide coming soon.</p>';
-        }
+    if (banner) {
+      const inner = banner.querySelector('.max-w-6xl') as HTMLElement;
+      if (inner) {
+        inner.innerHTML = '<p class="text-sm text-white/90 text-center py-0.5 w-full">✓ You\'re on the list — first guide coming soon.</p>';
       }
       setTimeout(() => {
-        banner?.remove();
+        banner.remove();
         sessionStorage.setItem('newsletter-banner-dismissed', '1');
       }, 3000);
     }
   });
+
+  // Typewriter animation
+  if (typewriterEl) {
+    const lines = [
+      'Weekly deep guides — Japan, South Korea & beyond.',
+      'The spots most travelers never find. Free, every week.',
+      'No listicles. No sponsored posts. Just the good stuff.',
+      'One destination. Deep. Every week.',
+      'The travel intel your friends wish they had.',
+      'Written for people who want to actually experience it.',
+      'Before your trip, not after.',
+    ];
+
+    let lineIdx = 0;
+    let charIdx = 0;
+    let deleting = false;
+    let pauseTicks = 0;
+
+    function tick() {
+      const line = lines[lineIdx];
+      if (!deleting && charIdx <= line.length) {
+        typewriterEl.textContent = line.slice(0, charIdx);
+        charIdx++;
+        if (charIdx > line.length) { pauseTicks = 28; deleting = false; }
+      } else if (pauseTicks > 0) {
+        pauseTicks--;
+        if (pauseTicks === 0) deleting = true;
+      } else if (deleting && charIdx >= 0) {
+        typewriterEl.textContent = line.slice(0, charIdx);
+        charIdx--;
+        if (charIdx < 0) {
+          deleting = false;
+          lineIdx = (lineIdx + 1) % lines.length;
+          charIdx = 0;
+          pauseTicks = 8;
+        }
+      }
+      const delay = deleting ? 22 : charIdx === line.length + 1 ? 1800 : 42;
+      setTimeout(tick, delay);
+    }
+
+    tick();
+  }
 </script>

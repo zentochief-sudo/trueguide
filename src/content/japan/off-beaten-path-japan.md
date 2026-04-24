@@ -7,6 +7,7 @@ publishDate: 2026-04-23
 heroImage: "/images/japan-kanazawa.jpg"
 readingTime: 12
 tags: ["hidden gems", "off beaten path", "kanazawa", "tohoku", "shikoku", "travel tips"]
+city: national
 ---
 
 Japan's tourist infrastructure is so good, so well-translated and so thoroughly documented that it's possible to do a two-week trip and never feel like you've discovered anything. The Golden Route — Tokyo, Kyoto, Osaka — is polished to a shine. Every photo opportunity is marked. Every food recommendation is on Google Maps with an English menu.

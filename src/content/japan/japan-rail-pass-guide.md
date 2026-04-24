@@ -7,6 +7,7 @@ publishDate: 2026-04-23
 heroImage: "/images/japan-shinkansen.jpg"
 readingTime: 10
 tags: ["transport", "jr pass", "shinkansen", "budget", "tips"]
+city: national
 ---
 
 Every Japan traveler ends up staring at the JR Pass website trying to decide whether to spend $465 before they've even landed. The forum advice is contradictory. The official site is confusing. And once you're in Japan, you can't buy it anymore (well, you can, but at a much higher price).

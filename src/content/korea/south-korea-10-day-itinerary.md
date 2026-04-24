@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 16
 heroImage: /images/korea-seoul-hero.jpg
 tags: [South Korea, itinerary, Seoul, Busan, Gyeongju, KTX, travel planning]
+city: national
 etsy_template:
   label: Download the South Korea 10-Day Planner
   url: https://www.etsy.com/shop/TrueGuide

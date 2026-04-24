@@ -15,6 +15,7 @@ const articleSchema = z.object({
     url: z.string(),
   }).optional(),
   tags: z.array(z.string()).default([]),
+  city: z.string().optional().default('national'),
 });
 
 export const collections = {

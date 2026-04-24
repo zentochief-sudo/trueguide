@@ -7,6 +7,7 @@ publishDate: 2026-04-22
 readingTime: 10
 heroImage: /images/korea-kdrama-hero.jpg
 tags: [K-drama, Seoul, filming locations, Crash Landing on You, Goblin, Itaewon Class, Korean culture]
+city: seoul
 ---
 
 There's a specific thing that happens when you visit a K-drama filming location. You recognize the street before you consciously realize why. Then it clicks — that corner, that café, those steps. And the show, which you watched on a laptop in a different country, is suddenly standing around you in three dimensions.

@@ -7,9 +7,13 @@ import SearchBar from '../components/SearchBar.astro';
 import { getCollection } from 'astro:content';
 
 const japanArticles = await getCollection('japan');
-const allArticles = [
-  ...japanArticles,
-].sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+// Try to get Korea articles (may be empty)
+let koreaArticles: typeof japanArticles = [];
+try { koreaArticles = await getCollection('korea'); } catch {}
+
+const allArticles = [...japanArticles, ...koreaArticles]
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
 const destinations = [
   {
@@ -24,9 +28,18 @@ const destinations = [
     slug: 'korea',
     tagline: 'Ancient temples, K-culture and food that changes your standards.',
     heroImage: '/images/korea-hero.jpg',
-    articleCount: 0,
+    articleCount: koreaArticles.length,
   },
 ];
+
+// Article data for search autocomplete
+const searchArticles = allArticles.map((a) => ({
+  title: a.data.title,
+  slug: a.id,
+  destination: a.data.destination,
+  category: a.data.category,
+  description: a.data.description,
+}));
 
 const tabs = [
   { id: 'all', label: 'All Guides' },
@@ -53,8 +66,8 @@ const tabs = [
         No recycled listicles. No sponsored fluff. Just the kind of guide your most well-traveled friend would write.
       </p>
 
-      <!-- Search bar -->
-      <SearchBar variant="hero" />
+      <!-- Search bar with article data for autocomplete -->
+      <SearchBar variant="hero" articles={searchArticles} />
 
       <div class="flex flex-col sm:flex-row gap-4 justify-center mt-8">
         <a href="/japan" class="bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-700)] text-white font-semibold px-8 py-3.5 rounded-xl transition-colors">
@@ -67,20 +80,16 @@ const tabs = [
     </div>
   </section>
 
-  <!-- Tabs + article grid — immediately below hero -->
+  <!-- Tabs + article grid -->
   <section class="max-w-6xl mx-auto px-6 pt-12 pb-8">
     <!-- Tab bar -->
     <div class="border-b border-[var(--color-border)] mb-8">
       <div class="flex gap-0 -mb-px" id="home-tabs">
         {tabs.map((tab, i) => (
           <button
-            class={[
-              'tab-btn whitespace-nowrap px-5 py-3 text-sm border-b-2 transition-colors',
-              i === 0
-                ? 'font-semibold border-[var(--color-brand-600)] text-[var(--color-brand-600)]'
-                : 'font-medium border-transparent text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)]',
-            ].join(' ')}
+            class="tab-btn px-5 py-3 text-sm border-b-2 whitespace-nowrap transition-colors"
             data-tab={tab.id}
+            style={i === 0 ? 'color: var(--color-brand-600); border-bottom-color: var(--color-brand-600); font-weight: 600;' : 'color: var(--color-text-muted); border-bottom-color: transparent; font-weight: 500;'}
           >
             {tab.label}
           </button>
@@ -88,15 +97,15 @@ const tabs = [
       </div>
     </div>
 
-    <!-- Empty state -->
-    <div id="empty-state" class="hidden text-center py-16">
-      <p class="text-[var(--color-text-muted)] text-sm">No guides found. Try a different search.</p>
+    <!-- Korea coming-soon state -->
+    <div id="korea-empty" class="hidden text-center py-20">
+      <p class="text-2xl font-bold mb-3 text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">South Korea</p>
+      <p class="text-[var(--color-text-muted)] text-sm max-w-xs mx-auto">First deep guides dropping soon. Subscribe to the newsletter to get notified.</p>
     </div>
 
-    <!-- Korea coming soon (shown when Korea tab active and no articles) -->
-    <div id="korea-empty" class="hidden text-center py-20">
-      <p class="text-2xl mb-3" style="font-family: var(--font-editorial)">South Korea</p>
-      <p class="text-[var(--color-text-muted)] text-sm max-w-xs mx-auto">First guides dropping soon. Subscribe to the newsletter to get notified.</p>
+    <!-- Empty search state -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <p class="text-[var(--color-text-muted)] text-sm">No guides found. Try a different search.</p>
     </div>
 
     <!-- Articles grid -->
@@ -117,11 +126,9 @@ const tabs = [
 
   <!-- Destinations -->
   <section class="max-w-6xl mx-auto px-6 py-12">
-    <div class="flex items-end justify-between mb-8">
-      <div>
-        <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-1">Where to go</p>
-        <h2 class="text-3xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">Destinations</h2>
-      </div>
+    <div class="mb-8">
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-1">Where to go</p>
+      <h2 class="text-3xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-editorial)">Destinations</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
       {destinations.map((dest) => (
@@ -146,69 +153,70 @@ const tabs = [
   let activeTab = 'all';
   let searchQuery = '';
 
+  const activeTabStyle = {
+    color: 'var(--color-brand-600)',
+    borderBottomColor: 'var(--color-brand-600)',
+    fontWeight: '600',
+  };
+  const inactiveTabStyle = {
+    color: 'var(--color-text-muted)',
+    borderBottomColor: 'transparent',
+    fontWeight: '500',
+  };
+
+  function applyTabStyles() {
+    tabBtns.forEach((btn) => {
+      const s = btn.dataset.tab === activeTab ? activeTabStyle : inactiveTabStyle;
+      btn.style.color = s.color;
+      btn.style.borderBottomColor = s.borderBottomColor;
+      btn.style.fontWeight = s.fontWeight;
+    });
+  }
+
   function applyFilters() {
     let visible = 0;
-    let isKoreaTabEmpty = false;
 
-    // Show/hide korea empty state
-    if (activeTab === 'korea' && !searchQuery) {
-      const koreaCards = Array.from(cards).filter((c) => c.dataset.destination === 'korea');
-      isKoreaTabEmpty = koreaCards.length === 0;
-    }
+    // Korea empty-state: no Korea articles and Korea tab active
+    const koreaCards = Array.from(cards).filter((c) => c.dataset.destination === 'korea');
+    const showKoreaEmpty = activeTab === 'korea' && koreaCards.length === 0 && !searchQuery;
 
     cards.forEach((card) => {
       const matchesTab = activeTab === 'all' || card.dataset.destination === activeTab;
       const matchesSearch =
         !searchQuery ||
-        card.dataset.title?.includes(searchQuery) ||
-        card.dataset.description?.includes(searchQuery);
+        (card.dataset.title ?? '').includes(searchQuery) ||
+        (card.dataset.description ?? '').includes(searchQuery);
 
       const show = matchesTab && matchesSearch;
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
 
-    if (grid) grid.classList.toggle('hidden', isKoreaTabEmpty);
-    if (koreaEmpty) koreaEmpty.classList.toggle('hidden', !(isKoreaTabEmpty && !searchQuery));
-    if (emptyState) {
-      const showEmpty = visible === 0 && !isKoreaTabEmpty;
-      emptyState.classList.toggle('hidden', !showEmpty);
-    }
+    if (grid) grid.style.display = showKoreaEmpty ? 'none' : '';
+    if (koreaEmpty) koreaEmpty.style.display = showKoreaEmpty ? '' : 'none';
+    if (emptyState) emptyState.style.display = (!showKoreaEmpty && visible === 0) ? '' : 'none';
   }
 
   function setActiveTab(tab: string) {
     activeTab = tab;
-    tabBtns.forEach((btn) => {
-      const isActive = btn.dataset.tab === tab;
-      btn.classList.toggle('border-[var(--color-brand-600)]', isActive);
-      btn.classList.toggle('text-[var(--color-brand-600)]', isActive);
-      btn.classList.toggle('font-semibold', isActive);
-      btn.classList.toggle('border-transparent', !isActive);
-      btn.classList.toggle('text-[var(--color-text-muted)]', !isActive);
-      btn.classList.toggle('font-medium', !isActive);
-    });
+    applyTabStyles();
     applyFilters();
   }
+
+  // Initialise (already styled inline in HTML for first load, but call for consistency)
+  applyFilters();
 
   tabBtns.forEach((btn) => {
     btn.addEventListener('click', () => setActiveTab(btn.dataset.tab!));
   });
 
-  // Respond to search from the hero SearchBar
+  // Respond to search from hero SearchBar
   document.addEventListener('trueguide:search', ((e: CustomEvent) => {
-    searchQuery = e.detail.query;
-    // When searching, reset tab visually to "All" so all destinations are searched
+    searchQuery = e.detail.query ?? '';
+    // When searching, widen to all destinations
     if (searchQuery) {
       activeTab = 'all';
-      tabBtns.forEach((btn) => {
-        const isAll = btn.dataset.tab === 'all';
-        btn.classList.toggle('border-[var(--color-brand-600)]', isAll);
-        btn.classList.toggle('text-[var(--color-brand-600)]', isAll);
-        btn.classList.toggle('font-semibold', isAll);
-        btn.classList.toggle('border-transparent', !isAll);
-        btn.classList.toggle('text-[var(--color-text-muted)]', !isAll);
-        btn.classList.toggle('font-medium', !isAll);
-      });
+      applyTabStyles();
     }
     applyFilters();
   }) as EventListener);

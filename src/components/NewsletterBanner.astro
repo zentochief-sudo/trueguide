@@ -1,0 +1,105 @@
+<!--
+  Slim full-width newsletter acquisition strip.
+  Shown below the header on every page.
+  Dismissible per session.
+  Replace form action with Beehiiv embed once account is active.
+-->
+<div
+  id="newsletter-banner"
+  class="bg-[var(--color-brand-900)] text-white border-b border-[var(--color-brand-700)]"
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-11 flex items-center justify-between gap-4">
+
+    <!-- Left: Icon + copy -->
+    <div class="flex items-center gap-2.5 min-w-0">
+      <svg class="w-4 h-4 text-[var(--color-brand-400)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+      </svg>
+      <!-- Desktop copy -->
+      <p class="text-sm text-white/80 hidden md:block">
+        <span class="text-white font-medium">Weekly deep guides</span>
+        <span class="text-white/50 mx-1.5">·</span>
+        Japan, South Korea & beyond. No fluff, straight to the good stuff.
+      </p>
+      <!-- Mobile copy -->
+      <p class="text-sm text-white/80 md:hidden font-medium">Weekly deep travel guides</p>
+    </div>
+
+    <!-- Right: Form + close -->
+    <div class="flex items-center gap-3 flex-shrink-0">
+      <form id="banner-form" class="flex items-center gap-2">
+        <!-- Email input — hidden on small screens, shown from md up -->
+        <input
+          type="email"
+          name="email"
+          placeholder="your@email.com"
+          class="hidden md:block w-48 px-3 py-1 text-xs bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
+        />
+        <button
+          type="submit"
+          class="text-xs font-semibold text-[var(--color-brand-900)] bg-white hover:bg-white/90 px-3.5 py-1.5 rounded-lg whitespace-nowrap transition-colors"
+        >
+          Subscribe free →
+        </button>
+      </form>
+
+      <!-- Dismiss -->
+      <button
+        id="banner-close"
+        class="text-white/40 hover:text-white transition-colors flex-shrink-0"
+        aria-label="Dismiss"
+      >
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+
+  </div>
+
+  <!-- Success state (shown after submit) -->
+  <div id="banner-success" class="hidden h-11 flex items-center justify-center">
+    <p class="text-sm text-white/80">
+      <span class="text-[var(--color-brand-400)]">✓</span>
+      You're on the list — first guide coming soon.
+    </p>
+  </div>
+</div>
+
+<script>
+  const banner = document.getElementById('newsletter-banner');
+  const form = document.getElementById('banner-form');
+  const closeBtn = document.getElementById('banner-close');
+  const success = document.getElementById('banner-success');
+
+  // Check if already dismissed this session
+  if (sessionStorage.getItem('newsletter-banner-dismissed')) {
+    banner?.remove();
+  }
+
+  // Dismiss
+  closeBtn?.addEventListener('click', () => {
+    banner?.remove();
+    sessionStorage.setItem('newsletter-banner-dismissed', '1');
+  });
+
+  // Submit — show success then slide away
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (form && success) {
+      form.classList.add('hidden');
+      // Show success inside the banner div instead
+      if (banner) {
+        const inner = banner.querySelector('.max-w-6xl') as HTMLElement;
+        if (inner) {
+          inner.innerHTML = '<p class="text-sm text-white/80 text-center py-0.5">✓  You\'re on the list — first guide coming soon.</p>';
+        }
+      }
+      setTimeout(() => {
+        banner?.remove();
+        sessionStorage.setItem('newsletter-banner-dismissed', '1');
+      }, 3000);
+    }
+  });
+</script>

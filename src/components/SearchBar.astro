@@ -1,10 +1,19 @@
 ---
+interface ArticleResult {
+  title: string;
+  slug: string;
+  destination: string;
+  category: string;
+  description: string;
+}
+
 interface Props {
   destination?: string;
   variant?: 'hero' | 'compact';
+  articles?: ArticleResult[];
 }
 
-const { destination, variant = 'hero' } = Astro.props;
+const { destination, variant = 'hero', articles = [] } = Astro.props;
 
 const homePlaceholders = [
   'Where are you headed?',
@@ -20,8 +29,8 @@ const japanPlaceholders = [
   'Search Japan guides...',
   '2-week Japan itinerary...',
   'JR Pass — worth it?',
-  'Best hidden spots in Japan...',
-  'Cherry blossom guide...',
+  'Hidden spots in Japan...',
+  'Cherry blossom season...',
   'Kanazawa travel tips...',
 ];
 
@@ -30,7 +39,7 @@ const koreaPlaceholders = [
   'Seoul food guide...',
   'Best time to visit Korea...',
   'Busan travel tips...',
-  'Korean temple stay...',
+  'K-drama filming locations...',
 ];
 
 const placeholderMap: Record<string, string[]> = {
@@ -49,10 +58,12 @@ const isHero = variant === 'hero';
   class={`search-bar-wrapper relative ${isHero ? 'w-full max-w-2xl mx-auto' : 'w-full max-w-sm'}`}
   data-search-bar
   data-destination={destination ?? 'all'}
+  data-articles={JSON.stringify(articles)}
 >
   <div class="relative flex items-center">
+    <!-- Magnifying glass icon (same style both variants) -->
     <svg
-      class={`absolute left-4 pointer-events-none flex-shrink-0 ${isHero ? 'w-5 h-5 text-white/50' : 'w-4 h-4 text-[var(--color-text-muted)]'}`}
+      class={`absolute left-4 pointer-events-none flex-shrink-0 text-[var(--color-text-muted)] ${isHero ? 'w-5 h-5' : 'w-4 h-4'}`}
       fill="none"
       stroke="currentColor"
       viewBox="0 0 24 24"
@@ -60,6 +71,7 @@ const isHero = variant === 'hero';
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
         d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
     </svg>
+
     <input
       type="text"
       autocomplete="off"
@@ -68,39 +80,136 @@ const isHero = variant === 'hero';
       data-placeholders={JSON.stringify(placeholders)}
       placeholder={placeholders[0]}
       class={isHero
-        ? 'w-full pl-12 pr-5 py-4 bg-white/10 border border-white/20 backdrop-blur-sm text-white placeholder-white/40 rounded-2xl text-base focus:outline-none focus:bg-white/15 focus:border-white/40 transition-all'
+        ? 'w-full pl-12 pr-5 py-4 bg-white border border-white/80 text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] rounded-2xl text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-200)] transition-all'
         : 'w-full pl-10 pr-4 py-2.5 bg-white border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] rounded-xl text-sm focus:outline-none focus:border-[var(--color-brand-600)] focus:ring-2 focus:ring-[var(--color-brand-100)] transition-all'
       }
     />
   </div>
+
+  <!-- Dropdown autocomplete -->
+  <div
+    data-search-dropdown
+    class="absolute left-0 right-0 top-full mt-2 bg-white rounded-xl shadow-xl border border-[var(--color-border)] z-50 overflow-hidden hidden"
+    role="listbox"
+  ></div>
 </div>
 
 <script>
-  document.querySelectorAll('[data-search-bar]').forEach((wrapper) => {
+  const sleep = (ms: number) => new Promise<void>((r) => setTimeout(r, ms));
+
+  document.querySelectorAll('[data-search-bar]').forEach((wrapperEl) => {
+    const wrapper = wrapperEl as HTMLElement;
     const input = wrapper.querySelector('[data-search-input]') as HTMLInputElement | null;
-    if (!input) return;
+    const dropdown = wrapper.querySelector('[data-search-dropdown]') as HTMLElement | null;
+    if (!input || !dropdown) return;
 
     const placeholders = JSON.parse(input.dataset.placeholders ?? '[]') as string[];
+    const articles = JSON.parse(wrapper.dataset.articles ?? '[]') as {
+      title: string; slug: string; destination: string; category: string; description: string;
+    }[];
+
     let idx = 0;
+    let animating = false;
 
-    const interval = setInterval(() => {
-      idx = (idx + 1) % placeholders.length;
-      // Only rotate when empty and not focused
-      if (!input.value && document.activeElement !== input) {
-        input.setAttribute('placeholder', placeholders[idx]);
+    // --- Typewriter animation ---
+    async function typewriter(newText: string) {
+      if (animating) return;
+      animating = true;
+      const current = input!.getAttribute('placeholder') ?? '';
+
+      // Erase current
+      for (let i = current.length; i >= 0; i--) {
+        if (document.activeElement === input || input!.value) { animating = false; return; }
+        input!.setAttribute('placeholder', i > 0 ? current.slice(0, i) + '|' : '');
+        await sleep(18);
       }
-    }, 2800);
+      // Type new
+      for (let i = 0; i <= newText.length; i++) {
+        if (document.activeElement === input || input!.value) { animating = false; return; }
+        input!.setAttribute('placeholder', newText.slice(0, i) + (i < newText.length ? '|' : ''));
+        await sleep(38);
+      }
+      input!.setAttribute('placeholder', newText);
+      animating = false;
+    }
 
-    input.addEventListener('focus', () => clearInterval(interval), { once: true });
+    // Rotation loop
+    (async () => {
+      while (true) {
+        await sleep(3200);
+        if (document.activeElement !== input && !input!.value) {
+          idx = (idx + 1) % placeholders.length;
+          typewriter(placeholders[idx]);
+        }
+      }
+    })();
 
+    // --- Dropdown ---
+    const mapIcon = `<svg class="w-4 h-4 text-[var(--color-text-muted)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/></svg>`;
+
+    function renderDropdown(matches: typeof articles) {
+      if (matches.length === 0) {
+        dropdown!.innerHTML = '<p class="px-4 py-4 text-sm text-[var(--color-text-muted)] text-center">No guides found.</p>';
+      } else {
+        dropdown!.innerHTML = matches.map((a) => `
+          <a href="/${a.destination.toLowerCase()}/${a.slug}"
+            class="flex items-center gap-3 px-4 py-3 hover:bg-[var(--color-brand-50)] transition-colors border-b border-[var(--color-border)] last:border-0 group"
+            role="option"
+          >
+            ${mapIcon}
+            <div class="min-w-0">
+              <p class="text-sm font-medium text-[var(--color-text-primary)] truncate group-hover:text-[var(--color-brand-600)] transition-colors">${a.title}</p>
+              <p class="text-xs text-[var(--color-text-muted)] mt-0.5">${a.destination} · ${a.category}</p>
+            </div>
+          </a>
+        `).join('');
+      }
+      dropdown!.classList.remove('hidden');
+    }
+
+    function hideDropdown() {
+      dropdown!.classList.add('hidden');
+      dropdown!.innerHTML = '';
+    }
+
+    // Input event
     input.addEventListener('input', () => {
       const query = input.value.toLowerCase().trim();
+
+      // Dispatch for page-level grid filtering
       document.dispatchEvent(
         new CustomEvent('trueguide:search', {
-          detail: { query, destination: (wrapper as HTMLElement).dataset.destination },
+          detail: { query, destination: wrapper.dataset.destination },
           bubbles: true,
         })
       );
+
+      if (query.length < 2) { hideDropdown(); return; }
+
+      const matches = articles
+        .filter((a) =>
+          a.title.toLowerCase().includes(query) ||
+          a.description.toLowerCase().includes(query) ||
+          a.destination.toLowerCase().includes(query) ||
+          a.category.toLowerCase().includes(query)
+        )
+        .slice(0, 7);
+
+      renderDropdown(matches);
+    });
+
+    // Close dropdown on outside click
+    document.addEventListener('click', (e) => {
+      if (!wrapper.contains(e.target as Node)) hideDropdown();
+    });
+
+    // Escape clears
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        input.value = '';
+        hideDropdown();
+        document.dispatchEvent(new CustomEvent('trueguide:search', { detail: { query: '' }, bubbles: true }));
+      }
     });
   });
 </script>

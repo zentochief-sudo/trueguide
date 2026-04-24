@@ -13,10 +13,9 @@ try { koreaArticles = await getCollection('korea'); } catch {}
 const allArticles = [...japanArticles, ...koreaArticles]
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
-const tabs = [
-  { id: 'all', label: 'All Guides' },
-  { id: 'japan', label: 'Japan' },
-  { id: 'korea', label: 'South Korea' },
+const destinations = [
+  { label: 'Japan', href: '/japan' },
+  { label: 'South Korea', href: '/korea' },
 ];
 ---
 
@@ -25,36 +24,30 @@ const tabs = [
   description="GoinAtlas — deep, honest travel guides for Japan, South Korea and beyond. Itineraries, food guides, and travel planning templates."
 >
   <!-- Hero: headline + world map -->
-  <section class="bg-white border-b border-[var(--color-border)] py-12 md:py-16 px-6">
+  <section class="bg-white border-b border-[var(--color-border)] py-6 md:py-8 px-6">
     <div class="max-w-4xl mx-auto text-center">
       <h1
-        class="text-[40px] leading-tight font-black text-[var(--color-text-primary)] mb-4"
+        class="text-[40px] leading-tight font-black text-[var(--color-text-primary)] mb-6"
         style="font-family: var(--font-display); font-weight: 900;"
       >
-        Go deeper.<br/>Travel better.
+        Travel like someone<br/>who actually knows.
       </h1>
-      <p class="text-base text-[var(--color-text-secondary)] max-w-md mx-auto mb-10">
-        Honest guides for people who want to actually experience a place.
-      </p>
       <WorldMap />
     </div>
   </section>
 
   <!-- Tabs + article grid -->
   <section class="max-w-6xl mx-auto px-6 pt-10 pb-8">
-    <!-- Tab bar -->
+    <!-- Destination tabs — navigate to country page -->
     <div class="border-b border-[var(--color-border)] mb-8">
-      <div class="flex gap-0 -mb-px" id="home-tabs">
-        {tabs.map((tab, i) => (
-          <button
-            class="tab-btn px-5 py-3 text-sm border-b-2 whitespace-nowrap transition-colors"
-            data-tab={tab.id}
-            style={i === 0
-              ? 'color: var(--color-brand-600); border-bottom-color: var(--color-brand-600); font-weight: 600;'
-              : 'color: var(--color-text-muted); border-bottom-color: transparent; font-weight: 500;'}
+      <div class="flex gap-0 -mb-px">
+        {destinations.map((dest) => (
+          <a
+            href={dest.href}
+            class="px-5 py-3 text-sm border-b-2 whitespace-nowrap transition-colors font-medium text-[var(--color-text-secondary)] border-b-transparent hover:text-[var(--color-text-primary)] hover:border-b-[var(--color-brand-600)]"
           >
-            {tab.label}
-          </button>
+            {dest.label}
+          </a>
         ))}
       </div>
     </div>
@@ -87,64 +80,3 @@ const tabs = [
   </section>
 </BaseLayout>
 
-<script>
-  const tabBtns = document.querySelectorAll<HTMLButtonElement>('.tab-btn');
-  const cards = document.querySelectorAll<HTMLElement>('[data-article-card]');
-  const emptyState = document.getElementById('empty-state');
-
-  let activeTab = 'all';
-
-  const activeTabStyle = {
-    color: 'var(--color-brand-600)',
-    borderBottomColor: 'var(--color-brand-600)',
-    fontWeight: '600',
-  };
-  const inactiveTabStyle = {
-    color: 'var(--color-text-muted)',
-    borderBottomColor: 'transparent',
-    fontWeight: '500',
-  };
-
-  function applyTabStyles() {
-    tabBtns.forEach((btn) => {
-      const s = btn.dataset.tab === activeTab ? activeTabStyle : inactiveTabStyle;
-      btn.style.color = s.color;
-      btn.style.borderBottomColor = s.borderBottomColor;
-      btn.style.fontWeight = s.fontWeight;
-    });
-  }
-
-  function applyFilters() {
-    let visible = 0;
-    cards.forEach((card) => {
-      const matchesTab = activeTab === 'all' || card.dataset.destination === activeTab;
-      const show = matchesTab;
-      card.style.display = show ? '' : 'none';
-      if (show) visible++;
-    });
-    if (emptyState) emptyState.style.display = visible === 0 ? '' : 'none';
-  }
-
-  function setActiveTab(tab: string) {
-    activeTab = tab;
-    applyTabStyles();
-    applyFilters();
-  }
-
-  applyFilters();
-
-  tabBtns.forEach((btn) => {
-    btn.addEventListener('click', () => setActiveTab(btn.dataset.tab!));
-  });
-
-  // Search from header
-  document.addEventListener('trueguide:search', ((e: CustomEvent) => {
-    const q = (e.detail.query ?? '').toLowerCase();
-    cards.forEach((card) => {
-      const match = !q ||
-        (card.dataset.title ?? '').includes(q) ||
-        (card.dataset.description ?? '').includes(q);
-      card.style.display = match ? '' : 'none';
-    });
-  }) as EventListener);
-</script>

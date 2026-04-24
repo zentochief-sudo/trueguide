@@ -2,17 +2,18 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import SearchBar from '../../components/SearchBar.astro';
 import { getCollection } from 'astro:content';
 
 const articles = await getCollection('japan');
 const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
-const categories = ['Itinerary', 'Food', 'Tips', 'Culture', 'Budget', 'Transport'] as const;
+const categories = ['Itinerary', 'Transport', 'Tips', 'Culture', 'Food', 'Budget'] as const;
 
-const byCategory = categories.reduce((acc, cat) => {
-  acc[cat] = sorted.filter((a) => a.data.category === cat);
-  return acc;
-}, {} as Record<string, typeof sorted>);
+// Only include categories that have articles
+const activeCategories = categories.filter((cat) =>
+  sorted.some((a) => a.data.category === cat)
+);
 ---
 
 <BaseLayout
@@ -21,7 +22,7 @@ const byCategory = categories.reduce((acc, cat) => {
   image="/images/japan-hero.jpg"
 >
   <!-- Destination hero -->
-  <div class="relative h-[50vh] min-h-[380px] overflow-hidden bg-gray-900">
+  <div class="relative h-[50vh] min-h-[380px] overflow-hidden bg-[var(--color-brand-900)]">
     <img src="/images/japan-hero.jpg" alt="Japan" class="w-full h-full object-cover opacity-70" />
     <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
     <div class="absolute bottom-0 left-0 right-0 max-w-4xl mx-auto px-6 pb-12">
@@ -33,50 +34,109 @@ const byCategory = categories.reduce((acc, cat) => {
     </div>
   </div>
 
-  <div class="max-w-6xl mx-auto px-6 py-16">
-    <!-- All articles grid -->
-    <div class="mb-14">
-      <h2 class="text-2xl font-bold text-[var(--color-text-primary)] mb-6" style="font-family: var(--font-editorial)">
-        All Japan Guides
-      </h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {sorted.map((article) => (
-          <ArticleCard
-            title={article.data.title}
-            description={article.data.description}
-            destination={article.data.destination}
-            category={article.data.category}
-            slug={article.id}
-            heroImage={article.data.heroImage}
-            readingTime={article.data.readingTime}
-          />
+  <!-- Tabs + search bar + articles grid -->
+  <div class="max-w-6xl mx-auto px-6 py-10">
+
+    <!-- Tab bar + search -->
+    <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 border-b border-[var(--color-border)] mb-8 pb-0">
+      <div class="flex gap-0 -mb-px overflow-x-auto scrollbar-none" id="category-tabs">
+        <button
+          class="tab-btn whitespace-nowrap px-4 py-3 text-sm font-semibold border-b-2 border-[var(--color-brand-600)] text-[var(--color-brand-600)] transition-colors"
+          data-tab="all"
+        >
+          All Guides
+        </button>
+        {activeCategories.map((cat) => (
+          <button
+            class="tab-btn whitespace-nowrap px-4 py-3 text-sm font-medium text-[var(--color-text-muted)] border-b-2 border-transparent hover:text-[var(--color-text-primary)] transition-colors"
+            data-tab={cat.toLowerCase()}
+          >
+            {cat}
+          </button>
         ))}
+      </div>
+
+      <div class="pb-3 sm:pb-2 sm:ml-4 flex-shrink-0">
+        <SearchBar destination="japan" variant="compact" />
       </div>
     </div>
 
-    <!-- By category -->
-    {categories.map((cat) => byCategory[cat]?.length > 0 && (
-      <div class="mb-14">
-        <h2 class="text-xl font-bold text-[var(--color-text-primary)] mb-6 pb-3 border-b border-[var(--color-border)]" style="font-family: var(--font-editorial)">
-          {cat}
-        </h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {byCategory[cat].map((article) => (
-            <ArticleCard
-              title={article.data.title}
-              description={article.data.description}
-              destination={article.data.destination}
-              category={article.data.category}
-              slug={article.id}
-              heroImage={article.data.heroImage}
-              readingTime={article.data.readingTime}
-            />
-          ))}
-        </div>
-      </div>
-    ))}
+    <!-- Empty state (hidden by default, shown when no results) -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <p class="text-[var(--color-text-muted)] text-sm">No guides found. Try a different search.</p>
+    </div>
+
+    <!-- Articles flat grid -->
+    <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {sorted.map((article) => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          destination={article.data.destination}
+          category={article.data.category}
+          slug={article.id}
+          heroImage={article.data.heroImage}
+          readingTime={article.data.readingTime}
+        />
+      ))}
+    </div>
 
     <!-- Newsletter -->
-    <NewsletterSignup destination="Japan" />
+    <div class="mt-20">
+      <NewsletterSignup destination="Japan" />
+    </div>
   </div>
 </BaseLayout>
+
+<script>
+  const tabBtns = document.querySelectorAll<HTMLButtonElement>('.tab-btn');
+  const cards = document.querySelectorAll<HTMLElement>('[data-article-card]');
+  const emptyState = document.getElementById('empty-state');
+  let activeTab = 'all';
+  let searchQuery = '';
+
+  function applyFilters() {
+    let visible = 0;
+
+    cards.forEach((card) => {
+      const matchesTab =
+        activeTab === 'all' || card.dataset.category === activeTab;
+      const matchesSearch =
+        !searchQuery ||
+        card.dataset.title?.includes(searchQuery) ||
+        card.dataset.description?.includes(searchQuery);
+
+      const show = matchesTab && matchesSearch;
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    if (emptyState) {
+      emptyState.classList.toggle('hidden', visible > 0);
+    }
+  }
+
+  function setActiveTab(tab: string) {
+    activeTab = tab;
+    tabBtns.forEach((btn) => {
+      const isActive = btn.dataset.tab === tab;
+      btn.classList.toggle('border-[var(--color-brand-600)]', isActive);
+      btn.classList.toggle('text-[var(--color-brand-600)]', isActive);
+      btn.classList.toggle('font-semibold', isActive);
+      btn.classList.toggle('border-transparent', !isActive);
+      btn.classList.toggle('text-[var(--color-text-muted)]', !isActive);
+      btn.classList.toggle('font-medium', !isActive);
+    });
+    applyFilters();
+  }
+
+  tabBtns.forEach((btn) => {
+    btn.addEventListener('click', () => setActiveTab(btn.dataset.tab!));
+  });
+
+  // Listen for search events from SearchBar component
+  document.addEventListener('trueguide:search', ((e: CustomEvent) => {
+    searchQuery = e.detail.query;
+    applyFilters();
+  }) as EventListener);
+</script>

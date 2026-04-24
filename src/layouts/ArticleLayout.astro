@@ -3,6 +3,13 @@ import BaseLayout from './BaseLayout.astro';
 import EtsyCTA from '../components/EtsyCTA.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import Comments from '../components/Comments.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
 
 interface Props {
   title: string;
@@ -13,6 +20,7 @@ interface Props {
   heroImage?: string;
   readingTime: number;
   etsy_template?: { label: string; url: string };
+  headings?: Heading[];
 }
 
 const {
@@ -24,6 +32,7 @@ const {
   heroImage,
   readingTime,
   etsy_template,
+  headings = [],
 } = Astro.props;
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
@@ -31,11 +40,13 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
   month: 'long',
   day: 'numeric',
 });
+
+const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1;
 ---
 
 <BaseLayout title={title} description={description} image={heroImage}>
   <!-- Hero -->
-  <div class="relative w-full h-[60vh] min-h-[400px] max-h-[600px] overflow-hidden bg-gray-900">
+  <div class="relative w-full h-[60vh] min-h-[400px] max-h-[600px] overflow-hidden bg-[var(--color-brand-900)]">
     {heroImage && (
       <img
         src={heroImage}
@@ -67,10 +78,26 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
   </div>
 
   <!-- Article body -->
-  <div class="max-w-4xl mx-auto px-6 py-12">
-    <div class="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-12">
+  <div class="max-w-7xl mx-auto px-6 py-12">
+    <!--
+      Grid layout:
+      - Mobile:  1 col (TOC hidden, sidebar hidden)
+      - lg:      [1fr 280px]  — TOC still hidden
+      - xl:      [200px 1fr 280px]  — TOC visible (only when headings exist)
+    -->
+    <div class={`grid gap-10 ${hasToc ? 'grid-cols-1 lg:grid-cols-[1fr_280px] xl:grid-cols-[200px_1fr_280px]' : 'grid-cols-1 lg:grid-cols-[1fr_280px]'}`}>
+
+      <!-- TOC — left column, only on xl+ -->
+      {hasToc && (
+        <div class="hidden xl:block order-first">
+          <div class="sticky top-8 pt-2">
+            <TableOfContents headings={headings} />
+          </div>
+        </div>
+      )}
+
       <!-- Main content -->
-      <div>
+      <div class="min-w-0">
         <!-- Etsy CTA — top of article -->
         {etsy_template && (
           <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
@@ -96,7 +123,7 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
         </div>
       </div>
 
-      <!-- Sidebar -->
+      <!-- Right sidebar -->
       <aside class="hidden lg:block">
         <div class="sticky top-8 space-y-6">
           {etsy_template && (
@@ -124,6 +151,7 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
           </div>
         </div>
       </aside>
+
     </div>
   </div>
 </BaseLayout>

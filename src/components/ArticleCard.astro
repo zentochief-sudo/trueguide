@@ -12,7 +12,15 @@ interface Props {
 const { title, description, destination, category, slug, heroImage, readingTime } = Astro.props;
 ---
 
-<a href={`/${destination.toLowerCase()}/${slug}`} class="group block bg-white rounded-xl overflow-hidden border border-[var(--color-border)] hover:shadow-md transition-shadow">
+<a
+  href={`/${destination.toLowerCase()}/${slug}`}
+  class="group block bg-white rounded-xl overflow-hidden border border-[var(--color-border)] hover:shadow-md transition-shadow"
+  data-article-card
+  data-title={title.toLowerCase()}
+  data-description={description.toLowerCase()}
+  data-destination={destination.toLowerCase()}
+  data-category={category.toLowerCase()}
+>
   <!-- Image -->
   <div class="relative h-52 overflow-hidden bg-gray-100">
     {heroImage ? (

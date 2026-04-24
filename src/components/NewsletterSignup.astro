@@ -1,47 +1,84 @@
 ---
 interface Props {
-  destination?: string; // If provided, shows destination-specific copy
+  destination?: string;
 }
 
 const { destination } = Astro.props;
 
-const title = destination
-  ? `Get the best ${destination} guides in your inbox`
-  : 'Discover more. One destination at a time.';
+const headline = destination
+  ? `Get the best ${destination} guides — before you even land.`
+  : 'The travel intel your friends wish they had.';
 
-const description = destination
-  ? `New articles, hidden spots and travel tips for ${destination} — straight to you, no spam.`
-  : 'New deep guides every week. Choose the destinations you care about.';
+const subline = destination
+  ? `Real itineraries. Hidden spots. Honest pricing. Everything that took us hours to find, delivered to your inbox before your trip.`
+  : `Every week: one deep guide, zero filler. The spots worth the flight, the timing that matters, the logistics no one explains.`;
+
+const valueProps = destination
+  ? [
+      `New ${destination} guides every month`,
+      'Hidden spots & honest logistics',
+      'Seasonal tips & best-time alerts',
+    ]
+  : [
+      'One deep guide per destination, weekly',
+      'Hidden spots most travelers miss',
+      'Real itineraries, not recycled lists',
+    ];
+
+const ctaLabel = destination ? `Get ${destination} guides →` : 'Send me the guides →';
 ---
 
-<div id="newsletter" class="bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] rounded-2xl p-8">
-  <div class="max-w-xl">
-    <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-brand-600)] mb-2">Newsletter</p>
-    <h3 class="text-xl font-bold text-[var(--color-text-primary)] mb-2" style="font-family: var(--font-editorial)">
-      {title}
-    </h3>
-    <p class="text-sm text-[var(--color-text-secondary)] mb-6 leading-relaxed">
-      {description}
+<div id="newsletter" class="relative bg-[var(--color-brand-900)] rounded-2xl overflow-hidden p-8 md:p-10">
+  <!-- Background texture -->
+  <div class="absolute inset-0 opacity-5"
+    style="background-image: radial-gradient(circle at 20% 50%, #fff 1px, transparent 1px), radial-gradient(circle at 80% 20%, #fff 1px, transparent 1px); background-size: 48px 48px;">
+  </div>
+
+  <div class="relative max-w-2xl">
+    <!-- Label -->
+    <p class="text-xs font-semibold uppercase tracking-[0.25em] text-[var(--color-brand-400)] mb-4">
+      Free newsletter
     </p>
 
-    <!-- Beehiiv embed placeholder — replace with actual embed code from Beehiiv dashboard -->
+    <!-- Headline -->
+    <h3 class="text-2xl md:text-3xl font-bold text-white leading-tight mb-3" style="font-family: var(--font-editorial)">
+      {headline}
+    </h3>
+
+    <!-- Subline -->
+    <p class="text-white/60 text-sm md:text-base leading-relaxed mb-6">
+      {subline}
+    </p>
+
+    <!-- Value props -->
+    <ul class="space-y-2 mb-8">
+      {valueProps.map((prop) => (
+        <li class="flex items-center gap-3 text-sm text-white/80">
+          <svg class="w-4 h-4 text-[var(--color-brand-400)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+          </svg>
+          {prop}
+        </li>
+      ))}
+    </ul>
+
+    <!-- Form -->
+    <!-- TODO: Replace with Beehiiv embed once account is created -->
     <form class="flex flex-col sm:flex-row gap-3" id="newsletter-form">
       <input
         type="email"
         name="email"
         placeholder="your@email.com"
         required
-        class="flex-1 px-4 py-2.5 rounded-lg border border-[var(--color-border)] bg-white text-sm focus:outline-none focus:border-[var(--color-brand-500)] focus:ring-2 focus:ring-[var(--color-brand-100)]"
+        class="flex-1 px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-white/30 text-sm focus:outline-none focus:border-white/50 focus:bg-white/15 transition-all"
       />
       <button
         type="submit"
-        class="bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-700)] text-white text-sm font-semibold px-6 py-2.5 rounded-lg transition-colors whitespace-nowrap"
+        class="bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] text-white text-sm font-semibold px-6 py-3 rounded-xl transition-colors whitespace-nowrap"
       >
-        Subscribe →
+        {ctaLabel}
       </button>
     </form>
-    <p class="text-xs text-[var(--color-text-muted)] mt-3">No spam. Unsubscribe anytime.</p>
+    <p class="text-xs text-white/30 mt-3">No spam. Unsubscribe any time. Free forever.</p>
   </div>
 </div>
-
-<!-- TODO: Replace form above with Beehiiv embed once account is created -->

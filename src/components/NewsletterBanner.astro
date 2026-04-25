@@ -5,9 +5,9 @@
 -->
 <div
   id="newsletter-banner"
-  class="bg-[var(--color-brand-900)] text-white sticky top-16 z-40 border-b border-[var(--color-brand-700)]"
+  class="bg-[var(--color-brand-900)] text-white sticky top-20 z-40 border-b border-[var(--color-brand-700)]"
 >
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-11 flex items-center justify-between gap-4">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-4">
 
     <!-- Left: Icon + typewriter copy -->
     <div class="flex items-center gap-2.5 min-w-0">
@@ -28,11 +28,11 @@
           type="email"
           name="email"
           placeholder="your@email.com"
-          class="hidden md:block w-44 px-3 py-1 text-xs bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
+          class="hidden md:block w-48 px-3 py-2 text-sm bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
         />
         <button
           type="submit"
-          class="text-xs font-semibold text-[var(--color-brand-900)] bg-white hover:bg-white/90 px-3.5 py-1.5 rounded-lg whitespace-nowrap transition-colors"
+          class="text-sm font-semibold text-[var(--color-brand-900)] bg-white hover:bg-white/90 px-4 py-2 rounded-lg whitespace-nowrap transition-colors"
         >
           Subscribe free →
         </button>
@@ -103,7 +103,7 @@
       if (!deleting && charIdx <= line.length) {
         typewriterEl.textContent = line.slice(0, charIdx);
         charIdx++;
-        if (charIdx > line.length) { pauseTicks = 28; deleting = false; }
+        if (charIdx > line.length) { pauseTicks = 18; deleting = false; }
       } else if (pauseTicks > 0) {
         pauseTicks--;
         if (pauseTicks === 0) deleting = true;
@@ -117,7 +117,7 @@
           pauseTicks = 8;
         }
       }
-      const delay = deleting ? 22 : charIdx === line.length + 1 ? 1800 : 42;
+      const delay = deleting ? 14 : charIdx === line.length + 1 ? 900 : 28;
       setTimeout(tick, delay);
     }
 

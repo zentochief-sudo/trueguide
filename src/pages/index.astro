@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ArticleCard from '../components/ArticleCard.astro';
+import ArticleCarousel from '../components/ArticleCarousel.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import WorldMap from '../components/WorldMap.astro';
 import { getCollection } from 'astro:content';
@@ -12,6 +12,17 @@ try { koreaArticles = await getCollection('korea'); } catch {}
 
 const allArticles = [...japanArticles, ...koreaArticles]
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const carouselArticles = allArticles.map((a) => ({
+  title: a.data.title,
+  description: a.data.description,
+  destination: a.data.destination,
+  category: a.data.category,
+  slug: a.id,
+  heroImage: a.data.heroImage,
+  readingTime: a.data.readingTime,
+  city: a.data.city,
+}));
 
 const destinations = [
   { label: 'Japan', href: '/japan' },
@@ -36,15 +47,16 @@ const destinations = [
     </div>
   </section>
 
-  <!-- Tabs + article grid -->
+  <!-- Destination tabs + Popular guides carousel -->
   <section class="max-w-6xl mx-auto px-6 pt-10 pb-8">
+
     <!-- Destination tabs — navigate to country page -->
-    <div class="border-b border-[var(--color-border)] mb-8">
+    <div class="border-b border-[var(--color-border)] mb-10">
       <div class="flex gap-0 -mb-px">
         {destinations.map((dest) => (
           <a
             href={dest.href}
-            class="px-5 py-3 text-sm border-b-2 whitespace-nowrap transition-colors font-medium text-[var(--color-text-secondary)] border-b-transparent hover:text-[var(--color-text-primary)] hover:border-b-[var(--color-brand-600)]"
+            class="px-5 py-3 text-sm border-b-2 border-b-transparent whitespace-nowrap transition-colors font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-b-[var(--color-brand-600)]"
           >
             {dest.label}
           </a>
@@ -52,26 +64,19 @@ const destinations = [
       </div>
     </div>
 
-    <!-- Empty state -->
-    <div id="empty-state" class="hidden text-center py-16">
-      <p class="text-[var(--color-text-muted)] text-sm">No guides found.</p>
+    <!-- Popular guides -->
+    <div class="mb-6 flex items-baseline justify-between">
+      <h2
+        class="text-xl font-black text-[var(--color-text-primary)]"
+        style="font-family: var(--font-display); font-weight: 900;"
+      >
+        Popular guides
+      </h2>
+      <span class="text-xs text-[var(--color-text-muted)]">{allArticles.length} guides</span>
     </div>
 
-    <!-- Articles grid -->
-    <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {allArticles.map((article) => (
-        <ArticleCard
-          title={article.data.title}
-          description={article.data.description}
-          destination={article.data.destination}
-          category={article.data.category}
-          slug={article.id}
-          heroImage={article.data.heroImage}
-          readingTime={article.data.readingTime}
-          city={article.data.city}
-        />
-      ))}
-    </div>
+    <ArticleCarousel articles={carouselArticles} id="popular" />
+
   </section>
 
   <!-- Newsletter -->
@@ -79,4 +84,3 @@ const destinations = [
     <NewsletterSignup />
   </section>
 </BaseLayout>
-

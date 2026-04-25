@@ -9,7 +9,6 @@ import { getCollection } from 'astro:content';
 const articles = await getCollection('korea');
 const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
-// Build city list with counts
 const cityMap: Record<string, number> = {};
 for (const a of sorted) {
   const c = a.data.city ?? 'national';
@@ -31,10 +30,9 @@ const cities = cityOrder
   title="South Korea Travel Guides"
   description="Deep South Korea travel guides — Seoul, Busan, Gyeongju and beyond. Itineraries, food, K-culture and honest travel tips."
 >
-  <!-- Destination hero: map + headline -->
+  <!-- Hero: headline + map -->
   <div class="bg-white border-b border-[var(--color-border)] py-10 px-6">
     <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
-      <!-- Text -->
       <div class="flex-1 text-center md:text-left">
         <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
           {sorted.length} guides
@@ -45,11 +43,30 @@ const cities = cityOrder
         >
           South Korea
         </h1>
-        <p class="text-[var(--color-text-secondary)] max-w-sm">
+        <p class="text-[var(--color-text-secondary)] max-w-sm mb-5">
           Ancient temples, neon-lit alleys, and food that makes you reconsider every meal you've had before.
         </p>
+
+        <!-- Search scope checkbox -->
+        <label class="inline-flex items-center gap-2 cursor-pointer select-none group" id="scope-label">
+          <span class="relative flex items-center">
+            <input
+              type="checkbox"
+              id="search-scope-checkbox"
+              checked
+              class="peer sr-only"
+            />
+            <span class="w-4 h-4 rounded border-2 border-[var(--color-brand-600)] bg-white peer-checked:bg-[var(--color-brand-600)] transition-colors flex items-center justify-center flex-shrink-0">
+              <svg class="w-2.5 h-2.5 text-white hidden peer-checked:block" fill="none" viewBox="0 0 10 10">
+                <path d="M1.5 5l2.5 2.5 4.5-4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </span>
+          </span>
+          <span class="text-xs text-[var(--color-text-secondary)] group-hover:text-[var(--color-text-primary)] transition-colors">
+            Searching within <strong class="font-semibold">South Korea</strong>
+          </span>
+        </label>
       </div>
-      <!-- Map -->
       <div class="w-full md:w-64">
         <KoreaMap />
       </div>
@@ -59,14 +76,11 @@ const cities = cityOrder
   <!-- Sidebar + articles -->
   <div class="max-w-6xl mx-auto px-6 py-10">
     <div class="flex flex-col md:flex-row gap-10">
-      <!-- Sidebar -->
       <FilterSidebar cities={cities} destination="South Korea" />
 
-      <!-- Articles -->
       <div class="flex-1 min-w-0">
-        <!-- Empty state -->
         <div id="empty-state" class="hidden text-center py-16">
-          <p class="text-[var(--color-text-muted)] text-sm">No guides found for this city yet.</p>
+          <p class="text-[var(--color-text-muted)] text-sm">No guides found for this filter.</p>
         </div>
 
         <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -80,6 +94,7 @@ const cities = cityOrder
               heroImage={article.data.heroImage}
               readingTime={article.data.readingTime}
               city={article.data.city}
+              tags={article.data.tags}
             />
           ))}
         </div>
@@ -93,23 +108,67 @@ const cities = cityOrder
 </BaseLayout>
 
 <script>
-  const cards = document.querySelectorAll<HTMLElement>('[data-article-card]');
-  const emptyState = document.getElementById('empty-state');
-  const grid = document.getElementById('articles-grid');
+  const cards    = document.querySelectorAll<HTMLElement>('[data-article-card]');
+  const emptyEl  = document.getElementById('empty-state');
+  const gridEl   = document.getElementById('articles-grid');
+  const checkbox = document.getElementById('search-scope-checkbox') as HTMLInputElement;
 
-  function filterByCity(cityId: string) {
+  const typeKeywords: Record<string, string[]> = {
+    'food-drink':   ['food', 'cuisine', 'restaurant', 'eating', 'market', 'korean food', 'bbq', 'street food'],
+    'shrines':      ['shrine', 'haedong', 'temple'],
+    'onsen':        ['onsen', 'jjimjilbang', 'bath', 'sauna'],
+    'parks':        ['park', 'garden', 'namsan', 'hangang'],
+    'temples':      ['temple', 'buddhist', 'beomeosa', 'jogyesa'],
+    'castles':      ['castle', 'palace', 'gyeongbokgung', 'joseon'],
+    'architecture': ['architecture', 'hanok', 'bukchon', 'traditional'],
+    'crafts':       ['craft', 'artisan', 'pottery', 'insadong'],
+    'festivals':    ['festival', 'seasonal', 'cherry blossom'],
+    'nature':       ['nature', 'rural', 'island', 'jeju', 'taejongdae'],
+    'manga-anime':  ['k-drama', 'kdrama', 'filming', 'kpop', 'hallyu'],
+    'museums':      ['museum', 'theatre', 'art', 'exhibit', 'culture'],
+    'shopping':     ['shopping', 'market', 'myeongdong', 'hongdae', 'jagalchi'],
+    'history':      ['history', 'historical', 'palace', 'joseon', 'war'],
+    'luxury':       ['luxury', 'high-end', 'michelin', 'omakase'],
+  };
+
+  let activeCity: string = 'all';
+  let activeType: string | null = null;
+
+  function applyFilters() {
     let visible = 0;
     cards.forEach((card) => {
-      const cardCity = card.dataset.city ?? 'national';
-      const show = cityId === 'all' || cardCity === cityId;
+      const city    = card.dataset.city ?? 'national';
+      const tags    = card.dataset.tags ?? '';
+      const matchCity = activeCity === 'all' || city === activeCity;
+      let   matchType = true;
+      if (activeType) {
+        const kws = typeKeywords[activeType] ?? [];
+        matchType = kws.some((kw) => tags.includes(kw));
+      }
+      const show = matchCity && matchType;
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
-    if (emptyState) emptyState.style.display = visible === 0 ? '' : 'none';
-    if (grid) grid.style.display = visible === 0 ? 'none' : '';
+    if (emptyEl) emptyEl.style.display = visible === 0 ? '' : 'none';
+    if (gridEl)  gridEl.style.display  = visible === 0 ? 'none' : '';
   }
 
   document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
-    filterByCity(e.detail.city);
+    activeCity = e.detail.city;
+    applyFilters();
   }) as EventListener);
+
+  document.addEventListener('goinatlas:typeFilter', ((e: CustomEvent) => {
+    activeType = e.detail.type;
+    applyFilters();
+  }) as EventListener);
+
+  function updateScope() {
+    document.dispatchEvent(new CustomEvent('goinatlas:searchScope', {
+      detail: { destination: checkbox?.checked ? 'South Korea' : null },
+    }));
+  }
+
+  checkbox?.addEventListener('change', updateScope);
+  document.addEventListener('DOMContentLoaded', updateScope);
 </script>

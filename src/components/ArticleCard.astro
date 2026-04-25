@@ -8,9 +8,10 @@ interface Props {
   heroImage?: string;
   readingTime: number;
   city?: string;
+  tags?: string[];
 }
 
-const { title, description, destination, category, slug, heroImage, readingTime, city = 'national' } = Astro.props;
+const { title, description, destination, category, slug, heroImage, readingTime, city = 'national', tags = [] } = Astro.props;
 ---
 
 <a
@@ -22,6 +23,7 @@ const { title, description, destination, category, slug, heroImage, readingTime,
   data-destination={destination.toLowerCase()}
   data-category={category.toLowerCase()}
   data-city={city.toLowerCase()}
+  data-tags={tags.map((t) => t.toLowerCase()).join(',')}
 >
   <!-- Image -->
   <div class="relative h-52 overflow-hidden bg-gray-100">

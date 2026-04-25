@@ -1,6 +1,6 @@
 ---
-// City-level filter sidebar — e-commerce style
-// Dispatches and listens to goinatlas:cityFilter events
+// Filter sidebar — city filters + activity type filters
+// Dispatches and listens to goinatlas:cityFilter and goinatlas:typeFilter events
 
 interface Props {
   cities: Array<{ id: string; label: string; count: number }>;
@@ -8,79 +8,148 @@ interface Props {
 }
 
 const { cities, destination } = Astro.props;
+
+const activityTypes = [
+  { id: 'food-drink',    label: 'Food & Drink' },
+  { id: 'shrines',       label: 'Shrines' },
+  { id: 'onsen',         label: 'Onsen' },
+  { id: 'parks',         label: 'Parks & Gardens' },
+  { id: 'temples',       label: 'Temples' },
+  { id: 'castles',       label: 'Castles' },
+  { id: 'architecture',  label: 'Architecture' },
+  { id: 'crafts',        label: 'Crafts' },
+  { id: 'festivals',     label: 'Festivals' },
+  { id: 'nature',        label: 'Nature & Rural' },
+  { id: 'manga-anime',   label: 'Manga & Anime' },
+  { id: 'museums',       label: 'Museums & Theatre' },
+  { id: 'shopping',      label: 'Shopping' },
+  { id: 'history',       label: 'History' },
+  { id: 'luxury',        label: 'Luxury Travel' },
+];
 ---
 
 <aside id="filter-sidebar" class="w-full md:w-52 flex-shrink-0">
-  <div class="sticky top-32">
-    <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">
-      Filter by city
-    </p>
+  <div class="sticky top-36 space-y-6">
 
-    <ul class="space-y-0.5" id="city-filter-list">
-      <!-- All -->
-      <li>
-        <button
-          class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors active"
-          data-city="all"
-          style="background: var(--color-brand-50); color: var(--color-brand-600); font-weight: 600;"
-        >
-          <span>All {destination}</span>
-          <span class="text-xs text-[var(--color-text-muted)]">{cities.reduce((s, c) => s + c.count, 0)}</span>
-        </button>
-      </li>
-
-      {cities.map((city) => (
+    <!-- Filter by city -->
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
+        City
+      </p>
+      <ul class="space-y-0.5" id="city-filter-list">
         <li>
           <button
             class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors"
-            data-city={city.id}
-            style="color: var(--color-text-secondary); font-weight: 500;"
+            data-city="all"
+            style="background: var(--color-brand-50); color: var(--color-brand-600); font-weight: 600;"
           >
-            <span>{city.label}</span>
-            <span class="text-xs text-[var(--color-text-muted)]">{city.count}</span>
+            <span>All {destination}</span>
+            <span class="text-xs text-[var(--color-text-muted)]">{cities.reduce((s, c) => s + c.count, 0)}</span>
           </button>
         </li>
-      ))}
-    </ul>
+        {cities.map((city) => (
+          <li>
+            <button
+              class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors"
+              data-city={city.id}
+              style="color: var(--color-text-secondary); font-weight: 500;"
+            >
+              <span>{city.label}</span>
+              <span class="text-xs text-[var(--color-text-muted)]">{city.count}</span>
+            </button>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- Divider -->
+    <div class="border-t border-[var(--color-border)]"></div>
+
+    <!-- Filter by activity type -->
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
+        Type
+      </p>
+      <ul class="space-y-0.5" id="type-filter-list">
+        {activityTypes.map((type) => (
+          <li>
+            <button
+              class="type-filter-btn w-full flex items-center gap-2.5 px-3 py-2 rounded-lg text-sm transition-colors text-left"
+              data-type={type.id}
+              style="color: var(--color-text-secondary); font-weight: 500;"
+            >
+              <span
+                class="type-dot w-2 h-2 rounded-full border border-[var(--color-border)] flex-shrink-0 transition-colors"
+                style="background: transparent;"
+              ></span>
+              <span>{type.label}</span>
+            </button>
+          </li>
+        ))}
+      </ul>
+      <button
+        id="clear-type-filter"
+        class="hidden mt-2 px-3 py-1.5 text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors"
+      >
+        Clear filter ×
+      </button>
+    </div>
+
   </div>
 </aside>
 
 <script>
-  const btns = document.querySelectorAll<HTMLButtonElement>('.city-filter-btn');
+  // ── City filters ─────────────────────────────────────────────
+  const cityBtns = document.querySelectorAll<HTMLButtonElement>('.city-filter-btn');
 
-  const activeStyle = {
-    background: 'var(--color-brand-50)',
-    color: 'var(--color-brand-600)',
-    fontWeight: '600',
-  };
-  const inactiveStyle = {
-    background: 'transparent',
-    color: 'var(--color-text-secondary)',
-    fontWeight: '500',
-  };
+  const cityActive   = { background: 'var(--color-brand-50)', color: 'var(--color-brand-600)', fontWeight: '600' };
+  const cityInactive = { background: 'transparent', color: 'var(--color-text-secondary)', fontWeight: '500' };
 
-  function setActiveFilter(cityId: string) {
-    btns.forEach((btn) => {
-      const isActive = btn.dataset.city === cityId;
-      btn.style.background = isActive ? activeStyle.background : inactiveStyle.background;
-      btn.style.color = isActive ? activeStyle.color : inactiveStyle.color;
-      btn.style.fontWeight = isActive ? activeStyle.fontWeight : inactiveStyle.fontWeight;
+  function setCityActive(cityId: string, dispatch = true) {
+    cityBtns.forEach((btn) => {
+      const on = btn.dataset.city === cityId;
+      btn.style.background = on ? cityActive.background : cityInactive.background;
+      btn.style.color      = on ? cityActive.color      : cityInactive.color;
+      btn.style.fontWeight = on ? cityActive.fontWeight : cityInactive.fontWeight;
     });
-    // Dispatch for map + article grid
-    document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
+    if (dispatch) {
+      document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
+    }
   }
 
-  btns.forEach((btn) => {
-    btn.addEventListener('click', () => setActiveFilter(btn.dataset.city!));
-  });
+  cityBtns.forEach((btn) => btn.addEventListener('click', () => setCityActive(btn.dataset.city!)));
 
-  // Sync from map clicks
+  // Sync from map clicks (don't re-dispatch to avoid loop)
   document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
-    btns.forEach((btn) => {
-      const isActive = btn.dataset.city === e.detail.city;
-      btn.style.background = isActive ? activeStyle.background : inactiveStyle.background;
-      btn.style.color = isActive ? activeStyle.color : inactiveStyle.color;
-      btn.style.fontWeight = isActive ? activeStyle.fontWeight : inactiveStyle.fontWeight;
-    });
+    setCityActive(e.detail.city, false);
   }) as EventListener);
+
+  // ── Activity type filters ─────────────────────────────────────
+  const typeBtns   = document.querySelectorAll<HTMLButtonElement>('.type-filter-btn');
+  const clearBtn   = document.getElementById('clear-type-filter');
+  let   activeType: string | null = null;
+
+  function setTypeActive(typeId: string | null) {
+    activeType = typeId;
+    typeBtns.forEach((btn) => {
+      const dot = btn.querySelector<HTMLSpanElement>('.type-dot');
+      const on  = btn.dataset.type === typeId;
+      btn.style.color      = on ? 'var(--color-brand-600)' : 'var(--color-text-secondary)';
+      btn.style.fontWeight = on ? '600' : '500';
+      if (dot) {
+        dot.style.background   = on ? 'var(--color-brand-600)' : 'transparent';
+        dot.style.borderColor  = on ? 'var(--color-brand-600)' : 'var(--color-border)';
+      }
+    });
+    if (clearBtn) clearBtn.classList.toggle('hidden', typeId === null);
+    document.dispatchEvent(new CustomEvent('goinatlas:typeFilter', { detail: { type: typeId } }));
+  }
+
+  typeBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      // Toggle off if already active
+      setTypeActive(btn.dataset.type === activeType ? null : btn.dataset.type!);
+    });
+  });
+  clearBtn?.addEventListener('click', () => setTypeActive(null));
 </script>

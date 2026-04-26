@@ -15,7 +15,8 @@ for (const a of sorted) {
   cityMap[c] = (cityMap[c] ?? 0) + 1;
 }
 
-const cityOrder = ['seoul', 'busan', 'gyeongju', 'jeju', 'national'];
+// 'national' excluded — FilterSidebar already renders "All Korea" as the first option
+const cityOrder = ['seoul', 'busan', 'gyeongju', 'jeju'];
 const cityLabels: Record<string, string> = {
   seoul: 'Seoul', busan: 'Busan', gyeongju: 'Gyeongju',
   jeju: 'Jeju Island', national: 'All Korea',
@@ -30,6 +31,26 @@ const cities = cityOrder
   title="South Korea Travel Guides"
   description="Deep South Korea travel guides — Seoul, Busan, Gyeongju and beyond. Itineraries, food, K-culture and honest travel tips."
 >
+  <!-- Breadcrumb -->
+  <nav aria-label="Breadcrumb" class="py-3 px-6 max-w-7xl mx-auto">
+    <ol id="hub-breadcrumb" class="flex items-center flex-wrap gap-1 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="/" itemprop="item" class="text-[var(--color-text-muted)] hover:text-[var(--color-brand-600)] transition-colors font-medium"><span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        <span itemprop="name" class="text-[var(--color-text-primary)] font-semibold">South Korea</span>
+        <meta itemprop="position" content="2" />
+      </li>
+      <li id="breadcrumb-city-crumb" class="hidden flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        <span id="breadcrumb-city-label" itemprop="name" class="text-[var(--color-text-primary)] font-semibold"></span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </nav>
+
   <!-- Hero: headline + map -->
   <div class="bg-white border-b border-[var(--color-border)] py-10 px-6">
     <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
@@ -132,20 +153,25 @@ const cities = cityOrder
   };
 
   let activeCity: string = 'all';
+  let activeCategory: string | null = null;
   let activeType: string | null = null;
 
   function applyFilters() {
     let visible = 0;
     cards.forEach((card) => {
-      const city    = card.dataset.city ?? 'national';
-      const tags    = card.dataset.tags ?? '';
-      const matchCity = activeCity === 'all' || city === activeCity;
-      let   matchType = true;
+      const city     = card.dataset.city ?? 'national';
+      const category = card.dataset.category ?? '';
+      const tags     = card.dataset.tags ?? '';
+
+      const matchCity     = activeCity === 'all' || city === activeCity;
+      const matchCategory = !activeCategory || category === activeCategory.toLowerCase();
+      let   matchType     = true;
       if (activeType) {
         const kws = typeKeywords[activeType] ?? [];
         matchType = kws.some((kw) => tags.includes(kw));
       }
-      const show = matchCity && matchType;
+
+      const show = matchCity && matchCategory && matchType;
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
@@ -153,8 +179,31 @@ const cities = cityOrder
     if (gridEl)  gridEl.style.display  = visible === 0 ? 'none' : '';
   }
 
+  // ── Breadcrumb city update ────────────────────────────────────
+  const cityLabelsBC: Record<string, string> = {
+    seoul: 'Seoul', busan: 'Busan', gyeongju: 'Gyeongju', jeju: 'Jeju Island',
+  };
+  const cityCrumb  = document.getElementById('breadcrumb-city-crumb');
+  const cityLabel  = document.getElementById('breadcrumb-city-label');
+
+  function updateBreadcrumb(cityId: string) {
+    if (!cityCrumb || !cityLabel) return;
+    if (cityId === 'all') {
+      cityCrumb.classList.add('hidden');
+    } else {
+      cityLabel.textContent = cityLabelsBC[cityId] ?? cityId;
+      cityCrumb.classList.remove('hidden');
+    }
+  }
+
   document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
     activeCity = e.detail.city;
+    updateBreadcrumb(e.detail.city);
+    applyFilters();
+  }) as EventListener);
+
+  document.addEventListener('goinatlas:categoryFilter', ((e: CustomEvent) => {
+    activeCategory = e.detail.category;
     applyFilters();
   }) as EventListener);
 

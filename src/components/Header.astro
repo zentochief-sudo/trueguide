@@ -9,7 +9,7 @@ const languages = [
 ];
 ---
 
-<header class="bg-white border-b border-[var(--color-border)] sticky top-0 z-50">
+<header class="bg-white border-b border-[var(--color-border)] sticky top-0 z-50" id="site-header">
   <div class="max-w-6xl mx-auto px-6 h-28 flex items-center gap-4">
 
     <!-- Logo -->
@@ -82,9 +82,116 @@ const languages = [
     <a href="/japan" class="block py-3 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-brand-600)] border-b border-[var(--color-border)]">Japan</a>
     <a href="/korea" class="block py-3 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-brand-600)]">South Korea</a>
   </div>
+
+  <!-- Newsletter banner — part of header so it never covers body content -->
+  <div
+    id="newsletter-banner"
+    class="bg-[var(--color-brand-900)] text-white border-t border-[var(--color-brand-700)]"
+  >
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-4">
+      <!-- Left: Icon + typewriter copy -->
+      <div class="flex items-center gap-2.5 min-w-0">
+        <svg class="w-4 h-4 text-[var(--color-accent)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+        </svg>
+        <p class="text-sm text-white/90 hidden md:block">
+          <span id="banner-typewriter" class="font-medium"></span><span class="opacity-60 animate-pulse">|</span>
+        </p>
+        <p class="text-sm text-white/90 md:hidden font-medium">Weekly deep travel guides</p>
+      </div>
+      <!-- Right: Form -->
+      <div class="flex items-center gap-3 flex-shrink-0">
+        <form id="banner-form" class="flex items-center gap-2">
+          <input
+            type="email"
+            name="email"
+            placeholder="your@email.com"
+            class="hidden md:block w-48 px-3 py-2 text-sm bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
+          />
+          <button
+            type="submit"
+            class="text-sm font-semibold text-[var(--color-brand-900)] bg-white hover:bg-white/90 px-4 py-2 rounded-lg whitespace-nowrap transition-colors"
+          >
+            Subscribe free →
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
 </header>
 
 <script>
+  // ── CSS variable for sticky offsets ──────────────────────────
+  // header nav (7rem h-28) + banner (3.5rem h-14) = 10.5rem
+  // When banner dismissed, drop to 7rem
+  const HEADER_WITH_BANNER    = '10.5rem';
+  const HEADER_WITHOUT_BANNER = '7rem';
+
+  function setHeaderHeight(h: string) {
+    document.documentElement.style.setProperty('--header-h', h);
+  }
+
+  // Init: banner visible by default unless already dismissed this session
+  if (sessionStorage.getItem('newsletter-banner-dismissed')) {
+    document.getElementById('newsletter-banner')?.remove();
+    setHeaderHeight(HEADER_WITHOUT_BANNER);
+  } else {
+    setHeaderHeight(HEADER_WITH_BANNER);
+  }
+
+  // ── Banner dismiss on subscribe ───────────────────────────────
+  const banner = document.getElementById('newsletter-banner');
+  const bannerForm = document.getElementById('banner-form');
+  const typewriterEl = document.getElementById('banner-typewriter');
+
+  bannerForm?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (banner) {
+      const inner = banner.querySelector('.max-w-6xl') as HTMLElement;
+      if (inner) {
+        inner.innerHTML = '<p class="text-sm text-white/90 text-center py-0.5 w-full">✓ You\'re on the list — first guide coming soon.</p>';
+      }
+      setTimeout(() => {
+        banner.remove();
+        sessionStorage.setItem('newsletter-banner-dismissed', '1');
+        setHeaderHeight(HEADER_WITHOUT_BANNER);
+      }, 3000);
+    }
+  });
+
+  // ── Banner typewriter ─────────────────────────────────────────
+  if (typewriterEl) {
+    const lines = [
+      'Weekly deep guides — Japan, South Korea & beyond.',
+      'The spots most travelers never find. Free, every week.',
+      'No listicles. No sponsored posts. Just the good stuff.',
+      'One destination. Deep. Every week.',
+      'The travel intel your friends wish they had.',
+      'Written for people who want to actually experience it.',
+      'Before your trip, not after.',
+    ];
+    let lineIdx = 0, charIdx = 0, deleting = false, pauseTicks = 0;
+    function bannerTick() {
+      const line = lines[lineIdx];
+      if (!deleting && charIdx <= line.length) {
+        typewriterEl.textContent = line.slice(0, charIdx);
+        charIdx++;
+        if (charIdx > line.length) { pauseTicks = 18; }
+      } else if (pauseTicks > 0) {
+        pauseTicks--;
+        if (pauseTicks === 0) deleting = true;
+      } else if (deleting && charIdx >= 0) {
+        typewriterEl.textContent = line.slice(0, charIdx);
+        charIdx--;
+        if (charIdx < 0) { deleting = false; lineIdx = (lineIdx + 1) % lines.length; charIdx = 0; pauseTicks = 8; }
+      }
+      const delay = deleting ? 14 : charIdx === line.length + 1 ? 900 : 28;
+      setTimeout(bannerTick, delay);
+    }
+    bannerTick();
+  }
+
   // ── Mobile menu ──────────────────────────────────────────────
   document.getElementById('mobile-menu-btn')
     ?.addEventListener('click', () => document.getElementById('mobile-menu')?.classList.toggle('hidden'));

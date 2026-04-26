@@ -4,6 +4,7 @@ import EtsyCTA from '../components/EtsyCTA.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import Comments from '../components/Comments.astro';
 import TableOfContents from '../components/TableOfContents.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
 
 interface Heading {
   depth: number;
@@ -21,6 +22,7 @@ interface Props {
   readingTime: number;
   etsy_template?: { label: string; url: string };
   headings?: Heading[];
+  city?: string;
 }
 
 const {
@@ -33,7 +35,26 @@ const {
   readingTime,
   etsy_template,
   headings = [],
+  city = 'national',
 } = Astro.props;
+
+// Build breadcrumb crumbs
+const destSlug = destination.toLowerCase().replace(/\s+/g, '-').replace('south-korea', 'korea');
+const destLabel = destination;
+
+// City label map for display
+const cityLabels: Record<string, string> = {
+  tokyo: 'Tokyo', kyoto: 'Kyoto', osaka: 'Osaka', kanazawa: 'Kanazawa',
+  hiroshima: 'Hiroshima', nara: 'Nara', hokkaido: 'Hokkaido', fukuoka: 'Fukuoka',
+  seoul: 'Seoul', busan: 'Busan', gyeongju: 'Gyeongju', jeju: 'Jeju',
+};
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: destLabel, href: `/${destSlug}` },
+  ...(city && city !== 'national' ? [{ label: cityLabels[city] ?? city, href: `/${destSlug}?city=${city}` }] : []),
+  { label: title },
+];
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -77,6 +98,9 @@ const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1
     </div>
   </div>
 
+  <!-- Breadcrumb -->
+  <Breadcrumb crumbs={crumbs} />
+
   <!-- Article body -->
   <div class="max-w-7xl mx-auto px-6 py-12">
     <!--
@@ -90,7 +114,7 @@ const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1
       <!-- TOC — left column, only on xl+ -->
       {hasToc && (
         <div class="hidden xl:block order-first">
-          <div class="sticky top-8 pt-2">
+          <div class="sticky pt-2" style="top: calc(var(--header-h, 10.5rem) + 1.5rem)">
             <TableOfContents headings={headings} />
           </div>
         </div>
@@ -125,7 +149,7 @@ const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1
 
       <!-- Right sidebar -->
       <aside class="hidden lg:block">
-        <div class="sticky top-8 space-y-6">
+        <div class="sticky space-y-6" style="top: calc(var(--header-h, 10.5rem) + 1.5rem)">
           {etsy_template && (
             <div class="bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] rounded-xl p-5">
               <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-brand-600)] mb-2">Plan your trip</p>

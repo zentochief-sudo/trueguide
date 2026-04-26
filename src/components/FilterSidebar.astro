@@ -1,6 +1,6 @@
 ---
-// Filter sidebar — city filters + activity type filters
-// Dispatches and listens to goinatlas:cityFilter and goinatlas:typeFilter events
+// Filter sidebar — city + category + activity type filters
+// Dispatches: goinatlas:cityFilter, goinatlas:categoryFilter, goinatlas:typeFilter
 
 interface Props {
   cities: Array<{ id: string; label: string; count: number }>;
@@ -8,6 +8,15 @@ interface Props {
 }
 
 const { cities, destination } = Astro.props;
+
+const categories = [
+  { id: 'Itinerary',  label: 'Itinerary' },
+  { id: 'Culture',    label: 'Culture' },
+  { id: 'Food',       label: 'Food & Drink' },
+  { id: 'Tips',       label: 'Tips & Practical' },
+  { id: 'Transport',  label: 'Transport' },
+  { id: 'Budget',     label: 'Budget' },
+];
 
 const activityTypes = [
   { id: 'food-drink',    label: 'Food & Drink' },
@@ -28,32 +37,98 @@ const activityTypes = [
 ];
 ---
 
-<aside id="filter-sidebar" class="w-full md:w-52 flex-shrink-0">
-  <div class="sticky top-36 space-y-6">
+<style>
+  .filter-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    background: transparent;
+    transition: background 0.15s, color 0.15s;
+    cursor: pointer;
+    text-align: left;
+    border: none;
+  }
+  .filter-btn:hover {
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+  }
+  .filter-btn.is-active {
+    background: var(--color-brand-50);
+    color: var(--color-brand-600);
+    font-weight: 600;
+  }
+  .filter-btn.is-active:hover {
+    background: var(--color-brand-100, var(--color-brand-50));
+  }
+  .type-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    background: transparent;
+    transition: background 0.15s, color 0.15s;
+    cursor: pointer;
+    text-align: left;
+    border: none;
+  }
+  .type-btn:hover {
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+  }
+  .type-btn.is-active {
+    color: var(--color-brand-600);
+    font-weight: 600;
+  }
+  .type-dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 9999px;
+    border: 1px solid var(--color-border);
+    background: transparent;
+    flex-shrink: 0;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .type-btn.is-active .type-dot {
+    background: var(--color-brand-600);
+    border-color: var(--color-brand-600);
+  }
+</style>
 
-    <!-- Filter by city -->
+<aside id="filter-sidebar" class="w-full md:w-52 flex-shrink-0">
+  <div class="sticky space-y-5" style="top: calc(var(--header-h, 10.5rem) + 1.5rem)">
+
+    <!-- Active filters summary -->
+    <div id="active-filters-bar" class="hidden">
+      <div class="flex flex-wrap gap-1.5" id="active-chips"></div>
+      <button id="clear-all-filters" class="mt-2 text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors">
+        Clear all ×
+      </button>
+    </div>
+
+    <!-- City -->
     <div>
-      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
-        City
-      </p>
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">City</p>
       <ul class="space-y-0.5" id="city-filter-list">
         <li>
-          <button
-            class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors"
-            data-city="all"
-            style="background: var(--color-brand-50); color: var(--color-brand-600); font-weight: 600;"
-          >
+          <button class="filter-btn city-filter-btn is-active" data-city="all">
             <span>All {destination}</span>
             <span class="text-xs text-[var(--color-text-muted)]">{cities.reduce((s, c) => s + c.count, 0)}</span>
           </button>
         </li>
         {cities.map((city) => (
           <li>
-            <button
-              class="city-filter-btn w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm transition-colors"
-              data-city={city.id}
-              style="color: var(--color-text-secondary); font-weight: 500;"
-            >
+            <button class="filter-btn city-filter-btn" data-city={city.id}>
               <span>{city.label}</span>
               <span class="text-xs text-[var(--color-text-muted)]">{city.count}</span>
             </button>
@@ -62,94 +137,129 @@ const activityTypes = [
       </ul>
     </div>
 
-    <!-- Divider -->
     <div class="border-t border-[var(--color-border)]"></div>
 
-    <!-- Filter by activity type -->
+    <!-- Category -->
     <div>
-      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">
-        Type
-      </p>
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">Category</p>
+      <ul class="space-y-0.5" id="category-filter-list">
+        {categories.map((cat) => (
+          <li>
+            <button class="filter-btn category-filter-btn" data-category={cat.id}>
+              {cat.label}
+            </button>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <div class="border-t border-[var(--color-border)]"></div>
+
+    <!-- Activity type -->
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">Type</p>
       <ul class="space-y-0.5" id="type-filter-list">
         {activityTypes.map((type) => (
           <li>
-            <button
-              class="type-filter-btn w-full flex items-center gap-2.5 px-3 py-2 rounded-lg text-sm transition-colors text-left"
-              data-type={type.id}
-              style="color: var(--color-text-secondary); font-weight: 500;"
-            >
-              <span
-                class="type-dot w-2 h-2 rounded-full border border-[var(--color-border)] flex-shrink-0 transition-colors"
-                style="background: transparent;"
-              ></span>
+            <button class="type-btn type-filter-btn" data-type={type.id}>
+              <span class="type-dot"></span>
               <span>{type.label}</span>
             </button>
           </li>
         ))}
       </ul>
-      <button
-        id="clear-type-filter"
-        class="hidden mt-2 px-3 py-1.5 text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors"
-      >
-        Clear filter ×
-      </button>
     </div>
 
   </div>
 </aside>
 
 <script>
-  // ── City filters ─────────────────────────────────────────────
+  // ── City filter ───────────────────────────────────────────────
   const cityBtns = document.querySelectorAll<HTMLButtonElement>('.city-filter-btn');
-
-  const cityActive   = { background: 'var(--color-brand-50)', color: 'var(--color-brand-600)', fontWeight: '600' };
-  const cityInactive = { background: 'transparent', color: 'var(--color-text-secondary)', fontWeight: '500' };
 
   function setCityActive(cityId: string, dispatch = true) {
     cityBtns.forEach((btn) => {
-      const on = btn.dataset.city === cityId;
-      btn.style.background = on ? cityActive.background : cityInactive.background;
-      btn.style.color      = on ? cityActive.color      : cityInactive.color;
-      btn.style.fontWeight = on ? cityActive.fontWeight : cityInactive.fontWeight;
+      btn.classList.toggle('is-active', btn.dataset.city === cityId);
     });
     if (dispatch) {
       document.dispatchEvent(new CustomEvent('goinatlas:cityFilter', { detail: { city: cityId } }));
     }
+    updateChips();
   }
 
   cityBtns.forEach((btn) => btn.addEventListener('click', () => setCityActive(btn.dataset.city!)));
 
-  // Sync from map clicks (don't re-dispatch to avoid loop)
   document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
     setCityActive(e.detail.city, false);
   }) as EventListener);
 
-  // ── Activity type filters ─────────────────────────────────────
-  const typeBtns   = document.querySelectorAll<HTMLButtonElement>('.type-filter-btn');
-  const clearBtn   = document.getElementById('clear-type-filter');
-  let   activeType: string | null = null;
+  // ── Category filter ───────────────────────────────────────────
+  const catBtns = document.querySelectorAll<HTMLButtonElement>('.category-filter-btn');
+  let activeCategory: string | null = null;
+
+  function setCategoryActive(catId: string | null) {
+    activeCategory = catId;
+    catBtns.forEach((btn) => {
+      btn.classList.toggle('is-active', btn.dataset.category === catId);
+    });
+    document.dispatchEvent(new CustomEvent('goinatlas:categoryFilter', { detail: { category: catId } }));
+    updateChips();
+  }
+
+  catBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      setCategoryActive(btn.dataset.category === activeCategory ? null : btn.dataset.category!);
+    });
+  });
+
+  // ── Activity type filter ──────────────────────────────────────
+  const typeBtns = document.querySelectorAll<HTMLButtonElement>('.type-filter-btn');
+  let activeType: string | null = null;
 
   function setTypeActive(typeId: string | null) {
     activeType = typeId;
     typeBtns.forEach((btn) => {
-      const dot = btn.querySelector<HTMLSpanElement>('.type-dot');
-      const on  = btn.dataset.type === typeId;
-      btn.style.color      = on ? 'var(--color-brand-600)' : 'var(--color-text-secondary)';
-      btn.style.fontWeight = on ? '600' : '500';
-      if (dot) {
-        dot.style.background   = on ? 'var(--color-brand-600)' : 'transparent';
-        dot.style.borderColor  = on ? 'var(--color-brand-600)' : 'var(--color-border)';
-      }
+      btn.classList.toggle('is-active', btn.dataset.type === typeId);
     });
-    if (clearBtn) clearBtn.classList.toggle('hidden', typeId === null);
     document.dispatchEvent(new CustomEvent('goinatlas:typeFilter', { detail: { type: typeId } }));
+    updateChips();
   }
 
   typeBtns.forEach((btn) => {
     btn.addEventListener('click', () => {
-      // Toggle off if already active
       setTypeActive(btn.dataset.type === activeType ? null : btn.dataset.type!);
     });
   });
-  clearBtn?.addEventListener('click', () => setTypeActive(null));
+
+  // ── Active filters chips ──────────────────────────────────────
+  const chipsBar  = document.getElementById('active-filters-bar');
+  const chipsEl   = document.getElementById('active-chips');
+  const clearAll  = document.getElementById('clear-all-filters');
+
+  function updateChips() {
+    if (!chipsEl || !chipsBar) return;
+    const chips: string[] = [];
+    const cityBtn = [...cityBtns].find((b) => b.classList.contains('is-active'));
+    if (cityBtn && cityBtn.dataset.city !== 'all') {
+      chips.push(cityBtn.querySelector('span')!.textContent!.trim());
+    }
+    if (activeCategory) {
+      const catBtn = [...catBtns].find((b) => b.dataset.category === activeCategory);
+      if (catBtn) chips.push(catBtn.textContent!.trim());
+    }
+    if (activeType) {
+      const typeBtn = [...typeBtns].find((b) => b.dataset.type === activeType);
+      if (typeBtn) chips.push(typeBtn.querySelector('span:last-child')!.textContent!.trim());
+    }
+    chipsEl.innerHTML = chips.map((c) =>
+      `<span class="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium rounded-full bg-[var(--color-brand-50)] text-[var(--color-brand-600)]">${c}</span>`
+    ).join('');
+    chipsBar.classList.toggle('hidden', chips.length === 0);
+  }
+
+  clearAll?.addEventListener('click', () => {
+    setCityActive('all');
+    setCategoryActive(null);
+    setTypeActive(null);
+  });
 </script>

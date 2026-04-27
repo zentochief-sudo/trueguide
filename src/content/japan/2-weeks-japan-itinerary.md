@@ -11,6 +11,7 @@ etsy_template:
   url: "https://etsy.com/trueguide"
 tags: ["itinerary", "first time", "tokyo", "kyoto", "japan"]
 city: national
+tocStyle: sticky-scroll
 ---
 
 There's a version of the Japan trip that most people take. Tokyo, Shinkansen to Kyoto, quick stop in Osaka, back to Tokyo. Rush through Fushimi Inari at 10am with 800 other tourists. Take photos you've already seen a thousand times.

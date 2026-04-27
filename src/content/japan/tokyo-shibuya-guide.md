@@ -8,6 +8,7 @@ readingTime: 11
 heroImage: /images/japan-tokyo-shibuya-hero.jpg
 tags: [Shibuya, Tokyo, Japan, Scramble Crossing, Hachiko, "109", Miyashita Park, Daikanyama, Center-gai, nightlife, shopping]
 city: tokyo
+tocStyle: flow
 ---
 
 Shibuya Crossing — the intersection outside the station's Hachiko exit — is the most-photographed urban scene in Japan and probably one of the most filmed in the world. At peak times, up to 3,000 people cross simultaneously from all directions. The crossing itself takes 47 seconds. The spectacle is real, and it is only the entry point to a neighborhood that extends uphill in every direction from the station.

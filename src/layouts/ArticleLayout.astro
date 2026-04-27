@@ -100,8 +100,10 @@ const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1
     </div>
   </div>
 
-  <!-- Breadcrumb -->
-  <Breadcrumb crumbs={crumbs} />
+  <!-- Breadcrumb — sticky once it reaches the top -->
+  <div class="sticky z-[29] bg-[var(--color-bg)] border-b border-[var(--color-border)] shadow-sm" style={`top: var(--header-h, 10.5rem)`}>
+    <Breadcrumb crumbs={crumbs} />
+  </div>
 
   <!-- Article body -->
   <div class="max-w-7xl mx-auto px-6 py-12">

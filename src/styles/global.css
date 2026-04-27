@@ -10,11 +10,11 @@
   --color-brand-900: #1e2d6b;
   --color-accent: #F0D17C;
   --color-surface: #ffffff;
-  --color-bg: #fafafa;
-  --color-border: #e8e8e8;
+  --color-bg: #F5F5F2;
+  --color-border: #e2e2de;
   --color-text-primary: #111111;
-  --color-text-secondary: #6b6b6b;
-  --color-text-muted: #aaaaaa;
+  --color-text-secondary: #525252;
+  --color-text-muted: #868686;
   --font-display: 'Unbounded', system-ui, sans-serif;
   --font-body: 'Inter', system-ui, sans-serif;
 }

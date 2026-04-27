@@ -75,8 +75,8 @@ const cities = cityOrder
     </div>
   </div>
 
-  <!-- Breadcrumb — below map, above articles -->
-  <div class="border-b border-[var(--color-border)] bg-white">
+  <!-- Breadcrumb — sticky once it reaches the top -->
+  <div class="sticky z-[29] border-b border-[var(--color-border)] bg-[var(--color-bg)] shadow-sm" style="top: var(--header-h, 10.5rem)">
     <nav aria-label="Breadcrumb" class="py-3 px-6 max-w-6xl mx-auto">
       <ol id="hub-breadcrumb" class="flex items-center flex-wrap gap-1 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
         <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">

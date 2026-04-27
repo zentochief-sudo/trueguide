@@ -8,6 +8,7 @@ readingTime: 10
 heroImage: /images/japan-tokyo-itinerary-hero.jpg
 tags: [Tokyo, Japan, itinerary, 3 days, first time, Shinjuku, Shibuya, Asakusa, Harajuku, Ueno, Akihabara, sightseeing]
 city: tokyo
+tocStyle: flow
 ---
 
 Tokyo at three days: not enough to understand the city, but enough to begin. The goal of this itinerary is calibration — the experience of what Tokyo actually is, at the street level, across enough variety that subsequent visits can be organized around preference rather than obligation.

@@ -32,26 +32,6 @@ const cities = cityOrder
   title="Japan Travel Guides"
   description="Deep Japan travel guides — itineraries, food, hidden spots and honest tips for first-timers and repeat visitors."
 >
-  <!-- Breadcrumb -->
-  <nav aria-label="Breadcrumb" class="py-3 px-6 max-w-7xl mx-auto">
-    <ol id="hub-breadcrumb" class="flex items-center flex-wrap gap-1 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
-      <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <a href="/" itemprop="item" class="text-[var(--color-text-muted)] hover:text-[var(--color-brand-600)] transition-colors font-medium"><span itemprop="name">Home</span></a>
-        <meta itemprop="position" content="1" />
-      </li>
-      <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-        <span itemprop="name" class="text-[var(--color-text-primary)] font-semibold">Japan</span>
-        <meta itemprop="position" content="2" />
-      </li>
-      <li id="breadcrumb-city-crumb" class="hidden flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-        <span id="breadcrumb-city-label" itemprop="name" class="text-[var(--color-text-primary)] font-semibold"></span>
-        <meta itemprop="position" content="3" />
-      </li>
-    </ol>
-  </nav>
-
   <!-- Hero: headline + map -->
   <div class="bg-white border-b border-[var(--color-border)] py-10 px-6">
     <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
@@ -93,6 +73,28 @@ const cities = cityOrder
         <JapanMap />
       </div>
     </div>
+  </div>
+
+  <!-- Breadcrumb — below map, above articles -->
+  <div class="border-b border-[var(--color-border)] bg-white">
+    <nav aria-label="Breadcrumb" class="py-3 px-6 max-w-6xl mx-auto">
+      <ol id="hub-breadcrumb" class="flex items-center flex-wrap gap-1 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" itemprop="item" class="text-[var(--color-text-muted)] hover:text-[var(--color-brand-600)] transition-colors font-medium"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span itemprop="name" class="text-[var(--color-text-primary)] font-semibold">Japan</span>
+          <meta itemprop="position" content="2" />
+        </li>
+        <li id="breadcrumb-city-crumb" class="hidden flex items-center gap-1" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span id="breadcrumb-city-label" itemprop="name" class="text-[var(--color-text-primary)] font-semibold"></span>
+          <meta itemprop="position" content="3" />
+        </li>
+      </ol>
+    </nav>
   </div>
 
   <!-- Sidebar + articles -->

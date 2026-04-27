@@ -23,6 +23,7 @@ interface Props {
   etsy_template?: { label: string; url: string };
   headings?: Heading[];
   city?: string;
+  tocStyle?: 'sticky-scroll' | 'flow';
 }
 
 const {
@@ -36,6 +37,7 @@ const {
   etsy_template,
   headings = [],
   city = 'national',
+  tocStyle = 'sticky-scroll',
 } = Astro.props;
 
 // Build breadcrumb crumbs
@@ -114,9 +116,20 @@ const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1
       <!-- TOC — left column, only on xl+ -->
       {hasToc && (
         <div class="hidden xl:block order-first">
-          <div class="sticky pt-2" style="top: calc(var(--header-h, 10.5rem) + 1.5rem)">
-            <TableOfContents headings={headings} />
-          </div>
+          {tocStyle === 'sticky-scroll' ? (
+            /* Option C: sticky + internal scroll — TOC stays visible while reading */
+            <div
+              class="sticky pt-2 overflow-y-auto scrollbar-thin"
+              style="top: calc(var(--header-h, 10.5rem) + 1.5rem); max-height: calc(100vh - var(--header-h, 10.5rem) - 3rem)"
+            >
+              <TableOfContents headings={headings} />
+            </div>
+          ) : (
+            /* Option A: flow — TOC scrolls away with the page */
+            <div class="pt-2">
+              <TableOfContents headings={headings} />
+            </div>
+          )}
         </div>
       )}
 

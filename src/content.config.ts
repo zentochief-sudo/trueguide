@@ -16,6 +16,7 @@ const articleSchema = z.object({
   }).optional(),
   tags: z.array(z.string()).default([]),
   city: z.string().optional().default('national'),
+  tocStyle: z.enum(['sticky-scroll', 'flow']).optional().default('sticky-scroll'),
 });
 
 export const collections = {

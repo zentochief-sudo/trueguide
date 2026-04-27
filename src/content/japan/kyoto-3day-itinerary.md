@@ -8,6 +8,7 @@ readingTime: 11
 heroImage: /images/japan-kyoto-itinerary-hero.jpg
 tags: [Kyoto, Japan, itinerary, 3 days, Fushimi Inari, Arashiyama, Ginkakuji, Kinkakuji, Kiyomizudera, Philosopher's Path]
 city: kyoto
+tocStyle: sticky-scroll
 ---
 
 Kyoto's neighborhoods cluster by compass direction. The great temple sites of the east are in Higashiyama; the gold and rock garden temples are to the northwest; the forest district of Arashiyama is due west; the Philosopher's Path runs north-south through the eastern foothills. Structuring a three-day visit by direction eliminates the wasted transit time of crossing the city repeatedly.

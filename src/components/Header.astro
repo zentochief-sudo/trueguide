@@ -1,26 +1,54 @@
 ---
-// Header layout: [Logo] [Search — full width center] [Language dropdown]
-// Search always visible with typewriter placeholder rotation
-// No destination nav links — navigation happens via homepage tabs and hub pages
-
-const languages = [
-  { code: 'en', label: 'EN' },
-  // Add more languages here as they become available
-];
+// Header — thin nav bar (4rem / 64px), Medium-style
+// Sidebar toggle dispatches goinatlas:toggleSidebar
 ---
 
-<header class="bg-white border-b border-[var(--color-border)] sticky top-0 z-50" id="site-header">
-  <div class="max-w-6xl mx-auto px-6 h-28 flex items-center gap-4">
+<header
+  class="bg-white border-b border-[var(--color-border)] sticky top-0 z-50"
+  id="site-header"
+  style="height: 4rem;"
+>
+  <div class="h-full flex items-center" style="padding-right: 1rem;">
 
-    <!-- Logo -->
-    <a href="/" class="flex items-center flex-shrink-0">
-      <img src="/images/logo.svg" alt="GoinAtlas" class="h-6 w-auto" />
-    </a>
+    <!-- Left section: fixed width = sidebar width (240px) so search aligns with content -->
+    <div class="flex items-center gap-2 flex-shrink-0 px-3 hdr-left">
+      <!-- Hamburger: shown when sidebar is CLOSED -->
+      <button
+        id="sidebar-toggle-btn"
+        class="hdr-toggle-btn p-2 rounded-lg flex-shrink-0"
+        aria-label="Open sidebar"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
 
-    <!-- Search bar — always visible, expands to fill remaining space -->
-    <div class="flex-1 relative" id="header-search-wrapper">
+      <!-- Logo -->
+      <a href="/" class="flex items-center flex-shrink-0" id="header-logo">
+        <img src="/images/logo.svg" alt="GoinAtlas" class="h-5 w-auto" />
+      </a>
+
+      <!-- Collapse btn: shown when sidebar is OPEN -->
+      <button
+        id="sidebar-collapse-btn"
+        class="hdr-toggle-btn p-2 rounded-lg flex-shrink-0"
+        aria-label="Close sidebar"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+          stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M11 17l-5-5 5-5"/>
+          <path d="M18 17l-5-5 5-5"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Search bar starts exactly at sidebar end -->
+    <div class="flex-1 relative max-w-md" id="header-search-wrapper">
       <svg
-        class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-[var(--color-brand-600)] pointer-events-none"
+        class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--color-text-muted)] pointer-events-none"
         fill="none" stroke="currentColor" viewBox="0 0 24 24"
       >
         <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
@@ -30,24 +58,35 @@ const languages = [
         type="text"
         autocomplete="off"
         spellcheck="false"
-        placeholder="Where are you headed?"
-        class="w-full pl-12 pr-4 py-3.5 text-base bg-[var(--color-bg)] border-2 border-[var(--color-brand-600)] rounded-xl text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:outline-none focus:bg-white transition-colors"
+        placeholder=""
+        class="w-full pl-9 pr-4 py-2 text-sm bg-white border border-[var(--color-brand-600)] rounded-full text-[var(--color-text-primary)] placeholder-[var(--color-text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-600)] transition-colors"
       />
-      <!-- Autocomplete dropdown -->
       <div
         id="header-search-results"
         class="hidden absolute left-0 right-0 top-full mt-1.5 bg-white border border-[var(--color-border)] rounded-xl shadow-lg overflow-hidden z-50"
       ></div>
     </div>
 
-    <!-- Right: Language dropdown + mobile menu -->
-    <div class="flex items-center gap-2 flex-shrink-0">
+    <!-- Right: language + profile (hidden on mobile — moved to sidebar footer) -->
+    <div class="flex items-center gap-2 flex-shrink-0 ml-auto" id="header-right-section">
 
-      <!-- Language selector -->
+      <!-- Profile button -->
+      <button
+        id="profile-btn"
+        class="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-brand-50)] text-[var(--color-brand-600)] hover:bg-[var(--color-brand-100)] transition-colors"
+        aria-label="Profile"
+      >
+        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M12 12a3 3 0 100-6 3 3 0 000 6z"/>
+          <path fill-rule="evenodd" d="M12 18c-4.418 0-8-1.79-8-4s3.582-4 8-4 8 1.79 8 4-3.582 4-8 4z" clip-rule="evenodd"/>
+        </svg>
+      </button>
+
+      <!-- Language -->
       <div class="relative" id="lang-dropdown-wrapper">
         <button
           id="lang-btn"
-          class="flex items-center gap-1 px-3 py-2 text-xs font-semibold text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-lg transition-colors"
+          class="flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-full transition-colors"
           aria-label="Language"
         >
           <span id="lang-current">EN</span>
@@ -55,149 +94,101 @@ const languages = [
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
           </svg>
         </button>
-        <!-- Dropdown (hidden by default — more languages added later) -->
         <div id="lang-menu" class="hidden absolute right-0 top-full mt-1 bg-white border border-[var(--color-border)] rounded-xl shadow-lg overflow-hidden min-w-[80px] z-50">
-          <button class="w-full px-4 py-2.5 text-xs font-semibold text-left text-[var(--color-brand-600)] bg-[var(--color-brand-50)]">EN</button>
-          <!-- Future: ES, JA, KO, etc. -->
+          <button class="w-full px-4 py-2.5 text-xs font-semibold text-left text-[var(--color-brand-700)] bg-[var(--color-brand-50)]">EN</button>
         </div>
       </div>
 
-      <!-- Mobile menu button -->
-      <button
-        id="mobile-menu-btn"
-        class="md:hidden p-2 text-[var(--color-text-secondary)]"
-        aria-label="Open menu"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="3" y1="6" x2="21" y2="6"/>
-          <line x1="3" y1="12" x2="21" y2="12"/>
-          <line x1="3" y1="18" x2="21" y2="18"/>
-        </svg>
-      </button>
-    </div>
-  </div>
-
-  <!-- Mobile nav -->
-  <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)] bg-white px-6 py-4">
-    <a href="/japan" class="block py-3 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-brand-600)] border-b border-[var(--color-border)]">Japan</a>
-    <a href="/korea" class="block py-3 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-brand-600)]">South Korea</a>
-  </div>
-
-  <!-- Newsletter banner — part of header so it never covers body content -->
-  <div
-    id="newsletter-banner"
-    class="bg-[var(--color-brand-900)] text-white border-t border-[var(--color-brand-700)]"
-  >
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-4">
-      <!-- Left: Icon + typewriter copy -->
-      <div class="flex items-center gap-2.5 min-w-0">
-        <svg class="w-4 h-4 text-[var(--color-accent)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-        </svg>
-        <p class="text-sm text-white/90 hidden md:block">
-          <span id="banner-typewriter" class="font-medium"></span><span class="opacity-60 animate-pulse">|</span>
-        </p>
-        <p class="text-sm text-white/90 md:hidden font-medium">Weekly deep travel guides</p>
-      </div>
-      <!-- Right: Form -->
-      <div class="flex items-center gap-3 flex-shrink-0">
-        <form id="banner-form" class="flex items-center gap-2">
-          <input
-            type="email"
-            name="email"
-            placeholder="your@email.com"
-            class="hidden md:block w-48 px-3 py-2 text-sm bg-white/10 border border-white/20 text-white placeholder-white/40 rounded-lg focus:outline-none focus:border-white/40 transition-colors"
-          />
-          <button
-            type="submit"
-            class="text-sm font-semibold text-[var(--color-brand-900)] bg-white hover:bg-white/90 px-4 py-2 rounded-lg whitespace-nowrap transition-colors"
-          >
-            Subscribe free →
-          </button>
-        </form>
-      </div>
     </div>
   </div>
 </header>
 
+<style>
+  /* Left section fixed width on desktop */
+  .hdr-left { width: 240px; }
+
+  /* ── Mobile (< 768px): hide right section entirely, collapse left section ── */
+  @media (max-width: 767px) {
+    .hdr-left { width: auto !important; }
+    #header-right-section { display: none !important; }
+  }
+
+  /* Both toggle buttons — light style, smooth slide-in/out */
+  .hdr-toggle-btn {
+    color: var(--color-text-secondary);
+    transition: color 0.15s, background 0.15s, opacity 0.18s ease, max-width 0.18s ease, padding 0.18s ease;
+    overflow: hidden;
+  }
+  .hdr-toggle-btn:hover {
+    color: var(--color-text-primary);
+    background: var(--color-bg-subtle);
+  }
+
+  /* Hamburger: visible by default */
+  #sidebar-toggle-btn {
+    max-width: 40px;
+    opacity: 1;
+    pointer-events: auto;
+  }
+  /* Collapse: hidden by default (after the logo) */
+  #sidebar-collapse-btn {
+    max-width: 0;
+    opacity: 0;
+    padding-left: 0;
+    padding-right: 0;
+    pointer-events: none;
+  }
+
+  /* When sidebar is open: swap */
+  #site-header.sidebar-is-open #sidebar-toggle-btn {
+    max-width: 0;
+    opacity: 0;
+    padding-left: 0;
+    padding-right: 0;
+    pointer-events: none;
+  }
+  #site-header.sidebar-is-open #sidebar-collapse-btn {
+    max-width: 40px;
+    opacity: 1;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    pointer-events: auto;
+  }
+</style>
+
 <script>
-  // ── CSS variable for sticky offsets ──────────────────────────
-  // header nav (7rem h-28) + banner (3.5rem h-14) = 10.5rem
-  // When banner dismissed, drop to 7rem
-  const HEADER_WITH_BANNER    = '10.5rem';
-  const HEADER_WITHOUT_BANNER = '7rem';
+  // ── --header-h: just the nav bar height (4rem = 64px) ────────
+  document.documentElement.style.setProperty('--header-h', '4rem');
 
-  function setHeaderHeight(h: string) {
-    document.documentElement.style.setProperty('--header-h', h);
+  // ── Sidebar toggle — two-button approach ─────────────────────
+  const header = document.getElementById('site-header');
+
+  // Mirror GlobalSidebar's initial-state logic
+  const stored = localStorage.getItem('goinatlas:sidebar-collapsed');
+  let sidebarOpen = window.innerWidth < 768 ? false : stored !== '1';
+
+  function syncHeader() {
+    header?.classList.toggle('sidebar-is-open', sidebarOpen);
   }
+  // Head script already set the correct visual state before paint.
+  // Just sync the class so JS-driven toggles work correctly afterward.
+  syncHeader();
 
-  // Init: banner visible by default unless already dismissed this session
-  if (sessionStorage.getItem('newsletter-banner-dismissed')) {
-    document.getElementById('newsletter-banner')?.remove();
-    setHeaderHeight(HEADER_WITHOUT_BANNER);
-  } else {
-    setHeaderHeight(HEADER_WITH_BANNER);
-  }
+  document.addEventListener('goinatlas:sidebarChanged', ((e: CustomEvent) => {
+    sidebarOpen = !e.detail.collapsed;
+    syncHeader();
+  }) as EventListener);
 
-  // ── Banner dismiss on subscribe ───────────────────────────────
-  const banner = document.getElementById('newsletter-banner');
-  const bannerForm = document.getElementById('banner-form');
-  const typewriterEl = document.getElementById('banner-typewriter');
-
-  bannerForm?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    if (banner) {
-      const inner = banner.querySelector('.max-w-6xl') as HTMLElement;
-      if (inner) {
-        inner.innerHTML = '<p class="text-sm text-white/90 text-center py-0.5 w-full">✓ You\'re on the list — first guide coming soon.</p>';
-      }
-      setTimeout(() => {
-        banner.remove();
-        sessionStorage.setItem('newsletter-banner-dismissed', '1');
-        setHeaderHeight(HEADER_WITHOUT_BANNER);
-      }, 3000);
-    }
+  // Both buttons dispatch the same toggle event
+  document.getElementById('sidebar-toggle-btn')?.addEventListener('click', () => {
+    document.dispatchEvent(new CustomEvent('goinatlas:toggleSidebar'));
+  });
+  document.getElementById('sidebar-collapse-btn')?.addEventListener('click', () => {
+    document.dispatchEvent(new CustomEvent('goinatlas:toggleSidebar'));
   });
 
-  // ── Banner typewriter ─────────────────────────────────────────
-  if (typewriterEl) {
-    const lines = [
-      'Weekly deep guides — Japan, South Korea & beyond.',
-      'The spots most travelers never find. Free, every week.',
-      'No listicles. No sponsored posts. Just the good stuff.',
-      'One destination. Deep. Every week.',
-      'The travel intel your friends wish they had.',
-      'Written for people who want to actually experience it.',
-      'Before your trip, not after.',
-    ];
-    let lineIdx = 0, charIdx = 0, deleting = false, pauseTicks = 0;
-    function bannerTick() {
-      const line = lines[lineIdx];
-      if (!deleting && charIdx <= line.length) {
-        typewriterEl.textContent = line.slice(0, charIdx);
-        charIdx++;
-        if (charIdx > line.length) { pauseTicks = 18; }
-      } else if (pauseTicks > 0) {
-        pauseTicks--;
-        if (pauseTicks === 0) deleting = true;
-      } else if (deleting && charIdx >= 0) {
-        typewriterEl.textContent = line.slice(0, charIdx);
-        charIdx--;
-        if (charIdx < 0) { deleting = false; lineIdx = (lineIdx + 1) % lines.length; charIdx = 0; pauseTicks = 8; }
-      }
-      const delay = deleting ? 14 : charIdx === line.length + 1 ? 900 : 28;
-      setTimeout(bannerTick, delay);
-    }
-    bannerTick();
-  }
-
-  // ── Mobile menu ──────────────────────────────────────────────
-  document.getElementById('mobile-menu-btn')
-    ?.addEventListener('click', () => document.getElementById('mobile-menu')?.classList.toggle('hidden'));
-
   // ── Language dropdown ─────────────────────────────────────────
-  const langBtn = document.getElementById('lang-btn');
+  const langBtn  = document.getElementById('lang-btn');
   const langMenu = document.getElementById('lang-menu');
   langBtn?.addEventListener('click', (e) => {
     e.stopPropagation();
@@ -205,70 +196,81 @@ const languages = [
   });
   document.addEventListener('click', () => langMenu?.classList.add('hidden'));
 
-  // ── Search typewriter placeholders ───────────────────────────
-  const input = document.getElementById('header-search-input') as HTMLInputElement;
+  // ── Search ────────────────────────────────────────────────────
+  const input   = document.getElementById('header-search-input') as HTMLInputElement;
   const results = document.getElementById('header-search-results');
 
   const placeholders = [
-    'Where are you headed?',
+    'Search guides...',
     'Japan 2-week itinerary...',
     'Best time to visit Seoul...',
     'Hidden gems in Tokyo...',
-    'Off the beaten path in Japan...',
     'South Korea food guide...',
-    'Find your next trip...',
   ];
 
-  let phIdx = 0;
-  let phChar = 0;
-  let phDeleting = false;
-  let phPause = 0;
+  // State machine: typing → hold → deleting → gap → typing …
+  type PhState = 'typing' | 'hold' | 'deleting' | 'gap';
+  // Pick a random phrase and show it FULLY on page load — no typing animation on first render
+  let phIdx   = Math.floor(Math.random() * placeholders.length);
+  let phChar  = placeholders[phIdx].length;
+  let phState: PhState = 'hold'; // already fully typed → hold, then cycle normally
 
-  function typewriterTick() {
-    // Don't animate while user is typing
+  // Set immediately so the HTML placeholder="Search guides..." never shows
+  if (input) input.setAttribute('placeholder', placeholders[phIdx]);
+
+  function typewriterStep() {
     if (document.activeElement === input || input.value) {
-      setTimeout(typewriterTick, 200);
+      setTimeout(typewriterStep, 300);
       return;
     }
+
     const line = placeholders[phIdx];
-    if (!phDeleting && phChar <= line.length) {
-      input.setAttribute('placeholder', line.slice(0, phChar) + (phChar < line.length ? '|' : ''));
+
+    if (phState === 'typing') {
       phChar++;
-      if (phChar > line.length) { phPause = 18; }
-    } else if (phPause > 0) {
-      phPause--;
-      if (phPause === 0) phDeleting = true;
-    } else if (phDeleting && phChar >= 0) {
-      input.setAttribute('placeholder', line.slice(0, phChar) + (phChar > 0 ? '|' : ''));
+      input.setAttribute('placeholder', line.slice(0, phChar) + (phChar < line.length ? '|' : ''));
+      if (phChar >= line.length) {
+        // Finished typing — hold for 5 s
+        phState = 'hold';
+        setTimeout(typewriterStep, 5000);
+      } else {
+        setTimeout(typewriterStep, 30);
+      }
+
+    } else if (phState === 'hold') {
+      // Pause over — start deleting
+      phState = 'deleting';
+      setTimeout(typewriterStep, 16);
+
+    } else if (phState === 'deleting') {
       phChar--;
-      if (phChar < 0) {
-        phDeleting = false;
+      input.setAttribute('placeholder', phChar > 0 ? line.slice(0, phChar) + '|' : '');
+      if (phChar <= 0) {
         phIdx = (phIdx + 1) % placeholders.length;
         phChar = 0;
-        phPause = 6;
+        phState = 'gap';
+        setTimeout(typewriterStep, 500); // short pause before next phrase
+      } else {
+        setTimeout(typewriterStep, 16);
       }
-    }
-    const delay = phDeleting ? 14 : phChar === line.length + 1 ? 900 : 28;
-    setTimeout(typewriterTick, delay);
-  }
-  typewriterTick();
 
-  // ── Article data (lazy-loaded on first keystroke) ─────────────
+    } else if (phState === 'gap') {
+      phState = 'typing';
+      setTimeout(typewriterStep, 30);
+    }
+  }
+  typewriterStep();
+
   type Article = { title: string; slug: string; destination: string; category: string; description: string };
   let articles: Article[] = [];
   let loaded = false;
-  let scopedDestination: string | null = null; // set by destination pages
+  let scopedDestination: string | null = null;
 
   async function loadArticles() {
     if (loaded) return;
-    try {
-      const res = await fetch('/search.json');
-      articles = await res.json();
-      loaded = true;
-    } catch {}
+    try { const res = await fetch('/search.json'); articles = await res.json(); loaded = true; } catch {}
   }
 
-  // Listen for scope from destination pages
   document.addEventListener('goinatlas:searchScope', ((e: CustomEvent) => {
     scopedDestination = e.detail.destination ?? null;
   }) as EventListener);
@@ -277,18 +279,17 @@ const languages = [
     if (!results) return;
     if (!query.trim()) { results.classList.add('hidden'); return; }
     const q = query.toLowerCase();
-    let pool = articles;
-    if (scopedDestination) {
-      pool = articles.filter((a) => a.destination.toLowerCase() === scopedDestination!.toLowerCase());
-    }
+    let pool = scopedDestination
+      ? articles.filter((a) => a.destination.toLowerCase() === scopedDestination!.toLowerCase())
+      : articles;
     const matches = pool.filter(
       (a) => a.title.toLowerCase().includes(q) || a.description.toLowerCase().includes(q) || a.category.toLowerCase().includes(q)
     ).slice(0, 6);
     if (!matches.length) { results.classList.add('hidden'); return; }
     results.innerHTML = matches.map((a) => `
       <a href="/${a.destination.toLowerCase()}/${a.slug}"
-        class="flex items-center gap-3 px-4 py-3 hover:bg-[var(--color-bg)] transition-colors group border-b border-[var(--color-border)] last:border-0">
-        <span class="text-xs font-semibold uppercase tracking-wider text-[var(--color-brand-600)] bg-[var(--color-brand-50)] px-2 py-0.5 rounded-full flex-shrink-0">${a.category}</span>
+        class="flex items-center gap-3 px-4 py-3 hover:bg-[var(--color-bg-subtle)] transition-colors border-b border-[var(--color-border)] last:border-0">
+        <span class="text-[10px] font-semibold uppercase tracking-wider text-[var(--color-brand-700)] bg-[var(--color-brand-50)] px-2 py-0.5 rounded-full flex-shrink-0">${a.category}</span>
         <div class="min-w-0">
           <p class="text-sm font-medium text-[var(--color-text-primary)] truncate">${a.title}</p>
           <p class="text-xs text-[var(--color-text-muted)] truncate">${a.destination}</p>
@@ -304,28 +305,15 @@ const languages = [
     renderResults((e.target as HTMLInputElement).value);
   });
   input?.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      input.value = '';
-      results?.classList.add('hidden');
-      input.blur();
-    }
-    if (e.key === 'Enter' && input.value.trim()) {
+    if (e.key === 'Escape') { input.value = ''; results?.classList.add('hidden'); input.blur(); }
+    if (e.key === 'Enter' && input.value.trim())
       window.location.href = `/?q=${encodeURIComponent(input.value.trim())}`;
-    }
   });
-
-  // Close dropdown on outside click
   document.addEventListener('click', (e) => {
-    if (!document.getElementById('header-search-wrapper')?.contains(e.target as Node)) {
+    if (!document.getElementById('header-search-wrapper')?.contains(e.target as Node))
       results?.classList.add('hidden');
-    }
   });
-
-  // ⌘K shortcut
   document.addEventListener('keydown', (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-      e.preventDefault();
-      input?.focus();
-    }
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); input?.focus(); }
   });
 </script>

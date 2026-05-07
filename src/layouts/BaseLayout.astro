@@ -1,15 +1,17 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
+import GlobalSidebar from '../components/GlobalSidebar.astro';
 import Footer from '../components/Footer.astro';
 
 interface Props {
   title: string;
   description: string;
   image?: string;
+  hideFooter?: boolean;
 }
 
-const { title, description, image = '/og-default.jpg' } = Astro.props;
+const { title, description, image = '/og-default.jpg', hideFooter = false } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -37,12 +39,91 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:title" content={`${title} | GoinAtlas`} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
+    <!--
+      Prevent layout shift and header flash on every page navigation.
+      Runs synchronously in <head> — before a single pixel of <body> is painted.
+    -->
+    <script is:inline>
+      (function() {
+        try {
+          var sc = localStorage.getItem('goinatlas:sidebar-collapsed') === '1' || window.innerWidth < 768;
+          var css = '';
+
+          // Always kill toggle-button transitions during initial paint
+          css += '#sidebar-toggle-btn,#sidebar-collapse-btn{transition:none!important}';
+
+          if (sc) {
+            // Sidebar collapsed: hide it immediately, no slide animation
+            css += '#global-sidebar{width:0!important;transition:none!important}';
+            // Header: hamburger visible (default), collapse hidden (default) — no extra CSS needed
+          } else {
+            // Sidebar open: show collapse button, hide hamburger — before JS runs
+            css += '#sidebar-toggle-btn{max-width:0!important;opacity:0!important;padding-left:0!important;padding-right:0!important;pointer-events:none!important}';
+            css += '#sidebar-collapse-btn{max-width:40px!important;opacity:1!important;padding-left:0.5rem!important;padding-right:0.5rem!important;pointer-events:auto!important}';
+          }
+
+          var el = document.createElement('style');
+          el.id = 'goinatlas-init-css';
+          el.textContent = css;
+          document.head.appendChild(el);
+        } catch(e) {}
+      })();
+    </script>
   </head>
-  <body class="min-h-screen flex flex-col">
+  <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
     <Header />
-    <main class="flex-1">
-      <slot />
-    </main>
-    <Footer />
+    <div class="flex flex-1 min-h-0">
+      <GlobalSidebar />
+      <main class="flex-1 min-w-0 overflow-x-clip">
+        <slot />
+      </main>
+    </div>
+    {!hideFooter && <Footer />}
   </body>
 </html>
+
+<script>
+  // ── Reading-list save buttons (site-wide) ──────────────────────────────
+  const RL_KEY = 'goinatlas:reading-list';
+
+  function rlGet(): string[] {
+    try { return JSON.parse(localStorage.getItem(RL_KEY) || '[]'); } catch { return []; }
+  }
+  function rlSet(list: string[]) { localStorage.setItem(RL_KEY, JSON.stringify(list)); }
+
+  function setSaved(btn: HTMLElement, isSaved: boolean) {
+    const outline = btn.querySelector<SVGElement>('.save-icon-outline');
+    const filled  = btn.querySelector<SVGElement>('.save-icon-filled');
+    const label   = btn.querySelector<HTMLElement>('.save-btn-label');
+    outline?.classList.toggle('hidden', isSaved);
+    filled?.classList.toggle('hidden', !isSaved);
+    if (label) {
+      const unsavedText = btn.dataset.saveLabel || 'Save';
+      label.textContent = isSaved ? 'Saved' : unsavedText;
+    }
+    btn.setAttribute('aria-pressed', isSaved ? 'true' : 'false');
+    btn.classList.toggle('is-saved', isSaved);
+  }
+
+  function initSaveBtns() {
+    const saved = new Set(rlGet());
+    document.querySelectorAll<HTMLElement>('[data-save-btn]').forEach((btn) => {
+      if (btn.dataset.saveInit) return; // already wired
+      btn.dataset.saveInit = '1';
+      const url = btn.dataset.saveBtn!;
+      setSaved(btn, saved.has(url));
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation(); // prevent anchor navigation when inside <a>
+        const list = rlGet();
+        const idx  = list.indexOf(url);
+        if (idx >= 0) { list.splice(idx, 1); } else { list.push(url); }
+        rlSet(list);
+        const wasSaved = idx < 0; // true = just saved, false = just removed
+        setSaved(btn, wasSaved);
+        document.dispatchEvent(new CustomEvent('goinatlas:readingListChanged', { detail: { saved: wasSaved } }));
+      });
+    });
+  }
+
+  initSaveBtns();
+</script>

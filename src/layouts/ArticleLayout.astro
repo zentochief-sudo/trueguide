@@ -37,14 +37,10 @@ const {
   etsy_template,
   headings = [],
   city = 'national',
-  tocStyle = 'sticky-scroll',
 } = Astro.props;
 
-// Build breadcrumb crumbs
 const destSlug = destination.toLowerCase().replace(/\s+/g, '-').replace('south-korea', 'korea');
-const destLabel = destination;
 
-// City label map for display
 const cityLabels: Record<string, string> = {
   tokyo: 'Tokyo', kyoto: 'Kyoto', osaka: 'Osaka', kanazawa: 'Kanazawa',
   hiroshima: 'Hiroshima', nara: 'Nara', hokkaido: 'Hokkaido', fukuoka: 'Fukuoka',
@@ -53,144 +49,561 @@ const cityLabels: Record<string, string> = {
 
 const crumbs = [
   { label: 'Home', href: '/' },
-  { label: destLabel, href: `/${destSlug}` },
+  { label: destination, href: `/${destSlug}` },
   ...(city && city !== 'national' ? [{ label: cityLabels[city] ?? city, href: `/${destSlug}?city=${city}` }] : []),
   { label: title },
 ];
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
+  year: 'numeric', month: 'long', day: 'numeric',
 });
 
 const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1;
+
+// Breadcrumb bar height — used to offset sticky TOC
+const BREADCRUMB_H = '2.75rem';
 ---
 
-<BaseLayout title={title} description={description} image={heroImage}>
-  <!-- Hero -->
-  <div class="relative w-full h-[60vh] min-h-[400px] max-h-[600px] overflow-hidden bg-[var(--color-brand-900)]">
+<BaseLayout title={title} description={description} image={heroImage} hideFooter={true}>
+
+  <!-- ── Hero image ───────────────────────────────────────── -->
+  <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);">
     {heroImage && (
-      <img
-        src={heroImage}
-        alt={title}
-        class="w-full h-full object-cover opacity-80"
-      />
+      <img src={heroImage} alt={title} class="w-full h-full object-cover opacity-80" />
     )}
-    <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
-    <div class="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-4xl mx-auto">
-      <div class="flex items-center gap-3 mb-4">
-        <a
-          href={`/${destination.toLowerCase()}`}
-          class="text-white/80 text-sm font-medium hover:text-white transition-colors uppercase tracking-widest"
-        >
-          {destination}
-        </a>
-        <span class="text-white/40">·</span>
-        <span class="text-white/70 text-sm">{category}</span>
+    <!-- Subtle gradient only at the bottom for the meta pill -->
+    <div class="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent" />
+    <!-- Meta pill: Date · Read time · Category — top-right, mirrored from TOC/breadcrumb left offset -->
+    <div class="absolute meta-pill-anchor">
+      <div class="inline-flex items-center gap-3 rounded-full text-white/95 text-xs font-medium"
+           style="background: rgba(0,0,0,0.38); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); padding: 0.45rem 1.1rem; letter-spacing: 0.02em;">
+        <span>{formattedDate}</span>
+        <span style="opacity:0.35;">·</span>
+        <span>{readingTime} min read</span>
+        <span style="opacity:0.35;">·</span>
+        <span>{category}</span>
       </div>
-      <h1 class="text-white text-3xl md:text-5xl font-bold leading-tight mb-4" style="font-family: var(--font-display)">
+    </div>
+  </div>
+
+  <!-- ── Sticky breadcrumb bar ─────────────────────────────── -->
+  <!-- "Home" starts at the same X axis as the TOC block (both 140px from the sidebar line) -->
+  <div
+    class="sticky z-[29] border-b border-[var(--color-border)] bg-[var(--color-bg)]"
+    style={`top: 4rem; height: ${BREADCRUMB_H};`}
+  >
+    <div class="h-full flex items-center breadcrumb-indent" style="padding-right: 1.5rem; overflow: hidden;">
+      <nav aria-label="Breadcrumb" class="min-w-0 w-full overflow-hidden">
+        <ol class="flex items-center gap-1 text-sm overflow-hidden min-w-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+          {crumbs.map((crumb, i) => (
+            <li
+              class={`flex items-center gap-1 ${i === crumbs.length - 1 ? 'min-w-0 overflow-hidden' : 'flex-shrink-0'}`}
+              itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"
+            >
+              {i > 0 && (
+                <svg class="w-3.5 h-3.5 text-[var(--color-text-muted)] flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                </svg>
+              )}
+              {crumb.href ? (
+                <a href={crumb.href} itemprop="item" class="text-[var(--color-text-muted)] hover:text-[var(--color-brand-600)] transition-colors font-medium whitespace-nowrap">
+                  <span itemprop="name">{crumb.label}</span>
+                </a>
+              ) : (
+                <span itemprop="name" class="text-[var(--color-text-primary)] font-semibold truncate block">
+                  {crumb.label}
+                </span>
+              )}
+              <meta itemprop="position" content={String(i + 1)} />
+            </li>
+          ))}
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <!--
+    ── 3-column grid: [TOC 1fr | article min(680px,100%) | right 1fr]
+    Content is always centered — TOC floats in the left 1fr without displacing it.
+  -->
+  <div class="article-grid">
+
+    <!-- Left: sticky TOC — left-aligned inside the 1fr column at 140px from sidebar -->
+    <div class="toc-column flex-col">
+      <div
+        class="sticky overflow-y-auto"
+        style={`top: calc(4rem + ${BREADCRUMB_H}); max-height: calc(100vh - 4rem - ${BREADCRUMB_H}); padding: 2.5rem 0 4rem 0; width: 100%; max-width: 220px;`}
+      >
+        <!-- TOC index first -->
+        <TableOfContents headings={headings} />
+
+        <!-- Action icons row: Save + Share — below TOC, before See all -->
+        <div class="flex items-center gap-4 mt-5">
+
+          <!-- Save / bookmark button (icon only) -->
+          <button
+            data-save-btn={Astro.url.pathname}
+            data-save-label="Save"
+            class="action-icon-btn save-btn"
+            aria-label="Save article for later"
+            aria-pressed="false"
+            type="button"
+          >
+            <!-- Outline: save (unsaved state) -->
+            <svg class="save-icon-outline" width="22" height="22" viewBox="0 0 62 62" fill="black" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 52C0 52.27 0.0199992 52.54 0.0499992 52.8C0.239999 55.15 1.24 57.35 2.88 59.01C4.75 60.91 7.34 62 9.99 62C11.6 62 13.2 61.6 14.64 60.85C14.85 60.74 15.05 60.62 15.24 60.5L26.28 53.22C26.5 53.08 26.76 53 27.01 53C27.26 53 27.51 53.07 27.72 53.21L38.76 60.49C38.96 60.62 39.16 60.74 39.37 60.85C40.81 61.6 42.42 62 44.02 62C46.67 62 49.26 60.91 51.13 59.01C52.77 57.34 53.78 55.15 53.96 52.83C53.99 52.53 54.01 52.26 54.01 52V42C54.01 40.35 52.66 39 51.01 39C49.36 39 48.01 40.35 48.01 42V52.13C47.99 52.19 47.99 52.26 47.98 52.32C47.92 53.26 47.53 54.12 46.85 54.8C45.65 56.02 43.67 56.33 42.15 55.53L31.03 48.2C28.62 46.62 25.39 46.62 22.99 48.2L11.87 55.53C10.35 56.33 8.37 56.02 7.17 54.8C6.5 54.12 6.11 53.26 6.05 52.32C6.05 52.26 6.04 52.19 6.03 52.13V52V15C6.03 11.14 9.17 8 13.03 8H28.03C29.68 8 31.03 6.65 31.03 5C31.03 3.35 29.68 2 28.03 2H13.03C5.86 2 0.0300007 7.83 0.0300007 15V52H0Z"/>
+              <path d="M48.0001 0C46.3501 0 45.0001 1.35 45.0001 3V21.75L39.2001 15.95C38.5801 15.33 37.7601 15 36.9501 15C36.4001 15 35.8501 15.15 35.3701 15.47C34.5901 15.99 34.1001 16.78 34.0101 17.69C33.9201 18.59 34.2401 19.47 34.8801 20.11L40.6101 25.84C41.7601 26.99 43.0101 27.83 44.3201 28.32C48.1101 29.75 52.3901 28.84 55.2301 26.01L61.1201 20.12C61.7501 19.49 62.0601 18.62 61.9901 17.74C61.9101 16.84 61.4501 16.06 60.7001 15.53C59.5401 14.71 57.8201 14.93 56.7101 16.04L50.9901 21.76V3.01C50.9901 1.36 49.6401 0.0100002 47.9901 0.0100002L48.0001 0Z"/>
+            </svg>
+            <!-- Filled: save (saved state) -->
+            <svg class="save-icon-filled hidden" width="22" height="22" viewBox="0 0 62 62" fill="black" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 52C0 52.27 0.0199992 52.54 0.0499992 52.8C0.239999 55.15 1.24 57.35 2.88 59.01C4.75 60.91 7.34 62 9.99 62C11.6 62 13.2 61.6 14.64 60.85C14.85 60.74 15.05 60.62 15.24 60.5L26.28 53.22C26.5 53.08 26.76 53 27.01 53C27.26 53 27.51 53.07 27.72 53.21L38.76 60.49C38.96 60.62 39.16 60.74 39.37 60.85C40.81 61.6 42.42 62 44.02 62C46.67 62 49.26 60.91 51.13 59.01C52.77 57.34 53.78 55.15 53.96 52.83C53.99 52.53 54.01 52.26 54.01 52V42C54.01 40.35 52.66 39 51.01 39C49.36 39 48.01 40.35 48.01 42V52.13C47.99 52.19 47.99 52.26 47.98 52.32C47.92 53.26 47.53 54.12 46.85 54.8C45.65 56.02 43.67 56.33 42.15 55.53L31.03 48.2C28.62 46.62 25.39 46.62 22.99 48.2L11.87 55.53C10.35 56.33 8.37 56.02 7.17 54.8C6.5 54.12 6.11 53.26 6.05 52.32C6.05 52.26 6.04 52.19 6.03 52.13V52V15C6.03 11.14 9.17 8 13.03 8H28.03C29.68 8 31.03 6.65 31.03 5C31.03 3.35 29.68 2 28.03 2H13.03C5.86 2 0.0300007 7.83 0.0300007 15V52H0Z"/>
+              <path d="M48.0001 0C46.3501 0 45.0001 1.35 45.0001 3V21.75L39.2001 15.95C38.5801 15.33 37.7601 15 36.9501 15C36.4001 15 35.8501 15.15 35.3701 15.47C34.5901 15.99 34.1001 16.78 34.0101 17.69C33.9201 18.59 34.2401 19.47 34.8801 20.11L40.6101 25.84C41.7601 26.99 43.0101 27.83 44.3201 28.32C48.1101 29.75 52.3901 28.84 55.2301 26.01L61.1201 20.12C61.7501 19.49 62.0601 18.62 61.9901 17.74C61.9101 16.84 61.4501 16.06 60.7001 15.53C59.5401 14.71 57.8201 14.93 56.7101 16.04L50.9901 21.76V3.01C50.9901 1.36 49.6401 0.0100002 47.9901 0.0100002L48.0001 0Z"/>
+            </svg>
+          </button>
+
+          <!-- Share button (icon only) -->
+          <button
+            data-share-btn={Astro.url.pathname}
+            data-share-title={title}
+            class="action-icon-btn share-btn"
+            aria-label="Share article"
+            type="button"
+          >
+            <svg width="22" height="22" viewBox="0 0 62 60" fill="black" xmlns="http://www.w3.org/2000/svg">
+              <path d="M59 54H14C9.59 54 6 50.41 6 46V3C6 1.35 4.65 0 3 0C1.35 0 0 1.35 0 3V46C0 53.72 6.28 60 14 60H59C60.65 60 62 58.65 62 57C62 55.35 60.65 54 59 54Z"/>
+              <path d="M17.8799 41.12C19.0099 42.25 20.9899 42.25 22.1199 41.12L46.9999 16.24V31C46.9999 32.65 48.3499 34 49.9999 34C51.6499 34 52.9999 32.65 52.9999 31V17C52.9999 10.93 48.0699 6 41.9999 6H27.9999C26.3499 6 24.9999 7.35 24.9999 9C24.9999 10.65 26.3499 12 27.9999 12H42.7599L17.8799 36.88C16.7099 38.05 16.7099 39.95 17.8799 41.12Z"/>
+            </svg>
+          </button>
+
+        </div>
+
+        <!-- See all guides link — below icons, no divider -->
+        <div class="mt-4">
+          <a
+            href={`/${destSlug}`}
+            class="text-sm text-[var(--color-text-primary)] underline font-semibold"
+            style="font-family: var(--font-body);"
+          >
+            See all {destination} guides
+          </a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Center: article content — always centered, independent of TOC -->
+    <div class="min-w-0 article-content-col">
+
+      <!-- Article title — top of content column, above prose -->
+      <h1 style="font-family: var(--font-display); font-size: clamp(1.6rem, 3vw, 2.6rem); font-weight: 700; line-height: 1.2; color: var(--color-text-primary); margin: 0 0 2rem 0;">
         {title}
       </h1>
-      <div class="flex items-center gap-4 text-white/70 text-sm">
-        <span>{formattedDate}</span>
-        <span>·</span>
-        <span>{readingTime} min read</span>
-      </div>
-    </div>
-  </div>
 
-  <!-- Breadcrumb — sticky once it reaches the top -->
-  <div class="sticky z-[29] bg-[var(--color-bg)] border-b border-[var(--color-border)] shadow-sm" style={`top: var(--header-h, 10.5rem)`}>
-    <Breadcrumb crumbs={crumbs} />
-  </div>
-
-  <!-- Article body -->
-  <div class="max-w-7xl mx-auto px-6 py-12">
-    <!--
-      Grid layout:
-      - Mobile:  1 col (TOC hidden, sidebar hidden)
-      - lg:      [1fr 280px]  — TOC still hidden
-      - xl:      [200px 1fr 280px]  — TOC visible (only when headings exist)
-    -->
-    <div class={`grid gap-10 ${hasToc ? 'grid-cols-1 lg:grid-cols-[1fr_280px] xl:grid-cols-[200px_1fr_280px]' : 'grid-cols-1 lg:grid-cols-[1fr_280px]'}`}>
-
-      <!-- TOC — left column, only on xl+ -->
-      {hasToc && (
-        <div class="hidden xl:block order-first">
-          {tocStyle === 'sticky-scroll' ? (
-            /* Option C: sticky + internal scroll — TOC stays visible while reading */
-            <div
-              class="sticky pt-2 overflow-y-auto scrollbar-thin"
-              style="top: calc(var(--header-h, 10.5rem) + 1.5rem); max-height: calc(100vh - var(--header-h, 10.5rem) - 3rem)"
-            >
-              <TableOfContents headings={headings} />
-            </div>
-          ) : (
-            /* Option A: flow — TOC scrolls away with the page */
-            <div class="pt-2">
-              <TableOfContents headings={headings} />
-            </div>
-          )}
-        </div>
+      {etsy_template && (
+        <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
       )}
 
-      <!-- Main content -->
-      <div class="min-w-0">
-        <!-- Etsy CTA — top of article -->
-        {etsy_template && (
-          <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
-        )}
-
-        <div class="prose">
-          <slot />
-        </div>
-
-        <!-- Etsy CTA — bottom of article -->
-        {etsy_template && (
-          <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="bottom" />
-        )}
-
-        <!-- Newsletter -->
-        <div class="mt-12">
-          <NewsletterSignup destination={destination} />
-        </div>
-
-        <!-- Comments -->
-        <div class="mt-12">
-          <Comments />
-        </div>
+      <div class="prose">
+        <slot />
       </div>
 
-      <!-- Right sidebar -->
-      <aside class="hidden lg:block">
-        <div class="sticky space-y-6" style="top: calc(var(--header-h, 10.5rem) + 1.5rem)">
-          {etsy_template && (
-            <div class="bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] rounded-xl p-5">
-              <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-brand-600)] mb-2">Plan your trip</p>
-              <p class="text-sm text-[var(--color-text-secondary)] mb-4">Download the editable template for this trip.</p>
-              <a
-                href={etsy_template.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="block w-full text-center bg-[var(--color-brand-600)] text-white text-sm font-semibold py-2.5 px-4 rounded-lg hover:bg-[var(--color-brand-700)] transition-colors"
-              >
-                {etsy_template.label} →
-              </a>
-            </div>
-          )}
-          <div class="bg-white border border-[var(--color-border)] rounded-xl p-5">
-            <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">More from {destination}</p>
-            <a
-              href={`/${destination.toLowerCase()}`}
-              class="text-sm text-[var(--color-brand-600)] hover:underline font-medium"
-            >
-              See all {destination} guides →
-            </a>
-          </div>
-        </div>
-      </aside>
+      {etsy_template && (
+        <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="bottom" />
+      )}
+
+      <div class="mt-12">
+        <NewsletterSignup destination={destination} />
+      </div>
+
+      <div class="mt-12">
+        <Comments />
+      </div>
 
     </div>
+
+    <!-- Right: symmetric whitespace (intentionally empty) -->
+    <div style="grid-column: 3;"></div>
+
   </div>
+
+  <!-- ── Mobile TOC — FAB + right-side drawer (hidden on ≥1440px) ── -->
+  {hasToc && (
+    <div id="mobile-toc-root">
+      <!-- Floating button -->
+      <button id="mobile-toc-fab" class="mobile-toc-fab" aria-label="Table of contents">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="16" y2="12"/>
+          <line x1="3" y1="18" x2="19" y2="18"/>
+        </svg>
+        <span>Contents</span>
+      </button>
+      <!-- Backdrop -->
+      <div id="mobile-toc-backdrop" class="mobile-toc-backdrop" aria-hidden="true"></div>
+      <!-- Drawer from right -->
+      <div id="mobile-toc-drawer" class="mobile-toc-drawer" role="dialog" aria-modal="true" aria-label="Table of contents">
+        <div class="mobile-toc-drawer-header">
+          <span class="mobile-toc-drawer-title">Contents</span>
+          <button id="mobile-toc-close" class="mobile-toc-close-btn" aria-label="Close table of contents">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+        <nav>
+          <ul class="mobile-toc-list">
+            {headings.filter(h => h.depth === 2 || h.depth === 3).map(h => (
+              <li>
+                <a
+                  href={`#${h.slug}`}
+                  class={`mobile-toc-link${h.depth === 3 ? ' mobile-toc-link--sub' : ''}`}
+                >
+                  {h.text}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  )}
+
+  <!-- ── Full-width footer — outside the grid so border-top spans all of <main> -->
+  <footer class="article-footer">
+    <div class="article-footer-inner">
+      <a href="/#newsletter" class="footer-link">Newsletter →</a>
+      <a href="/about" class="footer-link">About →</a>
+      <a
+        href="https://etsy.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="footer-link"
+      >Travel templates →</a>
+    </div>
+    <p class="footer-copy">{new Date().getFullYear()} GoinAtlas. All rights reserved.</p>
+  </footer>
+
 </BaseLayout>
+
+<style>
+  /*
+    ── 3-col grid: [TOC 1fr] [content min(680px,100%)] [right 1fr] ───────
+    Grid is ALWAYS active. The center column naturally handles every width:
+    · < 680px  → center = 100vw (full bleed), 1fr side cols = 0
+    · 680–1440px → center = 680px fixed, side cols grow symmetrically
+    · ≥ 1440px → same grid + TOC floats inside the left 1fr column
+  */
+  .article-grid {
+    display: grid;
+    grid-template-columns: 1fr min(680px, 100%) 1fr;
+  }
+
+  /* ── TOC column — hidden until ≥1440px ─────────────────────── */
+  .toc-column { display: none; }
+
+  /* ── Article content — fluid padding, no inline style ────────
+     Matches content left edge at every breakpoint.
+     On < 480px: 1.25rem (20px)
+     On 480px+: 1.5rem (24px)
+     On 1440px+: 100px (to create breathing room next to TOC)
+  */
+  .article-content-col {
+    grid-column: 2; /* Always column 2 — regardless of whether toc-column is in the flow */
+    padding: 2rem 1.25rem 4rem;
+  }
+  @media (min-width: 480px) {
+    .article-content-col {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+
+  /* ── Breadcrumb — always tracks the center column's left edge ──
+     Formula: max(base, (screen_width − 680px) / 2 + base)
+     · < 680px → max kicks in, padding = base (24px) since calc is ≤ 0
+     · 680–1440px → calc grows smoothly, always = center_col_left + base
+     · ≥ 1440px → overridden to 140px to align with the TOC sidebar
+  */
+  .breadcrumb-indent {
+    padding-left: max(1.25rem, calc((100% - 680px) / 2 + 1.25rem));
+    padding-right: 1.5rem;
+  }
+  @media (min-width: 480px) {
+    .breadcrumb-indent {
+      padding-left: max(1.5rem, calc((100% - 680px) / 2 + 1.5rem));
+    }
+  }
+
+  /* ── Hero meta pill — mirrors breadcrumb formula from the right ──
+     Same logic, mirrored: right = max(base, (100% − 680px) / 2 + base)
+     so the pill tracks the center column's right edge at all widths.
+  */
+  .meta-pill-anchor {
+    top: 16px;
+    right: max(1.25rem, calc((100% - 680px) / 2 + 1.25rem));
+  }
+  @media (min-width: 480px) {
+    .meta-pill-anchor {
+      right: max(1.5rem, calc((100% - 680px) / 2 + 1.5rem));
+    }
+  }
+
+  /* ── 1440px: TOC sidebar + article offset ───────────────────── */
+  @media (min-width: 1440px) {
+    .toc-column {
+      display: flex;
+      padding-left: 140px;
+      padding-right: 24px;
+    }
+    .article-content-col {
+      padding-left: 100px;
+      padding-right: 1.5rem;
+    }
+    .breadcrumb-indent {
+      padding-left: 140px;
+    }
+    .meta-pill-anchor {
+      right: 140px;
+    }
+  }
+
+  /* ── Full-width article footer — lives outside the grid ─── */
+  .article-footer {
+    border-top: 1px solid var(--color-border);
+    padding: 1.25rem 2rem;
+    margin-top: 4rem;
+  }
+  .article-footer-inner {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.25rem;
+  }
+  .footer-link {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+    text-decoration: none;
+    transition: opacity 0.12s;
+  }
+  .footer-link:hover {
+    opacity: 0.6;
+  }
+  .footer-copy {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  /* ── Mobile TOC FAB ──────────────────────────────────────── */
+  /* Only visible when sidebar TOC is hidden (< 1440px) */
+  #mobile-toc-root {
+    display: block;
+  }
+  @media (min-width: 1440px) {
+    #mobile-toc-root { display: none; }
+  }
+
+  .mobile-toc-fab {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    background: var(--color-text-primary);
+    color: #fff;
+    border: none;
+    border-radius: 9999px;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    font-family: var(--font-body);
+    cursor: pointer;
+    z-index: 90;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+    white-space: nowrap;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .mobile-toc-fab:hover {
+    transform: translateX(-50%) scale(1.04);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.22);
+  }
+
+  /* ── Mobile TOC Backdrop ─────────────────────────────────── */
+  .mobile-toc-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.42);
+    z-index: 200;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.22s ease;
+  }
+  .mobile-toc-backdrop.is-open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* ── Mobile TOC Drawer (slides in from right) ────────────── */
+  .mobile-toc-drawer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: min(320px, 85vw);
+    background: var(--color-surface);
+    z-index: 201;
+    transform: translateX(100%);
+    transition: transform 0.25s ease;
+    overflow-y: auto;
+    padding: 0 0 2rem 0;
+    box-shadow: -4px 0 24px rgba(0,0,0,0.1);
+  }
+  .mobile-toc-drawer.is-open {
+    transform: translateX(0);
+  }
+  .mobile-toc-drawer-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 1.25rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+    position: sticky;
+    top: 0;
+    background: var(--color-surface);
+    z-index: 1;
+  }
+  .mobile-toc-drawer-title {
+    font-weight: 700;
+    font-size: 0.9375rem;
+    color: var(--color-text-primary);
+    font-family: var(--font-body);
+  }
+  .mobile-toc-close-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    color: var(--color-text-secondary);
+    border-radius: 6px;
+    transition: background 0.12s, color 0.12s;
+  }
+  .mobile-toc-close-btn:hover {
+    background: var(--color-bg-subtle);
+    color: var(--color-text-primary);
+  }
+  .mobile-toc-list {
+    list-style: none;
+    margin: 0.75rem 0 0;
+    padding: 0 0.75rem;
+  }
+  .mobile-toc-link {
+    display: block;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    border-radius: 0.375rem;
+    transition: background 0.12s, color 0.12s;
+    line-height: 1.4;
+  }
+  .mobile-toc-link:hover,
+  .mobile-toc-link:active {
+    background: var(--color-bg-subtle);
+    color: var(--color-text-primary);
+  }
+  .mobile-toc-link--sub {
+    padding-left: 1.5rem;
+    font-size: 0.775rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ── Action icon buttons (Save + Share) ─────────────────── */
+  .action-icon-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    color: black;
+    transition: transform 0.12s ease;
+  }
+  .action-icon-btn:hover {
+    transform: scale(1.09);
+  }
+  .save-btn.is-saved {
+    color: black;
+  }
+</style>
+
+<script>
+  // ── Share button ──────────────────────────────────────────
+  document.querySelectorAll<HTMLButtonElement>('[data-share-btn]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const url  = new URL(btn.dataset.shareBtn!, window.location.origin).href;
+      const text = btn.dataset.shareTitle || document.title;
+      if (navigator.share) {
+        try { await navigator.share({ title: text, url }); } catch { /* user cancelled */ }
+      } else {
+        try {
+          await navigator.clipboard.writeText(url);
+          // Brief visual feedback
+          const orig = btn.innerHTML;
+          btn.innerHTML = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>';
+          setTimeout(() => { btn.innerHTML = orig; }, 1500);
+        } catch { /* clipboard denied */ }
+      }
+    });
+  });
+</script>
+
+<script>
+  // ── Mobile TOC drawer ─────────────────────────────────────
+  const fab      = document.getElementById('mobile-toc-fab');
+  const backdrop = document.getElementById('mobile-toc-backdrop');
+  const drawer   = document.getElementById('mobile-toc-drawer');
+  const closeBtn = document.getElementById('mobile-toc-close');
+
+  function openMobileToc() {
+    backdrop?.classList.add('is-open');
+    drawer?.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeMobileToc() {
+    backdrop?.classList.remove('is-open');
+    drawer?.classList.remove('is-open');
+    document.body.style.overflow = '';
+  }
+
+  fab?.addEventListener('click', openMobileToc);
+  backdrop?.addEventListener('click', closeMobileToc);
+  closeBtn?.addEventListener('click', closeMobileToc);
+
+  // Close when a heading link is tapped
+  drawer?.querySelectorAll('a').forEach((a) => a.addEventListener('click', closeMobileToc));
+</script>
+
+<script>
+  // Set --toc-contents-top so CSS scroll-margin-top matches the
+  // actual sticky position of "Contents" (used for hash-navigation)
+  function syncScrollMargin() {
+    const tocTitle = document.querySelector<HTMLElement>('.toc-title');
+    if (tocTitle) {
+      const top = tocTitle.getBoundingClientRect().top;
+      document.documentElement.style.setProperty('--toc-contents-top', `${top}px`);
+    }
+  }
+  syncScrollMargin();
+  window.addEventListener('resize', syncScrollMargin);
+</script>

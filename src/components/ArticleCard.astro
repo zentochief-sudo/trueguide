@@ -11,12 +11,24 @@ interface Props {
   tags?: string[];
 }
 
-const { title, description, destination, category, slug, heroImage, readingTime, city = 'national', tags = [] } = Astro.props;
+const {
+  title, description, destination, category,
+  slug, heroImage, readingTime, city = 'national', tags = [],
+} = Astro.props;
+
+const href = `/${destination.toLowerCase()}/${slug}`;
 ---
 
-<a
-  href={`/${destination.toLowerCase()}/${slug}`}
-  class="group block bg-white rounded-xl overflow-hidden border border-[var(--color-border)] hover:shadow-md transition-shadow"
+<!--
+  Stacking order (all within the article's non-stacking-context):
+    1. Normal-flow content (text, image) — no position/z-index
+    2. Invisible full-card <a>           — position:absolute, z-index:auto  → sits above normal flow
+    3. Save button                       — position:relative, z-index:1     → sits above the <a>
+
+  Result: clicking anywhere navigates; clicking Save does not.
+-->
+<article
+  class="article-card group relative flex flex-row gap-4 py-5 border-b border-[var(--color-border)] cursor-pointer"
   data-article-card
   data-title={title.toLowerCase()}
   data-description={description.toLowerCase()}
@@ -25,37 +37,93 @@ const { title, description, destination, category, slug, heroImage, readingTime,
   data-city={city.toLowerCase()}
   data-tags={tags.map((t) => t.toLowerCase()).join(',')}
 >
-  <!-- Image -->
-  <div class="relative h-52 overflow-hidden bg-gray-100">
-    {heroImage ? (
-      <img
-        src={heroImage}
-        alt={title}
-        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-      />
-    ) : (
-      <div class="w-full h-full bg-gradient-to-br from-[var(--color-brand-100)] to-[var(--color-brand-50)] flex items-center justify-center">
-        <span class="text-[var(--color-brand-500)] text-4xl">✦</span>
-      </div>
-    )}
-    <span class="absolute top-3 left-3 bg-white/90 backdrop-blur-sm text-xs font-semibold uppercase tracking-wider text-[var(--color-brand-600)] px-2.5 py-1 rounded-full">
-      {category}
-    </span>
-  </div>
+  <!-- Invisible full-card link: position:absolute → paints over normal-flow children -->
+  <a
+    href={href}
+    class="absolute inset-0 rounded"
+    aria-label={title}
+  ></a>
 
-  <!-- Content -->
-  <div class="p-5">
-    <h3 class="font-bold text-[var(--color-text-primary)] text-lg leading-snug mb-2 group-hover:text-[var(--color-brand-600)] transition-colors" style="font-family: var(--font-display)">
+  <!-- Text — normal flow, no z-index → painted below the invisible link -->
+  <div class="flex-1 min-w-0 flex flex-col">
+    <!-- Category + city -->
+    <div class="flex items-center gap-1.5 mb-2 text-xs text-[var(--color-text-muted)] font-medium">
+      <span class="text-[var(--color-brand-600)] font-semibold">{category}</span>
+      {city && city !== 'national' && (
+        <>
+          <span class="opacity-40">·</span>
+          <span class="capitalize">{city}</span>
+        </>
+      )}
+    </div>
+
+    <!-- Title — plain text, colour driven by group-hover -->
+    <h3
+      class="font-bold text-[var(--color-text-primary)] text-[1.05rem] leading-snug mb-2 line-clamp-2 group-hover:text-[var(--color-brand-600)] transition-colors"
+      style="font-family: var(--font-display)"
+    >
       {title}
     </h3>
-    <p class="text-sm text-[var(--color-text-secondary)] line-clamp-2 mb-4 leading-relaxed">
+
+    <!-- Description -->
+    <p class="text-sm text-[var(--color-text-secondary)] line-clamp-1 leading-relaxed mb-3 flex-1">
       {description}
     </p>
-    <div class="flex items-center justify-between">
-      <span class="text-xs text-[var(--color-text-muted)]">{readingTime} min read</span>
-      <span class="text-xs font-semibold text-[var(--color-brand-600)] group-hover:translate-x-1 transition-transform inline-block">
+
+    <!-- Meta row -->
+    <div class="flex items-center gap-2 text-xs text-[var(--color-text-muted)]">
+      <span>{readingTime} min read</span>
+      <!--
+        Save button: position:relative + z-index:1 places it above the invisible <a>
+        so clicks reach the button and don't propagate to the link.
+      -->
+      <button
+        data-save-btn={href}
+        class="save-btn relative z-[1] ml-1 p-0.5 rounded flex-shrink-0"
+        aria-label="Save to reading list"
+        aria-pressed="false"
+        type="button"
+      >
+        <svg class="save-icon-outline w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+          <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+        </svg>
+        <svg class="save-icon-filled w-3.5 h-3.5 hidden" fill="currentColor" viewBox="0 0 24 24">
+          <path fill-rule="evenodd" d="M6.32 2.577a49.255 49.255 0 0111.36 0c1.497.174 2.57 1.46 2.57 2.93V21a.75.75 0 01-1.085.67L12 18.089l-7.165 3.583A.75.75 0 013.75 21V5.507c0-1.47 1.073-2.756 2.57-2.93z" clip-rule="evenodd"/>
+        </svg>
+      </button>
+      <span class="ml-auto font-semibold text-[var(--color-brand-600)] opacity-0 group-hover:opacity-100 transition-opacity">
         Read →
       </span>
     </div>
   </div>
-</a>
+
+  <!-- Image — normal flow, no z-index → painted below the invisible link -->
+  {heroImage ? (
+    <div class="shrink-0 overflow-hidden rounded-sm bg-gray-100" style="width:160px;height:107px">
+      <img
+        src={heroImage}
+        alt={title}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+      />
+    </div>
+  ) : (
+    <div class="shrink-0 rounded-sm flex items-center justify-center" style="width:160px;height:107px;background:#f5f5f5">
+      <svg class="w-5 h-5" fill="none" stroke="#d4d4d4" stroke-width="1.5" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+      </svg>
+    </div>
+  )}
+</article>
+
+<style>
+  .save-btn {
+    color: var(--color-text-muted);
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: color 0.12s;
+    line-height: 0;
+  }
+  .save-btn:hover  { color: var(--color-brand-600); }
+  .save-btn.is-saved { color: var(--color-brand-600); }
+</style>

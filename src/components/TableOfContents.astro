@@ -7,59 +7,175 @@ interface Heading {
 
 interface Props {
   headings: Heading[];
+  title?: string;
 }
 
-const { headings } = Astro.props;
+const { headings, title = 'Contents' } = Astro.props;
 const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
 {filtered.length > 1 && (
-  <nav data-toc aria-label="Table of contents">
-    <p class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4 px-1">
-      Contents
-    </p>
-    <ul class="space-y-0.5">
-      {filtered.map((heading) => (
-        <li>
-          <a
-            href={`#${heading.slug}`}
-            data-toc-link={heading.slug}
-            class={[
-              'block text-sm leading-snug py-1.5 px-3 rounded-lg transition-all',
-              'text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-brand-50)]',
-              heading.depth === 3 ? 'pl-6 text-xs' : '',
-            ].join(' ')}
-          >
-            {heading.text}
-          </a>
-        </li>
-      ))}
-    </ul>
+  <nav data-toc aria-label="Table of contents" class="toc-root">
+
+    <!-- Simple "Contents" label — no background, aligned with items -->
+    <p class="toc-title">{title}</p>
+
+    <!-- Items list — single left line, active bar overlays it at the active item -->
+    <div class="toc-items-wrap">
+      <ul class="toc-items">
+        {filtered.map((heading) => (
+          <li>
+            <a
+              href={`#${heading.slug}`}
+              data-toc-link={heading.slug}
+              class={['toc-link', heading.depth === 3 ? 'toc-link--sub' : ''].join(' ')}
+              title={heading.text}
+            >
+              <span class="toc-link-bar" aria-hidden="true"></span>
+              <span class="toc-link-text">{heading.text}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
   </nav>
 )}
 
+<style>
+  /* ── Container ─────────────────────────────────────────── */
+  .toc-root {
+    font-size: 0.8125rem; /* ~13px */
+    line-height: 1.4;
+  }
+
+  /* ── Plain "Contents" label ────────────────────────────── */
+  .toc-title {
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: var(--color-text-primary); /* black */
+    margin: 0 0 0.75rem 0;
+    padding-left: 0; /* flush with the vertical track line */
+  }
+
+  /* ── Items wrap: single track line via ::before ─────────── */
+  .toc-items-wrap {
+    position: relative;
+    padding-left: 0; /* line is now flush with toc-root left edge */
+  }
+  /* The unified track line — light gray, unobtrusive */
+  .toc-items-wrap::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #e0e0e0;
+    border-radius: 1px;
+  }
+  .toc-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    min-width: 0;
+  }
+
+  /* ── Individual link ────────────────────────────────────── */
+  .toc-link {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.45rem 0.5rem 0.45rem 0.875rem;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    border-radius: 0 0.375rem 0.375rem 0;
+    transition: color 0.12s, background 0.12s;
+    gap: 0;
+  }
+  .toc-link:hover {
+    color: var(--color-text-primary);
+    background: var(--color-bg-subtle);
+  }
+  .toc-link--sub {
+    padding-left: 1.5rem;
+    font-size: 0.775rem;
+    color: var(--color-text-muted);
+  }
+
+  /* Active bar — overlays the gray track at exactly x=0 of .toc-items-wrap */
+  .toc-link-bar {
+    position: absolute;
+    left: 0; /* .toc-link starts at x=0 of .toc-items-wrap, so left:0 aligns with the track */
+    top: 0;
+    bottom: 0;
+    width: 2px;        /* same width as the track */
+    border-radius: 1px;
+    background: var(--color-brand-600);
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+
+  /* Text truncation */
+  .toc-link-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+  }
+
+  /* ── Active state ───────────────────────────────────────── */
+  .toc-link.is-active {
+    color: var(--color-brand-600);
+    font-weight: 600;
+  }
+  .toc-link.is-active .toc-link-bar {
+    opacity: 1;
+  }
+  .toc-link.is-active.toc-link--sub {
+    color: var(--color-brand-600);
+  }
+</style>
+
 <script>
-  const tocLinks = document.querySelectorAll('[data-toc-link]');
+  const tocLinks = document.querySelectorAll<HTMLAnchorElement>('[data-toc-link]');
   if (tocLinks.length === 0) {
-    // nothing to do
+    // nothing
   } else {
-    // Smooth scroll on click
+    // Lock flag: prevents the IntersectionObserver from overriding the
+    // active item while a programmatic smooth scroll is in flight.
+    let scrollLocked = false;
+    let scrollLockTimer: ReturnType<typeof setTimeout>;
+
+    // Smooth scroll — align heading with the "Contents" label in the sticky TOC
     tocLinks.forEach((link) => {
       link.addEventListener('click', (e) => {
         e.preventDefault();
-        const slug = (link as HTMLElement).dataset.tocLink!;
+        const slug = link.dataset.tocLink!;
         const target = document.getElementById(slug);
         if (target) {
-          const offset = 88; // account for sticky header
-          const top = target.getBoundingClientRect().top + window.scrollY - offset;
+          // 1. Set the clicked item as active immediately so it never flickers
+          setActive(slug);
+
+          // 2. Lock the observer for the duration of the smooth scroll (~600ms)
+          scrollLocked = true;
+          clearTimeout(scrollLockTimer);
+          scrollLockTimer = setTimeout(() => { scrollLocked = false; }, 650);
+
+          // 3. Scroll so the heading aligns with the "Contents" label
+          const tocTitle = document.querySelector<HTMLElement>('.toc-title');
+          const contentsTop = tocTitle
+            ? tocTitle.getBoundingClientRect().top
+            : 148; // fallback
+          const top = target.getBoundingClientRect().top + window.scrollY - contentsTop + 12;
           window.scrollTo({ top, behavior: 'smooth' });
         }
       });
     });
 
-    // Scroll-spy with IntersectionObserver
+    // Scroll-spy
     const headingEls = Array.from(tocLinks)
-      .map((link) => document.getElementById((link as HTMLElement).dataset.tocLink!))
+      .map((link) => document.getElementById(link.dataset.tocLink!))
       .filter(Boolean) as HTMLElement[];
 
     let activeSlug: string | null = null;
@@ -68,17 +184,13 @@ const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
       if (slug === activeSlug) return;
       activeSlug = slug;
       tocLinks.forEach((link) => {
-        const el = link as HTMLElement;
-        const isActive = el.dataset.tocLink === slug;
-        el.classList.toggle('!text-[var(--color-brand-600)]', isActive);
-        el.classList.toggle('!bg-[var(--color-brand-50)]', isActive);
-        el.classList.toggle('font-medium', isActive);
+        link.classList.toggle('is-active', link.dataset.tocLink === slug);
       });
     }
 
     const observer = new IntersectionObserver(
       (entries) => {
-        // Find the topmost visible heading
+        if (scrollLocked) return; // Don't override active state during programmatic scroll
         const visible = entries
           .filter((e) => e.isIntersecting)
           .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
@@ -86,7 +198,7 @@ const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
           setActive((visible[0].target as HTMLElement).id);
         }
       },
-      { rootMargin: '-80px 0px -60% 0px', threshold: 0 }
+      { rootMargin: '-100px 0px -55% 0px', threshold: 0 }
     );
 
     headingEls.forEach((el) => observer.observe(el));

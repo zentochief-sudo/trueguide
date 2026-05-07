@@ -2,7 +2,7 @@
 title: "2 Weeks in Japan: The Itinerary That Actually Works"
 description: "Skip the rushed Golden Route. This 14-day Japan itinerary balances iconic cities with places most tourists never reach — built for 2026, with real costs and honest advice."
 destination: "Japan"
-category: "Itinerary"
+category: Itinerary
 publishDate: 2026-04-23
 heroImage: "/images/japan-2weeks-hero.jpg"
 readingTime: 18

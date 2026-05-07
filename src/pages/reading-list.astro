@@ -1,0 +1,286 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const japanArticles  = await getCollection('japan');
+let koreaArticles: typeof japanArticles = [];
+try { koreaArticles = await getCollection('korea'); } catch {}
+
+const allArticles = [...japanArticles, ...koreaArticles]
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+---
+
+<BaseLayout
+  title="Reading List"
+  description="Your saved GoinAtlas travel guides."
+>
+  <div class="px-6 pt-10 pb-16 max-w-3xl mx-auto">
+
+    <!-- Page header -->
+    <div class="mb-6">
+      <h1 class="text-2xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-display)">
+        Reading List
+      </h1>
+      <p class="text-sm text-[var(--color-text-muted)] mt-1">
+        <span id="rl-count">0</span> saved guides
+      </p>
+    </div>
+
+    <!-- Tabs nav — hidden until JS decides -->
+    <nav
+      id="rl-tabs-nav"
+      class="flex items-center border-b border-[var(--color-border)] bg-white sticky z-[28]"
+      style="top: 4rem; display: none"
+    >
+      <div id="rl-tabs-inner" class="flex overflow-x-auto scrollbar-hide flex-1">
+        <!-- Built by JS -->
+      </div>
+    </nav>
+
+    <!-- Category pills — hidden until JS decides -->
+    <div
+      id="rl-pills-wrap"
+      class="sticky z-[27] py-4 border-b border-[var(--color-border)] bg-white"
+      style="top: calc(4rem + 2.5rem); display: none"
+    >
+      <div id="rl-pills-inner" class="flex flex-wrap gap-2">
+        <!-- Built by JS -->
+      </div>
+    </div>
+
+    <!-- Empty state -->
+    <div id="rl-empty" class="text-center py-24">
+      <svg class="w-10 h-10 mx-auto mb-4 opacity-20 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+      </svg>
+      <p class="text-[var(--color-text-muted)] font-medium mb-1">Your reading list is empty</p>
+      <p class="text-sm text-[var(--color-text-muted)] mb-4">Save articles while browsing to read them later</p>
+      <a href="/" class="text-sm text-[var(--color-brand-600)] hover:underline font-medium">Browse guides →</a>
+    </div>
+
+    <!-- Articles feed — all pre-rendered, shown by JS -->
+    <div id="rl-articles">
+      {allArticles.map((article) => {
+        const url = `/${article.data.destination.toLowerCase()}/${article.id}`;
+        return (
+          <div
+            class="rl-wrap"
+            style="display:none"
+            data-url={url}
+            data-dest={article.data.destination.toLowerCase()}
+            data-category={article.data.category.toLowerCase()}
+          >
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              destination={article.data.destination}
+              category={article.data.category}
+              slug={article.id}
+              heroImage={article.data.heroImage}
+              readingTime={article.data.readingTime}
+              city={article.data.city}
+              tags={article.data.tags}
+            />
+          </div>
+        );
+      })}
+    </div>
+
+  </div>
+</BaseLayout>
+
+<style>
+  /* ── Tabs ────────────────────────────────────── */
+  .rl-tab {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.65rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    cursor: pointer;
+    background: none;
+    border-top: none; border-left: none; border-right: none;
+    transition: color 0.15s, border-color 0.15s;
+    white-space: nowrap;
+  }
+  .rl-tab:hover { color: var(--color-text-primary); }
+  .rl-tab.is-active {
+    color: var(--color-text-primary);
+    border-bottom-color: var(--color-text-primary);
+    font-weight: 600;
+  }
+
+  /* ── Pills ───────────────────────────────────── */
+  .rl-pill {
+    padding: 0.3rem 0.875rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 400;
+    border: none;
+    background: #f2f2f2;
+    color: var(--color-text-primary);
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+    line-height: 1.6;
+    white-space: nowrap;
+  }
+  .rl-pill:hover { background: #e8e8e8; }
+  .rl-pill.is-active {
+    background: var(--color-brand-600);
+    color: #fff;
+    font-weight: 500;
+  }
+  .rl-pill .pill-x { display: none; }
+  .rl-pill.is-active .pill-x { display: inline; opacity: 0.7; margin-left: 2px; }
+</style>
+
+<script>
+  const RL_KEY = 'goinatlas:reading-list';
+  function rlGet(): string[] {
+    try { return JSON.parse(localStorage.getItem(RL_KEY) || '[]'); } catch { return []; }
+  }
+
+  const wraps      = document.querySelectorAll<HTMLElement>('.rl-wrap');
+  const emptyEl    = document.getElementById('rl-empty');
+  const tabsNav    = document.getElementById('rl-tabs-nav');
+  const tabsInner  = document.getElementById('rl-tabs-inner');
+  const pillsWrap  = document.getElementById('rl-pills-wrap');
+  const pillsInner = document.getElementById('rl-pills-inner');
+  const countEl    = document.getElementById('rl-count');
+
+  let savedSet         = new Set<string>();
+  let activeTab        = 'all';
+  let activeCategories = new Set<string>();
+
+  const destLabels: Record<string, string> = {
+    japan: '🇯🇵 Japan',
+    korea: '🇰🇷 South Korea',
+  };
+
+  function catLabel(cat: string): string {
+    const map: Record<string, string> = {
+      itinerary: 'Itinerary',
+      culture:   'Culture',
+      food:      'Food & Drink',
+      tips:      'Tips',
+      transport: 'Transport',
+      budget:    'Budget',
+    };
+    return map[cat] ?? (cat.charAt(0).toUpperCase() + cat.slice(1));
+  }
+
+  function buildUI() {
+    savedSet = new Set(rlGet());
+
+    // Collect destinations + categories from all saved articles
+    const savedDests = new Set<string>();
+    const savedCats  = new Set<string>();
+    wraps.forEach((w) => {
+      if (savedSet.has(w.dataset.url!)) {
+        savedDests.add(w.dataset.dest!);
+        savedCats.add(w.dataset.category!);
+      }
+    });
+
+    const hasSaved = savedSet.size > 0;
+
+    // Empty state
+    if (emptyEl) emptyEl.style.display = hasSaved ? 'none' : '';
+
+    // ── Tabs ─────────────────────────────────────────────────────
+    const showTabs = hasSaved && savedDests.size > 1;
+    if (tabsNav) tabsNav.style.display = showTabs ? '' : 'none';
+    if (tabsInner) {
+      tabsInner.innerHTML = '';
+      if (showTabs) {
+        // Validate active tab
+        const validTabs = new Set(['all', ...savedDests]);
+        if (!validTabs.has(activeTab)) activeTab = 'all';
+
+        const tabs = [
+          { id: 'all', label: 'All' },
+          ...Array.from(savedDests).map((d) => ({ id: d, label: destLabels[d] ?? d })),
+        ];
+        tabs.forEach(({ id, label }) => {
+          const btn = document.createElement('button');
+          btn.className = 'rl-tab' + (activeTab === id ? ' is-active' : '');
+          btn.dataset.tab = id;
+          btn.textContent = label;
+          btn.addEventListener('click', () => {
+            activeTab = id;
+            document.querySelectorAll<HTMLButtonElement>('.rl-tab').forEach((b) =>
+              b.classList.toggle('is-active', b.dataset.tab === id)
+            );
+            activeCategories.clear();
+            buildUI();
+          });
+          tabsInner.appendChild(btn);
+        });
+      }
+    }
+
+    // ── Pills — categories visible in current tab ────────────────
+    const tabCats = new Set<string>();
+    wraps.forEach((w) => {
+      if (
+        savedSet.has(w.dataset.url!) &&
+        (activeTab === 'all' || w.dataset.dest === activeTab)
+      ) {
+        tabCats.add(w.dataset.category!);
+      }
+    });
+
+    const showPills = hasSaved && tabCats.size > 1;
+    if (pillsWrap) pillsWrap.style.display = showPills ? '' : 'none';
+    if (pillsInner) {
+      pillsInner.innerHTML = '';
+      if (showPills) {
+        // Drop any stale active cats
+        [...activeCategories].forEach((c) => { if (!tabCats.has(c)) activeCategories.delete(c); });
+
+        tabCats.forEach((cat) => {
+          const btn = document.createElement('button');
+          btn.className = 'rl-pill' + (activeCategories.has(cat) ? ' is-active' : '');
+          btn.dataset.cat = cat;
+          btn.innerHTML = catLabel(cat) + '<span class="pill-x"> ×</span>';
+          btn.addEventListener('click', () => {
+            if (activeCategories.has(cat)) {
+              activeCategories.delete(cat);
+              btn.classList.remove('is-active');
+            } else {
+              activeCategories.add(cat);
+              btn.classList.add('is-active');
+            }
+            applyFilters();
+          });
+          pillsInner.appendChild(btn);
+        });
+      }
+    }
+
+    applyFilters();
+  }
+
+  function applyFilters() {
+    let visible = 0;
+    wraps.forEach((w) => {
+      const isSaved  = savedSet.has(w.dataset.url!);
+      const tabMatch = activeTab === 'all' || w.dataset.dest === activeTab;
+      const catMatch = activeCategories.size === 0 || activeCategories.has(w.dataset.category!);
+      const show = isSaved && tabMatch && catMatch;
+      w.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+    if (countEl) countEl.textContent = String(visible);
+  }
+
+  // Initial build
+  buildUI();
+
+  // Rebuild when an article is saved/unsaved on this page
+  document.addEventListener('goinatlas:readingListChanged', () => buildUI());
+</script>

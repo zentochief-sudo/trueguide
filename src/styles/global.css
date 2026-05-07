@@ -2,23 +2,37 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-50: #eef1fb;
+  /* ── Brand blues ───────────────────────────────────────────── */
+  --color-brand-50:  #eef1fb;
   --color-brand-100: #d4daf6;
+  --color-brand-200: #b3bee9;
   --color-brand-500: #6277e0;
   --color-brand-600: #5269DB;
   --color-brand-700: #3f55c9;
   --color-brand-900: #1e2d6b;
-  --color-accent: #F0D17C;
-  --color-surface: #ffffff;
-  --color-bg: #F5F5F2;
-  --color-border: #e2e2de;
-  --color-text-primary: #111111;
-  --color-text-secondary: #525252;
-  --color-text-muted: #868686;
+  --color-accent:    #F0D17C;
+
+  /* ── Surface / backgrounds ────────────────────────────────── */
+  --color-surface:   #ffffff;
+  --color-bg:        #FAFAFA;          /* soft off-white — less harsh than pure white */
+  --color-bg-subtle: #EFEFEF;          /* hover/tinted surfaces — visibly distinct from bg */
+  --color-border:    #DCDCDC;          /* slightly darker border to stay visible on #FAFAFA */
+
+  /* ── Text scale ───────────────────────────────────────────── */
+  --color-text-primary:   #242424;     /* 14.9:1 on #FAFAFA ✅ AAA */
+  --color-text-secondary: #6B6B6B;     /* 5.1:1  on #FAFAFA ✅ AA  */
+  --color-text-muted:     #717171;     /* 4.7:1  on #FAFAFA ✅ AA  (was #767676 — 4.4:1 would fail) */
+
+  /* ── Typography ───────────────────────────────────────────── */
   --font-display: 'Unbounded', system-ui, sans-serif;
-  --font-body: 'Inter', system-ui, sans-serif;
+  --font-body:    'Inter', system-ui, sans-serif;
 }
 
+/* ── Utility: hide scrollbar (keep scroll) ──────────────────── */
+.scrollbar-hide { scrollbar-width: none; }
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+
+/* ── Base ───────────────────────────────────────────────────── */
 body {
   background-color: var(--color-bg);
   color: var(--color-text-primary);
@@ -28,20 +42,47 @@ body {
 
 h1, h2, h3 { font-family: var(--font-display); }
 
+/* ── Article prose ──────────────────────────────────────────── */
 .prose {
   max-width: 72ch;
   font-size: 1.125rem;
   line-height: 1.8;
   color: var(--color-text-primary);
 }
-.prose h2 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; margin-top: 2.5rem; margin-bottom: 1rem; }
-.prose h3 { font-family: var(--font-display); font-size: 1.15rem; font-weight: 700; margin-top: 2rem; margin-bottom: 0.75rem; }
+.prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  scroll-margin-top: var(--toc-contents-top, 9.25rem);
+}
+.prose h3 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  scroll-margin-top: var(--toc-contents-top, 9.25rem);
+}
 .prose p { margin-bottom: 1.5rem; }
 .prose ul { list-style: disc; padding-left: 1.5rem; margin-bottom: 1.5rem; }
 .prose ul li { margin-bottom: 0.5rem; }
 .prose a { color: var(--color-brand-600); text-decoration: underline; text-underline-offset: 3px; }
 .prose strong { font-weight: 600; }
-.prose blockquote { border-left: 3px solid var(--color-brand-600); padding-left: 1.25rem; font-style: italic; color: var(--color-text-secondary); margin: 2rem 0; }
+.prose blockquote {
+  border-left: 3px solid var(--color-brand-600);
+  padding-left: 1.25rem;
+  font-style: italic;
+  color: var(--color-text-secondary);
+  margin: 2rem 0;
+}
 .prose table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; font-size: 0.95rem; }
-.prose th { background: var(--color-brand-50); padding: 0.6rem 1rem; text-align: left; font-weight: 600; border-bottom: 2px solid var(--color-brand-100); }
+.prose th {
+  background: var(--color-brand-50);
+  padding: 0.6rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--color-brand-100);
+}
 .prose td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--color-border); }

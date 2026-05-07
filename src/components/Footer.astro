@@ -1,58 +1,39 @@
 ---
-const destinations = [
-  { label: 'Japan', slug: 'japan' },
-  { label: 'South Korea', slug: 'korea' },
-];
+// Footer — fixed at bottom of right sidebar column
+// Aligns with Recommended Cities (pl-8 = 2rem from the border)
 ---
 
-<footer class="bg-[var(--color-text-primary)] text-white mt-20">
-  <div class="max-w-6xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
-    <!-- Brand -->
-    <div>
-      <img src="/images/logo.svg" alt="GoinAtlas" class="h-5 w-auto mb-4 brightness-0 invert" />
-      <p class="text-white/60 text-sm leading-relaxed max-w-xs">
-        Deep travel guides written by people who actually went. No filler, no fluff — just what you need to discover a place properly.
-      </p>
-    </div>
-
-    <!-- Destinations -->
-    <div>
-      <p class="text-xs font-semibold uppercase tracking-widest text-white/40 mb-4">Destinations</p>
-      <ul class="space-y-2">
-        {destinations.map((dest) => (
-          <li>
-            <a href={`/${dest.slug}`} class="text-sm text-white/70 hover:text-white transition-colors">
-              {dest.label}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </div>
-
-    <!-- Links -->
-    <div>
-      <p class="text-xs font-semibold uppercase tracking-widest text-white/40 mb-4">More</p>
-      <ul class="space-y-2">
-        <li><a href="/#newsletter" class="text-sm text-white/70 hover:text-white transition-colors">Newsletter</a></li>
-        <li><a href="/about" class="text-sm text-white/70 hover:text-white transition-colors">About</a></li>
-        <li>
-          <a
-            href="https://etsy.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-sm text-white/70 hover:text-white transition-colors"
-          >
-            Travel Templates →
-          </a>
-        </li>
-      </ul>
-    </div>
+<div
+  id="site-footer"
+  class="fixed bottom-0 right-0 bg-[var(--color-bg)] z-30 hidden lg:block"
+  style="width: 439px; padding: 1rem 1.5rem 1.25rem 30px;"
+>
+  <div class="flex items-center gap-5 mb-1">
+    <a
+      href="/#newsletter"
+      class="text-[var(--color-text-primary)] hover:opacity-70 transition-opacity"
+      style="font-family: var(--font-body); font-size: 14px; font-weight: 700;"
+    >
+      Newsletter →
+    </a>
+    <a
+      href="/about"
+      class="text-[var(--color-text-primary)] hover:opacity-70 transition-opacity"
+      style="font-family: var(--font-body); font-size: 14px; font-weight: 700;"
+    >
+      About →
+    </a>
+    <a
+      href="https://etsy.com"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-[var(--color-text-primary)] hover:opacity-70 transition-opacity"
+      style="font-family: var(--font-body); font-size: 14px; font-weight: 700;"
+    >
+      Travel templates →
+    </a>
   </div>
-
-  <div class="border-t border-white/10">
-    <div class="max-w-6xl mx-auto px-6 py-5 flex flex-col md:flex-row items-center justify-between gap-3">
-      <p class="text-xs text-white/40">© {new Date().getFullYear()} GoinAtlas. All rights reserved.</p>
-      <p class="text-xs text-white/30">Made with intention, not a template.</p>
-    </div>
-  </div>
-</footer>
+  <p style="font-family: var(--font-body); font-size: 14px; font-weight: 500; color: var(--color-text-secondary);">
+    {new Date().getFullYear()} GoinAtlas. All rights reserved.
+  </p>
+</div>

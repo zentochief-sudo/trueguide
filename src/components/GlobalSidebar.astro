@@ -1,0 +1,360 @@
+---
+// GlobalSidebar — collapsible left nav, Medium-style
+import { getCollection } from 'astro:content';
+
+const japanArticles  = await getCollection('japan');
+let koreaArticles:  typeof japanArticles = [];
+let usaArticles:    typeof japanArticles = [];
+let mexicoArticles: typeof japanArticles = [];
+let canadaArticles: typeof japanArticles = [];
+try { koreaArticles  = await getCollection('korea');  } catch {}
+try { usaArticles    = await getCollection('usa');    } catch {}
+try { mexicoArticles = await getCollection('mexico'); } catch {}
+try { canadaArticles = await getCollection('canada'); } catch {}
+
+const totalCount  = japanArticles.length + koreaArticles.length + usaArticles.length + mexicoArticles.length + canadaArticles.length;
+const japanCount  = japanArticles.length;
+const koreaCount  = koreaArticles.length;
+const usaCount    = usaArticles.length;
+const mexicoCount = mexicoArticles.length;
+const canadaCount = canadaArticles.length;
+---
+
+<aside id="global-sidebar" class="shrink-0 border-r border-[var(--color-border)] bg-[var(--color-bg)]">
+  <div id="global-sidebar-inner" class="w-[240px] flex flex-col" style="height: 100%;">
+
+    <!-- Scrollable nav area -->
+    <div class="flex-1 overflow-y-auto py-4 px-3 space-y-0.5">
+
+      <!-- Home -->
+      <a href="/" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+        <svg class="icon-outline w-[18px] h-[18px] shrink-0" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+          <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+        </svg>
+        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M11.47 3.841a.75.75 0 011.06 0l8.69 8.69a.75.75 0 101.06-1.061l-8.689-8.69a2.25 2.25 0 00-3.182 0l-8.69 8.69a.75.75 0 101.061 1.06l8.69-8.689z"/>
+          <path d="M12 5.432l8.159 8.159c.03.03.06.058.091.086v6.198c0 1.035-.84 1.875-1.875 1.875H15a.75.75 0 01-.75-.75v-4.5a.75.75 0 00-.75-.75h-3a.75.75 0 00-.75.75V21a.75.75 0 01-.75.75H5.625a1.875 1.875 0 01-1.875-1.875v-6.198a.075.075 0 01.091-.086L12 5.43z"/>
+        </svg>
+        <span class="flex-1">Home</span>
+        <span class="sidebar-count">{totalCount}</span>
+      </a>
+
+      <!-- Reading List -->
+      <a href="/reading-list" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors" id="rl-nav-link">
+        <svg class="icon-outline w-[18px] h-[18px] shrink-0" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+          <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+        </svg>
+        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden" fill="currentColor" viewBox="0 0 24 24">
+          <path fill-rule="evenodd" d="M6.32 2.577a49.255 49.255 0 0111.36 0c1.497.174 2.57 1.46 2.57 2.93V21a.75.75 0 01-1.085.67L12 18.089l-7.165 3.583A.75.75 0 013.75 21V5.507c0-1.47 1.073-2.756 2.57-2.93z" clip-rule="evenodd"/>
+        </svg>
+        <span class="flex-1">Reading List</span>
+        <span id="sidebar-rl-count" class="sidebar-count"></span>
+      </a>
+
+      <div class="pt-4 mt-3 border-t border-[var(--color-border)]">
+        <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">Destinations</p>
+
+        <a href="/japan" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇯🇵</span>
+          <span class="flex-1">Japan</span>
+          <span class="sidebar-count">{japanCount}</span>
+        </a>
+
+        <a href="/korea" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇰🇷</span>
+          <span class="flex-1">South Korea</span>
+          <span class="sidebar-count">{koreaCount}</span>
+        </a>
+
+        <div class="pt-3 mt-2 border-t border-[var(--color-border)]">
+          <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">FIFA 2026 🏆</p>
+
+          <a href="/usa" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+            <span class="text-base leading-none shrink-0">🇺🇸</span>
+            <span class="flex-1">United States</span>
+            {usaCount > 0 && <span class="sidebar-count">{usaCount}</span>}
+          </a>
+
+          <a href="/mexico" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+            <span class="text-base leading-none shrink-0">🇲🇽</span>
+            <span class="flex-1">Mexico</span>
+            {mexicoCount > 0 && <span class="sidebar-count">{mexicoCount}</span>}
+          </a>
+
+          <a href="/canada" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+            <span class="text-base leading-none shrink-0">🇨🇦</span>
+            <span class="flex-1">Canada</span>
+            {canadaCount > 0 && <span class="sidebar-count">{canadaCount}</span>}
+          </a>
+        </div>
+      </div>
+
+    </div><!-- /scrollable nav -->
+
+    <!-- Mobile-only footer: profile + language fixed at the bottom -->
+    <div class="sidebar-mobile-footer">
+      <!-- Profile button -->
+      <button
+        class="flex items-center justify-center w-9 h-9 rounded-full bg-[var(--color-brand-50)] text-[var(--color-brand-600)] hover:bg-[var(--color-brand-100)] transition-colors"
+        aria-label="Profile"
+      >
+        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M12 12a3 3 0 100-6 3 3 0 000 6z"/>
+          <path fill-rule="evenodd" d="M12 18c-4.418 0-8-1.79-8-4s3.582-4 8-4 8 1.79 8 4-3.582 4-8 4z" clip-rule="evenodd"/>
+        </svg>
+      </button>
+      <!-- Language -->
+      <div class="relative" id="sidebar-lang-wrapper">
+        <button
+          id="sidebar-lang-btn"
+          class="flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-full transition-colors"
+        >
+          <span>EN</span>
+          <svg class="w-3 h-3 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </button>
+        <div id="sidebar-lang-menu" class="hidden absolute left-0 bottom-full mb-1 bg-white border border-[var(--color-border)] rounded-xl shadow-lg overflow-hidden min-w-[80px] z-50">
+          <button class="w-full px-4 py-2.5 text-xs font-semibold text-left text-[var(--color-brand-700)] bg-[var(--color-brand-50)]">EN</button>
+        </div>
+      </div>
+    </div><!-- /sidebar-mobile-footer -->
+
+  </div>
+</aside>
+
+<!-- Toast lives outside the sidebar so it's never clipped by overflow:hidden -->
+<div id="rl-saved-toast" aria-live="polite" role="status">
+  <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+    <path d="M5 13l4 4L19 7"/>
+  </svg>
+  <span>Saved to reading list</span>
+</div>
+
+<style>
+  #global-sidebar {
+    width: 240px;
+    overflow: hidden;
+    transition: width 0.22s ease;
+    position: sticky;
+    top: var(--header-h, 4rem);
+    height: calc(100vh - var(--header-h, 4rem));
+    align-self: flex-start;
+  }
+  #global-sidebar.is-collapsed { width: 0; }
+
+  @media (max-width: 767px) {
+    #global-sidebar {
+      position: fixed;
+      left: 0;
+      top: var(--header-h, 4rem);
+      height: calc(100vh - var(--header-h, 4rem));
+      z-index: 45;
+      width: 0;
+      box-shadow: none;
+    }
+    #global-sidebar:not(.is-collapsed) {
+      width: 240px;
+      box-shadow: 4px 0 24px rgba(0,0,0,0.10);
+    }
+  }
+
+  .sidebar-nav-link:hover { background: var(--color-bg-subtle); }
+
+  .sidebar-nav-link[aria-current="page"] .icon-outline { display: none; }
+  .sidebar-nav-link[aria-current="page"] .icon-solid {
+    display: block;
+    color: var(--color-brand-700);
+    fill: var(--color-brand-700);
+  }
+  .sidebar-nav-link[aria-current="page"] .icon-solid path,
+  .sidebar-nav-link[aria-current="page"] .icon-solid rect,
+  .sidebar-nav-link[aria-current="page"] .icon-solid circle {
+    fill: var(--color-brand-700);
+  }
+  /* brand-700 on brand-50 = 5.55:1 ✅  (brand-600 was only 4.23:1 ❌) */
+  .sidebar-nav-link[aria-current="page"] {
+    font-weight: 600;
+    background: var(--color-brand-50) !important;
+    color: var(--color-brand-700);
+  }
+  .sidebar-nav-link[aria-current="page"] .sidebar-count {
+    color: var(--color-brand-700);
+  }
+
+  /* ── Saved-to-reading-list toast ──────────────────────────── */
+  #rl-saved-toast {
+    position: fixed;
+    /* left is always sidebar-width + gap; top is set by JS */
+    left: 252px;
+    top: 8rem; /* fallback — JS overrides this */
+    transform: translateY(-50%) translateX(-8px);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px 6px 10px;
+    background: var(--color-text-primary);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.22);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 9999;
+  }
+  #rl-saved-toast.is-visible {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
+  /* caret pointing left toward the sidebar */
+  #rl-saved-toast::before {
+    content: '';
+    position: absolute;
+    right: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 5px solid transparent;
+    border-right-color: var(--color-text-primary);
+  }
+
+  /* ── Mobile footer (profile + language) — only on < 768px ──── */
+  .sidebar-mobile-footer {
+    display: none;
+  }
+  @media (max-width: 767px) {
+    .sidebar-mobile-footer {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.875rem 1rem;
+      border-top: 1px solid var(--color-border);
+      background: var(--color-bg);
+      flex-shrink: 0;
+    }
+  }
+
+  /* Count badge */
+  .sidebar-count {
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    line-height: 1;
+    min-width: 1.5ch;
+    text-align: right;
+  }
+</style>
+
+<script>
+  const sidebar = document.getElementById('global-sidebar');
+
+  function applyCollapsed(collapsed: boolean, animate = true) {
+    if (!sidebar) return;
+    if (!animate) {
+      sidebar.style.transition = 'none';
+      requestAnimationFrame(() => { sidebar.style.transition = ''; });
+    }
+    sidebar.classList.toggle('is-collapsed', collapsed);
+    localStorage.setItem('goinatlas:sidebar-collapsed', collapsed ? '1' : '0');
+    document.dispatchEvent(new CustomEvent('goinatlas:sidebarChanged', { detail: { collapsed } }));
+  }
+
+  const stored = localStorage.getItem('goinatlas:sidebar-collapsed');
+  const defaultCollapsed = window.innerWidth < 768 ? true : stored === '1';
+  applyCollapsed(defaultCollapsed, false);
+
+  // Remove the pre-paint init CSS — JS has taken over, normal transitions can resume
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      document.getElementById('goinatlas-init-css')?.remove();
+    });
+  });
+
+  document.addEventListener('goinatlas:toggleSidebar', () => {
+    applyCollapsed(!sidebar?.classList.contains('is-collapsed'));
+  });
+
+  document.addEventListener('click', (e) => {
+    if (window.innerWidth >= 768) return;
+    const toggleBtn   = document.getElementById('sidebar-toggle-btn');
+    const collapseBtn = document.getElementById('sidebar-collapse-btn');
+    if (
+      !sidebar?.classList.contains('is-collapsed') &&
+      !sidebar?.contains(e.target as Node) &&
+      !toggleBtn?.contains(e.target as Node) &&
+      !collapseBtn?.contains(e.target as Node)
+    ) applyCollapsed(true);
+  });
+
+  // Mark active link — exact match for '/', prefix match for destinations
+  document.querySelectorAll<HTMLAnchorElement>('.sidebar-nav-link').forEach((link) => {
+    if (!link.href) return;
+    const linkPath = new URL(link.href).pathname;
+    const cur      = window.location.pathname;
+    const isActive = linkPath === '/'
+      ? cur === '/'
+      : cur === linkPath || cur.startsWith(linkPath + '/');
+    if (isActive) link.setAttribute('aria-current', 'page');
+  });
+
+  // Reading List count from localStorage
+  function updateRLCount() {
+    const el = document.getElementById('sidebar-rl-count');
+    if (!el) return;
+    try {
+      const list = JSON.parse(localStorage.getItem('goinatlas:reading-list') || '[]');
+      el.textContent = list.length > 0 ? String(list.length) : '';
+    } catch { el.textContent = ''; }
+  }
+
+  updateRLCount();
+
+  // ── Saved toast ───────────────────────────────────────────────
+  const toast = document.getElementById('rl-saved-toast');
+  let toastTimer: ReturnType<typeof setTimeout> | null = null;
+
+  function showSavedToast() {
+    if (!toast) return;
+    // Snap vertical position to the Reading List nav link
+    const rlLink = document.getElementById('rl-nav-link');
+    if (rlLink) {
+      const rect = rlLink.getBoundingClientRect();
+      toast.style.top = `${rect.top + rect.height / 2}px`;
+    }
+    if (toastTimer) clearTimeout(toastTimer);
+    toast.classList.add('is-visible');
+    toastTimer = setTimeout(() => toast.classList.remove('is-visible'), 2400);
+  }
+
+  document.addEventListener('goinatlas:readingListChanged', (e) => {
+    updateRLCount();
+    if ((e as CustomEvent).detail?.saved) showSavedToast();
+  });
+
+  // ── Auto-collapse on resize across the 768px breakpoint ──────
+  let prevIsMobile = window.innerWidth < 768;
+  window.addEventListener('resize', () => {
+    const isMobile = window.innerWidth < 768;
+    if (isMobile === prevIsMobile) return; // only act when crossing the breakpoint
+    prevIsMobile = isMobile;
+    if (isMobile) {
+      // Viewport shrank to mobile — collapse with animation
+      applyCollapsed(true, true);
+    } else {
+      // Viewport grew to desktop — restore stored preference
+      const pref = localStorage.getItem('goinatlas:sidebar-collapsed');
+      applyCollapsed(pref === '1', true);
+    }
+  });
+
+  // ── Sidebar language dropdown ─────────────────────────────────
+  const sidebarLangBtn  = document.getElementById('sidebar-lang-btn');
+  const sidebarLangMenu = document.getElementById('sidebar-lang-menu');
+  sidebarLangBtn?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    sidebarLangMenu?.classList.toggle('hidden');
+  });
+  document.addEventListener('click', () => sidebarLangMenu?.classList.add('hidden'));
+</script>

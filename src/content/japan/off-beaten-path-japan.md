@@ -2,7 +2,7 @@
 title: "Off the Beaten Path Japan: 10 Places Beyond Tokyo and Kyoto"
 description: "The Japan most travelers never reach. These 10 destinations offer fewer crowds, deeper experiences and the satisfaction of finding something on your own."
 destination: "Japan"
-category: "Tips"
+category: Tips
 publishDate: 2026-04-23
 heroImage: "/images/japan-kanazawa.jpg"
 readingTime: 12

@@ -2,7 +2,7 @@
 title: "Japan Rail Pass 2026: Is It Worth It? (Honest Cost Breakdown)"
 description: "The JR Pass question answered properly — with actual route math, current prices, and the cases where you're better off buying individual tickets."
 destination: "Japan"
-category: "Transport"
+category: Transport
 publishDate: 2026-04-23
 heroImage: "/images/japan-shinkansen.jpg"
 readingTime: 10

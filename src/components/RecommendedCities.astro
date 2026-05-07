@@ -1,0 +1,82 @@
+---
+// RecommendedCities — right sidebar city filter pills
+// Dispatches goinatlas:cityFilter; listens to same event to sync state
+
+interface City {
+  id: string;
+  label: string;
+  count: number;
+}
+
+interface Props {
+  cities: City[];
+  destination: string;
+}
+
+const { cities, destination } = Astro.props;
+---
+
+<div>
+  <h3 class="text-sm font-semibold text-[var(--color-text-primary)] mb-3 uppercase tracking-widest">
+    Recommended Cities
+  </h3>
+  <div class="flex flex-wrap gap-2">
+    <button class="city-pill-btn is-active" data-city="all" data-label={`All ${destination}`}>
+      All {destination}
+    </button>
+    {cities.map((city) => (
+      <button class="city-pill-btn" data-city={city.id} data-label={city.label}>
+        {city.label}
+      </button>
+    ))}
+  </div>
+</div>
+
+<style>
+  .city-pill-btn {
+    padding: 0.3rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: 1.5px solid var(--color-border);
+    background: white;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s, background 0.15s;
+    line-height: 1.5;
+  }
+  .city-pill-btn:hover:not(:disabled) {
+    border-color: var(--color-brand-600);
+    color: var(--color-brand-600);
+  }
+  .city-pill-btn.is-active {
+    background: var(--color-brand-600);
+    border-color: var(--color-brand-600);
+    color: white;
+  }
+  .city-pill-btn:disabled,
+  .city-pill-btn.is-disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+</style>
+
+<script>
+  const cityPills = document.querySelectorAll<HTMLButtonElement>('.city-pill-btn');
+
+  cityPills.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.dispatchEvent(
+        new CustomEvent('goinatlas:cityFilter', { detail: { city: btn.dataset.city! } })
+      );
+    });
+  });
+
+  // Sync active state when event fires (could come from chip removal too)
+  document.addEventListener('goinatlas:cityFilter', ((e: CustomEvent) => {
+    cityPills.forEach((btn) => {
+      btn.classList.toggle('is-active', btn.dataset.city === e.detail.city);
+    });
+  }) as EventListener);
+</script>

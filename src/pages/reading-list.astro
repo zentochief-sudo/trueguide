@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import AdRail from '../components/AdRail.astro';
 import { getCollection } from 'astro:content';
 
 // ── Load every collection (same set as GlobalSidebar) ──────────────────────
@@ -158,6 +159,7 @@ function destPath(destination: string): string {
             <!-- Built by JS -->
           </div>
         </div>
+        <AdRail count={6} />
       </aside>
 
     </div>

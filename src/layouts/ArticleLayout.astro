@@ -5,6 +5,8 @@ import NewsletterSignup from '../components/NewsletterSignup.astro';
 import Comments from '../components/Comments.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
+import AdSlot from '../components/AdSlot.astro';
+import AdRail from '../components/AdRail.astro';
 
 interface Heading {
   depth: number;
@@ -203,6 +205,9 @@ const BREADCRUMB_H = '2.75rem';
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
       )}
 
+      <!-- Inline ad — visible below 1280px (mobile/tablet, no col3 rail) -->
+      <AdSlot variant="article" class="article-inline-ad" />
+
       <div class="prose">
         <slot />
       </div>
@@ -221,8 +226,10 @@ const BREADCRUMB_H = '2.75rem';
 
     </div>
 
-    <!-- Right: symmetric whitespace (intentionally empty) -->
-    <div style="grid-column: 3;"></div>
+    <!-- Right col: ad rail — visible at ≥1280px where 1fr ≥ 300px -->
+    <div class="article-col3-ads" style="grid-column: 3;">
+      <AdRail count={6} />
+    </div>
 
   </div>
 
@@ -346,6 +353,26 @@ const BREADCRUMB_H = '2.75rem';
     .meta-pill-anchor {
       right: max(1.5rem, calc((100% - 680px) / 2 + 1.5rem));
     }
+  }
+
+  /* ── Article inline ad — mobile/tablet only ─────────────────── */
+  /* On ≥1280px the col3 ad rail handles impressions instead. */
+  .article-inline-ad { display: flex; }
+  @media (min-width: 1280px) {
+    .article-inline-ad { display: none; }
+  }
+
+  /* ── Article col3 ad rail ────────────────────────────────────── */
+  /* Hidden until the 1fr column is wide enough to show a real ad. */
+  /* At 1280px: 1fr = (1280−680)/2 = 300px — fits a 250px ad. */
+  .article-col3-ads {
+    display: none;
+    padding: 2.5rem 1.5rem 4rem 1.5rem;
+    /* prevent ad rail from expanding past what's comfortable */
+    max-width: 300px;
+  }
+  @media (min-width: 1280px) {
+    .article-col3-ads { display: block; }
   }
 
   /* ── 1440px: TOC sidebar + article offset ───────────────────── */

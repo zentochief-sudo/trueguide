@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
 import HubBanner from '../../components/HubBanner.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import AdRail from '../../components/AdRail.astro';
 import { getCollection } from 'astro:content';
 
 const articles = await getCollection('korea');
@@ -115,18 +117,23 @@ const activityTypes = [
             <!-- Articles list -->
             <div id="articles-list" class="pt-6"
 >
-              {sorted.map((article) => (
-                <ArticleCard
-                  title={article.data.title}
-                  description={article.data.description}
-                  destination={article.data.destination}
-                  category={article.data.category}
-                  slug={article.id}
-                  heroImage={article.data.heroImage}
-                  readingTime={article.data.readingTime}
-                  city={article.data.city}
-                  tags={article.data.tags}
-                />
+              {sorted.map((article, i) => (
+                <>
+                  <ArticleCard
+                    title={article.data.title}
+                    description={article.data.description}
+                    destination={article.data.destination}
+                    category={article.data.category}
+                    slug={article.id}
+                    heroImage={article.data.heroImage}
+                    readingTime={article.data.readingTime}
+                    city={article.data.city}
+                    tags={article.data.tags}
+                  />
+                  {(i + 1) % 5 === 0 && i < 25 && (
+                    <AdSlot variant="inline-feed" />
+                  )}
+                </>
               ))}
             </div>
 
@@ -152,6 +159,7 @@ const activityTypes = [
             ))}
           </div>
         </div>
+        <AdRail count={6} />
       </aside>
 
     </div>

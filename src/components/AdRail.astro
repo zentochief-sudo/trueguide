@@ -1,0 +1,23 @@
+---
+/**
+ * AdRail — vertical stack of rectangle ad units for col3 sidebar.
+ * Used in: homepage aside, hub asides, reading-list aside, search aside, article col3.
+ *
+ * count: number of ad rectangles to stack (default 5).
+ *        Adjust per page depending on how much vertical space is available.
+ */
+import AdSlot from './AdSlot.astro';
+
+interface Props {
+  count?: number;
+  class?: string;
+}
+
+const { count = 5, class: className = '' } = Astro.props;
+---
+
+<div class={`ad-rail${className ? ` ${className}` : ''}`}>
+  {Array.from({ length: count }, (_, i) => (
+    <AdSlot variant="rectangle" />
+  ))}
+</div>

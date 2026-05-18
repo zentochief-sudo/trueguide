@@ -1,0 +1,43 @@
+---
+/**
+ * AdSlot — single ad unit placeholder.
+ *
+ * variant:
+ *   'rectangle'   → col3 stacked units (~300×200, fluid width)
+ *   'inline-feed' → full-width banner between article cards (~110px tall)
+ *   'article'     → inline within article prose area
+ *
+ * slotId: AdSense data-ad-slot value — set this when AdSense is approved.
+ *
+ * To activate AdSense: replace the placeholder <div> below with the <ins> block.
+ */
+interface Props {
+  variant: 'rectangle' | 'inline-feed' | 'article';
+  slotId?: string;
+  class?: string;
+}
+
+const { variant, slotId = '', class: className = '' } = Astro.props;
+---
+
+<div
+  class={`ad-slot ad-slot--${variant}${className ? ` ${className}` : ''}`}
+  data-ad-placeholder
+  aria-hidden="true"
+>
+  <span class="ad-slot-label">Advertisement</span>
+
+  <!--
+  ═══════════════════════════════════════════════════════════
+  ADSENSE — activate when approved. Replace the label above.
+  ═══════════════════════════════════════════════════════════
+  <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+    data-ad-slot={slotId}
+    data-ad-format="auto"
+    data-full-width-responsive="true"
+  ></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  -->
+</div>

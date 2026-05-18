@@ -106,7 +106,10 @@ const activityTypes = [
             <div class="tabs-scroll">
               <button class="hub-tab is-active" data-tab="for-you">For you</button>
               <button class="hub-tab" data-tab="all">All guides</button>
-              <button class="hub-tab" data-tab="explore">Explore Map</button>
+              <button class="hub-tab hub-tab--disabled" data-tab="explore" disabled aria-disabled="true">
+                Explore Map
+                <span class="coming-soon-badge">Coming soon</span>
+              </button>
             </div>
 
             <!-- Fade — tabs slide behind this before reaching the filter button -->
@@ -280,6 +283,26 @@ const activityTypes = [
     white-space: nowrap;
   }
   .hub-tab:hover { color: var(--color-text-primary); }
+  .hub-tab--disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+    pointer-events: none;
+    gap: 0.5rem;
+  }
+  .coming-soon-badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-brand-600);
+    background: color-mix(in srgb, var(--color-brand-600) 10%, transparent);
+    border: 1px solid color-mix(in srgb, var(--color-brand-600) 25%, transparent);
+    border-radius: 99px;
+    padding: 0.15rem 0.45rem;
+    line-height: 1.4;
+    vertical-align: middle;
+  }
   .hub-tab.is-active {
     color: var(--color-text-primary);
     border-bottom-color: var(--color-text-primary);

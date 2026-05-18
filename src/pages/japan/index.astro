@@ -2,7 +2,6 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
-import JapanMap from '../../components/JapanMap.astro';
 import HubBanner from '../../components/HubBanner.astro';
 import { getCollection } from 'astro:content';
 
@@ -64,18 +63,15 @@ const activityTypes = [
       <div class="flex-1 min-w-0 flex flex-col overflow-hidden">
         <div class="flex flex-col flex-1 min-h-0 col2-feed">
 
-          <!-- Destination header + map — collapses on scroll -->
+          <!-- Destination header — collapses on scroll -->
           <div
             id="dest-header"
             class="shrink-0"
-            style="padding-top:2rem;padding-bottom:1.25rem;max-height:400px;overflow:hidden;opacity:1;transition:max-height 0.35s ease,padding 0.35s ease,opacity 0.25s ease;"
+            style="padding-top:2rem;padding-bottom:1.25rem;max-height:80px;overflow:hidden;opacity:1;transition:max-height 0.35s ease,padding 0.35s ease,opacity 0.25s ease;"
           >
             <div class="flex items-baseline gap-3 mb-4">
               <h1 class="text-2xl font-black text-[var(--color-text-primary)]" style="font-family: var(--font-display)">🇯🇵 Japan</h1>
               <span id="article-count" class="text-sm text-[var(--color-text-muted)]">{sorted.length} guides</span>
-            </div>
-            <div class="rounded-xl overflow-hidden border border-[var(--color-border)]" style="max-height: 260px;">
-              <JapanMap />
             </div>
           </div>
 

@@ -394,7 +394,16 @@ h1, h2, h3 { font-family: var(--font-display); }
   border-radius: 0.5rem;
 }
 
-/* inline-feed: full-width banner between article cards */
+/* leaderboard: full-width banner at top of col2 feed — all list pages */
+.ad-slot--leaderboard {
+  width: 100%;
+  height: 90px;
+  background: var(--color-bg-subtle);
+  border-radius: 0;
+  flex-shrink: 0;
+}
+
+/* inline-feed: full-width banner between article cards + mid-prose */
 .ad-slot--inline-feed {
   width: 100%;
   height: 110px;
@@ -402,6 +411,9 @@ h1, h2, h3 { font-family: var(--font-display); }
   border-bottom: 1px solid var(--color-border);
   background: var(--color-bg);
   border-radius: 0;
+  /* performance: don't render off-screen inline ads */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 110px;
 }
 
 /* article: inline ad inside the article column (mobile / mid-content) */

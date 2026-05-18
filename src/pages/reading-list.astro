@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import AdSlot from '../components/AdSlot.astro';
 import AdRail from '../components/AdRail.astro';
 import { getCollection } from 'astro:content';
 
@@ -90,6 +91,9 @@ function destPath(destination: string): string {
               <span id="article-count" class="text-sm text-[var(--color-text-muted)]">0 saved</span>
             </div>
           </div>
+
+          <!-- Leaderboard — top of feed, full col2 width -->
+          <AdSlot variant="leaderboard" />
 
           <!-- Tabs row — built by JS, hidden until there are saved articles -->
           <nav

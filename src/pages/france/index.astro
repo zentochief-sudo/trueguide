@@ -60,6 +60,9 @@ const activityTypes = [
               <span id="article-count" class="text-sm text-[var(--color-text-muted)]">{sorted.length} guides</span>
             </div>
           </div>
+          <!-- Leaderboard — top of feed, full col2 width -->
+          <AdSlot variant="leaderboard" />
+
           <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0" style="padding-top: 1.25rem;">
             <div class="tabs-scroll">
               <button class="hub-tab is-active" data-tab="for-you">For you</button>
@@ -82,7 +85,7 @@ const activityTypes = [
               {sorted.map((article, i) => (
                 <>
                   <ArticleCard title={article.data.title} description={article.data.description} destination={article.data.destination} category={article.data.category} slug={article.id} heroImage={article.data.heroImage} readingTime={article.data.readingTime} city={article.data.city} tags={article.data.tags} />
-                  {(i + 1) % 5 === 0 && i < 25 && (
+                  {(i + 1) % 3 === 0 && (
                     <AdSlot variant="inline-feed" />
                   )}
                 </>

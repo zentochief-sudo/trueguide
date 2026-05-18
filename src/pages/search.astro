@@ -1,0 +1,382 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const japanArticles  = await getCollection('japan');
+let koreaArticles:      typeof japanArticles = [];
+let usaArticles:        typeof japanArticles = [];
+let mexicoArticles:     typeof japanArticles = [];
+let canadaArticles:     typeof japanArticles = [];
+let spainArticles:      typeof japanArticles = [];
+let italyArticles:      typeof japanArticles = [];
+let franceArticles:     typeof japanArticles = [];
+let portugalArticles:   typeof japanArticles = [];
+let irelandArticles:    typeof japanArticles = [];
+let indiaArticles:      typeof japanArticles = [];
+let thailandArticles:   typeof japanArticles = [];
+let malaysiaArticles:   typeof japanArticles = [];
+let peruArticles:       typeof japanArticles = [];
+let costaRicaArticles:  typeof japanArticles = [];
+let tanzaniaArticles:   typeof japanArticles = [];
+let egyptArticles:      typeof japanArticles = [];
+let pakistanArticles:   typeof japanArticles = [];
+let kazakhstanArticles: typeof japanArticles = [];
+let greenlandArticles:  typeof japanArticles = [];
+let reunionArticles:    typeof japanArticles = [];
+
+try { koreaArticles      = await getCollection('korea');      } catch {}
+try { usaArticles        = await getCollection('usa');        } catch {}
+try { mexicoArticles     = await getCollection('mexico');     } catch {}
+try { canadaArticles     = await getCollection('canada');     } catch {}
+try { spainArticles      = await getCollection('spain');      } catch {}
+try { italyArticles      = await getCollection('italy');      } catch {}
+try { franceArticles     = await getCollection('france');     } catch {}
+try { portugalArticles   = await getCollection('portugal');   } catch {}
+try { irelandArticles    = await getCollection('ireland');    } catch {}
+try { indiaArticles      = await getCollection('india');      } catch {}
+try { thailandArticles   = await getCollection('thailand');   } catch {}
+try { malaysiaArticles   = await getCollection('malaysia');   } catch {}
+try { peruArticles       = await getCollection('peru');       } catch {}
+try { costaRicaArticles  = await getCollection('costa_rica'); } catch {}
+try { tanzaniaArticles   = await getCollection('tanzania');   } catch {}
+try { egyptArticles      = await getCollection('egypt');      } catch {}
+try { pakistanArticles   = await getCollection('pakistan');   } catch {}
+try { kazakhstanArticles = await getCollection('kazakhstan'); } catch {}
+try { greenlandArticles  = await getCollection('greenland');  } catch {}
+try { reunionArticles    = await getCollection('reunion');    } catch {}
+
+const allArticles = [
+  ...japanArticles,  ...koreaArticles,  ...usaArticles,    ...mexicoArticles,
+  ...canadaArticles, ...spainArticles,  ...italyArticles,  ...franceArticles,
+  ...portugalArticles, ...irelandArticles, ...indiaArticles, ...thailandArticles,
+  ...malaysiaArticles, ...peruArticles, ...costaRicaArticles, ...tanzaniaArticles,
+  ...egyptArticles,  ...pakistanArticles, ...kazakhstanArticles,
+  ...greenlandArticles, ...reunionArticles,
+].sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+function destPath(destination: string): string {
+  return destination
+    .toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '');
+}
+---
+
+<BaseLayout
+  title="Search"
+  description="Search GoinAtlas travel guides."
+>
+
+  <div id="home-shell" class="flex flex-col" style="height: calc(100vh - 4rem); overflow: hidden;">
+    <div class="flex flex-1 min-h-0">
+
+      <!-- Feed column -->
+      <div class="flex-1 min-w-0 flex flex-col overflow-hidden">
+        <div class="flex flex-col flex-1 min-h-0 col2-feed">
+
+          <!-- Page header -->
+          <div class="shrink-0" style="padding-top:2rem;padding-bottom:1.25rem;">
+            <h1 style="font-family:var(--font-display);font-size:1.75rem;font-weight:900;line-height:1.2;">
+              <span style="color:var(--color-text-muted);font-weight:700;">Results for </span><span id="sr-query-word" style="color:var(--color-text-primary);"></span>
+            </h1>
+            <p id="sr-count" class="mt-1 text-sm text-[var(--color-text-muted)]"></p>
+          </div>
+
+          <!-- Tabs — category filter -->
+          <nav
+            id="sr-tabs-nav"
+            class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0"
+            style="display:none;"
+          >
+            <div id="sr-tabs-inner" class="tabs-scroll">
+              <!-- Built by JS -->
+            </div>
+          </nav>
+
+          <!-- Articles scroll -->
+          <div id="articles-scroll" class="flex-1 min-h-0 overflow-y-auto">
+
+            <!-- Empty state -->
+            <div id="sr-empty" class="text-center py-24" style="display:none;">
+              <svg class="w-10 h-10 mx-auto mb-4 opacity-20 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                <circle cx="11" cy="11" r="8"/><path stroke-linecap="round" d="m21 21-4.35-4.35"/>
+              </svg>
+              <p class="text-[var(--color-text-muted)] font-medium mb-1">No articles found</p>
+              <p class="text-sm text-[var(--color-text-muted)] mb-4">Try a different search term</p>
+              <a href="/" class="text-sm text-[var(--color-brand-600)] hover:underline font-medium">Browse all guides →</a>
+            </div>
+
+            <!-- Articles list -->
+            <div id="articles-list" class="pt-6">
+              {allArticles.map((article) => {
+                const dp  = destPath(article.data.destination);
+                const url = `/${dp}/${article.id}`;
+                return (
+                  <div
+                    class="sr-wrap"
+                    style="display:none"
+                    data-url={url}
+                    data-dest={dp}
+                    data-destination={article.data.destination.toLowerCase()}
+                    data-title={article.data.title.toLowerCase()}
+                    data-description={article.data.description.toLowerCase()}
+                    data-category={article.data.category.toLowerCase()}
+                  >
+                    <ArticleCard
+                      title={article.data.title}
+                      description={article.data.description}
+                      destination={article.data.destination}
+                      category={article.data.category}
+                      slug={article.id}
+                      heroImage={article.data.heroImage}
+                      readingTime={article.data.readingTime}
+                      city={article.data.city}
+                      tags={article.data.tags}
+                    />
+                  </div>
+                );
+              })}
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Right aside — destination filter -->
+      <aside class="right-aside-panel flex flex-col" style="width:355px;padding:2.5rem 1.5rem 2.5rem 30px;overflow-y:auto;">
+        <div>
+          <h3 class="text-xs font-semibold text-[var(--color-text-primary)] mb-3 uppercase tracking-widest">
+            Filter by destination
+          </h3>
+          <div id="sr-dest-pills" class="flex flex-wrap gap-2">
+            <!-- Built by JS -->
+          </div>
+        </div>
+      </aside>
+
+    </div>
+  </div>
+
+</BaseLayout>
+
+
+<script>
+  const catLabels: Record<string, string> = {
+    itinerary: 'Itinerary',
+    culture:   'Culture',
+    food:      'Food & Drink',
+    tips:      'Tips',
+    transport: 'Transport',
+    budget:    'Budget',
+  };
+
+  const destLabels: Record<string, string> = {
+    japan:        '🇯🇵 Japan',
+    korea:        '🇰🇷 South Korea',
+    usa:          '🇺🇸 United States',
+    mexico:       '🇲🇽 Mexico',
+    canada:       '🇨🇦 Canada',
+    france:       '🇫🇷 France',
+    spain:        '🇪🇸 Spain',
+    italy:        '🇮🇹 Italy',
+    portugal:     '🇵🇹 Portugal',
+    ireland:      '🇮🇪 Ireland',
+    india:        '🇮🇳 India',
+    thailand:     '🇹🇭 Thailand',
+    malaysia:     '🇲🇾 Malaysia',
+    peru:         '🇵🇪 Peru',
+    'costa-rica': '🇨🇷 Costa Rica',
+    tanzania:     '🇹🇿 Tanzania',
+    egypt:        '🇪🇬 Egypt',
+    pakistan:     '🇵🇰 Pakistan',
+    kazakhstan:   '🇰🇿 Kazakhstan',
+    greenland:    '🇬🇱 Greenland',
+  };
+
+  // Sub-destinations rolled up into their parent country for filtering
+  const destParent: Record<string, string> = {
+    reunion: 'france',
+  };
+  function parentDest(dest: string): string {
+    return destParent[dest] ?? dest;
+  }
+
+  // ── Read query from URL ───────────────────────────────────────
+  function norm(s: string) {
+    return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  }
+
+  const params   = new URLSearchParams(window.location.search);
+  const rawQuery = params.get('q') ?? '';
+  const q        = norm(rawQuery.trim());
+
+  const wraps      = Array.from(document.querySelectorAll<HTMLElement>('.sr-wrap'));
+  const emptyEl    = document.getElementById('sr-empty');
+  const tabsNav    = document.getElementById('sr-tabs-nav');
+  const tabsInner  = document.getElementById('sr-tabs-inner');
+  const countEl    = document.getElementById('sr-count');
+  const queryWord  = document.getElementById('sr-query-word');
+  const destPills  = document.getElementById('sr-dest-pills');
+
+  // Set heading query word
+  if (queryWord) queryWord.textContent = rawQuery;
+  if (rawQuery)  document.title = `Results for ${rawQuery} | GoinAtlas`;
+
+  // Show current query in header search trigger placeholder
+  const headerPlaceholder = document.getElementById('header-search-placeholder');
+  if (headerPlaceholder && rawQuery) headerPlaceholder.textContent = rawQuery;
+
+  // ── Helpers ───────────────────────────────────────────────────
+  function score(w: HTMLElement): number {
+    if (!q) return 0;
+    if (norm(w.dataset.destination ?? '').includes(q)) return 0;
+    if (norm(w.dataset.title       ?? '').includes(q)) return 1;
+    if (norm(w.dataset.description ?? '').includes(q)) return 2;
+    if (norm(w.dataset.category    ?? '').includes(q)) return 3;
+    return 99;
+  }
+
+  function matches(w: HTMLElement): boolean {
+    if (!q) return false;
+    return (
+      norm(w.dataset.destination ?? '').includes(q) ||
+      norm(w.dataset.title       ?? '').includes(q) ||
+      norm(w.dataset.description ?? '').includes(q) ||
+      norm(w.dataset.category    ?? '').includes(q)
+    );
+  }
+
+  // category order as defined
+  const CAT_ORDER = ['itinerary', 'culture', 'food', 'tips', 'transport', 'budget'];
+
+  let activeTab  = 'all'; // filters by category
+  let activeDest = 'all'; // filters by destination
+
+  function buildUI() {
+    const matchingCats  = new Set<string>();
+    const matchingDests = new Set<string>();
+    wraps.forEach((w) => {
+      if (matches(w)) {
+        matchingCats.add(w.dataset.category!);
+        matchingDests.add(parentDest(w.dataset.dest!)); // roll up sub-destinations
+      }
+    });
+
+    const hasResults = matchingCats.size > 0;
+    if (emptyEl) emptyEl.style.display = (!q || !hasResults) ? '' : 'none';
+
+    // ── Tabs — category filter ────────────────────────────────────
+    if (tabsNav) tabsNav.style.display = hasResults ? '' : 'none';
+    if (tabsInner) {
+      tabsInner.innerHTML = '';
+      if (hasResults) {
+        if (!['all', ...matchingCats].includes(activeTab)) activeTab = 'all';
+
+        // Sort categories in defined order
+        const sortedCats = Array.from(matchingCats)
+          .sort((a, b) => {
+            const ai = CAT_ORDER.indexOf(a);
+            const bi = CAT_ORDER.indexOf(b);
+            return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+          });
+
+        const tabs = [
+          { id: 'all', label: 'All' },
+          ...sortedCats.map((c) => ({ id: c, label: catLabels[c] ?? c })),
+        ];
+
+        tabs.forEach(({ id, label }) => {
+          const btn = document.createElement('button');
+          btn.className = 'hub-tab' + (activeTab === id ? ' is-active' : '');
+          btn.dataset.tab = id;
+          btn.textContent = label;
+          btn.addEventListener('click', () => {
+            activeTab = id;
+            activeDest = 'all';
+            document.querySelectorAll<HTMLButtonElement>('.hub-tab').forEach((b) =>
+              b.classList.toggle('is-active', b.dataset.tab === id)
+            );
+            buildUI();
+          });
+          tabsInner.appendChild(btn);
+        });
+      }
+    }
+
+    // ── Right aside — destination pills ──────────────────────────
+    if (destPills) {
+      destPills.innerHTML = '';
+      if (hasResults) {
+        // Which destinations are present in current tab filter?
+        const tabDests = new Set<string>();
+        wraps.forEach((w) => {
+          if (matches(w) && (activeTab === 'all' || w.dataset.category === activeTab))
+            tabDests.add(parentDest(w.dataset.dest!)); // roll up sub-destinations
+        });
+
+        if (!tabDests.has(activeDest)) activeDest = 'all';
+
+        const pillDefs = [
+          { id: 'all', label: 'All' },
+          ...Array.from(tabDests).sort().map((d) => ({ id: d, label: destLabels[d] ?? d })),
+        ];
+
+        pillDefs.forEach(({ id, label }) => {
+          const btn = document.createElement('button');
+          btn.className = 'category-pill' + (activeDest === id ? ' is-active' : '');
+          btn.textContent = label;
+          btn.addEventListener('click', () => {
+            activeDest = id;
+            document.querySelectorAll<HTMLButtonElement>('#sr-dest-pills .category-pill').forEach((b) =>
+              b.classList.toggle('is-active', b.textContent === label)
+            );
+            applyFilters();
+          });
+          destPills.appendChild(btn);
+        });
+      }
+    }
+
+    applyFilters();
+  }
+
+  function applyFilters() {
+    const listEl = document.getElementById('articles-list');
+    let visible  = 0;
+
+    const sorted = [...wraps].sort((a, b) => score(a) - score(b));
+
+    sorted.forEach((w, i) => {
+      const isMatch  = matches(w);
+      const catMatch = activeTab  === 'all' || w.dataset.category === activeTab;
+      const dstMatch = activeDest === 'all' || parentDest(w.dataset.dest!) === activeDest;
+      const show = isMatch && catMatch && dstMatch;
+      w.style.display = show ? '' : 'none';
+      w.style.order   = show ? String(i) : '';
+      if (show) visible++;
+    });
+
+    if (listEl) {
+      listEl.style.display       = visible > 0 ? 'flex' : '';
+      listEl.style.flexDirection = 'column';
+    }
+
+    if (countEl) countEl.textContent = q ? `${visible} result${visible !== 1 ? 's' : ''}` : '';
+    if (emptyEl) emptyEl.style.display = (q && visible === 0) ? '' : 'none';
+  }
+
+  buildUI();
+
+  // Redirect wheel events to scroll container
+  const shell    = document.getElementById('home-shell');
+  const scrollEl = document.getElementById('articles-scroll');
+  shell?.addEventListener('wheel', (e) => {
+    if (!scrollEl || scrollEl.contains(e.target as Node)) return;
+    if (Math.abs((e as WheelEvent).deltaX) > Math.abs((e as WheelEvent).deltaY)) return; // let horizontal scroll work
+    if ((e.target as HTMLElement).closest('.tabs-scroll')) return; // let tabs scroll horizontally
+    e.preventDefault();
+    scrollEl.scrollTop += e.deltaY;
+  }, { passive: false });
+</script>

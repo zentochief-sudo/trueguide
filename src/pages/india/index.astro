@@ -1,0 +1,158 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import HubBanner from '../../components/HubBanner.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('india');
+const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const cityOrder  = ['delhi', 'mumbai', 'rajasthan', 'goa', 'kerala'];
+const cityLabels: Record<string, string> = { delhi: 'Delhi', mumbai: 'Mumbai', rajasthan: 'Rajasthan', goa: 'Goa', kerala: 'Kerala' };
+
+const cityMap: Record<string, number> = {};
+for (const a of sorted) {
+  const c = a.data.city ?? 'national';
+  cityMap[c] = (cityMap[c] ?? 0) + 1;
+}
+const cities = cityOrder.filter((id) => cityMap[id]).map((id) => ({ id, label: cityLabels[id] ?? id }));
+
+const categories = [
+  { id: 'itinerary',  label: 'Itinerary' },
+  { id: 'culture',    label: 'Culture' },
+  { id: 'food',       label: 'Food & Drink' },
+  { id: 'practical',  label: 'Practical' },
+  { id: 'activities', label: 'Activities' },
+  { id: 'nature',     label: 'Nature' },
+];
+
+const activityTypes = [
+  { id: 'food-drink',  label: '🍜 Food & Drink' },
+  { id: 'culture',     label: '🎭 Culture' },
+  { id: 'nature',      label: '🌿 Nature' },
+  { id: 'history',     label: '📜 History' },
+  { id: 'adventure',   label: '🧗 Adventure' },
+  { id: 'beaches',     label: '🏖️ Beaches' },
+];
+---
+
+<BaseLayout title="India Travel Guides — Delhi, Rajasthan, Kerala & Beyond" description="Deep travel guides for India — the Taj Mahal, Rajasthan's desert forts, Kerala backwaters, Goa beaches, Mumbai street food, and practical tips.">
+  <div id="home-shell" class="flex flex-col" style="height: calc(100vh - 4rem); overflow: hidden;">
+    <HubBanner />
+    <div class="flex flex-1 min-h-0">
+      <div class="flex-1 min-w-0 flex flex-col overflow-hidden">
+        <div class="flex flex-col flex-1 min-h-0 col2-feed">
+          <div id="dest-header" class="shrink-0" style="padding-top:2rem;padding-bottom:1.25rem;max-height:80px;overflow:hidden;opacity:1;transition:max-height 0.35s ease,padding 0.35s ease,opacity 0.25s ease;">
+            <div class="flex items-baseline gap-3 mb-4">
+              <h1 class="text-2xl font-black text-[var(--color-text-primary)]" style="font-family: var(--font-display)">🇮🇳 India</h1>
+              <span id="article-count" class="text-sm text-[var(--color-text-muted)]">{sorted.length} guides</span>
+            </div>
+          </div>
+          <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0" style="padding-top: 1.25rem;">
+            <div class="tabs-scroll">
+              <button class="hub-tab is-active" data-tab="for-you">For you</button>
+              <button class="hub-tab" data-tab="all-articles">All articles</button>
+            </div>
+            <div class="shrink-0 flex items-end self-stretch" style="margin-bottom: -1px;">
+              <button id="filter-btn" class="filter-icon-btn flex items-center gap-1.5 px-4 pb-[0.65rem] text-[var(--color-text-primary)] hover:text-black transition-colors border-b-2 border-transparent" aria-label="Open filters" type="button">
+                <svg width="18" height="16" viewBox="0 0 62 56" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M52 3V37C52 38.65 53.35 40 55 40C56.65 40 58 38.65 58 37V3C58 1.35 56.65 0 55 0C53.35 0 52 1.35 52 3Z"/><path d="M36 21V37C36 38.65 37.35 40 39 40C40.65 40 42 38.65 42 37V21C42 19.35 40.65 18 39 18C37.35 18 36 19.35 36 21Z"/><path d="M20 11V37C20 38.65 21.35 40 23 40C24.65 40 26 38.65 26 37V11C26 9.35 24.65 8 23 8C21.35 8 20 9.35 20 11Z"/><path d="M3 56H59C60.65 56 62 54.65 62 53C62 51.35 60.65 50 59 50H3C1.35 50 0 51.35 0 53C0 54.65 1.35 56 3 56Z"/><path d="M4 24V37C4 38.65 5.35 40 7 40C8.65 40 10 38.65 10 37V24C10 22.35 8.65 21 7 21C5.35 21 4 22.35 4 24Z"/></svg>
+                <span class="hidden lg:inline text-sm font-medium">Filter by activity</span>
+                <span id="filter-badge" class="hidden text-[10px] font-bold leading-none bg-[var(--color-brand-600)] text-white rounded-full px-1.5 py-0.5"></span>
+              </button>
+            </div>
+          </nav>
+          <div id="articles-scroll" class="flex-1 min-h-0 overflow-y-auto">
+            <div id="empty-state" class="hidden text-center py-20"><p class="text-[var(--color-text-muted)] text-sm">No guides found for this filter.</p><button id="empty-clear-btn" class="mt-3 text-xs text-[var(--color-brand-600)] hover:underline">Clear filters</button></div>
+            <div id="articles-list" class="pt-6">
+              {sorted.map((article) => (
+                <ArticleCard title={article.data.title} description={article.data.description} destination={article.data.destination} category={article.data.category} slug={article.id} heroImage={article.data.heroImage} readingTime={article.data.readingTime} city={article.data.city} tags={article.data.tags} />
+              ))}
+            </div>
+            <div class="mt-16 mb-4"><NewsletterSignup destination="India" /></div>
+          </div>
+        </div>
+      </div>
+      <aside class="right-aside-panel flex flex-col" style="width: 355px; padding: 2.5rem 1.5rem 2.5rem 30px; overflow-y: auto;">
+        <div>
+          <h3 class="text-xs font-semibold text-[var(--color-text-primary)] mb-3 uppercase tracking-widest">Destinations</h3>
+          <div class="flex flex-wrap gap-2">
+            <button class="city-btn is-active" data-city="all">All India</button>
+            {cities.map((city) => (<button class="city-btn" data-city={city.id}>{city.label}</button>))}
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <div id="filter-modal-overlay" class="hidden fixed inset-0 z-[200] flex items-start justify-center" style="background: rgba(0,0,0,0.25); padding-top: calc(4rem + 3.25rem + 2.5rem + 2.5rem);">
+    <div id="filter-modal" class="bg-white rounded-2xl shadow-2xl w-full flex flex-col" style="max-width: 560px; max-height: 70vh;" role="dialog" aria-modal="true" aria-labelledby="filter-modal-title">
+      <div class="flex items-center justify-between px-6 pt-5 pb-4 border-b border-[var(--color-border)] shrink-0">
+        <h2 id="filter-modal-title" class="text-sm font-semibold" style="font-family: var(--font-body);">Filters</h2>
+        <button id="filter-modal-close" class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)]" aria-label="Close" type="button"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+      </div>
+      <div class="overflow-y-auto flex-1 px-6 py-5 space-y-6">
+        <div><p class="text-[10px] font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">Category</p><div class="flex flex-wrap gap-2">{categories.map((cat) => (<button class="modal-pill category-pill-btn" data-category={cat.id}>{cat.label}</button>))}</div></div>
+        <div><p class="text-[10px] font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-3">Activity type</p><div class="flex flex-wrap gap-2">{activityTypes.map((type) => (<button class="modal-pill activity-pill-btn" data-type={type.id}>{type.label}</button>))}</div></div>
+      </div>
+      <div class="flex items-center justify-between px-6 py-4 border-t border-[var(--color-border)] shrink-0">
+        <button id="filter-clear-btn" class="text-sm font-medium text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)]" type="button">Clear all</button>
+        <button id="filter-apply-btn" class="px-5 py-2 rounded-full text-sm font-semibold bg-[var(--color-brand-600)] text-white hover:opacity-90" type="button">Apply</button>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-tab { display: inline-flex; align-items: center; padding: 0.65rem 1rem; font-size: 0.875rem; font-weight: 500; color: var(--color-text-muted); border-bottom: 2px solid transparent; margin-bottom: -1px; cursor: pointer; background: none; border-top: none; border-left: none; border-right: none; transition: color 0.15s, border-color 0.15s; white-space: nowrap; }
+  .hub-tab:hover { color: var(--color-text-primary); }
+  .hub-tab.is-active { color: var(--color-text-primary); border-bottom-color: var(--color-text-primary); font-weight: 600; }
+  .filter-icon-btn.has-filters { color: var(--color-brand-600); border-bottom-color: var(--color-brand-600); }
+  .city-btn { padding: 0.3rem 0.875rem; border-radius: 9999px; font-size: 0.8rem; font-weight: 400; border: none; background: #f2f2f2; color: var(--color-text-primary); cursor: pointer; transition: background 0.12s, color 0.12s; line-height: 1.6; white-space: nowrap; }
+  .city-btn:hover { background: #e8e8e8; }
+  .city-btn.is-active { background: var(--color-brand-600); color: #fff; font-weight: 500; }
+  .modal-pill { padding: 0.3rem 0.875rem; border-radius: 9999px; font-size: 0.8rem; font-weight: 400; border: none; background: #f2f2f2; color: var(--color-text-primary); cursor: pointer; transition: background 0.12s, color 0.12s; line-height: 1.6; white-space: nowrap; }
+  .modal-pill:hover { background: #e8e8e8; }
+  .modal-pill.is-active { background: var(--color-brand-600); color: #fff; font-weight: 500; }
+</style>
+
+<script>
+  const cards = document.querySelectorAll<HTMLElement>('[data-article-card]');
+  const emptyEl = document.getElementById('empty-state');
+  const listEl = document.getElementById('articles-list');
+  const countEl = document.getElementById('article-count');
+  const activeCategories = new Set<string>();
+  let activeType: string | null = null;
+  let activeCity = 'all';
+  const pendingCategories = new Set<string>();
+  let pendingType: string | null = null;
+  const typeKeywords: Record<string, string[]> = { 'food-drink': ['food','cuisine','restaurant','market','street food','dish'], 'culture': ['culture','temple','museum','festival','art','tradition'], 'nature': ['nature','national park','wildlife','jungle','mountains','river'], 'history': ['history','ancient','ruins','heritage','colonial'], 'adventure': ['trek','hike','climb','diving','surfing','rafting'], 'beaches': ['beach','island','coast','bay','lagoon'] };
+  function typeMatch(tags: string, typeId: string | null): boolean { if (!typeId) return true; return (typeKeywords[typeId] ?? []).some((kw) => tags.includes(kw)); }
+  function applyFilters() { let visible = 0; cards.forEach((card) => { const city = card.dataset.city ?? 'national'; const category = (card.dataset.category ?? '').toLowerCase(); const tags = card.dataset.tags ?? ''; const show = (activeCity === 'all' || city === activeCity) && (activeCategories.size === 0 || activeCategories.has(category)) && typeMatch(tags, activeType); card.style.display = show ? '' : 'none'; if (show) visible++; }); if (emptyEl) emptyEl.style.display = visible === 0 ? '' : 'none'; if (listEl) listEl.style.display = visible === 0 ? 'none' : ''; if (countEl) countEl.textContent = String(visible) + ' guides'; updateFilterBadge(); }
+  function updateFilterBadge() { const badge = document.getElementById('filter-badge'); const btn = document.getElementById('filter-btn'); const total = activeCategories.size + (activeType ? 1 : 0); if (badge) { badge.textContent = total > 0 ? String(total) : ''; badge.classList.toggle('hidden', total === 0); } btn?.classList.toggle('has-filters', total > 0); }
+  document.querySelectorAll<HTMLButtonElement>('.city-btn').forEach((btn) => { btn.addEventListener('click', () => { activeCity = btn.dataset.city!; document.querySelectorAll<HTMLButtonElement>('.city-btn').forEach((b) => b.classList.toggle('is-active', b.dataset.city === activeCity)); applyFilters(); }); });
+  const overlay = document.getElementById('filter-modal-overlay');
+  function openModal() { pendingCategories.clear(); activeCategories.forEach((c) => pendingCategories.add(c)); pendingType = activeType; syncModalPills(); overlay?.classList.remove('hidden'); }
+  function closeModal() { overlay?.classList.add('hidden'); }
+  document.getElementById('filter-btn')?.addEventListener('click', openModal);
+  document.getElementById('filter-modal-close')?.addEventListener('click', closeModal);
+  overlay?.addEventListener('click', (e) => { if (e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
+  function syncModalPills() { document.querySelectorAll<HTMLButtonElement>('.category-pill-btn[data-category]').forEach((btn) => btn.classList.toggle('is-active', pendingCategories.has(btn.dataset.category!))); document.querySelectorAll<HTMLButtonElement>('.activity-pill-btn[data-type]').forEach((btn) => btn.classList.toggle('is-active', btn.dataset.type === pendingType)); }
+  document.querySelectorAll<HTMLButtonElement>('.category-pill-btn[data-category]').forEach((btn) => { btn.addEventListener('click', () => { const cat = btn.dataset.category!; pendingCategories.has(cat) ? pendingCategories.delete(cat) : pendingCategories.add(cat); btn.classList.toggle('is-active', pendingCategories.has(cat)); }); });
+  document.querySelectorAll<HTMLButtonElement>('.activity-pill-btn[data-type]').forEach((btn) => { btn.addEventListener('click', () => { pendingType = btn.dataset.type === pendingType ? null : btn.dataset.type!; syncModalPills(); }); });
+  document.getElementById('filter-apply-btn')?.addEventListener('click', () => { activeCategories.clear(); pendingCategories.forEach((c) => activeCategories.add(c)); activeType = pendingType; applyFilters(); closeModal(); });
+  document.getElementById('filter-clear-btn')?.addEventListener('click', () => { pendingCategories.clear(); pendingType = null; syncModalPills(); });
+  document.getElementById('empty-clear-btn')?.addEventListener('click', () => { activeCategories.clear(); activeType = null; applyFilters(); });
+  const destHeader = document.getElementById('dest-header'); const scrollEl = document.getElementById('articles-scroll');
+  function setHeaderCollapsed(c: boolean) { if (!destHeader) return; if (c) { destHeader.style.maxHeight = '0'; destHeader.style.paddingTop = '0'; destHeader.style.paddingBottom = '0'; destHeader.style.opacity = '0'; } else { destHeader.style.maxHeight = '80px'; destHeader.style.paddingTop = '2rem'; destHeader.style.paddingBottom = '1.25rem'; destHeader.style.opacity = '1'; } }
+  let headerCollapsed = false;
+  scrollEl?.addEventListener('scroll', () => { const s = (scrollEl.scrollTop ?? 0) > 40; if (s !== headerCollapsed) { headerCollapsed = s; setHeaderCollapsed(s); } }, { passive: true });
+  const shell = document.getElementById('home-shell');
+  shell?.addEventListener('wheel', (e) => { if (!scrollEl || scrollEl.contains(e.target as Node)) return;
+    if (Math.abs((e as WheelEvent).deltaX) > Math.abs((e as WheelEvent).deltaY)) return; // let horizontal scroll work
+    if ((e.target as HTMLElement).closest('.tabs-scroll')) return; // let tabs scroll horizontally
+    e.preventDefault();
+    scrollEl.scrollTop += e.deltaY;
+  }, { passive: false });
+  document.dispatchEvent(new CustomEvent('goinatlas:searchScope', { detail: { destination: 'India' } }));
+</script>

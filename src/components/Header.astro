@@ -1,6 +1,7 @@
 ---
 // Header — thin nav bar (4rem / 64px), Medium-style
 // Sidebar toggle dispatches goinatlas:toggleSidebar
+import { featuredCarousels } from '../config/search-suggestions';
 ---
 
 <header
@@ -8,178 +9,328 @@
   id="site-header"
   style="height: 4rem;"
 >
-  <div class="h-full flex items-center" style="padding-right: 1rem;">
+  <div class="h-full flex items-center">
 
-    <!-- Left section: fixed width = sidebar width (240px) so search aligns with content -->
-    <div class="flex items-center gap-2 flex-shrink-0 px-3 hdr-left">
-      <!-- Hamburger: shown when sidebar is CLOSED -->
-      <button
-        id="sidebar-toggle-btn"
-        class="hdr-toggle-btn p-2 rounded-lg flex-shrink-0"
-        aria-label="Open sidebar"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
-          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="3" y1="6" x2="21" y2="6"/>
-          <line x1="3" y1="12" x2="21" y2="12"/>
-          <line x1="3" y1="18" x2="21" y2="18"/>
-        </svg>
-      </button>
+    <!-- Left section: exactly 240px (= sidebar width).
+         Hamburger + logo on the left; collapse button pinned to the right edge. -->
+    <div class="flex items-center justify-between flex-shrink-0 pl-3 pr-0 hdr-left">
+      <div class="flex items-center gap-2">
+        <!-- Hamburger: shown when sidebar is CLOSED -->
+        <button
+          id="sidebar-toggle-btn"
+          class="hdr-toggle-btn p-2 rounded-lg flex-shrink-0"
+          aria-label="Open sidebar"
+        >
+          <svg width="18" height="18" viewBox="0 0 58 58" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M55 17H3C1.35 17 0 18.35 0 20C0 21.65 1.35 23 3 23H55C56.65 23 58 21.65 58 20C58 18.35 56.65 17 55 17Z"/>
+            <path d="M43 6C44.65 6 46 4.65 46 3C46 1.35 44.65 0 43 0H15C13.35 0 12 1.35 12 3C12 4.65 13.35 6 15 6H43Z"/>
+            <path d="M58 38C58 36.35 56.65 35 55 35H3C1.35 35 0 36.35 0 38C0 39.65 1.35 41 3 41H55C56.65 41 58 39.65 58 38Z"/>
+            <path d="M15 52C13.35 52 12 53.35 12 55C12 56.65 13.35 58 15 58H43C44.65 58 46 56.65 46 55C46 53.35 44.65 52 43 52H15Z"/>
+          </svg>
+        </button>
 
-      <!-- Logo -->
-      <a href="/" class="flex items-center flex-shrink-0" id="header-logo">
-        <img src="/images/logo.svg" alt="GoinAtlas" class="h-5 w-auto" />
-      </a>
+        <!-- Logo -->
+        <a href="/" class="flex items-center flex-shrink-0" id="header-logo">
+          <img src="/images/logo.svg" alt="GoinAtlas" class="h-5 w-auto" />
+        </a>
+      </div>
 
-      <!-- Collapse btn: shown when sidebar is OPEN -->
+      <!-- Collapse btn: at right edge of column 1, shown when sidebar is OPEN -->
       <button
         id="sidebar-collapse-btn"
         class="hdr-toggle-btn p-2 rounded-lg flex-shrink-0"
         aria-label="Close sidebar"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
-          stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M11 17l-5-5 5-5"/>
-          <path d="M18 17l-5-5 5-5"/>
+        <svg width="18" height="20" viewBox="0 0 56 62" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="transform: scaleX(-1);">
+          <path d="M0 59C0 60.65 1.35 62 3 62C4.65 62 6 60.65 6 59C6 52.8 7.75 49.73 9.6 46.49C11.27 43.57 13.17 40.25 13.78 34.89L13.88 34H48.75L38.87 43.88C38.3 44.45 37.99 45.2 37.99 46C37.99 46.8 38.3 47.55 38.87 48.12C40 49.25 41.98 49.25 43.11 48.12L52.99 38.24C54.92 36.31 55.99 33.73 55.99 31C55.99 28.27 54.92 25.69 52.99 23.76L43.11 13.88C41.98 12.75 40 12.75 38.87 13.88C38.3 14.45 37.99 15.2 37.99 16C37.99 16.8 38.3 17.55 38.87 18.12L48.75 28H13.88L13.78 27.11C13.16 21.75 11.27 18.43 9.6 15.51C7.75 12.26 6 9.2 6 3C6 1.35 4.65 0 3 0C1.35 0 0 1.35 0 3C0 10.8 2.33 14.88 4.4 18.49C6.25 21.74 8 24.8 8 31C8 37.2 6.25 40.27 4.4 43.51C2.34 47.12 0 51.2 0 59Z"/>
         </svg>
       </button>
     </div>
 
-    <!-- Search bar starts exactly at sidebar end -->
-    <div class="flex-1 relative max-w-md" id="header-search-wrapper">
-      <svg
-        class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--color-text-muted)] pointer-events-none"
-        fill="none" stroke="currentColor" viewBox="0 0 24 24"
-      >
-        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-      </svg>
-      <input
-        id="header-search-input"
-        type="text"
-        autocomplete="off"
-        spellcheck="false"
-        placeholder=""
-        class="w-full pl-9 pr-4 py-2 text-sm bg-white border border-[var(--color-brand-600)] rounded-full text-[var(--color-text-primary)] placeholder-[var(--color-text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-600)] transition-colors"
-      />
-      <div
-        id="header-search-results"
-        class="hidden absolute left-0 right-0 top-full mt-1.5 bg-white border border-[var(--color-border)] rounded-xl shadow-lg overflow-hidden z-50"
-      ></div>
-    </div>
-
-    <!-- Right: language + profile (hidden on mobile — moved to sidebar footer) -->
-    <div class="flex items-center gap-2 flex-shrink-0 ml-auto" id="header-right-section">
-
-      <!-- Profile button -->
+    <!-- Right: search trigger — flex child so it can never overlap the left section -->
+    <div class="flex-1 min-w-0 flex justify-end pr-4 pl-4">
       <button
-        id="profile-btn"
-        class="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-brand-50)] text-[var(--color-brand-600)] hover:bg-[var(--color-brand-100)] transition-colors"
-        aria-label="Profile"
+        id="header-search-trigger"
+        aria-label="Open search"
+        class="relative flex items-center w-full"
+        style="max-width: 448px;"
       >
-        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M12 12a3 3 0 100-6 3 3 0 000 6z"/>
-          <path fill-rule="evenodd" d="M12 18c-4.418 0-8-1.79-8-4s3.582-4 8-4 8 1.79 8 4-3.582 4-8 4z" clip-rule="evenodd"/>
-        </svg>
-      </button>
-
-      <!-- Language -->
-      <div class="relative" id="lang-dropdown-wrapper">
-        <button
-          id="lang-btn"
-          class="flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-full transition-colors"
-          aria-label="Language"
+        <svg
+          class="absolute left-3 w-4 h-4 text-[var(--color-text-primary)] pointer-events-none"
+          fill="currentColor" viewBox="0 0 58 58" xmlns="http://www.w3.org/2000/svg" style="transform: scaleX(-1);"
         >
-          <span id="lang-current">EN</span>
-          <svg class="w-3 h-3 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-          </svg>
-        </button>
-        <div id="lang-menu" class="hidden absolute right-0 top-full mt-1 bg-white border border-[var(--color-border)] rounded-xl shadow-lg overflow-hidden min-w-[80px] z-50">
-          <button class="w-full px-4 py-2.5 text-xs font-semibold text-left text-[var(--color-brand-700)] bg-[var(--color-brand-50)]">EN</button>
-        </div>
-      </div>
-
+          <path d="M0.8775 57.12C2.0075 58.25 3.9875 58.25 5.1175 57.12L17.5675 44.67L18.2575 45.18C22.5675 48.33 27.6575 50 32.9975 50C46.7875 50 57.9975 38.79 57.9975 25C57.9975 11.21 46.7875 0 32.9975 0C19.2075 0 7.9975 11.21 7.9975 25C7.9975 30.33 9.6675 35.43 12.8175 39.74L13.3275 40.43L0.8775 52.88C-0.2925 54.05 -0.2925 55.95 0.8775 57.12ZM32.9975 6C43.4775 6 51.9975 14.52 51.9975 25C51.9975 35.48 43.4775 44 32.9975 44C22.5175 44 13.9975 35.48 13.9975 25C13.9975 14.52 22.5175 6 32.9975 6Z"/>
+        </svg>
+        <span
+          id="header-search-placeholder"
+          class="w-full pl-9 pr-4 py-2 text-sm bg-white border border-[var(--color-brand-600)] rounded-full text-left text-[var(--color-text-secondary)] truncate"
+          style="display: block; line-height: 1.5;"
+        >Search guides...</span>
+      </button>
     </div>
+
   </div>
 </header>
 
-<style>
-  /* Left section fixed width on desktop */
-  .hdr-left { width: 240px; }
+<!-- ── Search Overlay ───────────────────────────────────────────── -->
+<div
+  id="search-overlay"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Search"
+>
+  <!-- Backdrop -->
+  <div id="search-backdrop"></div>
 
-  /* ── Mobile (< 768px): hide right section entirely, collapse left section ── */
+  <!-- Panel -->
+  <div id="search-panel">
+
+    <!-- Panel header: large input + close button -->
+    <div class="so-header">
+      <div class="so-input-wrap">
+        <svg class="so-search-icon" fill="currentColor" viewBox="0 0 58 58" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0.8775 57.12C2.0075 58.25 3.9875 58.25 5.1175 57.12L17.5675 44.67L18.2575 45.18C22.5675 48.33 27.6575 50 32.9975 50C46.7875 50 57.9975 38.79 57.9975 25C57.9975 11.21 46.7875 0 32.9975 0C19.2075 0 7.9975 11.21 7.9975 25C7.9975 30.33 9.6675 35.43 12.8175 39.74L13.3275 40.43L0.8775 52.88C-0.2925 54.05 -0.2925 55.95 0.8775 57.12ZM32.9975 6C43.4775 6 51.9975 14.52 51.9975 25C51.9975 35.48 43.4775 44 32.9975 44C22.5175 44 13.9975 35.48 13.9975 25C13.9975 14.52 22.5175 6 32.9975 6Z"/>
+        </svg>
+        <input
+          id="overlay-input"
+          type="text"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder=""
+        />
+      </div>
+      <button id="overlay-close" aria-label="Close search">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+          <line x1="1" y1="1" x2="13" y2="13"/>
+          <line x1="13" y1="1" x2="1" y2="13"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="so-divider"></div>
+
+    <!-- Scrollable content -->
+    <div id="overlay-content">
+      <!-- Populated by JS -->
+    </div>
+
+  </div>
+</div>
+
+<style>
+  /* ── Header left section ────────────────────────────────────── */
+  .hdr-left { width: 240px; }
   @media (max-width: 767px) {
     .hdr-left { width: auto !important; }
-    #header-right-section { display: none !important; }
   }
 
-  /* Both toggle buttons — light style, smooth slide-in/out */
   .hdr-toggle-btn {
-    color: var(--color-text-secondary);
+    color: var(--color-text-primary);
     transition: color 0.15s, background 0.15s, opacity 0.18s ease, max-width 0.18s ease, padding 0.18s ease;
     overflow: hidden;
   }
-  .hdr-toggle-btn:hover {
+  .hdr-toggle-btn:hover { color: #000; background: var(--color-bg-subtle); }
+
+  #sidebar-toggle-btn  { max-width: 40px; opacity: 1; pointer-events: auto; }
+  #sidebar-collapse-btn { max-width: 0; opacity: 0; padding-left: 0; padding-right: 0; pointer-events: none; }
+
+  #site-header.sidebar-is-open #sidebar-toggle-btn  { max-width: 0; opacity: 0; padding-left: 0; padding-right: 0; pointer-events: none; }
+  #site-header.sidebar-is-open #sidebar-collapse-btn { max-width: 40px; opacity: 1; padding-left: 0.5rem; padding-right: 0.5rem; pointer-events: auto; }
+
+  /* ── Search trigger button ──────────────────────────────────── */
+  #header-search-trigger {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  #header-search-trigger:hover #header-search-placeholder {
+    background: var(--color-bg);
+  }
+
+  /* ── Overlay backdrop ───────────────────────────────────────── */
+  #search-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+  }
+  #search-overlay.is-open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  #search-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.28);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+
+  /* ── Panel ──────────────────────────────────────────────────── */
+  #search-panel {
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    left: 256px;         /* sidebar (240) + gap (16) */
+    max-height: calc(100vh - 40px);   /* 16px top + 24px bottom */
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 24px 64px rgba(0, 0, 0, 0.18);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transform: translateY(10px);
+    transition: transform 0.22s ease;
+  }
+  #search-overlay.is-open #search-panel {
+    transform: translateY(0);
+  }
+
+  /* Tablet (600–1023px): no persistent sidebar */
+  @media (min-width: 600px) and (max-width: 1023px) {
+    #search-panel {
+      left: 24px;
+    }
+  }
+  /* Mobile (≤ 767px): pantalla completa, sin modal */
+  @media (max-width: 767px) {
+    /* Backdrop invisible — el panel cubre todo */
+    #search-backdrop {
+      backdrop-filter: none !important;
+      -webkit-backdrop-filter: none !important;
+      background: transparent !important;
+    }
+    /* Panel = toda la pantalla */
+    #search-panel {
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      bottom: 0 !important;
+      width: 100% !important;
+      height: 100% !important;
+      max-height: none !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      transform: none !important;
+      transition: none !important;
+    }
+    #search-overlay {
+      transition: none !important;
+    }
+  }
+
+  /* ── Panel header ───────────────────────────────────────────── */
+  .so-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem 1.5rem 1rem;
+    flex-shrink: 0;
+  }
+  .so-input-wrap {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-width: 0;
+  }
+  .so-search-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    flex-shrink: 0;
+    transform: scaleX(-1);
+    color: var(--color-text-muted);
+    fill: var(--color-text-muted);
+  }
+  #overlay-input {
+    flex: 1;
+    min-width: 0;
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 700;
     color: var(--color-text-primary);
+    background: transparent;
+    border: none;
+    outline: none;
+    caret-color: var(--color-brand-600);
+  }
+  #overlay-input::placeholder {
+    color: #d0d0d0;
+    font-weight: 700;
+  }
+  @media (max-width: 767px) {
+    #overlay-input { font-size: 1.1rem; }
+  }
+  #overlay-close {
+    flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: none;
     background: var(--color-bg-subtle);
+    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+  }
+  #overlay-close:hover { background: var(--color-border); color: var(--color-text-primary); }
+
+  .so-divider {
+    height: 1px;
+    background: var(--color-border);
+    flex-shrink: 0;
+    margin: 0 1.5rem;
   }
 
-  /* Hamburger: visible by default */
-  #sidebar-toggle-btn {
-    max-width: 40px;
-    opacity: 1;
-    pointer-events: auto;
+  /* ── Overlay scrollable content ─────────────────────────────── */
+  #overlay-content {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    padding: 1.25rem 1.5rem 1.5rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border) transparent;
   }
-  /* Collapse: hidden by default (after the logo) */
-  #sidebar-collapse-btn {
-    max-width: 0;
-    opacity: 0;
-    padding-left: 0;
-    padding-right: 0;
-    pointer-events: none;
-  }
+  #overlay-content::-webkit-scrollbar { width: 4px; }
+  #overlay-content::-webkit-scrollbar-track { background: transparent; }
+  #overlay-content::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
 
-  /* When sidebar is open: swap */
-  #site-header.sidebar-is-open #sidebar-toggle-btn {
-    max-width: 0;
-    opacity: 0;
-    padding-left: 0;
-    padding-right: 0;
-    pointer-events: none;
-  }
-  #site-header.sidebar-is-open #sidebar-collapse-btn {
-    max-width: 40px;
-    opacity: 1;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    pointer-events: auto;
-  }
+  /* Note: .so-section, .so-cards, .so-card, .so-card-img, .so-card-title,
+     .so-subtitle, .so-everything, .so-empty are in global.css because
+     they apply to innerHTML-generated content (Astro scoped styles don't
+     reach dynamically created DOM nodes). */
 </style>
 
-<script>
-  // ── --header-h: just the nav bar height (4rem = 64px) ────────
+<script define:vars={{ featuredCarousels }}>
+  // ── CSS variable ────────────────────────────────────────────
   document.documentElement.style.setProperty('--header-h', '4rem');
 
-  // ── Sidebar toggle — two-button approach ─────────────────────
+  // ── Sidebar toggle ──────────────────────────────────────────
   const header = document.getElementById('site-header');
-
-  // Mirror GlobalSidebar's initial-state logic
   const stored = localStorage.getItem('goinatlas:sidebar-collapsed');
-  let sidebarOpen = window.innerWidth < 768 ? false : stored !== '1';
+  let sidebarOpen = window.innerWidth < 1280 ? false : stored !== '1';
 
   function syncHeader() {
     header?.classList.toggle('sidebar-is-open', sidebarOpen);
   }
-  // Head script already set the correct visual state before paint.
-  // Just sync the class so JS-driven toggles work correctly afterward.
   syncHeader();
 
-  document.addEventListener('goinatlas:sidebarChanged', ((e: CustomEvent) => {
+  document.addEventListener('goinatlas:sidebarChanged', (e) => {
     sidebarOpen = !e.detail.collapsed;
     syncHeader();
-  }) as EventListener);
+    // Adjust panel left when sidebar opens/closes while overlay is open
+    const panel = document.getElementById('search-panel');
+    if (panel && window.innerWidth >= 1024) {
+      panel.style.left = sidebarOpen ? '256px' : '24px';
+    }
+  });
 
-  // Both buttons dispatch the same toggle event
   document.getElementById('sidebar-toggle-btn')?.addEventListener('click', () => {
     document.dispatchEvent(new CustomEvent('goinatlas:toggleSidebar'));
   });
@@ -187,133 +338,365 @@
     document.dispatchEvent(new CustomEvent('goinatlas:toggleSidebar'));
   });
 
-  // ── Language dropdown ─────────────────────────────────────────
-  const langBtn  = document.getElementById('lang-btn');
-  const langMenu = document.getElementById('lang-menu');
-  langBtn?.addEventListener('click', (e) => {
-    e.stopPropagation();
-    langMenu?.classList.toggle('hidden');
-  });
-  document.addEventListener('click', () => langMenu?.classList.add('hidden'));
+  // ── Typewriter placeholder ──────────────────────────────────
+  const trigger      = document.getElementById('header-search-trigger');
+  const placeholderEl = document.getElementById('header-search-placeholder');
 
-  // ── Search ────────────────────────────────────────────────────
-  const input   = document.getElementById('header-search-input') as HTMLInputElement;
-  const results = document.getElementById('header-search-results');
+  // Starts with one generic phrase; once articles load, replaced with
+  // real article titles so every placeholder is actually searchable.
+  const placeholders = ['Search guides...'];
 
-  const placeholders = [
-    'Search guides...',
-    'Japan 2-week itinerary...',
-    'Best time to visit Seoul...',
-    'Hidden gems in Tokyo...',
-    'South Korea food guide...',
-  ];
-
-  // State machine: typing → hold → deleting → gap → typing …
-  type PhState = 'typing' | 'hold' | 'deleting' | 'gap';
-  // Pick a random phrase and show it FULLY on page load — no typing animation on first render
-  let phIdx   = Math.floor(Math.random() * placeholders.length);
-  let phChar  = placeholders[phIdx].length;
-  let phState: PhState = 'hold'; // already fully typed → hold, then cycle normally
-
-  // Set immediately so the HTML placeholder="Search guides..." never shows
-  if (input) input.setAttribute('placeholder', placeholders[phIdx]);
+  let phIdx = Math.floor(Math.random() * placeholders.length);
+  let phChar = placeholders[phIdx].length;
+  let phState = 'hold';
 
   function typewriterStep() {
-    if (document.activeElement === input || input.value) {
-      setTimeout(typewriterStep, 300);
-      return;
-    }
-
+    if (!placeholderEl) return;
     const line = placeholders[phIdx];
-
     if (phState === 'typing') {
       phChar++;
-      input.setAttribute('placeholder', line.slice(0, phChar) + (phChar < line.length ? '|' : ''));
-      if (phChar >= line.length) {
-        // Finished typing — hold for 5 s
-        phState = 'hold';
-        setTimeout(typewriterStep, 5000);
-      } else {
-        setTimeout(typewriterStep, 30);
-      }
-
+      placeholderEl.textContent = line.slice(0, phChar) + (phChar < line.length ? '|' : '');
+      if (phChar >= line.length) { phState = 'hold'; setTimeout(typewriterStep, 5000); }
+      else setTimeout(typewriterStep, 30);
     } else if (phState === 'hold') {
-      // Pause over — start deleting
-      phState = 'deleting';
-      setTimeout(typewriterStep, 16);
-
+      phState = 'deleting'; setTimeout(typewriterStep, 16);
     } else if (phState === 'deleting') {
       phChar--;
-      input.setAttribute('placeholder', phChar > 0 ? line.slice(0, phChar) + '|' : '');
+      placeholderEl.textContent = phChar > 0 ? line.slice(0, phChar) + '|' : '|';
       if (phChar <= 0) {
         phIdx = (phIdx + 1) % placeholders.length;
-        phChar = 0;
-        phState = 'gap';
-        setTimeout(typewriterStep, 500); // short pause before next phrase
-      } else {
-        setTimeout(typewriterStep, 16);
-      }
-
+        phChar = 0; phState = 'gap';
+        setTimeout(typewriterStep, 500);
+      } else setTimeout(typewriterStep, 16);
     } else if (phState === 'gap') {
-      phState = 'typing';
-      setTimeout(typewriterStep, 30);
+      phState = 'typing'; setTimeout(typewriterStep, 30);
     }
   }
+  if (placeholderEl) placeholderEl.textContent = placeholders[phIdx];
   typewriterStep();
 
-  type Article = { title: string; slug: string; destination: string; category: string; description: string };
-  let articles: Article[] = [];
-  let loaded = false;
-  let scopedDestination: string | null = null;
+  // ── Overlay typewriter (same phrases, runs while overlay is open) ──
+  let ovPhIdx   = 0;
+  let ovPhChar  = 0;
+  let ovPhState = 'typing';
+  let ovActive  = false;
+
+  function overlayTypewriterStep() {
+    if (!ovActive || !overlayInput) return;
+    // Pause while user is typing
+    if (overlayInput.value) { setTimeout(overlayTypewriterStep, 300); return; }
+    const line = placeholders[ovPhIdx];
+    if (ovPhState === 'typing') {
+      ovPhChar++;
+      overlayInput.setAttribute('placeholder', line.slice(0, ovPhChar) + (ovPhChar < line.length ? '|' : ''));
+      if (ovPhChar >= line.length) { ovPhState = 'hold'; setTimeout(overlayTypewriterStep, 5000); }
+      else setTimeout(overlayTypewriterStep, 30);
+    } else if (ovPhState === 'hold') {
+      ovPhState = 'deleting'; setTimeout(overlayTypewriterStep, 16);
+    } else if (ovPhState === 'deleting') {
+      ovPhChar--;
+      overlayInput.setAttribute('placeholder', ovPhChar > 0 ? line.slice(0, ovPhChar) + '|' : '|');
+      if (ovPhChar <= 0) {
+        ovPhIdx = (ovPhIdx + 1) % placeholders.length;
+        ovPhChar = 0; ovPhState = 'gap';
+        setTimeout(overlayTypewriterStep, 500);
+      } else setTimeout(overlayTypewriterStep, 16);
+    } else if (ovPhState === 'gap') {
+      ovPhState = 'typing'; setTimeout(overlayTypewriterStep, 30);
+    }
+  }
+
+  // ── Article data ────────────────────────────────────────────
+  let articles = [];
+  let loaded   = false;
+
+  // Pick up to `n` short article titles spread across top destinations.
+  // Each title is trimmed so it reads naturally as a search query.
+  function buildPlaceholders(arts, n = 5) {
+    // Group by destination, sort dests by article count desc
+    const byDest = {};
+    arts.forEach(a => { (byDest[a.destPath] ??= []).push(a); });
+    const topDests = Object.entries(byDest)
+      .sort((x, y) => y[1].length - x[1].length)
+      .map(([dp, list]) => list);
+
+    const picked = [];
+    // Round-robin: one article per destination until we have n
+    let round = 0;
+    while (picked.length < n && round < 20) {
+      for (const list of topDests) {
+        if (picked.length >= n) break;
+        // Prefer Itinerary / Food / Culture categories — they read naturally
+        const preferred = list.find(a =>
+          ['Itinerary','Food','Culture','Food & Drink'].includes(a.category) &&
+          !picked.some(p => p.slug === a.slug)
+        );
+        const candidate = preferred ?? list.find(a => !picked.some(p => p.slug === a.slug));
+        if (candidate) picked.push(candidate);
+      }
+      round++;
+    }
+
+    return picked.map(a => {
+      // Trim to ≤ 42 chars so it fits the input without truncating mid-word
+      let t = a.title;
+      if (t.length > 42) {
+        t = t.slice(0, 39).replace(/\s\S*$/, '') + '...';
+      }
+      return t;
+    });
+  }
 
   async function loadArticles() {
     if (loaded) return;
-    try { const res = await fetch('/search.json'); articles = await res.json(); loaded = true; } catch {}
+    try {
+      const res = await fetch('/search.json');
+      articles  = await res.json();
+      loaded    = true;
+      // Replace placeholder list with real, searchable article titles
+      const real = buildPlaceholders(articles);
+      placeholders.splice(0, placeholders.length, ...real);
+      // Sync header trigger to first real title if typewriter is idle
+      if (placeholderEl && !document.getElementById('search-overlay')?.classList.contains('is-open')) {
+        phIdx  = 0;
+        phChar = placeholders[0].length;
+        phState = 'hold';
+        placeholderEl.textContent = placeholders[0];
+      }
+    } catch {}
   }
 
-  document.addEventListener('goinatlas:searchScope', ((e: CustomEvent) => {
-    scopedDestination = e.detail.destination ?? null;
-  }) as EventListener);
+  function norm(s) {
+    return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  }
 
-  function renderResults(query: string) {
-    if (!results) return;
-    if (!query.trim()) { results.classList.add('hidden'); return; }
-    const q = query.toLowerCase();
-    let pool = scopedDestination
-      ? articles.filter((a) => a.destination.toLowerCase() === scopedDestination!.toLowerCase())
-      : articles;
-    const matches = pool.filter(
-      (a) => a.title.toLowerCase().includes(q) || a.description.toLowerCase().includes(q) || a.category.toLowerCase().includes(q)
-    ).slice(0, 6);
-    if (!matches.length) { results.classList.add('hidden'); return; }
-    results.innerHTML = matches.map((a) => `
-      <a href="/${a.destination.toLowerCase()}/${a.slug}"
-        class="flex items-center gap-3 px-4 py-3 hover:bg-[var(--color-bg-subtle)] transition-colors border-b border-[var(--color-border)] last:border-0">
-        <span class="text-[10px] font-semibold uppercase tracking-wider text-[var(--color-brand-700)] bg-[var(--color-brand-50)] px-2 py-0.5 rounded-full flex-shrink-0">${a.category}</span>
-        <div class="min-w-0">
-          <p class="text-sm font-medium text-[var(--color-text-primary)] truncate">${a.title}</p>
-          <p class="text-xs text-[var(--color-text-muted)] truncate">${a.destination}</p>
+  // ── Destination label map ───────────────────────────────────
+  const destLabel = {
+    'japan':        '🇯🇵 Japan',
+    'south-korea':  '🇰🇷 South Korea',
+    'united-states': '🇺🇸 United States',
+    'mexico':       '🇲🇽 Mexico',
+    'canada':       '🇨🇦 Canada',
+    'france':       '🇫🇷 France',
+    'spain':        '🇪🇸 Spain',
+    'italy':        '🇮🇹 Italy',
+    'portugal':     '🇵🇹 Portugal',
+    'ireland':      '🇮🇪 Ireland',
+    'india':        '🇮🇳 India',
+    'thailand':     '🇹🇭 Thailand',
+    'malaysia':     '🇲🇾 Malaysia',
+    'peru':         '🇵🇪 Peru',
+    'costa-rica':   '🇨🇷 Costa Rica',
+    'tanzania':     '🇹🇿 Tanzania',
+    'egypt':        '🇪🇬 Egypt',
+    'pakistan':     '🇵🇰 Pakistan',
+    'kazakhstan':   '🇰🇿 Kazakhstan',
+    'greenland':    '🇬🇱 Greenland',
+  };
+
+  function getDestLabel(destPath) {
+    return destLabel[destPath] ?? destPath;
+  }
+
+  // ── Build HTML helpers ──────────────────────────────────────
+  const arrowSvg = `<svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>`;
+
+  function buildCard(article) {
+    const img = article.heroImage
+      ? `<img src="${article.heroImage}" alt="${article.title.replace(/"/g, '&quot;')}" loading="lazy" />`
+      : '';
+    return `
+      <a href="/${article.destPath}/${article.slug}" class="so-card">
+        <div class="so-card-img">${img}</div>
+        <p class="so-card-title">${article.title}</p>
+      </a>`;
+  }
+
+  function buildSection(title, everythingLabel, everythingHref, sectionArticles) {
+    const cards = sectionArticles.slice(0, 4).map(buildCard).join('');
+    return `
+      <div class="so-section">
+        <div class="so-section-head">
+          <span class="so-section-title">${title}</span>
+          <a href="${everythingHref}" class="so-everything">
+            ${everythingLabel} ${arrowSvg}
+          </a>
         </div>
-      </a>
-    `).join('');
-    results.classList.remove('hidden');
+        <div class="so-cards">${cards}</div>
+      </div>`;
   }
 
-  input?.addEventListener('focus', loadArticles);
-  input?.addEventListener('input', (e) => {
+  // ── Suggested state (no query) ──────────────────────────────
+  function renderSuggestions() {
+    const content = document.getElementById('overlay-content');
+    if (!content) return;
+
+    let html = `<p class="so-subtitle">Suggested destinations</p>`;
+
+    // 1. Featured carousels (from config, enabled only)
+    const shownDests = new Set();
+    for (const carousel of featuredCarousels) {
+      if (!carousel.enabled) continue;
+      const q = norm(carousel.query);
+      let pool;
+      if (carousel.pinnedSlugs?.length) {
+        pool = carousel.pinnedSlugs
+          .map(slug => articles.find(a => a.slug === slug))
+          .filter(Boolean);
+      } else {
+        pool = articles
+          .filter(a => norm(a.title).includes(q) || norm(a.description).includes(q))
+          .slice(0, 4);
+      }
+      if (!pool.length) continue;
+      pool.forEach(a => shownDests.add(a.destPath));
+      html += buildSection(
+        carousel.title,
+        `Everything from ${carousel.title}`,
+        `/search?q=${encodeURIComponent(carousel.query)}`,
+        pool
+      );
+    }
+
+    // 2. Top 2 destinations by article count (excluding already shown)
+    const countByDest = {};
+    articles.forEach(a => {
+      if (!shownDests.has(a.destPath)) {
+        countByDest[a.destPath] = (countByDest[a.destPath] ?? 0) + 1;
+      }
+    });
+    const topDests = Object.entries(countByDest)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 2)
+      .map(([dp]) => dp);
+
+    for (const dp of topDests) {
+      const pool = articles
+        .filter(a => a.destPath === dp)
+        .sort((a, b) => new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime())
+        .slice(0, 4);
+      if (!pool.length) continue;
+      const label = getDestLabel(dp);
+      html += buildSection(label, `Everything from ${label.replace(/^\S+\s/, '')}`, `/${dp}`, pool);
+    }
+
+    content.innerHTML = html;
+  }
+
+  // ── Search state (with query) ───────────────────────────────
+  function renderResults(query) {
+    const content = document.getElementById('overlay-content');
+    if (!content) return;
+
+    const q = norm(query.trim());
+    if (!q) { renderSuggestions(); return; }
+
+    const matches = articles.filter(a =>
+      norm(a.destination).includes(q) ||
+      norm(a.title).includes(q) ||
+      norm(a.description).includes(q) ||
+      norm(a.category).includes(q)
+    );
+
+    if (!matches.length) {
+      content.innerHTML = `<div class="so-empty"><strong>No articles found</strong>Try a different search term or <a href="/search?q=${encodeURIComponent(query.trim())}" style="color:var(--color-brand-600)">browse all results</a>.</div>`;
+      return;
+    }
+
+    // Group by destination path
+    const byDest = new Map();
+    matches.forEach(a => {
+      if (!byDest.has(a.destPath)) byDest.set(a.destPath, []);
+      byDest.get(a.destPath).push(a);
+    });
+
+    // Sort groups by match count desc, cap at 4 groups
+    const groups = [...byDest.entries()]
+      .sort((a, b) => b[1].length - a[1].length)
+      .slice(0, 4);
+
+    let html = `<p class="so-subtitle">${matches.length} result${matches.length !== 1 ? 's' : ''} for "<strong>${query.trim()}</strong>"</p>`;
+    for (const [dp, pool] of groups) {
+      const label = getDestLabel(dp);
+      html += buildSection(label, `Everything from ${label.replace(/^\S+\s/, '')}`, `/${dp}`, pool);
+    }
+
+    // "See all" row if more results than shown in carousels
+    const shownCount = groups.reduce((sum, [, pool]) => sum + Math.min(pool.length, 3), 0);
+    if (matches.length > shownCount) {
+      html += `
+        <a href="/search?q=${encodeURIComponent(query.trim())}" class="so-seeall">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          See all ${matches.length} results for "<strong>${query.trim()}</strong>"
+        </a>`;
+    }
+
+    content.innerHTML = html;
+  }
+
+  // ── Overlay open / close ────────────────────────────────────
+  const overlay      = document.getElementById('search-overlay');
+  const overlayInput = document.getElementById('overlay-input');
+  const backdrop     = document.getElementById('search-backdrop');
+  const closeBtn     = document.getElementById('overlay-close');
+  const panel        = document.getElementById('search-panel');
+
+  function openOverlay() {
+    if (!overlay) return;
+    overlay.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+    if (panel && window.innerWidth >= 1024) {
+      panel.style.left = sidebarOpen ? '256px' : '24px';
+    }
+    requestAnimationFrame(() => overlayInput?.focus());
+    loadArticles().then(renderSuggestions);
+    // Start overlay typewriter fresh from a random phrase
+    ovPhIdx   = Math.floor(Math.random() * placeholders.length);
+    ovPhChar  = 0;
+    ovPhState = 'typing';
+    ovActive  = true;
+    if (overlayInput) overlayInput.setAttribute('placeholder', '');
+    overlayTypewriterStep();
+  }
+
+  function closeOverlay() {
+    if (!overlay) return;
+    overlay.classList.remove('is-open');
+    document.body.style.overflow = '';
+    ovActive = false;
+    if (overlayInput) { overlayInput.value = ''; overlayInput.setAttribute('placeholder', ''); }
+    if (placeholderEl) placeholderEl.textContent = placeholders[phIdx];
+  }
+
+  // Pre-fetch articles so placeholders are ready before first interaction
+  if (document.readyState === 'complete') {
     loadArticles();
-    renderResults((e.target as HTMLInputElement).value);
+  } else {
+    window.addEventListener('load', loadArticles, { once: true });
+  }
+
+  trigger?.addEventListener('click', openOverlay);
+  closeBtn?.addEventListener('click', closeOverlay);
+  backdrop?.addEventListener('click', closeOverlay);
+
+  overlayInput?.addEventListener('input', (e) => {
+    renderResults(e.target.value);
   });
-  input?.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') { input.value = ''; results?.classList.add('hidden'); input.blur(); }
-    if (e.key === 'Enter' && input.value.trim())
-      window.location.href = `/?q=${encodeURIComponent(input.value.trim())}`;
+
+  overlayInput?.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeOverlay();
+    if (e.key === 'Enter' && overlayInput.value.trim()) {
+      window.location.href = `/search?q=${encodeURIComponent(overlayInput.value.trim())}`;
+    }
   });
-  document.addEventListener('click', (e) => {
-    if (!document.getElementById('header-search-wrapper')?.contains(e.target as Node))
-      results?.classList.add('hidden');
-  });
+
   document.addEventListener('keydown', (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); input?.focus(); }
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openOverlay(); }
+    if (e.key === 'Escape' && overlay?.classList.contains('is-open')) closeOverlay();
+  });
+
+  // ── Legacy: keep goinatlas:searchScope for destination hubs ─
+  document.addEventListener('goinatlas:searchScope', (e) => {
+    // Currently unused in overlay mode, reserved for future scoped search
   });
 </script>

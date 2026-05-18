@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('costa_rica');
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content, headings } = await render(article);
+---
+
+<ArticleLayout
+  title={article.data.title}
+  description={article.data.description}
+  destination={article.data.destination}
+  category={article.data.category}
+  publishDate={article.data.publishDate}
+  heroImage={article.data.heroImage}
+  readingTime={article.data.readingTime}
+  etsy_template={article.data.etsy_template}
+  headings={headings}
+  city={article.data.city}
+  tocStyle={article.data.tocStyle}
+>
+  <Content />
+</ArticleLayout>

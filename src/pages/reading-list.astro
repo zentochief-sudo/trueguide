@@ -3,140 +3,168 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 
+// ── Load every collection (same set as GlobalSidebar) ──────────────────────
 const japanArticles  = await getCollection('japan');
-let koreaArticles: typeof japanArticles = [];
-try { koreaArticles = await getCollection('korea'); } catch {}
+let koreaArticles:      typeof japanArticles = [];
+let usaArticles:        typeof japanArticles = [];
+let mexicoArticles:     typeof japanArticles = [];
+let canadaArticles:     typeof japanArticles = [];
+let spainArticles:      typeof japanArticles = [];
+let italyArticles:      typeof japanArticles = [];
+let franceArticles:     typeof japanArticles = [];
+let portugalArticles:   typeof japanArticles = [];
+let irelandArticles:    typeof japanArticles = [];
+let indiaArticles:      typeof japanArticles = [];
+let thailandArticles:   typeof japanArticles = [];
+let malaysiaArticles:   typeof japanArticles = [];
+let peruArticles:       typeof japanArticles = [];
+let costaRicaArticles:  typeof japanArticles = [];
+let tanzaniaArticles:   typeof japanArticles = [];
+let egyptArticles:      typeof japanArticles = [];
+let pakistanArticles:   typeof japanArticles = [];
+let kazakhstanArticles: typeof japanArticles = [];
+let greenlandArticles:  typeof japanArticles = [];
+let reunionArticles:    typeof japanArticles = [];
 
-const allArticles = [...japanArticles, ...koreaArticles]
-  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+try { koreaArticles      = await getCollection('korea');      } catch {}
+try { usaArticles        = await getCollection('usa');        } catch {}
+try { mexicoArticles     = await getCollection('mexico');     } catch {}
+try { canadaArticles     = await getCollection('canada');     } catch {}
+try { spainArticles      = await getCollection('spain');      } catch {}
+try { italyArticles      = await getCollection('italy');      } catch {}
+try { franceArticles     = await getCollection('france');     } catch {}
+try { portugalArticles   = await getCollection('portugal');   } catch {}
+try { irelandArticles    = await getCollection('ireland');    } catch {}
+try { indiaArticles      = await getCollection('india');      } catch {}
+try { thailandArticles   = await getCollection('thailand');   } catch {}
+try { malaysiaArticles   = await getCollection('malaysia');   } catch {}
+try { peruArticles       = await getCollection('peru');       } catch {}
+try { costaRicaArticles  = await getCollection('costa_rica'); } catch {}
+try { tanzaniaArticles   = await getCollection('tanzania');   } catch {}
+try { egyptArticles      = await getCollection('egypt');      } catch {}
+try { pakistanArticles   = await getCollection('pakistan');   } catch {}
+try { kazakhstanArticles = await getCollection('kazakhstan'); } catch {}
+try { greenlandArticles  = await getCollection('greenland');  } catch {}
+try { reunionArticles    = await getCollection('reunion');    } catch {}
+
+const allArticles = [
+  ...japanArticles,  ...koreaArticles,  ...usaArticles,    ...mexicoArticles,
+  ...canadaArticles, ...spainArticles,  ...italyArticles,  ...franceArticles,
+  ...portugalArticles, ...irelandArticles, ...indiaArticles, ...thailandArticles,
+  ...malaysiaArticles, ...peruArticles, ...costaRicaArticles, ...tanzaniaArticles,
+  ...egyptArticles,  ...pakistanArticles, ...kazakhstanArticles,
+  ...greenlandArticles, ...reunionArticles,
+].sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+// Must match ArticleCard's destPath logic exactly so localStorage keys align
+function destPath(destination: string): string {
+  return destination
+    .toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '');
+}
 ---
 
 <BaseLayout
   title="Reading List"
   description="Your saved GoinAtlas travel guides."
 >
-  <div class="px-6 pt-10 pb-16 max-w-3xl mx-auto">
 
-    <!-- Page header -->
-    <div class="mb-6">
-      <h1 class="text-2xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-display)">
-        Reading List
-      </h1>
-      <p class="text-sm text-[var(--color-text-muted)] mt-1">
-        <span id="rl-count">0</span> saved guides
-      </p>
-    </div>
+  <div id="home-shell" class="flex flex-col" style="height: calc(100vh - 4rem); overflow: hidden;">
 
-    <!-- Tabs nav — hidden until JS decides -->
-    <nav
-      id="rl-tabs-nav"
-      class="flex items-center border-b border-[var(--color-border)] bg-white sticky z-[28]"
-      style="top: 4rem; display: none"
-    >
-      <div id="rl-tabs-inner" class="flex overflow-x-auto scrollbar-hide flex-1">
-        <!-- Built by JS -->
-      </div>
-    </nav>
+    <!-- Content row -->
+    <div class="flex flex-1 min-h-0">
 
-    <!-- Category pills — hidden until JS decides -->
-    <div
-      id="rl-pills-wrap"
-      class="sticky z-[27] py-4 border-b border-[var(--color-border)] bg-white"
-      style="top: calc(4rem + 2.5rem); display: none"
-    >
-      <div id="rl-pills-inner" class="flex flex-wrap gap-2">
-        <!-- Built by JS -->
-      </div>
-    </div>
+      <!-- Feed column -->
+      <div class="flex-1 min-w-0 flex flex-col overflow-hidden">
+        <div class="flex flex-col flex-1 min-h-0 col2-feed">
 
-    <!-- Empty state -->
-    <div id="rl-empty" class="text-center py-24">
-      <svg class="w-10 h-10 mx-auto mb-4 opacity-20 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
-      </svg>
-      <p class="text-[var(--color-text-muted)] font-medium mb-1">Your reading list is empty</p>
-      <p class="text-sm text-[var(--color-text-muted)] mb-4">Save articles while browsing to read them later</p>
-      <a href="/" class="text-sm text-[var(--color-brand-600)] hover:underline font-medium">Browse guides →</a>
-    </div>
-
-    <!-- Articles feed — all pre-rendered, shown by JS -->
-    <div id="rl-articles">
-      {allArticles.map((article) => {
-        const url = `/${article.data.destination.toLowerCase()}/${article.id}`;
-        return (
-          <div
-            class="rl-wrap"
-            style="display:none"
-            data-url={url}
-            data-dest={article.data.destination.toLowerCase()}
-            data-category={article.data.category.toLowerCase()}
-          >
-            <ArticleCard
-              title={article.data.title}
-              description={article.data.description}
-              destination={article.data.destination}
-              category={article.data.category}
-              slug={article.id}
-              heroImage={article.data.heroImage}
-              readingTime={article.data.readingTime}
-              city={article.data.city}
-              tags={article.data.tags}
-            />
+          <!-- Page header -->
+          <div class="shrink-0" style="padding-top:2rem;padding-bottom:1.25rem;">
+            <div class="flex items-baseline gap-3">
+              <h1 class="text-2xl font-black text-[var(--color-text-primary)]" style="font-family: var(--font-display)">
+                Reading List
+              </h1>
+              <span id="article-count" class="text-sm text-[var(--color-text-muted)]">0 saved</span>
+            </div>
           </div>
-        );
-      })}
-    </div>
 
+          <!-- Tabs row — built by JS, hidden until there are saved articles -->
+          <nav
+            id="rl-tabs-nav"
+            class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0"
+            style="padding-top: 1.25rem; display: none;"
+          >
+            <div id="rl-tabs-inner" class="tabs-scroll">
+              <!-- Built by JS -->
+            </div>
+          </nav>
+
+          <!-- Articles scroll -->
+          <div id="articles-scroll" class="flex-1 min-h-0 overflow-y-auto">
+
+            <!-- Empty state -->
+            <div id="rl-empty" class="text-center py-24">
+              <svg class="w-10 h-10 mx-auto mb-4 opacity-20 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+              </svg>
+              <p class="text-[var(--color-text-muted)] font-medium mb-1">Your reading list is empty</p>
+              <p class="text-sm text-[var(--color-text-muted)] mb-4">Save articles while browsing to read them later</p>
+              <a href="/" class="text-sm text-[var(--color-brand-600)] hover:underline font-medium">Browse guides →</a>
+            </div>
+
+            <!-- Articles list -->
+            <div id="articles-list" class="pt-6">
+              {allArticles.map((article) => {
+                const dp  = destPath(article.data.destination);
+                const url = `/${dp}/${article.id}`;
+                return (
+                  <div
+                    class="rl-wrap"
+                    style="display:none"
+                    data-url={url}
+                    data-dest={dp}
+                    data-category={article.data.category.toLowerCase()}
+                  >
+                    <ArticleCard
+                      title={article.data.title}
+                      description={article.data.description}
+                      destination={article.data.destination}
+                      category={article.data.category}
+                      slug={article.id}
+                      heroImage={article.data.heroImage}
+                      readingTime={article.data.readingTime}
+                      city={article.data.city}
+                      tags={article.data.tags}
+                    />
+                  </div>
+                );
+              })}
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Right aside — saved count + category filter -->
+      <aside class="right-aside-panel flex flex-col" style="width: 355px; padding: 2.5rem 1.5rem 2.5rem 30px; overflow-y: auto;">
+        <div>
+          <h3 class="text-xs font-semibold text-[var(--color-text-primary)] mb-3 uppercase tracking-widest">
+            Filter by category
+          </h3>
+          <div id="rl-category-pills" class="flex flex-wrap gap-2">
+            <!-- Built by JS -->
+          </div>
+        </div>
+      </aside>
+
+    </div>
   </div>
+
 </BaseLayout>
 
-<style>
-  /* ── Tabs ────────────────────────────────────── */
-  .rl-tab {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.65rem 1rem;
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: var(--color-text-muted);
-    border-bottom: 2px solid transparent;
-    margin-bottom: -1px;
-    cursor: pointer;
-    background: none;
-    border-top: none; border-left: none; border-right: none;
-    transition: color 0.15s, border-color 0.15s;
-    white-space: nowrap;
-  }
-  .rl-tab:hover { color: var(--color-text-primary); }
-  .rl-tab.is-active {
-    color: var(--color-text-primary);
-    border-bottom-color: var(--color-text-primary);
-    font-weight: 600;
-  }
-
-  /* ── Pills ───────────────────────────────────── */
-  .rl-pill {
-    padding: 0.3rem 0.875rem;
-    border-radius: 9999px;
-    font-size: 0.8rem;
-    font-weight: 400;
-    border: none;
-    background: #f2f2f2;
-    color: var(--color-text-primary);
-    cursor: pointer;
-    transition: background 0.12s, color 0.12s;
-    line-height: 1.6;
-    white-space: nowrap;
-  }
-  .rl-pill:hover { background: #e8e8e8; }
-  .rl-pill.is-active {
-    background: var(--color-brand-600);
-    color: #fff;
-    font-weight: 500;
-  }
-  .rl-pill .pill-x { display: none; }
-  .rl-pill.is-active .pill-x { display: inline; opacity: 0.7; margin-left: 2px; }
-</style>
 
 <script>
   const RL_KEY = 'goinatlas:reading-list';
@@ -144,39 +172,54 @@ const allArticles = [...japanArticles, ...koreaArticles]
     try { return JSON.parse(localStorage.getItem(RL_KEY) || '[]'); } catch { return []; }
   }
 
-  const wraps      = document.querySelectorAll<HTMLElement>('.rl-wrap');
-  const emptyEl    = document.getElementById('rl-empty');
-  const tabsNav    = document.getElementById('rl-tabs-nav');
-  const tabsInner  = document.getElementById('rl-tabs-inner');
-  const pillsWrap  = document.getElementById('rl-pills-wrap');
-  const pillsInner = document.getElementById('rl-pills-inner');
-  const countEl    = document.getElementById('rl-count');
+  const wraps         = document.querySelectorAll<HTMLElement>('.rl-wrap');
+  const emptyEl       = document.getElementById('rl-empty');
+  const tabsNav       = document.getElementById('rl-tabs-nav');
+  const tabsInner     = document.getElementById('rl-tabs-inner');
+  const countEl       = document.getElementById('article-count');
+  const categoryPills = document.getElementById('rl-category-pills');
 
-  let savedSet         = new Set<string>();
-  let activeTab        = 'all';
-  let activeCategories = new Set<string>();
+  let savedSet        = new Set<string>();
+  let activeTab       = 'all';
+  let activeCategory  = 'all';
 
   const destLabels: Record<string, string> = {
-    japan: '🇯🇵 Japan',
-    korea: '🇰🇷 South Korea',
+    japan:        '🇯🇵 Japan',
+    korea:        '🇰🇷 South Korea',
+    usa:          '🇺🇸 United States',
+    mexico:       '🇲🇽 Mexico',
+    canada:       '🇨🇦 Canada',
+    france:       '🇫🇷 France',
+    spain:        '🇪🇸 Spain',
+    italy:        '🇮🇹 Italy',
+    portugal:     '🇵🇹 Portugal',
+    ireland:      '🇮🇪 Ireland',
+    india:        '🇮🇳 India',
+    thailand:     '🇹🇭 Thailand',
+    malaysia:     '🇲🇾 Malaysia',
+    peru:         '🇵🇪 Peru',
+    'costa-rica': '🇨🇷 Costa Rica',
+    tanzania:     '🇹🇿 Tanzania',
+    egypt:        '🇪🇬 Egypt',
+    pakistan:     '🇵🇰 Pakistan',
+    kazakhstan:   '🇰🇿 Kazakhstan',
+    greenland:    '🇬🇱 Greenland',
+    reunion:      '🇷🇪 Réunion',
   };
 
-  function catLabel(cat: string): string {
-    const map: Record<string, string> = {
-      itinerary: 'Itinerary',
-      culture:   'Culture',
-      food:      'Food & Drink',
-      tips:      'Tips',
-      transport: 'Transport',
-      budget:    'Budget',
-    };
-    return map[cat] ?? (cat.charAt(0).toUpperCase() + cat.slice(1));
-  }
+  const catLabels: Record<string, string> = {
+    itinerary: 'Itinerary',
+    culture:   'Culture',
+    food:      'Food & Drink',
+    tips:      'Tips',
+    transport: 'Transport',
+    budget:    'Budget',
+  };
 
   function buildUI() {
     savedSet = new Set(rlGet());
 
-    // Collect destinations + categories from all saved articles
+    // Which destinations and categories are actually saved?
     const savedDests = new Set<string>();
     const savedCats  = new Set<string>();
     wraps.forEach((w) => {
@@ -187,35 +230,31 @@ const allArticles = [...japanArticles, ...koreaArticles]
     });
 
     const hasSaved = savedSet.size > 0;
-
-    // Empty state
     if (emptyEl) emptyEl.style.display = hasSaved ? 'none' : '';
 
     // ── Tabs ─────────────────────────────────────────────────────
-    const showTabs = hasSaved && savedDests.size > 1;
-    if (tabsNav) tabsNav.style.display = showTabs ? '' : 'none';
+    if (tabsNav) tabsNav.style.display = hasSaved ? '' : 'none';
     if (tabsInner) {
       tabsInner.innerHTML = '';
-      if (showTabs) {
-        // Validate active tab
-        const validTabs = new Set(['all', ...savedDests]);
-        if (!validTabs.has(activeTab)) activeTab = 'all';
+      if (hasSaved) {
+        if (!['all', ...savedDests].includes(activeTab)) activeTab = 'all';
 
         const tabs = [
-          { id: 'all', label: 'All' },
-          ...Array.from(savedDests).map((d) => ({ id: d, label: destLabels[d] ?? d })),
+          { id: 'all', label: 'All Articles' },
+          ...Array.from(savedDests).sort().map((d) => ({ id: d, label: destLabels[d] ?? d })),
         ];
+
         tabs.forEach(({ id, label }) => {
           const btn = document.createElement('button');
-          btn.className = 'rl-tab' + (activeTab === id ? ' is-active' : '');
+          btn.className = 'hub-tab' + (activeTab === id ? ' is-active' : '');
           btn.dataset.tab = id;
           btn.textContent = label;
           btn.addEventListener('click', () => {
             activeTab = id;
-            document.querySelectorAll<HTMLButtonElement>('.rl-tab').forEach((b) =>
+            activeCategory = 'all';
+            document.querySelectorAll<HTMLButtonElement>('.hub-tab').forEach((b) =>
               b.classList.toggle('is-active', b.dataset.tab === id)
             );
-            activeCategories.clear();
             buildUI();
           });
           tabsInner.appendChild(btn);
@@ -223,41 +262,36 @@ const allArticles = [...japanArticles, ...koreaArticles]
       }
     }
 
-    // ── Pills — categories visible in current tab ────────────────
-    const tabCats = new Set<string>();
-    wraps.forEach((w) => {
-      if (
-        savedSet.has(w.dataset.url!) &&
-        (activeTab === 'all' || w.dataset.dest === activeTab)
-      ) {
-        tabCats.add(w.dataset.category!);
-      }
-    });
+    // ── Right aside: category pills ──────────────────────────────
+    if (categoryPills) {
+      categoryPills.innerHTML = '';
+      if (hasSaved) {
+        // Categories present in the current tab
+        const tabCats = new Set<string>();
+        wraps.forEach((w) => {
+          if (savedSet.has(w.dataset.url!) && (activeTab === 'all' || w.dataset.dest === activeTab))
+            tabCats.add(w.dataset.category!);
+        });
 
-    const showPills = hasSaved && tabCats.size > 1;
-    if (pillsWrap) pillsWrap.style.display = showPills ? '' : 'none';
-    if (pillsInner) {
-      pillsInner.innerHTML = '';
-      if (showPills) {
-        // Drop any stale active cats
-        [...activeCategories].forEach((c) => { if (!tabCats.has(c)) activeCategories.delete(c); });
+        if (!tabCats.has(activeCategory)) activeCategory = 'all';
 
-        tabCats.forEach((cat) => {
+        const pillDefs = [
+          { id: 'all', label: 'All' },
+          ...Array.from(tabCats).sort().map((c) => ({ id: c, label: catLabels[c] ?? c })),
+        ];
+
+        pillDefs.forEach(({ id, label }) => {
           const btn = document.createElement('button');
-          btn.className = 'rl-pill' + (activeCategories.has(cat) ? ' is-active' : '');
-          btn.dataset.cat = cat;
-          btn.innerHTML = catLabel(cat) + '<span class="pill-x"> ×</span>';
+          btn.className = 'category-pill' + (activeCategory === id ? ' is-active' : '');
+          btn.textContent = label;
           btn.addEventListener('click', () => {
-            if (activeCategories.has(cat)) {
-              activeCategories.delete(cat);
-              btn.classList.remove('is-active');
-            } else {
-              activeCategories.add(cat);
-              btn.classList.add('is-active');
-            }
+            activeCategory = id;
+            document.querySelectorAll<HTMLButtonElement>('.category-pill').forEach((b) =>
+              b.classList.toggle('is-active', b.textContent === label)
+            );
             applyFilters();
           });
-          pillsInner.appendChild(btn);
+          categoryPills.appendChild(btn);
         });
       }
     }
@@ -266,21 +300,43 @@ const allArticles = [...japanArticles, ...koreaArticles]
   }
 
   function applyFilters() {
+    // Saved order: rlGet() is oldest→newest; reverse so newest-saved appears first
+    const savedOrder = rlGet().reverse();
+    const orderMap = new Map(savedOrder.map((url, i) => [url, i]));
+
+    const listEl = document.getElementById('articles-list');
     let visible = 0;
+
     wraps.forEach((w) => {
       const isSaved  = savedSet.has(w.dataset.url!);
       const tabMatch = activeTab === 'all' || w.dataset.dest === activeTab;
-      const catMatch = activeCategories.size === 0 || activeCategories.has(w.dataset.category!);
+      const catMatch = activeCategory === 'all' || w.dataset.category === activeCategory;
       const show = isSaved && tabMatch && catMatch;
       w.style.display = show ? '' : 'none';
+      // Apply save-order position so newest-saved floats to the top
+      w.style.order = show ? String(orderMap.get(w.dataset.url!) ?? 9999) : '';
       if (show) visible++;
     });
-    if (countEl) countEl.textContent = String(visible);
+
+    // Ensure the list container is a flex column so `order` takes effect
+    if (listEl) listEl.style.display = visible > 0 ? 'flex' : '';
+    if (listEl) listEl.style.flexDirection = 'column';
+
+    if (countEl) countEl.textContent = `${visible} saved`;
+    if (emptyEl) emptyEl.style.display = visible === 0 && savedSet.size > 0 ? '' : (savedSet.size === 0 ? '' : 'none');
   }
 
-  // Initial build
   buildUI();
-
-  // Rebuild when an article is saved/unsaved on this page
   document.addEventListener('goinatlas:readingListChanged', () => buildUI());
+
+  // Redirect wheel events to the scroll container (same as hub pages)
+  const shell = document.getElementById('home-shell');
+  const scrollEl = document.getElementById('articles-scroll');
+  shell?.addEventListener('wheel', (e) => {
+    if (!scrollEl || scrollEl.contains(e.target as Node)) return;
+    if (Math.abs((e as WheelEvent).deltaX) > Math.abs((e as WheelEvent).deltaY)) return; // let horizontal scroll work
+    if ((e.target as HTMLElement).closest('.tabs-scroll')) return; // let tabs scroll horizontally
+    e.preventDefault();
+    scrollEl.scrollTop += e.deltaY;
+  }, { passive: false });
 </script>

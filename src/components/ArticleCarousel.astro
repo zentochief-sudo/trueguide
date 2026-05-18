@@ -54,7 +54,7 @@ const { articles, id = 'carousel' } = Astro.props;
     >
       {articles.map((article) => (
         <a
-          href={`/${article.destination.toLowerCase()}/${article.slug}`}
+          href={`/${article.destination.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\s+/g,'-').replace(/[^a-z0-9-]/g,'')}/${article.slug}`}
           class="group block bg-white rounded-xl overflow-hidden border border-[var(--color-border)] hover:shadow-md transition-shadow"
           style="scroll-snap-align: start; width: 272px;"
         >

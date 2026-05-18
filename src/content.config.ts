@@ -40,4 +40,68 @@ export const collections = {
     loader: glob({ pattern: '**/*.md', base: './src/content/canada' }),
     schema: articleSchema,
   }),
+  egypt: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/egypt' }),
+    schema: articleSchema,
+  }),
+  spain: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/spain' }),
+    schema: articleSchema,
+  }),
+  italy: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/italy' }),
+    schema: articleSchema,
+  }),
+  greenland: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/greenland' }),
+    schema: articleSchema,
+  }),
+  pakistan: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/pakistan' }),
+    schema: articleSchema,
+  }),
+  malaysia: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/malaysia' }),
+    schema: articleSchema,
+  }),
+  kazakhstan: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/kazakhstan' }),
+    schema: articleSchema,
+  }),
+  ireland: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/ireland' }),
+    schema: articleSchema,
+  }),
+  tanzania: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/tanzania' }),
+    schema: articleSchema,
+  }),
+  reunion: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/reunion' }),
+    schema: articleSchema,
+  }),
+  costa_rica: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/costa-rica' }),
+    schema: articleSchema,
+  }),
+  france: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/france' }),
+    schema: articleSchema,
+  }),
+  thailand: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/thailand' }),
+    schema: articleSchema,
+  }),
+  portugal: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/portugal' }),
+    schema: articleSchema,
+  }),
+  india: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/india' }),
+    schema: articleSchema,
+  }),
+  peru: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/peru' }),
+    schema: articleSchema,
+  }),
 };

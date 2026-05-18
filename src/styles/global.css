@@ -40,6 +40,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Browsers don't apply pointer to <button> by default — fix globally */
+button, [role="button"] { cursor: pointer; }
+
 h1, h2, h3 { font-family: var(--font-display); }
 
 /* ── Article prose ──────────────────────────────────────────── */
@@ -86,3 +89,338 @@ h1, h2, h3 { font-family: var(--font-display); }
   border-bottom: 2px solid var(--color-brand-100);
 }
 .prose td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--color-border); }
+
+/* ── Right aside panel — smooth width transition ────────────── */
+.right-aside-panel {
+  flex-shrink: 0;
+  align-self: stretch;          /* always fills the full row height */
+  overflow-x: hidden;
+  border-left: 1px solid var(--color-border);
+  transition: width 0.25s ease, padding-left 0.25s ease, padding-right 0.25s ease, border-color 0.2s ease;
+}
+
+/* ── Phone portrait: hide col3 ───────────────────────────────── */
+@media (max-width: 599px) {
+  .right-aside-panel {
+    width: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border-color: transparent !important;
+  }
+}
+
+/* ── Phone landscape: hide col3 (wide but short = phone) ────── */
+@media (max-width: 1023px) and (max-height: 599px) {
+  .right-aside-panel {
+    width: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border-color: transparent !important;
+  }
+}
+
+/* ── Tablet (portrait & landscape): slim col3 = 240px ───────── */
+/*    min-height: 600px excludes phones in landscape             */
+@media (min-width: 600px) and (max-width: 1023px) and (min-height: 600px) {
+  .right-aside-panel {
+    width: 240px !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* ── Column 2 feed wrapper — responsive padding ─────────────── */
+/*
+ * Staged column disappearance:
+ *
+ *  Phase 1 — ≥1280px (3 columns, sidebar sticky in flow):
+ *    Sidebar open:     pad_r = clamp(0, vw−1360, 160) → card = 605px constant.
+ *    Sidebar collapsed: pad = max(16, (vw−960)/2)     → card = 605px constant. ✓
+ *    Sidebar auto-collapses at ~1365px (JS) — seamless 605px card across the jump.
+ *
+ *  Phase 2 — 1024–1279px (sidebar overlay, col3 = 355px visible):
+ *    pad = max(16px, (vw−960)/2).  col2 = vw−355.
+ *    card = (vw−355) − (vw−960) = 605px constant ✓
+ *    At 1279px: pad≈160px (seamless with Phase 1 collapsed). ✓
+ *    At 1024px: pad=32px.
+ *
+ *  Phase 3 — <1024px (sidebar overlay, col3 gone, col2 = full vw):
+ *    Same pad formula → margins continue seamlessly from Phase 2 value (32px).
+ *    No margin jump when col3 slides away. Card fills extra space naturally.
+ *    card = vw−(vw−960) = 960px until vw=992px, then vw−32 (mobile shrink). ✓
+ */
+
+/* Phase 2 + 3: <1280px — symmetric margins, same formula across both zones.
+ * Using 100vw (not col2 width) keeps margins seamless when col3 disappears at 1024px.
+ *
+ * Phase 2 (1024–1279px, col3 visible, col2 = vw−355):
+ *   card = (vw−355) − (vw−960) = 605px constant ✓
+ *   At 1279px: pad=160px  At 1024px: pad=32px
+ *
+ * Phase 3 (<1024px, col3 gone, col2 = full vw):
+ *   Same pad formula → margins seamlessly continue from Phase 2 value.
+ *   card = vw − (vw−960) = 960px (fills space naturally after col3 slides away)
+ *   Below vw=992px: pad hits 16px floor → card = vw−32 (natural mobile shrink)
+ */
+.col2-feed {
+  padding-left:  max(16px, calc((100vw - 960px) / 2));
+  padding-right: max(16px, calc((100vw - 960px) / 2));
+}
+
+/* Phase 1: ≥1280px — 3-column layout */
+@media (min-width: 1280px) {
+  /* Sidebar open: card = vw−915 naturally, but pinned at 605px as vw narrows.
+   * pad_r shrinks so card stays 605px → no shrinkage before sidebar collapses.
+   * math: card = (vw−595) − 160 − pad_r = 605  ⟹  pad_r = vw−1360
+   * clamped: 0px floor (can't go negative), 160px ceiling (normal desktop).
+   * At ~1520px: pad_r reaches 160px → above that cards grow naturally.
+   * At ~1365px: pad_r ≈ 5px → sidebar auto-collapses, card still 605px. ✓
+   */
+  .col2-feed {
+    padding-left:  160px;
+    padding-right: clamp(24px, calc(100vw - 1360px), 160px);
+  }
+
+  /* Sidebar collapsed: col2 = vw−355, keep card at 605px with symmetric margins.
+   * pad = (vw−960)/2  →  card = (vw−355) − (vw−960) = 605px constant. ✓
+   * At 1365px: pad=202px → seamless handoff from sidebar-open rule above. ✓
+   * At 1280px: pad=160px → seamless handoff to Phase 2 below. ✓
+   */
+  #global-sidebar.is-collapsed ~ main .col2-feed {
+    padding-left:  max(16px, calc((100vw - 960px) / 2));
+    padding-right: max(16px, calc((100vw - 960px) / 2));
+  }
+}
+
+/* ── Articles scroll — scrollbar ────────────────────────────── */
+/*
+ * At xl+: extend scroll container 160px rightward so the scrollbar
+ * sits flush against the column-3 divider (matching col2-feed's right padding).
+ *
+ * At <xl: scrollbar-gutter:stable reserves space in the margin — no card overlap.
+ */
+@media (min-width: 1280px) {
+  /* Only extend when sidebar is collapsed — padding-right is predictably ≥160px */
+  #global-sidebar.is-collapsed ~ main #articles-scroll {
+    width: calc(100% + 160px);
+    padding-right: 160px;
+  }
+}
+
+/* scrollbar-gutter solo en phones (col3 oculta → scrollbar puede solapar cards) */
+@media (max-width: 599px),
+       (max-width: 1023px) and (max-height: 599px) {
+  #articles-scroll {
+    scrollbar-gutter: stable;
+  }
+}
+
+#articles-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+#articles-scroll::-webkit-scrollbar        { width: 4px; }
+#articles-scroll::-webkit-scrollbar-track  { background: transparent; }
+#articles-scroll::-webkit-scrollbar-thumb  {
+  background: var(--color-border);
+  border-radius: 2px;
+}
+#articles-scroll::-webkit-scrollbar-thumb:hover { background: var(--color-text-muted); }
+
+/* ── Article cards — progressive reveal animation ───────────── */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes cardFadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to   { opacity: 1; transform: none; }
+  }
+  [data-article-card] {
+    animation: cardFadeIn 0.22s ease both;
+  }
+}
+
+/* ── Article cards — content-visibility performance ─────────── */
+[data-article-card] {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 120px;
+}
+
+/* ── Search overlay — dynamic content (innerHTML) ───────────── */
+/* These styles MUST live here (not in Header.astro <style>) because
+   Astro scopes component styles and they won't reach JS-injected HTML. */
+
+.so-subtitle {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  padding: 0 0.125rem 0.875rem;
+}
+
+.so-section { margin-bottom: 2rem; }
+.so-section:last-child { margin-bottom: 0; }
+
+.so-section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.875rem;
+  gap: 1rem;
+}
+.so-section-title {
+  font-family: var(--font-body);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+.so-everything {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--color-brand-600);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.so-everything:hover { text-decoration: underline; }
+.so-everything svg { width: 12px; height: 12px; flex-shrink: 0; }
+
+.so-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.875rem;
+}
+@media (max-width: 767px) {
+  .so-cards { grid-template-columns: repeat(2, 1fr); gap: 0.625rem; }
+}
+
+.so-card {
+  display: block;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+}
+.so-card:hover { transform: translateY(-2px); }
+
+.so-card-img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  background: var(--color-bg-subtle);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+.so-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.2s ease;
+}
+.so-card:hover .so-card-img img { transform: scale(1.04); }
+
+.so-card-title {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--color-text-primary);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  padding: 0 0.125rem;
+}
+
+.so-empty {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+}
+.so-empty strong { display: block; font-size: 1rem; margin-bottom: 0.375rem; color: var(--color-text-secondary); }
+
+/* ── Search overlay — "See all" row ────────────────────────── */
+/* Lives in global.css so the JS-injected element gets styled    */
+.so-seeall {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.625rem;
+  background: var(--color-bg);
+  font-size: 0.8125rem;
+  color: var(--color-brand-600);
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 0.5rem;
+  transition: background 0.12s;
+}
+.so-seeall:hover { background: var(--color-brand-50); }
+.so-seeall svg { width: 1rem; height: 1rem; flex-shrink: 0; }
+.so-seeall strong { font-weight: 600; }
+
+/* ── Tabs scroll wrapper ─────────────────────────────────────── */
+/*
+ * A flex container with overflow-x:auto does NOT reliably scroll
+ * because flex recalculates child sizes before applying overflow.
+ * Fix: block container + white-space:nowrap keeps inline-flex tabs
+ * on one line and lets the container scroll horizontally.
+ */
+.tabs-scroll {
+  flex: 1;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  white-space: nowrap;   /* keeps inline-flex hub-tab buttons on one line */
+}
+.tabs-scroll::-webkit-scrollbar { display: none; }
+
+/* ── Hub tabs — shared across all hub pages + reading list ──── */
+/* Must be global (not scoped) so JS-created buttons are styled  */
+.hub-tab {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.65rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  cursor: pointer;
+  background: none;
+  border-top: none; border-left: none; border-right: none;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+  font-family: var(--font-body);
+}
+.hub-tab:hover  { color: var(--color-text-primary); }
+.hub-tab.is-active {
+  color: var(--color-text-primary);
+  border-bottom-color: var(--color-text-primary);
+  font-weight: 600;
+}
+
+/* ── City / category pills — shared across hub pages ────────── */
+.city-btn,
+.category-pill {
+  padding: 0.3rem 0.875rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  border: none;
+  background: #f2f2f2;
+  color: var(--color-text-primary);
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+  line-height: 1.6;
+  white-space: nowrap;
+  font-family: var(--font-body);
+}
+.city-btn:hover,
+.category-pill:hover { background: #e8e8e8; }
+.city-btn.is-active,
+.category-pill.is-active {
+  background: var(--color-brand-600);
+  color: #fff;
+  font-weight: 500;
+}

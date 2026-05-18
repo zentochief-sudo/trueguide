@@ -8,10 +8,56 @@ import { getCollection } from 'astro:content';
 
 const japanArticles  = await getCollection('japan');
 let koreaArticles: typeof japanArticles = [];
-try { koreaArticles = await getCollection('korea'); } catch {}
+let usaArticles: typeof japanArticles = [];
+let mexicoArticles: typeof japanArticles = [];
+let canadaArticles: typeof japanArticles = [];
+let egyptArticles: typeof japanArticles = [];
+let spainArticles: typeof japanArticles = [];
+let italyArticles: typeof japanArticles = [];
+let greenlandArticles: typeof japanArticles = [];
+let pakistanArticles: typeof japanArticles = [];
+let malaysiaArticles: typeof japanArticles = [];
+let kazakhstanArticles: typeof japanArticles = [];
+let irelandArticles: typeof japanArticles = [];
+let tanzaniaArticles: typeof japanArticles = [];
+let reunionArticles: typeof japanArticles = [];
+let costaRicaArticles: typeof japanArticles = [];
+let franceArticles:   typeof japanArticles = [];
+let thailandArticles: typeof japanArticles = [];
+let portugalArticles: typeof japanArticles = [];
+let indiaArticles:    typeof japanArticles = [];
+let peruArticles:     typeof japanArticles = [];
 
-const allArticles = [...japanArticles, ...koreaArticles]
-  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+try { koreaArticles    = await getCollection('korea');     } catch {}
+try { usaArticles      = await getCollection('usa');       } catch {}
+try { mexicoArticles   = await getCollection('mexico');    } catch {}
+try { canadaArticles   = await getCollection('canada');    } catch {}
+try { egyptArticles    = await getCollection('egypt');     } catch {}
+try { spainArticles    = await getCollection('spain');     } catch {}
+try { italyArticles    = await getCollection('italy');     } catch {}
+try { greenlandArticles  = await getCollection('greenland');  } catch {}
+try { pakistanArticles   = await getCollection('pakistan');   } catch {}
+try { malaysiaArticles   = await getCollection('malaysia');   } catch {}
+try { kazakhstanArticles = await getCollection('kazakhstan'); } catch {}
+try { irelandArticles    = await getCollection('ireland');    } catch {}
+try { tanzaniaArticles   = await getCollection('tanzania');   } catch {}
+try { reunionArticles    = await getCollection('reunion');    } catch {}
+try { costaRicaArticles  = await getCollection('costa_rica'); } catch {}
+try { franceArticles     = await getCollection('france');     } catch {}
+try { thailandArticles   = await getCollection('thailand');   } catch {}
+try { portugalArticles   = await getCollection('portugal');   } catch {}
+try { indiaArticles      = await getCollection('india');      } catch {}
+try { peruArticles       = await getCollection('peru');       } catch {}
+
+const allArticles = [
+  ...japanArticles, ...koreaArticles, ...usaArticles, ...mexicoArticles,
+  ...canadaArticles, ...egyptArticles, ...spainArticles, ...italyArticles,
+  ...greenlandArticles, ...pakistanArticles, ...malaysiaArticles,
+  ...kazakhstanArticles, ...irelandArticles, ...tanzaniaArticles,
+  ...reunionArticles, ...costaRicaArticles,
+  ...franceArticles, ...thailandArticles, ...portugalArticles,
+  ...indiaArticles, ...peruArticles,
+].sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
 const categories = [
   { id: 'itinerary', label: 'Itinerary' },
@@ -24,21 +70,21 @@ const categories = [
 
 const activityTypes = [
   { id: 'food-drink',   label: '🍜 Food & Drink' },
-  { id: 'temples',      label: '⛩️ Temples' },
-  { id: 'nature',       label: '🌿 Nature & Rural' },
-  { id: 'shopping',     label: '🛍️ Shopping' },
-  { id: 'history',      label: '📜 History' },
-  { id: 'museums',      label: '🏛️ Museums' },
-  { id: 'onsen',        label: '♨️ Onsen' },
-  { id: 'festivals',    label: '🎋 Festivals' },
-  { id: 'castles',      label: '🏯 Castles' },
+  { id: 'nature',       label: '🌿 Nature & Hiking' },
+  { id: 'history',      label: '📜 History & Culture' },
+  { id: 'beaches',      label: '🏖️ Beaches' },
+  { id: 'wildlife',     label: '🦁 Wildlife & Safari' },
+  { id: 'skiing',       label: '⛷️ Skiing & Snow' },
   { id: 'architecture', label: '🏗️ Architecture' },
+  { id: 'shopping',     label: '🛍️ Shopping' },
+  { id: 'festivals',    label: '🎉 Festivals' },
+  { id: 'adventure',    label: '🧗 Adventure' },
 ];
 ---
 
 <BaseLayout
   title="Deep Travel Guides for the Curious Traveler"
-  description="GoinAtlas — deep, honest travel guides for Japan, South Korea and beyond."
+  description="GoinAtlas — deep, honest travel guides for the world's most interesting destinations."
 >
 
   <div id="home-shell" class="flex flex-col" style="height: calc(100vh - 4rem); overflow: hidden;">
@@ -51,36 +97,37 @@ const activityTypes = [
 
       <!-- Feed column -->
       <div class="flex-1 min-w-0 flex flex-col overflow-hidden">
-        <div class="flex flex-col flex-1 min-h-0" style="padding-left: 160px; padding-right: 76px;">
+        <div class="flex flex-col flex-1 min-h-0 col2-feed">
 
           <!-- Tabs row — tabs + filter icon on the right -->
-          <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0" style="padding-top: 2.5rem;">
+          <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0 relative" style="padding-top: 2.5rem;">
 
             <!-- Tab buttons -->
-            <div class="flex overflow-x-auto scrollbar-hide flex-1">
+            <div class="tabs-scroll">
               <button class="hub-tab is-active" data-tab="for-you">For you</button>
-              <button class="hub-tab" data-tab="popular">Popular this week</button>
               <button class="hub-tab" data-tab="all">All guides</button>
               <button class="hub-tab" data-tab="explore">Explore Map</button>
             </div>
 
+            <!-- Fade — tabs slide behind this before reaching the filter button -->
+            <div class="absolute pointer-events-none" style="right:0;top:0;bottom:2px;width:6rem;background:linear-gradient(to right,transparent,var(--color-bg) 70%);z-index:1;"></div>
+
             <!-- Filter icon — right side, aligned with tabs bottom border -->
-            <div class="shrink-0 flex items-end self-stretch" style="margin-bottom: -1px;">
+            <div class="shrink-0 flex items-end self-stretch relative" style="margin-bottom:-1px;z-index:2;background:var(--color-bg);">
               <button
                 id="filter-btn"
-                class="filter-icon-btn flex items-center gap-1.5 px-4 pb-[0.65rem] text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors border-b-2 border-transparent"
+                class="filter-icon-btn flex items-center gap-1.5 px-4 pb-[0.65rem] text-[var(--color-text-primary)] hover:text-black transition-colors border-b-2 border-transparent"
                 aria-label="Open filters"
                 type="button"
               >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="4" y1="6" x2="20" y2="6"/>
-                  <circle cx="8" cy="6" r="2" fill="currentColor" stroke="none"/>
-                  <line x1="4" y1="12" x2="20" y2="12"/>
-                  <circle cx="16" cy="12" r="2" fill="currentColor" stroke="none"/>
-                  <line x1="4" y1="18" x2="20" y2="18"/>
-                  <circle cx="10" cy="18" r="2" fill="currentColor" stroke="none"/>
+                <svg width="18" height="16" viewBox="0 0 62 56" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M52 3V37C52 38.65 53.35 40 55 40C56.65 40 58 38.65 58 37V3C58 1.35 56.65 0 55 0C53.35 0 52 1.35 52 3Z"/>
+                  <path d="M36 21V37C36 38.65 37.35 40 39 40C40.65 40 42 38.65 42 37V21C42 19.35 40.65 18 39 18C37.35 18 36 19.35 36 21Z"/>
+                  <path d="M20 11V37C20 38.65 21.35 40 23 40C24.65 40 26 38.65 26 37V11C26 9.35 24.65 8 23 8C21.35 8 20 9.35 20 11Z"/>
+                  <path d="M3 56H59C60.65 56 62 54.65 62 53C62 51.35 60.65 50 59 50H3C1.35 50 0 51.35 0 53C0 54.65 1.35 56 3 56Z"/>
+                  <path d="M4 24V37C4 38.65 5.35 40 7 40C8.65 40 10 38.65 10 37V24C10 22.35 8.65 21 7 21C5.35 21 4 22.35 4 24Z"/>
                 </svg>
-                <span class="text-xs font-medium">Filter by activity</span>
+                <span class="hidden lg:inline text-sm font-medium">Filter by activity</span>
                 <span
                   id="filter-badge"
                   class="hidden text-[10px] font-bold leading-none bg-[var(--color-brand-600)] text-white rounded-full px-1.5 py-0.5"
@@ -130,8 +177,8 @@ const activityTypes = [
 
       <!-- Right sidebar -->
       <aside
-        class="hidden lg:flex flex-col shrink-0"
-        style="width: 439px; padding: 2.5rem 1.5rem 2.5rem 30px; overflow-y: auto;"
+        class="right-aside-panel flex flex-col"
+        style="width: 355px; padding: 2.5rem 1.5rem 2.5rem 30px; overflow-y: auto;"
       >
         <TrendingNow />
       </aside>
@@ -139,8 +186,6 @@ const activityTypes = [
     </div>
   </div>
 
-  <!-- Vertical divider -->
-  <div class="hidden lg:block fixed pointer-events-none" style="right: 439px; top: calc(4rem + 3.25rem); bottom: 0; width: 1px; background: var(--color-border);"></div>
 
   <!-- ── Filter Modal ── -->
   <div
@@ -267,10 +312,6 @@ const activityTypes = [
     color: #fff;
     font-weight: 500;
   }
-
-  /* ── Articles scroll — no visible scrollbar ────────────────── */
-  #articles-scroll { scrollbar-width: none; }
-  #articles-scroll::-webkit-scrollbar { display: none; }
 
   /* ── Modal overlay animation ───────────────────────────────── */
   #filter-modal-overlay { transition: opacity 0.15s; }

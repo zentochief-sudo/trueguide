@@ -3,21 +3,69 @@
 import { getCollection } from 'astro:content';
 
 const japanArticles  = await getCollection('japan');
-let koreaArticles:  typeof japanArticles = [];
-let usaArticles:    typeof japanArticles = [];
-let mexicoArticles: typeof japanArticles = [];
-let canadaArticles: typeof japanArticles = [];
-try { koreaArticles  = await getCollection('korea');  } catch {}
-try { usaArticles    = await getCollection('usa');    } catch {}
-try { mexicoArticles = await getCollection('mexico'); } catch {}
-try { canadaArticles = await getCollection('canada'); } catch {}
+let koreaArticles:      typeof japanArticles = [];
+let usaArticles:        typeof japanArticles = [];
+let mexicoArticles:     typeof japanArticles = [];
+let canadaArticles:     typeof japanArticles = [];
+let spainArticles:      typeof japanArticles = [];
+let italyArticles:      typeof japanArticles = [];
+let greenlandArticles:  typeof japanArticles = [];
+let pakistanArticles:   typeof japanArticles = [];
+let malaysiaArticles:   typeof japanArticles = [];
+let kazakhstanArticles: typeof japanArticles = [];
+let irelandArticles:    typeof japanArticles = [];
+let tanzaniaArticles:   typeof japanArticles = [];
+let reunionArticles:    typeof japanArticles = [];
+let costaRicaArticles:  typeof japanArticles = [];
+let egyptArticles:      typeof japanArticles = [];
+let franceArticles:     typeof japanArticles = [];
+let thailandArticles:   typeof japanArticles = [];
+let portugalArticles:   typeof japanArticles = [];
+let indiaArticles:      typeof japanArticles = [];
+let peruArticles:       typeof japanArticles = [];
+try { koreaArticles      = await getCollection('korea');      } catch {}
+try { usaArticles        = await getCollection('usa');        } catch {}
+try { mexicoArticles     = await getCollection('mexico');     } catch {}
+try { canadaArticles     = await getCollection('canada');     } catch {}
+try { spainArticles      = await getCollection('spain');      } catch {}
+try { italyArticles      = await getCollection('italy');      } catch {}
+try { greenlandArticles  = await getCollection('greenland');  } catch {}
+try { pakistanArticles   = await getCollection('pakistan');   } catch {}
+try { malaysiaArticles   = await getCollection('malaysia');   } catch {}
+try { kazakhstanArticles = await getCollection('kazakhstan'); } catch {}
+try { irelandArticles    = await getCollection('ireland');    } catch {}
+try { tanzaniaArticles   = await getCollection('tanzania');   } catch {}
+try { reunionArticles    = await getCollection('reunion');    } catch {}
+try { costaRicaArticles  = await getCollection('costa_rica'); } catch {}
+try { egyptArticles      = await getCollection('egypt');      } catch {}
+try { franceArticles     = await getCollection('france');     } catch {}
+try { thailandArticles   = await getCollection('thailand');   } catch {}
+try { portugalArticles   = await getCollection('portugal');   } catch {}
+try { indiaArticles      = await getCollection('india');      } catch {}
+try { peruArticles       = await getCollection('peru');       } catch {}
 
-const totalCount  = japanArticles.length + koreaArticles.length + usaArticles.length + mexicoArticles.length + canadaArticles.length;
-const japanCount  = japanArticles.length;
-const koreaCount  = koreaArticles.length;
-const usaCount    = usaArticles.length;
-const mexicoCount = mexicoArticles.length;
-const canadaCount = canadaArticles.length;
+const totalCount      = japanArticles.length + koreaArticles.length + usaArticles.length + mexicoArticles.length + canadaArticles.length + spainArticles.length + italyArticles.length + greenlandArticles.length + pakistanArticles.length + malaysiaArticles.length + kazakhstanArticles.length + irelandArticles.length + tanzaniaArticles.length + reunionArticles.length + costaRicaArticles.length + egyptArticles.length + franceArticles.length + thailandArticles.length + portugalArticles.length + indiaArticles.length + peruArticles.length;
+const japanCount      = japanArticles.length;
+const koreaCount      = koreaArticles.length;
+const usaCount        = usaArticles.length;
+const mexicoCount     = mexicoArticles.length;
+const canadaCount     = canadaArticles.length;
+const spainCount      = spainArticles.length;
+const italyCount      = italyArticles.length;
+const greenlandCount  = greenlandArticles.length;
+const pakistanCount   = pakistanArticles.length;
+const malaysiaCount   = malaysiaArticles.length;
+const kazakhstanCount = kazakhstanArticles.length;
+const irelandCount    = irelandArticles.length;
+const tanzaniaCount   = tanzaniaArticles.length;
+const reunionCount    = reunionArticles.length;
+const costaRicaCount  = costaRicaArticles.length;
+const egyptCount      = egyptArticles.length;
+const franceCount     = franceArticles.length;
+const thailandCount   = thailandArticles.length;
+const portugalCount   = portugalArticles.length;
+const indiaCount      = indiaArticles.length;
+const peruCount       = peruArticles.length;
 ---
 
 <aside id="global-sidebar" class="shrink-0 border-r border-[var(--color-border)] bg-[var(--color-bg)]">
@@ -28,12 +76,11 @@ const canadaCount = canadaArticles.length;
 
       <!-- Home -->
       <a href="/" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
-        <svg class="icon-outline w-[18px] h-[18px] shrink-0" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
-          <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+        <svg class="icon-outline w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 63 62">
+          <path d="M0.0100002 50.99C0.0100002 57.06 4.94 61.99 11.01 61.99H51.01C57.08 61.99 62.01 57.06 62.01 50.99V25.42C62.01 20.96 59.81 16.79 56.12 14.28L38.6 2.34C36.35 0.81 33.72 0 31 0C28.28 0 25.65 0.81 23.4 2.34L5.89 14.28C2.2 16.79 0 20.96 0 25.42V50.99H0.0100002ZM38.01 55.99H24.01V41.99C24.01 38.13 27.15 34.99 31.01 34.99C34.87 34.99 38.01 38.13 38.01 41.99V55.99ZM6.01 25.42C6.01 22.94 7.23 20.63 9.28 19.24L26.8 7.3C29.3 5.6 32.74 5.6 35.23 7.3L52.75 19.24C54.8 20.64 56.02 22.95 56.02 25.42V50.99C56.02 53.75 53.78 55.99 51.02 55.99H44.02V41.99C44.02 34.82 38.19 28.99 31.02 28.99C23.85 28.99 18.02 34.82 18.02 41.99V55.99H11.02C8.26 55.99 6.02 53.75 6.02 50.99V25.42H6.01Z"/>
         </svg>
-        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M11.47 3.841a.75.75 0 011.06 0l8.69 8.69a.75.75 0 101.06-1.061l-8.689-8.69a2.25 2.25 0 00-3.182 0l-8.69 8.69a.75.75 0 101.061 1.06l8.69-8.689z"/>
-          <path d="M12 5.432l8.159 8.159c.03.03.06.058.091.086v6.198c0 1.035-.84 1.875-1.875 1.875H15a.75.75 0 01-.75-.75v-4.5a.75.75 0 00-.75-.75h-3a.75.75 0 00-.75.75V21a.75.75 0 01-.75.75H5.625a1.875 1.875 0 01-1.875-1.875v-6.198a.075.075 0 01.091-.086L12 5.43z"/>
+        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 63 62">
+          <path d="M0.0100002 50.99C0.0100002 57.06 4.94 61.99 11.01 61.99H51.01C57.08 61.99 62.01 57.06 62.01 50.99V25.42C62.01 20.96 59.81 16.79 56.12 14.28L38.6 2.34C36.35 0.81 33.72 0 31 0C28.28 0 25.65 0.81 23.4 2.34L5.89 14.28C2.2 16.79 0 20.96 0 25.42V50.99H0.0100002ZM38.01 55.99H24.01V41.99C24.01 38.13 27.15 34.99 31.01 34.99C34.87 34.99 38.01 38.13 38.01 41.99V55.99ZM6.01 25.42C6.01 22.94 7.23 20.63 9.28 19.24L26.8 7.3C29.3 5.6 32.74 5.6 35.23 7.3L52.75 19.24C54.8 20.64 56.02 22.95 56.02 25.42V50.99C56.02 53.75 53.78 55.99 51.02 55.99H44.02V41.99C44.02 34.82 38.19 28.99 31.02 28.99C23.85 28.99 18.02 34.82 18.02 41.99V55.99H11.02C8.26 55.99 6.02 53.75 6.02 50.99V25.42H6.01Z"/>
         </svg>
         <span class="flex-1">Home</span>
         <span class="sidebar-count">{totalCount}</span>
@@ -41,18 +88,59 @@ const canadaCount = canadaArticles.length;
 
       <!-- Reading List -->
       <a href="/reading-list" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors" id="rl-nav-link">
-        <svg class="icon-outline w-[18px] h-[18px] shrink-0" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
-          <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+        <svg class="icon-outline w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 63 62">
+          <path d="M2.88 59.01C4.75 60.91 7.34 62 9.99 62C11.59 62 13.2 61.6 14.64 60.85C14.85 60.74 15.05 60.62 15.24 60.5L26.28 53.22C26.5 53.08 26.75 53 27 53C27.25 53 27.5 53.07 27.72 53.22L38.75 60.49C38.95 60.62 39.15 60.74 39.36 60.85C40.8 61.6 42.4 62 44.01 62C46.66 62 49.25 60.91 51.12 59.01C52.76 57.34 53.77 55.15 53.95 52.83C53.98 52.53 54 52.26 54 52V34C54 32.35 52.65 31 51 31C49.35 31 48 32.35 48 34V52.13C47.98 52.19 47.98 52.26 47.97 52.32C47.91 53.26 47.52 54.12 46.85 54.8C45.65 56.02 43.67 56.33 42.15 55.53L42.06 55.48L31.02 48.2C28.61 46.61 25.38 46.62 22.98 48.2L11.94 55.48C10.33 56.33 8.35 56.02 7.15 54.8C6.48 54.12 6.09 53.26 6.02 52.32C6.02 52.25 6.02 52.19 6 52.13V52V15C6 11.14 9.14 8 13 8H16C17.65 8 19 6.65 19 5C19 3.35 17.65 2 16 2H13C5.83 2 0 7.83 0 15V52C0 52.27 0.0200011 52.54 0.0500011 52.8C0.240001 55.15 1.24 57.35 2.88 59.01Z"/>
+          <path d="M50.21 15.6C48.89 16.59 48.62 18.48 49.61 19.8C50.18 20.56 51.06 21 52.01 21C52.66 21 53.28 20.79 53.81 20.4C58.27 17.06 61.79 11.36 62.01 7.15C62.15 4.5 61.18 2.89 60.34 2.01C59.07 0.67 57.23 0 54.88 0H52.01C50.36 0 49.01 1.35 49.01 3C49.01 4.65 50.36 6 52.01 6L56.14 6.03L55.99 7.14C55.69 9.32 53.24 13.33 50.21 15.6Z"/>
+          <path d="M29.21 15.6C27.89 16.59 27.62 18.48 28.61 19.8C29.57 21.08 31.52 21.37 32.81 20.4C37.27 17.06 40.79 11.36 41.01 7.15C41.15 4.5 40.18 2.89 39.34 2.01C38.07 0.67 36.23 0 33.88 0H31.01C29.36 0 28.01 1.35 28.01 3C28.01 4.65 29.36 6 31.01 6L35.14 6.03L34.99 7.14C34.69 9.32 32.24 13.33 29.21 15.6Z"/>
         </svg>
-        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden" fill="currentColor" viewBox="0 0 24 24">
-          <path fill-rule="evenodd" d="M6.32 2.577a49.255 49.255 0 0111.36 0c1.497.174 2.57 1.46 2.57 2.93V21a.75.75 0 01-1.085.67L12 18.089l-7.165 3.583A.75.75 0 013.75 21V5.507c0-1.47 1.073-2.756 2.57-2.93z" clip-rule="evenodd"/>
+        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 63 62">
+          <path d="M2.88 59.01C4.75 60.91 7.34 62 9.99 62C11.59 62 13.2 61.6 14.64 60.85C14.85 60.74 15.05 60.62 15.24 60.5L26.28 53.22C26.5 53.08 26.75 53 27 53C27.25 53 27.5 53.07 27.72 53.22L38.75 60.49C38.95 60.62 39.15 60.74 39.36 60.85C40.8 61.6 42.4 62 44.01 62C46.66 62 49.25 60.91 51.12 59.01C52.76 57.34 53.77 55.15 53.95 52.83C53.98 52.53 54 52.26 54 52V34C54 32.35 52.65 31 51 31C49.35 31 48 32.35 48 34V52.13C47.98 52.19 47.98 52.26 47.97 52.32C47.91 53.26 47.52 54.12 46.85 54.8C45.65 56.02 43.67 56.33 42.15 55.53L42.06 55.48L31.02 48.2C28.61 46.61 25.38 46.62 22.98 48.2L11.94 55.48C10.33 56.33 8.35 56.02 7.15 54.8C6.48 54.12 6.09 53.26 6.02 52.32C6.02 52.25 6.02 52.19 6 52.13V52V15C6 11.14 9.14 8 13 8H16C17.65 8 19 6.65 19 5C19 3.35 17.65 2 16 2H13C5.83 2 0 7.83 0 15V52C0 52.27 0.0200011 52.54 0.0500011 52.8C0.240001 55.15 1.24 57.35 2.88 59.01Z"/>
+          <path d="M50.21 15.6C48.89 16.59 48.62 18.48 49.61 19.8C50.18 20.56 51.06 21 52.01 21C52.66 21 53.28 20.79 53.81 20.4C58.27 17.06 61.79 11.36 62.01 7.15C62.15 4.5 61.18 2.89 60.34 2.01C59.07 0.67 57.23 0 54.88 0H52.01C50.36 0 49.01 1.35 49.01 3C49.01 4.65 50.36 6 52.01 6L56.14 6.03L55.99 7.14C55.69 9.32 53.24 13.33 50.21 15.6Z"/>
+          <path d="M29.21 15.6C27.89 16.59 27.62 18.48 28.61 19.8C29.57 21.08 31.52 21.37 32.81 20.4C37.27 17.06 40.79 11.36 41.01 7.15C41.15 4.5 40.18 2.89 39.34 2.01C38.07 0.67 36.23 0 33.88 0H31.01C29.36 0 28.01 1.35 28.01 3C28.01 4.65 29.36 6 31.01 6L35.14 6.03L34.99 7.14C34.69 9.32 32.24 13.33 29.21 15.6Z"/>
         </svg>
         <span class="flex-1">Reading List</span>
         <span id="sidebar-rl-count" class="sidebar-count"></span>
       </a>
 
+      <!-- Account -->
+      <a href="/account" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+        <svg class="icon-outline w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
+          <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
+          <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
+        </svg>
+        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
+          <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
+          <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
+        </svg>
+        <span class="flex-1">Account</span>
+      </a>
+
+      <!-- FIFA 2026 — top section -->
       <div class="pt-4 mt-3 border-t border-[var(--color-border)]">
-        <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">Destinations</p>
+        <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">FIFA 2026 🏆</p>
+
+        <a href="/usa" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇺🇸</span>
+          <span class="flex-1">United States</span>
+          {usaCount > 0 && <span class="sidebar-count">{usaCount}</span>}
+        </a>
+
+        <a href="/mexico" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇲🇽</span>
+          <span class="flex-1">Mexico</span>
+          {mexicoCount > 0 && <span class="sidebar-count">{mexicoCount}</span>}
+        </a>
+
+        <a href="/canada" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇨🇦</span>
+          <span class="flex-1">Canada</span>
+          {canadaCount > 0 && <span class="sidebar-count">{canadaCount}</span>}
+        </a>
+      </div>
+
+      <!-- All Destinations — ordered by article count / relevance -->
+      <div class="pt-3 mt-2 border-t border-[var(--color-border)]">
+        <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">All Destinations</p>
 
         <a href="/japan" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
           <span class="text-base leading-none shrink-0">🇯🇵</span>
@@ -66,51 +154,132 @@ const canadaCount = canadaArticles.length;
           <span class="sidebar-count">{koreaCount}</span>
         </a>
 
-        <div class="pt-3 mt-2 border-t border-[var(--color-border)]">
-          <p class="px-3 mb-2 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)]">FIFA 2026 🏆</p>
+        <a href="/usa" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇺🇸</span>
+          <span class="flex-1">United States</span>
+          {usaCount > 0 && <span class="sidebar-count">{usaCount}</span>}
+        </a>
 
-          <a href="/usa" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
-            <span class="text-base leading-none shrink-0">🇺🇸</span>
-            <span class="flex-1">United States</span>
-            {usaCount > 0 && <span class="sidebar-count">{usaCount}</span>}
-          </a>
+        <a href="/mexico" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇲🇽</span>
+          <span class="flex-1">Mexico</span>
+          {mexicoCount > 0 && <span class="sidebar-count">{mexicoCount}</span>}
+        </a>
 
-          <a href="/mexico" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
-            <span class="text-base leading-none shrink-0">🇲🇽</span>
-            <span class="flex-1">Mexico</span>
-            {mexicoCount > 0 && <span class="sidebar-count">{mexicoCount}</span>}
-          </a>
+        <a href="/canada" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇨🇦</span>
+          <span class="flex-1">Canada</span>
+          {canadaCount > 0 && <span class="sidebar-count">{canadaCount}</span>}
+        </a>
 
-          <a href="/canada" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
-            <span class="text-base leading-none shrink-0">🇨🇦</span>
-            <span class="flex-1">Canada</span>
-            {canadaCount > 0 && <span class="sidebar-count">{canadaCount}</span>}
+        <a href="/france" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇫🇷</span>
+          <span class="flex-1">France</span>
+          {franceCount > 0 && <span class="sidebar-count">{franceCount}</span>}
+        </a>
+
+        <a href="/spain" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇪🇸</span>
+          <span class="flex-1">Spain</span>
+          {spainCount > 0 && <span class="sidebar-count">{spainCount}</span>}
+        </a>
+
+        <a href="/italy" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇮🇹</span>
+          <span class="flex-1">Italy</span>
+          {italyCount > 0 && <span class="sidebar-count">{italyCount}</span>}
+        </a>
+
+        <a href="/portugal" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇵🇹</span>
+          <span class="flex-1">Portugal</span>
+          {portugalCount > 0 && <span class="sidebar-count">{portugalCount}</span>}
+        </a>
+
+        <a href="/ireland" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇮🇪</span>
+          <span class="flex-1">Ireland</span>
+          {irelandCount > 0 && <span class="sidebar-count">{irelandCount}</span>}
+        </a>
+
+        <a href="/india" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇮🇳</span>
+          <span class="flex-1">India</span>
+          {indiaCount > 0 && <span class="sidebar-count">{indiaCount}</span>}
+        </a>
+
+        <a href="/thailand" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇹🇭</span>
+          <span class="flex-1">Thailand</span>
+          {thailandCount > 0 && <span class="sidebar-count">{thailandCount}</span>}
+        </a>
+
+        <a href="/malaysia" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇲🇾</span>
+          <span class="flex-1">Malaysia</span>
+          {malaysiaCount > 0 && <span class="sidebar-count">{malaysiaCount}</span>}
+        </a>
+
+        <a href="/peru" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇵🇪</span>
+          <span class="flex-1">Peru</span>
+          {peruCount > 0 && <span class="sidebar-count">{peruCount}</span>}
+        </a>
+
+        <a href="/costa-rica" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇨🇷</span>
+          <span class="flex-1">Costa Rica</span>
+          {costaRicaCount > 0 && <span class="sidebar-count">{costaRicaCount}</span>}
+        </a>
+
+        <a href="/tanzania" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇹🇿</span>
+          <span class="flex-1">Tanzania</span>
+          {tanzaniaCount > 0 && <span class="sidebar-count">{tanzaniaCount}</span>}
+        </a>
+
+        {egyptCount > 0 && (
+          <a href="/egypt" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+            <span class="text-base leading-none shrink-0">🇪🇬</span>
+            <span class="flex-1">Egypt</span>
+            <span class="sidebar-count">{egyptCount}</span>
           </a>
-        </div>
+        )}
+
+        <a href="/pakistan" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇵🇰</span>
+          <span class="flex-1">Pakistan</span>
+          {pakistanCount > 0 && <span class="sidebar-count">{pakistanCount}</span>}
+        </a>
+
+        <a href="/kazakhstan" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇰🇿</span>
+          <span class="flex-1">Kazakhstan</span>
+          {kazakhstanCount > 0 && <span class="sidebar-count">{kazakhstanCount}</span>}
+        </a>
+
+        <a href="/greenland" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+          <span class="text-base leading-none shrink-0">🇬🇱</span>
+          <span class="flex-1">Greenland</span>
+          {greenlandCount > 0 && <span class="sidebar-count">{greenlandCount}</span>}
+        </a>
       </div>
 
     </div><!-- /scrollable nav -->
 
-    <!-- Mobile-only footer: profile + language fixed at the bottom -->
-    <div class="sidebar-mobile-footer">
-      <!-- Profile button -->
-      <button
-        class="flex items-center justify-center w-9 h-9 rounded-full bg-[var(--color-brand-50)] text-[var(--color-brand-600)] hover:bg-[var(--color-brand-100)] transition-colors"
-        aria-label="Profile"
-      >
-        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M12 12a3 3 0 100-6 3 3 0 000 6z"/>
-          <path fill-rule="evenodd" d="M12 18c-4.418 0-8-1.79-8-4s3.582-4 8-4 8 1.79 8 4-3.582 4-8 4z" clip-rule="evenodd"/>
-        </svg>
-      </button>
-      <!-- Language -->
+    <!-- Language — always visible at the bottom of the sidebar -->
+    <div class="sidebar-lang-bar">
       <div class="relative" id="sidebar-lang-wrapper">
         <button
           id="sidebar-lang-btn"
-          class="flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-full transition-colors"
+          class="flex items-center gap-2.5 w-full px-3 py-2.5 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-bg-subtle)] rounded-lg transition-colors"
         >
-          <span>EN</span>
-          <svg class="w-3 h-3 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg class="w-[18px] h-[18px] shrink-0" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M2 12h20M12 2a15.3 15.3 0 010 20M12 2a15.3 15.3 0 000 20"/>
+          </svg>
+          <span class="flex-1 text-left">Language · EN</span>
+          <svg class="w-3.5 h-3.5 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
           </svg>
         </button>
@@ -118,7 +287,7 @@ const canadaCount = canadaArticles.length;
           <button class="w-full px-4 py-2.5 text-xs font-semibold text-left text-[var(--color-brand-700)] bg-[var(--color-brand-50)]">EN</button>
         </div>
       </div>
-    </div><!-- /sidebar-mobile-footer -->
+    </div><!-- /sidebar-lang-bar -->
 
   </div>
 </aside>
@@ -143,7 +312,7 @@ const canadaCount = canadaArticles.length;
   }
   #global-sidebar.is-collapsed { width: 0; }
 
-  @media (max-width: 767px) {
+  @media (max-width: 1279px) {
     #global-sidebar {
       position: fixed;
       left: 0;
@@ -220,20 +389,12 @@ const canadaCount = canadaArticles.length;
     border-right-color: var(--color-text-primary);
   }
 
-  /* ── Mobile footer (profile + language) — only on < 768px ──── */
-  .sidebar-mobile-footer {
-    display: none;
-  }
-  @media (max-width: 767px) {
-    .sidebar-mobile-footer {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.875rem 1rem;
-      border-top: 1px solid var(--color-border);
-      background: var(--color-bg);
-      flex-shrink: 0;
-    }
+  /* ── Sidebar language bar — always visible at bottom */
+  .sidebar-lang-bar {
+    flex-shrink: 0;
+    border-top: 1px solid var(--color-border);
+    padding: 0.5rem 0.75rem 0.75rem;
+    background: var(--color-bg);
   }
 
   /* Count badge */
@@ -262,7 +423,7 @@ const canadaCount = canadaArticles.length;
   }
 
   const stored = localStorage.getItem('goinatlas:sidebar-collapsed');
-  const defaultCollapsed = window.innerWidth < 768 ? true : stored === '1';
+  const defaultCollapsed = window.innerWidth < 1280 ? true : stored === '1';
   applyCollapsed(defaultCollapsed, false);
 
   // Remove the pre-paint init CSS — JS has taken over, normal transitions can resume
@@ -273,11 +434,12 @@ const canadaCount = canadaArticles.length;
   });
 
   document.addEventListener('goinatlas:toggleSidebar', () => {
+    autoCollapsedForXL = false;          // user took manual control — stop auto-managing
     applyCollapsed(!sidebar?.classList.contains('is-collapsed'));
   });
 
   document.addEventListener('click', (e) => {
-    if (window.innerWidth >= 768) return;
+    if (window.innerWidth >= 1280) return;
     const toggleBtn   = document.getElementById('sidebar-toggle-btn');
     const collapseBtn = document.getElementById('sidebar-collapse-btn');
     if (
@@ -333,19 +495,91 @@ const canadaCount = canadaArticles.length;
     if ((e as CustomEvent).detail?.saved) showSavedToast();
   });
 
-  // ── Auto-collapse on resize across the 768px breakpoint ──────
-  let prevIsMobile = window.innerWidth < 768;
+  // ── Auto-collapse / expand on resize ────────────────────────────
+  //
+  // Rules:
+  //  <768px (mobile)        → always collapsed
+  //  768–1279px (tablet)    → always open
+  //  ≥1280px (xl, 3-column) → open if cards ≥ CARD_MIN_PX with sidebar,
+  //                           collapsed otherwise; re-evaluate continuously
+  //                           within xl so widening the window re-opens it.
+  //
+  // autoCollapsedForXL: true while the resize logic owns the collapsed state.
+  // Cleared whenever the user manually toggles, so we don't fight their choice.
+  //
+  const XL_BREAKPOINT = 1280;
+  const CARD_MIN_PX   = 450;
+  // sidebar(240) + right-aside(355) + xl padding(160+160) = 915px overhead at xl+
+  const XL_OVERHEAD   = 915;
+
+  let autoCollapsedForXL = false;
+  let prevIsMobile = window.innerWidth < 1280;
+  let prevIsXL     = window.innerWidth >= XL_BREAKPOINT;
+
+  // ── Correct initial state at xl on page load ─────────────────
+  // applyCollapsed() persists to localStorage, so a previous auto-collapse
+  // can survive a reload even if the viewport is now wide enough.
+  // Override that here before the user sees anything.
+  if (window.innerWidth >= XL_BREAKPOINT) {
+    const cardW = window.innerWidth - XL_OVERHEAD;
+    const storedCollapsed = localStorage.getItem('goinatlas:sidebar-collapsed') === '1';
+    if (cardW >= CARD_MIN_PX && storedCollapsed) {
+      // Stored collapse was from a narrower session — open it now
+      applyCollapsed(false, false);
+    } else if (cardW < CARD_MIN_PX && !storedCollapsed) {
+      // Not enough room — collapse silently
+      autoCollapsedForXL = true;
+      applyCollapsed(true, false);
+    }
+  }
+
   window.addEventListener('resize', () => {
-    const isMobile = window.innerWidth < 768;
-    if (isMobile === prevIsMobile) return; // only act when crossing the breakpoint
-    prevIsMobile = isMobile;
-    if (isMobile) {
-      // Viewport shrank to mobile — collapse with animation
-      applyCollapsed(true, true);
-    } else {
-      // Viewport grew to desktop — restore stored preference
-      const pref = localStorage.getItem('goinatlas:sidebar-collapsed');
-      applyCollapsed(pref === '1', true);
+    const w        = window.innerWidth;
+    const isMobile = w < 1280;
+    const isXL     = w >= XL_BREAKPOINT;
+
+    // ── 768px boundary ──────────────────────────────────────────
+    if (isMobile !== prevIsMobile) {
+      prevIsMobile = isMobile;
+      if (isMobile) {
+        autoCollapsedForXL = false;
+        applyCollapsed(true, true);
+      } else if (!isXL) {
+        // → tablet: always reopen
+        autoCollapsedForXL = false;
+        localStorage.removeItem('goinatlas:sidebar-collapsed');
+        applyCollapsed(false, true);
+      }
+      // mobile → xl in a single event: falls through to xl block below
+    }
+
+    // ── 1280px boundary ─────────────────────────────────────────
+    if (isXL !== prevIsXL) {
+      prevIsXL = isXL;
+      if (isXL) {
+        // Entering xl (from tablet OR fast-drag from mobile):
+        // open if cards fit, collapse if they don't.
+        const cardW = w - XL_OVERHEAD;
+        autoCollapsedForXL = cardW < CARD_MIN_PX;
+        applyCollapsed(autoCollapsedForXL, true);
+      } else if (!isMobile) {
+        // Leaving xl → tablet: always reopen
+        autoCollapsedForXL = false;
+        localStorage.removeItem('goinatlas:sidebar-collapsed');
+        applyCollapsed(false, true);
+      }
+    }
+
+    // ── Within xl: continuously re-evaluate card width ───────────
+    // Only acts when the current collapsed state was set by auto logic
+    // (autoCollapsedForXL), so manual user toggles are respected.
+    if (isXL && !isMobile && autoCollapsedForXL) {
+      const cardW = w - XL_OVERHEAD;
+      if (cardW >= CARD_MIN_PX && sidebar?.classList.contains('is-collapsed')) {
+        // Viewport widened enough — reopen
+        autoCollapsedForXL = false;
+        applyCollapsed(false, true);
+      }
     }
   });
 

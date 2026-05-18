@@ -26,7 +26,7 @@ const { picks } = Astro.props;
   <div class="space-y-5">
     {picks.map((article) => (
       <a
-        href={`/${article.destination.toLowerCase()}/${article.slug}`}
+        href={`/${article.destination.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\s+/g,'-').replace(/[^a-z0-9-]/g,'')}/${article.slug}`}
         class="flex gap-3 group"
       >
         {article.heroImage ? (

@@ -46,7 +46,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <script is:inline>
       (function() {
         try {
-          var sc = localStorage.getItem('goinatlas:sidebar-collapsed') === '1' || window.innerWidth < 768;
+          var sc = localStorage.getItem('goinatlas:sidebar-collapsed') === '1' || window.innerWidth < 1280;
           var css = '';
 
           // Always kill toggle-button transitions during initial paint
@@ -126,4 +126,45 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   }
 
   initSaveBtns();
+
+  // ── Footer placement ──────────────────────────────────────────────────────
+  // >=xl : position:fixed bottom-right — handled entirely by CSS / Tailwind classes.
+  // <xl  : move into #articles-scroll as a full-width static block at the bottom.
+  (function initFooter() {
+    const footer = document.getElementById('site-footer');
+    if (!footer) return;
+
+    const originalParent    = footer.parentElement!;
+    const originalSibling   = footer.nextSibling;
+
+    function placeFooter() {
+      const scroll = document.getElementById('articles-scroll');
+      const isXL   = window.innerWidth >= 1280;
+
+      if (isXL) {
+        // ── xl+: restore to original DOM position; CSS takes over ──────────
+        if (footer.parentElement !== originalParent) {
+          originalSibling
+            ? originalParent.insertBefore(footer, originalSibling)
+            : originalParent.appendChild(footer);
+        }
+        // Clear any inline overrides set by the <xl branch
+        footer.style.cssText = 'width: 354px; padding: 1rem 1.5rem 1.25rem 30px;';
+
+      } else if (scroll) {
+        // ── <xl: full-width static block at bottom of articles scroll ───────
+        if (footer.parentElement !== scroll) scroll.appendChild(footer);
+        footer.style.cssText =
+          'position:static; width:100%; display:block; padding:1.5rem 1.5rem 2.5rem;';
+
+      } else {
+        // no hub page — keep hidden
+        footer.style.display = 'none';
+      }
+    }
+
+    placeFooter();
+    window.addEventListener('resize', () => placeFooter());
+  })();
+
 </script>

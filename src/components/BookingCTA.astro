@@ -1,0 +1,60 @@
+---
+/**
+ * BookingCTA — Travelpayouts affiliate links
+ * Partner ID: 730147
+ *
+ * Shows flight + hotel search buttons for a given destination.
+ * Included automatically in ArticleLayout.
+ */
+
+interface Props {
+  destination: string;
+}
+
+const { destination } = Astro.props;
+const marker = '730147';
+
+const flightsUrl = `https://www.aviasales.com/?marker=${marker}`;
+const hotelsUrl  = `https://hotellook.com/?marker=${marker}`;
+---
+
+<div class="booking-cta not-prose my-8 rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface)] p-6">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[var(--color-text-tertiary)] mb-4">
+    Plan your trip
+  </p>
+  <div class="flex flex-col sm:flex-row gap-3">
+    <!-- Flights -->
+    <a
+      href={flightsUrl}
+      target="_blank"
+      rel="noopener noreferrer sponsored"
+      class="flex items-center gap-3 flex-1 rounded-xl bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] px-5 py-3.5 text-white transition-colors group"
+    >
+      <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
+      </svg>
+      <div>
+        <div class="text-sm font-semibold">Find cheap flights</div>
+        <div class="text-xs text-white/70">to {destination}</div>
+      </div>
+    </a>
+
+    <!-- Hotels -->
+    <a
+      href={hotelsUrl}
+      target="_blank"
+      rel="noopener noreferrer sponsored"
+      class="flex items-center gap-3 flex-1 rounded-xl border border-[var(--color-border)] bg-[var(--color-bg)] hover:bg-[var(--color-surface-hover)] px-5 py-3.5 text-[var(--color-text-primary)] transition-colors"
+    >
+      <svg class="w-5 h-5 flex-shrink-0 text-[var(--color-brand-600)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+      </svg>
+      <div>
+        <div class="text-sm font-semibold">Find hotels</div>
+        <div class="text-xs text-[var(--color-text-tertiary)]">in {destination}</div>
+      </div>
+    </a>
+  </div>
+</div>

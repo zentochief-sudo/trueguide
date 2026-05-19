@@ -7,6 +7,8 @@ import TableOfContents from '../components/TableOfContents.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import AdSlot from '../components/AdSlot.astro';
 import AdRail from '../components/AdRail.astro';
+import RelatedArticles from '../components/RelatedArticles.astro';
+import type { RelatedArticle } from '../lib/related-articles';
 
 interface Heading {
   depth: number;
@@ -26,6 +28,7 @@ interface Props {
   headings?: Heading[];
   city?: string;
   tocStyle?: 'sticky-scroll' | 'flow';
+  relatedArticles?: RelatedArticle[];
 }
 
 const {
@@ -39,6 +42,7 @@ const {
   etsy_template,
   headings = [],
   city = 'national',
+  relatedArticles = [],
 } = Astro.props;
 
 const destSlug = destination.toLowerCase().replace(/\s+/g, '-').replace('south-korea', 'korea');
@@ -214,6 +218,12 @@ const BREADCRUMB_H = '2.75rem';
 
       {etsy_template && (
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="bottom" />
+      )}
+
+      {relatedArticles.length > 0 && (
+        <div class="mt-12">
+          <RelatedArticles articles={relatedArticles} destination={destination} />
+        </div>
       )}
 
       <div class="mt-12">

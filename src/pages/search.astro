@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import AdSlot from '../components/AdSlot.astro';
 import AdRail from '../components/AdRail.astro';
 import { getCollection } from 'astro:content';
 
@@ -85,9 +84,6 @@ function destPath(destination: string): string {
             </h1>
             <p id="sr-count" class="mt-1 text-sm text-[var(--color-text-muted)]"></p>
           </div>
-
-          <!-- Leaderboard — top of feed, full col2 width -->
-          <AdSlot variant="leaderboard" />
 
           <!-- Tabs — category filter -->
           <nav

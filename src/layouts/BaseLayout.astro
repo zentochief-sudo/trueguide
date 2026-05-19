@@ -9,9 +9,10 @@ interface Props {
   description: string;
   image?: string;
   hideFooter?: boolean;
+  schema?: Record<string, unknown>;
 }
 
-const { title, description, image = '/og-default.jpg', hideFooter = false } = Astro.props;
+const { title, description, image = '/og-default.jpg', hideFooter = false, schema } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -39,6 +40,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:title" content={`${title} | GoinAtlas`} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
+
+    <!-- Structured data (JSON-LD) -->
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+
     <!--
       Prevent layout shift and header flash on every page navigation.
       Runs synchronously in <head> — before a single pixel of <body> is painted.

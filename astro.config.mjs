@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
+import sitemap from '@astrojs/sitemap';
 import { rehypeAdInject } from './src/lib/rehype-ad-inject.mjs';
 import { rehypeInternalLinks } from './src/lib/rehype-internal-links.mjs';
 
@@ -8,6 +9,7 @@ import { rehypeInternalLinks } from './src/lib/rehype-internal-links.mjs';
 export default defineConfig({
   site: 'https://goinatlas.com',
   output: 'static',
+  integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()],
   },

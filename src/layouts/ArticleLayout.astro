@@ -66,11 +66,24 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
 
 const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1;
 
+const canonicalURL = `https://goinatlas.com/${destSlug}/${Astro.params.slug ?? ''}`;
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description: description,
+  datePublished: publishDate.toISOString(),
+  author: { '@type': 'Organization', name: 'GoinAtlas', url: 'https://goinatlas.com' },
+  publisher: { '@type': 'Organization', name: 'GoinAtlas', url: 'https://goinatlas.com' },
+  url: canonicalURL,
+  ...(heroImage ? { image: `https://goinatlas.com${heroImage}` } : {}),
+};
+
 // Breadcrumb bar height — used to offset sticky TOC
 const BREADCRUMB_H = '2.75rem';
 ---
 
-<BaseLayout title={title} description={description} image={heroImage} hideFooter={true}>
+<BaseLayout title={title} description={description} image={heroImage} hideFooter={true} schema={articleSchema}>
 
   <!-- ── Hero image ───────────────────────────────────────── -->
   <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);">

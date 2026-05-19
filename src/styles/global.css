@@ -409,11 +409,8 @@ h1, h2, h3 { font-family: var(--font-display); }
   height: 110px;
   border-top: 1px solid var(--color-border);
   border-bottom: 1px solid var(--color-border);
-  background: var(--color-bg);
+  background: var(--color-bg-subtle);
   border-radius: 0;
-  /* performance: don't render off-screen inline ads */
-  content-visibility: auto;
-  contain-intrinsic-size: auto 110px;
 }
 
 /* article: inline ad inside the article column (mobile / mid-content) */

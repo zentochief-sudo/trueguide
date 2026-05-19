@@ -32,14 +32,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1981760864692469" crossorigin="anonymous"></script>
 
-    <!-- Travelpayouts Drive -->
-    <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1">
-      (function () {
+    <!-- Travelpayouts Drive — deferred until after page load to avoid LCP/TBT impact -->
+    <script is:inline>
+      window.addEventListener('load', function () {
         var script = document.createElement("script");
-        script.async = 1;
+        script.async = true;
         script.src = 'https://emrld.ltd/NTMwODYx.js?t=530861';
         document.head.appendChild(script);
-      })();
+      });
     </script>
 
     <!-- Open Graph -->

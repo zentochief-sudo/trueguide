@@ -1,12 +1,12 @@
 ---
-title: "Cultura y Museos en Ciudad de México para el Mundial 2026"
+title: "Culture & Museums in Mexico City for World Cup 2026"
 description: "The Museo Nacional de Antropología, Rivera's murals, Frida Kahlo, and the cultural life of Latin America's most creative capital."
 destination: Mexico
 category: Culture
 publishDate: 2026-05-07
 readingTime: 8
 heroImage: /images/mexico-cdmx-culture.jpg
-tags: [Ciudad de México, museos, cultura, murales, Frida Kahlo, Rivera, World Cup 2026]
+tags: [Mexico City, museums, culture, murals, Frida Kahlo, Rivera, World Cup 2026]
 city: cdmx
 ---
 

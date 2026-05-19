@@ -48,6 +48,9 @@ const {
 
 const destSlug = destination.toLowerCase().replace(/\s+/g, '-').replace('south-korea', 'korea');
 
+// Derive WebP path for hero image (served if the .webp file exists)
+const heroImageWebp = heroImage ? heroImage.replace(/\.(jpe?g|png)$/i, '.webp') : undefined;
+
 const cityLabels: Record<string, string> = {
   tokyo: 'Tokyo', kyoto: 'Kyoto', osaka: 'Osaka', kanazawa: 'Kanazawa',
   hiroshima: 'Hiroshima', nara: 'Nara', hokkaido: 'Hokkaido', fukuoka: 'Fukuoka',
@@ -89,7 +92,17 @@ const BREADCRUMB_H = '2.75rem';
   <!-- ── Hero image ───────────────────────────────────────── -->
   <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);">
     {heroImage && (
-      <img src={heroImage} alt={title} class="w-full h-full object-cover opacity-80" />
+      <picture>
+        {heroImageWebp && <source srcset={heroImageWebp} type="image/webp" />}
+        <img
+          src={heroImage}
+          alt={title}
+          class="w-full h-full object-cover opacity-80"
+          fetchpriority="high"
+          loading="eager"
+          decoding="async"
+        />
+      </picture>
     )}
     <!-- Subtle gradient only at the bottom for the meta pill -->
     <div class="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent" />

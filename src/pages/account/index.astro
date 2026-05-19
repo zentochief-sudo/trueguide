@@ -1,0 +1,187 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Your Account"
+  description="Manage your GoinAtlas account, saved articles, and preferences."
+>
+  <div id="account-shell" class="max-w-2xl mx-auto px-5 py-12">
+
+    <!-- Loading state -->
+    <div id="account-loading" class="flex items-center justify-center py-24">
+      <div class="w-6 h-6 border-2 border-[var(--color-brand-600)] border-t-transparent rounded-full animate-spin"></div>
+    </div>
+
+    <!-- Logged out state -->
+    <div id="account-logged-out" class="hidden text-center py-20">
+      <div class="w-14 h-14 rounded-full bg-[var(--color-surface)] flex items-center justify-center mx-auto mb-4">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-[var(--color-text-muted)]">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
+        </svg>
+      </div>
+      <h2 class="text-xl font-bold text-[var(--color-text-primary)] mb-2" style="font-family: var(--font-display)">
+        Sign in to your account
+      </h2>
+      <p class="text-sm text-[var(--color-text-secondary)] mb-6">
+        Save articles across devices, personalize your feed, and more.
+      </p>
+      <button
+        data-auth-trigger
+        data-auth-context="default"
+        class="inline-block bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] text-white font-semibold text-sm px-8 py-3 rounded-xl transition-colors"
+      >
+        Sign in
+      </button>
+    </div>
+
+    <!-- Logged in state -->
+    <div id="account-logged-in" class="hidden">
+
+      <!-- Profile header -->
+      <div class="flex items-center gap-4 mb-10">
+        <div id="account-avatar" class="w-14 h-14 rounded-full bg-[var(--color-brand-100)] flex items-center justify-center text-[var(--color-brand-600)] font-bold text-xl flex-shrink-0">
+          ?
+        </div>
+        <div class="min-w-0">
+          <p id="account-name" class="text-lg font-bold text-[var(--color-text-primary)] truncate" style="font-family: var(--font-display)">
+            —
+          </p>
+          <p id="account-email" class="text-sm text-[var(--color-text-secondary)] truncate">—</p>
+        </div>
+        <button
+          id="account-signout-btn"
+          class="ml-auto flex-shrink-0 text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-lg px-3 py-1.5 transition-colors"
+        >
+          Sign out
+        </button>
+      </div>
+
+      <!-- Saved articles -->
+      <section class="mb-10">
+        <h2 class="text-base font-bold text-[var(--color-text-primary)] mb-4 flex items-center gap-2" style="font-family: var(--font-display)">
+          <svg width="18" height="18" viewBox="0 0 62 62" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="text-[var(--color-brand-600)]">
+            <path d="M2.86 59.0098C4.73 60.9098 7.32 61.9998 9.97 61.9998C11.57 61.9998 13.18 61.5998 14.62 60.8498C14.83 60.7398 15.03 60.6198 15.22 60.4998L26.26 53.2198C26.48 53.0798 26.73 52.9998 26.98 52.9998C27.23 52.9998 27.48 53.0698 27.7 53.2098L38.74 60.4898C38.94 60.6198 39.14 60.7398 39.35 60.8498C40.79 61.5998 42.4 61.9998 44 61.9998C46.65 61.9998 49.24 60.9098 51.11 59.0198C52.75 57.3498 53.76 55.1598 53.94 52.8398C53.97 52.5398 53.99 52.2698 53.99 52.0098V39.0098C53.99 37.3598 52.64 36.0098 50.99 36.0098C49.34 36.0098 47.99 37.3598 47.99 39.0098V52.1398C47.97 52.1998 47.97 52.2698 47.96 52.3298C47.9 53.2698 47.51 54.1298 46.83 54.8098C45.63 56.0298 43.65 56.3398 42.13 55.5398L31.01 48.2098C28.6 46.6298 25.37 46.6298 22.97 48.2098L11.93 55.4898C10.32 56.3398 8.35 56.0298 7.14 54.8098C6.47 54.1298 6.08 53.2698 6.02 52.3298C6.02 52.2698 6.01 52.1998 6 52.1398V52.0098V15.0098C6 11.1498 9.14 8.00977 13 8.00977H20C21.65 8.00977 23 6.65977 23 5.00977C23 3.35977 21.65 2.00977 20 2.00977H13C5.83 2.00977 0 7.83976 0 15.0098V52.0098C0 52.2798 0.0199992 52.5498 0.0499992 52.8098C0.239999 55.1598 1.24 57.3598 2.88 59.0198L2.86 59.0098Z"/>
+          </svg>
+          Saved articles
+        </h2>
+
+        <div id="account-saves-loading" class="text-sm text-[var(--color-text-muted)] py-6 text-center">Loading…</div>
+        <div id="account-saves-empty" class="hidden text-sm text-[var(--color-text-secondary)] py-6 text-center">
+          No saved articles yet. Hit the bookmark icon on any article to save it.
+        </div>
+        <ul id="account-saves-list" class="hidden divide-y divide-[var(--color-border)]"></ul>
+      </section>
+
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  import { supabase } from '../../lib/supabase';
+
+  const loadingEl    = document.getElementById('account-loading')!;
+  const loggedOutEl  = document.getElementById('account-logged-out')!;
+  const loggedInEl   = document.getElementById('account-logged-in')!;
+  const avatarEl     = document.getElementById('account-avatar')!;
+  const nameEl       = document.getElementById('account-name')!;
+  const emailEl      = document.getElementById('account-email')!;
+  const signOutBtn   = document.getElementById('account-signout-btn')!;
+  const savesLoading = document.getElementById('account-saves-loading')!;
+  const savesEmpty   = document.getElementById('account-saves-empty')!;
+  const savesList    = document.getElementById('account-saves-list')!;
+
+  async function init() {
+    const { data: { session } } = await supabase.auth.getSession();
+    loadingEl.classList.add('hidden');
+
+    if (!session) {
+      loggedOutEl.classList.remove('hidden');
+      return;
+    }
+
+    loggedInEl.classList.remove('hidden');
+    const user = session.user;
+
+    // Fill profile
+    const name = user.user_metadata?.full_name ?? user.email?.split('@')[0] ?? 'Traveler';
+    nameEl.textContent  = name;
+    emailEl.textContent = user.email ?? '';
+    const initials = name.split(' ').map((w: string) => w[0]).join('').slice(0, 2).toUpperCase();
+
+    if (user.user_metadata?.avatar_url) {
+      avatarEl.innerHTML = `<img src="${user.user_metadata.avatar_url}" alt="${name}" class="w-full h-full rounded-full object-cover" />`;
+    } else {
+      avatarEl.textContent = initials;
+    }
+
+    // Load saves
+    await loadSaves(user.id);
+  }
+
+  async function loadSaves(userId: string) {
+    const { data, error } = await supabase
+      .from('saved_articles')
+      .select('*')
+      .eq('user_id', userId)
+      .order('saved_at', { ascending: false });
+
+    savesLoading.classList.add('hidden');
+
+    if (error || !data || data.length === 0) {
+      savesEmpty.classList.remove('hidden');
+      return;
+    }
+
+    savesList.classList.remove('hidden');
+    savesList.innerHTML = data.map((a) => {
+      const destSlug = (a.destination ?? '').toLowerCase().replace(/\s+/g, '-');
+      const href = `/${destSlug}/${a.article_slug}`;
+      return `
+        <li class="flex items-center gap-3 py-3 group">
+          ${a.hero_image
+            ? `<img src="${a.hero_image}" alt="${a.title}" class="w-14 h-10 object-cover rounded-lg flex-shrink-0" loading="lazy" />`
+            : `<div class="w-14 h-10 rounded-lg bg-[var(--color-surface)] flex-shrink-0"></div>`
+          }
+          <a href="${href}" class="flex-1 min-w-0">
+            <p class="text-sm font-semibold text-[var(--color-text-primary)] truncate group-hover:text-[var(--color-brand-600)] transition-colors">
+              ${a.title}
+            </p>
+            <p class="text-xs text-[var(--color-text-muted)] capitalize">${a.destination}</p>
+          </a>
+          <button
+            data-remove-save="${a.article_slug}"
+            class="flex-shrink-0 text-[var(--color-text-muted)] hover:text-red-500 transition-colors p-1"
+            aria-label="Remove"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </li>
+      `;
+    }).join('');
+
+    // Remove save handlers
+    savesList.querySelectorAll('[data-remove-save]').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const slug = (btn as HTMLElement).dataset.removeSave!;
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) return;
+        await supabase.from('saved_articles')
+          .delete()
+          .eq('user_id', user.id)
+          .eq('article_slug', slug);
+        await loadSaves(user.id);
+      });
+    });
+  }
+
+  // Sign out
+  signOutBtn.addEventListener('click', async () => {
+    await supabase.auth.signOut();
+    window.location.reload();
+  });
+
+  init();
+</script>

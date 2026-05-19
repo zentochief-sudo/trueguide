@@ -102,17 +102,16 @@ const peruCount       = peruArticles.length;
         <span id="sidebar-rl-count" class="sidebar-count"></span>
       </a>
 
-      <!-- Account -->
-      <a href="/account" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
-        <svg class="icon-outline w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
-          <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
-          <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
-        </svg>
-        <svg class="icon-solid w-[18px] h-[18px] shrink-0 hidden text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
-          <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
-          <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
-        </svg>
-        <span class="flex-1">Account</span>
+      <!-- Account — shows avatar+name if logged in, "Account" if not -->
+      <a href="/account" id="sidebar-account-link" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+        <!-- Default icon (logged out) -->
+        <span id="sidebar-account-icon">
+          <svg class="w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
+            <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
+            <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
+          </svg>
+        </span>
+        <span id="sidebar-account-label" class="flex-1">Account</span>
       </a>
 
       <!-- FIFA 2026 — top section -->
@@ -591,4 +590,32 @@ const peruCount       = peruArticles.length;
     sidebarLangMenu?.classList.toggle('hidden');
   });
   document.addEventListener('click', () => sidebarLangMenu?.classList.add('hidden'));
+
+  // ── Auth state in sidebar ─────────────────────────────────────
+  async function updateSidebarAuth() {
+    const { createClient } = await import('@supabase/supabase-js');
+    const sb = createClient(
+      (import.meta as any).env?.PUBLIC_SUPABASE_URL  ?? '',
+      (import.meta as any).env?.PUBLIC_SUPABASE_ANON_KEY ?? ''
+    );
+    const { data: { session } } = await sb.auth.getSession();
+    const iconEl  = document.getElementById('sidebar-account-icon');
+    const labelEl = document.getElementById('sidebar-account-label');
+    if (!iconEl || !labelEl) return;
+
+    if (session?.user) {
+      const user = session.user;
+      const name = user.user_metadata?.full_name ?? user.email?.split('@')[0] ?? 'Account';
+      const avatarUrl = user.user_metadata?.avatar_url;
+      const initials = name.split(' ').map((w: string) => w[0]).join('').slice(0, 2).toUpperCase();
+
+      iconEl.innerHTML = avatarUrl
+        ? `<img src="${avatarUrl}" alt="${name}" class="w-[18px] h-[18px] rounded-full object-cover shrink-0" />`
+        : `<span class="w-[18px] h-[18px] rounded-full bg-[var(--color-brand-600)] flex items-center justify-center text-[9px] font-bold text-white shrink-0">${initials}</span>`;
+      labelEl.textContent = name.split(' ')[0]; // first name only
+    }
+  }
+
+  updateSidebarAuth();
+  document.addEventListener('goinatlas:authChanged', updateSidebarAuth);
 </script>

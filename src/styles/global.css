@@ -389,7 +389,7 @@ h1, h2, h3 { font-family: var(--font-display); }
 /* rectangle: col3 stacked units — fluid width, fixed min-height */
 .ad-slot--rectangle {
   width: 100%;
-  min-height: 180px;
+  min-height: 150px;
   border-radius: 0.5rem;
 }
 

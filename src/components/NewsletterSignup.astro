@@ -67,23 +67,15 @@ const ctaLabel = destination ? `Get ${destination} guides →` : 'Send me the gu
       ))}
     </ul>
 
-    <!-- Form -->
-    <!-- TODO: Replace with Beehiiv embed once account is created -->
-    <form class="flex flex-col sm:flex-row gap-3" id="newsletter-form">
-      <input
-        type="email"
-        name="email"
-        placeholder="your@email.com"
-        required
-        class="flex-1 px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-white/30 text-sm focus:outline-none focus:border-white/50 focus:bg-white/15 transition-all"
-      />
-      <button
-        type="submit"
-        class="bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] text-white text-sm font-semibold px-6 py-3 rounded-xl transition-colors whitespace-nowrap"
-      >
-        {ctaLabel}
-      </button>
-    </form>
+    <!-- Subscribe link → Beehiiv -->
+    <a
+      href="https://goinatlas.beehiiv.com/subscribe"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-block bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] text-white text-sm font-semibold px-8 py-3.5 rounded-xl transition-colors"
+    >
+      {ctaLabel}
+    </a>
     <p class="text-xs text-white/30 mt-3">No spam. Unsubscribe any time. Free forever.</p>
   </div>
 </div>

@@ -14,7 +14,7 @@ export default defineConfig({
     // Inject inline ad slots into article prose at build time.
     // Inserts an ad before every 2nd <h2> — no runtime JS, pure HTML.
     rehypePlugins: [
-      [rehypeAdInject, { every: 2 }],
+      [rehypeAdInject, { every: 1 }],
     ],
   },
 });

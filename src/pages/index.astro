@@ -108,9 +108,9 @@ const activityTypes = [
             <div class="tabs-scroll">
               <button class="hub-tab is-active" data-tab="for-you">For you</button>
               <button class="hub-tab" data-tab="all">All guides</button>
-              <button class="hub-tab hub-tab--disabled" data-tab="explore" disabled aria-disabled="true">
+              <button class="hub-tab hub-tab--disabled" data-tab="explore" id="explore-map-tab">
                 Explore Map
-                <span class="coming-soon-badge">Coming soon</span>
+                <span class="soon-badge">Soon</span>
               </button>
             </div>
 
@@ -297,11 +297,9 @@ const activityTypes = [
   .hub-tab:hover { color: var(--color-text-primary); }
   .hub-tab--disabled {
     opacity: 0.45;
-    cursor: not-allowed;
-    pointer-events: none;
     gap: 0.5rem;
   }
-  .coming-soon-badge {
+  .soon-badge {
     display: inline-block;
     font-size: 0.6rem;
     font-weight: 700;
@@ -508,6 +506,12 @@ const activityTypes = [
     activeType = e.detail.type;
     applyFilters();
   }) as EventListener);
+
+  // ── Explore Map tab → coming-soon toast ─────────────────────
+  document.getElementById('explore-map-tab')?.addEventListener('click', () => {
+    const fn = (window as any).showComingSoonToast;
+    if (fn) fn('Coming soon — explore guides on an interactive map.');
+  });
 
   // ── Redirect wheel events to articles scroll ─────────────────
   // The page itself doesn't scroll; capture wheel anywhere on the

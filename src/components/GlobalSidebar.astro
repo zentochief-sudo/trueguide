@@ -102,15 +102,15 @@ const peruCount       = peruArticles.length;
         <span id="sidebar-rl-count" class="sidebar-count"></span>
       </a>
 
-      <!-- Account — disabled until Google auth is ready -->
-      <div class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-muted)] cursor-not-allowed select-none opacity-50">
+      <!-- Account — disabled until auth is ready; clickable → shows toast -->
+      <button id="account-soon-btn" class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-muted)] opacity-50 w-full text-left">
         <svg class="w-[18px] h-[18px] shrink-0" fill="currentColor" viewBox="0 0 60 60">
           <path d="M13.79 43.97C12.01 45.73 11 48.17 11 50.65C11 55.81 15.2 60 20.36 60H39.65C44.81 60 49.01 55.8 49.01 50.65C49.01 48.17 47.99 45.74 46.21 43.97C44.32 42.09 42.45 40.65 40.48 39.56L39.45 38.99L40.18 38.07C42.03 35.74 43.01 32.95 43.01 30C43.01 22.83 37.18 17 30.01 17C22.84 17 17.01 22.83 17.01 30C17.01 32.95 17.99 35.74 19.84 38.07L20.57 38.99L19.54 39.56C17.57 40.65 15.7 42.09 13.81 43.97H13.79ZM30 23C33.86 23 37 26.14 37 30C37 33.86 33.86 37 30 37C26.14 37 23 33.86 23 30C23 26.14 26.14 23 30 23ZM30 43C34.77 43 38.24 44.51 41.98 48.23C42.63 48.87 43 49.76 43 50.65C43 52.5 41.5 54 39.64 54H20.35C18.5 54 16.99 52.5 16.99 50.65C16.99 49.76 17.36 48.88 18.01 48.23C21.75 44.52 25.22 43 29.99 43H30Z"/>
           <path d="M30 0C13.46 0 0 13.46 0 30C0 32.62 0.34 35.24 1.02 37.78C1.23 38.55 1.72 39.2 2.42 39.6C3.11 40 3.92 40.11 4.7 39.9C5.47 39.69 6.12 39.2 6.52 38.5C6.92 37.81 7.03 37 6.82 36.22C6.28 34.19 6 32.09 6 30C6 16.77 16.77 6 30 6C43.23 6 54 16.77 54 30C54 32.1 53.72 34.19 53.18 36.22C52.97 36.99 53.08 37.8 53.48 38.5C53.88 39.19 54.53 39.69 55.3 39.9C56.88 40.32 58.55 39.34 58.97 37.78C59.65 35.24 59.99 32.63 59.99 30C59.99 13.46 46.53 0 29.99 0H30Z"/>
         </svg>
         <span class="flex-1">Account</span>
-        <span class="text-[10px] font-semibold uppercase tracking-wide bg-[var(--color-surface)] text-[var(--color-text-muted)] px-1.5 py-0.5 rounded">Soon</span>
-      </div>
+        <span class="soon-badge">Soon</span>
+      </button>
 
       <!-- FIFA 2026 — top section -->
       <div class="pt-4 mt-3 border-t border-[var(--color-border)]">
@@ -289,6 +289,9 @@ const peruCount       = peruArticles.length;
   </div>
 </aside>
 
+<!-- Center-top "coming soon" toast — shared by Account + Explore Map -->
+<div id="soon-toast" aria-live="polite" role="status"></div>
+
 <!-- Toast lives outside the sidebar so it's never clipped by overflow:hidden -->
 <div id="rl-saved-toast" aria-live="polite" role="status">
   <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
@@ -392,6 +395,47 @@ const peruCount       = peruArticles.length;
     border-top: 1px solid var(--color-border);
     padding: 0.5rem 0.75rem 0.75rem;
     background: var(--color-bg);
+  }
+
+  /* ── Soon badge — shared between Account + Explore Map ─────── */
+  .soon-badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-brand-600);
+    background: color-mix(in srgb, var(--color-brand-600) 10%, transparent);
+    border: 1px solid color-mix(in srgb, var(--color-brand-600) 25%, transparent);
+    border-radius: 99px;
+    padding: 0.15rem 0.45rem;
+    line-height: 1.4;
+    vertical-align: middle;
+    flex-shrink: 0;
+  }
+
+  /* ── Center-top coming-soon toast ──────────────────────────── */
+  #soon-toast {
+    position: fixed;
+    top: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(-8px);
+    white-space: nowrap;
+    padding: 8px 16px;
+    background: var(--color-text-primary);
+    color: #fff;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 9999;
+  }
+  #soon-toast.is-visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
   }
 
   /* Count badge */
@@ -589,5 +633,23 @@ const peruCount       = peruArticles.length;
   });
   document.addEventListener('click', () => sidebarLangMenu?.classList.add('hidden'));
 
-  // Account section disabled until Google auth is ready
+  // ── Center-top "coming soon" toast ───────────────────────────
+  const soonToast = document.getElementById('soon-toast');
+  let soonTimer: ReturnType<typeof setTimeout> | null = null;
+
+  function showComingSoonToast(message: string) {
+    if (!soonToast) return;
+    soonToast.textContent = message;
+    if (soonTimer) clearTimeout(soonTimer);
+    soonToast.classList.add('is-visible');
+    soonTimer = setTimeout(() => soonToast.classList.remove('is-visible'), 3000);
+  }
+
+  // Expose globally so index.astro (Explore Map tab) can call it
+  (window as any).showComingSoonToast = showComingSoonToast;
+
+  // Account button → toast
+  document.getElementById('account-soon-btn')?.addEventListener('click', () => {
+    showComingSoonToast('Coming soon — create an account and save your travel preferences.');
+  });
 </script>

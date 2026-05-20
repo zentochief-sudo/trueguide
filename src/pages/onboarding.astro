@@ -1,0 +1,242 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Personalize your feed"
+  description="Tell us where you want to go and what you love doing."
+  hideFooter={true}
+>
+  <div class="min-h-[calc(100vh-4rem)] flex flex-col">
+    <!-- Header -->
+    <div class="flex items-center justify-between px-6 py-5 border-b border-[var(--color-border)]">
+      <p class="text-sm font-semibold text-[var(--color-brand-600)]" style="font-family: var(--font-display)">GoinAtlas</p>
+      <a
+        href="/"
+        id="onboarding-skip"
+        class="text-sm text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors"
+      >
+        Skip for now →
+      </a>
+    </div>
+
+    <!-- Content -->
+    <div class="flex-1 overflow-y-auto">
+      <div class="max-w-2xl mx-auto px-5 py-10">
+        <div class="mb-8">
+          <h1 class="text-2xl font-bold text-[var(--color-text-primary)] mb-2" style="font-family: var(--font-display)">
+            Where do you want to go?
+          </h1>
+          <p class="text-sm text-[var(--color-text-secondary)]">
+            Select at least 3 destinations and 2 activities to get personalized recommendations.
+          </p>
+        </div>
+
+        <!-- Progress indicator -->
+        <div id="onboarding-counter" class="mb-6 text-xs text-[var(--color-text-muted)]">
+          <span id="dest-count">0</span> destinations · <span id="act-count">0</span> activities selected
+        </div>
+
+        <!-- ── Destinations ──────────────────────────────────────── -->
+        <section class="mb-10">
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4">Europe</h2>
+          <div class="flex flex-wrap gap-2 mb-6">
+            {[
+              { slug: 'ireland',   flag: '🇮🇪', label: 'Ireland' },
+              { slug: 'portugal',  flag: '🇵🇹', label: 'Portugal' },
+              { slug: 'spain',     flag: '🇪🇸', label: 'Spain' },
+              { slug: 'italy',     flag: '🇮🇹', label: 'Italy' },
+              { slug: 'france',    flag: '🇫🇷', label: 'France' },
+              { slug: 'greenland', flag: '🇬🇱', label: 'Greenland' },
+            ].map(d => (
+              <button
+                class="dest-chip flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--color-border)] text-sm font-medium text-[var(--color-text-secondary)] hover:border-[var(--color-brand-400)] transition-all"
+                data-dest={d.slug}
+              >
+                <span>{d.flag}</span>
+                <span>{d.label}</span>
+              </button>
+            ))}
+          </div>
+
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4">Americas</h2>
+          <div class="flex flex-wrap gap-2 mb-6">
+            {[
+              { slug: 'mexico',     flag: '🇲🇽', label: 'Mexico' },
+              { slug: 'canada',     flag: '🇨🇦', label: 'Canada' },
+              { slug: 'usa',        flag: '🇺🇸', label: 'United States' },
+              { slug: 'peru',       flag: '🇵🇪', label: 'Peru' },
+              { slug: 'costa-rica', flag: '🇨🇷', label: 'Costa Rica' },
+            ].map(d => (
+              <button
+                class="dest-chip flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--color-border)] text-sm font-medium text-[var(--color-text-secondary)] hover:border-[var(--color-brand-400)] transition-all"
+                data-dest={d.slug}
+              >
+                <span>{d.flag}</span>
+                <span>{d.label}</span>
+              </button>
+            ))}
+          </div>
+
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4">Asia & Pacific</h2>
+          <div class="flex flex-wrap gap-2 mb-6">
+            {[
+              { slug: 'japan',      flag: '🇯🇵', label: 'Japan' },
+              { slug: 'korea',      flag: '🇰🇷', label: 'South Korea' },
+              { slug: 'thailand',   flag: '🇹🇭', label: 'Thailand' },
+              { slug: 'malaysia',   flag: '🇲🇾', label: 'Malaysia' },
+              { slug: 'india',      flag: '🇮🇳', label: 'India' },
+              { slug: 'pakistan',   flag: '🇵🇰', label: 'Pakistan' },
+              { slug: 'kazakhstan', flag: '🇰🇿', label: 'Kazakhstan' },
+            ].map(d => (
+              <button
+                class="dest-chip flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--color-border)] text-sm font-medium text-[var(--color-text-secondary)] hover:border-[var(--color-brand-400)] transition-all"
+                data-dest={d.slug}
+              >
+                <span>{d.flag}</span>
+                <span>{d.label}</span>
+              </button>
+            ))}
+          </div>
+
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4">Africa & Indian Ocean</h2>
+          <div class="flex flex-wrap gap-2 mb-6">
+            {[
+              { slug: 'tanzania', flag: '🇹🇿', label: 'Tanzania' },
+              { slug: 'egypt',    flag: '🇪🇬', label: 'Egypt' },
+              { slug: 'reunion',  flag: '🇷🇪', label: 'Réunion' },
+            ].map(d => (
+              <button
+                class="dest-chip flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--color-border)] text-sm font-medium text-[var(--color-text-secondary)] hover:border-[var(--color-brand-400)] transition-all"
+                data-dest={d.slug}
+              >
+                <span>{d.flag}</span>
+                <span>{d.label}</span>
+              </button>
+            ))}
+          </div>
+        </section>
+
+        <!-- ── Activities ─────────────────────────────────────────── -->
+        <section class="mb-12">
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-4">What do you love doing?</h2>
+          <div class="flex flex-wrap gap-2">
+            {[
+              { id: 'food-drink',        emoji: '🍜', label: 'Food & Drink' },
+              { id: 'nature-hiking',     emoji: '🌿', label: 'Nature & Hiking' },
+              { id: 'history-culture',   emoji: '📜', label: 'History & Culture' },
+              { id: 'beaches',           emoji: '🏖️', label: 'Beaches' },
+              { id: 'wildlife-safari',   emoji: '🦁', label: 'Wildlife & Safari' },
+              { id: 'skiing-snow',       emoji: '⛷️', label: 'Skiing & Snow' },
+              { id: 'architecture',      emoji: '🏗️', label: 'Architecture' },
+              { id: 'shopping',          emoji: '🛍️', label: 'Shopping' },
+              { id: 'festivals',         emoji: '🎉', label: 'Festivals' },
+              { id: 'adventure',         emoji: '🧗', label: 'Adventure' },
+            ].map(a => (
+              <button
+                class="act-chip flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--color-border)] text-sm font-medium text-[var(--color-text-secondary)] hover:border-[var(--color-brand-400)] transition-all"
+                data-act={a.id}
+              >
+                <span>{a.emoji}</span>
+                <span>{a.label}</span>
+              </button>
+            ))}
+          </div>
+        </section>
+
+        <!-- CTA -->
+        <div class="pb-10">
+          <button
+            id="onboarding-submit"
+            disabled
+            class="w-full bg-[var(--color-brand-600)] hover:bg-[var(--color-brand-500)] text-white font-semibold text-sm rounded-xl px-4 py-3.5 transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+          >
+            Get started
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .dest-chip.selected,
+  .act-chip.selected {
+    background: var(--color-brand-600);
+    border-color: var(--color-brand-600);
+    color: #fff;
+  }
+</style>
+
+<script>
+  import { supabase } from '../lib/supabase';
+
+  const selectedDests = new Set<string>();
+  const selectedActs  = new Set<string>();
+  const destCountEl   = document.getElementById('dest-count')!;
+  const actCountEl    = document.getElementById('act-count')!;
+  const submitBtn     = document.getElementById('onboarding-submit') as HTMLButtonElement;
+
+  function updateCounts() {
+    destCountEl.textContent = String(selectedDests.size);
+    actCountEl.textContent  = String(selectedActs.size);
+    submitBtn.disabled = selectedDests.size < 3 || selectedActs.size < 2;
+    if (!submitBtn.disabled) {
+      submitBtn.textContent = `Get started (${selectedDests.size + selectedActs.size} selected)`;
+    } else {
+      submitBtn.textContent = 'Get started';
+    }
+  }
+
+  // Destination chips
+  document.querySelectorAll<HTMLButtonElement>('.dest-chip').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const slug = btn.dataset.dest!;
+      if (selectedDests.has(slug)) { selectedDests.delete(slug); btn.classList.remove('selected'); }
+      else { selectedDests.add(slug); btn.classList.add('selected'); }
+      updateCounts();
+    });
+  });
+
+  // Activity chips
+  document.querySelectorAll<HTMLButtonElement>('.act-chip').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.act!;
+      if (selectedActs.has(id)) { selectedActs.delete(id); btn.classList.remove('selected'); }
+      else { selectedActs.add(id); btn.classList.add('selected'); }
+      updateCounts();
+    });
+  });
+
+  // Submit
+  submitBtn.addEventListener('click', async () => {
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Saving…';
+
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) { window.location.href = '/'; return; }
+
+    await supabase.from('user_preferences').upsert({
+      user_id:    user.id,
+      countries:  Array.from(selectedDests),
+      activities: Array.from(selectedActs),
+      updated_at: new Date().toISOString(),
+    }, { onConflict: 'user_id' });
+
+    window.location.href = '/';
+  });
+
+  // Guard: if not logged in after email confirmation, handle gracefully
+  (async () => {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (!session) {
+      // Not logged in — could be coming from a confirmation link that Supabase
+      // hasn't resolved yet. Wait briefly for onAuthStateChange.
+      supabase.auth.onAuthStateChange((event, sess) => {
+        if (event === 'SIGNED_IN' && sess) {
+          // Good — user is now signed in, page stays
+        }
+      });
+    }
+  })();
+</script>

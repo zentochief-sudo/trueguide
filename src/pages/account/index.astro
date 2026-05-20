@@ -8,12 +8,12 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 >
   <div id="account-shell" class="max-w-2xl mx-auto px-5 py-12">
 
-    <!-- Loading state -->
+    <!-- Loading -->
     <div id="account-loading" class="flex items-center justify-center py-24">
       <div class="w-6 h-6 border-2 border-[var(--color-brand-600)] border-t-transparent rounded-full animate-spin"></div>
     </div>
 
-    <!-- Logged out state -->
+    <!-- Logged out -->
     <div id="account-logged-out" class="hidden text-center py-20">
       <div class="w-14 h-14 rounded-full bg-[var(--color-surface)] flex items-center justify-center mx-auto mb-4">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-[var(--color-text-muted)]">
@@ -35,32 +35,52 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       </button>
     </div>
 
-    <!-- Logged in state -->
+    <!-- Logged in -->
     <div id="account-logged-in" class="hidden">
 
-      <!-- Profile header -->
-      <div class="flex items-center gap-4 mb-10">
-        <div id="account-avatar" class="w-14 h-14 rounded-full bg-[var(--color-brand-100)] flex items-center justify-center text-[var(--color-brand-600)] font-bold text-xl flex-shrink-0">
-          ?
-        </div>
-        <div class="min-w-0">
-          <p id="account-name" class="text-lg font-bold text-[var(--color-text-primary)] truncate" style="font-family: var(--font-display)">
-            —
-          </p>
-          <p id="account-email" class="text-sm text-[var(--color-text-secondary)] truncate">—</p>
-        </div>
-        <button
-          id="account-signout-btn"
-          class="ml-auto flex-shrink-0 text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] border border-[var(--color-border)] rounded-lg px-3 py-1.5 transition-colors"
-        >
-          Sign out
-        </button>
+      <!-- Greeting -->
+      <div class="mb-10">
+        <h1 class="text-2xl font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-display)">
+          Hi, <span id="account-email-greeting">there</span>
+        </h1>
       </div>
+
+      <!-- Preferences -->
+      <section class="mb-10">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-base font-bold text-[var(--color-text-primary)]" style="font-family: var(--font-display)">
+            Your preferences
+          </h2>
+          <a href="/onboarding" class="text-xs text-[var(--color-brand-600)] hover:underline">
+            Edit
+          </a>
+        </div>
+
+        <div id="account-prefs-loading" class="text-sm text-[var(--color-text-muted)] py-4">Loading…</div>
+        <div id="account-prefs-empty" class="hidden">
+          <p class="text-sm text-[var(--color-text-secondary)] mb-3">No preferences set yet.</p>
+          <a href="/onboarding" class="text-sm font-semibold text-[var(--color-brand-600)] hover:underline">
+            Personalize your feed →
+          </a>
+        </div>
+        <div id="account-prefs-content" class="hidden space-y-5">
+          <!-- Places -->
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">Places</p>
+            <div id="account-prefs-places" class="flex flex-wrap gap-2"></div>
+          </div>
+          <!-- Activities -->
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-text-muted)] mb-2">Activities</p>
+            <div id="account-prefs-activities" class="flex flex-wrap gap-2"></div>
+          </div>
+        </div>
+      </section>
 
       <!-- Saved articles -->
       <section class="mb-10">
         <h2 class="text-base font-bold text-[var(--color-text-primary)] mb-4 flex items-center gap-2" style="font-family: var(--font-display)">
-          <svg width="18" height="18" viewBox="0 0 62 62" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="text-[var(--color-brand-600)]">
+          <svg width="16" height="16" viewBox="0 0 62 62" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="text-[var(--color-brand-600)]">
             <path d="M2.86 59.0098C4.73 60.9098 7.32 61.9998 9.97 61.9998C11.57 61.9998 13.18 61.5998 14.62 60.8498C14.83 60.7398 15.03 60.6198 15.22 60.4998L26.26 53.2198C26.48 53.0798 26.73 52.9998 26.98 52.9998C27.23 52.9998 27.48 53.0698 27.7 53.2098L38.74 60.4898C38.94 60.6198 39.14 60.7398 39.35 60.8498C40.79 61.5998 42.4 61.9998 44 61.9998C46.65 61.9998 49.24 60.9098 51.11 59.0198C52.75 57.3498 53.76 55.1598 53.94 52.8398C53.97 52.5398 53.99 52.2698 53.99 52.0098V39.0098C53.99 37.3598 52.64 36.0098 50.99 36.0098C49.34 36.0098 47.99 37.3598 47.99 39.0098V52.1398C47.97 52.1998 47.97 52.2698 47.96 52.3298C47.9 53.2698 47.51 54.1298 46.83 54.8098C45.63 56.0298 43.65 56.3398 42.13 55.5398L31.01 48.2098C28.6 46.6298 25.37 46.6298 22.97 48.2098L11.93 55.4898C10.32 56.3398 8.35 56.0298 7.14 54.8098C6.47 54.1298 6.08 53.2698 6.02 52.3298C6.02 52.2698 6.01 52.1998 6 52.1398V52.0098V15.0098C6 11.1498 9.14 8.00977 13 8.00977H20C21.65 8.00977 23 6.65977 23 5.00977C23 3.35977 21.65 2.00977 20 2.00977H13C5.83 2.00977 0 7.83976 0 15.0098V52.0098C0 52.2798 0.0199992 52.5498 0.0499992 52.8098C0.239999 55.1598 1.24 57.3598 2.88 59.0198L2.86 59.0098Z"/>
           </svg>
           Saved articles
@@ -73,6 +93,16 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         <ul id="account-saves-list" class="hidden divide-y divide-[var(--color-border)]"></ul>
       </section>
 
+      <!-- Logout -->
+      <div class="pt-4 border-t border-[var(--color-border)]">
+        <button
+          id="account-signout-btn"
+          class="text-sm text-[var(--color-text-primary)] underline underline-offset-2 hover:opacity-70 transition-opacity"
+        >
+          Log out
+        </button>
+      </div>
+
     </div>
   </div>
 </BaseLayout>
@@ -80,16 +110,42 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 <script>
   import { supabase } from '../../lib/supabase';
 
-  const loadingEl    = document.getElementById('account-loading')!;
-  const loggedOutEl  = document.getElementById('account-logged-out')!;
-  const loggedInEl   = document.getElementById('account-logged-in')!;
-  const avatarEl     = document.getElementById('account-avatar')!;
-  const nameEl       = document.getElementById('account-name')!;
-  const emailEl      = document.getElementById('account-email')!;
-  const signOutBtn   = document.getElementById('account-signout-btn')!;
-  const savesLoading = document.getElementById('account-saves-loading')!;
-  const savesEmpty   = document.getElementById('account-saves-empty')!;
-  const savesList    = document.getElementById('account-saves-list')!;
+  const loadingEl        = document.getElementById('account-loading')!;
+  const loggedOutEl      = document.getElementById('account-logged-out')!;
+  const loggedInEl       = document.getElementById('account-logged-in')!;
+  const emailGreeting    = document.getElementById('account-email-greeting')!;
+  const signOutBtn       = document.getElementById('account-signout-btn')!;
+  const savesLoading     = document.getElementById('account-saves-loading')!;
+  const savesEmpty       = document.getElementById('account-saves-empty')!;
+  const savesList        = document.getElementById('account-saves-list')!;
+  const prefsLoading     = document.getElementById('account-prefs-loading')!;
+  const prefsEmpty       = document.getElementById('account-prefs-empty')!;
+  const prefsContent     = document.getElementById('account-prefs-content')!;
+  const prefsPlaces      = document.getElementById('account-prefs-places')!;
+  const prefsActivities  = document.getElementById('account-prefs-activities')!;
+
+  const DEST_LABELS: Record<string, string> = {
+    ireland: '🇮🇪 Ireland', portugal: '🇵🇹 Portugal', spain: '🇪🇸 Spain',
+    italy: '🇮🇹 Italy', france: '🇫🇷 France', greenland: '🇬🇱 Greenland',
+    mexico: '🇲🇽 Mexico', canada: '🇨🇦 Canada', usa: '🇺🇸 United States',
+    peru: '🇵🇪 Peru', 'costa-rica': '🇨🇷 Costa Rica',
+    japan: '🇯🇵 Japan', korea: '🇰🇷 South Korea', thailand: '🇹🇭 Thailand',
+    malaysia: '🇲🇾 Malaysia', india: '🇮🇳 India', pakistan: '🇵🇰 Pakistan',
+    kazakhstan: '🇰🇿 Kazakhstan', tanzania: '🇹🇿 Tanzania', egypt: '🇪🇬 Egypt',
+    reunion: '🇷🇪 Réunion',
+  };
+
+  const ACT_LABELS: Record<string, string> = {
+    'food-drink': '🍜 Food & Drink', 'nature-hiking': '🌿 Nature & Hiking',
+    'history-culture': '📜 History & Culture', beaches: '🏖️ Beaches',
+    'wildlife-safari': '🦁 Wildlife & Safari', 'skiing-snow': '⛷️ Skiing & Snow',
+    architecture: '🏗️ Architecture', shopping: '🛍️ Shopping',
+    festivals: '🎉 Festivals', adventure: '🧗 Adventure',
+  };
+
+  function chipHTML(label: string) {
+    return `<span class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium bg-[var(--color-brand-50)] text-[var(--color-brand-700)] border border-[var(--color-brand-200)]">${label}</span>`;
+  }
 
   async function init() {
     const { data: { session } } = await supabase.auth.getSession();
@@ -102,21 +158,35 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
     loggedInEl.classList.remove('hidden');
     const user = session.user;
+    const email = user.email ?? '';
+    emailGreeting.textContent = email;
 
-    // Fill profile
-    const name = user.user_metadata?.full_name ?? user.email?.split('@')[0] ?? 'Traveler';
-    nameEl.textContent  = name;
-    emailEl.textContent = user.email ?? '';
-    const initials = name.split(' ').map((w: string) => w[0]).join('').slice(0, 2).toUpperCase();
+    await Promise.all([loadPrefs(user.id), loadSaves(user.id)]);
+  }
 
-    if (user.user_metadata?.avatar_url) {
-      avatarEl.innerHTML = `<img src="${user.user_metadata.avatar_url}" alt="${name}" class="w-full h-full rounded-full object-cover" />`;
-    } else {
-      avatarEl.textContent = initials;
+  async function loadPrefs(userId: string) {
+    const { data, error } = await supabase
+      .from('user_preferences')
+      .select('countries, activities')
+      .eq('user_id', userId)
+      .single();
+
+    prefsLoading.classList.add('hidden');
+
+    const hasPrefs = !error && data && (data.countries?.length > 0 || data.activities?.length > 0);
+
+    if (!hasPrefs) {
+      prefsEmpty.classList.remove('hidden');
+      return;
     }
 
-    // Load saves
-    await loadSaves(user.id);
+    prefsContent.classList.remove('hidden');
+    prefsPlaces.innerHTML = (data.countries ?? [])
+      .map((slug: string) => chipHTML(DEST_LABELS[slug] ?? slug))
+      .join('');
+    prefsActivities.innerHTML = (data.activities ?? [])
+      .map((id: string) => chipHTML(ACT_LABELS[id] ?? id))
+      .join('');
   }
 
   async function loadSaves(userId: string) {
@@ -162,7 +232,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       `;
     }).join('');
 
-    // Remove save handlers
     savesList.querySelectorAll('[data-remove-save]').forEach((btn) => {
       btn.addEventListener('click', async () => {
         const slug = (btn as HTMLElement).dataset.removeSave!;
@@ -177,10 +246,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     });
   }
 
-  // Sign out
   signOutBtn.addEventListener('click', async () => {
     await supabase.auth.signOut();
-    window.location.reload();
+    window.location.href = '/';
   });
 
   init();

@@ -102,8 +102,8 @@ const peruCount       = peruArticles.length;
         <span id="sidebar-rl-count" class="sidebar-count"></span>
       </a>
 
-      <!-- Account — shows avatar+name if logged in, "Account" if not -->
-      <a href="/account" id="sidebar-account-link" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors">
+      <!-- Account — navigates to /account if logged in, opens modal if not -->
+      <a href="/account" id="sidebar-account-link" class="sidebar-nav-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium text-[var(--color-text-secondary)] transition-colors" data-sidebar-account>
         <!-- Default icon (logged out) -->
         <span id="sidebar-account-icon">
           <svg class="w-[18px] h-[18px] shrink-0 text-[var(--color-text-primary)]" fill="currentColor" viewBox="0 0 60 60">
@@ -592,6 +592,17 @@ const peruCount       = peruArticles.length;
   document.addEventListener('click', () => sidebarLangMenu?.classList.add('hidden'));
 
   // ── Auth state in sidebar ─────────────────────────────────────
+  let sidebarUserLoggedIn = false;
+
+  // Account link: open modal if logged out, navigate if logged in
+  const accountLink = document.getElementById('sidebar-account-link');
+  accountLink?.addEventListener('click', (e) => {
+    if (!sidebarUserLoggedIn) {
+      e.preventDefault();
+      (window as any).goinAtlasAuth?.open('default');
+    }
+  });
+
   async function updateSidebarAuth() {
     const { createClient } = await import('@supabase/supabase-js');
     const sb = createClient(
@@ -604,15 +615,23 @@ const peruCount       = peruArticles.length;
     if (!iconEl || !labelEl) return;
 
     if (session?.user) {
+      sidebarUserLoggedIn = true;
       const user = session.user;
-      const name = user.user_metadata?.full_name ?? user.email?.split('@')[0] ?? 'Account';
+      const email = user.email ?? '';
       const avatarUrl = user.user_metadata?.avatar_url;
+      const name = user.user_metadata?.full_name ?? email.split('@')[0] ?? 'Account';
       const initials = name.split(' ').map((w: string) => w[0]).join('').slice(0, 2).toUpperCase();
+
+      // Show truncated email in label
+      const truncEmail = email.length > 20 ? email.slice(0, 18) + '…' : email;
+      labelEl.textContent = truncEmail;
 
       iconEl.innerHTML = avatarUrl
         ? `<img src="${avatarUrl}" alt="${name}" class="w-[18px] h-[18px] rounded-full object-cover shrink-0" />`
         : `<span class="w-[18px] h-[18px] rounded-full bg-[var(--color-brand-600)] flex items-center justify-center text-[9px] font-bold text-white shrink-0">${initials}</span>`;
-      labelEl.textContent = name.split(' ')[0]; // first name only
+    } else {
+      sidebarUserLoggedIn = false;
+      labelEl.textContent = 'Account';
     }
   }
 

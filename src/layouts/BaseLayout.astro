@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 import Header from '../components/Header.astro';
 import GlobalSidebar from '../components/GlobalSidebar.astro';
 import Footer from '../components/Footer.astro';
@@ -67,8 +67,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <!-- Structured data (JSON-LD) -->
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
 
-    <!-- View Transitions — SPA-like navigation without full page reloads -->
-    <ViewTransitions />
+    <!-- ClientRouter — SPA-like navigation without full page reloads (Astro 6) -->
+    <ClientRouter />
 
     <!--
       Prevent layout shift and header flash on every page navigation.

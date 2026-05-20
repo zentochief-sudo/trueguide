@@ -140,7 +140,16 @@
 </div>
 
 <script>
-  import { supabase } from '../lib/supabase';
+  // Supabase is lazy-loaded — imported only when the modal first opens.
+  // Keeps it out of the main bundle (~207KB saved on initial page load).
+  let supabase: Awaited<ReturnType<typeof import('../lib/supabase').default>> | null = null;
+  async function getSupabase() {
+    if (!supabase) {
+      const mod = await import('../lib/supabase');
+      supabase = mod.supabase;
+    }
+    return supabase;
+  }
 
   const overlay       = document.getElementById('auth-modal-overlay')!;
   const closeBtn      = document.getElementById('auth-modal-close')!;
@@ -250,7 +259,8 @@
   // ── Google OAuth ─────────────────────────────────────────────────────────
   googleBtn.addEventListener('click', async () => {
     clearError();
-    const { error } = await supabase.auth.signInWithOAuth({
+    const sb = await getSupabase();
+    const { error } = await sb.auth.signInWithOAuth({
       provider: 'google',
       options: { redirectTo: `${window.location.origin}/onboarding` },
     });
@@ -265,10 +275,11 @@
 
     const email    = emailEl.value.trim();
     const password = passEl.value;
+    const sb = await getSupabase();
 
     try {
       if (isSignup) {
-        const { error } = await supabase.auth.signUp({
+        const { error } = await sb.auth.signUp({
           email,
           password,
           options: { emailRedirectTo: `${window.location.origin}/onboarding` },
@@ -277,7 +288,7 @@
         // Show "check your email" — don't close or redirect yet
         showCheckEmail(email);
       } else {
-        const { error } = await supabase.auth.signInWithPassword({ email, password });
+        const { error } = await sb.auth.signInWithPassword({ email, password });
         if (error) throw error;
         closeModal();
         await migrateSaves();
@@ -296,7 +307,8 @@
     const email = emailEl.value.trim();
     if (!email) { showError('Enter your email address first.'); return; }
     clearError();
-    const { error } = await supabase.auth.resetPasswordForEmail(email, {
+    const sb = await getSupabase();
+    const { error } = await sb.auth.resetPasswordForEmail(email, {
       redirectTo: `${window.location.origin}/account`,
     });
     if (error) showError(error.message);
@@ -305,7 +317,8 @@
 
   // ── Migrate localStorage saves → Supabase ────────────────────────────────
   async function migrateSaves() {
-    const { data: { user } } = await supabase.auth.getUser();
+    const sb = await getSupabase();
+    const { data: { user } } = await sb.auth.getUser();
     if (!user) return;
 
     const RL_KEY = 'goinatlas:reading-list';
@@ -322,7 +335,7 @@
     for (const slug of slugs) {
       const article = articles.find((a: any) => a.slug === slug || slug.includes(a.slug));
       if (!article) continue;
-      await supabase.from('saved_articles').upsert({
+      await sb.from('saved_articles').upsert({
         user_id:      user.id,
         article_slug: slug,
         destination:  article.destination ?? '',

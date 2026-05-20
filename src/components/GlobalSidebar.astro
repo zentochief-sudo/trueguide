@@ -492,15 +492,20 @@ const peruCount       = peruArticles.length;
   });
 
   // Mark active link — exact match for '/', prefix match for destinations
-  document.querySelectorAll<HTMLAnchorElement>('.sidebar-nav-link').forEach((link) => {
-    if (!link.href) return;
-    const linkPath = new URL(link.href).pathname;
-    const cur      = window.location.pathname;
-    const isActive = linkPath === '/'
-      ? cur === '/'
-      : cur === linkPath || cur.startsWith(linkPath + '/');
-    if (isActive) link.setAttribute('aria-current', 'page');
-  });
+  // Re-runs on ViewTransitions navigation via astro:page-load
+  function markActiveLink() {
+    const cur = window.location.pathname;
+    document.querySelectorAll<HTMLAnchorElement>('.sidebar-nav-link').forEach((link) => {
+      if (!link.href) return;
+      const linkPath = new URL(link.href).pathname;
+      const isActive = linkPath === '/'
+        ? cur === '/'
+        : cur === linkPath || cur.startsWith(linkPath + '/');
+      link.setAttribute('aria-current', isActive ? 'page' : 'false');
+    });
+  }
+  markActiveLink();
+  document.addEventListener('astro:page-load', markActiveLink);
 
   // Reading List count from localStorage
   function updateRLCount() {

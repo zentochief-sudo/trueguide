@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { ViewTransitions } from 'astro:transitions';
 import Header from '../components/Header.astro';
 import GlobalSidebar from '../components/GlobalSidebar.astro';
 import Footer from '../components/Footer.astro';
@@ -65,6 +66,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <!-- Structured data (JSON-LD) -->
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+
+    <!-- View Transitions — SPA-like navigation without full page reloads -->
+    <ViewTransitions />
 
     <!--
       Prevent layout shift and header flash on every page navigation.
@@ -154,6 +158,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   }
 
   initSaveBtns();
+  // Re-init on ViewTransitions navigation (new page content may have save buttons)
+  document.addEventListener('astro:page-load', initSaveBtns);
 
   // ── Footer placement ──────────────────────────────────────────────────────
   // >=xl : position:fixed bottom-right — handled entirely by CSS / Tailwind classes.

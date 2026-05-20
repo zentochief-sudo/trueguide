@@ -6,9 +6,9 @@ import HubBanner from '../../components/HubBanner.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import AdRail from '../../components/AdRail.astro';
 import { getCollection } from 'astro:content';
+import { getHubArticles } from '../../lib/get-hub-articles';
 
-const articles = await getCollection('malaysia');
-const sorted = articles.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+const sorted = await getHubArticles('malaysia', 'malaysia');
 
 const cityOrder  = ['penang', 'kuala-lumpur', 'langkawi', 'melaka'];
 const cityLabels: Record<string, string> = { 'penang': 'Penang', 'kuala-lumpur': 'Kuala Lumpur', 'langkawi': 'Langkawi', 'melaka': 'Melaka' };
@@ -64,7 +64,8 @@ const activityTypes = [
             <div id="articles-list" class="pt-6">
               {sorted.map((article, i) => (
                 <>
-                  <ArticleCard title={article.data.title} description={article.data.description} destination={article.data.destination} category={article.data.category} slug={article.id} heroImage={article.data.heroImage} readingTime={article.data.readingTime} city={article.data.city} tags={article.data.tags} />
+                  <ArticleCard title={article.data.title} description={article.data.description} destination={article.data.destination} category={article.data.category} slug={article.id} heroImage={article.data.heroImage} readingTime={article.data.readingTime} city={article.data.city} tags={article.data.tags}
+                    href={article.guideHref} />
                   {(i + 1) % 3 === 0 && (
                     <AdSlot variant="inline-feed" />
                   )}

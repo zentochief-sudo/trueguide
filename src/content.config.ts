@@ -5,7 +5,7 @@ const articleSchema = z.object({
   title: z.string(),
   description: z.string(),
   destination: z.string(),
-  category: z.enum(['Itinerary', 'Food', 'Tips', 'Culture', 'Budget', 'Transport', 'Nature', 'Practical', 'Experiences', 'Seasonal', 'Activities', 'Neighborhoods', 'Nightlife', 'Day Trips', 'Stadium Guide', 'Food & Drink']),
+  category: z.enum(['Itinerary', 'Food', 'Tips', 'Culture', 'Budget', 'Transport', 'Nature', 'Practical', 'Experiences', 'Seasonal', 'Activities', 'Neighborhoods', 'Nightlife', 'Day Trips', 'Stadium Guide', 'Food & Drink', 'Compare']),
   publishDate: z.date(),
   updatedDate: z.date().optional(),
   heroImage: z.string().optional(),
@@ -19,7 +19,15 @@ const articleSchema = z.object({
   tocStyle: z.enum(['sticky-scroll', 'flow']).optional().default('sticky-scroll'),
 });
 
+const guideSchema = articleSchema.extend({
+  destinations: z.array(z.string()).default([]), // destination slugs this guide appears in
+});
+
 export const collections = {
+  guides: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/guides' }),
+    schema: guideSchema,
+  }),
   japan: defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/japan' }),
     schema: articleSchema,

@@ -9,11 +9,13 @@ interface Props {
   readingTime: number;
   city?: string;
   tags?: string[];
+  href?: string; // optional override — used for cross-destination guides
 }
 
 const {
   title, description, destination, category,
   slug, heroImage, readingTime, city = 'national', tags = [],
+  href: hrefOverride,
 } = Astro.props;
 
 // Convert destination to a URL-safe path segment
@@ -24,7 +26,7 @@ const destPath = destination
   .replace(/\s+/g, '-')   // spaces → hyphens
   .replace(/[^a-z0-9-]/g, ''); // remove remaining non-URL chars
 
-const href = `/${destPath}/${slug}`;
+const href = hrefOverride ?? `/${destPath}/${slug}`;
 ---
 
 <!--

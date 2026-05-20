@@ -2,7 +2,7 @@
 title: "Universal Studios Japan: The Complete Guide to Super Nintendo World and Beyond"
 description: "Universal Studios Japan in Osaka is one of the best theme parks in the world — and Super Nintendo World is its crown jewel. Tickets, Express Pass strategy, the Mario Kart ride, and how to spend a full day without wasting it."
 destination: Japan
-category: Attractions
+category: Activities
 publishDate: 2026-05-20
 readingTime: 6
 heroImage: /images/osaka-usj.jpg

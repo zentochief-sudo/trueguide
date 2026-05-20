@@ -26,6 +26,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
 
+    <!-- DNS prefetch for third-party origins (non-blocking, speculative) -->
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+
     <!-- Google Fonts — async (non-render-blocking) load -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -38,7 +43,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="description" content={description} />
     <meta name="google-site-verification" content="uSCCwZzt0E21t7jko_0NExb081WaWE1FtF2cqsfmjBI" />
 
-    <!-- Google AdSense -->
+    <!-- Google AdSense — async avoids render-blocking; fires after HTML parse -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1981760864692469" crossorigin="anonymous"></script>
 
     <!-- Travelpayouts Drive — deferred until after page load to avoid LCP/TBT impact -->

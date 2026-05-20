@@ -2,7 +2,7 @@
 title: "5 Days in Osaka: The Complete Itinerary with Day Trip Options"
 description: "Five days in Osaka gives you the full city — the street food circuit, Osaka Castle, Shinsekai, day trips to Kyoto and Nara, and the depth of the neighborhoods that a 3-day itinerary skips. Day-by-day breakdown."
 destination: Japan
-category: Itineraries
+category: Itinerary
 publishDate: 2026-05-20
 readingTime: 6
 heroImage: /images/osaka-5day.jpg

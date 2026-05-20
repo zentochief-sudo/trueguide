@@ -2,7 +2,7 @@
 title: "Shopping in Osaka: From Shinsaibashi to Amerika-mura and the Department Store Basements"
 description: "Osaka is one of Japan's best shopping cities — the Shinsaibashi arcade, the vintage culture of Amerika-mura, the department store depachika food halls, and the traditional craft shops of Tanimachi. The complete guide."
 destination: Japan
-category: Shopping
+category: Tips
 publishDate: 2026-05-20
 readingTime: 5
 heroImage: /images/osaka-shopping.jpg

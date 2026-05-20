@@ -22,7 +22,7 @@ const destPath = destination === 'South Korea' ? 'korea'
         <a href={a.href} class="related-card group">
           <div class="related-img-wrap">
             {a.heroImage ? (
-              <img src={a.heroImage} alt={a.title} class="related-img group-hover:scale-105 transition-transform duration-300" />
+              <img src={a.heroImage} alt={a.title} loading="lazy" decoding="async" class="related-img group-hover:scale-105 transition-transform duration-300" />
             ) : (
               <div class="related-img-placeholder">
                 <svg width="24" height="24" fill="none" stroke="#d4d4d4" stroke-width="1.5" viewBox="0 0 24 24">

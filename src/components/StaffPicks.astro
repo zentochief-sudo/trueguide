@@ -34,6 +34,10 @@ const { picks } = Astro.props;
             <img
               src={article.heroImage}
               alt={article.title}
+              loading="lazy"
+              decoding="async"
+              width="56"
+              height="56"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             />
           </div>

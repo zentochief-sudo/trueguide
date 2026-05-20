@@ -1,8 +1,11 @@
 /**
  * download-hero-images.mjs
  *
- * Downloads hero images from Unsplash for all articles that are missing one.
- * Uses batch requests (count=30) to stay within the 50 req/hour demo limit.
+ * Downloads hero images from Unsplash for all articles missing one.
+ * - Groups articles by destination → 1 Unsplash API call per destination group
+ * - Downloads images in parallel (CDN has no rate limit)
+ * - Waits 75s between Unsplash API metadata calls (50/hour limit)
+ * - Automatically converts each JPG to WebP at quality 82
  *
  * Usage: node scripts/download-hero-images.mjs
  */
@@ -11,12 +14,16 @@ import fs from 'fs';
 import path from 'path';
 import https from 'https';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'src/content');
 const IMAGES_DIR = path.join(ROOT, 'public/images');
 const ACCESS_KEY = '56Tztq0rvkgE5uOFdVcY727DQVeEkL-BCtEZbdcMBac';
+
+// Concurrency for parallel image downloads
+const DOWNLOAD_CONCURRENCY = 8;
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -35,6 +42,7 @@ function httpsGet(url, headers = {}) {
       res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks) }));
     });
     req.on('error', reject);
+    req.setTimeout(30000, () => { req.destroy(); reject(new Error('timeout')); });
   });
 }
 
@@ -44,20 +52,44 @@ async function unsplashBatch(query, count = 30) {
     Authorization: `Client-ID ${ACCESS_KEY}`,
   });
   if (status !== 200) {
-    console.error(`  Unsplash error ${status} for query "${query}": ${body.toString().slice(0,200)}`);
+    console.error(`  Unsplash error ${status} for "${query}": ${body.toString().slice(0, 200)}`);
     return [];
   }
   return JSON.parse(body.toString());
 }
 
 async function downloadImage(downloadUrl, destPath) {
-  const { status, body } = await httpsGet(downloadUrl);
-  if (status !== 200) {
-    console.error(`  Download failed (${status}): ${downloadUrl.slice(0, 80)}`);
+  try {
+    const { status, body } = await httpsGet(downloadUrl);
+    if (status !== 200) return false;
+    fs.writeFileSync(destPath, body);
+    return true;
+  } catch {
     return false;
   }
-  fs.writeFileSync(destPath, body);
-  return true;
+}
+
+// Run cwebp if available; skip silently if not
+function toWebp(jpgPath) {
+  const webpPath = jpgPath.replace(/\.(jpe?g|png)$/i, '.webp');
+  if (fs.existsSync(webpPath)) return;
+  try {
+    execSync(`cwebp -q 82 "${jpgPath}" -o "${webpPath}"`, { stdio: 'ignore' });
+  } catch { /* cwebp not installed — skip */ }
+}
+
+// Run N promises with max concurrency
+async function withConcurrency(items, concurrency, fn) {
+  const results = [];
+  let i = 0;
+  async function worker() {
+    while (i < items.length) {
+      const idx = i++;
+      results[idx] = await fn(items[idx], idx);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
+  return results;
 }
 
 // ── Parse all markdown files ─────────────────────────────────────────────────
@@ -89,44 +121,23 @@ function getAllArticles() {
         file,
         destination: fm.destination || dest,
         title: fm.title || '',
-        heroImage: fm.heroImage.trim(), // e.g. /images/japan-2weeks-hero.jpg
-        imageName: path.basename(fm.heroImage.trim()), // e.g. japan-2weeks-hero.jpg
+        heroImage: fm.heroImage.trim(),
+        imageName: path.basename(fm.heroImage.trim()),
       });
     }
   }
   return articles;
 }
 
-// ── Build search query from article title + destination ──────────────────────
+function buildQuery(destination, articleSample) {
+  // Use destination + generic travel — gets landscape photos for that country/city
+  const d = destination.toLowerCase();
 
-function buildQuery(title, destination) {
-  const t = title.toLowerCase();
-
-  // Topic keywords → Unsplash search hints
-  const topicMap = [
-    [/food|eat|restaurant|cuisine|dish|ramen|sushi|street food|market/i, 'food'],
-    [/night|bar|club|nightlife|drinks/i, 'nightlife'],
-    [/temple|shrine|palace|castle|heritage|historic|ancient/i, 'temple architecture'],
-    [/nature|hike|hiking|mountain|waterfall|forest|jungle|wildlife/i, 'nature landscape'],
-    [/beach|island|coast|sea|ocean|surf/i, 'beach'],
-    [/budget|cheap|cost|money|backpack/i, 'travel'],
-    [/itinerary|days?|weeks?|trip/i, 'travel'],
-    [/transport|train|metro|airport|bus|flight/i, 'travel transport'],
-    [/neighborhood|district|area|quarter/i, 'city street'],
-    [/onsen|hot spring|bath/i, 'hot spring spa'],
-    [/art|museum|gallery|culture/i, 'art museum'],
-    [/festival|cherry blossom|sakura|autumn|foliage/i, 'seasonal nature'],
-    [/hotel|hostel|accommodation|stay/i, 'hotel'],
-    [/world cup|stadium|soccer|football/i, 'stadium'],
-    [/garden|park/i, 'garden park'],
-  ];
-
-  let topic = 'travel';
-  for (const [re, t] of topicMap) {
-    if (re.test(title)) { topic = t; break; }
+  // Seasonal articles: use landscape/travel
+  if (articleSample.some(a => /in (january|february|march|april|may|june|july|august|september|october|november|december)/i.test(a.title))) {
+    return `${destination} landscape travel photography`;
   }
-
-  return `${destination} ${topic} photography`;
+  return `${destination} travel photography`;
 }
 
 // ── Main ─────────────────────────────────────────────────────────────────────
@@ -137,101 +148,103 @@ async function main() {
   const articles = getAllArticles();
   console.log(`Total articles: ${articles.length}`);
 
-  // Filter to only missing images
-  const missing = articles.filter(a => {
-    const dest = path.join(IMAGES_DIR, a.imageName);
-    return !fs.existsSync(dest);
-  });
+  const missing = articles.filter(a => !fs.existsSync(path.join(IMAGES_DIR, a.imageName)));
   console.log(`Missing images: ${missing.length}`);
 
   if (missing.length === 0) {
-    console.log('All images already downloaded!');
+    console.log('✅ All images already downloaded!');
     return;
   }
 
-  // Group by DESTINATION only — minimise API calls (1 per destination)
+  // Group by destination
   const groups = new Map();
   for (const article of missing) {
-    const dest = article.destination;
-    if (!groups.has(dest)) groups.set(dest, []);
-    groups.get(dest).push(article);
+    const key = article.destination;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(article);
   }
 
   console.log(`Destination groups: ${groups.size}`);
-  console.log(`Estimated Unsplash API calls: ~${groups.size * 2} (fetching 30 photos/call)`);
-  console.log('Rate limit: pausing 80s between every API call to stay under 50/hour');
-  console.log('');
+  console.log(`Parallel downloads: ${DOWNLOAD_CONCURRENCY} concurrent`);
+  console.log('Rate limit: 75s between Unsplash API calls\n');
 
   let totalDownloaded = 0;
   let totalFailed = 0;
   let apiCallCount = 0;
 
   for (const [dest, articlesInGroup] of groups) {
-    const query = `${dest} travel landscape photography`;
     console.log(`\n[${dest}] — ${articlesInGroup.length} articles`);
 
-    // Fetch enough photos for the whole destination (max 30 per call)
+    // Pool photos across multiple batches if needed
     let photoPool = [];
-    let needed = articlesInGroup.length;
+    const needed = articlesInGroup.length;
+
     while (photoPool.length < needed) {
       const batchSize = Math.min(30, needed - photoPool.length);
-      console.log(`  → Fetching ${batchSize} photos (call #${apiCallCount + 1})...`);
 
-      // Rate limit: 80 seconds between EVERY call (= 45/hour safely under 50)
       if (apiCallCount > 0) {
-        process.stdout.write('  ⏳ Rate limit pause (80s)... ');
-        await sleep(80_000);
+        process.stdout.write(`  ⏳ Rate limit pause (75s)... `);
+        await sleep(75_000);
         console.log('done');
       }
 
+      const query = buildQuery(dest, articlesInGroup);
+      console.log(`  → Unsplash API call #${apiCallCount + 1}: "${query}" (${batchSize} photos)`);
       const photos = await unsplashBatch(query, batchSize);
       apiCallCount++;
 
       if (photos.length === 0) {
-        console.log(`  ⚠ No photos returned, skipping remaining`);
+        console.log(`  ⚠ No photos returned`);
         break;
       }
       photoPool.push(...photos);
     }
 
     if (photoPool.length === 0) {
-      console.log(`  ⚠ No photos returned for query, skipping group`);
+      console.log(`  ⚠ Skipping — no photos available`);
       totalFailed += articlesInGroup.length;
       continue;
     }
 
-    // Assign photos round-robin
-    for (let i = 0; i < articlesInGroup.length; i++) {
-      const article = articlesInGroup[i];
-      const photo = photoPool[i % photoPool.length];
-      const destPath = path.join(IMAGES_DIR, article.imageName);
+    // Prepare download tasks
+    const tasks = articlesInGroup.map((article, i) => ({
+      article,
+      photo: photoPool[i % photoPool.length],
+    }));
 
+    // Download in parallel
+    const results = await withConcurrency(tasks, DOWNLOAD_CONCURRENCY, async ({ article, photo }) => {
+      const destPath = path.join(IMAGES_DIR, article.imageName);
       const downloadUrl = photo.urls?.regular;
+
       if (!downloadUrl) {
-        console.log(`  ✗ No URL for ${article.imageName}`);
-        totalFailed++;
-        continue;
+        console.log(`  ✗ ${article.imageName} — no URL`);
+        return false;
       }
 
-      process.stdout.write(`  ↓ ${article.imageName} ... `);
       const ok = await downloadImage(downloadUrl, destPath);
       if (ok) {
-        console.log(`✓ (${Math.round(fs.statSync(destPath).size / 1024)}KB)`);
-        totalDownloaded++;
+        const kb = Math.round(fs.statSync(destPath).size / 1024);
+        console.log(`  ✓ ${article.imageName} (${kb}KB)`);
+        // Trigger Unsplash download event (API guidelines)
+        if (photo.links?.download_location) {
+          httpsGet(photo.links.download_location, {
+            Authorization: `Client-ID ${ACCESS_KEY}`,
+          }).catch(() => {});
+        }
+        // Convert to WebP
+        toWebp(destPath);
+        return true;
       } else {
-        totalFailed++;
+        console.log(`  ✗ ${article.imageName} — download failed`);
+        return false;
       }
+    });
 
-      // Trigger Unsplash download event (required by API guidelines)
-      if (photo.links?.download_location) {
-        httpsGet(photo.links.download_location, {
-          Authorization: `Client-ID ${ACCESS_KEY}`,
-        }).catch(() => {});
-      }
-
-      // Small delay between file writes
-      await sleep(100);
-    }
+    const succeeded = results.filter(Boolean).length;
+    totalDownloaded += succeeded;
+    totalFailed += (results.length - succeeded);
+    console.log(`  → ${succeeded}/${articlesInGroup.length} downloaded`);
   }
 
   console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');

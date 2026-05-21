@@ -3,9 +3,12 @@
  *
  * Downloads hero images from Unsplash for all articles missing one.
  * - Groups articles by destination → 1 Unsplash API call per destination group
+ * - Normalizes destination aliases (Korea→South Korea, USA→United States, etc.)
  * - Downloads images in parallel (CDN has no rate limit)
  * - Waits 75s between Unsplash API metadata calls (50/hour limit)
+ * - On 403 rate limit: waits for next-hour reset + 30s buffer, then retries
  * - Automatically converts each JPG to WebP at quality 82
+ * - Skips multi-country destinations (contain & or /) — no useful Unsplash query
  *
  * Usage: node scripts/download-hero-images.mjs
  */
@@ -24,6 +27,13 @@ const ACCESS_KEY = '56Tztq0rvkgE5uOFdVcY727DQVeEkL-BCtEZbdcMBac';
 
 // Concurrency for parallel image downloads
 const DOWNLOAD_CONCURRENCY = 8;
+
+// Normalize destination aliases → canonical name for Unsplash queries
+const DESTINATION_ALIASES = {
+  'Korea':         'South Korea',
+  'USA':           'United States',
+  '"Japan"':       'Japan',
+};
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -46,16 +56,50 @@ function httpsGet(url, headers = {}) {
   });
 }
 
+/** Wait until the next UTC hour boundary + buffer seconds */
+async function waitForRateLimitReset(bufferSecs = 30) {
+  const now = new Date();
+  const msUntilNextHour =
+    (60 - now.getMinutes()) * 60_000 -
+    now.getSeconds() * 1000 -
+    now.getMilliseconds() +
+    bufferSecs * 1000;
+  const waitSecs = Math.ceil(msUntilNextHour / 1000);
+  const resetAt = new Date(Date.now() + msUntilNextHour);
+  process.stdout.write(
+    `  ⏳ Rate limit hit — waiting ${waitSecs}s until ${resetAt.toTimeString().slice(0, 8)} reset... `
+  );
+  await sleep(msUntilNextHour);
+  console.log('done');
+}
+
 async function unsplashBatch(query, count = 30) {
   const url = `https://api.unsplash.com/photos/random?query=${encodeURIComponent(query)}&count=${count}&orientation=landscape&content_filter=high`;
   const { status, body } = await httpsGet(url, {
     Authorization: `Client-ID ${ACCESS_KEY}`,
   });
+  if (status === 403) {
+    return { rateLimited: true };
+  }
   if (status !== 200) {
     console.error(`  Unsplash error ${status} for "${query}": ${body.toString().slice(0, 200)}`);
-    return [];
+    return { rateLimited: false, photos: [] };
   }
-  return JSON.parse(body.toString());
+  return { rateLimited: false, photos: JSON.parse(body.toString()) };
+}
+
+async function unsplashBatchWithRetry(query, count = 30) {
+  // Retry once on rate limit (403)
+  let result = await unsplashBatch(query, count);
+  if (result.rateLimited) {
+    await waitForRateLimitReset(30);
+    result = await unsplashBatch(query, count);
+    if (result.rateLimited) {
+      console.error('  ✗ Still rate limited after reset — aborting');
+      return [];
+    }
+  }
+  return result.photos ?? [];
 }
 
 async function downloadImage(downloadUrl, destPath) {
@@ -107,6 +151,14 @@ function parseFrontmatter(content) {
   return fm;
 }
 
+function normalizeDestination(dest) {
+  return DESTINATION_ALIASES[dest] ?? dest;
+}
+
+function isMultiCountry(dest) {
+  return /[&\/]/.test(dest);
+}
+
 function getAllArticles() {
   const articles = [];
   for (const dest of fs.readdirSync(CONTENT_DIR)) {
@@ -117,9 +169,10 @@ function getAllArticles() {
       const content = fs.readFileSync(path.join(destDir, file), 'utf8');
       const fm = parseFrontmatter(content);
       if (!fm.heroImage) continue;
+      const rawDest = fm.destination || dest;
       articles.push({
         file,
-        destination: fm.destination || dest,
+        destination: normalizeDestination(rawDest),
         title: fm.title || '',
         heroImage: fm.heroImage.trim(),
         imageName: path.basename(fm.heroImage.trim()),
@@ -130,10 +183,6 @@ function getAllArticles() {
 }
 
 function buildQuery(destination, articleSample) {
-  // Use destination + generic travel — gets landscape photos for that country/city
-  const d = destination.toLowerCase();
-
-  // Seasonal articles: use landscape/travel
   if (articleSample.some(a => /in (january|february|march|april|may|june|july|august|september|october|november|december)/i.test(a.title))) {
     return `${destination} landscape travel photography`;
   }
@@ -156,17 +205,19 @@ async function main() {
     return;
   }
 
-  // Group by destination
+  // Group by normalized destination; skip multi-country
   const groups = new Map();
+  let skippedMulti = 0;
   for (const article of missing) {
+    if (isMultiCountry(article.destination)) { skippedMulti++; continue; }
     const key = article.destination;
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(article);
   }
 
-  console.log(`Destination groups: ${groups.size}`);
+  console.log(`Destination groups: ${groups.size} (skipped ${skippedMulti} multi-country)`);
   console.log(`Parallel downloads: ${DOWNLOAD_CONCURRENCY} concurrent`);
-  console.log('Rate limit: 75s between Unsplash API calls\n');
+  console.log('Rate limit: 75s between Unsplash API calls (auto-waits on 403)\n');
 
   let totalDownloaded = 0;
   let totalFailed = 0;
@@ -190,7 +241,7 @@ async function main() {
 
       const query = buildQuery(dest, articlesInGroup);
       console.log(`  → Unsplash API call #${apiCallCount + 1}: "${query}" (${batchSize} photos)`);
-      const photos = await unsplashBatch(query, batchSize);
+      const photos = await unsplashBatchWithRetry(query, batchSize);
       apiCallCount++;
 
       if (photos.length === 0) {

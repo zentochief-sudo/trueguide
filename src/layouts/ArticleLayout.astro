@@ -236,6 +236,9 @@ const BREADCRUMB_H = '2.75rem';
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
       )}
 
+      <!-- Booking CTA — above the fold, before article content -->
+      <BookingCTA destination={destination} />
+
       <!-- Inline ad — visible below 1280px (mobile/tablet, no col3 rail) -->
       <AdSlot variant="article" class="article-inline-ad" />
 
@@ -243,6 +246,7 @@ const BREADCRUMB_H = '2.75rem';
         <slot />
       </div>
 
+      <!-- Booking CTA — repeated at end for readers who finish the article -->
       <BookingCTA destination={destination} />
 
       {etsy_template && (

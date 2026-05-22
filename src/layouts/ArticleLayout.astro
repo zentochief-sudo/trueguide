@@ -416,9 +416,9 @@ const BREADCRUMB_H = '2.75rem';
   /* At 1280px: 1fr = (1280−680)/2 = 300px — fits a 250px ad. */
   .article-col3-ads {
     display: none;
-    padding: 2.5rem 1.5rem 4rem 1.5rem;
-    /* prevent ad rail from expanding past what's comfortable */
-    max-width: 300px;
+    padding: 2.5rem 1rem 4rem 1.25rem;
+    /* cap at 360px — comfortable for BookingCTA + ads */
+    max-width: 360px;
   }
   @media (min-width: 1280px) {
     .article-col3-ads { display: block; }
@@ -430,6 +430,10 @@ const BREADCRUMB_H = '2.75rem';
     top: calc(4rem + 2.75rem + 1rem); /* header + breadcrumb + gap */
     z-index: 10;
     margin-bottom: 1.5rem;
+  }
+  /* Tighter padding for BookingCTA in narrow col3 context */
+  .col3-booking-sticky .booking-cta {
+    padding: 1rem;
   }
 
   /* Inline BookingCTAs — shown on mobile, hidden when col3 is visible */

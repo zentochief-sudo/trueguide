@@ -236,8 +236,10 @@ const BREADCRUMB_H = '2.75rem';
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />
       )}
 
-      <!-- Booking CTA — above the fold, before article content -->
-      <BookingCTA destination={destination} />
+      <!-- Booking CTA — above fold on mobile; hidden on desktop (col3 handles it) -->
+      <div class="article-booking-inline">
+        <BookingCTA destination={destination} />
+      </div>
 
       <!-- Inline ad — visible below 1280px (mobile/tablet, no col3 rail) -->
       <AdSlot variant="article" class="article-inline-ad" />
@@ -246,8 +248,10 @@ const BREADCRUMB_H = '2.75rem';
         <slot />
       </div>
 
-      <!-- Booking CTA — repeated at end for readers who finish the article -->
-      <BookingCTA destination={destination} />
+      <!-- Booking CTA — bottom, mobile only -->
+      <div class="article-booking-inline">
+        <BookingCTA destination={destination} />
+      </div>
 
       {etsy_template && (
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="bottom" />
@@ -267,9 +271,13 @@ const BREADCRUMB_H = '2.75rem';
 
     </div>
 
-    <!-- Right col: ad rail — visible at ≥1280px where 1fr ≥ 300px -->
+    <!-- Right col: sticky BookingCTA + ad rail — visible at ≥1280px -->
     <div class="article-col3-ads" style="grid-column: 3;">
-      <AdRail count={6} />
+      <!-- Sticky Travelpayouts widget — follows scroll -->
+      <div class="col3-booking-sticky">
+        <BookingCTA destination={destination} />
+      </div>
+      <AdRail count={4} />
     </div>
 
   </div>
@@ -414,6 +422,20 @@ const BREADCRUMB_H = '2.75rem';
   }
   @media (min-width: 1280px) {
     .article-col3-ads { display: block; }
+  }
+
+  /* Sticky BookingCTA in col3 — follows scroll, stops before footer */
+  .col3-booking-sticky {
+    position: sticky;
+    top: calc(4rem + 2.75rem + 1rem); /* header + breadcrumb + gap */
+    z-index: 10;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Inline BookingCTAs — shown on mobile, hidden when col3 is visible */
+  .article-booking-inline { display: block; }
+  @media (min-width: 1280px) {
+    .article-booking-inline { display: none; }
   }
 
   /* ── 1440px: TOC sidebar + article offset ───────────────────── */

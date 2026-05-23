@@ -10,7 +10,7 @@ tags: [Cork, Ireland, English Market, Blarney Castle, Kinsale, craft beer, food,
 city: cork
 ---
 
-Cork is Ireland's second city and first food city — a compact, hilly port town at the mouth of the River Lee with a justified reputation for eating well, an assertive local identity (the "Rebel County" nickname is genuine in character if not in current politics), and proximity to some of the best coastal scenery in Munster. It's an easy base for southwest Ireland: Kinsale is 30 minutes south, the Ring of Kerry is 2 hours west, and the Blarney Stone is 8 km north.
+Cork is [Ireland](/ireland)'s second city and first food city — a compact, hilly port town at the mouth of the River Lee with a justified reputation for eating well, an assertive local identity (the "Rebel County" nickname is genuine in character if not in current politics), and proximity to some of the best coastal scenery in Munster. It's an easy base for southwest Ireland: Kinsale is 30 minutes south, the [Ring of Kerry](/ireland/ring-of-kerry-guide) is 2 hours west, and the Blarney Stone is 8 km north.
 
 ---
 
@@ -78,7 +78,7 @@ Cork is built on an island in the River Lee — the city center is between two c
 
 ## Practical Notes
 
-**Getting there**: Cork Kent Station is 2.5 hours from Dublin Heuston on Irish Rail. By bus (Bus Éireann or GoBus): 3.5 hours. Cork Airport (ORK): Ryan Air and Aer Lingus routes to London, Amsterdam, and other European cities.
+**Getting there**: Cork Kent Station is 2.5 hours from [Dublin](/ireland/dublin-travel-guide) Heuston on Irish Rail. By bus (Bus Éireann or GoBus): 3.5 hours. Cork Airport (ORK): Ryan Air and Aer Lingus routes to London, Amsterdam, and other European cities.
 
 **Getting around**: Cork is compact and hilly — walking is the best way to see the city. For Kinsale and Blarney, a car or organized tour is necessary.
 

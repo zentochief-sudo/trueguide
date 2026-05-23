@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-France is the world's most-visited country for good reason: it does everything well. The food is extraordinary, the landscapes are varied, the art is world-class, and Paris alone can occupy a week without exhausting itself. This itinerary splits the time wisely — Paris first, then the countryside.
+[France](/france) is the world's most-visited country for good reason: it does everything well. The food is extraordinary, the landscapes are varied, the art is world-class, and [Paris](/france/paris-travel-guide) alone can occupy a week without exhausting itself. This itinerary splits the time wisely — Paris first, then the countryside.
 
 ## Days 1–3 – Paris
 
@@ -22,13 +22,13 @@ Evening: explore **Saint-Germain-des-Prés** — Paris's intellectual left bank 
 
 Afternoon in **Le Marais** — Paris's historic Jewish quarter turned fashionable neighbourhood. The **Place des Vosges** (Paris's oldest planned square, 1612), **Musée Picasso**, and the boutique-lined streets around the **Rue de Bretagne** market.
 
-**Day 3 – Montmartre & Versailles:** Morning: walk up to **Montmartre** — the hilltop village-within-the-city. **Sacré-Cœur Basilica** at the top, the cobbled **Place du Tertre** (tourists yes, but atmospheric), and the steep streets descending through cafés and art studios.
+**Day 3 – Montmartre & [Versailles](/france/versailles-guide):** Morning: walk up to **Montmartre** — the hilltop village-within-the-city. **Sacré-Cœur Basilica** at the top, the cobbled **Place du Tertre** (tourists yes, but atmospheric), and the steep streets descending through cafés and art studios.
 
 Afternoon: take the RER C train to the **Palace of Versailles** (45 min, €7.50 transport + €20–25 entry). Book timed entry online. The Hall of Mirrors alone justifies the visit — 73 metres of gilded mirrors and chandeliers. The gardens are vast and free (fountain shows on weekends, €10 extra).
 
 ## Day 4 – Loire Valley Châteaux
 
-Rent a car or take an organised day tour from Paris (2.5 hours southwest). The Loire Valley is UNESCO-listed — a river lined with Renaissance châteaux built by French kings.
+Rent a car or take an organised day tour from Paris (2.5 hours southwest). The [Loire Valley](/france/loire-valley-guide) is UNESCO-listed — a river lined with Renaissance châteaux built by French kings.
 
 **Château de Chambord** is the largest and most spectacular — 440 rooms and the famous double-helix staircase (possibly designed by Leonardo da Vinci). **Château de Chenonceau** spans the Cher River on stone arches — the most elegant château in France. Both can be visited in a day with a car.
 
@@ -38,7 +38,7 @@ Stay overnight in **Amboise** or **Blois** — attractive Loire towns with their
 
 Take the TGV high-speed train from Paris or Tours to **Avignon** (2.5 hours from Paris). Avignon was the seat of the Catholic papacy for much of the 14th century — the **Palais des Papes** is an enormous Gothic fortress-palace, the largest Gothic building in the world. Walk across the famous **Pont d'Avignon** (actually just half a bridge — it was never completed).
 
-Explore the **Luberon villages** by car: **Gordes** (voted France's most beautiful village), **Roussillon** (ochre-coloured houses from local quarries), and **Les Baux-de-Provence** (medieval ruins on a dramatic limestone spur). Lavender fields bloom late June–July.
+Explore the **Luberon villages** by car: **Gordes** (voted France's most beautiful village), **Roussillon** (ochre-coloured houses from local quarries), and **Les Baux-de-[Provence](/france/provence-guide)** (medieval ruins on a dramatic limestone spur). Lavender fields bloom late June–July.
 
 ## Day 6 – French Riviera: Nice
 

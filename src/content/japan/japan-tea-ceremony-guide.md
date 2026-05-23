@@ -68,7 +68,7 @@ A formal *chaji* takes 4–5 hours; an informal demonstration for visitors takes
 
 **Ura Senke Headquarters** (*裏千家今日庵*): One of the three main schools of tea ceremony (founded by Sen no Rikyu's grandson), with headquarters in the Nishijin district near Daitoku-ji. The school offers occasional public programs; inquire through their cultural exchange program (urasenke.or.jp).
 
-**Camellia Tea Experience** (Gion): One of the most accessible and well-reviewed English-language tea ceremony experiences in Kyoto — 45-minute sessions including explanation of the ceremony, wagashi, and matcha preparation in a preserved Gion machiya. ¥3,500 per person. Reservations at en.camellia-kyoto.com.
+**Camellia Tea Experience** (Gion): One of the most accessible and well-reviewed English-language tea ceremony experiences in [Kyoto](/japan/kyoto-guide) — 45-minute sessions including explanation of the ceremony, wagashi, and matcha preparation in a preserved Gion machiya. ¥3,500 per person. Reservations at en.camellia-kyoto.com.
 
 **Ju-An** (near Nishiki Market): A formal tea room offering private and group sessions with English-speaking instruction. Higher-end, with emphasis on the ceremony over the tourist explanation.
 

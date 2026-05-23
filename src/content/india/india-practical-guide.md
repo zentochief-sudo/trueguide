@@ -10,7 +10,7 @@ tags: [India, practical, visa, train, IRCTC, costs, budget, health, culture, tra
 city: delhi
 ---
 
-India is one of the most rewarding travel destinations in the world and one of the most demanding. The country rewards patience and preparation more than almost anywhere else — understanding the transport system, the visa process, and the basic cultural codes transforms the experience from overwhelming to manageable.
+[India](/india) is one of the most rewarding travel destinations in the world and one of the most demanding. The country rewards patience and preparation more than almost anywhere else — understanding the transport system, the visa process, and the basic cultural codes transforms the experience from overwhelming to manageable.
 
 ---
 
@@ -37,10 +37,10 @@ India's rail network is the fourth-largest in the world and the most practical w
 
 **Tatkal quota**: Last-minute tickets (booked 1 day before departure) at 30–50% premium. Available for most trains. Useful when the main quota is sold out.
 
-**Train selection**: Rajdhani (fastest, high-speed, Delhi–major cities), Shatabdi (day service, fast), Superfast and Mail/Express (slower overnight services). The **Gatimaan Express** (Delhi–Agra) and the **Vande Bharat Express** (new semi-high-speed network) are the flagship trains.
+**Train selection**: Rajdhani (fastest, high-speed, [Delhi](/india/delhi-guide)–major cities), Shatabdi (day service, fast), Superfast and Mail/Express (slower overnight services). The **Gatimaan Express** (Delhi–Agra) and the **Vande Bharat Express** (new semi-high-speed network) are the flagship trains.
 
 ### Domestic Flights
-**IndiGo**, **Air India**, **SpiceJet**, and **GoFirst** cover all major routes. Booked in advance (3–4 weeks), Delhi–Mumbai costs ₹2,500–5,000; Delhi–Kochi ₹3,000–8,000. Indian domestic airports are functional if crowded; allow 2 hours for check-in.
+**IndiGo**, **Air India**, **SpiceJet**, and **GoFirst** cover all major routes. Booked in advance (3–4 weeks), Delhi–[Mumbai](/india/mumbai-guide) costs ₹2,500–5,000; Delhi–Kochi ₹3,000–8,000. Indian domestic airports are functional if crowded; allow 2 hours for check-in.
 
 ### City Transport
 **Ola and Uber**: Available in all major cities — the most reliable way to get a metered fare. More reliable than auto-rickshaws for unfamiliar routes.
@@ -62,10 +62,10 @@ India is the most affordable travel destination in Asia for quality of experienc
 - **Domestic flight (Delhi–Mumbai)**: ₹2,500–8,000
 - **AC 2A train (Delhi–Agra, 2.5 hours)**: ₹600–800
 - **Budget guesthouse**: ₹600–1,200/night
-- **Heritage hotel (Rajasthan)**: ₹4,000–15,000/night
+- **Heritage hotel ([Rajasthan](/india/rajasthan-guide))**: ₹4,000–15,000/night
 - **Taj Mahal entry (foreigner)**: ₹1,300
 
-**Regional variation**: Rajasthan and Goa are the most expensive for tourism accommodation. Delhi and Mumbai are more expensive for food and lodging than smaller cities but still very affordable by global standards.
+**Regional variation**: Rajasthan and [Goa](/india/goa-guide) are the most expensive for tourism accommodation. Delhi and Mumbai are more expensive for food and lodging than smaller cities but still very affordable by global standards.
 
 ---
 
@@ -97,4 +97,4 @@ India is the most affordable travel destination in Asia for quality of experienc
 
 - **October–February**: Best for most of India — comfortable temperatures, dry
 - **March–May**: Hot and increasingly dry; Rajasthan reaches 45°C in May
-- **June–September**: Monsoon — extraordinary landscape transformation; intense rain particularly in Kerala and Goa; some mountain areas (Ladakh, Spiti) are accessible only in summer
+- **June–September**: Monsoon — extraordinary landscape transformation; intense rain particularly in [Kerala](/india/kerala-guide) and Goa; some mountain areas (Ladakh, Spiti) are accessible only in summer

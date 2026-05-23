@@ -46,10 +46,10 @@ The temple is on the slopes of Gayasan, approached through a forest of ancient t
 
 The largest temple complex in Korea by land area, with over 65 subtemples and hermitages spread across the Yeongchuksan mountain. The main complex is substantial; the surrounding forest walk to the satellite hermitages takes hours.
 
-**Access**: Bus from Busan or Ulsan; 30-minute taxi or shuttle from Yangsan station.
+**Access**: Bus from [Busan](/korea/busan-guide) or Ulsan; 30-minute taxi or shuttle from Yangsan station.
 
 ### Bulguksa (불국사) — Gyeongju
-**Why visit**: The most visited temple in Korea, and the UNESCO-listed centerpiece of Gyeongju's Buddhist heritage. Built in 528 CE under the Silla Kingdom, rebuilt extensively in the 8th century, and meticulously restored in the 20th century — the complex represents the apex of Silla-period Buddhist art and architecture.
+**Why visit**: The most visited temple in Korea, and the UNESCO-listed centerpiece of [Gyeongju](/korea/gyeongju-guide)'s Buddhist heritage. Built in 528 CE under the Silla Kingdom, rebuilt extensively in the 8th century, and meticulously restored in the 20th century — the complex represents the apex of Silla-period Buddhist art and architecture.
 
 The stone staircases (Cheongungyo and Baegungyo — the Blue Cloud and White Cloud bridges) rising to the main hall are the defining image. Inside: two stone pagodas (the perfectly symmetrical Dabotap and the simple Seokgatap), the Amitabha Buddha hall overlooking the Gyeongju plain.
 

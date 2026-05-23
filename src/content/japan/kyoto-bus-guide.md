@@ -10,7 +10,7 @@ tags: [Kyoto bus, Kyoto transport, getting around Kyoto, Kyoto City Bus, IC card
 city: kyoto
 ---
 
-Kyoto's temple districts are spread across a city that has fewer subway lines than its tourist density would suggest — the Higashiyama hills, Arashiyama, Ohara, and Kurama are all accessible primarily by bus. Understanding the bus system removes most of the navigation friction from a Kyoto visit.
+[Kyoto](/japan/kyoto-guide)'s temple districts are spread across a city that has fewer subway lines than its tourist density would suggest — the Higashiyama hills, Arashiyama, Ohara, and Kurama are all accessible primarily by bus. Understanding the bus system removes most of the navigation friction from a Kyoto visit.
 
 ---
 
@@ -66,7 +66,7 @@ The **100 series** (100, 101, 102) are express routes that skip intermediate sto
 
 ## The Congestion Reality
 
-Kyoto's buses are crowded. On spring and autumn weekends (cherry blossom and foliage seasons), peak routes — particularly the 100 and routes to Arashiyama — can fill to standing capacity, with multiple buses passing before you can board.
+Kyoto's buses are crowded. On spring and autumn weekends ([cherry blossom](/japan/cherry-blossom-guide) and foliage seasons), peak routes — particularly the 100 and routes to Arashiyama — can fill to standing capacity, with multiple buses passing before you can board.
 
 **Strategies**:
 - Arrive at your first destination early (9am opening) and finish the popular sites by midday
@@ -82,7 +82,7 @@ Kyoto has two subway lines:
 
 **Karasuma Line (north-south)**: Kyoto Station → Shijo → Karasuma Oike → Imadegawa → Kitaoji → Kokusaikaikan. Useful for Nijo-jo (Oike Station), Imperial Palace (Imadegawa), and Daitokuji (Kitaoji, then bus or 15-minute walk).
 
-**Tozai Line (east-west)**: Keage → Higashiyama → Shijo Karasuma → Nijo → Uzumasa Tenjingawa. Useful for Gion Shijo area (Higashiyama Station: 5-minute walk to Maruyama Park) and Fushimi Inari (not direct — transfer to JR Nara Line at Tofukuji).
+**Tozai Line (east-west)**: Keage → Higashiyama → Shijo Karasuma → Nijo → Uzumasa Tenjingawa. Useful for Gion Shijo area (Higashiyama Station: 5-minute walk to Maruyama Park) and Fushimi Inari (not direct — transfer to JR [Nara](/japan/nara-guide) Line at Tofukuji).
 
 **Combined day pass (¥1,600)**: Covers unlimited subway rides plus buses for one day. Worth it on heavy sightseeing days crossing multiple areas.
 

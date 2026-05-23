@@ -75,7 +75,7 @@ Practically: wearing hanbok at the palace in morning light is the optimum photog
 
 **Beyond the palaces**: Bukchon Hanok Village in hanbok is the second primary use case — the streets of traditional houses provide a consistent architectural backdrop. Insadong (traditional craft street) is a third option.
 
-The *saenghwal hanbok* (daily hanbok) phenomenon has also made hanbok visible outside the tourist circuit — small shops in Insadong, Jeonju Hanok Village, and the Hongdae area sell contemporary hanbok adaptations that can be worn as normal clothing. If you want to buy rather than rent, these modern interpretations are functional and increasingly stylish.
+The *saenghwal hanbok* (daily hanbok) phenomenon has also made hanbok visible outside the tourist circuit — small shops in Insadong, [Jeonju](/korea/jeonju-guide) Hanok Village, and the Hongdae area sell contemporary hanbok adaptations that can be worn as normal clothing. If you want to buy rather than rent, these modern interpretations are functional and increasingly stylish.
 
 ---
 

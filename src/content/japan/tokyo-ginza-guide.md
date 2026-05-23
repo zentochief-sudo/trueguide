@@ -10,7 +10,7 @@ tags: [Ginza, Tokyo, Japan, luxury shopping, art galleries, Itoya, Kabukiza, dep
 city: tokyo
 ---
 
-Ginza takes its name from the silver mint (*gin-za*, silver seat) established here in the Edo period. The district became Tokyo's first Western-style commercial street after an 1872 fire destroyed the original neighborhood and the Meiji government rebuilt it in brick — the first non-wooden commercial district in Japan. The wide central boulevard, the Western architecture, and the aspiration to European commercial prestige have defined Ginza ever since.
+Ginza takes its name from the silver mint (*gin-za*, silver seat) established here in the Edo period. The district became [Tokyo](/japan/tokyo-guide)'s first Western-style commercial street after an 1872 fire destroyed the original neighborhood and the Meiji government rebuilt it in brick — the first non-wooden commercial district in Japan. The wide central boulevard, the Western architecture, and the aspiration to European commercial prestige have defined Ginza ever since.
 
 Today it is the address of Japan's oldest and most established department stores (Mitsukoshi, Matsuya, Wako), the flagship stores of every major international luxury brand, the city's most concentrated gallery district, and the Kabukiza theater. It is also, on weekends, a *hokōsha tengoku* — a pedestrian paradise, when Chuo-dori closes to cars and the boulevard becomes a walking street.
 

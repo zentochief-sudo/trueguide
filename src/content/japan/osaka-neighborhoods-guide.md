@@ -10,7 +10,7 @@ tags: [Osaka, neighborhoods, districts, Namba, Umeda, Shinsekai, Nakazakicho, Fu
 city: Osaka
 ---
 
-Osaka divides roughly into north (Kita) and south (Minami) — the locals' primary geographic orientation. Umeda is the north's center; Namba is the south's. Between and around them are neighborhoods with distinct characters that take multiple visits to fully appreciate. Here's the district-by-district breakdown.
+[Osaka](/japan/osaka-guide) divides roughly into north (Kita) and south (Minami) — the locals' primary geographic orientation. Umeda is the north's center; Namba is the south's. Between and around them are neighborhoods with distinct characters that take multiple visits to fully appreciate. Here's the district-by-district breakdown.
 
 ## Namba / Dotonbori / Shinsaibashi — The Center
 
@@ -20,7 +20,7 @@ The most visited zone in Osaka — the intersection of entertainment, food, shop
 
 **Shinsaibashi:** The primary shopping street of central Osaka — the covered Shinsaibashi-suji shotengai (shopping arcade) running 600 meters from Shinsaibashi Station to Dotonbori. Mix of luxury brands, fast fashion, and local shops.
 
-**Amerikamura (America Village):** The youth culture district west of Shinsaibashi — vintage clothing, streetwear, independent cafés, record shops, and the Triangle Park gathering point for youth subcultures. Osaka's answer to Tokyo's Harajuku.
+**Amerikamura (America Village):** The youth culture district west of Shinsaibashi — vintage clothing, streetwear, independent cafés, record shops, and the Triangle Park gathering point for youth subcultures. Osaka's answer to [Tokyo](/japan/tokyo-guide)'s Harajuku.
 
 **Nipponbashi (Den-Den Town):** The electronics and anime district — Osaka's equivalent of Akihabara. Gaming merchandise, anime figures, electronics, and retro game shops along the Namba to Ebisucho stretch.
 
@@ -105,7 +105,7 @@ The traditional merchant and temple corridor running north-south through central
 
 **Tanimachi Rokuchome / Shichome:** The craft and antiques district — shops selling lacquerware, ceramics, Buddhist goods, and traditional household items. The area around Tennoji is particularly rich in traditional craft shops.
 
-**Osaka Museum of History (Tanimachi 4-chome):** The 10-story museum overlooking Osaka Castle — the floors trace Osaka's history from the Naniwa Palace era through the merchant city period. Excellent English signage.
+**Osaka Museum of History (Tanimachi 4-chome):** The 10-story museum overlooking [Osaka Castle](/japan/osaka-castle-guide) — the floors trace Osaka's history from the Naniwa Palace era through the merchant city period. Excellent English signage.
 
 **Tanimachi Juichome area:** One of the more low-key residential areas — traditional shotengai (shopping arcades) with local butchers, fishmongers, and grocers serving the neighborhood population.
 

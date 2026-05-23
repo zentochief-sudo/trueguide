@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Italy is the classic grand tour — and rightly so. This itinerary moves from ancient Rome and the volcanic south to the Renaissance art of Tuscany and the canals of Venice, following a logical north-south arc that builds on itself geographically and experientially.
+Two weeks in [Italy](/italy) is the classic grand tour — and rightly so. This itinerary moves from ancient [Rome](/italy/rome-guide) and the volcanic south to the Renaissance art of Tuscany and the canals of Venice, following a logical north-south arc that builds on itself geographically and experientially.
 
 ## Days 1–3 – Rome
 
@@ -68,7 +68,7 @@ High-speed train from Florence to Venice (2 hours). Venice requires two full day
 
 ## Days 13–14 – Lake Como or the Dolomites
 
-**Option A – Lake Como:** Take the train to Como (90 min from Venice via Milan). The lake is ringed by villas, gardens, and mountains. Take the ferry between towns — **Bellagio**, **Varenna**, and **Menaggio** are the most beautiful. Stay at a lakeside hotel for the full experience.
+**Option A – [Lake Como](/italy/lake-como-guide):** Take the train to Como (90 min from Venice via [Milan](/italy/milan-travel-guide)). The lake is ringed by villas, gardens, and mountains. Take the ferry between towns — **Bellagio**, **Varenna**, and **Menaggio** are the most beautiful. Stay at a lakeside hotel for the full experience.
 
 **Option B – The Dolomites:** Drive north from Venice into the UNESCO-listed Dolomite mountains — jagged pink-orange limestone peaks rising above alpine meadows. **Cortina d'Ampezzo** is the base for hiking, cycling, and the most dramatic mountain scenery in the Alps.
 

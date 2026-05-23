@@ -54,7 +54,7 @@ A counter or table restaurant where sushi is pressed to order. The range is enor
 
 The highest tier: no menu, the chef decides. You sit at the counter (typically 8–12 seats), the chef presents each piece individually, explains the fish and preparation, and adjusts the progression based on your response. The experience ranges from 8 to 20+ pieces over 1.5–2 hours.
 
-Price range: ¥15,000–80,000+ per person. Tokyo's top counters (*Saito*, *Sawada*, *Sushi Sho*) require years of reservation lead time and institutional contacts. The second tier of excellent omakase counter experiences — still Michelin-starred or equivalent — is bookable via Tableall, Omakase, or Pocket Concierge apps 1–3 months in advance at ¥20,000–35,000 per person.
+Price range: ¥15,000–80,000+ per person. [Tokyo](/japan/tokyo-guide)'s top counters (*Saito*, *Sawada*, *Sushi Sho*) require years of reservation lead time and institutional contacts. The second tier of excellent omakase counter experiences — still Michelin-starred or equivalent — is bookable via Tableall, Omakase, or Pocket Concierge apps 1–3 months in advance at ¥20,000–35,000 per person.
 
 ---
 
@@ -80,7 +80,7 @@ Price range: ¥15,000–80,000+ per person. Tokyo's top counters (*Saito*, *Sawa
 - **Hamachi / Buri**: Yellowtail (young fish = hamachi; adult = buri). Rich, fatty, excellent in winter.
 - **Tai**: Sea bream — the traditional celebration fish, clean white flesh.
 - **Ika**: Squid. Prepared in multiple ways (*surume*, *yari*, *aori*).
-- **Ebi**: Shrimp. *Botan-ebi* (raw spot prawn) is the luxury version; *ama-ebi* (sweet shrimp, raw) is available primarily in Hokkaido.
+- **Ebi**: Shrimp. *Botan-ebi* (raw spot prawn) is the luxury version; *ama-ebi* (sweet shrimp, raw) is available primarily in [Hokkaido](/japan/hokkaido-guide).
 - **Uni**: Sea urchin roe. *Murasaki-uni* (purple sea urchin) and *bafun-uni* (short-spined sea urchin, richer) are the two main types. Quality varies enormously; the worst is acrid, the best is sweetly oceanic.
 - **Ikura**: Salmon roe. The individual spheres should burst cleanly with a pop.
 - **Anago**: Conger eel, simmered in *tsume* sauce — the classic Edo-mae finishing piece.
@@ -98,4 +98,4 @@ Price range: ¥15,000–80,000+ per person. Tokyo's top counters (*Saito*, *Sawa
 
 ---
 
-Sushi culture in Japan rewards curiosity at every level. The ¥100 kaiten piece eaten at 11:30am when the belt is fresh can be technically excellent. The omakase counter at ¥30,000 adds dimension — the chef's knowledge of the fish, the sequence, the aging, the conversation — but the fish itself at the counter sushi bar near your ryokan is often from the same source. The difference is context, not always quality.
+Sushi culture in Japan rewards curiosity at every level. The ¥100 kaiten piece eaten at 11:30am when the belt is fresh can be technically excellent. The omakase counter at ¥30,000 adds dimension — the chef's knowledge of the fish, the sequence, the aging, the conversation — but the fish itself at the counter sushi bar near your [ryokan](/japan/ryokan-guide) is often from the same source. The difference is context, not always quality.

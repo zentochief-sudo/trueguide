@@ -34,7 +34,7 @@ Texas barbecue is specifically beef-centric — unlike the pork-focused traditio
 
 ## Tex-Mex
 
-Tex-Mex is not Mexican food — it is a specific cuisine that developed along the Texas-Mexico border, evolved through the 20th century in Texas cities, and produced dishes (the combination plate, the cheese enchilada with gravy, the puffy taco, chile con queso) that exist nowhere else with the same authenticity.
+Tex-Mex is not Mexican food — it is a specific cuisine that developed along the Texas-[Mexico](/mexico) border, evolved through the 20th century in Texas cities, and produced dishes (the combination plate, the cheese enchilada with gravy, the puffy taco, chile con queso) that exist nowhere else with the same authenticity.
 
 **El Fenix** (multiple Dallas locations): Founded in 1918, El Fenix is the grandmother of Dallas Tex-Mex. The combination plate — enchiladas, rice, beans, and a crispy taco — is the reason to go. Nothing here is surprising; everything is executed correctly. Budget $12–18.
 

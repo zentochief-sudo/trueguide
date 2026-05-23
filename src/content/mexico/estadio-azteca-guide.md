@@ -10,7 +10,7 @@ tags: [Estadio Azteca, Ciudad de México, World Cup 2026, FIFA, estadio, partido
 city: cdmx
 ---
 
-Estadio Azteca is the only football stadium in history to have hosted two World Cup finals. Inaugurated in 1966, the Azteca hosted Mexico 1970 (final: Brazil 4 – Italy 1) and Mexico 1986 (final: Argentina 3 – West Germany 2). At that same 1986 tournament, Diego Maradona scored both the "Hand of God Goal" and the "Goal of the Century" here against England — a match that played out 10 meters from where you'll be sitting.
+Estadio Azteca is the only football stadium in history to have hosted two World Cup finals. Inaugurated in 1966, the Azteca hosted [Mexico](/mexico) 1970 (final: Brazil 4 – [Italy](/italy) 1) and Mexico 1986 (final: Argentina 3 – West Germany 2). At that same 1986 tournament, Diego Maradona scored both the "Hand of God Goal" and the "Goal of the Century" here against England — a match that played out 10 meters from where you'll be sitting.
 
 For the 2026 World Cup, the Azteca hosts the tournament's opening match along with the most important group stage matches and a quarterfinal.
 

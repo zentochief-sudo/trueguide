@@ -42,7 +42,7 @@ Immediately south of Santa Monica, Venice is looser, grittier, and more interest
 
 ## Hollywood
 
-Hollywood is misunderstood. The Walk of Fame is tacky. The tourist zone around the TCL Chinese Theatre is best experienced once and quickly. But the neighborhood's infrastructure is excellent: the **B Line (Red Line)** runs directly through it, connecting to downtown Union Station in 20 minutes.
+[Hollywood](/united-states/hollywood-guide) is misunderstood. The Walk of Fame is tacky. The tourist zone around the TCL Chinese Theatre is best experienced once and quickly. But the neighborhood's infrastructure is excellent: the **B Line (Red Line)** runs directly through it, connecting to downtown Union Station in 20 minutes.
 
 The area north of the boulevard — the **Hollywood Hills**, Beachwood Canyon, Runyon Canyon — is a different place entirely. Hiking trails, canyon houses, quiet streets. **Runyon Canyon** is a free hike with panoramic city views that takes about 45 minutes at a casual pace.
 
@@ -74,7 +74,7 @@ Downtown Los Angeles has been in a state of revival for 15 years and is genuinel
 
 **Grand Central Market** on Broadway is the essential food stop — a 1917 market hall with vendors ranging from a top-rated Thai spot (**Sticky Rice**) to old-school egg sandwiches at **Eggslut** (the original location). Budget $15–20 for a full meal.
 
-**Little Tokyo**, adjacent to the Arts District, has Japanese grocery stores, ramen, sushi, and the Japanese American National Museum. **Chinatown**, a short walk north, is smaller than San Francisco's but has authentic Cantonese restaurants that most visitors never find.
+**Little Tokyo**, adjacent to the Arts District, has Japanese grocery stores, ramen, sushi, and the Japanese American National Museum. **Chinatown**, a short walk north, is smaller than [San Francisco](/united-states/san-francisco-guide)'s but has authentic Cantonese restaurants that most visitors never find.
 
 **To stay**: $170–280/night. The **JW Marriott** at LA Live is directly connected to the Crypto.com Arena and Staples Center complex. The **NoMad Los Angeles** in the historic Bank of California building is the most architecturally interesting hotel in the city.
 
@@ -86,7 +86,7 @@ West Hollywood is its own incorporated city (since 1984), bordered by Beverly Hi
 
 The neighborhood is particularly known for its LGBTQ+ community, its nightlife, and the stretch of **Sunset Strip** that still carries faint echoes of the 1970s rock-and-roll era (the Whisky a Go Go, the Roxy, the Rainbow Bar and Grill are all still operating).
 
-There is no Metro station in WeHo — this is the neighborhood's one significant disadvantage. Rideshare from WeHo to SoFi Stadium will run $50–80 on a normal day, more on match days. Many visitors use it as a base for restaurants and nightlife while taking Metro from adjacent neighborhoods for stadium trips.
+There is no Metro station in WeHo — this is the neighborhood's one significant disadvantage. Rideshare from WeHo to [SoFi Stadium](/united-states/sofi-stadium-guide) will run $50–80 on a normal day, more on match days. Many visitors use it as a base for restaurants and nightlife while taking Metro from adjacent neighborhoods for stadium trips.
 
 **To stay**: $200–350/night for standard hotels. The Mondrian on Sunset is the classic see-and-be-seen property. The **Farmer's Daughter Hotel** across from the Original Farmers Market offers genuine WeHo character at lower rates.
 

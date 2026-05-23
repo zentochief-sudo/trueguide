@@ -10,7 +10,7 @@ tags: [Japan, autumn foliage, momiji, koyo, seasonal, temples, gardens, Kyoto, N
 city: national
 ---
 
-Japan's autumn foliage season — *koyo* (紅葉) — runs from mid-September in Hokkaido to late December in southern Kyushu. It moves southward and downward in elevation at a rate of roughly 70 km per day, giving the country a six-week window during which some region is always at peak color. Tracking it is a national preoccupation: weather services publish weekly *koyo* forecasts with front maps as detailed as cherry blossom tracking.
+Japan's autumn foliage season — *koyo* (紅葉) — runs from mid-September in [Hokkaido](/japan/hokkaido-guide) to late December in southern Kyushu. It moves southward and downward in elevation at a rate of roughly 70 km per day, giving the country a six-week window during which some region is always at peak color. Tracking it is a national preoccupation: weather services publish weekly *koyo* forecasts with front maps as detailed as [cherry blossom](/japan/cherry-blossom-guide) tracking.
 
 The experience at the best spots — a maple-covered hillside at dusk, a garden pond reflecting orange and red, a mountain path through copper-colored maples — is comparable to sakura season in visual intensity. Hotel prices reflect this: popular destinations in peak weeks are booked months ahead.
 
@@ -40,7 +40,7 @@ Hokkaido has Japan's earliest autumn foliage, typically 4–6 weeks ahead of the
 
 **Sounkyo Gorge** — the canyon walls reach peak color in late September to early October. The basalt columns of the gorge walls, combined with the maple and mountain ash turning red and orange, make this one of Hokkaido's most photographed autumn landscapes.
 
-**Noboribetsu / Jozankei Onsen** (near Sapporo) — popular weekend destinations from Sapporo for koyo combined with onsen bathing. Peak typically early October.
+**Noboribetsu / Jozankei Onsen** (near [Sapporo](/japan/sapporo-guide)) — popular weekend destinations from Sapporo for koyo combined with onsen bathing. Peak typically early October.
 
 ---
 
@@ -56,7 +56,7 @@ Hokkaido has Japan's earliest autumn foliage, typically 4–6 weeks ahead of the
 
 ## Nikko — Late October to Mid-November
 
-Nikko's forested mountain setting makes it one of the best non-Kyoto destinations for autumn color. The cedar avenues, the temple compounds, and the Kegon Falls area all peak simultaneously.
+[Nikko](/japan/nikko-guide)'s forested mountain setting makes it one of the best non-[Kyoto](/japan/kyoto-guide) destinations for autumn color. The cedar avenues, the temple compounds, and the Kegon Falls area all peak simultaneously.
 
 The **Irohazaka switchback road** to Lake Chuzenji — 47 hairpin turns through maple forest — is at its most dramatic when the canopy closes overhead in orange and red. The color is visible from the road; descend on the inner road (Irohazaka 1) and ascend on the outer road (Irohazaka 2) to see both perspectives.
 
@@ -88,7 +88,7 @@ Kyoto is the apex of the Japanese autumn foliage experience — the density of t
 
 ## Nara and the Yoshino Mountains
 
-**Nara Park** — the ginkgo trees along the main approach avenues turn yellow in late November. The combination of deer, colored leaves, and Nandaimon gate is specifically Nara's autumn aesthetic.
+**[Nara](/japan/nara-guide) Park** — the ginkgo trees along the main approach avenues turn yellow in late November. The combination of deer, colored leaves, and Nandaimon gate is specifically Nara's autumn aesthetic.
 
 **Yoshino** (Nara Prefecture, 90 minutes from Nara) — the mountain town famous for cherry blossoms in spring is equally compelling for autumn foliage. The four zones of mountain that are covered in sakura in spring turn crimson in autumn. Less visited than Kyoto but serious.
 
@@ -96,7 +96,7 @@ Kyoto is the apex of the Japanese autumn foliage experience — the density of t
 
 ## Kanazawa and the Japan Sea Coast — November
 
-The Kenroku-en garden at peak autumn color (late October–mid-November): the combination of the mature specimen trees — old pines, maples, ginkgo — and the garden's spatial design makes this one of the strongest autumn experiences outside Kyoto. The **yukizuri** rope structures go up in November, creating the specific Kanazawa winter-autumn overlap image.
+The Kenroku-en garden at peak autumn color (late October–mid-November): the combination of the mature specimen trees — old pines, maples, ginkgo — and the garden's spatial design makes this one of the strongest autumn experiences outside Kyoto. The **yukizuri** rope structures go up in November, creating the specific [Kanazawa](/japan/kanazawa-guide) winter-autumn overlap image.
 
 ---
 

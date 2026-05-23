@@ -10,13 +10,13 @@ tags: [SF Bay Area, San Francisco, neighborhoods, World Cup 2026, where to stay,
 city: sfbay
 ---
 
-The SF Bay Area World Cup geography creates a genuine accommodation decision that doesn't exist for most other venues: stay in San Francisco (best city, highest cost, longer stadium commute), stay in San Jose/Santa Clara (shorter commute, less interesting city), or stay in Oakland (lower cost, good food, easy Bay crossing). Each has a real case.
+The SF Bay Area World Cup geography creates a genuine accommodation decision that doesn't exist for most other venues: stay in [San Francisco](/united-states/san-francisco-guide) (best city, highest cost, longer stadium commute), stay in San Jose/Santa Clara (shorter commute, less interesting city), or stay in Oakland (lower cost, good food, easy Bay crossing). Each has a real case.
 
 ---
 
 ## San Francisco: The Mission District
 
-The Mission is San Francisco's most vibrant neighborhood — a grid of Victorian buildings in the flattest part of the city (avoiding SF's infamous hills), with the highest concentration of taquerias outside of Mexico City, a well-developed bar and coffee scene, and easy BART access.
+The Mission is San Francisco's most vibrant neighborhood — a grid of Victorian buildings in the flattest part of the city (avoiding SF's infamous hills), with the highest concentration of taquerias outside of [Mexico](/mexico) City, a well-developed bar and coffee scene, and easy BART access.
 
 **What makes it specific**: 24th Street and Valencia Street are the two main corridors. 24th Street is the historic Latino commercial strip — Mission Dolores (the original 1776 Spanish mission after which the neighborhood is named), the taqueria cluster (La Taqueria, Taqueria Cancún, El Farolito), the panaderías, the Latin music venues. Valencia Street is the newer, younger version — independent bookstores, wine bars, Thai restaurants, and the kind of dense walkable commercial strip that SF does better than most American cities.
 

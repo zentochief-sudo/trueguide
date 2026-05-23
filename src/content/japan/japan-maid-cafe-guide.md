@@ -99,4 +99,4 @@ For visitors interested in understanding contemporary Japanese pop culture from 
 
 For visitors with no interest in anime or idol culture — possibly not. The experience requires willing participation in the performance frame; approaching it from outside that cultural context reduces it to an expensive cup of coffee in a strange environment.
 
-The honest version: it's a 45-minute window into a specific corner of Tokyo's entertainment culture that genuinely doesn't exist elsewhere. Go once, engage with the format, and decide for yourself.
+The honest version: it's a 45-minute window into a specific corner of [Tokyo](/japan/tokyo-guide)'s entertainment culture that genuinely doesn't exist elsewhere. Go once, engage with the format, and decide for yourself.

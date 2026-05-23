@@ -10,7 +10,7 @@ tags: [France, practical, TGV, transport, costs, tips, travel guide, budget, Fre
 city: paris
 ---
 
-France is the most visited country in the world — and still manages to be genuinely confusing for visitors who arrive without understanding the basic social and logistical infrastructure. The country rewards preparation more than most.
+[France](/france) is the most visited country in the world — and still manages to be genuinely confusing for visitors who arrive without understanding the basic social and logistical infrastructure. The country rewards preparation more than most.
 
 ---
 
@@ -18,9 +18,9 @@ France is the most visited country in the world — and still manages to be genu
 
 ### TGV (Train à Grande Vitesse)
 France's high-speed rail network is the most developed in Europe. Key routes:
-- **Paris–Lyon**: 2 hours (normal train journey: 4 hours)
+- **[Paris](/france/paris-travel-guide)–Lyon**: 2 hours (normal train journey: 4 hours)
 - **Paris–Marseille**: 3 hours 20 minutes
-- **Paris–Bordeaux**: 2 hours 4 minutes
+- **Paris–[Bordeaux](/france/bordeaux-guide)**: 2 hours 4 minutes
 - **Paris–Nantes**: 2 hours 10 minutes
 - **Paris–Strasbourg**: 1 hour 47 minutes
 
@@ -34,7 +34,7 @@ France has an excellent motorway (*autoroute*) network, almost entirely tolled. 
 **Fuel**: Diesel (*gazole*) and petrol (*sans plomb* = unleaded). Supermarkets (Leclerc, Intermarché) have the cheapest fuel.
 
 ### Regional Trains (TER)
-The regional train network connects cities not on the TGV grid. Tickets on Trainline or at station machines. No high-speed equivalent — useful for Provence village-hopping, the Alsace wine route, Brittany coastal towns.
+The regional train network connects cities not on the TGV grid. Tickets on Trainline or at station machines. No high-speed equivalent — useful for [Provence](/france/provence-guide) village-hopping, the [Alsace](/france/alsace-guide) wine route, Brittany coastal towns.
 
 ---
 

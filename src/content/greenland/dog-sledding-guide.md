@@ -10,7 +10,7 @@ tags: [Greenland, dog sledding, sled dogs, Sisimiut, Ilulissat, winter, Arctic, 
 city: sisimiut
 ---
 
-Dog sledding in Greenland is not a tourist attraction — it is a working tradition that has been the primary form of winter transport in Arctic Greenland for at least 4,000 years. The Greenlandic dog (Grønlandshund) is a distinct breed, genetically one of the oldest domestic dog breeds in existence, and every team you encounter is working stock: strong, loud, and built for temperatures that regularly hit -20°C or below.
+Dog sledding in [Greenland](/greenland) is not a tourist attraction — it is a working tradition that has been the primary form of winter transport in Arctic Greenland for at least 4,000 years. The Greenlandic dog (Grønlandshund) is a distinct breed, genetically one of the oldest domestic dog breeds in existence, and every team you encounter is working stock: strong, loud, and built for temperatures that regularly hit -20°C or below.
 
 The sledding season runs from February to late April in most areas — the window when sea ice is thick enough for safe travel but daylight has returned after the polar night. March is optimal: stable ice, increasing daylight (8–12 hours by mid-month), and still-cold temperatures that keep trail conditions fast.
 
@@ -19,10 +19,10 @@ The sledding season runs from February to late April in most areas — the windo
 ## Where to Sled
 
 ### Sisimiut
-The southernmost town in Greenland where dog sledding is practiced (below the Arctic Circle, pack ice is unreliable). Sisimiut sits at 66°N — just north of the Circle — with access to fjord ice and inland routes toward the Sisimiut-Kangerlussuaq trail corridor. Multi-day expeditions inland toward Kangerlussuaq (roughly 160 km) are possible with experienced guides.
+The southernmost town in Greenland where dog sledding is practiced (below the Arctic Circle, pack ice is unreliable). [Sisimiut](/greenland/sisimiut-guide) sits at 66°N — just north of the Circle — with access to fjord ice and inland routes toward the Sisimiut-Kangerlussuaq trail corridor. Multi-day expeditions inland toward Kangerlussuaq (roughly 160 km) are possible with experienced guides.
 
 ### Ilulissat
-Further north (69°N) and more reliably icy. Ilulissat has one of the largest concentrations of registered sled dogs in Greenland — the town famously has more dogs than people. Tours from Ilulissat typically run across Disko Bay sea ice toward the Ilulissat Icefjord, offering the combination of active sledding with iceberg views.
+Further north (69°N) and more reliably icy. Ilulissat has one of the largest concentrations of registered sled dogs in Greenland — the town famously has more dogs than people. Tours from Ilulissat typically run across Disko Bay sea ice toward the [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide), offering the combination of active sledding with iceberg views.
 
 ### Aasiaat, Qasigiannguit, Kangaatsiaq
 Smaller communities with local mushers who offer less commercialized experiences. Reaching these requires internal Air Greenland flights; they reward visitors seeking more authentic, off-the-beaten-path experiences.
@@ -31,7 +31,7 @@ Smaller communities with local mushers who offer less commercialized experiences
 
 ## The Greenlandic Dog
 
-The Greenlandic dog is protected by law — south of the Arctic Circle, keeping the breed is prohibited to preserve its genetic purity. The dogs are not household pets. They live outside year-round, tethered in fan formation (the traditional Greenlandic hitch, as opposed to the tandem hitch used in Alaska and Canada), and are bonded to their team and musher through work, not affection.
+The Greenlandic dog is protected by law — south of the Arctic Circle, keeping the breed is prohibited to preserve its genetic purity. The dogs are not household pets. They live outside year-round, tethered in fan formation (the traditional Greenlandic hitch, as opposed to the tandem hitch used in Alaska and [Canada](/canada)), and are bonded to their team and musher through work, not affection.
 
 A standard team runs 8–16 dogs for a working sled. The fan hitch spreads dogs laterally across ice, giving each animal independent traction — essential when crossing sea ice of variable thickness. The lead dog in a fan configuration responds to voice commands; the musher steers with weight shifts and a snow hook for stopping.
 

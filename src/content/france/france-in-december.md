@@ -10,17 +10,17 @@ tags: [France, December, Christmas market, Alsace, Strasbourg, Paris, New Year, 
 city: national
 ---
 
-December is France's Christmas month — and France does Christmas with the accumulated aesthetic tradition of centuries. The Alsatian Christmas markets are the finest in the world. Paris in December is elegantly decorated and smaller crowds than July-August fill the museums. The ski season is beginning in the Alps. And New Year's Eve on the Champs-Élysées is a free public celebration with fireworks visible across the city. December France rewards planning; it also rewards showing up.
+December is [France](/france)'s Christmas month — and France does Christmas with the accumulated aesthetic tradition of centuries. The Alsatian Christmas markets are the finest in the world. [Paris](/france/paris-travel-guide) in December is elegantly decorated and smaller crowds than July-August fill the museums. The ski season is beginning in the Alps. And New Year's Eve on the Champs-Élysées is a free public celebration with fireworks visible across the city. December France rewards planning; it also rewards showing up.
 
 ## Weather in December
 
 **Paris:** 3°C to 10°C. Cold, sometimes rainy, occasionally foggy. The city under grey winter skies, illuminated by Christmas lights, is at its most cinematically beautiful. A proper winter coat is essential.
 
-**Alsace:** -1°C to 7°C. Cold, sometimes very cold. Snow on the Vosges mountains. The Christmas market villages in December snow are the images that define European winter travel.
+**[Alsace](/france/alsace-guide):** -1°C to 7°C. Cold, sometimes very cold. Snow on the Vosges mountains. The Christmas market villages in December snow are the images that define European winter travel.
 
 **Lyon:** 2°C to 8°C. Cold. The **Fête des Lumières** (Festival of Lights) transforms Lyon into one of the most extraordinary visual spectacles in France on the days around December 8.
 
-**Provence:** 5°C to 14°C. Cool but mild by Provençal standards. The Riviera remains the warmest part of France (8–16°C) — walking weather year-round.
+**[Provence](/france/provence-guide):** 5°C to 14°C. Cool but mild by Provençal standards. The Riviera remains the warmest part of France (8–16°C) — walking weather year-round.
 
 **French Alps:** Ski season fully operational. December snowpack depends on the year; higher resorts (above 2,000m) are more reliable.
 

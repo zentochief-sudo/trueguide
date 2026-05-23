@@ -10,7 +10,7 @@ tags: [Los Angeles, FIFA World Cup 2026, SoFi Stadium, LA travel, USA]
 city: la
 ---
 
-Los Angeles is hosting FIFA World Cup 2026 matches at SoFi Stadium in Inglewood — and the city around it is unlike any other World Cup venue on this list. This is a horizontal city of 13 million people spread across 500 square miles of basin, canyon, and coastline, held together by freeways and the stubborn belief that the next neighborhood might be better than this one. Understanding how it works before you arrive will save you from spending half your trip sitting in traffic.
+Los Angeles is hosting FIFA World Cup 2026 matches at [SoFi Stadium](/united-states/sofi-stadium-guide) in Inglewood — and the city around it is unlike any other World Cup venue on this list. This is a horizontal city of 13 million people spread across 500 square miles of basin, canyon, and coastline, held together by freeways and the stubborn belief that the next neighborhood might be better than this one. Understanding how it works before you arrive will save you from spending half your trip sitting in traffic.
 
 The matches take place in June and July. The weather is the best of any World Cup host city: dry, sunny, 26–32°C, almost no rain. The Pacific Ocean is 20 minutes from downtown. The food is exceptional. The traffic is as advertised.
 
@@ -22,7 +22,7 @@ The matches take place in June and July. The weather is the best of any World Cu
 
 The stadium does not have ideal public transport for a World Cup context. The **Metro K Line** (Crenshaw/LAX Line) has a stop at Inglewood — Fairview Heights, roughly 1.5 miles from the stadium. On match days, shuttles and enhanced bus service will operate from that station. The full journey from downtown LA by Metro is approximately 45–55 minutes.
 
-The other option is **rideshare**, but on match days Uber and Lyft prices surge severely — budget $60–120 each way from Hollywood or Santa Monica. If you're driving, parking lots near the stadium start at $50–80 on regular game days and will be higher for World Cup matches; the Google Maps routing algorithm during peak egress can add 90 minutes to a simple 10-mile trip.
+The other option is **rideshare**, but on match days Uber and Lyft prices surge severely — budget $60–120 each way from [Hollywood](/united-states/hollywood-guide) or Santa Monica. If you're driving, parking lots near the stadium start at $50–80 on regular game days and will be higher for World Cup matches; the Google Maps routing algorithm during peak egress can add 90 minutes to a simple 10-mile trip.
 
 The most practical strategy: take Metro to the K Line, pick up the shuttle. Buy a **TAP card** at any Metro station, load $20–30 on it, and use it throughout your trip.
 
@@ -68,7 +68,7 @@ Accept the following truth early: **Los Angeles is easier to navigate than its r
 
 ## Food Strategy
 
-Los Angeles has the best Mexican food outside Mexico, the best Korean food outside Korea, excellent Japanese food (particularly in Torrance and the San Gabriel Valley), and a farm-to-table Californian restaurant culture that is genuinely world-class.
+Los Angeles has the best Mexican food outside [Mexico](/mexico), the best Korean food outside Korea, excellent Japanese food (particularly in Torrance and the San Gabriel Valley), and a farm-to-table Californian restaurant culture that is genuinely world-class.
 
 The mistake most visitors make is eating in tourist zones. A $4 taco from a truck in Boyle Heights is better than a $22 taco at a hotel restaurant in Beverly Hills. **Grand Central Market** in downtown LA is the best single location for variety and value — a 1917 market hall with vendors serving everything from carnitas to Thai to excellent coffee.
 

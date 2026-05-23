@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks is enough to trace Spain's greatest arc — from Castilian Madrid through the flamenco south to Mediterranean Barcelona. This itinerary follows the high-speed rail network, so you skip internal flights and arrive in city centres, not airports.
+Two weeks is enough to trace [Spain](/spain)'s greatest arc — from Castilian Madrid through the flamenco south to Mediterranean [Barcelona](/spain/barcelona-travel-guide). This itinerary follows the high-speed rail network, so you skip internal flights and arrive in city centres, not airports.
 
 ## Days 1–3 – Madrid
 

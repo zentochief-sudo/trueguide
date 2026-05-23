@@ -10,7 +10,7 @@ tags: [Vancouver, budget, costs, World Cup 2026, accommodation, CAD]
 city: vancouver
 ---
 
-Vancouver is one of the most expensive cities in North America for accommodation — housing costs have made short-term rental prices among the highest in Canada. Food ranges dramatically: the Richmond food courts ($8–14 CAD per dish) and the East Side lunch spots are genuinely affordable, while the Yaletown restaurant corridor and the fine dining scene match any major international city. The Canadian dollar at approximately $0.73 USD / $0.55 GBP gives some relief for visitors from the US, UK, and Europe.
+Vancouver is one of the most expensive cities in North America for accommodation — housing costs have made short-term rental prices among the highest in [Canada](/canada). Food ranges dramatically: the Richmond food courts ($8–14 CAD per dish) and the East Side lunch spots are genuinely affordable, while the Yaletown restaurant corridor and the fine dining scene match any major international city. The Canadian dollar at approximately $0.73 USD / $0.55 GBP gives some relief for visitors from the US, UK, and Europe.
 
 ---
 
@@ -38,7 +38,7 @@ Vancouver's transit is affordable relative to the city's other costs.
 
 | Journey | Compass Card fare |
 |---|---|
-| Single 1-zone ride (downtown, BC Place) | $3.10 CAD |
+| Single 1-zone ride (downtown, [BC Place](/canada/bc-place-guide)) | $3.10 CAD |
 | Airport to downtown (incl. YVR surcharge) | $8.10 CAD each way |
 | Downtown to Richmond (2-zone) | $4.45 CAD |
 | Day pass (unlimited all modes) | $11.25 CAD |

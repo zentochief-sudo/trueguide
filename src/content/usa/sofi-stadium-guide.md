@@ -20,7 +20,7 @@ Understanding how it works before you arrive will save you significant time and 
 
 **Address**: 1001 Stadium Drive, Inglewood, CA 90301
 
-SoFi Stadium is part of the **Hollywood Park** development — a 298-acre mixed-use complex that also includes the YouTube Theater (a 6,000-seat concert venue), a casino, a hotel, and the Kia Forum (the former Great Western Forum, a legendary concert venue). The entire complex is designed as a walkable destination, which matters for pre-match planning.
+SoFi Stadium is part of the **[Hollywood](/united-states/hollywood-guide) Park** development — a 298-acre mixed-use complex that also includes the YouTube Theater (a 6,000-seat concert venue), a casino, a hotel, and the Kia Forum (the former Great Western Forum, a legendary concert venue). The entire complex is designed as a walkable destination, which matters for pre-match planning.
 
 The stadium has a translucent ethylene tetrafluoroethylene (ETFE) roof that covers all seats without fully enclosing the venue — air circulates through open sides. In June and July, this provides shade while allowing the Pacific Ocean breeze to move through. Temperatures inside are typically 2–4°C cooler than the surrounding area.
 

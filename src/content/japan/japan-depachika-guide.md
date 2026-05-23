@@ -22,7 +22,7 @@ Walking into a major depachika for the first time is disorienting in the best po
 The confectionery section is the depachika's visual centerpiece — counters from established wagashi houses selling seasonal sweets, mochi, yokan, monaka, and dorayaki alongside Western-style patisseries with individual tarts, chocolates, and macarons displayed under glass. Major brands like Toraya, Tsuruya Yoshinobu, Minamoto Kitchoan, and Higashiya maintain flagship depachika counters in the major stores.
 
 ### Bento and Prepared Foods
-An entire section dedicated to ready-to-eat food: premium bento from hotel kitchens, sushi sets, tonkatsu, grilled fish, steamed dumplings, salads, and side dishes sold by weight or portion. The quality level is substantially above convenience store bento. This is where Tokyo office workers buy lunch and families buy dinner on special occasions.
+An entire section dedicated to ready-to-eat food: premium bento from hotel kitchens, sushi sets, tonkatsu, grilled fish, steamed dumplings, salads, and side dishes sold by weight or portion. The quality level is substantially above convenience store bento. This is where [Tokyo](/japan/tokyo-guide) office workers buy lunch and families buy dinner on special occasions.
 
 ### Fresh Bread and Pastry
 Japanese bakeries (*pan-ya*) maintain depachika counters — milk bread (*shokupan*), croissants, melon pan, curry bread, and seasonal pastries. Several standalone bakery brands (like *Viron* in Tokyo) maintain depachika-level quality without the department store context.
@@ -49,19 +49,19 @@ The Ginza flagship maintains the highest presentation standards. Particularly st
 The original Nihonbashi location has a heritage feel — more traditional in product range, stronger in established Japanese brands. The prepared food section covers every regional cuisine.
 
 **Shibuya Hikarie / ShinQs** (B2–B3)
-The department store attached to Shibuya Hikarie has a more contemporary selection — better representation of newer pastry brands, Korean-influenced sweets, and younger Japanese food brands.
+The department store attached to Shibuya Hikarie has a more contemporary selection — better representation of newer pastry brands, Korean-influenced sweets, and younger [Japanese food](/japan/japanese-food-guide) brands.
 
 ### Osaka
 
 **Daimaru Shinsaibashi** (B1–B2)
-Osaka's best single depachika. The prepared food section reflects Osaka's food culture — better takoyaki, kushikatsu, and street food format items alongside traditional department store fare.
+[Osaka](/japan/osaka-guide)'s best single depachika. The prepared food section reflects Osaka's food culture — better takoyaki, kushikatsu, and street food format items alongside traditional department store fare.
 
 **Isetan Umeda** (B1)
 Strong confectionery section in the Umeda shopping complex.
 
 ### Kyoto
 
-**Takashimaya Kyoto** (B1–B2)
+**Takashimaya [Kyoto](/japan/kyoto-guide)** (B1–B2)
 The Shijo-Kawaramachi flagship is strong in Kyoto-specific wagashi brands — Kagizen Yoshifusa, Nakamura Tokichi, Tsujiri — that aren't easily found in Tokyo stores.
 
 ---
@@ -89,7 +89,7 @@ The most intense depachika experience of the year: *fukubukuro* (lucky bags) —
 ## Practical Tips
 
 - Depachika are in every major department store — not just the flagship Tokyo stores
-- The quality level at regional department stores in Kyoto, Osaka, Nagoya, and Fukuoka is comparable to Tokyo
+- The quality level at regional department stores in Kyoto, Osaka, [Nagoya](/japan/nagoya-guide), and [Fukuoka](/japan/fukuoka-guide) is comparable to Tokyo
 - Prices are 20–40% higher than equivalent items at supermarkets; the gap is justified by quality and presentation
 - Most items are designed to travel — packaging accounts for humidity and timing
 - The gift wrapping services are free and done expertly — a depachika purchase makes the best quality omiyage from any Japanese city

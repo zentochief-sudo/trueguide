@@ -12,7 +12,7 @@ city: hiroshima
 
 Itsukushima Shrine's torii gate rises from the sea and appears to float at high tide. The structure has stood here in some form since the 12th century; the current gate dates to 1875. At full tide, the water reaches the base of the shrine's boardwalk and the vermilion gate stands in open water. At low tide, visitors wade out and stand beneath it. Both experiences are worth having if you stay long enough.
 
-Miyajima (officially Itsukushima) is a small island accessible by a 10-minute ferry from Miyajima-guchi in Hiroshima prefecture. It is one of the *Nihon Sankei* — Japan's three famous views, a designation from the Edo period that includes Matsushima in Miyagi and Amanohashidate in Kyoto. The three were chosen for their combination of water, land, and structure. Miyajima remains the most visited of the three.
+Miyajima (officially Itsukushima) is a small island accessible by a 10-minute ferry from Miyajima-guchi in [Hiroshima](/japan/hiroshima-guide) prefecture. It is one of the *Nihon Sankei* — Japan's three famous views, a designation from the Edo period that includes Matsushima in Miyagi and Amanohashidate in [Kyoto](/japan/kyoto-guide). The three were chosen for their combination of water, land, and structure. Miyajima remains the most visited of the three.
 
 ---
 
@@ -20,7 +20,7 @@ Miyajima (officially Itsukushima) is a small island accessible by a 10-minute fe
 
 From Hiroshima, take the **JR Sanyo line** to Miyajima-guchi station (27 minutes from Hiroshima station). From there, two ferry companies cross to the island: the JR ferry (covered by JR Pass, ¥200 without) and the Matsudai Kisen ferry (¥200, slightly nicer boats). Both take 10 minutes; both go to the same pier.
 
-Day-trippers from Kyoto or Osaka can reach Hiroshima on the Shinkansen and add Miyajima the same day, though the combined journey works better as a two-day Hiroshima itinerary rather than a rushed single day.
+Day-trippers from Kyoto or [Osaka](/japan/osaka-guide) can reach Hiroshima on the Shinkansen and add Miyajima the same day, though the combined journey works better as a two-day Hiroshima itinerary rather than a rushed single day.
 
 ---
 
@@ -58,7 +58,7 @@ At the summit, a small building houses the **Garan** — a sacred fire that has 
 
 ## The Deer
 
-Like Nara, Miyajima has free-roaming deer. Unlike Nara's deer, who have been fed by tourists for centuries and actively solicit attention, Miyajima's deer are slightly more feral and less interested in performing. They wander through the shrine precincts, sleep on the ferry pier, and occasionally try to eat paper bags.
+Like [Nara](/japan/nara-guide), Miyajima has free-roaming deer. Unlike Nara's deer, who have been fed by tourists for centuries and actively solicit attention, Miyajima's deer are slightly more feral and less interested in performing. They wander through the shrine precincts, sleep on the ferry pier, and occasionally try to eat paper bags.
 
 Feeding them is discouraged; the island authorities are more serious about this than Nara. The deer are charming at distance and occasionally a nuisance at close range if you're carrying anything edible.
 
@@ -78,7 +78,7 @@ Deep-fried momiji manju is a more recent development and a reasonable way to eat
 
 Most visitors come as a day trip and miss what makes Miyajima best: the island after the last ferry of day-trippers has departed. By 5pm the crowd thins dramatically. By 6pm the streets are quiet and the deer have the shrine precinct to themselves.
 
-Staying overnight is one of the better decisions you can make in western Japan. The island has several **ryokan** (traditional inn) options ranging from mid-range to luxury. **Iwaso Ryokan** is the most established, in business since 1854, with rooms overlooking Momijidani. Prices start around ¥30,000 per person with dinner and breakfast included.
+Staying overnight is one of the better decisions you can make in western Japan. The island has several **[ryokan](/japan/ryokan-guide)** (traditional inn) options ranging from mid-range to luxury. **Iwaso Ryokan** is the most established, in business since 1854, with rooms overlooking Momijidani. Prices start around ¥30,000 per person with dinner and breakfast included.
 
 The morning before the day-trippers arrive is different from any other moment on the island: the shrine boardwalk empty, mist over the bay, deer moving through the gate.
 
@@ -100,7 +100,7 @@ This sequence gives you both the historical weight of Hiroshima and the natural 
 
 The island has no cars — all transport is foot, deer, or the ropeway. This is unusual in Japan and contributes to the atmosphere.
 
-Peak cherry blossom (late March to early April) and autumn foliage (November) bring the largest crowds. In both seasons, the landscape is legitimately spectacular; the crowds are also legitimate.
+Peak [cherry blossom](/japan/cherry-blossom-guide) (late March to early April) and autumn foliage (November) bring the largest crowds. In both seasons, the landscape is legitimately spectacular; the crowds are also legitimate.
 
 Last ferry is around 10pm in summer, earlier in winter. Check the current schedule.
 

@@ -10,17 +10,17 @@ tags: [Pakistan, November, Lahore, cultural season, autumn, Islamabad, shoulder 
 city: national
 ---
 
-November is when Pakistan's lowland cultural circuit reaches its finest weather. Lahore in November — 16–24°C, clear and comfortable — is genuinely outstanding. The Mughal monuments are at their best in the low autumn light. The food streets are at full operation in cool evening air. And in the northern valleys, the last poplar gold gives way to bare winter landscapes. November is the month Pakistan's cultural heartland finally gets the climate it deserves.
+November is when [Pakistan](/pakistan)'s lowland cultural circuit reaches its finest weather. [Lahore](/pakistan/lahore-guide) in November — 16–24°C, clear and comfortable — is genuinely outstanding. The Mughal monuments are at their best in the low autumn light. The food streets are at full operation in cool evening air. And in the northern valleys, the last poplar gold gives way to bare winter landscapes. November is the month Pakistan's cultural heartland finally gets the climate it deserves.
 
 ## Weather & Conditions
 
 **Lahore:** 12–24°C. Excellent. Clear, dry, comfortable. The best month of the year.
 
-**Islamabad:** 10–20°C. Similar to Lahore. Pleasant autumn capital.
+**[Islamabad](/pakistan/islamabad-guide):** 10–20°C. Similar to Lahore. Pleasant autumn capital.
 
 **Multan:** 14–26°C. Comfortable. The shrine city in autumn is excellent.
 
-**Hunza Valley:** 2–14°C. The poplars are bare by November. Cold nights. Still accessible but the autumn show is over.
+**[Hunza Valley](/pakistan/hunza-valley-guide):** 2–14°C. The poplars are bare by November. Cold nights. Still accessible but the autumn show is over.
 
 **Gilgit-Baltistan (high routes):** Snow closing passes. Most high altitude routes inaccessible.
 

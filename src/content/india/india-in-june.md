@@ -10,7 +10,7 @@ tags: [India, June, monsoon, Kerala, Himalaya, trekking, Ladakh, green season]
 city: national
 ---
 
-June is when the monsoon's arrival redefines India. The southwest monsoon typically hits Kerala around June 1 and pushes northeast across the country through July–August. For Kerala and the Western Ghats, this means dramatic transformation — rivers filling, waterfalls thundering, tea estates turning vivid green. For Ladakh, June is the peak trekking month before the high Himalayan routes become affected. For the plains, the heat finally breaks — but with intense rain.
+June is when the monsoon's arrival redefines [India](/india). The southwest monsoon typically hits [Kerala](/india/kerala-guide) around June 1 and pushes northeast across the country through July–August. For Kerala and the Western Ghats, this means dramatic transformation — rivers filling, waterfalls thundering, tea estates turning vivid green. For Ladakh, June is the peak trekking month before the high Himalayan routes become affected. For the plains, the heat finally breaks — but with intense rain.
 
 ## Weather & Conditions
 
@@ -18,9 +18,9 @@ June is when the monsoon's arrival redefines India. The southwest monsoon typica
 
 **Western Ghats (Coorg, Wayanad):** Wet, green, and dramatic. June is the month waterfalls appear everywhere. Scenic but logistically wet.
 
-**Delhi / North India:** 30–42°C until the monsoon arrives (typically late June to early July). Dry and very hot until the rain breaks it.
+**[Delhi](/india/delhi-guide) / North India:** 30–42°C until the monsoon arrives (typically late June to early July). Dry and very hot until the rain breaks it.
 
-**Rajasthan:** 35–44°C in June, with the monsoon arriving in late June or early July. Not a visit month.
+**[Rajasthan](/india/rajasthan-guide):** 35–44°C in June, with the monsoon arriving in late June or early July. Not a visit month.
 
 **Himalaya (Manali, Kullu Valley):** 15–25°C. Excellent trekking until mid-June; upper routes may become monsoon-affected by late June.
 
@@ -38,7 +38,7 @@ June is when the monsoon's arrival redefines India. The southwest monsoon typica
 
 **Pin Parvati Pass trek (Himachal–Uttarakhand):** One of India's most demanding high-altitude crossings — from Spiti Valley over the 5,320m pass into the Parvati Valley of Kullu — is best attempted in June before monsoon affects the southern approach.
 
-**Monsoon waterfalls, Goa:** Goa in monsoon is completely different from beach-season Goa — green, wet, and dramatically wild. The Dudhsagar Falls (250m cascade on the Goa-Karnataka border) reach their peak flow in June. Accessible by jeep from Mollem or by train. The beach resorts are quiet and cheap.
+**Monsoon waterfalls, [Goa](/india/goa-guide):** Goa in monsoon is completely different from beach-season Goa — green, wet, and dramatically wild. The Dudhsagar Falls (250m cascade on the Goa-Karnataka border) reach their peak flow in June. Accessible by jeep from Mollem or by train. The beach resorts are quiet and cheap.
 
 ## Festivals & Events
 

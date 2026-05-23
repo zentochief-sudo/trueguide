@@ -10,7 +10,7 @@ tags: [Portugal, January, Lisbon, Porto, Algarve, winter, low season, budget, tr
 city: national
 ---
 
-January is Portugal's quiet month — and its most accessible. Lisbon in January is the warmest capital city in Europe at 15°C average, with the fewest tourists of the year. The Algarve coast has mild weather for walking the cliffs and beaches without a single beach umbrella in sight. Porto's wine caves run tastings with small groups. And accommodation prices across the country are at their annual minimum. For the traveler who doesn't need beach swimming or festival programming, January Portugal is one of Europe's best winter value propositions.
+January is [Portugal](/portugal)'s quiet month — and its most accessible. [Lisbon](/portugal/lisbon-guide) in January is the warmest capital city in Europe at 15°C average, with the fewest tourists of the year. The [Algarve](/portugal/algarve-guide) coast has mild weather for walking the cliffs and beaches without a single beach umbrella in sight. [Porto](/portugal/porto-guide)'s wine caves run tastings with small groups. And accommodation prices across the country are at their annual minimum. For the traveler who doesn't need beach swimming or festival programming, January Portugal is one of Europe's best winter value propositions.
 
 ## Weather in January
 

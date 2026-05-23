@@ -10,17 +10,17 @@ tags: [India, July, monsoon, Ladakh, Himalaya, Kerala, low season, green]
 city: national
 ---
 
-July is monsoon India at its most intense. The plains are under continuous rain. Kerala and the Western Ghats are a saturated, vivid green. The Taj Mahal stands in grey mist with almost no visitors. And Ladakh — in the Himalayan rain shadow — is sunny, spectacular, and filling with travelers who know that July is actually one of the best months to be there. It's a month of sharp contrasts, and the right travelers find those contrasts the whole point.
+July is monsoon [India](/india) at its most intense. The plains are under continuous rain. [Kerala](/india/kerala-guide) and the Western Ghats are a saturated, vivid green. The Taj Mahal stands in grey mist with almost no visitors. And Ladakh — in the Himalayan rain shadow — is sunny, spectacular, and filling with travelers who know that July is actually one of the best months to be there. It's a month of sharp contrasts, and the right travelers find those contrasts the whole point.
 
 ## Weather & Conditions
 
-**Delhi / North India:** 28–36°C, heavy monsoon rain. Daily rainfall from afternoon into evening. Streets flood. But the heat breaks and the city is more functional than June. Humidity is high.
+**[Delhi](/india/delhi-guide) / North India:** 28–36°C, heavy monsoon rain. Daily rainfall from afternoon into evening. Streets flood. But the heat breaks and the city is more functional than June. Humidity is high.
 
-**Rajasthan:** 28–38°C, rain arrives by early July. Jodhpur and Udaipur receive less than Jaipur. The desert turns green for a few weeks — a strange and beautiful transformation.
+**[Rajasthan](/india/rajasthan-guide):** 28–38°C, rain arrives by early July. Jodhpur and Udaipur receive less than [Jaipur](/india/jaipur-guide). The desert turns green for a few weeks — a strange and beautiful transformation.
 
 **Kerala / Western Ghats:** Continuous heavy rain. Waterfalls at maximum flow. Backwaters full and green. Not a beach month but a landscape photography month.
 
-**Mumbai:** 26–30°C, intense rain. Mumbai's monsoon is legendary — the Arabian Sea delivers 2,000mm of rain between June and September. The city functions but flooding affects low areas.
+**[Mumbai](/india/mumbai-guide):** 26–30°C, intense rain. Mumbai's monsoon is legendary — the Arabian Sea delivers 2,000mm of rain between June and September. The city functions but flooding affects low areas.
 
 **Leh, Ladakh:** 15–28°C, sunny and dry. The Himalayan rain shadow keeps Ladakh arid. This is peak Ladakh season.
 

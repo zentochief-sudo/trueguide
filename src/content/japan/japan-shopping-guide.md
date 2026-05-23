@@ -38,7 +38,7 @@ Look for the "Tax-Free" logo on store windows. Major retailers (Yodobashi Camera
 
 ### Electronics and Tech
 
-**Yodobashi Camera** (major stores in Akihabara, Shinjuku, Osaka Umeda): 8+ floors of consumer electronics at competitive prices, with tax-free on qualifying purchases. The Akihabara flagship is the largest electronics store in the world. The service is knowledgeable; the return policy is strict.
+**Yodobashi Camera** (major stores in Akihabara, Shinjuku, [Osaka Umeda](/japan/[osaka](/japan/osaka-guide)-umeda-guide)): 8+ floors of consumer electronics at competitive prices, with tax-free on qualifying purchases. The Akihabara flagship is the largest electronics store in the world. The service is knowledgeable; the return policy is strict.
 
 **BIC Camera**: The competing chain, similarly comprehensive.
 
@@ -60,13 +60,13 @@ Japan has a stationery culture without parallel. The key stores:
 
 **Tokyu Hands**: The creative lifestyle store with extensive stationery, craft, and tool sections. Less prestige than Itoya but more range and lower prices.
 
-**Hobonichi Techo**: The Japanese planner brand — notebooks and accessories designed around the Hobonichi (*Almost Daily News*) editorial aesthetic. Available at the Tobichi store in Minami-Aoyama (Tokyo) and online. One of the most distinctive Japanese stationery products.
+**Hobonichi Techo**: The Japanese planner brand — notebooks and accessories designed around the Hobonichi (*Almost Daily News*) editorial aesthetic. Available at the Tobichi store in Minami-Aoyama ([Tokyo](/japan/tokyo-guide)) and online. One of the most distinctive Japanese stationery products.
 
 ### Food and Kitchen
 
 **Kappabashi (Tokyo)**: The wholesale restaurant supply district north of Asakusa — kitchen knives, ceramic tableware, cast iron cookware, lacquerware, wooden cutting boards, and the famous plastic food samples. The ceramics and knives available here at wholesale-adjacent prices are significantly cheaper than the same quality in department stores or tourist gift shops.
 
-**Department store food basements (depachika)**: Regional Japanese food products, seasonal sweets, and specialty items unavailable elsewhere. The basements of Isetan Shinjuku, Mitsukoshi Ginza, and Takashimaya Nihonbashi are the most comprehensive.
+**Department store food basements (depachika)**: Regional [Japanese food](/japan/japanese-food-guide) products, seasonal sweets, and specialty items unavailable elsewhere. The basements of Isetan Shinjuku, Mitsukoshi Ginza, and Takashimaya Nihonbashi are the most comprehensive.
 
 **Tokyu Foodshow** (Shibuya): A dedicated premium food hall with the fullest selection of Japanese artisan products — craft sake, regional pickles, specialty mochi, and the premium convenience foods that Japan produces uniquely well.
 
@@ -106,4 +106,4 @@ The Japanese 100-yen shop quality far exceeds any equivalent elsewhere — Daiso
 
 ---
 
-Shopping in Japan is most rewarding when structured around categories rather than stores — the knife street in Tsukiji, the ceramics quarter in Higashiyama (Kyoto), the electronics towers in Akihabara, the fabric district in Nippori. Each area has accumulated specific expertise over decades, and the concentration of competitors raises the collective quality. The tax refund returns a meaningful portion of the spend; the combination of quality and price makes Japan one of the best-value shopping destinations in the world for specific categories.
+Shopping in Japan is most rewarding when structured around categories rather than stores — the knife street in Tsukiji, the ceramics quarter in Higashiyama ([Kyoto](/japan/kyoto-guide)), the electronics towers in Akihabara, the fabric district in Nippori. Each area has accumulated specific expertise over decades, and the concentration of competitors raises the collective quality. The tax refund returns a meaningful portion of the spend; the combination of quality and price makes Japan one of the best-value shopping destinations in the world for specific categories.

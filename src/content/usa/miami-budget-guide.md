@@ -18,7 +18,7 @@ The World Cup will push accommodation prices 40–80% above normal summer rates 
 
 ## Accommodation
 
-**Hostels**: $40–70/night for a dorm bed. The hostel market in Miami Beach is thinner than in NYC or LA. **Freehand Miami** (2727 Indian Creek Drive, Miami Beach) is the best-known option — a converted historic hotel with shared and private rooms, a pool, and one of the better lobby bars in the city. **HI Miami Beach** is the traditional budget option.
+**Hostels**: $40–70/night for a dorm bed. The hostel market in [Miami Beach](/united-states/miami-beach-guide) is thinner than in NYC or LA. **Freehand Miami** (2727 Indian Creek Drive, Miami Beach) is the best-known option — a converted historic hotel with shared and private rooms, a pool, and one of the better lobby bars in the city. **HI Miami Beach** is the traditional budget option.
 
 **Budget hotels**: $130–200/night for the lower end of Miami Beach properties. South Beach budget hotels are often older properties with limited amenities — acceptable for a trip focused on the beach and nightlife, less so if you want a comfortable base. Brickell and Wynwood offer better quality at this price point.
 
@@ -26,7 +26,7 @@ The World Cup will push accommodation prices 40–80% above normal summer rates 
 
 **Airbnb**: More viable in Miami than in NYC (fewer regulatory restrictions). A private room in a South Beach apartment runs $90–150/night. A two-bedroom apartment for a group of four: $180–280/night total (split, that's $45–70 per person) — the best budget accommodation strategy for groups.
 
-**Fort Lauderdale as a base**: Hotels in Fort Lauderdale run $120–200/night for mid-range properties — significantly cheaper than Miami Beach. Fort Lauderdale has its own beach (Las Olas Boulevard), Tri-Rail connection to Miami, and proximity to Hard Rock Stadium. A legitimate base option for budget-conscious visitors willing to trade South Beach's nightlife for lower costs.
+**Fort Lauderdale as a base**: Hotels in Fort Lauderdale run $120–200/night for mid-range properties — significantly cheaper than Miami Beach. Fort Lauderdale has its own beach (Las Olas Boulevard), Tri-Rail connection to Miami, and proximity to [Hard Rock Stadium](/united-states/hard-rock-stadium-guide). A legitimate base option for budget-conscious visitors willing to trade South Beach's nightlife for lower costs.
 
 ---
 

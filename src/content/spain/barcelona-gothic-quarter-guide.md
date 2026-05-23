@@ -10,7 +10,7 @@ tags: [Gothic Quarter, Barri Gòtic, Barcelona, walking guide, Barcelona Cathedr
 city: barcelona
 ---
 
-The Gothic Quarter (Barri Gòtic) is the medieval core of Barcelona — a dense grid of narrow lanes, stone archways, and plazas built on and around a Roman settlement dating to the 1st century BC. The neighborhood is heavily touristed, but its authentic medieval fabric is real: the Barcelona Cathedral, the Roman temple of Augustus, the Jewish Quarter (El Call), and dozens of small squares that become genuinely quiet before 9 AM or after 10 PM.
+The Gothic Quarter (Barri Gòtic) is the medieval core of [Barcelona](/[spain](/spain)/barcelona-travel-guide) — a dense grid of narrow lanes, stone archways, and plazas built on and around a Roman settlement dating to the 1st century BC. The neighborhood is heavily touristed, but its authentic medieval fabric is real: the Barcelona Cathedral, the Roman temple of Augustus, the Jewish Quarter (El Call), and dozens of small squares that become genuinely quiet before 9 AM or after 10 PM.
 
 ---
 

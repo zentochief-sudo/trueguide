@@ -10,7 +10,7 @@ tags: [Koh Samui, Koh Tao, Koh Phangan, Thailand, islands, diving, snorkeling, G
 city: phuket
 ---
 
-Thailand has two island coasts: the Andaman Sea (west — Phuket, Krabi, Koh Lanta, the Similans) and the Gulf of Thailand (east — Koh Samui, Koh Phangan, Koh Tao). The Gulf coast is accessed from Chumphon or Surat Thani (3.5–7 hours from Bangkok by train or bus, or 1 hour by domestic flight). The two coasts have different monsoon seasons — when the Andaman is rough (May–October), the Gulf is calm, and vice versa.
+[Thailand](/thailand) has two island coasts: the Andaman Sea (west — [Phuket](/thailand/phuket-guide), Krabi, Koh Lanta, the Similans) and the Gulf of Thailand (east — Koh Samui, Koh Phangan, Koh Tao). The Gulf coast is accessed from Chumphon or Surat Thani (3.5–7 hours from [Bangkok](/thailand/bangkok-guide) by train or bus, or 1 hour by domestic flight). The two coasts have different monsoon seasons — when the Andaman is rough (May–October), the Gulf is calm, and vice versa.
 
 The three islands of the Gulf's inner archipelago form a logical progression: Samui for infrastructure, Phangan for atmosphere, Tao for diving.
 

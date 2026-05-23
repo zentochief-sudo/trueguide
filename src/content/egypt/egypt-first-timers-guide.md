@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Egypt is simultaneously one of the most anticipated and most disorienting first-time destinations in the world. The scale of the monuments — the sheer physical fact of the Pyramids, the Karnak temple complex, the Valley of the Kings — tends to overwhelm expectations in the best possible way. The street chaos of Cairo, the persistence of touts, and the navigational challenges of the country tend to overwhelm visitors in a more literal way.
+[Egypt](/egypt) is simultaneously one of the most anticipated and most disorienting first-time destinations in the world. The scale of the monuments — the sheer physical fact of the Pyramids, the Karnak temple complex, the Valley of the Kings — tends to overwhelm expectations in the best possible way. The street chaos of [Cairo](/egypt/cairo-travel-guide), the persistence of touts, and the navigational challenges of the country tend to overwhelm visitors in a more literal way.
 
 Here's what you need to know to navigate both.
 
@@ -22,7 +22,7 @@ Here's what you need to know to navigate both.
 **Time zone:** EET (UTC+2). Egypt no longer observes daylight saving time.  
 **Driving:** Right-hand side  
 **Plugs:** Type C (European round pins) — same as continental Europe  
-**Visa:** Most Western nationalities (EU, UK, US, Canada, Australia) can obtain a **visa on arrival** at Cairo Airport (€20–25, pay in EUR or USD). **e-Visa** available online beforehand (recommended — faster processing). Check current requirements.  
+**Visa:** Most Western nationalities (EU, UK, US, [Canada](/canada), Australia) can obtain a **visa on arrival** at Cairo Airport (€20–25, pay in EUR or USD). **e-Visa** available online beforehand (recommended — faster processing). Check current requirements.  
 **Emergency number:** 122 (police), 123 (ambulance)
 
 ---
@@ -113,7 +113,7 @@ Egyptian food is delicious, cheap, and underrated internationally.
 
 **Domestic flights:** EgyptAir connects Cairo to Luxor, Aswan, Abu Simbel, Alexandria, Hurghada, and Sharm el-Sheikh. Flights are affordable and save significant time.
 
-**Nile cruises:** Book with a reputable operator (tour operators in the UK, Germany, or France include Egypt cruise packages; you can also book directly in Cairo or Luxor). The standard 4-day cruise from Luxor to Aswan includes all meals and guided excursions.
+**Nile cruises:** Book with a reputable operator (tour operators in the UK, Germany, or [France](/france) include Egypt cruise packages; you can also book directly in Cairo or Luxor). The standard 4-day cruise from Luxor to Aswan includes all meals and guided excursions.
 
 ---
 

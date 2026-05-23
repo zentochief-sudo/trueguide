@@ -10,13 +10,13 @@ tags: [Portugal, wine, port, vinho verde, Douro Valley, Alentejo, Dão, Bairrada
 city: porto
 ---
 
-Portugal produces some of the world's most distinctive wines from grape varieties that exist almost nowhere else — Touriga Nacional, Alvarinho, Baga, Encruzado — on terraced mountain slopes, Atlantic-influenced plains, and schist hillsides that have been cultivated for over 2,000 years. Portuguese wine is simultaneously one of the most undervalued and most interesting in the world: the combination of endemic varieties, diverse climates, and a relatively short period of international visibility means exceptional wines at prices that Burgundy or Rioja can no longer offer.
+[Portugal](/portugal) produces some of the world's most distinctive wines from grape varieties that exist almost nowhere else — Touriga Nacional, Alvarinho, Baga, Encruzado — on terraced mountain slopes, Atlantic-influenced plains, and schist hillsides that have been cultivated for over 2,000 years. Portuguese wine is simultaneously one of the most undervalued and most interesting in the world: the combination of endemic varieties, diverse climates, and a relatively short period of international visibility means exceptional wines at prices that Burgundy or Rioja can no longer offer.
 
 ---
 
 ## Port Wine
 
-The Douro Valley produces port (and, increasingly, outstanding table wines) — grapes grown on terraced schist slopes at 400–700 m, picked by hand, and fermented in the autumn heat. Brandy is added during fermentation to stop it before all the sugar has converted, preserving sweetness and raising alcohol to 19–22%.
+The [Douro Valley](/portugal/douro-valley-guide) produces port (and, increasingly, outstanding table wines) — grapes grown on terraced schist slopes at 400–700 m, picked by hand, and fermented in the autumn heat. Brandy is added during fermentation to stop it before all the sugar has converted, preserving sweetness and raising alcohol to 19–22%.
 
 **Classifications**:
 - **Ruby Port**: Young, 3–5 years in tank, bright red with blackberry fruit. The entry point
@@ -25,7 +25,7 @@ The Douro Valley produces port (and, increasingly, outstanding table wines) — 
 - **LBV (Late Bottled Vintage)**: Single-year port, 4–6 years in barrel then bottled. Filtered (immediately drinkable) or unfiltered (benefits from decanting, develops in bottle)
 - **Vintage Port**: The top category — declared only in exceptional years (declared by individual producers, not a central authority). 2-year barrel aging, then 10–50+ years in bottle. The Symington family (Graham's, Dow's, Warre's) and the Fladgate Partnership (Taylor's, Fonseca) are the leading houses
 
-**Tasting in Porto/Gaia**: All major lodges on the Gaia riverfront offer tastings — Taylor's, Graham's, Cockburn's, Sandeman, Ramos Pinto. The €20–30 tour and tasting is the practical introduction. For serious tasting, **The Yeatman Hotel** in Gaia has the most comprehensive port wine cellar in the world.
+**Tasting in [Porto](/portugal/porto-guide)/Gaia**: All major lodges on the Gaia riverfront offer tastings — Taylor's, Graham's, Cockburn's, Sandeman, Ramos Pinto. The €20–30 tour and tasting is the practical introduction. For serious tasting, **The Yeatman Hotel** in Gaia has the most comprehensive port wine cellar in the world.
 
 ---
 
@@ -49,7 +49,7 @@ The Douro produces table wines from the same Touriga Nacional, Touriga Franca, a
 
 ## Alentejo
 
-The flat, hot cork-oak-covered plateau east of Lisbon produces the most internationally visible Portuguese table wines — approachable, fruit-forward reds from Aragonez (Tempranillo), Trincadeira, and Alicante Bouschet. The Alentejo is Portugal's largest wine region and also produces interesting white wines from Antão Vaz.
+The flat, hot cork-oak-covered plateau east of [Lisbon](/portugal/lisbon-guide) produces the most internationally visible Portuguese table wines — approachable, fruit-forward reds from Aragonez (Tempranillo), Trincadeira, and Alicante Bouschet. The Alentejo is Portugal's largest wine region and also produces interesting white wines from Antão Vaz.
 
 **Esporão** is the most internationally known producer; **Herdade do Mouchão** makes the most serious age-worthy wines in the region.
 

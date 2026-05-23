@@ -10,9 +10,9 @@ tags: [Lake Titicaca, Peru, Puno, Uros, Taquile, Amantaní, floating islands, In
 city: cusco
 ---
 
-Lake Titicaca sits at 3,812 m on the altiplano border between Peru and Bolivia — the world's highest navigable lake, covering 8,372 km², with a depth reaching 284 m. The lake is of such scale that it moderates the climate of the surrounding altiplano, making agriculture possible at an altitude where it would otherwise be impossible. It was considered the birthplace of the sun and the origin point of the Inca Empire in the Andean cosmological tradition — the Inca creation story places the emergence of the first Inca (Manco Cápac) from the waters of Titicaca.
+Lake Titicaca sits at 3,812 m on the altiplano border between [Peru](/peru) and Bolivia — the world's highest navigable lake, covering 8,372 km², with a depth reaching 284 m. The lake is of such scale that it moderates the climate of the surrounding altiplano, making agriculture possible at an altitude where it would otherwise be impossible. It was considered the birthplace of the sun and the origin point of the Inca Empire in the Andean cosmological tradition — the Inca creation story places the emergence of the first Inca (Manco Cápac) from the waters of Titicaca.
 
-The lake is 5–6 hours from Cusco by bus, making it a 2-night extension from the Cusco circuit.
+The lake is 5–6 hours from [Cusco](/peru/cusco-guide) by bus, making it a 2-night extension from the Cusco circuit.
 
 ---
 

@@ -10,15 +10,15 @@ tags: [France, May, Cannes, film festival, Loire Valley, Paris, spring, pre-summ
 city: national
 ---
 
-May is France's optimal month — the argument for it is almost too easy. The weather is perfect across the entire country. The Loire Valley gardens are at their annual peak. The Cannes Film Festival turns the Côte d'Azur into the world's most glamorous event. Crowds are building but haven't peaked. Prices are below June-August. And the French public holidays (there are many in May) give the country a festive, outdoor energy that summer loses to saturation. May is the month to choose if you have flexibility.
+May is [France](/france)'s optimal month — the argument for it is almost too easy. The weather is perfect across the entire country. The [Loire Valley](/france/loire-valley-guide) gardens are at their annual peak. The Cannes Film Festival turns the Côte d'Azur into the world's most glamorous event. Crowds are building but haven't peaked. Prices are below June-August. And the French public holidays (there are many in May) give the country a festive, outdoor energy that summer loses to saturation. May is the month to choose if you have flexibility.
 
 ## Weather in May
 
-**Paris:** 13°C to 22°C. The best month in Paris. Clear skies, warm days, perfect for walking every arrondissement. The terraces are fully deployed; the Seine is at its most inviting.
+**[Paris](/france/paris-travel-guide):** 13°C to 22°C. The best month in Paris. Clear skies, warm days, perfect for walking every arrondissement. The terraces are fully deployed; the Seine is at its most inviting.
 
 **Loire Valley:** 12°C to 22°C. The garden peak — Villandry, Chenonceau, Azay-le-Rideau all in full spring bloom.
 
-**Provence:** 16°C to 26°C. Warm and bright. The lavender hasn't bloomed yet (late June–July) but Provence in May — with poppies and broom covering the hillsides — is extraordinary.
+**[Provence](/france/provence-guide):** 16°C to 26°C. Warm and bright. The lavender hasn't bloomed yet (late June–July) but Provence in May — with poppies and broom covering the hillsides — is extraordinary.
 
 **Cannes/French Riviera:** 17°C to 25°C. Film Festival weather — warm enough for outdoor events, clear for the yacht harbor setting.
 

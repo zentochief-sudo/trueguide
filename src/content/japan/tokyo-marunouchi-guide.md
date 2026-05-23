@@ -10,7 +10,7 @@ tags: [Marunouchi, Yurakucho, Tokyo, Japan, Tokyo Station, Imperial Palace, unde
 city: tokyo
 ---
 
-Marunouchi occupies the triangular area between Tokyo Station and the Imperial Palace East Gardens moat — historically the heart of Meiji-era Japan's emerging capitalism, today the headquarters district of Japan's largest corporations. The wide boulevards, the Meiji brick facades of the Mitsubishi Estate buildings, and the visible presence of institutional money make it feel different from the commercial energy of Shibuya or the subculture concentration of Shimokitazawa. It is a district that rewards engagement with its specific character rather than attempts to find something that isn't here.
+Marunouchi occupies the triangular area between [Tokyo](/japan/tokyo-guide) Station and the Imperial Palace East Gardens moat — historically the heart of Meiji-era Japan's emerging capitalism, today the headquarters district of Japan's largest corporations. The wide boulevards, the Meiji brick facades of the Mitsubishi Estate buildings, and the visible presence of institutional money make it feel different from the commercial energy of Shibuya or the subculture concentration of Shimokitazawa. It is a district that rewards engagement with its specific character rather than attempts to find something that isn't here.
 
 ---
 
@@ -40,9 +40,9 @@ The brick building at the center of the Mitsubishi Estate's Marunouchi redevelop
 
 ## The Imperial Palace East Gardens
 
-The public gardens occupying the site of the former inner citadel (*honmaru*) of Edo Castle — free to enter (closed Mondays and Fridays). The remains of the castle's *tenshudai* (keep foundation stones), the reconstructed Hyakunin-Bansho guardhouse, and the curated Japanese gardens are here. The East Gardens are the accessible portion of the Imperial Palace complex; the palace itself is visible only during the twice-yearly public tours.
+The public gardens occupying the site of the former inner citadel (*honmaru*) of Edo Castle — free to enter (closed Mondays and Fridays). The remains of the castle's *tenshudai* (keep foundation stones), the reconstructed Hyakunin-Bansho guardhouse, and the curated [Japanese gardens](/japan/japanese-gardens-guide) are here. The East Gardens are the accessible portion of the Imperial Palace complex; the palace itself is visible only during the twice-yearly public tours.
 
-The gardens' north side leads to the Kitanomaru area — Nippon Budokan, the National Museum of Modern Art (MOMAT, one of Tokyo's best permanent collections of 20th-century Japanese art), and Chidorigafuchi, the Imperial Palace moat that becomes one of Tokyo's five best cherry blossom spots in late March.
+The gardens' north side leads to the Kitanomaru area — Nippon Budokan, the National Museum of Modern Art (MOMAT, one of Tokyo's best permanent collections of 20th-century Japanese art), and Chidorigafuchi, the Imperial Palace moat that becomes one of Tokyo's five best [cherry blossom](/japan/cherry-blossom-guide) spots in late March.
 
 ---
 
@@ -54,7 +54,7 @@ Adjacent to Marunouchi to the south: Hibiya Park (1903, Tokyo's first Western-st
 
 ## Yurakucho: Under the Tracks
 
-The elevated JR Yamanote and Keihin-Tohoku Line tracks between Yurakucho and Shimbashi stations carry a different city underneath them: the *garudo* (arched) structures beneath the iron framework house a continuous strip of yakitori stalls, ramen shops, and standing bars that have been operating since the 1950s.
+The elevated JR Yamanote and Keihin-[Tohoku](/japan/tohoku-guide) Line tracks between Yurakucho and Shimbashi stations carry a different city underneath them: the *garudo* (arched) structures beneath the iron framework house a continuous strip of yakitori stalls, ramen shops, and standing bars that have been operating since the 1950s.
 
 **The character**: Low ceilings, smoke from charcoal grills, the rumble of trains overhead every two minutes, paper lanterns, and the specific atmosphere of urban Japan eating and drinking in informal conditions under infrastructure. The clientele is primarily office workers from the surrounding towers.
 

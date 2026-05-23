@@ -10,7 +10,7 @@ tags: [Greenland, kayaking, sea kayaking, Ilulissat, Disko Bay, icebergs, Arctic
 city: ilulissat
 ---
 
-Sea kayaking originated with the Inuit — the qajaq (kayak) was developed in Arctic Greenland and the eastern Canadian Arctic as a hunting vessel, and Greenlandic paddling traditions represent a direct line from the original technology to the modern sport. Paddling in Greenland is, accordingly, not just an adventure activity but an encounter with one of its originating landscapes.
+Sea kayaking originated with the Inuit — the qajaq (kayak) was developed in Arctic [Greenland](/greenland) and the eastern Canadian Arctic as a hunting vessel, and Greenlandic paddling traditions represent a direct line from the original technology to the modern sport. Paddling in Greenland is, accordingly, not just an adventure activity but an encounter with one of its originating landscapes.
 
 The combination of calm fjord water, towering icebergs, and near-complete absence of other vessels makes Greenland one of the world's premier sea kayaking destinations — provided you have the appropriate skills or join a guided tour with experienced operators.
 
@@ -19,9 +19,9 @@ The combination of calm fjord water, towering icebergs, and near-complete absenc
 ## Where to Paddle
 
 ### Ilulissat and Disko Bay
-The most accessible and dramatic kayaking in Greenland. Disko Bay is calving territory for dozens of glaciers, and the bay in summer is a moving gallery of icebergs ranging from house-sized to skyscraper-scale. The Ilulissat Icefjord UNESCO World Heritage area produces some of the world's largest icebergs — rolling iceberg events (when an unstable berg flips) create waves and concussion waves that require maintaining distance.
+The most accessible and dramatic kayaking in Greenland. Disko Bay is calving territory for dozens of glaciers, and the bay in summer is a moving gallery of icebergs ranging from house-sized to skyscraper-scale. The [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) UNESCO World Heritage area produces some of the world's largest icebergs — rolling iceberg events (when an unstable berg flips) create waves and concussion waves that require maintaining distance.
 
-Conditions in Disko Bay are moderate by Arctic standards: calmer than East Greenland, more predictable than the far north. July–August provides the best combination of light, temperature, and stable weather.
+Conditions in Disko Bay are moderate by Arctic standards: calmer than [East Greenland](/greenland/east-greenland-guide), more predictable than the far north. July–August provides the best combination of light, temperature, and stable weather.
 
 ### East Greenland (Tasiilaq/Scoresby Sound)
 More challenging and more remote. East Greenland fjords are narrower, deeper, and flanked by higher mountains than the west. Scoresby Sound — the world's largest fjord system — offers expedition-grade kayaking for experienced paddlers; multi-week self-supported trips are possible but require logistical planning and polar bear awareness protocols. Tasiilaq is the base for guided East Greenland kayaking tours.
@@ -72,7 +72,7 @@ Bring sun protection — Arctic summer light reflects off water and ice intensel
 
 ## Kayak History
 
-The Greenlandic kayak (qajaq) was designed for hunting seal and walrus from the water — low, fast, and engineered for a single paddler lying almost prone. Traditional Greenlandic rolling techniques (there are over 30 recognized rolls in the Greenlandic tradition) were developed as essential survival skills for hunters who capsized in Arctic water. The Greenland National Kayaking Championships, held annually in Sisimiut, preserve and contest these techniques.
+The Greenlandic kayak (qajaq) was designed for hunting seal and walrus from the water — low, fast, and engineered for a single paddler lying almost prone. Traditional Greenlandic rolling techniques (there are over 30 recognized rolls in the Greenlandic tradition) were developed as essential survival skills for hunters who capsized in Arctic water. The Greenland National Kayaking Championships, held annually in [Sisimiut](/greenland/sisimiut-guide), preserve and contest these techniques.
 
 Modern guided tours use wider, more stable sea kayaks suited to non-expert paddlers, but seeing traditional rolling demonstrations is possible through some specialized operators.
 

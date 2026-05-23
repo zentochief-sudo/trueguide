@@ -12,7 +12,7 @@ city: kyoto
 
 Kyoto was the imperial capital of Japan for more than a thousand years. When the Americans were choosing targets for the atomic bomb in 1945, Secretary of War Henry Stimson removed Kyoto from the list — he had visited on his honeymoon and understood what the city was. That decision preserved what now receives 50 million visitors per year.
 
-The city has 17 UNESCO World Heritage Sites. It has 1,600 Buddhist temples and 400 Shinto shrines. It has the highest concentration of traditional wooden townhouses (machiya) in Japan, and it still maintains five active geisha districts — the only city in the world where this culture continues in its original form.
+The city has 17 UNESCO World Heritage Sites. It has 1,600 Buddhist temples and 400 Shinto shrines. It has the highest concentration of traditional wooden townhouses (machiya) in Japan, and it still maintains five active [geisha](/japan/geisha-guide) districts — the only city in the world where this culture continues in its original form.
 
 The problem is that everyone knows this. Kyoto is now one of the most overtouristed cities in Asia, and the gap between what you came to see and what you actually experience depends almost entirely on when you show up and how you move through it.
 
@@ -38,7 +38,7 @@ This is the classic Kyoto visual: stone-paved lanes, wooden machiya teashops, te
 
 **Sannen-zaka and Ninen-zaka** — flagstone pedestrian lanes between Kiyomizudera and Kodai-ji temple. These are beautiful in the morning, genuinely unpleasant between 10am and 4pm on weekends. Go before 8am or after 6pm.
 
-**Kiyomizudera** — the temple on the hillside with the famous wooden stage projecting over the valley. One of the most visited temples in Japan. The structure itself is genuinely remarkable — the main hall is built without a single nail, on wooden stilts sunk into the hillside. The spring cherry blossom and autumn foliage views from the stage are among the most photographed images in Japan for good reason. Admission ¥500.
+**Kiyomizudera** — the temple on the hillside with the famous wooden stage projecting over the valley. One of the most visited temples in Japan. The structure itself is genuinely remarkable — the main hall is built without a single nail, on wooden stilts sunk into the hillside. The spring [cherry blossom](/japan/cherry-blossom-guide) and autumn foliage views from the stage are among the most photographed images in Japan for good reason. Admission ¥500.
 
 **Kodai-ji** — the temple built by Nene, the widow of Toyotomi Hideyoshi. Less visited than Kiyomizudera, more intimate. The garden is quietly excellent, and the night illumination events in spring and autumn show the pond reflection in a way daytime does not.
 
@@ -104,7 +104,7 @@ Go at night or at dawn. The shrine is open 24 hours. The main torii corridors li
 
 **3 days**: Add a full day for Kinkakuji + Ryoan-ji + Nishijin + Nishiki Market.
 
-**4 days**: Add day trips to Nara (1 hour) or Osaka (15 minutes by Shinkansen), or a deeper exploration of the neighborhoods you already covered.
+**4 days**: Add day trips to [Nara](/japan/nara-guide) (1 hour) or [Osaka](/japan/osaka-guide) (15 minutes by Shinkansen), or a deeper exploration of the neighborhoods you already covered.
 
 ---
 

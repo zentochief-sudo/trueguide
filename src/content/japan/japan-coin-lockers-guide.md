@@ -16,7 +16,7 @@ Japan's coin locker (*koin rokkā*, コインロッカー) network is one of the
 
 ## Where to Find Lockers
 
-**Train stations**: The primary location. Lockers are usually near the ticket gates — look for the bank of metal or plastic cabinets with numbered doors and a coin slot or card reader. Major stations (Shinjuku, Shibuya, Kyoto, Osaka) have multiple locker banks spread throughout the station.
+**Train stations**: The primary location. Lockers are usually near the ticket gates — look for the bank of metal or plastic cabinets with numbered doors and a coin slot or card reader. Major stations (Shinjuku, Shibuya, [Kyoto](/japan/kyoto-guide), [Osaka](/japan/osaka-guide)) have multiple locker banks spread throughout the station.
 
 **Shopping centers**: Most large shopping centers in Japan have lockers in basement levels.
 

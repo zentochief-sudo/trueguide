@@ -20,7 +20,7 @@ The word "wagyu" outside Japan often refers to crossbred cattle or marketing. In
 
 ### Kobe Beef (Hyogo Prefecture)
 
-The most famous Japanese beef brand internationally — and the most counterfeited. True Kobe beef must come from *tajima-cattle* (a specific bloodline of Japanese Black cattle) born and raised in Hyogo Prefecture, slaughtered at designated facilities in the Kobe area, with a BMS (Beef Marbling Score) of 6 or above on the Japanese A4–A5 scale, and registered with the Kobe Beef Marketing and Distribution Promotion Association.
+The most famous Japanese beef brand internationally — and the most counterfeited. True [Kobe](/japan/kobe-guide) beef must come from *tajima-cattle* (a specific bloodline of Japanese Black cattle) born and raised in Hyogo Prefecture, slaughtered at designated facilities in the Kobe area, with a BMS (Beef Marbling Score) of 6 or above on the Japanese A4–A5 scale, and registered with the Kobe Beef Marketing and Distribution Promotion Association.
 
 The number of authentic Kobe beef cattle certified per year is approximately 4,000–5,000. Almost all is consumed within Japan; the export volume is minuscule. "Kobe beef" on a menu outside Japan almost certainly isn't.
 
@@ -32,11 +32,11 @@ Often considered the superior beef to Kobe by Japanese connoisseurs — a rarer,
 
 The flavor profile: more intense than Kobe, with a slightly sweeter fat character. The fat melts at a lower temperature; the texture at A5 grade is almost liquid.
 
-**Where to eat it**: In Matsusaka city (accessible from Nagoya or Osaka by JR), the *sukiyaki* preparation is traditional — thin slices of beef cooked in sweet soy sauce with vegetables at the table. Lunch sukiyaki courses start at ¥5,000–8,000; dinner courses at ¥15,000–30,000.
+**Where to eat it**: In Matsusaka city (accessible from [Nagoya](/japan/nagoya-guide) or [Osaka](/japan/osaka-guide) by JR), the *sukiyaki* preparation is traditional — thin slices of beef cooked in sweet soy sauce with vegetables at the table. Lunch sukiyaki courses start at ¥5,000–8,000; dinner courses at ¥15,000–30,000.
 
 ### Omi Beef (Shiga Prefecture)
 
-Japan's oldest beef brand, with documentation going back 400 years — the Omi merchants who carried Omi beef to Edo were the original commercial beef culture in Japan. Raised in Shiga Prefecture (adjacent to Kyoto, surrounding Lake Biwa), Omi beef has a slightly firmer texture than Kobe and Matsusaka with a very clean fat character.
+Japan's oldest beef brand, with documentation going back 400 years — the Omi merchants who carried Omi beef to Edo were the original commercial beef culture in Japan. Raised in Shiga Prefecture (adjacent to [Kyoto](/japan/kyoto-guide), surrounding Lake Biwa), Omi beef has a slightly firmer texture than Kobe and Matsusaka with a very clean fat character.
 
 The relative obscurity of Omi beef internationally means the price is lower than Kobe despite comparable quality. Accessible in Shiga Prefecture at more modest prices than the famous two brands.
 

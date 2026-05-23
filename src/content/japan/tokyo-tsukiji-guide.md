@@ -10,7 +10,7 @@ tags: [Tsukiji, Tokyo, Japan, fish market, sushi, food market, outer market, tam
 city: tokyo
 ---
 
-Tsukiji operated as Tokyo's central fish market for 83 years. The wholesale operation — including the famous tuna auctions — relocated to Toyosu in October 2018. What remains is the Outer Market (*jogai shijo*): approximately 400 meters of food stalls, restaurants, knife dealers, and wholesale supply shops that operated as the market's periphery and continue to function independently of the Toyosu move.
+Tsukiji operated as [Tokyo](/japan/tokyo-guide)'s central fish market for 83 years. The wholesale operation — including the famous tuna auctions — relocated to Toyosu in October 2018. What remains is the Outer Market (*jogai shijo*): approximately 400 meters of food stalls, restaurants, knife dealers, and wholesale supply shops that operated as the market's periphery and continue to function independently of the Toyosu move.
 
 The Outer Market is not a museum of what Tsukiji was — it is a working food market that opens before 5am, conducts its serious business before 9am, and winds down by early afternoon. The difference from the pre-2018 experience is that the wholesale tuna auctions are no longer here; the difference from most Tokyo tourist food experiences is that this is still genuinely what it appears to be.
 
@@ -42,11 +42,11 @@ The Outer Market is not a museum of what Tsukiji was — it is a working food ma
 
 ## Knife Shopping
 
-Tsukiji has the highest concentration of Japanese kitchen knife dealers outside Osaka's Doguyasuji knife district. The shops — most family-run for multiple generations — sell professional-grade Japanese knives (*hocho*): *yanagiba* (for slicing sashimi), *deba* (for breaking down fish), *usuba* (for vegetables), and Western-profile blades ground with Japanese steel and technique.
+Tsukiji has the highest concentration of Japanese kitchen knife dealers outside [Osaka](/japan/osaka-guide)'s Doguyasuji knife district. The shops — most family-run for multiple generations — sell professional-grade Japanese knives (*hocho*): *yanagiba* (for slicing sashimi), *deba* (for breaking down fish), *usuba* (for vegetables), and Western-profile blades ground with Japanese steel and technique.
 
 **What to buy**: A good entry-level Japanese knife (e.g., a *petty* or *gyuto* in VG-10 steel) runs ¥5,000–15,000 at the market shops; professional-grade *kasumi* or *honyaki* knives run ¥30,000–100,000+. The market dealers will sharpen, adjust handle length, and in some cases engrave. They speak enough English to handle tourist transactions.
 
-**The shops**: Tsukiji Masamoto, Aritsugu (the Kyoto brand has a Tsukiji presence), and Kamata are the most reputable — any of the 20+ dealers in the knife alley will be legitimate.
+**The shops**: Tsukiji Masamoto, Aritsugu (the [Kyoto](/japan/kyoto-guide) brand has a Tsukiji presence), and Kamata are the most reputable — any of the 20+ dealers in the knife alley will be legitimate.
 
 ---
 

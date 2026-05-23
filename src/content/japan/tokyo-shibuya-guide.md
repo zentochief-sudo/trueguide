@@ -22,7 +22,7 @@ The crossing operates on a scramble signal — all traffic stops simultaneously 
 
 **Starbucks Shibuya Tsutaya** (inside the Tsutaya building on the northwest corner): The second-floor window seats face the crossing directly. Arrive 30 minutes before opening to queue for a window spot; the café opens at 7am.
 
-**Mag's Park / Shibuya Sky** (atop Scramble Square, the newest tower): The outdoor observation deck at 229 meters gives the bird's-eye view. Tickets ¥2,000; book in advance online. Sunset and evening are the most dramatic times — the crossing is illuminated and the neon of the surrounding buildings creates the full Tokyo-at-night effect.
+**Mag's Park / Shibuya Sky** (atop Scramble Square, the newest tower): The outdoor observation deck at 229 meters gives the bird's-eye view. Tickets ¥2,000; book in advance online. Sunset and evening are the most dramatic times — the crossing is illuminated and the neon of the surrounding buildings creates the full [Tokyo](/japan/tokyo-guide)-at-night effect.
 
 **L'Occitane Café** (across from Starbucks, also second floor): Less crowded than Starbucks, similar angle on the crossing.
 

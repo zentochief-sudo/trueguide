@@ -10,7 +10,7 @@ tags: [Taj Mahal, Agra, India, day trip, Fatehpur Sikri, Shah Jahan, Mughal, UNE
 city: delhi
 ---
 
-The Taj Mahal requires no description but benefits from context: Shah Jahan built it between 1631 and 1653 as a mausoleum for his wife Mumtaz Mahal, who died giving birth to their 14th child. 22,000 workers and 1,000 elephants transported white Makrana marble from Rajasthan, semi-precious stones (lapis lazuli, turquoise, jasper, carnelian) from across Asia, and teak from Burma. The result is an object of such precise proportion that it reads as perfect from every angle — the slightly tapering minaret shafts that lean outward so they fall away from the main structure in case of earthquake, the optical illusion that makes the dome appear to change size as you approach.
+The Taj Mahal requires no description but benefits from context: Shah Jahan built it between 1631 and 1653 as a mausoleum for his wife Mumtaz Mahal, who died giving birth to their 14th child. 22,000 workers and 1,000 elephants transported white Makrana marble from [Rajasthan](/[india](/india)/rajasthan-guide), semi-precious stones (lapis lazuli, turquoise, jasper, carnelian) from across Asia, and teak from Burma. The result is an object of such precise proportion that it reads as perfect from every angle — the slightly tapering minaret shafts that lean outward so they fall away from the main structure in case of earthquake, the optical illusion that makes the dome appear to change size as you approach.
 
 It is genuinely one of the great buildings in the world, and the tourist infrastructure around it (touts, camel rides, the heat of Agra) doesn't diminish that.
 
@@ -48,7 +48,7 @@ The site is less visited than the Taj Mahal, more extensive, and gives a more co
 
 ## Getting There
 
-**Gatimaan Express (Train)**: The fastest option — departs New Delhi station at 8:10 AM, arrives Agra Cantonment at 9:50 AM. Return at 5:50 PM. ₹755 (CC class, air-conditioned). Book at irctc.co.in; book well in advance as this train is popular with day-trippers.
+**Gatimaan Express (Train)**: The fastest option — departs New [Delhi](/india/delhi-guide) station at 8:10 AM, arrives Agra Cantonment at 9:50 AM. Return at 5:50 PM. ₹755 (CC class, air-conditioned). Book at irctc.co.in; book well in advance as this train is popular with day-trippers.
 
 **Taj Express**: Slower alternative (2h15) from Hazrat Nizamuddin station. ₹200–400.
 
@@ -60,4 +60,4 @@ The site is less visited than the Taj Mahal, more extensive, and gives a more co
 
 - **Heat**: Agra averages 40°C in May–June. November–February (18–26°C) is the comfortable visiting window
 - **Touts**: The approach to the Taj Mahal has one of the most aggressive tout environments in India. The official ticket counter is clearly marked; government-approved auto-rickshaws (electric inside the exclusion zone around the Taj) cost ₹50–80
-- **Combining with Jaipur**: The Agra–Jaipur road (NH11) passes Fatehpur Sikri — the Agra–Jaipur move fits into one day with a Fatehpur Sikri stop
+- **Combining with [Jaipur](/india/jaipur-guide)**: The Agra–Jaipur road (NH11) passes Fatehpur Sikri — the Agra–Jaipur move fits into one day with a Fatehpur Sikri stop

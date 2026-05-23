@@ -10,13 +10,13 @@ tags: [Spain, May, Córdoba, Patio Festival, spring, pre-summer, Basque Country,
 city: national
 ---
 
-May is Spain's most underrated month. The April festival crowds have dispersed, the summer heat hasn't arrived, prices are reasonable, and the country is at its greenest and most comfortable. Córdoba runs the Patio Festival — one of the most beautiful and least-touristed major events in Spain. The Basque Country and northern coast are at their best. And the Andalusian cities, post-Feria, return to something close to normal before the summer crush.
+May is [Spain](/spain)'s most underrated month. The April festival crowds have dispersed, the summer heat hasn't arrived, prices are reasonable, and the country is at its greenest and most comfortable. Córdoba runs the Patio Festival — one of the most beautiful and least-touristed major events in Spain. The Basque Country and northern coast are at their best. And the Andalusian cities, post-Feria, return to something close to normal before the summer crush.
 
 ## Weather in May
 
 **Madrid:** 13°C to 24°C. Excellent sightseeing weather. Occasional afternoon thunderstorms by late May. Comfortable days, cool evenings.
 
-**Barcelona:** 16°C to 25°C. The beach is usable by late May (water temperature reaching 20°C). The best weather-to-crowds ratio of the year.
+**[Barcelona](/spain/barcelona-travel-guide):** 16°C to 25°C. The beach is usable by late May (water temperature reaching 20°C). The best weather-to-crowds ratio of the year.
 
 **Seville/Andalusia:** 18°C to 30°C. Warm in May — the heat begins arriving. Seville can push 34–35°C in late May. Morning and evening visits to outdoor sites are necessary by month end.
 

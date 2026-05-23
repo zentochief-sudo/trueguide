@@ -34,7 +34,7 @@ Sen no Rikyu is said to have drawn his *wabi* tea aesthetic partly from contempl
 
 ## Koto-in (高桐院)
 
-A subtemple accessible through a 50-meter maple-lined stone path — one of the most atmospheric temple approaches in Kyoto. The path's moss-covered ground, the stone lanterns at intervals, and the maple canopy overhead are the primary experience.
+A subtemple accessible through a 50-meter maple-lined stone path — one of the most atmospheric temple approaches in [Kyoto](/japan/kyoto-guide). The path's moss-covered ground, the stone lanterns at intervals, and the maple canopy overhead are the primary experience.
 
 **The garden**: The inner garden is a moss and stone composition of deliberate simplicity — the antithesis of Daisen-in's narrative complexity. A single stone lantern (said to have been given to Sen no Rikyu by Hideyoshi) stands at the garden's center.
 

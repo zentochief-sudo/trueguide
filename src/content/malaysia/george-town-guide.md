@@ -12,16 +12,16 @@ city: penang
 
 George Town is one of the best walking cities in Southeast Asia — a UNESCO World Heritage city where Malay, Chinese, Indian, and British colonial cultures have layered over each other for 230 years, producing a density of temples, mosques, shophouses, clan associations, and street food stalls that rewards hours of aimless wandering. The street art trail added in 2012 turned an already excellent heritage city into an international destination — the steel rod sculptures by Ernest Zacharevic and the wall murals that followed have become some of the most-photographed urban art in Asia.
 
-George Town was inscribed as a UNESCO World Heritage Site in 2008, alongside Malacca (Melaka), for its "outstanding universal value" as a trading port city. The designation has largely protected the historic core from the development pressure that has damaged similar cities elsewhere in Southeast Asia.
+George Town was inscribed as a UNESCO World Heritage Site in 2008, alongside Malacca ([Melaka](/malaysia/melaka-guide)), for its "outstanding universal value" as a trading port city. The designation has largely protected the historic core from the development pressure that has damaged similar cities elsewhere in Southeast Asia.
 
 ---
 
 ## The Heritage Core
 
-The UNESCO core zone covers the oldest part of George Town — roughly the area bounded by the waterfront, Penang Street (Jalan Penang), and the intersection with Macalister Road. Almost everything within this zone is navigable on foot.
+The UNESCO core zone covers the oldest part of George Town — roughly the area bounded by the waterfront, [Penang](/malaysia/penang-travel-guide) Street (Jalan Penang), and the intersection with Macalister Road. Almost everything within this zone is navigable on foot.
 
 ### Armenian Street (Lebuh Armenia)
-The center of the street art experience and one of the most photogenic streets in Malaysia. Ernest Zacharevic's 2012 mural "Children on a Bicycle" (showing two children on an actual rusted bicycle attached to the wall) sparked the street art movement here; the street now has a dozen major works.
+The center of the street art experience and one of the most photogenic streets in [Malaysia](/malaysia). Ernest Zacharevic's 2012 mural "Children on a Bicycle" (showing two children on an actual rusted bicycle attached to the wall) sparked the street art movement here; the street now has a dozen major works.
 
 The steel rod sculptures along Armenian Street and adjacent lanes are equally worth finding — two-dimensional figures made from iron rods that depict street scenes and occupations from George Town's past (a trishaw driver, a carpenter, a woman hanging laundry). They're small, easy to miss, and scattered across the heritage core.
 
@@ -78,7 +78,7 @@ A hill station at 833m offering panoramic views of George Town, the harbor, and 
 3. Into Armenian Street for the street art
 4. North to Lebuh Cannon for Khoo Kongsi
 5. South along Lebuh Pitt (Pitt Street) — "Street of Harmony" with mosque, Hindu temple, and churches within 500m
-6. Through the Little India zone around Lebuh Pasar Besar
+6. Through the Little [India](/india) zone around Lebuh Pasar Besar
 7. Down to the Clan Jetties via Weld Quay
 
 **Time**: 3–4 hours at a leisurely pace, longer if stopping at Khoo Kongsi and the Peranakan Mansion.
@@ -93,4 +93,4 @@ A hill station at 833m offering panoramic views of George Town, the harbor, and 
 
 **Accommodation**: The heritage core has been converted into boutique hotels occupying restored shophouses — Seven Terraces, Muntri Mews, and 1881 Chong Tian are the most acclaimed. Rooms are small (shophouse architecture), beautifully restored, and expensive relative to mainland Malaysia.
 
-**Costs**: George Town is notably cheap compared to Kuala Lumpur or international standards. A full hawker meal: RM8–15. Museum entries: RM10–50. Budget guesthouses: RM50–100/night.
+**Costs**: George Town is notably cheap compared to [Kuala Lumpur](/malaysia/kuala-lumpur-guide) or international standards. A full hawker meal: RM8–15. Museum entries: RM10–50. Budget guesthouses: RM50–100/night.

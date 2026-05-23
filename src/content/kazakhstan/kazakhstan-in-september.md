@@ -10,7 +10,7 @@ tags: [Kazakhstan, September, apple harvest, Almaty, Tian Shan, autumn, fall col
 city: national
 ---
 
-September is Kazakhstan's finest month. The summer heat has softened to warm days and cool nights. The apple harvest in the Almaty region reaches its peak — the Aport apple, grown in the Ile-Alatau foothills since the 19th century, is at maximum size and sweetness. The Tian Shan begins its autumn transformation: the deciduous belt below the treeline turns amber and yellow against the permanent white of the peaks. Crowds are gone. Prices are still summer rates. The light in September — the low-angle autumn sun hitting the mountains at dawn and dusk — is extraordinary for photography.
+September is [Kazakhstan](/kazakhstan)'s finest month. The summer heat has softened to warm days and cool nights. The apple harvest in the [Almaty](/kazakhstan/almaty-travel-guide) region reaches its peak — the Aport apple, grown in the Ile-Alatau foothills since the 19th century, is at maximum size and sweetness. The Tian Shan begins its autumn transformation: the deciduous belt below the treeline turns amber and yellow against the permanent white of the peaks. Crowds are gone. Prices are still summer rates. The light in September — the low-angle autumn sun hitting the mountains at dawn and dusk — is extraordinary for photography.
 
 ## Weather & Conditions
 
@@ -18,9 +18,9 @@ September is Kazakhstan's finest month. The summer heat has softened to warm day
 
 **Tian Shan (high routes):** 4–14°C. First snow arriving above 3,000m by late September. Lower routes still excellent.
 
-**Astana:** 10–22°C. Cooling fast. The steppe transitions to autumn gold.
+**[Astana](/kazakhstan/astana-guide):** 10–22°C. Cooling fast. The steppe transitions to autumn gold.
 
-**Charyn Canyon:** 16–28°C. Ideal — the summer heat is gone and the canyon is comfortable all day.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 16–28°C. Ideal — the summer heat is gone and the canyon is comfortable all day.
 
 **Steppe:** 12–24°C. The grass begins to turn.
 
@@ -28,7 +28,7 @@ September is Kazakhstan's finest month. The summer heat has softened to warm day
 
 **Apple harvest, Ile-Alatau foothills:** September is the reason Almaty is named "father of apples." The orchards of Talgar, Esik, and Kaskelen — the ring of foothill towns surrounding Almaty — are in full harvest. The Aport apple (a variety introduced by Russian settlers in the 1860s from the Voronezh region) grows only in this microclimate. Almaty's Green Bazaar in September is the best single food market experience in Kazakhstan — stacked with apples, walnuts, dried apricots, and the first pomegranates from Uzbekistan.
 
-**Tian Shan autumn trekking:** September's lower routes (below 2,800m) are at their most beautiful. The birch and maple belt along the lower Tian Shan slopes turns yellow and orange. The Big Almaty Lake achieves its most dramatic appearance — the glacial blue-green water against amber-brown slopes and white peaks. The Turgen Gorge, the Kok-Zhailau route from Medeu, and the Butakovsky waterfall trail are all accessible and far less crowded than July and August.
+**Tian Shan autumn trekking:** September's lower routes (below 2,800m) are at their most beautiful. The birch and maple belt along the lower Tian Shan slopes turns yellow and orange. The [Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) achieves its most dramatic appearance — the glacial blue-green water against amber-brown slopes and white peaks. The Turgen Gorge, the Kok-Zhailau route from Medeu, and the Butakovsky waterfall trail are all accessible and far less crowded than July and August.
 
 **Charyn Canyon autumn visit:** With the summer heat gone, September is the first month when Charyn Canyon can be visited throughout the day without the brutal midday heat. The 2km Valley of Castles walk, the canyon viewpoint, and the Charyn River gorge are all comfortable. An all-day Charyn excursion from Almaty becomes practical for the first time since spring.
 

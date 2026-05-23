@@ -13,13 +13,13 @@ etsy_template:
   url: https://www.etsy.com/shop/TrueGuide
 ---
 
-Ten days is the right amount of time for South Korea. Not because there isn't more to see — there is — but because ten days gives you enough time to slow down without feeling like you're rushing through a checklist. You'll do Seoul properly, see a completely different side of the country in Busan, and understand something about Korean history in Gyeongju that no amount of reading prepares you for.
+Ten days is the right amount of time for South Korea. Not because there isn't more to see — there is — but because ten days gives you enough time to slow down without feeling like you're rushing through a checklist. You'll do Seoul properly, see a completely different side of the country in [Busan](/korea/busan-guide), and understand something about Korean history in [Gyeongju](/korea/gyeongju-guide) that no amount of reading prepares you for.
 
 This itinerary is built for people who want to experience the country, not check it off.
 
 ## Before You Arrive
 
-**Getting to South Korea:** Incheon International Airport (ICN) is one of the best-connected airports in Asia. Direct flights from most major cities. From the airport to central Seoul, take the AREX (Airport Rail Express) — 43 minutes to Seoul Station, runs every 5–10 minutes. Skip the taxi unless you have very heavy luggage.
+**Getting to South Korea:** [Incheon](/korea/incheon-guide) International Airport (ICN) is one of the best-connected airports in Asia. Direct flights from most major cities. From the airport to central Seoul, take the AREX (Airport Rail Express) — 43 minutes to Seoul Station, runs every 5–10 minutes. Skip the taxi unless you have very heavy luggage.
 
 **eSIM:** Buy one before you board or immediately at the airport. Korea has excellent LTE coverage everywhere. Recommended providers: Airalo, KT (at the airport), or SK Telecom. A 10-day data-only eSIM costs about $15–20.
 
@@ -35,13 +35,13 @@ This itinerary is built for people who want to experience the country, not check
 
 Arrive, check in, resist the urge to immediately sightsee. You're jet-lagged and the city will be there tomorrow.
 
-If you arrive with energy: take the metro to **Garosu-gil** in Gangnam — a leafy street lined with independent cafés, clothing boutiques, and restaurants. It's one of Seoul's more pleasant introductions. Dinner at any of the Korean BBQ restaurants along the main drag.
+If you arrive with energy: take the metro to **Garosu-gil** in Gangnam — a leafy street lined with independent cafés, clothing boutiques, and restaurants. It's one of Seoul's more pleasant introductions. Dinner at any of the [Korean BBQ](/korea/korean-bbq-guide) restaurants along the main drag.
 
 **Where to stay in Seoul:** Hongdae neighborhood if you want nightlife and a young energy. Myeongdong for central access to everything. Insadong for a more traditional feel. Avoid Gangnam for accommodation unless price-matched — it's inconvenient for most sights.
 
 ### Day 2: Gyeongbokgung → Bukchon → Insadong
 
-Start at **Gyeongbokgung Palace** at 9am — before the tour groups arrive. The palace complex is enormous; the main throne hall, the floating pavilion (Gyeonghoeru), and the National Folk Museum are all inside the grounds. Budget 2 hours.
+Start at **[Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide)** at 9am — before the tour groups arrive. The palace complex is enormous; the main throne hall, the floating pavilion (Gyeonghoeru), and the National Folk Museum are all inside the grounds. Budget 2 hours.
 
 Directly adjacent is **Bukchon Hanok Village** — a residential neighborhood of traditional Korean houses (*hanok*) on a hillside between two palaces. The famous photo point (a narrow lane with hanok roofs curving downhill) is on Bukchon-ro 11-gil. It'll be busy; go early.
 
@@ -61,7 +61,7 @@ Evening: **Dongdaemun Design Plaza** (DDP) after dark. The Zaha Hadid–designed
 
 **Cheonggyecheon Stream** — a 5.8km urban stream restored from an elevated highway in 2005. Walk the length of it in the morning. In summer, people wade in it. It runs from City Hall district east to the Dongdaemun area.
 
-**Gwangjang Market** for lunch. One of Seoul's oldest covered markets. The front section sells fabric; push through to the food stalls in the back. Bindaetteok (mung bean pancakes), mayak gimbap (small seaweed rice rolls), and fresh bibimbap. Eat at the counter of whichever stall has the most grandmothers behind it.
+**[Gwangjang Market](/korea/gwangjang-market-guide)** for lunch. One of Seoul's oldest covered markets. The front section sells fabric; push through to the food stalls in the back. Bindaetteok (mung bean pancakes), mayak gimbap (small seaweed rice rolls), and fresh bibimbap. Eat at the counter of whichever stall has the most grandmothers behind it.
 
 Afternoon: **Jogyesa Temple** — the head temple of Korean Buddhism, improbably located in the middle of the city. Free to enter. The 500-year-old white zelkova trees in the courtyard are remarkable.
 
@@ -109,7 +109,7 @@ Evening: **Gwangalli Beach** and the Diamond Bridge lit up at night. Infinitely 
 
 ### Day 7: Haedong Yonggungsa + Haeundae
 
-**Haedong Yonggungsa Temple** — the most visually extraordinary Buddhist temple in Korea, built on a rocky promontory directly above the sea. Unlike most Korean temples (set in mountain forests), this one is battered by salt wind and waves. Arrive at sunrise if you can.
+**Haedong Yonggungsa Temple** — the most visually extraordinary Buddhist temple in Korea, built on a rocky promontory directly above the sea. Unlike most [Korean temples](/korea/korean-temples-guide) (set in mountain forests), this one is battered by salt wind and waves. Arrive at sunrise if you can.
 
 **Haeundae Beach** — Korea's most famous beach. In August it's sardine-packed; in April or October it's pleasant. The beach itself is fine. The real draw is the Haeundae market area behind it — raw seafood, grilled fish on sticks, haemuljeon (seafood pancakes) at the market stalls.
 

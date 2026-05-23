@@ -14,7 +14,7 @@ April is South Korea's showstopper month. Cherry blossoms peak across the countr
 
 ## Weather in April
 
-**Seoul:** 12–18°C average, warming through the month. Light jacket weather. Comfortable for long walking days.
+**[Seoul](/south-korea/seoul-guide):** 12–18°C average, warming through the month. Light jacket weather. Comfortable for long walking days.
 
 **Busan / Jinhae:** Similar, possibly a degree warmer with sea influence. April 1–15 is usually peak for Jinhae's famous festival.
 

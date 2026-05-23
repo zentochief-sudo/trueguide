@@ -16,7 +16,7 @@ Toronto's position on Lake Ontario makes it a natural base for southern Ontario 
 
 ## Niagara Falls
 
-The most visited destination from Toronto — two falls on the Canada-US border, 130 km south of Toronto.
+The most visited destination from Toronto — two falls on the [Canada](/canada)-US border, 130 km south of Toronto.
 
 **Getting there**:
 - **Via Rail / GO Transit**: The Niagara train service from Union Station runs seasonally on weekends ($30–42 CAD return). Journey: 2 hours. Limited service; check schedules at gotransit.com.

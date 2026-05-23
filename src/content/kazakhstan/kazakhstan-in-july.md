@@ -10,7 +10,7 @@ tags: [Kazakhstan, July, Tian Shan, horse culture, steppe, Almaty, summer, nomad
 city: national
 ---
 
-July is Kazakhstan's peak summer month. Almaty is warm (25–33°C) and the city's population heads to the mountain parks above the city to escape the heat. The Tian Shan high routes are at maximum accessibility — all passes are open, all huts operational. The steppe has browned from spring green to summer gold. And the traditional summer jailau (high pasture) culture of Kazakh nomadic life is at its most visible — yurts on the mountain meadows, horseback games, and the taste of the season's kumiss (fermented mare's milk).
+July is [Kazakhstan](/kazakhstan)'s peak summer month. [Almaty](/kazakhstan/almaty-travel-guide) is warm (25–33°C) and the city's population heads to the mountain parks above the city to escape the heat. The Tian Shan high routes are at maximum accessibility — all passes are open, all huts operational. The steppe has browned from spring green to summer gold. And the traditional summer jailau (high pasture) culture of Kazakh nomadic life is at its most visible — yurts on the mountain meadows, horseback games, and the taste of the season's kumiss (fermented mare's milk).
 
 ## Weather & Conditions
 
@@ -18,9 +18,9 @@ July is Kazakhstan's peak summer month. Almaty is warm (25–33°C) and the city
 
 **Tian Shan (high routes):** 10–20°C. Excellent. All passes open.
 
-**Astana:** 20–30°C. Steppe summer. Hot but not extreme.
+**[Astana](/kazakhstan/astana-guide):** 20–30°C. Steppe summer. Hot but not extreme.
 
-**Charyn Canyon:** 26–36°C. Very hot. Dawn visits only.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 26–36°C. Very hot. Dawn visits only.
 
 **Steppe:** 20–32°C. Brown and vast. Dramatic in a different way than spring.
 
@@ -52,4 +52,4 @@ Jailau visits: the best experiences are through operators who have genuine relat
 
 ## Who July Is For
 
-Mountain trekkers and expedition climbers. Nomadic culture and jailau (high pasture) travelers. Anyone who specifically wants Kazakhstan's summer character — the heat, the gold steppe, and the mountain escape — as a genuine country experience.
+Mountain trekkers and expedition climbers. [Nomadic culture](/kazakhstan/nomadic-culture-guide) and jailau (high pasture) travelers. Anyone who specifically wants Kazakhstan's summer character — the heat, the gold steppe, and the mountain escape — as a genuine country experience.

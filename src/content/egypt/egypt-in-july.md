@@ -10,11 +10,11 @@ tags: [Egypt, July, summer, heat, Red Sea, Pyramids, low season, diving]
 city: national
 ---
 
-July is the peak of Egypt's summer and the extreme end of its challenge. Temperatures in Luxor and Aswan regularly reach 45°C and occasionally higher. The ancient sites are not closed — but visiting them in July requires the same logistical discipline as an expedition. The Red Sea coast, however, is in its prime. Hurghada and Sharm el-Sheikh are bustling with European package tourists seeking warm water and winter sun. The two Egypts of July couldn't be more different.
+July is the peak of [Egypt](/egypt)'s summer and the extreme end of its challenge. Temperatures in Luxor and Aswan regularly reach 45°C and occasionally higher. The ancient sites are not closed — but visiting them in July requires the same logistical discipline as an expedition. The Red Sea coast, however, is in its prime. Hurghada and Sharm el-Sheikh are bustling with European package tourists seeking warm water and winter sun. The two Egypts of July couldn't be more different.
 
 ## Weather & Conditions
 
-**Cairo:** 26–38°C. Similar to June. The desert heat is consistent and dry. Air conditioning is available in all hotels; street-level heat is relentless.
+**[Cairo](/egypt/cairo-travel-guide):** 26–38°C. Similar to June. The desert heat is consistent and dry. Air conditioning is available in all hotels; street-level heat is relentless.
 
 **Luxor:** 32–45°C, regularly exceeding this. The record high for Luxor is 48°C. July is not the month to be cavalier about heat exposure.
 
@@ -28,9 +28,9 @@ July is the peak of Egypt's summer and the extreme end of its challenge. Tempera
 
 **Red Sea resorts (Hurghada and Sharm el-Sheikh):** July is the Red Sea's peak beach tourism month. European visitors arrive in large numbers. The all-inclusive resort model — air-conditioned rooms, infinity pool, beach access, full meal plan — is genuinely suited to July's heat. Water is at its warmest. Snorkeling off hotel house reefs and day trips to protected areas are the activity base.
 
-**Giza Plateau, 7am start:** The Grand Egyptian Museum near the Pyramids is fully air-conditioned and can occupy a 3–4 hour morning without heat exposure. For the Pyramids themselves, the 7am strategy holds — but July light and heat build faster than in other months. Have a plan and a retreat.
+**Giza Plateau, 7am start:** The [Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) near the Pyramids is fully air-conditioned and can occupy a 3–4 hour morning without heat exposure. For the Pyramids themselves, the 7am strategy holds — but July light and heat build faster than in other months. Have a plan and a retreat.
 
-**Grand Egyptian Museum (GEM):** Opened in 2023 and home to the complete Tutankhamun treasures — over 5,000 objects including the golden mask, the ceremonial throne, and items never before exhibited. One of the world's great museum experiences. Fully climate-controlled. Worth an entire day in July.
+**Grand [Egyptian Museum](/egypt/egyptian-museum-guide) (GEM):** Opened in 2023 and home to the complete Tutankhamun treasures — over 5,000 objects including the golden mask, the ceremonial throne, and items never before exhibited. One of the world's great museum experiences. Fully climate-controlled. Worth an entire day in July.
 
 **Felucca nights on the Nile in Aswan:** A late-evening felucca ride in Aswan (after 7pm, once temperatures drop to 30°C) is a different experience than a daytime visit. The river breeze, the lit mausoleum on the hill, and the sound of Nubian music from the banks make Aswan nights unexpectedly pleasant even in July.
 

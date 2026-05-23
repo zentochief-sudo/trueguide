@@ -10,7 +10,7 @@ tags: [Bangkok, Thailand, neighborhoods, Sukhumvit, Silom, Rattanakosin, Chinato
 city: bangkok
 ---
 
-Bangkok has no single center — it is a city of districts, each with its own character, transport connections, and function. Understanding the geography before arrival saves significant time: the BTS Skytrain covers two corridors (Sukhumvit and Silom/Sathorn), and being based on or near these lines puts most of the city within 15–30 minutes. Being based off the lines, in the old city or Chinatown, means every journey by road.
+[Bangkok](/thailand/bangkok-guide) has no single center — it is a city of districts, each with its own character, transport connections, and function. Understanding the geography before arrival saves significant time: the BTS Skytrain covers two corridors (Sukhumvit and Silom/Sathorn), and being based on or near these lines puts most of the city within 15–30 minutes. Being based off the lines, in the old city or Chinatown, means every journey by road.
 
 ---
 

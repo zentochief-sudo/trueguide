@@ -10,7 +10,7 @@ tags: [Miami, FIFA World Cup 2026, Hard Rock Stadium, Miami travel, USA]
 city: miami
 ---
 
-Miami is hosting FIFA World Cup 2026 matches at Hard Rock Stadium in Miami Gardens — and no city on the American roster will absorb the tournament with more cultural fluency. Miami has the largest concentration of Latin Americans of any city in the United States. Spanish is a first language for a significant portion of the population. Cuban food, Colombian nightlife, Venezuelan coffee culture, Argentine steakhouses, and Brazilian restaurants coexist across a metro area of 6 million people.
+Miami is hosting FIFA World Cup 2026 matches at [Hard Rock Stadium](/united-states/hard-rock-stadium-guide) in Miami Gardens — and no city on the American roster will absorb the tournament with more cultural fluency. Miami has the largest concentration of Latin Americans of any city in the United States. Spanish is a first language for a significant portion of the population. Cuban food, Colombian nightlife, Venezuelan coffee culture, Argentine steakhouses, and Brazilian restaurants coexist across a metro area of 6 million people.
 
 When the World Cup arrives here, it will feel less like hosting a foreign tournament and more like hosting a neighborhood party. The city already speaks the language.
 
@@ -38,13 +38,13 @@ The matches take place in June and July. The weather is hot, humid, and beautifu
 
 **Miami International Airport (MIA)**: The primary international gateway. The Metrorail Orange Line connects MIA to Downtown Miami in 15 minutes ($2.25). From Downtown, Metromover connects to Brickell. Rideshare from MIA to South Beach: $30–50 under normal conditions.
 
-**Fort Lauderdale-Hollywood International (FLL)**: Often significantly cheaper for flights and 30 miles north of Miami — closer to Hard Rock Stadium than South Beach is. Tri-Rail connects FLL to Miami (35–45 minutes, $5.40) and the stadium's general area. Many World Cup visitors will find FLL the more practical option.
+**Fort Lauderdale-[Hollywood](/united-states/hollywood-guide) International (FLL)**: Often significantly cheaper for flights and 30 miles north of Miami — closer to Hard Rock Stadium than South Beach is. Tri-Rail connects FLL to Miami (35–45 minutes, $5.40) and the stadium's general area. Many World Cup visitors will find FLL the more practical option.
 
 ---
 
 ## Where to Stay
 
-**South Beach (Miami Beach)**: The most famous address and the default for international visitors. Ocean Drive, the Art Deco district, the beach itself — all here. Hotel rates: $200–400/night in summer; 40–70% premium on match weeks. The commute to Hard Rock is 45–60 minutes by rideshare on a normal day, $60–90 on match days.
+**South Beach ([Miami Beach](/united-states/miami-beach-guide))**: The most famous address and the default for international visitors. Ocean Drive, the Art Deco district, the beach itself — all here. Hotel rates: $200–400/night in summer; 40–70% premium on match weeks. The commute to Hard Rock is 45–60 minutes by rideshare on a normal day, $60–90 on match days.
 
 **Brickell**: Miami's financial district and the most walkable urban neighborhood on the mainland. Direct Metrorail access to MIA. High-rises, rooftop bars, and the **Brickell City Centre** mall. Hotels $180–320/night. A more business-trip feeling that suits some visitors better than South Beach's resort energy.
 

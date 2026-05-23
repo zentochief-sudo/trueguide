@@ -32,7 +32,7 @@ Guadalajara is the second most affordable World Cup host city (after Monterrey, 
 
 **Tren Ligero / Macrobús**: 9.50 MXN per ride.
 
-**Uber to Estadio Akron**: 120–200 MXN from the Center. Round trip: 250–400 MXN + possible surge post-match.
+**Uber to [Estadio Akron](/[mexico](/mexico)/estadio-akron-guide)**: 120–200 MXN from the Center. Round trip: 250–400 MXN + possible surge post-match.
 
 **Airport to Center**: 180–280 MXN by Uber; 380–450 MXN by official taxi.
 

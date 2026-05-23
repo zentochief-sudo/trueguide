@@ -10,7 +10,7 @@ tags: [Osaka, ramen, food, noodles, ramen guide, Japan food, kansai ramen]
 city: Osaka
 ---
 
-Osaka is not Japan's most famous ramen city — that's Fukuoka (tonkotsu birthplace), Sapporo (miso ramen capital), or Tokyo (the maximalist mixing bowl). But Osaka has a distinct ramen culture built on lighter Kansai-style broths, a thriving 24-hour eating culture, and regional variations that serious ramen enthusiasts travel to the city specifically to find. Here's what to know and where to eat it.
+[Osaka](/japan/osaka-guide) is not Japan's most famous ramen city — that's [Fukuoka](/japan/fukuoka-guide) (tonkotsu birthplace), [Sapporo](/japan/sapporo-guide) (miso ramen capital), or [Tokyo](/japan/tokyo-guide) (the maximalist mixing bowl). But Osaka has a distinct ramen culture built on lighter Kansai-style broths, a thriving 24-hour eating culture, and regional variations that serious ramen enthusiasts travel to the city specifically to find. Here's what to know and where to eat it.
 
 ## Osaka Ramen Styles
 
@@ -105,7 +105,7 @@ What makes Osaka ramen distinctive from a logistics perspective: the city's late
 | Sapporo | Miso | Miso base, corn, butter | Hearty for the cold climate |
 | Tokyo | Shoyu/varied | Soy broth, chicken base | The most eclectic; all styles available |
 | Osaka | Shio/assari | Clear chicken/seafood | Lighter, cleaner, more delicate |
-| Kyoto | Shoyu/Kotteri | Chicken soy, distinctive sweetness | Unique Kyoto soy sauce style |
+| [Kyoto](/japan/kyoto-guide) | Shoyu/Kotteri | Chicken soy, distinctive sweetness | Unique Kyoto soy sauce style |
 
 ## When to Go
 

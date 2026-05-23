@@ -30,7 +30,7 @@ The card works on all Metro rail lines, all Metro bus routes, and the Metrolink 
 
 LA Metro operates six rail lines that, together, cover the most useful tourist corridors reasonably well.
 
-**B Line (Red Line)** — The backbone. Runs from North Hollywood through Hollywood (Highland, Vine, Vermont/Sunset, Vermont/Beverly) to downtown Union Station via MacArthur Park and Westlake. If you're staying in Hollywood, this line is your primary connection to downtown. ~20 minutes Hollywood to downtown.
+**B Line (Red Line)** — The backbone. Runs from North [Hollywood](/united-states/hollywood-guide) through Hollywood (Highland, Vine, Vermont/Sunset, Vermont/Beverly) to downtown Union Station via MacArthur Park and Westlake. If you're staying in Hollywood, this line is your primary connection to downtown. ~20 minutes Hollywood to downtown.
 
 **D Line (Purple Line)** — Shares the downtown stations with the B Line, then extends west through Koreatown (Wilshire/Vermont, Wilshire/Normandie, Wilshire/Western) toward the Westside. The extension to Westwood/UCLA opens in 2026, which means for the World Cup, you will for the first time be able to take Metro from Hollywood to UCLA in a single seat. This is a significant addition.
 
@@ -40,7 +40,7 @@ LA Metro operates six rail lines that, together, cover the most useful tourist c
 
 **C Line (Green Line)** — Runs east-west through the South Bay, connecting to the K Line at Redondo Beach. Useful if you're coming from the airport corridor.
 
-**K Line (Crenshaw/LAX Line)** — The line you need for SoFi Stadium. Runs from the E Line's Expo/Crenshaw station south through Inglewood to Westchester/Veterans, with a stop at Inglewood – Fairview Heights approximately 1.5 miles from the stadium. Match-day shuttles connect the station to the stadium entrance. Full journey from downtown: 45–55 minutes. From Santa Monica (via E Line transfer at Expo/Crenshaw): 55–65 minutes.
+**K Line (Crenshaw/LAX Line)** — The line you need for [SoFi Stadium](/united-states/sofi-stadium-guide). Runs from the E Line's Expo/Crenshaw station south through Inglewood to Westchester/Veterans, with a stop at Inglewood – Fairview Heights approximately 1.5 miles from the stadium. Match-day shuttles connect the station to the stadium entrance. Full journey from downtown: 45–55 minutes. From Santa Monica (via E Line transfer at Expo/Crenshaw): 55–65 minutes.
 
 ---
 

@@ -46,7 +46,7 @@ Yaletown's converted warehouse buildings have patios and bar programs that defin
 
 **Brix & Mortar** (1138 Homer Street): A wine bar and restaurant in a 1912 warehouse with a covered patio — the best wine program in Yaletown, with a serious by-the-glass selection of BC, French, and Italian wines.
 
-**The Tap & Barrel** (multiple locations, including the waterfront at False Creek): The best view-with-a-beer spot adjacent to BC Place — the waterfront location at Science World is 200 meters from the stadium's south gate. Local BC craft beer on tap, patio seating on False Creek.
+**The Tap & Barrel** (multiple locations, including the waterfront at False Creek): The best view-with-a-beer spot adjacent to [BC Place](/[canada](/canada)/bc-place-guide) — the waterfront location at Science World is 200 meters from the stadium's south gate. Local BC craft beer on tap, patio seating on False Creek.
 
 ---
 

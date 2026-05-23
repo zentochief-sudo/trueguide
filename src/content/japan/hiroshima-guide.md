@@ -10,7 +10,7 @@ tags: [Hiroshima, Japan, Miyajima, Peace Memorial, atomic bomb, Itsukushima shri
 city: hiroshima
 ---
 
-There is a logic to putting Hiroshima on a Japan itinerary that has nothing to do with tragedy tourism. The city is genuinely good to visit: compact, easy to navigate, with its own food identity and a surrounding region that includes one of the most beautiful sites in Japan. Miyajima island is 45 minutes from the city center. The combination makes this one of the more satisfying two-day stops on any western Japan itinerary.
+There is a logic to putting Hiroshima on a Japan itinerary that has nothing to do with tragedy tourism. The city is genuinely good to visit: compact, easy to navigate, with its own food identity and a surrounding region that includes one of the most beautiful sites in Japan. [Miyajima](/japan/miyajima-guide) island is 45 minutes from the city center. The combination makes this one of the more satisfying two-day stops on any western Japan itinerary.
 
 The Peace Memorial is important and you should go. But Hiroshima does not ask you to leave sad. The city was rebuilt, and the people who rebuilt it were direct about why: to demonstrate that the act of reconstruction was itself a kind of argument. The city you walk through today is that argument.
 
@@ -18,7 +18,7 @@ The Peace Memorial is important and you should go. But Hiroshima does not ask yo
 
 ## Getting There
 
-From Osaka: 90 minutes by Shinkansen Nozomi (¥9,800). From Tokyo: 4 hours by Nozomi (¥18,000), or a good overnight option on the Sunrise Izumo sleeper train.
+From [Osaka](/japan/osaka-guide): 90 minutes by Shinkansen Nozomi (¥9,800). From [Tokyo](/japan/tokyo-guide): 4 hours by Nozomi (¥18,000), or a good overnight option on the Sunrise Izumo sleeper train.
 
 **Hiroshima Station** is modern, busy, and directly on the Shinkansen line. The city center and Peace Park are 15 minutes by tram (¥190, IC card accepted). The tram network is simple — Line 2 from the station covers most of what you need.
 
@@ -76,11 +76,11 @@ The island is one of Japan's three canonical "most scenic views" (*nihon sankei*
 
 **Mount Misen** — the sacred mountain behind the shrine. Three hiking routes, each 1.5–2 hours to the 535-meter summit. The ropeway (¥1,800 round trip) gets you two-thirds of the way; 30 more minutes on foot to the top. The views from the summit cover the Seto Inland Sea islands in every direction. A sacred flame on the summit has reportedly burned for 1,200 years.
 
-**Deer** — like Nara, Miyajima has free-roaming deer. Unlike Nara's deer (which have been fed for centuries and will crowd you for food), Miyajima's deer are genuinely wild and tend to ignore people. They do occasionally eat maps.
+**Deer** — like [Nara](/japan/nara-guide), Miyajima has free-roaming deer. Unlike Nara's deer (which have been fed for centuries and will crowd you for food), Miyajima's deer are genuinely wild and tend to ignore people. They do occasionally eat maps.
 
 **Momiji Manju** — the island's famous confection, a maple-leaf-shaped cake filled with red bean paste (or newer variants: chocolate, cheese, custard). The original shops near the shrine are the standard; Miyajima momiji manju are sold everywhere in Hiroshima as souvenirs.
 
-**Staying on the island**: If you can, stay on Miyajima overnight. After the day-trip crowds leave on the last ferry, the island becomes something else entirely — the shrine in near-darkness, the gate lit in the water, the deer sleeping on steps. The ryokan on the island charge accordingly (¥20,000–50,000/night) but the overnight experience is substantially different from the day trip.
+**Staying on the island**: If you can, stay on Miyajima overnight. After the day-trip crowds leave on the last ferry, the island becomes something else entirely — the shrine in near-darkness, the gate lit in the water, the deer sleeping on steps. The [ryokan](/japan/ryokan-guide) on the island charge accordingly (¥20,000–50,000/night) but the overnight experience is substantially different from the day trip.
 
 ---
 

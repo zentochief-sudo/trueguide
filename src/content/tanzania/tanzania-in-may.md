@@ -10,19 +10,19 @@ tags: [Tanzania, May, green season, value safari, Serengeti, Zanzibar, reopening
 city: national
 ---
 
-May is when Tanzania's long rainy season begins its retreat. The rains don't end abruptly — it's a gradual taper through the month — but by late May many camps have reopened and the combination of green landscapes, recovering wildlife, and end-of-low-season pricing creates one of the year's best value windows. The Serengeti is extraordinarily lush. Zanzibar's east coast begins its transition to the southeast monsoon.
+May is when [Tanzania](/tanzania)'s long rainy season begins its retreat. The rains don't end abruptly — it's a gradual taper through the month — but by late May many camps have reopened and the combination of green landscapes, recovering wildlife, and end-of-low-season pricing creates one of the year's best value windows. The Serengeti is extraordinarily lush. [Zanzibar](/tanzania/zanzibar-guide)'s east coast begins its transition to the southeast monsoon.
 
 ## Weather & Conditions
 
 **Serengeti:** Rain tapering through May. The second half of the month sees increasing dry periods. Grass is tall (1–2 meters in some areas) — wildlife can be harder to spot at the start, improving as May progresses.
 
-**Ngorongoro:** Rain easing. The crater is accessible with some cloud cover.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** Rain easing. The crater is accessible with some cloud cover.
 
 **Southern Tanzania (Ruaha, Selous/Nyerere):** The south is generally drier than the north in May. Ruaha's river corridor is full of water and wildlife.
 
 **Zanzibar:** The long rains ease in May. The east coast begins drying out toward the end of May. The southeast monsoon (kusi) arrives in May, bringing good conditions for the west coast.
 
-**Mount Kilimanjaro:** Still a less reliable month for summit attempts. Conditions improve from June.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Still a less reliable month for summit attempts. Conditions improve from June.
 
 ## What to Do
 
@@ -46,7 +46,7 @@ May is when Tanzania's long rainy season begins its retreat. The rains don't end
 
 May is Tanzania's deepest green season discount month that still has operational camps. June prices begin rising; May retains significant discounts. Quality lodges and camps that open in May offer exceptional value — often 30–40% below July rates.
 
-Flight connections to the Serengeti via Kilimanjaro (JRO) or Arusha operate year-round, but small charter aircraft flights to Ndutu, Grumeti, and Ruaha operate on seasonal schedules that resume in May.
+Flight connections to the Serengeti via Kilimanjaro (JRO) or [Arusha](/tanzania/arusha-guide) operate year-round, but small charter aircraft flights to Ndutu, Grumeti, and Ruaha operate on seasonal schedules that resume in May.
 
 Tall grass in the Serengeti in May means wildlife requires more effort to find. A good driver-guide makes the difference between a frustrating game drive and an excellent one. Book through operators who specifically retain experienced guides rather than seasonal-hire operators.
 

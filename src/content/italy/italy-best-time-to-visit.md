@@ -10,13 +10,13 @@ tags: []
 city: national
 ---
 
-Italy is a long, narrow country stretching from the Alps to the Mediterranean, and its climate varies dramatically from region to region. Venice in February (moody, misty, navigable) is a completely different experience from Amalfi in August (beautiful but heaving). Timing matters enormously.
+[Italy](/italy) is a long, narrow country stretching from the Alps to the Mediterranean, and its climate varies dramatically from region to region. Venice in February (moody, misty, navigable) is a completely different experience from Amalfi in August (beautiful but heaving). Timing matters enormously.
 
 ## The Short Answer
 
 **Best overall:** April–May and September–October  
 **Best weather:** June and September  
-**Avoid in summer:** Rome and Florence in August (extreme heat, minimum tourists)  
+**Avoid in summer:** [Rome](/italy/rome-guide) and Florence in August (extreme heat, minimum tourists)  
 **Best for skiing:** December–March (Alps, Dolomites)  
 **Best for beaches:** July–August (though Amalfi and Sardinia are crowded)
 
@@ -25,7 +25,7 @@ Italy is a long, narrow country stretching from the Alps to the Mediterranean, a
 ## Month-by-Month
 
 ### January & February
-Cold in the north (Milan, Venice: 0–7°C), mild in the south (Sicily, Naples: 10–15°C). Off-season means low prices and no crowds — the Vatican and Uffizi are virtually empty. Venice's **Carnevale** (February, two weeks before Ash Wednesday) is extraordinary: masks, costumes, and theatrical beauty before the city floods back with tourists.
+Cold in the north ([Milan](/italy/milan-travel-guide), Venice: 0–7°C), mild in the south (Sicily, Naples: 10–15°C). Off-season means low prices and no crowds — the Vatican and Uffizi are virtually empty. Venice's **Carnevale** (February, two weeks before Ash Wednesday) is extraordinary: masks, costumes, and theatrical beauty before the city floods back with tourists.
 
 ### March & April
 Spring comes early in the south. Rome is perfect in late March–April (15–20°C, spring flowers, manageable crowds). Easter week is one of Italy's most atmospheric — Rome's Good Friday procession from the Colosseum is remarkable.
@@ -45,7 +45,7 @@ High season everywhere. Rome and Florence hit 35–40°C in August — genuinely
 Summer crowds disperse, temperatures remain warm (24–28°C in Rome, cooler in the north), and the country feels like itself again. Grape harvest throughout Tuscany, Piedmont, and Veneto — vineyards open their doors. Highly recommended for almost everywhere.
 
 ### October
-Autumn colours in the north — Lake Como, the Dolomites, and Tuscany are spectacular. Rome still pleasant (18–22°C). Truffle season in Tuscany and Umbria. Fewer tourists, good prices.
+Autumn colours in the north — [Lake Como](/italy/lake-como-guide), the Dolomites, and Tuscany are spectacular. Rome still pleasant (18–22°C). Truffle season in Tuscany and Umbria. Fewer tourists, good prices.
 
 ### November–December
 Rain increases, especially in Venice (acqua alta flooding season). Milan and Turin are cold and grey. Rome is mild and uncrowded — arguably the best time to visit the city. Christmas markets in Bolzano (South Tyrol) and Turin. The Amalfi Coast closes many restaurants and hotels.

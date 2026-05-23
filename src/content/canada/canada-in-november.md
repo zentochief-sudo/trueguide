@@ -10,7 +10,7 @@ tags: [Canada, November, shoulder season, budget, cities, Victoria, Vancouver]
 city: national
 ---
 
-November is the honest travel month. No one pretends it's ideal. The foliage is done. Ski season hasn't opened in most places. The weather across the country ranges from damp to genuinely cold. But for travelers who prioritize access and value over perfect conditions, November in Canada's cities offers something the summer months can't: the real texture of daily life without any tourist infrastructure, at prices that represent the annual floor.
+November is the honest travel month. No one pretends it's ideal. The foliage is done. Ski season hasn't opened in most places. The weather across the country ranges from damp to genuinely cold. But for travelers who prioritize access and value over perfect conditions, November in [Canada](/canada)'s cities offers something the summer months can't: the real texture of daily life without any tourist infrastructure, at prices that represent the annual floor.
 
 ## Weather & Conditions
 

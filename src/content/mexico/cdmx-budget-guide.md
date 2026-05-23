@@ -10,7 +10,7 @@ tags: [Ciudad de México, presupuesto, costos, World Cup 2026, Mexico City, gast
 city: cdmx
 ---
 
-Mexico City is the most affordable World Cup host city for most visitors — the exchange rate (the Mexican peso), public transport prices ($5 MXN per Metro trip), and the structure of the food scene (where eating on the street or in markets is as good as eating in restaurants) make it possible to have an extraordinary experience on a modest budget.
+[Mexico](/mexico) City is the most affordable World Cup host city for most visitors — the exchange rate (the Mexican peso), public transport prices ($5 MXN per Metro trip), and the structure of the food scene (where eating on the street or in markets is as good as eating in restaurants) make it possible to have an extraordinary experience on a modest budget.
 
 The only high-cost factor is accommodation in premium neighborhoods during match weeks, when prices rise significantly.
 

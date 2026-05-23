@@ -10,13 +10,13 @@ tags: [Seattle, transport, Link Light Rail, World Cup 2026, getting around Seatt
 city: seattle
 ---
 
-Seattle's transit system is less complex than the SF Bay Area's but more functional than most visitors expect from a mid-size American city. The Link Light Rail runs from Sea-Tac Airport through downtown to Capitol Hill and beyond, with a Stadium Station directly adjacent to Lumen Field. For World Cup visitors, the transit equation is simpler than many other host cities: airport to downtown to stadium all on one rail line.
+Seattle's transit system is less complex than the SF Bay Area's but more functional than most visitors expect from a mid-size American city. The Link Light Rail runs from Sea-Tac Airport through downtown to Capitol Hill and beyond, with a Stadium Station directly adjacent to [Lumen Field](/united-states/lumen-field-guide). For World Cup visitors, the transit equation is simpler than many other host cities: airport to downtown to stadium all on one rail line.
 
 ---
 
 ## Link Light Rail
 
-Sound Transit's Link Light Rail is the primary transit system for World Cup visitors. The 1 Line (Central Link) runs from Angle Lake (south of Sea-Tac) through the airport, south Seattle neighborhoods, downtown Seattle, Capitol Hill, the University of Washington, and extends north into the suburbs.
+Sound Transit's Link Light Rail is the primary transit system for World Cup visitors. The 1 Line (Central Link) runs from Angle Lake (south of Sea-Tac) through the airport, south [Seattle neighborhoods](/united-states/seattle-neighborhoods-guide), downtown Seattle, Capitol Hill, the University of Washington, and extends north into the suburbs.
 
 **Key stations for World Cup visitors**:
 - **Sea-Tac/Airport**: International terminal access. Journey to downtown: 38 minutes.

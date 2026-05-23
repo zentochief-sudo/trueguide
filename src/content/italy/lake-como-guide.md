@@ -10,7 +10,7 @@ tags: [Lake Como, Bellagio, Varenna, Italy, Italian Lakes, villas, ferry, Tremez
 city: milan
 ---
 
-Lake Como is 70 km north of Milan — an inverted Y-shaped lake surrounded by the pre-Alpine foothills, its shores lined with 19th-century villas and their elaborate gardens, the towns of Bellagio, Varenna, and Tremezzina climbing the hillsides above the water. The combination of the lake's deep blue (it reaches 425m depth), the backdrop of snow-capped Alps for most of the year, and the Neoclassical and Art Nouveau villas that accumulated here during the Risorgimento era produces a landscape that has been described as the most beautiful in Italy with some regularity since the 18th century.
+Lake Como is 70 km north of [Milan](/italy/milan-travel-guide) — an inverted Y-shaped lake surrounded by the pre-Alpine foothills, its shores lined with 19th-century villas and their elaborate gardens, the towns of Bellagio, Varenna, and Tremezzina climbing the hillsides above the water. The combination of the lake's deep blue (it reaches 425m depth), the backdrop of snow-capped Alps for most of the year, and the Neoclassical and Art Nouveau villas that accumulated here during the Risorgimento era produces a landscape that has been described as the most beautiful in [Italy](/italy) with some regularity since the 18th century.
 
 It's an easy day trip from Milan; it rewards multiple days for those who want to absorb the slower lake pace and explore more than the ferry circuit.
 

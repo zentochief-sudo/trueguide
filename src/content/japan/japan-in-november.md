@@ -10,7 +10,7 @@ tags: [Japan, November, autumn, fall foliage, koyo, Kyoto, temples]
 city: national
 ---
 
-November is when Kyoto earns the photographs that people carry with them for the rest of their lives. Maple trees turn crimson and gold against stone garden walls, ginkgo trees line temple paths in yellow, and the light on November afternoons does something that makes even the most jaded traveler stop walking.
+November is when [Kyoto](/japan/kyoto-guide) earns the photographs that people carry with them for the rest of their lives. Maple trees turn crimson and gold against stone garden walls, ginkgo trees line temple paths in yellow, and the light on November afternoons does something that makes even the most jaded traveler stop walking.
 
 It's the other great seasonal peak. Most travelers know about cherry blossoms. The regulars know about November.
 
@@ -22,7 +22,7 @@ November divides into two distinct phases:
 
 **Late November (16th–30th):** Noticeably colder. Tokyo drops to 10–15°C, Kyoto to 8–13°C. Evenings require a proper coat. Morning visits to outdoor temple gardens will be cold — bring layers.
 
-Hokkaido is already in pre-winter by November, with first snowfall possible in Sapporo by mid-month.
+[Hokkaido](/japan/hokkaido-guide) is already in pre-winter by November, with first snowfall possible in [Sapporo](/japan/sapporo-guide) by mid-month.
 
 Rain is minimal in November — it's one of Japan's driest months, which also means crisp, clear days ideal for photography.
 
@@ -30,11 +30,11 @@ Rain is minimal in November — it's one of Japan's driest months, which also me
 
 | Location | Typical Peak |
 |---|---|
-| Nikko | Late October–early November |
+| [Nikko](/japan/nikko-guide) | Late October–early November |
 | Tokyo (Shinjuku Gyoen, Koishikawa) | Late November |
 | Kyoto | Mid–late November |
 | Osaka | Late November |
-| Hiroshima / Miyajima | Late November |
+| [Hiroshima](/japan/hiroshima-guide) / [Miyajima](/japan/miyajima-guide) | Late November |
 | Nara | Mid–late November |
 
 **Kyoto in mid-to-late November** is the main event. Every major temple and garden is transformed:
@@ -90,7 +90,7 @@ Similar to October — mid-to-high season pricing in Kyoto, standard elsewhere.
 |---|---|
 | Budget accommodation | $40–65/night |
 | Mid-range hotel (Kyoto) | $120–200/night |
-| Ryokan with meals (Kyoto peak) | $200–400+/person |
+| [Ryokan](/japan/ryokan-guide) with meals (Kyoto peak) | $200–400+/person |
 | Meals | $8–50 depending on venue |
 | 10-day trip budget | $2,200–3,800 |
 
@@ -110,4 +110,4 @@ November is the easier great trip. The foliage doesn't all fall overnight like c
 
 November is the month that converts casual Japan visitors into regulars. Once you've seen Kyoto's temple gardens in mid-November light, the photography makes sense. The experience sticks.
 
-If cherry blossom season is impossible logistically or financially — November is not the consolation prize. It's a different but equal experience, and in some ways a more beautiful one.
+If [cherry blossom](/japan/cherry-blossom-guide) season is impossible logistically or financially — November is not the consolation prize. It's a different but equal experience, and in some ways a more beautiful one.

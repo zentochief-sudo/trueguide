@@ -10,7 +10,7 @@ tags: [Islamic Cairo, Al-Azhar, Sultan Hassan, Citadel, Khan el-Khalili, medieva
 city: cairo
 ---
 
-Islamic Cairo is a UNESCO World Heritage Site — a living medieval city containing some of the finest Islamic architecture in the world, built across ten centuries by Fatimid, Ayyubid, Mamluk, and Ottoman rulers. The neighborhood covers several square kilometers east of downtown and contains more medieval monuments per square meter than anywhere outside of a handful of Moroccan medinas.
+Islamic [Cairo](/egypt/cairo-travel-guide) is a UNESCO World Heritage Site — a living medieval city containing some of the finest Islamic architecture in the world, built across ten centuries by Fatimid, Ayyubid, Mamluk, and Ottoman rulers. The neighborhood covers several square kilometers east of downtown and contains more medieval monuments per square meter than anywhere outside of a handful of Moroccan medinas.
 
 Two distinct clusters organize most visits: the **Citadel/Sultan Hassan area** (monumental mosques on the hill above the city) and the **Khan el-Khalili/Al-Azhar area** (bazaar and medieval street network). Both are 3–4 km apart; Uber connects them easily.
 
@@ -48,7 +48,7 @@ The mosque's architecture layers additions from ten centuries: the original Fati
 
 Built 1356–1363 AD during the Mamluk period, Sultan Hassan is considered a masterpiece of Islamic architecture — one of the largest mosques in the world at approximately 8,000 square meters, with four iwans (vaulted halls) arranged around a central courtyard, one for each of the four major schools of Islamic jurisprudence.
 
-**The scale**: The entrance portal is 38 meters high. The bronze door (the largest in Islamic Egypt) is 10 meters tall. The interior courtyard gives the impression of standing inside a fortification rather than a place of worship.
+**The scale**: The entrance portal is 38 meters high. The bronze door (the largest in Islamic [Egypt](/egypt)) is 10 meters tall. The interior courtyard gives the impression of standing inside a fortification rather than a place of worship.
 
 **Al-Rifa'i Mosque**: Built directly opposite Sultan Hassan in 1912, Al-Rifa'i contains the tombs of the Egyptian royal family — including **King Farouk** (last king of Egypt, deposed 1952) and **Mohammad Reza Shah Pahlavi** (last Shah of Iran, died in exile in Cairo 1980). The combination ticket covers both.
 

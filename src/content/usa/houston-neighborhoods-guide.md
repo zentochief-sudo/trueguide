@@ -12,7 +12,7 @@ city: houston
 
 Houston is famously the largest American city with no formal zoning laws — and the neighborhoods reflect this. A craft cocktail bar can sit next to an auto parts store next to a Vietnamese restaurant, and the juxtaposition is typically not ironic, just Houston. The city organizes itself around major corridors and activity nodes rather than coherent residential zones, which means neighborhood character is more about the dominant use and demographic than about architectural consistency.
 
-For World Cup visitors, the relevant neighborhoods are the ones within reach of the METRORail Red Line — which runs from downtown through Midtown, the Museum District, the Medical Center, and directly to NRG Stadium.
+For World Cup visitors, the relevant neighborhoods are the ones within reach of the METRORail Red Line — which runs from downtown through Midtown, the Museum District, the Medical Center, and directly to [NRG Stadium](/united-states/nrg-stadium-guide).
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Chiang Mai, Thailand, temples, Lanna, Buddhism, Wat Doi Suthep, Wat Umong
 city: chiang-mai
 ---
 
-Chiang Mai has over 300 wats (temples) — more temples per square kilometer than any other city in Thailand. The concentration reflects Chiang Mai's role as the capital of the Lanna Kingdom (1296–1558) and its continued importance as a center of northern Thai Buddhism. Lanna temple architecture differs visibly from the Central Thai style of Bangkok: multi-tiered roofs with deeply raked eaves, Burmese and Shan influences in the decorative details, white-and-gold color schemes rather than orange and green, and a more intimate scale.
+[Chiang Mai](/[thailand](/thailand)/chiang-mai-guide) has over 300 wats (temples) — more temples per square kilometer than any other city in Thailand. The concentration reflects Chiang Mai's role as the capital of the Lanna Kingdom (1296–1558) and its continued importance as a center of northern Thai Buddhism. Lanna temple architecture differs visibly from the Central Thai style of [Bangkok](/thailand/bangkok-guide): multi-tiered roofs with deeply raked eaves, Burmese and Shan influences in the decorative details, white-and-gold color schemes rather than orange and green, and a more intimate scale.
 
 The temples function as living religious communities — monks perform morning chants, residents bring offerings, and meditation courses open to foreigners are held in many temple grounds.
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks gives you the full Thailand — from the frantic energy of Bangkok to the mountain serenity of the north and the turquoise islands of the south. This itinerary follows the classic flow but with time to go deeper in each place.
+Two weeks gives you the full [Thailand](/thailand) — from the frantic energy of [Bangkok](/thailand/bangkok-guide) to the mountain serenity of the north and the turquoise islands of the south. This itinerary follows the classic flow but with time to go deeper in each place.
 
 ## Days 1–3 – Bangkok
 
@@ -20,11 +20,11 @@ Three days to properly explore one of Southeast Asia's most complex and rewardin
 
 **Day 2:** **Jim Thompson House** — the 1960s home of the American silk entrepreneur, a cluster of traditional Thai houses with an extraordinary art collection. Then the **National Museum** (excellent collection of Thai Buddhist art). Afternoon: **Chatuchak Weekend Market** (Saturday/Sunday only — the world's largest weekend market) or the **Maeklong Railway Market** for a weekday.
 
-**Day 3:** Day trip to **Ayutthaya** by train (90 min) — the ancient capital of Thailand (1350–1767), destroyed by Burmese invasion and left largely as ruins in the middle of a modern city. The headless Buddha statues and collapsed prang towers are haunting and beautiful. Return to Bangkok by train.
+**Day 3:** Day trip to **[Ayutthaya](/thailand/ayutthaya-guide)** by train (90 min) — the ancient capital of Thailand (1350–1767), destroyed by Burmese invasion and left largely as ruins in the middle of a modern city. The headless Buddha statues and collapsed prang towers are haunting and beautiful. Return to Bangkok by train.
 
 ## Days 4–6 – Chiang Mai
 
-Fly north to Chiang Mai. Three days in Thailand's cultural heart.
+Fly north to [Chiang Mai](/thailand/chiang-mai-guide). Three days in Thailand's cultural heart.
 
 **Day 4:** Old City temples (Wat Chedi Luang, Wat Phra Singh, Wat Chiang Man — the oldest temple in Chiang Mai, 1296). **Sunday Walking Street** on Wualai Road is unmissable if you're there. Evening: the Night Bazaar.
 
@@ -56,7 +56,7 @@ Ferry south to **Koh Lipe** (4–5 hours) — a small island near the Malaysian 
 
 Or: ferry/boat to **Railay Beach** (from Krabi or Ao Nang) — accessible only by longtail boat, enclosed by limestone cliffs, with one of Thailand's most dramatic beaches. Rock climbing on the karst towers is world-class and courses are available for beginners.
 
-Final night: return to Krabi or Phuket for your international flight.
+Final night: return to Krabi or [Phuket](/thailand/phuket-guide) for your international flight.
 
 ---
 

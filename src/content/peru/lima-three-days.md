@@ -10,7 +10,7 @@ tags: []
 city: Lima
 ---
 
-Lima surprises. Most visitors treat it as a transit point for Cusco and Machu Picchu — a mistake. Lima is South America's culinary capital, home to multiple restaurants ranked among the world's best, a fascinating pre-Columbian museum collection, dramatic Pacific cliffs, and a bohemian neighbourhood that rivals anything in the continent.
+[Lima](/peru/lima-guide) surprises. Most visitors treat it as a transit point for [Cusco](/[peru](/peru)/cusco-guide) and [Machu Picchu](/peru/machu-picchu-guide) — a mistake. Lima is South America's culinary capital, home to multiple restaurants ranked among the world's best, a fascinating pre-Columbian museum collection, dramatic Pacific cliffs, and a bohemian neighbourhood that rivals anything in the continent.
 
 ## Day 1 – Miraflores & the Pacific Cliffs
 

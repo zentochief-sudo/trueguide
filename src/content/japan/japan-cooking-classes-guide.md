@@ -10,7 +10,7 @@ tags: [Japanese cooking class, sushi class Tokyo, ramen cooking class, Japanese 
 city: national
 ---
 
-A Japanese cooking class returns value that outlasts the trip — the techniques for dashi stock, the logic of a proper teriyaki glaze, the method for rolling inside-out sushi, all of these transfer to a home kitchen in ways that temple photographs don't. The cooking class industry in Japan has developed to serve international visitors efficiently: English-language instruction, sourced ingredients, and kitchen setups designed for people who don't cook Japanese food regularly.
+A Japanese cooking class returns value that outlasts the trip — the techniques for dashi stock, the logic of a proper teriyaki glaze, the method for rolling inside-out sushi, all of these transfer to a home kitchen in ways that temple photographs don't. The cooking class industry in Japan has developed to serve international visitors efficiently: English-language instruction, sourced ingredients, and kitchen setups designed for people who don't cook [Japanese food](/japan/japanese-food-guide) regularly.
 
 ---
 
@@ -70,7 +70,7 @@ A distinct category: learning to make traditional Japanese sweets — *nerikiri*
 
 ## Recommended Classes in Tokyo
 
-**Airbnb Experiences / Japan-specific booking platforms**: The curated cooking experience market on Airbnb and similar platforms (Cookly, Airbnb Experiences, Viator) lists hundreds of Tokyo cooking classes with verified reviews. Filter by dish type and review score.
+**Airbnb Experiences / Japan-specific booking platforms**: The curated cooking experience market on Airbnb and similar platforms (Cookly, Airbnb Experiences, Viator) lists hundreds of [Tokyo](/japan/tokyo-guide) cooking classes with verified reviews. Filter by dish type and review score.
 
 **Tokyo Kitchen**:  A dedicated English-language cooking school in Shinjuku area with multiple class formats — sushi, ramen, tempura, and washoku menus. Professional instruction, small groups, recipe books provided. Classes ¥7,000–12,000 per person.
 
@@ -82,7 +82,7 @@ A distinct category: learning to make traditional Japanese sweets — *nerikiri*
 
 ## Recommended Classes in Kyoto
 
-**Cooking Sun**: Kyoto-based class specializing in traditional Kyoto cuisine (kyo-ryori) — seasonal vegetables, mild flavors, precision seasoning. Classes in English; ingredients sourced from Nishiki Market. 3-hour format, includes market shopping.
+**Cooking Sun**: [Kyoto](/japan/kyoto-guide)-based class specializing in traditional Kyoto cuisine (kyo-ryori) — seasonal vegetables, mild flavors, precision seasoning. Classes in English; ingredients sourced from Nishiki Market. 3-hour format, includes market shopping.
 
 **Uzuki Cooking Class**: Operates from a traditional machiya; the cooking context (a real Kyoto town house kitchen with tatami dining) adds to the experience. Focuses on home-style Japanese cooking rather than restaurant techniques.
 

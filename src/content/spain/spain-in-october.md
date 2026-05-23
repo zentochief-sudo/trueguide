@@ -10,13 +10,13 @@ tags: [Spain, October, Pilar festival, Zaragoza, autumn, wine harvest, Canary Is
 city: national
 ---
 
-October is Spain's quiet return to itself. The international summer tourists are gone. Spanish families are back at school and work. Prices drop to near-winter levels across most of the country while conditions remain excellent — particularly in Andalusia, where October is arguably the finest month of the year. The Mediterranean holds warmth through mid-October. And Zaragoza's Pilar festival is one of Spain's most authentic and undervisited major events.
+October is [Spain](/spain)'s quiet return to itself. The international summer tourists are gone. Spanish families are back at school and work. Prices drop to near-winter levels across most of the country while conditions remain excellent — particularly in Andalusia, where October is arguably the finest month of the year. The Mediterranean holds warmth through mid-October. And Zaragoza's Pilar festival is one of Spain's most authentic and undervisited major events.
 
 ## Weather in October
 
 **Madrid:** 11°C to 22°C. Crisp, clear autumn weather. The Retiro park turns gold and red. Outdoor café culture continues in the warmth of midday.
 
-**Barcelona:** 17°C to 24°C. October is one of Barcelona's best months — comfortable temperatures, thin crowds, sea temperature still warm (22°C) through mid-month.
+**[Barcelona](/spain/barcelona-travel-guide):** 17°C to 24°C. October is one of Barcelona's best months — comfortable temperatures, thin crowds, sea temperature still warm (22°C) through mid-month.
 
 **Seville/Andalusia:** 17°C to 27°C. The finest month in Seville — perfect temperatures for outdoor life, the orange trees loaded with fruit, the tourist-to-local ratio finally tilting back. The Real Alcázar and the Cathedral at optimal visiting conditions.
 

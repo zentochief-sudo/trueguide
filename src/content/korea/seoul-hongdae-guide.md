@@ -55,7 +55,7 @@ Some categories worth knowing:
 ## Food in Hongdae
 
 ### The Street Food Corridor
-The street running from Hongdae station toward the university entrance has the highest density of Korean street food in the neighborhood: **tteokbokki** (spicy rice cakes), **hotteok** (sweet stuffed pancakes, best in winter when vendors are on every corner), **corn dogs** in the Korean style (rice batter, mozzarella filling, rolled in sugar), and **sundae** (blood sausage) with fish cakes.
+The street running from Hongdae station toward the university entrance has the highest density of [Korean street food](/korea/korean-street-food-guide) in the neighborhood: **tteokbokki** (spicy rice cakes), **hotteok** (sweet stuffed pancakes, best in winter when vendors are on every corner), **corn dogs** in the Korean style (rice batter, mozzarella filling, rolled in sugar), and **sundae** (blood sausage) with fish cakes.
 
 The eating happens standing or perched on plastic stools; the ambience is cold and bright and occasionally chaotic.
 

@@ -10,7 +10,7 @@ tags: [kabuki, Japanese theater, Kabukiza, Shimbashi Enbujo, classical theater, 
 city: national
 ---
 
-Kabuki (*歌舞伎*) has been performed in Japan since 1603, when Izumo no Okuni (a female shrine maiden from Shimane) began performing unusual dances in the dry Kamo riverbed in Kyoto. Within decades it had developed into a full theatrical form; within a century, it had standardized into the elaborate tradition that survives today — with a repertoire of plays dating from the Edo period, a training system that passes roles from father to son across generations, and a performance style designed to maximize theatrical impact in a way that no other form achieves.
+Kabuki (*歌舞伎*) has been performed in Japan since 1603, when Izumo no Okuni (a female shrine maiden from Shimane) began performing unusual dances in the dry Kamo riverbed in [Kyoto](/japan/kyoto-guide). Within decades it had developed into a full theatrical form; within a century, it had standardized into the elaborate tradition that survives today — with a repertoire of plays dating from the Edo period, a training system that passes roles from father to son across generations, and a performance style designed to maximize theatrical impact in a way that no other form achieves.
 
 A kabuki performance is not obscure or boring for someone who has never seen it before — it is deliberately spectacular. The *mie* (freeze pose of maximum intensity), the *kumadori* makeup (bold geometric patterns in red, black, and blue on white), the *aragoto* (rough style) performances of supernatural power, and the *hanamichi* (the elevated walkway through the audience that brings actors into the crowd) are designed to be immediately impressive.
 
@@ -60,7 +60,7 @@ The primary kabuki venue in Japan, and the most atmospheric for visitors. The cu
 
 ### Shimbashi Enbujo (新橋演舞場) — Tokyo, Shimbashi
 
-A secondary Tokyo kabuki venue, also hosting *Super Kabuki II* (a modern hybrid production) and Takarazuka. Less traditional than Kabukiza but with important productions.
+A secondary [Tokyo](/japan/tokyo-guide) kabuki venue, also hosting *Super Kabuki II* (a modern hybrid production) and Takarazuka. Less traditional than Kabukiza but with important productions.
 
 ### Minamiza (南座) — Kyoto, Gion
 

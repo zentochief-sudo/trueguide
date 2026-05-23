@@ -10,7 +10,7 @@ tags: [Italy, February, Venice Carnival, Carnival, ski, Dolomites, Rome, winter,
 city: national
 ---
 
-February is Italy's Carnival month — and Venice Carnival is the most photographed, most theatrical, and most internationally famous masked event in Europe. Beyond Venice, February delivers: peak ski season in the Dolomites and Alps, a Rome that's genuinely uncrowded, and early signals of spring arriving in Sicily and southern Italy by month's end. February is a month of contrasts.
+February is [Italy](/italy)'s Carnival month — and Venice Carnival is the most photographed, most theatrical, and most internationally famous masked event in Europe. Beyond Venice, February delivers: peak ski season in the Dolomites and Alps, a [Rome](/italy/rome-guide) that's genuinely uncrowded, and early signals of spring arriving in Sicily and southern Italy by month's end. February is a month of contrasts.
 
 ## Weather in February
 
@@ -20,7 +20,7 @@ February is Italy's Carnival month — and Venice Carnival is the most photograp
 
 **Venice:** 1°C to 8°C. Cold, sometimes foggy. During Carnival, the city operates entirely outdoors — dress warmly.
 
-**Milan:** 2°C to 10°C. Cold, grey, but the city's interior culture (restaurants, galleries, the Duomo) doesn't depend on weather.
+**[Milan](/italy/milan-travel-guide):** 2°C to 10°C. Cold, grey, but the city's interior culture (restaurants, galleries, the Duomo) doesn't depend on weather.
 
 **Naples/Sicily:** 10°C to 18°C. Sicily in late February sees early spring — almond blossoms near Agrigento and in the interior valleys, mild temperatures. Palermo in February is pleasant and nearly tourist-free.
 

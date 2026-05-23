@@ -22,7 +22,7 @@ New York City accommodation prices are among the highest in the world, and World
 
 **Hostels**: $50–90/night for a dorm bed. Manhattan hostels include **HI New York City** (Amsterdam Avenue, Upper West Side), **The Local NYC** (Long Island City, Queens), and **Harlem YMCA** (for budget-focused travelers comfortable with the YMCA format). Queens hostels tend to be $10–15 cheaper per night and are often 20–30 minutes from Midtown by subway.
 
-**Budget hotels**: $140–220/night. The lowest floor of Manhattan hotel pricing. Properties in **Long Island City** (Queens), **Astoria** (Queens), and **Williamsburg** (Brooklyn) offer more room and better quality at these price points than equivalent Manhattan properties.
+**Budget hotels**: $140–220/night. The lowest floor of Manhattan hotel pricing. Properties in **Long Island City** (Queens), **Astoria** (Queens), and **Williamsburg** ([Brooklyn](/united-states/brooklyn-guide)) offer more room and better quality at these price points than equivalent Manhattan properties.
 
 **Mid-range hotels**: $250–380/night in normal Manhattan summer periods. During match weeks for knockout rounds, expect the floor to rise to $300–450. The **Pod Hotels** (39th Street and 42nd Street) are the best-designed budget-Manhattan options at $180–250.
 

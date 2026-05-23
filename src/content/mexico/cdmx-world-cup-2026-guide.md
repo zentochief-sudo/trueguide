@@ -10,7 +10,7 @@ tags: [Ciudad de México, CDMX, World Cup 2026, FIFA, Estadio Azteca, Mexico Cit
 city: cdmx
 ---
 
-Mexico City is the capital of the host country and the most populous city in the Western Hemisphere — 22 million people in the metropolitan area. For the 2026 World Cup, CDMX is the most complete destination: Estadio Azteca (the only stadium to have hosted two World Cup finals), a cuisine recognized as UNESCO Intangible Cultural Heritage, world-class museums, and a cultural life that never closes.
+[Mexico](/mexico) City is the capital of the host country and the most populous city in the Western Hemisphere — 22 million people in the metropolitan area. For the 2026 World Cup, CDMX is the most complete destination: [Estadio Azteca](/mexico/estadio-azteca-guide) (the only stadium to have hosted two World Cup finals), a cuisine recognized as UNESCO Intangible Cultural Heritage, world-class museums, and a cultural life that never closes.
 
 The World Cup is also an opportunity for international visitors to discover that Mexico City resembles no other destination in Latin America — it is a megalopolis with centuries of history layered into every neighborhood.
 
@@ -21,7 +21,7 @@ The World Cup is also an opportunity for international visitors to discover that
 **Stadium**: Estadio Azteca, Calzada de Tlalpan 3465, Santa Úrsula Coapa, CDMX  
 **Capacity**: 87,523 (the largest in the tournament)  
 **Matches**: Tournament opener plus 6 more matches (including a quarterfinal)  
-**The historical fact**: The Azteca is the only stadium to have hosted two World Cup finals (1970: Brazil vs. Italy; 1986: Argentina vs. West Germany) and Diego Maradona's 1986 match against England, where he scored both the "Goal of the Century" and the "Hand of God Goal."
+**The historical fact**: The Azteca is the only stadium to have hosted two World Cup finals (1970: Brazil vs. [Italy](/italy); 1986: Argentina vs. West Germany) and Diego Maradona's 1986 match against England, where he scored both the "Goal of the Century" and the "Hand of God Goal."
 
 ---
 
@@ -31,7 +31,7 @@ The World Cup is also an opportunity for international visitors to discover that
 
 **The pre-Hispanic history**: Teotihuacán is 50 km from the city — the third-largest pyramid in the world, built before 200 AD. The Templo Mayor, in the city center, is the excavation of the Aztec capital, Tenochtitlan. The Museo Nacional de Antropología holds the world's largest collection of pre-Hispanic art.
 
-**The museums**: The Museo Frida Kahlo (La Casa Azul in Coyoacán), the Museo Soumaya (the largest collection of Rodin outside France), the Museo del Palacio de Bellas Artes, and Diego Rivera's murals at the Palacio Nacional (free admission).
+**The museums**: The Museo Frida Kahlo (La Casa Azul in Coyoacán), the Museo Soumaya (the largest collection of Rodin outside [France](/france)), the Museo del Palacio de Bellas Artes, and Diego Rivera's murals at the Palacio Nacional (free admission).
 
 **The neighborhoods**: Roma Norte, Condesa, Polanco, Coyoacán, and the Centro Histórico — each neighborhood with a distinct urban character, different architecture, and its own food scene.
 

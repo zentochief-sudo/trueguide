@@ -10,19 +10,19 @@ tags: [Portugal, November, Nazaré, big waves, novo wine, Lisbon, Algarve, off-s
 city: national
 ---
 
-November is Portugal's deep off-season — the tourists have gone, the prices are near their January lows, and the country operates for itself. It is also one of the most dramatic months on the Atlantic coast: the autumn storms deliver Nazaré's biggest waves outside the January-February peak, and the cliff-top viewing of 20-meter surf is extraordinary. The Beaujolais Nouveau comparison: Portugal's own vinho verde and novo wine arrive in November. And Lisbon in November rain, emptied of visitors, is quietly excellent.
+November is [Portugal](/portugal)'s deep off-season — the tourists have gone, the prices are near their January lows, and the country operates for itself. It is also one of the most dramatic months on the Atlantic coast: the autumn storms deliver Nazaré's biggest waves outside the January-February peak, and the cliff-top viewing of 20-meter surf is extraordinary. The Beaujolais Nouveau comparison: Portugal's own vinho verde and novo wine arrive in November. And [Lisbon](/portugal/lisbon-guide) in November rain, emptied of visitors, is quietly excellent.
 
 ## Weather in November
 
 **Lisbon:** 11°C to 18°C. The rain arrives properly in November — the Atlantic fronts bringing extended periods of wet weather between clear spells. Pack a waterproof layer; plan for indoor culture as well as outdoor.
 
-**Porto:** 9°C to 15°C. November in Porto is authentic winter atmosphere — grey skies, frequent rain, the tile-covered buildings of the historic center vivid in wet weather. Porto in November is atmospheric rather than comfortable.
+**[Porto](/portugal/porto-guide):** 9°C to 15°C. November in Porto is authentic winter atmosphere — grey skies, frequent rain, the tile-covered buildings of the historic center vivid in wet weather. Porto in November is atmospheric rather than comfortable.
 
-**Algarve:** 14°C to 21°C. The warmest part of Portugal in November. Rain possible but the Algarve's southern position means more clear days than Lisbon. Swimming over (water 18°C) but walking and dining remain excellent.
+**[Algarve](/portugal/algarve-guide):** 14°C to 21°C. The warmest part of Portugal in November. Rain possible but the Algarve's southern position means more clear days than Lisbon. Swimming over (water 18°C) but walking and dining remain excellent.
 
 **Alentejo:** 9°C to 16°C. Autumn in the cork oak plains — the mushroom season continues, the landscape green again after summer.
 
-**Douro Valley:** 8°C to 15°C. The vines are fully dormant by late November — the terraces bare, the valley quiet. Not its most beautiful month but deeply atmospheric.
+**[Douro Valley](/portugal/douro-valley-guide):** 8°C to 15°C. The vines are fully dormant by late November — the terraces bare, the valley quiet. Not its most beautiful month but deeply atmospheric.
 
 ## Nazaré — Big Wave Peak Approaching
 
@@ -42,7 +42,7 @@ November is when Portugal's new wines arrive:
 
 **Vinho Verde Novo:** The new vintage Vinho Verde (green wine — young, slightly fizzy, low alcohol) begins arriving in November from the Minho region. The best Vinho Verde is consumed young — November new vintage is the freshest the wine will be.
 
-**Beaujolais comparison:** Portugal's restaurant culture celebrates new wines less formally than France's Beaujolais Nouveau day, but the arrival of the novo harvest wines in November is a genuine seasonal marker in Porto and the north.
+**Beaujolais comparison:** Portugal's restaurant culture celebrates new wines less formally than [France](/france)'s Beaujolais Nouveau day, but the arrival of the novo harvest wines in November is a genuine seasonal marker in Porto and the north.
 
 **Lisbon wine bars in November:** The new vintage tasting season begins — wine bars throughout Lisbon run November tastings of the new Douro, Alentejo, and Vinho Verde releases.
 

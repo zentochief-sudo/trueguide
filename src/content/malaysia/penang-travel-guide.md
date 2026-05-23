@@ -10,7 +10,7 @@ tags: [Penang, George Town, Malaysia, hawker food, UNESCO, street art, temples, 
 city: penang
 ---
 
-Penang is an island state off the northwest coast of peninsular Malaysia — connected to the mainland by two bridges — and its capital George Town is one of the most culturally layered cities in Southeast Asia. For centuries a trading port of the British East India Company, then the Straits of Malacca's busiest entrepôt, George Town became a melting point of Malay, Chinese, Indian, and European cultures that produced a specific material culture visible in every block: five-foot-way shophouses, Chinese clan temples, mosques and Hindu temples sharing the same street, and a food culture that consistently ranks among the world's best.
+Penang is an island state off the northwest coast of peninsular [Malaysia](/malaysia) — connected to the mainland by two bridges — and its capital [George Town](/malaysia/george-town-guide) is one of the most culturally layered cities in Southeast Asia. For centuries a trading port of the British East [India](/india) Company, then the Straits of Malacca's busiest entrepôt, George Town became a melting point of Malay, Chinese, Indian, and European cultures that produced a specific material culture visible in every block: five-foot-way shophouses, Chinese clan temples, mosques and Hindu temples sharing the same street, and a food culture that consistently ranks among the world's best.
 
 In 2008, George Town was inscribed as a UNESCO World Heritage Site — the recognition of an outstanding example of multicultural heritage in Southeast Asia.
 
@@ -61,7 +61,7 @@ The funicular railway (10 minutes, RM 30 round trip for foreigners) runs to the 
 
 ## Practical Notes
 
-**Getting to Penang**: Penang International Airport (PEN) — AirAsia and Malindo Air from Kuala Lumpur (1 hour, from ~RM 60/€12). Alternatively, 4 hours by bus from KL to Butterworth (mainland terminal) + 15-minute ferry to George Town.
+**Getting to Penang**: Penang International Airport (PEN) — AirAsia and Malindo Air from [Kuala Lumpur](/malaysia/kuala-lumpur-guide) (1 hour, from ~RM 60/€12). Alternatively, 4 hours by bus from KL to Butterworth (mainland terminal) + 15-minute ferry to George Town.
 
 **Getting around George Town**: The UNESCO heritage zone is walkable. The Penang Heritage Trail map covers the main sites. Grab (Uber equivalent) for trips to Penang Hill, Kek Lok Si, or Batu Ferringhi.
 

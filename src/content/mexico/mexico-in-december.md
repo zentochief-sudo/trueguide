@@ -10,7 +10,7 @@ tags: [Mexico, December, dry season, Christmas, posadas, travel tips, weather]
 city: national
 ---
 
-December is when Mexico is most itself during its most beautiful season. The rains that dominate summer are finished. The heat of spring hasn't arrived. And the country celebrates the holidays with a festive intensity that's unique — posadas, fireworks, tamales, and family gatherings that extend into the streets.
+December is when [Mexico](/mexico) is most itself during its most beautiful season. The rains that dominate summer are finished. The heat of spring hasn't arrived. And the country celebrates the holidays with a festive intensity that's unique — posadas, fireworks, tamales, and family gatherings that extend into the streets.
 
 It's also the most popular month to visit. Understand the trade-offs.
 
@@ -67,7 +67,7 @@ December is the best time for the Copper Canyon railway journey — cool but not
 December 20 through January 5 is high season pricing throughout Mexico.
 
 - **Hotels:** 30–50% above standard rates in tourist areas
-- **Flights:** High demand from the US, Canada, and Europe
+- **Flights:** High demand from the US, [Canada](/canada), and Europe
 - **Restaurant reservations:** Essential for December 24, 25, and 31
 
 Outside the holiday week, early-to-mid December is excellent and more affordable.

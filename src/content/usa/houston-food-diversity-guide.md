@@ -54,7 +54,7 @@ The Bellaire Boulevard corridor in Southwest Houston — sometimes called Housto
 
 **El Hidalguense** (6917 Long Point Road): Authentic central Mexican barbacoa — beef cheek slow-cooked wrapped in maguey leaves, served on weekends only. One of the most specific regional Mexican preparations in the US outside of New York. Open Saturday and Sunday mornings until sold out.
 
-**Caracol** (2200 Post Oak Boulevard): A Sonoran coastal Mexican seafood restaurant — not Tex-Mex, not the taco/enchilada canon, but Pacific coast Mexico with aguachiles, ceviches, and wood-grilled fish. The most interesting upscale Mexican restaurant in Houston. Dinner: $40–55 per person.
+**Caracol** (2200 Post Oak Boulevard): A Sonoran coastal Mexican seafood restaurant — not Tex-Mex, not the taco/enchilada canon, but Pacific coast [Mexico](/mexico) with aguachiles, ceviches, and wood-grilled fish. The most interesting upscale Mexican restaurant in Houston. Dinner: $40–55 per person.
 
 **Teotihuacan Mexican Café** (multiple locations): Unpretentious interior Mexican cooking — mole, chiles rellenos, and Mexican breakfast (chilaquiles, huevos rancheros) at the Tex-Mex price point with more regional specificity. $12–18 per person.
 

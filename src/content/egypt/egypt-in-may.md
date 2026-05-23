@@ -10,11 +10,11 @@ tags: [Egypt, May, Red Sea, Hurghada, Luxor, heat, diving, shoulder season]
 city: national
 ---
 
-May is when Egypt's heat stops being a consideration and starts being the defining factor. Luxor and Aswan temperatures reach 38–42°C by the second half of the month. Serious outdoor exploration of the ancient sites becomes a morning-only proposition with real consequences if you push it. The payoff: the sites are empty of tour groups, hotel prices are among the lowest of the year, and the Red Sea coast in May is superb — warm water, good visibility, and minimal crowds.
+May is when [Egypt](/egypt)'s heat stops being a consideration and starts being the defining factor. Luxor and Aswan temperatures reach 38–42°C by the second half of the month. Serious outdoor exploration of the ancient sites becomes a morning-only proposition with real consequences if you push it. The payoff: the sites are empty of tour groups, hotel prices are among the lowest of the year, and the Red Sea coast in May is superb — warm water, good visibility, and minimal crowds.
 
 ## Weather & Conditions
 
-**Cairo:** 22–32°C. Hot but not extreme. Morning and evening explorations are comfortable. Midday is genuinely challenging at outdoor sites.
+**[Cairo](/egypt/cairo-travel-guide):** 22–32°C. Hot but not extreme. Morning and evening explorations are comfortable. Midday is genuinely challenging at outdoor sites.
 
 **Luxor:** 28–40°C. Very hot. By mid-May, outdoor afternoon work at the temples and tombs is not advisable without serious hydration planning.
 

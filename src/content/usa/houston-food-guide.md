@@ -50,7 +50,7 @@ Houston's Nigerian and West African communities — predominantly in the Alief d
 
 ## Tex-Mex and Mexican
 
-Houston's Mexican food tradition is geographically closer to the border than Dallas's, producing a broader range of interior Mexico regional cooking alongside the Tex-Mex classics.
+Houston's Mexican food tradition is geographically closer to the border than Dallas's, producing a broader range of interior [Mexico](/mexico) regional cooking alongside the Tex-Mex classics.
 
 **Ninfa's on Navigation** (2704 Navigation Boulevard): The most historically significant Mexican restaurant in Houston — and arguably in the United States for one specific reason: in 1973, Ninfa Laurenzo invented the fajita here. The dish (grilled skirt steak in a cast-iron skillet, served with flour tortillas, guacamole, and pico de gallo) is now universal, but the original version at the Navigation location retains its character. Budget $20–28 per person.
 

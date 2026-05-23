@@ -10,7 +10,7 @@ tags: [Vancouver, transport, SkyTrain, Canada Line, TransLink, World Cup 2026, B
 city: vancouver
 ---
 
-Vancouver's transit network (TransLink) integrates SkyTrain rapid transit, buses, the SeaBus ferry to North Vancouver, and the West Coast Express commuter rail. For World Cup visitors, the SkyTrain covers almost every relevant destination — the airport, BC Place, the main neighborhoods, and the Richmond Chinese food district are all directly on SkyTrain lines.
+Vancouver's transit network (TransLink) integrates SkyTrain rapid transit, buses, the SeaBus ferry to North Vancouver, and the West Coast Express commuter rail. For World Cup visitors, the SkyTrain covers almost every relevant destination — the airport, [BC Place](/[canada](/canada)/bc-place-guide), the main neighborhoods, and the Richmond Chinese food district are all directly on SkyTrain lines.
 
 ---
 

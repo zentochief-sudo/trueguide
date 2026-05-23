@@ -10,7 +10,7 @@ tags: [Sagrada Família, Gaudí, Barcelona, architecture, UNESCO, "2026", basili
 city: barcelona
 ---
 
-The Sagrada Família is the most visited monument in Spain and one of the most significant architectural works in the world. Designed by Antoni Gaudí, construction began in 1882 and the basilica has been continuously built for over 140 years. In 2026 — coinciding with Barcelona's designation as UNESCO World Capital of Architecture — the central tower, the Torre de Jesucrist, reaches its full height of 172.5 meters, making the Sagrada Família the tallest church in the world.
+The Sagrada Família is the most visited monument in [Spain](/spain) and one of the most significant architectural works in the world. Designed by Antoni Gaudí, construction began in 1882 and the basilica has been continuously built for over 140 years. In 2026 — coinciding with [Barcelona](/spain/barcelona-travel-guide)'s designation as UNESCO World Capital of Architecture — the central tower, the Torre de Jesucrist, reaches its full height of 172.5 meters, making the Sagrada Família the tallest church in the world.
 
 Visiting in 2026 means witnessing the near-completion of a project that will have taken six human generations.
 

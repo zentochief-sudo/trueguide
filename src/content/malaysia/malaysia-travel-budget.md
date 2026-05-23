@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Malaysia is one of Southeast Asia's best value destinations — cheaper than Singapore and Thailand for accommodation and food, while offering comparable or superior quality in many respects. The food, in particular, is extraordinary value.
+[Malaysia](/malaysia) is one of Southeast Asia's best value destinations — cheaper than Singapore and [Thailand](/thailand) for accommodation and food, while offering comparable or superior quality in many respects. The food, in particular, is extraordinary value.
 
 ## Quick Summary
 
@@ -24,15 +24,15 @@ Malaysia is one of Southeast Asia's best value destinations — cheaper than Sin
 
 ## Accommodation
 
-**Budget hostels:** €8–18/night in dorms; €20–40 for privates. KL has good hostels in Chinatown and Bukit Bintang. Penang has excellent heritage-area guesthouses.
+**Budget hostels:** €8–18/night in dorms; €20–40 for privates. KL has good hostels in Chinatown and Bukit Bintang. [Penang](/malaysia/penang-travel-guide) has excellent heritage-area guesthouses.
 
 **Guesthouses/budget hotels:** €20–45/night for a clean, air-conditioned double. Often excellent quality — Malaysia's Chinese-run guesthouses are consistently well-maintained.
 
-**Mid-range hotels:** €50–100/night. Very comfortable, often with pool, in excellent central locations. **Kuala Lumpur's** 4-star hotels are notably cheaper than Singapore, Bangkok, or Bali equivalents.
+**Mid-range hotels:** €50–100/night. Very comfortable, often with pool, in excellent central locations. **[Kuala Lumpur](/malaysia/kuala-lumpur-guide)'s** 4-star hotels are notably cheaper than Singapore, Bangkok, or Bali equivalents.
 
 **Luxury hotels:** Malaysia has genuinely world-class luxury at lower prices than neighbours. The Mandarin Oriental KL, Four Seasons KL, and Shangri-La Kuching run €200–400/night vs €400–700 for equivalents in Singapore.
 
-**Borneo eco-lodges:** €30–80/night for jungle lodges near Bako or in Kinabalu park. Worth every ringgit for the experience.
+**[Borneo](/malaysia/borneo-guide) eco-lodges:** €30–80/night for jungle lodges near Bako or in Kinabalu park. Worth every ringgit for the experience.
 
 ---
 
@@ -62,7 +62,7 @@ Malaysia's hawker food culture makes eating here one of the world's great experi
 
 **KL public transport:** LRT, MRT, KTM, Monorail. Fares MYR 1.20–4.50 (€0.25–0.90) per trip. Excellent coverage of the city.
 
-**Intercity bus:** Very cheap. KL–Penang (4.5h): MYR 35–45 (€7–9). KL–Melaka (2h): MYR 12–18 (€2.50–3.60). KL–Cameron Highlands (3.5h): MYR 35 (€7).
+**Intercity bus:** Very cheap. KL–Penang (4.5h): MYR 35–45 (€7–9). KL–[Melaka](/malaysia/melaka-guide) (2h): MYR 12–18 (€2.50–3.60). KL–[Cameron Highlands](/malaysia/cameron-highlands-guide) (3.5h): MYR 35 (€7).
 
 **Intercity train (ETS):** KL–Penang (3.5h): MYR 65–85 (€13–17). Fast, comfortable, and reliable.
 

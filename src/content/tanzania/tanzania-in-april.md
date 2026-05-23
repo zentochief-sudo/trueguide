@@ -10,19 +10,19 @@ tags: [Tanzania, April, long rains, green season, low season, budget, Zanzibar]
 city: national
 ---
 
-April is Tanzania's deep rainy season. The long rains that began in March reach their sustained maximum in April — daily downpours, flooded tracks, and a landscape so green it barely looks like the arid savannah of travel brochures. Most high-end safari camps close for the month. The few that remain open offer their lowest prices of the year. Zanzibar transitions to its southeast monsoon season. April is for the genuinely committed green season traveler.
+April is [Tanzania](/tanzania)'s deep rainy season. The long rains that began in March reach their sustained maximum in April — daily downpours, flooded tracks, and a landscape so green it barely looks like the arid savannah of travel brochures. Most high-end safari camps close for the month. The few that remain open offer their lowest prices of the year. [Zanzibar](/tanzania/zanzibar-guide) transitions to its southeast monsoon season. April is for the genuinely committed green season traveler.
 
 ## Weather & Conditions
 
 **Serengeti:** Heavy daily rain, typically in the afternoon but sometimes sustained. The Southern Serengeti plains are flooded. The Central Serengeti is accessible but limited. Most main camps are closed.
 
-**Ngorongoro:** Rain and cloud. The crater rim is frequently mist-covered. Crater floor drives are possible but visibility is reduced.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** Rain and cloud. The crater rim is frequently mist-covered. Crater floor drives are possible but visibility is reduced.
 
-**Arusha / Northern Circuit:** 16–26°C, significant rain. The town is functional; the safari circuit is limited.
+**[Arusha](/tanzania/arusha-guide) / Northern Circuit:** 16–26°C, significant rain. The town is functional; the safari circuit is limited.
 
 **Zanzibar:** The short east coast dry period is over. April brings the long rains to Zanzibar — heavy and sustained. The beach season is effectively over on the east coast. The west coast is slightly more protected.
 
-**Mount Kilimanjaro:** April is one of the worst months for Kilimanjaro — heavy cloud, limited visibility, and significant precipitation above 2,000m.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** April is one of the worst months for Kilimanjaro — heavy cloud, limited visibility, and significant precipitation above 2,000m.
 
 ## What to Do
 
@@ -32,7 +32,7 @@ April is Tanzania's deep rainy season. The long rains that began in March reach 
 
 **Zanzibar April realities:** If Zanzibar is on the itinerary, the west coast (Stonetown, Kendwa) is marginally more reliable than the east coast. Some beach resorts close April–May. Stonetown's cultural exploration continues year-round regardless of weather.
 
-**Dar es Salaam as a base:** Tanzania's commercial capital is functional year-round. The National Museum, the Kariakoo market, and the seafood at the Msasani beach strip are all accessible in April. Dar is not a tourism destination but it's a genuine African city worth understanding on its own terms.
+**[Dar es Salaam](/tanzania/dar-es-salaam-guide) as a base:** Tanzania's commercial capital is functional year-round. The National Museum, the Kariakoo market, and the seafood at the Msasani beach strip are all accessible in April. Dar is not a tourism destination but it's a genuine African city worth understanding on its own terms.
 
 **Mafia Island (south of Zanzibar):** The remote Mafia Island, south of Zanzibar, has whale shark aggregations in April–May. Swimming with the world's largest fish (12–15m, filter feeders) is Mafia's specific calling card. Some dive operators on the island stay open through April for whale shark season.
 

@@ -10,7 +10,7 @@ tags: [Nara, Japan, deer, Todai-ji, Kasuga Taisha, temples, Buddhist, history, d
 city: nara
 ---
 
-Nara was Japan's capital for 74 years, from 710 to 784. Before Kyoto, before Tokyo, the government and the imperial court operated from here while the great Buddhist temples were being constructed on a scale that announced national ambition. The capital moved to Kyoto in 784, but the temples stayed.
+Nara was Japan's capital for 74 years, from 710 to 784. Before [Kyoto](/japan/kyoto-guide), before [Tokyo](/japan/tokyo-guide), the government and the imperial court operated from here while the great Buddhist temples were being constructed on a scale that announced national ambition. The capital moved to Kyoto in 784, but the temples stayed.
 
 The result is a small city (360,000 people) with an improbably dense concentration of ancient monuments — UNESCO World Heritage status covers eight temples, shrines, and the surrounding forest. The other thing that stayed is the deer: 1,200 sika deer that have lived in Nara Park since the Kasuga Taisha shrine declared them sacred messengers of the gods. They are still there. They roam freely through the park, the temple approaches, and the city streets, and they will push you aside for a cracker.
 
@@ -18,7 +18,7 @@ The result is a small city (360,000 people) with an improbably dense concentrati
 
 ## Getting There
 
-**From Osaka**: 45 minutes by Kintetsu Limited Express from Namba (¥1,160 with fare, ¥680 local) or 40 minutes by JR Yamatoji Rapid from Osaka Station (¥820, JR Pass valid).
+**From [Osaka](/japan/osaka-guide)**: 45 minutes by Kintetsu Limited Express from Namba (¥1,160 with fare, ¥680 local) or 40 minutes by JR Yamatoji Rapid from Osaka Station (¥820, JR Pass valid).
 
 **From Kyoto**: 35 minutes by Kintetsu Limited Express from Kyoto Station (¥1,160) or 45 minutes by JR Nara Line (¥720, JR Pass valid). The Kintetsu option is faster and more direct.
 
@@ -110,7 +110,7 @@ A full Nara day trip from Kyoto or Osaka covers:
 
 ## Practical Notes
 
-**Crowds**: Cherry blossom season (late March–early April) and autumn foliage (mid-November) are the peak periods. The deer park in spring, with cherry trees and deer and tourists and school groups — it is beautiful and chaotic simultaneously. Off-season Nara (February, July) is significantly quieter.
+**Crowds**: [Cherry blossom](/japan/cherry-blossom-guide) season (late March–early April) and autumn foliage (mid-November) are the peak periods. The deer park in spring, with cherry trees and deer and tourists and school groups — it is beautiful and chaotic simultaneously. Off-season Nara (February, July) is significantly quieter.
 
 **Rain**: The deer shelter under trees in rain. The temples do not require good weather. The Isui-en garden in light rain, with the wet moss and the mist over the Daibutsuden roof, is worth getting damp for.
 

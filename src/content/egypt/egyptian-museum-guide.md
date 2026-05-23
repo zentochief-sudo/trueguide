@@ -10,7 +10,7 @@ tags: [Egyptian Museum, Tahrir, Cairo, Egypt, ancient Egypt, Tutankhamun]
 city: cairo
 ---
 
-The Egyptian Museum at Tahrir Square has been Cairo's primary antiquities institution since 1902 — a pink neoclassical building filled with 120,000 artifacts that has been drawing visitors for over a century. With the 2023 opening of the Grand Egyptian Museum (GEM) near the Pyramids, the Tutankhamun golden mask, the royal mummies, and many of the most famous objects have moved to newer facilities. The question visitors now ask: is the original Egyptian Museum still worth visiting?
+The Egyptian Museum at Tahrir Square has been [Cairo](/egypt/cairo-travel-guide)'s primary antiquities institution since 1902 — a pink neoclassical building filled with 120,000 artifacts that has been drawing visitors for over a century. With the 2023 opening of the [Grand Egyptian Museum](/[egypt](/egypt)/grand-egyptian-museum-guide) (GEM) near the Pyramids, the Tutankhamun golden mask, the royal mummies, and many of the most famous objects have moved to newer facilities. The question visitors now ask: is the original Egyptian Museum still worth visiting?
 
 The answer is yes — with updated expectations.
 

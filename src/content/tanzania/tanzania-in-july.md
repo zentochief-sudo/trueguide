@@ -10,19 +10,19 @@ tags: [Tanzania, July, Great Migration, Mara River, Serengeti, peak season, Kili
 city: national
 ---
 
-July is East Africa's peak safari month. The Great Migration has moved north into the Northern Serengeti and Masai Mara ecosystem. The Mara River crossings — wildebeest plunging into crocodile-filled water in their northward push — are beginning. The park roads are busy with safari vehicles. And every reputable camp in the Northern Serengeti is fully occupied. This is Tanzania at its most celebrated and its most expensive. Book everything six months ahead.
+July is East Africa's peak safari month. The Great Migration has moved north into the Northern Serengeti and Masai Mara ecosystem. The Mara River crossings — wildebeest plunging into crocodile-filled water in their northward push — are beginning. The park roads are busy with safari vehicles. And every reputable camp in the Northern Serengeti is fully occupied. This is [Tanzania](/tanzania) at its most celebrated and its most expensive. Book everything six months ahead.
 
 ## Weather & Conditions
 
 **Northern Serengeti:** 18–27°C. Dry, clear, cool nights. The grass is short. Wildlife visibility is excellent.
 
-**Ngorongoro:** 14–22°C. Perfect crater weather. Dry and clear.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 14–22°C. Perfect crater weather. Dry and clear.
 
-**Arusha:** Dry season comfort. Cool evenings.
+**[Arusha](/tanzania/arusha-guide):** Dry season comfort. Cool evenings.
 
-**Zanzibar:** Southeast monsoon continues. The east coast has wind and some cloud. North coast (Nungwi) is the best beach option.
+**[Zanzibar](/tanzania/zanzibar-guide):** Southeast monsoon continues. The east coast has wind and some cloud. North coast (Nungwi) is the best beach option.
 
-**Mount Kilimanjaro:** Peak climbing season. July–August are the best months for summit attempts — dry, clear, and cold. Success rates on the upper mountain are highest.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Peak climbing season. July–August are the best months for summit attempts — dry, clear, and cold. Success rates on the upper mountain are highest.
 
 ## What to Do
 

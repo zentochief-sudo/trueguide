@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Greenland allows you to go beyond the west coast circuit and experience the extraordinary diversity of the world's largest island — from the modern capital of Nuuk to the near-impenetrable wilderness of the east coast and the surreal experience of standing on the Greenland Ice Sheet.
+Two weeks in [Greenland](/greenland) allows you to go beyond the west coast circuit and experience the extraordinary diversity of the world's largest island — from the modern capital of [Nuuk](/greenland/nuuk-travel-guide) to the near-impenetrable wilderness of the east coast and the surreal experience of standing on the Greenland Ice Sheet.
 
 ## Days 1–3 – Nuuk
 
@@ -24,7 +24,7 @@ Three days in Greenland's capital — surprisingly sophisticated for a city this
 
 ## Days 4–5 – Sisimiut
 
-Fly north from Nuuk to **Sisimiut** — Greenland's second-largest town (5,500 people), known for the **Arctic Circle Trail** — a 160km multi-day wilderness hike between Sisimiut and Kangerlussuaq, one of the world's finest long-distance trails. The full trail takes 7–10 days; day sections are equally rewarding.
+Fly north from Nuuk to **[Sisimiut](/greenland/sisimiut-guide)** — Greenland's second-largest town (5,500 people), known for the **Arctic Circle Trail** — a 160km multi-day wilderness hike between Sisimiut and Kangerlussuaq, one of the world's finest long-distance trails. The full trail takes 7–10 days; day sections are equally rewarding.
 
 Day 4: Sisimiut city exploration — a colourful town with excellent museums (historical and maritime), an old Greenlandic church, and a dog sled racing culture. The town sits at 66°N — just below the Arctic Circle.
 
@@ -34,7 +34,7 @@ Day 5: Half-day or full-day hike on the Arctic Circle Trail southward. The lands
 
 Fly north from Sisimiut to Ilulissat (45 min). Three days at the UNESCO Icefjord:
 
-**Day 6:** Ilulissat Icefjord boardwalk, Sermermiut archaeological site, and an evening fjord walk in the midnight sun.
+**Day 6:** [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) boardwalk, Sermermiut archaeological site, and an evening fjord walk in the midnight sun.
 
 **Day 7:** Full-day boat tour into the icefjord — zodiac or small vessel moving between bergs the size of apartment buildings. The scale and sound of the ice is overwhelming.
 
@@ -48,7 +48,7 @@ Fly north from Sisimiut to Ilulissat (45 min). Three days at the UNESCO Icefjord
 
 ## Days 11–13 – East Greenland: Tasiilaq
 
-Fly to **Tasiilaq** (via Reykjavik or Nuuk) — the largest settlement in East Greenland, a town of 2,000 people on the shore of Ammassalik Fjord, surrounded by granite peaks and glacier tongues.
+Fly to **Tasiilaq** (via Reykjavik or Nuuk) — the largest settlement in [East Greenland](/greenland/east-greenland-guide), a town of 2,000 people on the shore of Ammassalik Fjord, surrounded by granite peaks and glacier tongues.
 
 East Greenland is one of the world's most remote inhabited places. The mountain scenery is more dramatic than the west coast — sharper peaks, more aggressive glaciers, and a rawness that comes from being even more isolated.
 

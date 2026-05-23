@@ -10,15 +10,15 @@ tags: [Peru, August, peak season, Machu Picchu, Inca Trail, Amazon, dry season]
 city: national
 ---
 
-August continues July's peak season momentum. The dry season in the highlands is at its most reliable — clear Andean skies, minimal cloud over Machu Picchu, and the Inca Trail in perfect condition. In the Amazon, the dry season creates its finest wildlife viewing opportunities: the rivers are at their lowest, wildlife concentrates around water, and boat access to remote areas is unimpeded. August is Peru's second busiest month, essentially matching July's visitor volume.
+August continues July's peak season momentum. The dry season in the highlands is at its most reliable — clear Andean skies, minimal cloud over [Machu Picchu](/[peru](/peru)/machu-picchu-guide), and the Inca Trail in perfect condition. In the [Amazon](/peru/amazon-guide), the dry season creates its finest wildlife viewing opportunities: the rivers are at their lowest, wildlife concentrates around water, and boat access to remote areas is unimpeded. August is Peru's second busiest month, essentially matching July's visitor volume.
 
 ## Weather & Conditions
 
-**Cusco:** 7–20°C. Dry and sunny. Cold nights remain. The high dry season air makes distances feel shorter than they are — always carry water.
+**[Cusco](/peru/cusco-guide):** 7–20°C. Dry and sunny. Cold nights remain. The high dry season air makes distances feel shorter than they are — always carry water.
 
 **Machu Picchu:** 12–23°C. Reliably clear in the morning. Perfect photography conditions.
 
-**Lima:** 12–18°C. Grey garúa continues. The cultural calendar in Lima continues year-round.
+**[Lima](/peru/lima-guide):** 12–18°C. Grey garúa continues. The cultural calendar in Lima continues year-round.
 
 **Amazon (Madre de Dios):** 24–32°C. Dry season — rivers at lowest. Wildlife highly concentrated.
 

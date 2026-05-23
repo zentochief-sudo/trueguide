@@ -10,7 +10,7 @@ tags: [Costa Rica, wildlife, sloths, monkeys, sea turtles, quetzal, biodiversity
 city: papagayo
 ---
 
-Costa Rica contains approximately 5% of the world's biodiversity in a country the size of West Virginia. The number that matters for visitors: you will see significant wildlife here without a guide, without binoculars, and without a 4 AM jeep ride. Sloths hang in cecropia trees above tourist paths. Scarlet macaws fly in pairs over Pacific beaches. Howler monkeys announce dawn with a sound like distant wind through rigging. The density and accessibility of Costa Rican wildlife is the defining characteristic of the country as a destination.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) contains approximately 5% of the world's biodiversity in a country the size of West Virginia. The number that matters for visitors: you will see significant wildlife here without a guide, without binoculars, and without a 4 AM jeep ride. Sloths hang in cecropia trees above tourist paths. Scarlet macaws fly in pairs over Pacific beaches. Howler monkeys announce dawn with a sound like distant wind through rigging. The density and accessibility of Costa Rican wildlife is the defining characteristic of the country as a destination.
 
 This guide organizes by species and habitat.
 
@@ -21,7 +21,7 @@ This guide organizes by species and habitat.
 ### Three-Toed Sloths
 The animal most visitors come specifically to see. Three-toed sloths (*Bradypus variegatus*) are genuinely common in lowland forests throughout Costa Rica — the key is learning to look.
 
-**Where to see them**: Manuel Antonio National Park (highest density; guides find one on essentially every visit), Tortuguero, Monteverde, La Fortuna area, Sarapiquí.
+**Where to see them**: [Manuel Antonio](/costa-rica/manuel-antonio-guide) National Park (highest density; guides find one on essentially every visit), Tortuguero, [Monteverde](/costa-rica/monteverde-guide), La Fortuna area, Sarapiquí.
 
 **How to find them**: Look upward in cecropia trees — large-leaved, often standing alone at forest edges. Sloths appear as a brownish-grey blob in the canopy, frequently motionless for hours. Once seen, they're unmistakable. A guide with a spotting scope increases sighting rates from perhaps 1 in 10 walks to 9 in 10.
 
@@ -32,7 +32,7 @@ The animal most visitors come specifically to see. Three-toed sloths (*Bradypus 
 ### Howler Monkeys
 The loudest land animal in the western hemisphere — a sound that carries 5 km through jungle and is frequently mistaken for a large predator by first-time visitors. The call is used to announce territory and communicate between groups.
 
-**Where to see them**: Everywhere with forest cover. Santa Rosa, Corcovado, Tortuguero, the Osa Peninsula, Guanacaste forests. They're also common at Manuel Antonio and near many beach lodges.
+**Where to see them**: Everywhere with forest cover. Santa Rosa, Corcovado, Tortuguero, the [Osa Peninsula](/costa-rica/osa-peninsula-guide), Guanacaste forests. They're also common at Manuel Antonio and near many beach lodges.
 
 **Behavior**: Travel in family groups of 6–20. Active at dawn and dusk; resting midday. Will occasionally descend to lower branches when comfortable with human presence.
 
@@ -114,7 +114,7 @@ Five wild cat species present in Costa Rica. In order of sighting probability:
 
 **Osa Peninsula | Remote, permit-required, guided access only**
 
-National Geographic called Corcovado "the most biologically intense place on Earth." It has all four monkey species, all five wild cats, the densest jaguar population in Central America, harpy eagles, tapirs, and a wildlife density that distinguishes it from every other Costa Rican park. It's also more remote and harder to access than Manuel Antonio or Arenal.
+National Geographic called Corcovado "the most biologically intense place on Earth." It has all four monkey species, all five wild cats, the densest jaguar population in Central America, harpy eagles, tapirs, and a wildlife density that distinguishes it from every other Costa Rican park. It's also more remote and harder to access than Manuel Antonio or [Arenal](/costa-rica/arenal-guide).
 
 **Access**: Small plane from San José to Puerto Jiménez (45 minutes), or shuttle from the Osa Peninsula. Overnight stays and day hikes both require pre-arranged guides (the park does not allow independent entry). Multi-day guided camping trips are the most rewarding.
 

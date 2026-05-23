@@ -10,13 +10,13 @@ tags: [Portugal, September, Douro, harvest, vindima, Algarve, Lisbon, autumn, tr
 city: national
 ---
 
-September is arguably Portugal's best all-around month. The August crowds begin evaporating after the first weekend. The Algarve sea temperature is at its annual maximum (25–26°C). The Douro Valley launches its vindima (grape harvest) — one of the most extraordinary agricultural and cultural events in Portugal. Lisbon's locals return to the city after summer. And prices, still elevated in early September, begin declining toward October levels. September is the month Portugal travelers with flexibility should use.
+September is arguably [Portugal](/portugal)'s best all-around month. The August crowds begin evaporating after the first weekend. The [Algarve](/portugal/algarve-guide) sea temperature is at its annual maximum (25–26°C). The [Douro Valley](/portugal/douro-valley-guide) launches its vindima (grape harvest) — one of the most extraordinary agricultural and cultural events in Portugal. [Lisbon](/portugal/lisbon-guide)'s locals return to the city after summer. And prices, still elevated in early September, begin declining toward October levels. September is the month Portugal travelers with flexibility should use.
 
 ## Weather in September
 
 **Lisbon:** 18°C to 28°C. Warm, still mostly dry. Early September has summer intensity; late September cools toward autumn. The light quality changes — more golden.
 
-**Porto:** 15°C to 25°C. Warm and pleasant. The Douro valley in September harvest — extraordinary atmosphere.
+**[Porto](/portugal/porto-guide):** 15°C to 25°C. Warm and pleasant. The Douro valley in September harvest — extraordinary atmosphere.
 
 **Algarve:** 21°C to 29°C. The best sea temperature of the year (25–26°C). Crowds dropping from August peaks — September beach conditions are the Algarve at its most enjoyable.
 

@@ -12,7 +12,7 @@ city: tokyo
 
 Akihabara's evolution follows a specific logic. The neighborhood became an electronics hub after World War II when street vendors selling radio parts and surplus components clustered around the station. By the 1980s it was the central district for home computers and consumer electronics. Then as the internet democratized electronics retail, Akihabara pivoted — the anime, manga, and gaming culture that had been a secondary presence became the primary identity. Today the stores selling components still exist (and are excellent for specific purchases), but they share the street with multi-floor anime goods stores, retro game shops, and maid cafés.
 
-The result is a neighborhood that operates at high density and high stimulus — neon signage stacked vertically on every building face, music playing from storefronts, cosplay on the main pedestrian street on weekends. It is Tokyo's most specific neighborhood, and it is exactly what it looks like.
+The result is a neighborhood that operates at high density and high stimulus — neon signage stacked vertically on every building face, music playing from storefronts, cosplay on the main pedestrian street on weekends. It is [Tokyo](/japan/tokyo-guide)'s most specific neighborhood, and it is exactly what it looks like.
 
 ---
 

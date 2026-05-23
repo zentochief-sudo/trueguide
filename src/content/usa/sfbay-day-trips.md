@@ -10,7 +10,7 @@ tags: [SF Bay Area, day trips, Muir Woods, Monterey, Yosemite, World Cup 2026, S
 city: sfbay
 ---
 
-San Francisco is surrounded by outstanding natural landscapes that most American cities do not have within a half-day's reach. The Pacific coastline, old-growth redwood forests, the Big Sur coast, and Yosemite Valley are all accessible as day trips — though Yosemite is at the extreme end of what "day trip" means. This guide gives realistic transport times and honest assessments of what's worth the travel.
+[San Francisco](/united-states/san-francisco-guide) is surrounded by outstanding natural landscapes that most American cities do not have within a half-day's reach. The Pacific coastline, old-growth redwood forests, the Big Sur coast, and Yosemite Valley are all accessible as day trips — though Yosemite is at the extreme end of what "day trip" means. This guide gives realistic transport times and honest assessments of what's worth the travel.
 
 ---
 

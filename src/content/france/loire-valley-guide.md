@@ -12,7 +12,7 @@ city: paris
 
 The Loire Valley is the most concentrated collection of Renaissance architecture in Europe — 42 classified châteaux along a 280 km stretch of river, built during the French Renaissance when the Loire was the royal court's favored location. The valley was designated a UNESCO World Heritage Cultural Landscape in 2000, covering not just the châteaux but the entire river corridor, its wine villages, and the troglodyte cave dwellings carved into the tufa cliffs.
 
-It is 2 hours from Paris by TGV (to Tours or Blois) and navigable as a 2–3 day road or cycling trip.
+It is 2 hours from [Paris](/france/paris-travel-guide) by TGV (to Tours or Blois) and navigable as a 2–3 day road or cycling trip.
 
 ---
 
@@ -26,7 +26,7 @@ The surrounding 5,440-hectare hunting domain (now a national hunting reserve) me
 ### Château de Chenonceau
 Architecturally simpler than Chambord but more dramatically positioned — the château bridges the Cher river, with two arches carrying the building over the water and a gallery above. The garden (designed by Catherine de' Medici and Diane de Poitiers, the two women who successively controlled the château) divides into two formal parterres along the riverbank.
 
-Chenonceau is consistently voted the most beautiful château in France. It was used as a hospital in WWI and as a crossing point between the occupied and free zones in WWII (the German line ran through the river, making the gallery a passage between zones).
+Chenonceau is consistently voted the most beautiful château in [France](/france). It was used as a hospital in WWI and as a crossing point between the occupied and free zones in WWII (the German line ran through the river, making the gallery a passage between zones).
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Sintra, Portugal, Pena Palace, Moorish Castle, day trip, Lisbon, UNESCO, 
 city: lisbon
 ---
 
-Sintra is 40 minutes from Lisbon by train and occupies a wooded mountain ridge above the Atlantic coast — the cool, mist-drenched air, the dense vegetation, and the presence of multiple extraordinary palaces within a few kilometers of each other led Lord Byron to call it "glorious Eden" in *Childe Harold's Pilgrimage* (1812), and UNESCO to designate it a Cultural Landscape in 1995.
+Sintra is 40 minutes from [Lisbon](/portugal/lisbon-guide) by train and occupies a wooded mountain ridge above the Atlantic coast — the cool, mist-drenched air, the dense vegetation, and the presence of multiple extraordinary palaces within a few kilometers of each other led Lord Byron to call it "glorious Eden" in *Childe Harold's Pilgrimage* (1812), and UNESCO to designate it a Cultural Landscape in 1995.
 
 The site is one of the most concentrated collections of 19th-century Romantic architecture anywhere — palaces built by Portuguese royalty and aristocracy as summer retreats, each trying to outdo the previous in fantasy and eccentricity. It is simultaneously one of the most crowded day trips from Lisbon (July–August can be overwhelming) and genuinely extraordinary.
 
@@ -44,7 +44,7 @@ A 19th-century estate built by a wealthy eccentric (António Augusto Carvalho Mo
 
 ## Palácio Nacional de Sintra
 
-The royal palace in the center of the village — the twin conical chimneys that rise above the rooftops of Sintra are this palace, visible from every viewpoint in the area. Built over the 14th–16th centuries as the principal royal residence (the Moors had a palace on the site before it), the interior has original Manueline stonework and the finest azulejo-tiled rooms in Portugal outside of Lisbon.
+The royal palace in the center of the village — the twin conical chimneys that rise above the rooftops of Sintra are this palace, visible from every viewpoint in the area. Built over the 14th–16th centuries as the principal royal residence (the Moors had a palace on the site before it), the interior has original Manueline stonework and the finest azulejo-tiled rooms in [Portugal](/portugal) outside of Lisbon.
 
 **Entry**: €12. Often less crowded than the hill palaces because it doesn't have the dramatic hilltop setting.
 

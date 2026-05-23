@@ -44,7 +44,7 @@ Pacific Coast Highway north of Santa Monica is one of the most scenic coastal dr
 **Train**: Amtrak Pacific Surfliner from Union Station, 2.5–3 hours, $30–55 each way  
 **Best for**: Full day
 
-Santa Barbara is the most immediately beautiful city in California after San Francisco. It was largely rebuilt after a 1925 earthquake in a mandated Spanish Colonial Revival style — red-tiled roofs, white stucco walls — and the visual consistency across the entire downtown is unlike anything in LA.
+Santa Barbara is the most immediately beautiful city in California after [San Francisco](/united-states/san-francisco-guide). It was largely rebuilt after a 1925 earthquake in a mandated Spanish Colonial Revival style — red-tiled roofs, white stucco walls — and the visual consistency across the entire downtown is unlike anything in LA.
 
 **State Street**: The main pedestrian artery has restaurants, independent shops, and the excellent **Museum of Natural History** at the north end. The downtown area is fully walkable.
 

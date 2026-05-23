@@ -10,7 +10,7 @@ tags: [Italy, July, summer, Sicily, Sardinia, beach, Dolomites, Venice, peak sea
 city: national
 ---
 
-July is Italy's maximum — maximum heat, maximum crowds, maximum prices, and maximum spectacle. The beaches of Sardinia and Sicily are extraordinary. The Festino di Santa Rosalia in Palermo is one of Europe's most extraordinary street festivals. And the Dolomites in July deliver some of the finest alpine hiking in the world. But the major cultural cities (Rome, Florence, Venice) are at their worst for independent travel. July Italy requires very clear choices about which Italy you're actually visiting.
+July is [Italy](/italy)'s maximum — maximum heat, maximum crowds, maximum prices, and maximum spectacle. The beaches of Sardinia and Sicily are extraordinary. The Festino di Santa Rosalia in Palermo is one of Europe's most extraordinary street festivals. And the Dolomites in July deliver some of the finest alpine hiking in the world. But the major cultural cities ([Rome](/italy/rome-guide), Florence, Venice) are at their worst for independent travel. July Italy requires very clear choices about which Italy you're actually visiting.
 
 ## Weather in July
 

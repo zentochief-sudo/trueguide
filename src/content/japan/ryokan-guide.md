@@ -32,7 +32,7 @@ The experience is organized around the onsen, the meal, and the futon — in tha
 
 *Private outdoor bath*: An *in-room* outdoor bath (roto-buro attached to your room) is the premium experience. Separate from the shared communal bath; you use it on your schedule.
 
-*Views*: Fuji-facing rooms at Hakone properties, lake-view rooms at Nikko or Chuzenji, garden-facing rooms at Kyoto machiya ryokan. Often the same price — ask at booking.
+*Views*: Fuji-facing rooms at [Hakone](/japan/hakone-guide) properties, lake-view rooms at [Nikko](/japan/nikko-guide) or Chuzenji, garden-facing rooms at [Kyoto machiya](/japan/[kyoto](/japan/kyoto-guide)-machiya-guide) ryokan. Often the same price — ask at booking.
 
 *Meals*: Ryokan rates almost always quote per person with two meals (dinner + breakfast) included. This is standard. Verify that meals are included; occasionally properties offer room-only rates.
 
@@ -92,7 +92,7 @@ Standard checkout is by 10am or 11am. Payment is usually settled at checkout; so
 
 ## Where to Stay — By Region
 
-**Hakone**: The highest concentration of accessible ryokan near Tokyo. For views and outdoor baths: **Gora Kadan** (garden, former imperial summer villa, ¥45,000+), **Hakone Suishoen** (forested hillside, ¥20,000+), **Yusen** (traditional, ¥15,000+).
+**Hakone**: The highest concentration of accessible ryokan near [Tokyo](/japan/tokyo-guide). For views and outdoor baths: **Gora Kadan** (garden, former imperial summer villa, ¥45,000+), **Hakone Suishoen** (forested hillside, ¥20,000+), **Yusen** (traditional, ¥15,000+).
 
 **Kinosaki Onsen**: The sotoyu (seven public baths) system means the ryokan itself handles sleeping and meals while the public baths provide the bathing variety. Most ryokan here are mid-range (¥15,000–25,000). **Nishimuraya Honkan** is the landmark property.
 
@@ -102,7 +102,7 @@ Standard checkout is by 10am or 11am. Payment is usually settled at checkout; so
 
 **Ginzan Onsen**: All 20 ryokan at this one location; the setting (Taisho-era buildings along a mountain stream, snow in winter) does the work. The higher-end properties (¥30,000+) have private outdoor baths; budget options (¥12,000–18,000) use the shared baths.
 
-**Kaga Onsen** (Kanazawa area): **Beniya Mukayu** — a modern ryokan with a contemporary aesthetic and spring water quality from the deep Yamashiro spring. One of the most acclaimed properties in Japan for combination of design and onsen quality.
+**Kaga Onsen** ([Kanazawa](/japan/kanazawa-guide) area): **Beniya Mukayu** — a modern ryokan with a contemporary aesthetic and spring water quality from the deep Yamashiro spring. One of the most acclaimed properties in Japan for combination of design and onsen quality.
 
 ---
 

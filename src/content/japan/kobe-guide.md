@@ -10,7 +10,7 @@ tags: [Kobe, Japan, beef, Kitano, port, Rokko, sake, Nada, ijinkan, Meriken Park
 city: national
 ---
 
-Kobe occupies a narrow strip of land between the Rokko Mountains and Osaka Bay — a city that could only ever be a port, which shaped everything about it. When Japan opened to foreign trade in 1868, Kobe became the primary point of contact between Japan and Europe. The foreigners who settled built houses in the Kitano district that still stand, maintained a separate commercial quarter, and introduced Kobe to the full spectrum of Western food culture including, critically, Western-style beef preparation.
+Kobe occupies a narrow strip of land between the Rokko Mountains and [Osaka](/japan/osaka-guide) Bay — a city that could only ever be a port, which shaped everything about it. When Japan opened to foreign trade in 1868, Kobe became the primary point of contact between Japan and Europe. The foreigners who settled built houses in the Kitano district that still stand, maintained a separate commercial quarter, and introduced Kobe to the full spectrum of Western food culture including, critically, Western-style beef preparation.
 
 This is why Kobe beef tastes the way it does. The Tajima cattle of Hyogo Prefecture were always quality; the techniques and market for serving them as premium steak came from the European meat-eating culture that arrived at the port.
 
@@ -20,7 +20,7 @@ This is why Kobe beef tastes the way it does. The Tajima cattle of Hyogo Prefect
 
 From Osaka (Umeda), take the **Hanshin Main Line** to Sannomiya station — 32 minutes, ¥330. This is the better option than JR for reaching the city center.
 
-From Kyoto, the **Hankyu Kobe Line** (with a transfer) takes about 75 minutes. JR Shinkansen reaches Shin-Kobe station in 15 minutes from Osaka-Shin if you're coming from a distance; Shin-Kobe is connected to central Kobe by subway.
+From [Kyoto](/japan/kyoto-guide), the **Hankyu Kobe Line** (with a transfer) takes about 75 minutes. JR Shinkansen reaches Shin-Kobe station in 15 minutes from Osaka-Shin if you're coming from a distance; Shin-Kobe is connected to central Kobe by subway.
 
 Kobe works as a half-day or full-day trip from Osaka; the ideal is a full day with dinner at a proper Kobe beef restaurant before returning.
 
@@ -88,7 +88,7 @@ The **Rokko Alpine Botanical Garden** is excellent in spring (alpine flowers, la
 
 ## Nankinmachi: Kobe's Chinatown
 
-Kobe has one of Japan's three major Chinatowns (the others are in Yokohama and Nagasaki). **Nankinmachi** is compact — a few dense blocks near Motomachi station — but the food is the main reason to visit: pork buns (niku-man), xiaolongbao (soup dumplings), and various roast meats at street stalls. Saturday afternoon is the most animated; Monday is quietest.
+Kobe has one of Japan's three major Chinatowns (the others are in Yokohama and [Nagasaki](/japan/nagasaki-guide)). **Nankinmachi** is compact — a few dense blocks near Motomachi station — but the food is the main reason to visit: pork buns (niku-man), xiaolongbao (soup dumplings), and various roast meats at street stalls. Saturday afternoon is the most animated; Monday is quietest.
 
 ---
 

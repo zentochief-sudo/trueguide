@@ -10,7 +10,7 @@ tags: [Thailand, December, peak season, Andaman, Phuket, Ko Samui, Christmas, Ne
 city: national
 ---
 
-December is Thailand's peak season fully restored — the Andaman coast is in optimal dry-season condition, Chiang Mai is cool and clear, and Bangkok is at its best weather of the year. Christmas and New Year drive the largest tourist influx of the year to the beaches. Accommodation prices surge for the final week; the weeks before (December 1–20) represent excellent conditions at near-shoulder pricing. December is where the Thailand of peak-season mythology is at full operation.
+December is [Thailand](/thailand)'s peak season fully restored — the Andaman coast is in optimal dry-season condition, [Chiang Mai](/thailand/chiang-mai-guide) is cool and clear, and [Bangkok](/thailand/bangkok-guide) is at its best weather of the year. Christmas and New Year drive the largest tourist influx of the year to the beaches. Accommodation prices surge for the final week; the weeks before (December 1–20) represent excellent conditions at near-shoulder pricing. December is where the Thailand of peak-season mythology is at full operation.
 
 ## Weather in December
 
@@ -18,7 +18,7 @@ December is Thailand's peak season fully restored — the Andaman coast is in op
 
 **Chiang Mai:** 12°C to 30°C. Cool season begins — nights drop to 12–15°C (bring a jacket). Days are clear and crisp. The best month to visit the north.
 
-**Phuket/Andaman Coast:** 25°C to 33°C. Dry season fully established — clear seas, excellent visibility, ideal conditions for every beach and water activity.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 25°C to 33°C. Dry season fully established — clear seas, excellent visibility, ideal conditions for every beach and water activity.
 
 **Ko Lanta:** 26°C to 33°C. The island is in peak season — beach clubs fully open, the west coast beaches at their finest.
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Malaysia packs remarkable diversity into a relatively small space: a cosmopolitan capital with Southeast Asia's most dramatic skyline, a UNESCO-listed island city that's arguably the world's best street food destination, and a Borneo rainforest that's among the oldest on earth. Seven days lets you experience all three.
+[Malaysia](/malaysia) packs remarkable diversity into a relatively small space: a cosmopolitan capital with Southeast Asia's most dramatic skyline, a UNESCO-listed island city that's arguably the world's best street food destination, and a [Borneo](/malaysia/borneo-guide) rainforest that's among the oldest on earth. Seven days lets you experience all three.
 
 ## Days 1–2 – Kuala Lumpur
 
@@ -26,11 +26,11 @@ Evening: the **Bukit Bintang** entertainment district for dinner — Jalan Alor 
 
 Back in KL: the **National Mosque (Masjid Negara)** — Malaysia's largest mosque with a 73-metre minaret; the **Islamic Arts Museum Malaysia** (one of Southeast Asia's finest — free entry); and the colonial-era **Merdeka Square** where Malaysian independence was declared in 1957.
 
-Evening: rooftop bar at **Heli Lounge Bar** (the helipad of a Kuala Lumpur skyscraper, converted to a rooftop bar at sunset) for the definitive KL skyline view.
+Evening: rooftop bar at **Heli Lounge Bar** (the helipad of a [Kuala Lumpur](/malaysia/kuala-lumpur-guide) skyscraper, converted to a rooftop bar at sunset) for the definitive KL skyline view.
 
 ## Days 3–4 – Penang (Georgetown)
 
-Fly or take the bus to Penang (1 hour flight, 4.5 hours by bus). Georgetown, the capital of Penang, is a UNESCO World Heritage city and the undisputed street food capital of Malaysia — possibly all of Southeast Asia.
+Fly or take the bus to [Penang](/malaysia/penang-travel-guide) (1 hour flight, 4.5 hours by bus). Georgetown, the capital of Penang, is a UNESCO World Heritage city and the undisputed street food capital of Malaysia — possibly all of Southeast Asia.
 
 **Day 3:** Walk the **UNESCO Heritage Zone** — a remarkable grid of clan houses, Chinese temples, Indian mosques, and British colonial buildings. The **Cheong Fatt Tze Mansion** (the Blue Mansion) is a meticulously restored 19th-century Chinese merchant house available to tour.
 

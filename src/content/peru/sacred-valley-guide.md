@@ -10,7 +10,7 @@ tags: [Sacred Valley, Peru, Pisac, Ollantaytambo, Maras, Moray, Inca, terraces, 
 city: cusco
 ---
 
-The Sacred Valley (Valle Sagrado) runs northwest from Cusco along the Urubamba River — a valley at 2,700–2,900 m that was the agricultural heartland of the Inca Empire and the location of their most important ceremonial and military sites. At 500 m lower than Cusco, it also serves as an acclimatization base for visitors arriving from sea level before ascending to the city.
+The Sacred Valley (Valle Sagrado) runs northwest from [Cusco](/[peru](/peru)/cusco-guide) along the Urubamba River — a valley at 2,700–2,900 m that was the agricultural heartland of the Inca Empire and the location of their most important ceremonial and military sites. At 500 m lower than Cusco, it also serves as an acclimatization base for visitors arriving from sea level before ascending to the city.
 
 The valley contains the best-preserved Inca agricultural systems in Peru, still partially in use by Quechua communities using traditional techniques.
 
@@ -32,9 +32,9 @@ The valley contains the best-preserved Inca agricultural systems in Peru, still 
 
 **Ollantaytambo Fortress**: The massive temple-fortress on the cliff above the town — six enormous pink granite monoliths forming the Temple of the Sun (never completed; the Spanish arrived before completion), surrounded by terraced agricultural platforms. The stones were quarried 5 km away at 4,500 m altitude and moved down slopes with no wheeled vehicles. The engineering problem has never been fully explained.
 
-The fortress was the site of the only Inca military victory over the Spanish (1536) — Manco Inca defeated Hernando Pizarro's force here before eventually retreating into the Amazon. Included in the Cusco Boleto Turístico.
+The fortress was the site of the only Inca military victory over the Spanish (1536) — Manco Inca defeated Hernando Pizarro's force here before eventually retreating into the [Amazon](/peru/amazon-guide). Included in the Cusco Boleto Turístico.
 
-**Practical note**: The train to Machu Picchu (Aguas Calientes) departs from Ollantaytambo station — most Machu Picchu trips pass through here, making it a natural overnight stop.
+**Practical note**: The train to [Machu Picchu](/peru/machu-picchu-guide) (Aguas Calientes) departs from Ollantaytambo station — most Machu Picchu trips pass through here, making it a natural overnight stop.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Cairo, nightlife, Nile cruise, felucca, belly dancing, Zamalek, Egypt]
 city: cairo
 ---
 
-Cairo operates on a different evening schedule than most cities — the heat of the day means social life begins after sunset, with families, couples, and groups filling the streets, Nile promenades, and restaurants from 8 PM onward. The Egyptian weekend is Thursday and Friday (Friday being the Islamic day of rest), making Thursday evening the busiest nightlife night.
+[Cairo](/egypt/cairo-travel-guide) operates on a different evening schedule than most cities — the heat of the day means social life begins after sunset, with families, couples, and groups filling the streets, Nile promenades, and restaurants from 8 PM onward. The Egyptian weekend is Thursday and Friday (Friday being the Islamic day of rest), making Thursday evening the busiest nightlife night.
 
 The most specifically Egyptian nightlife experiences — Nile dinner cruises with belly dancing and Sufi whirling, felucca rides at sunset, and shisha on Nile-side terraces — are all available and genuine, not contrived tourist theater.
 
@@ -61,7 +61,7 @@ Zamalek has the highest concentration of licensed bars in Cairo — the neighbor
 
 **Sachi** (Zamalek): Upscale cocktail program in a Mediterranean/Asian fusion restaurant — the best cocktails in Zamalek proper; attached to a full dinner menu.
 
-**Beer prices**: Stella (Egypt's domestic lager) and Sakara (the other Egyptian brand) cost 100–200 EGP ($2–4 USD) at Zamalek bars. At local cafés and less upscale venues, expect 80–120 EGP.
+**Beer prices**: Stella ([Egypt](/egypt)'s domestic lager) and Sakara (the other Egyptian brand) cost 100–200 EGP ($2–4 USD) at Zamalek bars. At local cafés and less upscale venues, expect 80–120 EGP.
 
 **Hours**: Cairo bars stay open until 3–4 AM on weekends (Thursday/Friday evenings).
 
@@ -69,7 +69,7 @@ Zamalek has the highest concentration of licensed bars in Cairo — the neighbor
 
 ## Whirling Dervishes at Al-Ghouri Cultural Centre
 
-**Al-Ghouri complex, Islamic Cairo** | Certain evenings (typically Wednesday and Saturday) | Free
+**Al-Ghouri complex, [Islamic Cairo](/egypt/islamic-cairo-guide)** | Certain evenings (typically Wednesday and Saturday) | Free
 
 The al-Ghouri Cultural Centre stages Sufi whirling dervish performances in the courtyard of a 500-year-old Mamluk caravanserai. The setting — carved stone arches, lanterns, and the sounds of Sufi music in an ancient courtyard — is superior to the dinner cruise version in every respect.
 

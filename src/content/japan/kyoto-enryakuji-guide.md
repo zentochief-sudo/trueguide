@@ -10,7 +10,7 @@ tags: [Enryakuji, Mount Hiei, Kyoto, Tendai Buddhism, temple, UNESCO, hiking, ca
 city: kyoto
 ---
 
-Enryaku-ji (*延暦寺*) was founded by the monk Saicho in 788 on the summit of Mount Hiei, the mountain that forms the natural northeastern border of the Kyoto basin. It became the head temple of the Tendai school of Japanese Buddhism, and over the following centuries, the most intellectually significant religious institution in Japan — the *alma mater* of Japanese Buddhism. Nearly every major Buddhist reformer of the Kamakura period (12th–14th century) who shaped the religion's subsequent history studied here: Honen (Pure Land Buddhism), Shinran (Jodo Shinshu), Dogen (Soto Zen), Eisai (Rinzai Zen), and Nichiren (Nichiren Buddhism) all began their religious education on Mount Hiei.
+Enryaku-ji (*延暦寺*) was founded by the monk Saicho in 788 on the summit of Mount Hiei, the mountain that forms the natural northeastern border of the [Kyoto](/japan/kyoto-guide) basin. It became the head temple of the Tendai school of Japanese Buddhism, and over the following centuries, the most intellectually significant religious institution in Japan — the *alma mater* of Japanese Buddhism. Nearly every major Buddhist reformer of the [Kamakura](/japan/kamakura-guide) period (12th–14th century) who shaped the religion's subsequent history studied here: Honen (Pure Land Buddhism), Shinran (Jodo Shinshu), Dogen (Soto Zen), Eisai (Rinzai Zen), and Nichiren (Nichiren Buddhism) all began their religious education on Mount Hiei.
 
 The temple complex covers the entire summit ridge of Mount Hiei (848m) across three areas (*Todo*, *Saito*, and *Yokawa*). It is UNESCO World Heritage Site as part of the Historic Monuments of Ancient Kyoto designation.
 

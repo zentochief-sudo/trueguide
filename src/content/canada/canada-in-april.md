@@ -10,7 +10,7 @@ tags: [Canada, April, spring, cherry blossoms, Vancouver, Ottawa, tulips]
 city: national
 ---
 
-April is the month Canada wakes up. Cherry blossoms appear in Vancouver in quantities that rival Japan. Ottawa's tulip fields are about to explode. Montreal's terrasse culture starts cautiously reopening. And because summer tourism hasn't kicked in yet, prices across the board are at their annual low. This is one of the best-value months to visit Canada.
+April is the month [Canada](/canada) wakes up. Cherry blossoms appear in Vancouver in quantities that rival Japan. Ottawa's tulip fields are about to explode. Montreal's terrasse culture starts cautiously reopening. And because summer tourism hasn't kicked in yet, prices across the board are at their annual low. This is one of the best-value months to visit Canada.
 
 ## Weather & Conditions
 

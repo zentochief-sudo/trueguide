@@ -10,7 +10,7 @@ tags: [San Francisco, food, restaurants, World Cup 2026, tacos, dim sum, SF Bay 
 city: sfbay
 ---
 
-San Francisco has one of the strongest restaurant cultures in the United States — a combination of proximity to exceptional agricultural products (Central Valley vegetables, Pacific seafood, Napa/Sonoma wine), a concentration of culinary talent, and a food culture that has been serious for decades longer than most American cities. The challenge for visitors is navigating a city that has neighborhoods with very different price points and cuisines.
+[San Francisco](/united-states/san-francisco-guide) has one of the strongest restaurant cultures in the United States — a combination of proximity to exceptional agricultural products (Central Valley vegetables, Pacific seafood, Napa/Sonoma wine), a concentration of culinary talent, and a food culture that has been serious for decades longer than most American cities. The challenge for visitors is navigating a city that has neighborhoods with very different price points and cuisines.
 
 ---
 

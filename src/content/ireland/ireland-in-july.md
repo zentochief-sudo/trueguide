@@ -10,13 +10,13 @@ tags: [Ireland, July, summer, Galway, festivals, peak season, Wild Atlantic Way]
 city: national
 ---
 
-July is Ireland at maximum summer. The tourist season is fully engaged — rental cars on every road, coastal B&Bs booked months ahead, and the festival calendar running every weekend. The payoff is everything running at full capacity: all ferry routes, all mountain paths, all visitor sites at peak operation. The days are long, the hedgerows are tall, and the Atlantic is as warm as it gets. This is Ireland performing for its largest audience.
+July is [Ireland](/ireland) at maximum summer. The tourist season is fully engaged — rental cars on every road, coastal B&Bs booked months ahead, and the festival calendar running every weekend. The payoff is everything running at full capacity: all ferry routes, all mountain paths, all visitor sites at peak operation. The days are long, the hedgerows are tall, and the Atlantic is as warm as it gets. This is Ireland performing for its largest audience.
 
 ## Weather & Conditions
 
-**Dublin:** 13–20°C. July is Ireland's warmest month. Some years produce genuinely warm weeks; others are cool and damp. The average hides a lot of variability.
+**[Dublin](/ireland/dublin-travel-guide):** 13–20°C. July is Ireland's warmest month. Some years produce genuinely warm weeks; others are cool and damp. The average hides a lot of variability.
 
-**West Coast:** 12–18°C. Galway and Clare are summery when the sun holds. Atlantic showers can arrive quickly.
+**West Coast:** 12–18°C. [Galway](/ireland/galway-guide) and Clare are summery when the sun holds. Atlantic showers can arrive quickly.
 
 **Kerry:** 14–20°C. Ireland's warmest region. Inch Beach on the Dingle Peninsula sees Irish families set up for summer days.
 
@@ -28,7 +28,7 @@ The key packing insight for July: still need a waterproof jacket. Don't be the p
 
 **Galway Races, Galway Racecourse (late July):** One of Europe's most celebrated race meetings runs for a full week in late July. The Galway Races have a distinct Irish atmosphere — women in elaborate hats, everyone in their best summer clothes, and the racing itself is excellent. The track at Ballybrit is 10 minutes from Galway city. Book accommodation in Galway for race week 4–6 months ahead — room rates are 3–4x normal levels.
 
-**Killarney National Park:** The 10,000-hectare park surrounding the Lakes of Killarney is at its most accessible in July. The Gap of Dunloe — a 10km valley between mountain ridges — is walked or taken by jaunting car (horse-drawn). The loop through the Upper, Middle, and Lower Lakes by boat takes 3 hours from Ross Castle. July crowds in Killarney are significant; early morning and evening activities have much less pressure.
+**[Killarney](/ireland/killarney-travel-guide) National Park:** The 10,000-hectare park surrounding the Lakes of Killarney is at its most accessible in July. The Gap of Dunloe — a 10km valley between mountain ridges — is walked or taken by jaunting car (horse-drawn). The loop through the Upper, Middle, and Lower Lakes by boat takes 3 hours from Ross Castle. July crowds in Killarney are significant; early morning and evening activities have much less pressure.
 
 **Dingle and the Blasket Islands:** Dingle Town is one of Ireland's most visited in July — the cafes, pubs, and seafood restaurants are all excellent and fully operational. Day trips to the Great Blasket Island (abandoned 1953) leave from Dunquin pier in summer. The island's deserted village, wild Atlantic scenery, and colony of grey seals make it extraordinary.
 

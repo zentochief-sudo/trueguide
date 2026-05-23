@@ -10,7 +10,7 @@ tags: [Ciudad de México, excursiones, Puebla, Teotihuacán, Taxco, World Cup 20
 city: cdmx
 ---
 
-CDMX is the perfect base for exploring central Mexico. Within a 3-hour radius there are colonial cities that rival anything in Europe, the largest archaeological site in Mesoamerica, and the volcanic landscapes of the Trans-Mexican Volcanic Belt. For World Cup visitors with free days between matches, these are the richest options.
+CDMX is the perfect base for exploring central [Mexico](/mexico). Within a 3-hour radius there are colonial cities that rival anything in Europe, the largest archaeological site in Mesoamerica, and the volcanic landscapes of the Trans-Mexican Volcanic Belt. For World Cup visitors with free days between matches, these are the richest options.
 
 ---
 
@@ -53,7 +53,7 @@ Puebla is Mexico's fourth-largest city and one of the most important in terms of
 **Time**: 2.5–3 hours by bus from the Terminal Sur  
 **Best for**: A full day of colonial city and silver
 
-Taxco is a colonial city founded to exploit the richest silver mines in New Spain — 18th-century baroque architecture, steep cobblestone streets, and a silver jewelry industry that has continued since the 16th century make Taxco one of Mexico's most photogenic towns.
+Taxco is a colonial city founded to exploit the richest silver mines in New [Spain](/spain) — 18th-century baroque architecture, steep cobblestone streets, and a silver jewelry industry that has continued since the 16th century make Taxco one of Mexico's most photogenic towns.
 
 **Iglesia de Santa Prisca** (Plaza Borda): The most beautiful churrigueresque (ultra-ornate baroque) church in Mexico, built between 1751 and 1758 by miner José de la Borda with profits from the mines. The gold and carved wood interior is disproportionately grand for the size of the city.
 

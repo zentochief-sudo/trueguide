@@ -10,7 +10,7 @@ tags: [Italy, March, spring, Rome, Sicily, Naples, pre-season, Easter, travel ti
 city: national
 ---
 
-March is Italy's most underrated month. The winter quiet is still holding — particularly in the first two weeks — while spring conditions arrive progressively across the country. Prices remain near winter lows. The south (Sicily, Naples, and Puglia) is already warm and green. And if Easter falls in March, the Holy Week programming in Rome and throughout Italy is extraordinary. March represents the last chance at Italy before the April-June surge.
+March is [Italy](/italy)'s most underrated month. The winter quiet is still holding — particularly in the first two weeks — while spring conditions arrive progressively across the country. Prices remain near winter lows. The south (Sicily, Naples, and Puglia) is already warm and green. And if Easter falls in March, the Holy Week programming in [Rome](/italy/rome-guide) and throughout Italy is extraordinary. March represents the last chance at Italy before the April-June surge.
 
 ## Weather in March
 
@@ -20,7 +20,7 @@ March is Italy's most underrated month. The winter quiet is still holding — pa
 
 **Venice:** 5°C to 13°C. Cold in early March, improving toward month end. Post-Carnival, Venice returns to its quietest state — locals only.
 
-**Milan:** 6°C to 16°C. Fashion Week (late February/early March) brings international visitors, but the city otherwise remains accessible.
+**[Milan](/italy/milan-travel-guide):** 6°C to 16°C. Fashion Week (late February/early March) brings international visitors, but the city otherwise remains accessible.
 
 **Naples:** 10°C to 18°C. Spring energy arrives. The city's street food culture (pizza al portafoglio, fried food from the friggitorie) is at its most atmospheric with cooler walking temperatures.
 

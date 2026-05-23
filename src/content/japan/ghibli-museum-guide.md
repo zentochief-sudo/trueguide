@@ -29,9 +29,9 @@ This is the critical information: **tickets cannot be purchased at the museum**.
 **Via Authorized Travel Agents and Resellers**: The most practical option for non-Japan-based visitors:
 - **JTB** and other major Japanese travel agencies sell Ghibli Museum tickets as part of package bookings
 - **Klook** and **Viator** are authorized resellers that handle international purchase and delivery
-- **Tokyo locals' travel services** (various operators) provide ticket assistance as a service for first-time visitors
+- **[Tokyo](/japan/tokyo-guide) locals' travel services** (various operators) provide ticket assistance as a service for first-time visitors
 
-**Booking window**: Tickets go on sale on the 10th of each month for the following month. The most popular time slots (Saturday and Sunday afternoons) sell out within minutes. For peak periods (cherry blossom, Golden Week, summer school holidays), booking on the 10th at the exact moment sales open is necessary.
+**Booking window**: Tickets go on sale on the 10th of each month for the following month. The most popular time slots (Saturday and Sunday afternoons) sell out within minutes. For peak periods ([cherry blossom](/japan/cherry-blossom-guide), Golden Week, summer school holidays), booking on the 10th at the exact moment sales open is necessary.
 
 **Timed entry**: All tickets specify an entry time (10am, 12pm, 2pm, or 4pm). Entry is only permitted in the 30-minute window from the specified time.
 

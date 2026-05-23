@@ -10,7 +10,7 @@ tags: [Estadio Akron, Guadalajara, World Cup 2026, FIFA, Chivas, stadium]
 city: guadalajara
 ---
 
-Estadio Akron — officially the Estadio Chivas Akron — opened in 2010 and is one of the most modern football stadiums in Latin America. Designed by architect Rafael de la Peña, the stadium has a translucent membrane structure that illuminates the exterior at night and creates a distinctive visual atmosphere. It is owned by Club Deportivo Guadalajara (Chivas), the club with the largest following in Mexico.
+Estadio Akron — officially the Estadio Chivas Akron — opened in 2010 and is one of the most modern football stadiums in Latin America. Designed by architect Rafael de la Peña, the stadium has a translucent membrane structure that illuminates the exterior at night and creates a distinctive visual atmosphere. It is owned by Club Deportivo Guadalajara (Chivas), the club with the largest following in [Mexico](/mexico).
 
 ---
 

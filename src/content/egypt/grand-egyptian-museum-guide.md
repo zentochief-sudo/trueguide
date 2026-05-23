@@ -10,7 +10,7 @@ tags: [Grand Egyptian Museum, GEM, Tutankhamun, Cairo, Egypt, Pyramids]
 city: cairo
 ---
 
-The Grand Egyptian Museum (GEM) opened to the public in 2023 after two decades of construction and is immediately one of the most significant museum openings of the 21st century. The billing — "world's largest museum dedicated to a single civilization" — is accurate. The building covers 480,000 square meters near the Giza Plateau; the collection holds over 100,000 artifacts. And for the first time in history, all 5,398 objects from Tutankhamun's tomb are displayed together.
+The Grand [Egyptian Museum](/[egypt](/egypt)/egyptian-museum-guide) (GEM) opened to the public in 2023 after two decades of construction and is immediately one of the most significant museum openings of the 21st century. The billing — "world's largest museum dedicated to a single civilization" — is accurate. The building covers 480,000 square meters near the Giza Plateau; the collection holds over 100,000 artifacts. And for the first time in history, all 5,398 objects from Tutankhamun's tomb are displayed together.
 
 The GEM is approximately 2 km from the Pyramids. Most visitors combine both in a single day.
 
@@ -24,7 +24,7 @@ The GEM is approximately 2 km from the Pyramids. Most visitors combine both in a
 
 **Khufu's Solar Boat**: A 4,500-year-old cedarwood boat buried next to the Great Pyramid to carry the pharaoh's soul into the afterlife. 43 meters long, constructed without nails, disassembled into 1,224 pieces and reassembled. After decades in a purpose-built museum on the Giza Plateau, the Solar Boat was relocated to the GEM in 2021 — it now has the exhibition it deserves.
 
-**The Grand Staircase**: The entrance staircase is lined with colossal statues of Egypt's greatest pharaohs. The centerpiece is the statue of Ramses II — 11 meters tall, originally from Ramses Square in Cairo, moved to the GEM after the square's reconstruction.
+**The Grand Staircase**: The entrance staircase is lined with colossal statues of Egypt's greatest pharaohs. The centerpiece is the statue of Ramses II — 11 meters tall, originally from Ramses Square in [Cairo](/egypt/cairo-travel-guide), moved to the GEM after the square's reconstruction.
 
 ---
 

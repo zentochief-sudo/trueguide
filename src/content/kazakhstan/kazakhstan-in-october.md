@@ -10,7 +10,7 @@ tags: [Kazakhstan, October, autumn, Almaty, Tian Shan, steppe, fall colors]
 city: national
 ---
 
-October is Kazakhstan's transitional month — and it's striking. The Tian Shan high routes are closing as the first winter snowfall consolidates above 3,000m. The steppe has turned from summer gold to autumn amber. Almaty's famous street trees — the plane trees and birches lining the city's Soviet-era boulevards — turn gold and then rust before the first November frosts. It's a month that rewards visitors who appreciate the aesthetics of a place preparing for winter rather than a destination at its most accessible.
+October is [Kazakhstan](/kazakhstan)'s transitional month — and it's striking. The Tian Shan high routes are closing as the first winter snowfall consolidates above 3,000m. The steppe has turned from summer gold to autumn amber. [Almaty](/kazakhstan/almaty-travel-guide)'s famous street trees — the plane trees and birches lining the city's Soviet-era boulevards — turn gold and then rust before the first November frosts. It's a month that rewards visitors who appreciate the aesthetics of a place preparing for winter rather than a destination at its most accessible.
 
 ## Weather & Conditions
 
@@ -18,9 +18,9 @@ October is Kazakhstan's transitional month — and it's striking. The Tian Shan 
 
 **Tian Shan (lower routes):** 2–10°C. The lower trails (below 2,000m) are still walkable. High routes closed or inaccessible.
 
-**Astana:** 2–14°C. Cold by late October. The first snow is possible.
+**[Astana](/kazakhstan/astana-guide):** 2–14°C. Cold by late October. The first snow is possible.
 
-**Charyn Canyon:** 10–20°C. Ideal. The canyon is comfortable all day.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 10–20°C. Ideal. The canyon is comfortable all day.
 
 **Steppe:** 6–18°C. Vast and brown, with dramatic cloud formations.
 

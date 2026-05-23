@@ -82,13 +82,13 @@ The traditional vegetarian cuisine of Buddhist temple communities — completely
 *Shojin ryori* at a temple or specialist restaurant is the best vegetarian dining experience in Japan — multi-course set menus using seasonal vegetables, tofu, and mountain vegetables prepared with the same care and complexity as kaiseki.
 
 **Best locations**:
-- **Kyoto**: Temples that serve *shojin ryori* include Daitoku-ji affiliated restaurants (Izusen in Daitoku-ji garden), and specialist restaurants near Arashiyama. Expect ¥3,500–8,000 for a full course.
-- **Tokyo**: *Handa* (Yanaka area), *Gesshinkyo* (Tomigaya, Shibuya adjacent) — high-end shojin ryori in a non-temple setting.
-- **Mount Koya** (*Koyasan*): Temple accommodation (*shukubo*) always serves shojin ryori. Staying overnight at Koyasan and eating the temple breakfast is one of the best experiences in Japan.
+- **[Kyoto](/japan/kyoto-guide)**: Temples that serve *shojin ryori* include Daitoku-ji affiliated restaurants (Izusen in Daitoku-ji garden), and specialist restaurants near Arashiyama. Expect ¥3,500–8,000 for a full course.
+- **[Tokyo](/japan/tokyo-guide)**: *Handa* (Yanaka area), *Gesshinkyo* (Tomigaya, Shibuya adjacent) — high-end shojin ryori in a non-temple setting.
+- **Mount Koya** (*[Koyasan](/japan/koyasan-guide)*): Temple accommodation (*shukubo*) always serves shojin ryori. Staying overnight at Koyasan and eating the temple breakfast is one of the best experiences in Japan.
 
 ### Indian Restaurants
 
-India has a large diaspora community in Japan, particularly in Tokyo; Indian restaurants are widely available, understand vegetarianism deeply (much Indian cuisine is vegetarian by default), and the *thali* set meals are excellent value.
+[India](/india) has a large diaspora community in Japan, particularly in Tokyo; Indian restaurants are widely available, understand vegetarianism deeply (much Indian cuisine is vegetarian by default), and the *thali* set meals are excellent value.
 
 **Concentration**: Shin-Okubo (Tokyo's international district near Shinjuku), and throughout central Tokyo.
 

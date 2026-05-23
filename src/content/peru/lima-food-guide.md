@@ -10,7 +10,7 @@ tags: [Lima, Peru, food, ceviche, nikkei, Central, Gastón Acurio, La Mar, antic
 city: lima
 ---
 
-Lima has been ranked the World's Best Culinary Destination multiple times by the World Travel Awards, and three of its restaurants have appeared in the World's 50 Best. The claim is not marketing hyperbole — the convergence of Andean, Amazonian, coastal Pacific, Japanese, Chinese, Spanish, and African culinary traditions in a single coastal city produced something genuinely unique: a cuisine of extraordinary complexity that synthesizes indigenous ingredients (more than 3,000 varieties of potato, 55 varieties of corn, Amazon fruits) with immigrant cooking techniques.
+[Lima](/peru/lima-guide) has been ranked the World's Best Culinary Destination multiple times by the World Travel Awards, and three of its restaurants have appeared in the World's 50 Best. The claim is not marketing hyperbole — the convergence of Andean, Amazonian, coastal Pacific, Japanese, Chinese, Spanish, and African culinary traditions in a single coastal city produced something genuinely unique: a cuisine of extraordinary complexity that synthesizes indigenous ingredients (more than 3,000 varieties of potato, 55 varieties of corn, [Amazon](/[peru](/peru)/amazon-guide) fruits) with immigrant cooking techniques.
 
 The practical reality: Lima has exceptional fine dining, excellent mid-range restaurants, and some of the best casual food in South America, all at prices significantly lower than equivalent quality in New York, London, or Tokyo.
 

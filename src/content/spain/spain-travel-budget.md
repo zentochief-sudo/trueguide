@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Spain sits in the middle of the European cost spectrum — pricier than Portugal or Eastern Europe, but significantly cheaper than France, the UK, or Scandinavia. Madrid and Barcelona are more expensive than Andalucía or rural Spain, and summer in the Balearics can rival the Riviera.
+[Spain](/spain) sits in the middle of the European cost spectrum — pricier than [Portugal](/portugal) or Eastern Europe, but significantly cheaper than [France](/france), the UK, or Scandinavia. Madrid and [Barcelona](/spain/barcelona-travel-guide) are more expensive than Andalucía or rural Spain, and summer in the Balearics can rival the Riviera.
 
 ## Quick Summary
 

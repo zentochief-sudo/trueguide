@@ -24,11 +24,11 @@ Ramen is not one dish. It is a framework — broth, noodle, fat, tare (seasoning
 
 **Shoyu (soy sauce)** — the Tokyo style. Clear brown broth, medium-thickness noodles, chashu pork, menma bamboo shoots, nori. Clean and direct. **Fuunji** in Shinjuku and **Kagari** near Ginza are two of the most respected shoyu-style shops in Tokyo.
 
-**Shio (salt)** — the lightest style: clear or pale broth, often chicken or seafood-based, delicate. The Hokkaido city of Hakodate is associated with shio ramen. Less common in Tokyo.
+**Shio (salt)** — the lightest style: clear or pale broth, often chicken or seafood-based, delicate. The [Hokkaido](/japan/hokkaido-guide) city of Hakodate is associated with shio ramen. Less common in Tokyo.
 
-**Miso** — originated in Sapporo in the 1950s. Rich, cloudy broth, thick wavy noodles, often with corn and butter. **Ichiban Ramen** chains in Sapporo are the institution; in Tokyo, **Misoya** in Ikebukuro replicates the style well.
+**Miso** — originated in [Sapporo](/japan/sapporo-guide) in the 1950s. Rich, cloudy broth, thick wavy noodles, often with corn and butter. **Ichiban Ramen** chains in Sapporo are the institution; in Tokyo, **Misoya** in Ikebukuro replicates the style well.
 
-**Tonkotsu** — the Fukuoka/Kyushu style. Milky white pork bone broth, cooked for 12–24 hours until the collagen breaks down into the broth. Thin straight noodles. Rich, fatty, savory in a way that shoyu is not. **Ichiran** and **Ippudo** are the chains that spread this nationwide; the small shops in Fukuoka's Nakasu district are what the style actually looks like at its source.
+**Tonkotsu** — the [Fukuoka](/japan/fukuoka-guide)/Kyushu style. Milky white pork bone broth, cooked for 12–24 hours until the collagen breaks down into the broth. Thin straight noodles. Rich, fatty, savory in a way that shoyu is not. **Ichiran** and **Ippudo** are the chains that spread this nationwide; the small shops in Fukuoka's Nakasu district are what the style actually looks like at its source.
 
 **Ordering**: Most ramen shops use vending machines at the entrance — put in coins or card, press your order, receive a ticket, hand it to the counter staff. No Japanese required. The ticket machines usually have photographs. Start with the basic option (usually the cheapest on the menu); the variant with more toppings is not necessarily better, just more expensive.
 
@@ -72,7 +72,7 @@ Wagyu is a specific category of Japanese cattle with genetic disposition toward 
 
 The best preparation is a simple teppan steak — a small piece (100–150g), cooked quickly on a hot iron plate, with minimal seasoning. The richness of the fat means small portions are satisfying in a way that a 300g sirloin is not.
 
-**Where to eat it**: Kobe's Kitano district has several teppanyaki restaurants near the old European merchant houses. Matsusaka is an easy day trip from Osaka or Nagoya. Tokyo's Ginza and Nishi-Azabu neighborhoods have the highest concentration of serious wagyu restaurants.
+**Where to eat it**: Kobe's Kitano district has several teppanyaki restaurants near the old European merchant houses. Matsusaka is an easy day trip from Osaka or [Nagoya](/japan/nagoya-guide). Tokyo's Ginza and Nishi-Azabu neighborhoods have the highest concentration of serious wagyu restaurants.
 
 **Yakiniku** (Korean-style BBQ) is the more casual format: raw beef cuts cooked at a table grill. A yakiniku restaurant using A5-grade wagyu is one of the most direct ways to understand what the marbling actually does to flavor. Tsuruhashi in Osaka (the Korean neighborhood) has some of the best yakiniku in Kansai.
 
@@ -89,7 +89,7 @@ The best preparation is a simple teppan steak — a small piece (100–150g), co
 **Fish markets**:
 - **Tsukiji Outer Market** (Tokyo) — the famous inner wholesale market relocated to Toyosu, but the outer market remains with its tuna rice bowls, tamagoyaki (thick sweet egg roll), and fresh uni. Morning hours only; most stalls close by 2pm.
 - **Kuromon Ichiba** (Osaka) — 170 stalls, called "Namba's kitchen." The stalls selling grilled shellfish and sea urchin for on-site eating are where to focus.
-- **Omicho Market** (Kanazawa) — the freshest seafood outside Tokyo, with access to the Sea of Japan catch (crab, yellowtail, snow crab in winter).
+- **Omicho Market** ([Kanazawa](/japan/kanazawa-guide)) — the freshest seafood outside Tokyo, with access to the Sea of Japan catch (crab, yellowtail, snow crab in winter).
 
 **Convenience stores** — not a joke, not a compromise, and not a footnote. Japan's convenience stores (7-Eleven, FamilyMart, Lawson) have hot food counters, freshly made onigiri, sandwiches, prepared meals, and baked goods that are legitimately good. The onigiri (rice balls) are made daily; the fillings change by season. The egg salad sandwiches with trimmed crusts are a cultural institution. The nikuman (steamed pork bun) from the hot case costs ¥100 and is perfect. Learning to navigate a Japanese convenience store is a practical travel skill — when everything else is closed at 11pm, you will be grateful.
 
@@ -103,15 +103,15 @@ Japan's regions each have distinct food cultures. Brief orientations:
 
 **Osaka**: Takoyaki, Osaka-style okonomiyaki (mixed, not layered), kushikatsu (battered fried skewers). The city's mercantile history produced a straightforward approach to eating — more flavor, more fat, less ceremony.
 
-**Kyoto**: Kaiseki (the most refined Japanese cuisine, a seasonal multi-course sequence). Tofu cuisine (yudofu — simmered tofu, appearing basic and revealing good tofu). Nishin soba (herring soba noodles). The cuisine reflects the imperial aesthetic of restraint and seasonal precision.
+**[Kyoto](/japan/kyoto-guide)**: Kaiseki (the most refined Japanese cuisine, a seasonal multi-course sequence). Tofu cuisine (yudofu — simmered tofu, appearing basic and revealing good tofu). Nishin soba (herring soba noodles). The cuisine reflects the imperial aesthetic of restraint and seasonal precision.
 
-**Hiroshima**: Hiroshima-style okonomiyaki (layered with noodles). Oysters (60% of Japan's production, season October–March). Momiji manju.
+**[Hiroshima](/japan/hiroshima-guide)**: Hiroshima-style okonomiyaki (layered with noodles). Oysters (60% of Japan's production, season October–March). Momiji manju.
 
 **Fukuoka**: Tonkotsu ramen at its source. Mentaiko (spicy marinated pollock roe, eaten with rice or on grilled fish). Hakata gyoza. Motsunabe (offal hot pot). The city has a yatai (outdoor food stall) culture concentrated along the Naka River.
 
 **Hokkaido**: Sapporo miso ramen. Snow crab and king crab. Hokkaido dairy products (butter, cheese, soft cream — the soft serve in Hokkaido rest stops is genuinely better than elsewhere). Jingisukan (Mongolian-style grilled lamb, a Hokkaido specialty).
 
-**Okinawa**: Goya champuru (bitter melon stir fry). Rafute (braised pork belly cooked in awamori rice wine). Taco rice (a local fusion from the US military base influence). Okinawa soba (not buckwheat — a wheat noodle in pork broth).
+**[Okinawa](/japan/okinawa-guide)**: Goya champuru (bitter melon stir fry). Rafute (braised pork belly cooked in awamori rice wine). Taco rice (a local fusion from the US military base influence). Okinawa soba (not buckwheat — a wheat noodle in pork broth).
 
 ---
 

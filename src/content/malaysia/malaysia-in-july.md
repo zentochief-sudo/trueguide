@@ -10,19 +10,19 @@ tags: [Malaysia, July, peak season, Perhentian, Redang, turtles, Borneo, school 
 city: national
 ---
 
-July is Malaysia's busiest tourism month. Both Malaysian school holidays and international summer vacations converge on the east coast. The Perhentian Islands are at absolute maximum capacity. Turtle nesting continues on Redang. Sipadan's 120 daily dive permits are allocated months ahead. For the east coast, July is the guaranteed good weather month — and the guaranteed crowded month. Book everything well in advance or wait for September.
+July is [Malaysia](/malaysia)'s busiest tourism month. Both Malaysian school holidays and international summer vacations converge on the east coast. The Perhentian Islands are at absolute maximum capacity. Turtle nesting continues on Redang. Sipadan's 120 daily dive permits are allocated months ahead. For the east coast, July is the guaranteed good weather month — and the guaranteed crowded month. Book everything well in advance or wait for September.
 
 ## Weather & Conditions
 
 **East Coast:** 27–33°C. Excellent. This is the dry season peak — calm seas, high visibility, sunny days.
 
-**West Coast (Langkawi, Penang):** Southwest monsoon peak. Rain is heavy and frequent. Not the beach season.
+**West Coast ([Langkawi](/malaysia/langkawi-guide), [Penang](/malaysia/penang-travel-guide)):** Southwest monsoon peak. Rain is heavy and frequent. Not the beach season.
 
-**Kuala Lumpur:** 25–32°C. Humid and hot. Short afternoon showers.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** 25–32°C. Humid and hot. Short afternoon showers.
 
 **Sabah:** 24–32°C. Generally dry and excellent.
 
-**Cameron Highlands:** 18–24°C. Cool hill station. School holiday crowds.
+**[Cameron Highlands](/malaysia/cameron-highlands-guide):** 18–24°C. Cool hill station. School holiday crowds.
 
 ## What to Do
 
@@ -32,7 +32,7 @@ July is Malaysia's busiest tourism month. Both Malaysian school holidays and int
 
 **Cameron Highlands tea picking season:** The British hill station at 1,500m is pleasant in July heat and is a classic school holiday destination for Malaysian families. The Boh Tea estate tours, butterfly farm, and mossy forest walk are all running. Expect significant domestic tourist pressure during Malaysian school holidays.
 
-**Sipadan diving (Sabah):** July's calm South China Sea makes for excellent Sipadan conditions. Permit holders find the dive environment extraordinary — hammerhead schools, bull sharks, green and hawksbill turtles, and the dramatic vertical wall drop-off. Operators on Mabul Island (Scuba Junkie, Borneo Divers, Smart Dive) run permit-based packages.
+**Sipadan diving (Sabah):** July's calm South China Sea makes for excellent Sipadan conditions. Permit holders find the dive environment extraordinary — hammerhead schools, bull sharks, green and hawksbill turtles, and the dramatic vertical wall drop-off. Operators on Mabul Island (Scuba Junkie, [Borneo](/malaysia/borneo-guide) Divers, Smart Dive) run permit-based packages.
 
 **Kota Kinabalu city (Sabah):** KK as a city is underrated — the waterfront Filipino Market (best seafood in Malaysia at sunset grill prices), the Signal Hill Observatory, and the offshore Tunku Abdul Rahman Marine Park (5 islands, 10 minutes by boat) are all accessible.
 

@@ -12,7 +12,7 @@ city: arenal
 
 The Arenal Volcano (1,670m) erupted continuously from 1968 to 2010 — a 42-year period during which it was one of the most active volcanoes on earth, producing regular lava flows and ash columns visible for miles. Since 2010 it has been quiet but seismically active, its perfectly conical shape now accessible via trails through cooling lava fields. The town of La Fortuna, 8 km from the volcano's base, has built an entire industry around the mountain: hot springs fed by geothermal heat, adventure tours, wildlife watching, and access to the surrounding lake and river system.
 
-This is the most visited inland destination in Costa Rica, and for good reason — it concentrates more activities per square kilometer than anywhere else in the country.
+This is the most visited inland destination in [Costa Rica](/costa-rica/costa-rica-travel-guide), and for good reason — it concentrates more activities per square kilometer than anywhere else in the country.
 
 ---
 

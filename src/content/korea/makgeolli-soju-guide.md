@@ -59,7 +59,7 @@ Whether the weather claim is real or invented, the combination is genuinely comp
 
 **Craft makgeolli**: Seoul has developed a craft makgeolli movement comparable to craft beer in Western cities. **The Booth** (Itaewon and multiple locations) and **Maru180** (Hapjeong) are the most prominent bars specializing in artisan rice wine.
 
-**Traditional market versions**: Gwangjang Market in Seoul, Jeonju Nambu Market, and Andong's local production all represent the regional makgeolli culture at its most authentic.
+**Traditional market versions**: [Gwangjang Market](/korea/gwangjang-market-guide) in Seoul, [Jeonju](/korea/jeonju-guide) Nambu Market, and [Andong](/korea/andong-guide)'s local production all represent the regional makgeolli culture at its most authentic.
 
 **Jeonju**: The Jeolla region is the spiritual home of makgeolli culture — the rice grown there and the traditional fermentation methods produce some of the best makgeolli in Korea. The locally produced *baek-il* makgeolli (100-day makgeolli, aged longer than standard) has depth that commercial versions can't match.
 
@@ -82,7 +82,7 @@ Korean beer has historically been dominated by **Hite** and **OB** — light lag
 **Interesting craft breweries**:
 - **Hand and Malt** (Seoul/nationwide): Japan-influenced brewing with Korean ingredients
 - **Magpie Brewing** (Seoul): One of the first craft operations in Korea
-- **Jeju Beer**: Island-focused brand using Jeju water and locally-inflected styles
+- **[Jeju](/korea/jeju-guide) Beer**: Island-focused brand using Jeju water and locally-inflected styles
 
 The convenience store beer selection has improved significantly. **Kloud** and **Terra** from the major breweries are better than the previous generation; imported cans from Germany, Belgium, and the US are widely available.
 

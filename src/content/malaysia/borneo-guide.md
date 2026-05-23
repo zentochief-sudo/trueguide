@@ -10,7 +10,7 @@ tags: [Malaysia, Borneo, Sabah, Sarawak, orangutan, Mount Kinabalu, wildlife, ra
 city: kuala-lumpur
 ---
 
-Malaysian Borneo comprises two states — Sabah (northeast) and Sarawak (northwest) — on the northern coast of the world's third-largest island. It is a 2-hour flight from Kuala Lumpur but a different world: one of the most biodiverse regions on Earth, with some of the last intact lowland rainforest in Southeast Asia, orangutans in the wild, proboscis monkeys on the river banks, and the second-highest peak in Southeast Asia in Mount Kinabalu (4,095m).
+Malaysian Borneo comprises two states — Sabah (northeast) and Sarawak (northwest) — on the northern coast of the world's third-largest island. It is a 2-hour flight from [Kuala Lumpur](/[malaysia](/malaysia)/kuala-lumpur-guide) but a different world: one of the most biodiverse regions on Earth, with some of the last intact lowland rainforest in Southeast Asia, orangutans in the wild, proboscis monkeys on the river banks, and the second-highest peak in Southeast Asia in Mount Kinabalu (4,095m).
 
 Most visitors reach Borneo on a separate trip from peninsular Malaysia rather than trying to combine both in a single itinerary — the islands are separated by the South China Sea, and Borneo deserves its own dedicated time.
 

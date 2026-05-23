@@ -12,7 +12,7 @@ city: monteverde
 
 Monteverde sits in the mountains above the Nicoya Peninsula at 1,400–1,800m elevation — high enough that the continental divide forces Caribbean and Pacific air masses to collide here, producing perpetual cloud and a specific ecosystem found almost nowhere else. The cloud forest depends on this moisture: orchids, bromeliads, mosses, and ferns cover every surface; the trees are draped in epiphytes to the point of grotesquerie; visibility at treetop level is often measured in meters.
 
-The town of Santa Elena is the service hub; the Monteverde Cloud Forest Biological Reserve (a private reserve administered by the Tropical Science Center since 1972) and the Santa Elena Cloud Forest Reserve (administered by the local high school) are 5–10 km uphill. This is one of Costa Rica's most visited destinations and one of the most biologically remarkable places accessible to non-specialist visitors in the western hemisphere.
+The town of Santa Elena is the service hub; the Monteverde Cloud Forest Biological Reserve (a private reserve administered by the Tropical Science Center since 1972) and the Santa Elena Cloud Forest Reserve (administered by the local high school) are 5–10 km uphill. This is one of [Costa Rica](/costa-rica/costa-rica-travel-guide)'s most visited destinations and one of the most biologically remarkable places accessible to non-specialist visitors in the western hemisphere.
 
 ---
 
@@ -94,7 +94,7 @@ Birding guides (local specialists, not general naturalists) dramatically increas
 
 **By car**: The route from the Pan-American Highway involves 35 km of unpaved road through farmland. 4WD is recommended (the road is now paved through most of the approach since 2023, but the final section remains rough and wet in rainy season).
 
-**The jeep-boat-jeep**: The scenic route between La Fortuna/Arenal and Monteverde — a 3-hour combination of shared jeep, boat crossing of Lake Arenal, and jeep to Santa Elena ($35–45/person). Faster than the paved road option and more interesting.
+**The jeep-boat-jeep**: The scenic route between La Fortuna/[Arenal](/costa-rica/arenal-guide) and Monteverde — a 3-hour combination of shared jeep, boat crossing of Lake Arenal, and jeep to Santa Elena ($35–45/person). Faster than the paved road option and more interesting.
 
 ---
 

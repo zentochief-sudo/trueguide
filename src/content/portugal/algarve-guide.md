@@ -10,7 +10,7 @@ tags: [Algarve, Portugal, beaches, sea caves, Benagil, Ponta da Piedade, Tavira,
 city: algarve
 ---
 
-The Algarve is Portugal's southernmost region — a 150 km Atlantic coastline with two distinct characters: the limestone cliff coast of the central and western Algarve (dramatic arches, caves, and golden rock formations) and the flat, sandy barrier island coast of the eastern Algarve (the Ria Formosa lagoon and the islands of Tavira and Culatra). The inland Algarve — cork oak forests, whitewashed villages, and the medieval castle town of Silves — is barely visited by the beach tourists.
+The Algarve is [Portugal](/portugal)'s southernmost region — a 150 km Atlantic coastline with two distinct characters: the limestone cliff coast of the central and western Algarve (dramatic arches, caves, and golden rock formations) and the flat, sandy barrier island coast of the eastern Algarve (the Ria Formosa lagoon and the islands of Tavira and Culatra). The inland Algarve — cork oak forests, whitewashed villages, and the medieval castle town of Silves — is barely visited by the beach tourists.
 
 The region is Portugal's most popular destination and has been significantly overdeveloped along the main coastline; the experience varies considerably based on which part you choose.
 
@@ -58,6 +58,6 @@ The region is Portugal's most popular destination and has been significantly ove
 
 ## Practical Notes
 
-- **Getting there**: Faro Airport (international), 3 hours from Lisbon by bus (€22) or 1 hour by domestic flight. Car essential for anything beyond the main resort towns
+- **Getting there**: Faro Airport (international), 3 hours from [Lisbon](/portugal/lisbon-guide) by bus (€22) or 1 hour by domestic flight. Car essential for anything beyond the main resort towns
 - **Best time**: May–June and September–October — warm (22–27°C), minimal crowds. July–August is peak season; beaches are crowded and prices 30–50% higher
 - **Accommodation**: Western Algarve (Lagos, Sagres) and eastern Algarve (Tavira) have better quality-to-price than the Albufeira resort strip

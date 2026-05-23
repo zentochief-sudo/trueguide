@@ -10,15 +10,15 @@ tags: [India, February, Rajasthan, Pushkar, Khajuraho, Goa, desert festival, mus
 city: national
 ---
 
-February is India at its most refined in the north — the intense cold of December-January has eased, the heat of March-April hasn't arrived, and the country sits in a golden-weather window. Rajasthan's cultural calendar is packed. The mustard fields of Punjab turn the plains brilliant yellow. Khajuraho's medieval erotic temples are accessible without the summer tourist pressure. And Goa is still in full swing, a few weeks before the beach season begins to ebb.
+February is [India](/india) at its most refined in the north — the intense cold of December-January has eased, the heat of March-April hasn't arrived, and the country sits in a golden-weather window. [Rajasthan](/india/rajasthan-guide)'s cultural calendar is packed. The mustard fields of Punjab turn the plains brilliant yellow. Khajuraho's medieval erotic temples are accessible without the summer tourist pressure. And [Goa](/india/goa-guide) is still in full swing, a few weeks before the beach season begins to ebb.
 
 ## Weather & Conditions
 
-**Delhi / North India:** 10–22°C. Warmer than January. The fog season begins to ease. Mornings still cool but afternoons genuinely pleasant.
+**[Delhi](/india/delhi-guide) / North India:** 10–22°C. Warmer than January. The fog season begins to ease. Mornings still cool but afternoons genuinely pleasant.
 
 **Rajasthan:** 12–26°C. The best temperature window of the year for the desert region. Warm afternoons, cool evenings, no fog.
 
-**Kerala / South India:** 24–33°C. Still comfortable. The northeast monsoon has fully ended.
+**[Kerala](/india/kerala-guide) / South India:** 24–33°C. Still comfortable. The northeast monsoon has fully ended.
 
 **Goa:** 24–33°C. Still beach season. February is one of Goa's most popular months.
 
@@ -44,7 +44,7 @@ February is India at its most refined in the north — the intense cold of Decem
 
 **Desert Festival, Jaisalmer (February):** Three days of Rajasthani culture in the dunes.
 
-**Valentine's Day (February 14):** Celebrated in urban India in ways that would surprise visitors expecting a traditional country. Mumbai, Delhi, and Bangalore are fully engaged.
+**Valentine's Day (February 14):** Celebrated in urban India in ways that would surprise visitors expecting a traditional country. [Mumbai](/india/mumbai-guide), Delhi, and Bangalore are fully engaged.
 
 **Losar (Tibetan New Year, variable — February or March):** Observed in Dharamshala, Spiti Valley, and Ladakh with religious ceremonies, traditional costumes, and monastery festivals.
 

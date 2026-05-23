@@ -10,19 +10,19 @@ tags: [Peru, January, rainy season, Machu Picchu, Amazon, Inca Trail, low season
 city: national
 ---
 
-January is Peru's wet season in the highlands and one of the Amazon's richest periods for wildlife. The iconic Inca Trail is closed for maintenance throughout February (and gets progressively wetter in January). Machu Picchu operates but under frequent cloud and rain. The tradeoff is real: green Andean landscapes, substantially fewer tourists, and prices significantly below the dry season peak. For the right traveler, January Peru is compelling.
+January is [Peru](/peru)'s wet season in the highlands and one of the [Amazon](/peru/amazon-guide)'s richest periods for wildlife. The iconic Inca Trail is closed for maintenance throughout February (and gets progressively wetter in January). [Machu Picchu](/peru/machu-picchu-guide) operates but under frequent cloud and rain. The tradeoff is real: green Andean landscapes, substantially fewer tourists, and prices significantly below the dry season peak. For the right traveler, January Peru is compelling.
 
 ## Weather & Conditions
 
-**Cusco and the Sacred Valley:** 10–20°C. Rain is frequent — typically afternoon downpours, with mornings more likely to be clear. The mountains are vivid green. Temperatures are mild by daytime but cool at night.
+**[Cusco](/peru/cusco-guide) and the [Sacred Valley](/peru/sacred-valley-guide):** 10–20°C. Rain is frequent — typically afternoon downpours, with mornings more likely to be clear. The mountains are vivid green. Temperatures are mild by daytime but cool at night.
 
 **Machu Picchu:** 14–22°C, with significant cloud and regular rain. The citadel can be beautiful in mist; it can also be entirely cloud-covered for hours. Morning visits (arriving at opening) offer the best chance of cloud-free windows.
 
-**Lima:** 18–24°C. Lima's coast is overcast (the winter garúa coastal fog) and warm. Not a beach month on the coast but the city is fully operational.
+**[Lima](/peru/lima-guide):** 18–24°C. Lima's coast is overcast (the winter garúa coastal fog) and warm. Not a beach month on the coast but the city is fully operational.
 
 **Amazon (Iquitos, Puerto Maldonado):** 28–34°C, high humidity. The rainy season means flooded forests — lakes form around the tree bases and boat access opens routes impossible in dry season.
 
-**Lake Titicaca (Puno):** 8–16°C. Rain and cold. The lake is full and dramatic.
+**[Lake Titicaca](/peru/lake-titicaca-guide) (Puno):** 8–16°C. Rain and cold. The lake is full and dramatic.
 
 ## What to Do
 

@@ -18,7 +18,7 @@ The city was renamed Nur-Sultan in 2019 (after Nazarbayev) and reverted to Astan
 
 ## Getting There
 
-**From Almaty**: 1.5-hour flight on Air Astana (multiple daily) or 13–16 hours by overnight train. The train is the more economical option and deposits you in the city center.
+**From [Almaty](/kazakhstan/almaty-travel-guide)**: 1.5-hour flight on Air Astana (multiple daily) or 13–16 hours by overnight train. The train is the more economical option and deposits you in the city center.
 
 **Astana Nursultan Nazarbayev International Airport (TSE)**: 15 km from the center. Bus 10 and express train connect to the city; taxi ~3,000 KZT.
 
@@ -34,7 +34,7 @@ The views from the observation deck over the Left Bank architectural ensemble ar
 **Entry**: ~1,500 KZT. Open daily.
 
 ### Khan Shatyr Entertainment Center
-Norman Foster's 2010 design — a transparent tent-shaped structure 150 meters high covering 100,000 square meters, with a mall, beach resort (including a sand beach, waterpark, and artificial sun lamps in winter), restaurants, and the longest monorail in Kazakhstan. The concept addresses Astana's extreme winters (−30°C common) by creating an indoor city within a tent.
+Norman Foster's 2010 design — a transparent tent-shaped structure 150 meters high covering 100,000 square meters, with a mall, beach resort (including a sand beach, waterpark, and artificial sun lamps in winter), restaurants, and the longest monorail in [Kazakhstan](/kazakhstan). The concept addresses Astana's extreme winters (−30°C common) by creating an indoor city within a tent.
 
 The beach resort on the top floors, where families sunbathe under UV lights while outside is white steppe at −25°C, is one of the more surreal experiences available in Central Asia.
 

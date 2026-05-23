@@ -10,7 +10,7 @@ destinations: [mexico, costa-rica]
 tags: [Mexico, Costa Rica, comparison, Central America, Latin America travel]
 ---
 
-Mexico and Costa Rica are two of the most-visited countries in Latin America — and two of the most frequently confused by first-time visitors who can't decide between them. They're not that similar. One is a civilization. The other is a national park with a government.
+[Mexico](/mexico) and [Costa Rica](/costa-rica) are two of the most-visited countries in Latin America — and two of the most frequently confused by first-time visitors who can't decide between them. They're not that similar. One is a civilization. The other is a national park with a government.
 
 That's not a knock on either. But understanding what each country actually *is* will save you from picking the wrong one.
 

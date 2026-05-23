@@ -83,7 +83,7 @@ A typical gîte dinner:
 - Local dessert (often banana flambé with rhum arrangé)
 - A small glass of vanilla rhum arrangé to finish
 
-The cirque gîtes in Mafate (accessible only on foot), Cilaos, and Salazie all maintain this tradition. Book well in advance for weekends and holidays.
+The cirque gîtes in Mafate (accessible only on foot), [Cilaos](/reunion/cilaos-guide), and Salazie all maintain this tradition. Book well in advance for weekends and holidays.
 
 ---
 

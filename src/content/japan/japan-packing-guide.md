@@ -16,7 +16,7 @@ Packing for Japan differs from other destinations in a few specific ways: the co
 
 ## The Core Principles
 
-**Pack light**: Japan's trains, subway cars, and streets do not accommodate large luggage gracefully. Many ryokan and small hotels have no elevator; dragging a 28-inch case up narrow stairs is unpleasant. A 20–22-inch carry-on and a day bag is the optimum for most trips.
+**Pack light**: Japan's trains, subway cars, and streets do not accommodate large luggage gracefully. Many [ryokan](/japan/ryokan-guide) and small hotels have no elevator; dragging a 28-inch case up narrow stairs is unpleasant. A 20–22-inch carry-on and a day bag is the optimum for most trips.
 
 **Luggage forwarding (takkyubin) is available**: For multi-city trips, you can ship luggage forward to your next hotel for ¥1,000–2,000 per bag, arriving the same or next day. This means you don't have to drag luggage through shinkansen stations; it's not a reason to over-pack, but it reduces the daily burden.
 
@@ -45,7 +45,7 @@ Japan's most visited seasons (spring and autumn) have wide temperature variation
 
 **Summer (June–August)**: Light fabrics essential. A small battery-powered fan is genuinely useful at summer festivals; available in Japan but good to have. The humidity in July–August makes fast-drying synthetic fabrics more practical than cotton.
 
-**Winter (December–February)**: Full winter gear for Hokkaido, the Alps, and Tohoku. Tokyo and Kyoto winters (3–8°C) require a warm coat, layering underneath, and weatherproof shoes — but not heavy alpine gear.
+**Winter (December–February)**: Full winter gear for [Hokkaido](/japan/hokkaido-guide), the Alps, and [Tohoku](/japan/tohoku-guide). [Tokyo](/japan/tokyo-guide) and [Kyoto](/japan/kyoto-guide) winters (3–8°C) require a warm coat, layering underneath, and weatherproof shoes — but not heavy alpine gear.
 
 ### Socks
 

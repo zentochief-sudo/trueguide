@@ -10,7 +10,7 @@ tags: [Milan, Italy, practical, transport, metro, Malpensa, Navigli, budget, day
 city: milan
 ---
 
-Milan is Italy's most efficiently organized major city and the easiest to navigate of the major Italian destinations — a functioning metro system, English widely spoken in the center, and the logistical clarity of a city that considers itself European rather than specifically Italian. It requires some orientation (the historic center is smaller than visitors expect; the fashion and design districts are spread across different neighborhoods), but the basics are straightforward.
+[Milan](/italy/milan-travel-guide) is [Italy](/italy)'s most efficiently organized major city and the easiest to navigate of the major Italian destinations — a functioning metro system, English widely spoken in the center, and the logistical clarity of a city that considers itself European rather than specifically Italian. It requires some orientation (the historic center is smaller than visitors expect; the fashion and design districts are spread across different neighborhoods), but the basics are straightforward.
 
 ---
 
@@ -29,7 +29,7 @@ The main international airport — 50 km northwest of Milan, handling long-haul 
 Smaller airport, 7 km from the city center — mostly European short-haul. Metro M4 (opened 2023) connects directly to the center in 15 minutes. Fare: €1.70 with ATM pass.
 
 ### By Train
-Milano Centrale is one of Europe's great railway stations (the Fascist-era architecture is worth pausing to appreciate) and connects Italy's high-speed rail network. Rome: 3 hours (Frecciarossa). Venice: 2.5 hours. Turin: 1 hour. Florence: 1.75 hours.
+Milano Centrale is one of Europe's great railway stations (the Fascist-era architecture is worth pausing to appreciate) and connects Italy's high-speed rail network. [Rome](/italy/rome-guide): 3 hours (Frecciarossa). Venice: 2.5 hours. Turin: 1 hour. Florence: 1.75 hours.
 
 ---
 
@@ -96,7 +96,7 @@ Milan is Italy's most expensive city but compares favorably to Paris or London:
 ## Day Trips
 
 ### Lake Como (70 km north)
-Train to Como San Giovanni: 40 minutes from Centrale. Bellagio accessible by ferry. See the full Lake Como guide.
+Train to Como San Giovanni: 40 minutes from Centrale. Bellagio accessible by ferry. See the full [Lake Como](/italy/lake-como-guide) guide.
 
 ### Bergamo (55 km east)
 An often-overlooked medieval city — the Città Alta (Upper Town) is a walled hilltop medieval center of extraordinary preservation, connected to the modern lower city by funicular. The Piazza Vecchia and the Basilica di Santa Maria Maggiore are the finest examples of northern Italian Romanesque-Gothic. Train from Centrale: 55 minutes. Worth a full day.

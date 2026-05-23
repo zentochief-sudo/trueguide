@@ -22,9 +22,9 @@ Here are ten of them.
 
 ## 1. Kanazawa
 
-Kanazawa is the one on this list you should go to first. It's not exactly hidden — Japanese travelers have always known about it — but the international tourist traffic is a fraction of Kyoto's, and the reward is a city that feels genuinely preserved rather than performed.
+[Kanazawa](/japan/kanazawa-guide) is the one on this list you should go to first. It's not exactly hidden — Japanese travelers have always known about it — but the international tourist traffic is a fraction of Kyoto's, and the reward is a city that feels genuinely preserved rather than performed.
 
-The Higashi Chaya geisha district has the same DNA as Kyoto's Gion but without the crowds. Walk it at 7am and it's yours. The Kenroku-en garden is considered one of Japan's finest — the pine trees propped up with wooden supports against the winter snow weight are one of those things that makes you stop walking.
+The Higashi Chaya [geisha](/japan/geisha-guide) district has the same DNA as Kyoto's Gion but without the crowds. Walk it at 7am and it's yours. The Kenroku-en garden is considered one of Japan's finest — the pine trees propped up with wooden supports against the winter snow weight are one of those things that makes you stop walking.
 
 And the food: Kanazawa is one of Japan's great food cities, built on fresh seafood from the Sea of Japan coast. Omicho Market is where to start.
 
@@ -54,7 +54,7 @@ Shikoku is the smallest of Japan's four main islands, and the least visited by f
 You don't have to walk all 88 temples. But driving or cycling portions of the route, staying at the temple lodgings (shukubo) and eating the simple pilgrim meals is one of the most distinctive travel experiences Japan offers.
 
 **Highlights:**
-- **Matsuyama**: a city with one of Japan's few surviving original castles and the finest traditional onsen town (Dogo Onsen, Japan's oldest)
+- **[Matsuyama](/japan/matsuyama-guide)**: a city with one of Japan's few surviving original castles and the finest traditional onsen town (Dogo Onsen, Japan's oldest)
 - **Iya Valley**: a remote mountain valley accessible only by a narrow road, with vine bridges suspended over gorges — a place of extraordinary isolation
 - **Kochi**: a city famous for its food culture and the only castle in Japan built with the original tower
 
@@ -64,17 +64,17 @@ You don't have to walk all 88 temples. But driving or cycling portions of the ro
 
 ## 4. Yakushima
 
-Yakushima is an island covered in ancient cedar forest, some of the trees over 7,000 years old. The forest was the visual reference for Princess Mononoke. It rains constantly — about 4 meters per year — which keeps it green and misty and quiet in a way that Japan's cities are not.
+[Yakushima](/japan/yakushima-guide) is an island covered in ancient cedar forest, some of the trees over 7,000 years old. The forest was the visual reference for Princess Mononoke. It rains constantly — about 4 meters per year — which keeps it green and misty and quiet in a way that Japan's cities are not.
 
 The Jomon Sugi, a cedar estimated to be between 2,000 and 7,200 years old, requires an 8-10 hour round-trip hike. Most people who do it don't regret it.
 
-Yakushima is a 3-hour ferry from Kagoshima or a short flight. Go for 2–3 nights minimum.
+Yakushima is a 3-hour ferry from [Kagoshima](/japan/kagoshima-guide) or a short flight. Go for 2–3 nights minimum.
 
 ---
 
 ## 5. Naoshima — Art Island
 
-In the Seto Inland Sea, Naoshima is a small island that became an unlikely destination through art. Starting in the 1990s, the Benesse Foundation built a series of museums designed by architect Tadao Ando — concrete buildings that integrate with the landscape, displaying contemporary art by Yayoi Kusama, James Turrell and others.
+In the Seto Inland Sea, [Naoshima](/japan/naoshima-guide) is a small island that became an unlikely destination through art. Starting in the 1990s, the Benesse Foundation built a series of museums designed by architect Tadao Ando — concrete buildings that integrate with the landscape, displaying contemporary art by Yayoi Kusama, James Turrell and others.
 
 The combination of traditional fishing village, contemporary architecture, and art that fills whole rooms with nothing but light and reflection is unlike anything else in the country.
 
@@ -84,7 +84,7 @@ Two days is enough. Rent a bicycle.
 
 ## 6. Shirakawa-go
 
-A UNESCO World Heritage village in the mountains between Nagoya and Kanazawa, Shirakawa-go consists of farmhouses with extraordinarily steep thatched roofs — designed to shed the heavy mountain snowfall. In winter, with snow on the roofs and light in the windows, it looks like it was drawn rather than built.
+A UNESCO World Heritage village in the mountains between [Nagoya](/japan/nagoya-guide) and Kanazawa, Shirakawa-go consists of farmhouses with extraordinarily steep thatched roofs — designed to shed the heavy mountain snowfall. In winter, with snow on the roofs and light in the windows, it looks like it was drawn rather than built.
 
 Visit for a half-day from Kanazawa or Nagoya. If you can stay overnight at a gassho-zukuri farmhouse, the village in the early morning before the day-trippers arrive is genuinely moving.
 
@@ -92,7 +92,7 @@ Visit for a half-day from Kanazawa or Nagoya. If you can stay overnight at a gas
 
 ## 7. Kinosaki Onsen
 
-A small hot spring town on the Sea of Japan coast, Kinosaki is the template for the traditional onsen experience. The town has seven public bathhouses; you stay at a ryokan, put on a yukata (cotton kimono), collect your wooden sandals, and walk from bath to bath through the lantern-lit streets in the evening.
+A small hot spring town on the Sea of Japan coast, Kinosaki is the template for the traditional onsen experience. The town has seven public bathhouses; you stay at a [ryokan](/japan/ryokan-guide), put on a yukata (cotton kimono), collect your wooden sandals, and walk from bath to bath through the lantern-lit streets in the evening.
 
 It's as Japanese as anything gets. Two nights here will rearrange your understanding of what relaxation is.
 

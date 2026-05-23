@@ -10,7 +10,7 @@ tags: [Thailand, July, Khao Phansa, Buddhist Lent, Ko Samui, Ko Tao, low season,
 city: national
 ---
 
-July is Thailand's quiet core — the Andaman coast in full monsoon, the Gulf coast in its middle dry season period, and one of Buddhism's most important annual events beginning. Khao Phansa — the Buddhist Lent — starts on the full moon of the 8th lunar month (typically July), with candle festivals at temples across the country. Tourist numbers are at minimum, prices follow, and the country has a distinctly local, non-performative quality that peak season doesn't allow.
+July is [Thailand](/thailand)'s quiet core — the Andaman coast in full monsoon, the Gulf coast in its middle dry season period, and one of Buddhism's most important annual events beginning. Khao Phansa — the Buddhist Lent — starts on the full moon of the 8th lunar month (typically July), with candle festivals at temples across the country. Tourist numbers are at minimum, prices follow, and the country has a distinctly local, non-performative quality that peak season doesn't allow.
 
 ## Khao Phansa — Buddhist Lent (Vassa)
 
@@ -21,7 +21,7 @@ Khao Phansa begins on the full moon of the 8th lunar month — typically falling
 - Young men traditionally ordain as monks for the duration (some do shorter periods)
 - Temple festivals in provincial capitals — Ubon Ratchathani and Nakhon Ratchasima run the most elaborate Khao Phansa Candle Festival
 
-**Ubon Ratchathani Candle Festival:** The most spectacular Khao Phansa celebration — enormous carved candle sculptures (some 3–4 meters tall, depicting Buddhist cosmological scenes) are paraded through the city before being displayed at temples. The festival runs 3 days around the full moon and is almost entirely attended by Thai Buddhists rather than foreign tourists. Ubon Ratchathani is in the northeast (Isan) region — 6 hours from Bangkok by overnight train.
+**Ubon Ratchathani Candle Festival:** The most spectacular Khao Phansa celebration — enormous carved candle sculptures (some 3–4 meters tall, depicting Buddhist cosmological scenes) are paraded through the city before being displayed at temples. The festival runs 3 days around the full moon and is almost entirely attended by Thai Buddhists rather than foreign tourists. Ubon Ratchathani is in the northeast (Isan) region — 6 hours from [Bangkok](/thailand/bangkok-guide) by overnight train.
 
 ## Gulf Coast in July
 
@@ -47,7 +47,7 @@ Bangkok in July is rainy and hot — the morning-outdoor, afternoon-indoor rhyth
 
 The north is deeply green in July — rice paddies at their most vivid, waterfalls running at maximum volume, the mountains in lush cloud forest.
 
-**Pai (Mae Hong Son):** The small mountain town in a valley 3 hours from Chiang Mai is a backpacker hub. July is the rainy season — Pai is extremely lush, the Canyon (Pai Canyon) walkable in light rain, the Pai River activities restricted on the heaviest rain days.
+**Pai (Mae Hong Son):** The small mountain town in a valley 3 hours from [Chiang Mai](/thailand/chiang-mai-guide) is a backpacker hub. July is the rainy season — Pai is extremely lush, the Canyon (Pai Canyon) walkable in light rain, the Pai River activities restricted on the heaviest rain days.
 
 **Nan province:** One of the most beautiful and least-visited provinces in northern Thailand — traditional Shan architecture, murals at Wat Phumin (one of Thailand's most distinctive temple interiors), and the Mekong border with Laos. In July, the rice planting season makes the rural landscape extraordinary.
 

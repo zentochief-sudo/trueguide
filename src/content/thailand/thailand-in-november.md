@@ -10,7 +10,7 @@ tags: [Thailand, November, Yi Peng, Loi Krathong, Chiang Mai, Andaman Coast, lan
 city: national
 ---
 
-November is Thailand's turning point month. The Andaman coast's dry season returns — Phuket, Krabi, and Ko Lanta reopen to their full blue-water potential. Yi Peng (the sky lantern festival in Chiang Mai) and Loi Krathong (the national floating lantern festival) create the most visually spectacular events in the Thai calendar. And the weather across the north improves dramatically after months of rain. November is when the country resets, and it does so memorably.
+November is [Thailand](/thailand)'s turning point month. The Andaman coast's dry season returns — [Phuket](/thailand/phuket-guide), Krabi, and Ko Lanta reopen to their full blue-water potential. Yi Peng (the sky lantern festival in [Chiang Mai](/thailand/chiang-mai-guide)) and Loi Krathong (the national floating lantern festival) create the most visually spectacular events in the Thai calendar. And the weather across the north improves dramatically after months of rain. November is when the country resets, and it does so memorably.
 
 ## Yi Peng — Chiang Mai Sky Lantern Festival
 
@@ -33,9 +33,9 @@ Loi Krathong falls on the full moon night of the 12th Thai lunar month — the s
 
 **Where it's celebrated:**
 - **Chiang Mai:** Combines with Yi Peng — krathongs float on the Ping River and moat while sky lanterns fill the air above
-- **Bangkok:** Chao Phraya River and the city's klongs (canals) are covered in floating krathongs. Wat Arun by the river is particularly atmospheric.
+- **[Bangkok](/thailand/bangkok-guide):** Chao Phraya River and the city's klongs (canals) are covered in floating krathongs. Wat Arun by the river is particularly atmospheric.
 - **Sukhothai:** The former capital runs one of the most elaborate Loi Krathong celebrations in Thailand — the Historical Park is decorated with thousands of lights, and the festival has been held here since the Sukhothai period
-- **Ayutthaya:** The former capital also runs river celebrations
+- **[Ayutthaya](/thailand/ayutthaya-guide):** The former capital also runs river celebrations
 
 **What it means:** Loi Krathong represents floating away bad luck, grievances, and negativity of the past year. The candlelit float drifting away on the river water is a genuinely moving tradition.
 

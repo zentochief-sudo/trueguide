@@ -10,7 +10,7 @@ tags: [New York City, free things to do, World Cup 2026, budget travel, NYC acti
 city: nyc
 ---
 
-New York City has a reputation for expense that obscures a significant truth: some of the best experiences the city offers cost nothing. Central Park alone could fill a week. The Staten Island Ferry provides the best Manhattan skyline view available anywhere. The SummerStage concert series in Central Park runs dozens of free shows between June and August. The High Line, the Brooklyn Bridge, and the waterfront parks are all free, all excellent, and all underused by visitors who spend their afternoon budgets on observation deck tickets instead.
+New York City has a reputation for expense that obscures a significant truth: some of the best experiences the city offers cost nothing. Central Park alone could fill a week. The Staten Island Ferry provides the best Manhattan skyline view available anywhere. The SummerStage concert series in Central Park runs dozens of free shows between June and August. The High Line, the [Brooklyn](/united-states/brooklyn-guide) Bridge, and the waterfront parks are all free, all excellent, and all underused by visitors who spend their afternoon budgets on observation deck tickets instead.
 
 This guide is organized around what to do in New York between matches — for free.
 
@@ -112,7 +112,7 @@ New York's best free experiences are often the blocks between destinations. The 
 
 **West Village**: The irregular street grid south of 14th Street between 7th Avenue and Hudson Street produces blocks that feel preserved from another era. Grove Street, Jane Street, and the blocks around Bedford Avenue have the most photographed residential streetscapes in New York.
 
-**Chinatown and Little Italy** (Canal Street and south): The density of fish markets, produce vendors, bakeries, and street traffic is its own experience. Walk Mulberry Street for the Little Italy strip (now largely tourist-facing) and then turn onto Mott Street for actual Chinatown.
+**Chinatown and Little [Italy](/italy)** (Canal Street and south): The density of fish markets, produce vendors, bakeries, and street traffic is its own experience. Walk Mulberry Street for the Little Italy strip (now largely tourist-facing) and then turn onto Mott Street for actual Chinatown.
 
 **The Bronx's Grand Concourse**: A 4.5-mile Beaux-Arts and Art Deco boulevard built in 1909 with some of the best 1930s apartment architecture in the city. Not a tourist attraction — a residential avenue that rewards walking.
 

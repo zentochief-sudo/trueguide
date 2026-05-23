@@ -10,7 +10,7 @@ tags: [Osaka, izakaya, food, drinking, guide, local, yakitori, Japan dining]
 city: Osaka
 ---
 
-The izakaya (居酒屋) is the Japanese pub — and in Osaka, it's the primary social institution. Unlike the restaurant model of ordering once and eating, the izakaya works in continuous small waves: a few dishes arrive, you eat, you order more, you drink, you order again. The evening extends across 2–3 hours without anyone feeling rushed. It's one of the most hospitable dining formats in the world, and Osaka's version is the most accessible in Japan.
+The izakaya (居酒屋) is the Japanese pub — and in [Osaka](/japan/osaka-guide), it's the primary social institution. Unlike the restaurant model of ordering once and eating, the izakaya works in continuous small waves: a few dishes arrive, you eat, you order more, you drink, you order again. The evening extends across 2–3 hours without anyone feeling rushed. It's one of the most hospitable dining formats in the world, and Osaka's version is the most accessible in Japan.
 
 ## What Is an Izakaya
 
@@ -70,7 +70,7 @@ The literal translation: "i" (stay) + "sakaya" (sake shop). The original izakaya
 
 **Gyoza (餃子):** Pan-fried dumplings — the standard accompaniment throughout Japan. ¥350–¥600 for 6 pieces.
 
-**Tamagoyaki (卵焼き):** Sweet Japanese egg roll — Kansai-style is sweeter than Tokyo. ¥400–¥600.
+**Tamagoyaki (卵焼き):** Sweet Japanese egg roll — Kansai-style is sweeter than [Tokyo](/japan/tokyo-guide). ¥400–¥600.
 
 **Chahan (チャーハン, fried rice):** Often available as an end-of-evening carb filler. ¥500–¥800.
 
@@ -78,7 +78,7 @@ The literal translation: "i" (stay) + "sakaya" (sake shop). The original izakaya
 
 ## Drinking at Izakayas
 
-**Beer (生ビール, nama biiru — draft beer):** Almost always available — Sapporo, Asahi, Kirin, Suntory. The first beer is the universal izakaya opening. ¥400–¥700 per glass.
+**Beer (生ビール, nama biiru — draft beer):** Almost always available — [Sapporo](/japan/sapporo-guide), Asahi, Kirin, Suntory. The first beer is the universal izakaya opening. ¥400–¥700 per glass.
 
 **Shochu (焼酎):** The distilled spirit made from sweet potato (imo), barley (mugi), or rice (kome) — order as a straight glass (¥400–¥700), rocks (on the rocks), or mizuwari (diluted with water). The imo shochu has the most distinctive flavor; mugi is milder.
 

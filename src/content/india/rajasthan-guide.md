@@ -10,7 +10,7 @@ tags: [Rajasthan, India, Jaipur, Jodhpur, Udaipur, Jaisalmer, Amber Fort, desert
 city: rajasthan
 ---
 
-Rajasthan is India distilled to its most theatrical elements — the rose-pink city of Jaipur, the blue-washed lanes of Jodhpur, the lake palace of Udaipur floating in a mountain lake, and the golden sandstone fort of Jaisalmer rising from the Thar Desert like a mirage. The Rajput kingdoms that built these palaces from the 8th to 18th centuries produced an architecture and culture that is unmistakably and exclusively Indian — a tradition of painted frescoes, carved *jaali* screens, elephant processions, and the heroic aesthetics of a warrior aristocracy.
+Rajasthan is [India](/india) distilled to its most theatrical elements — the rose-pink city of [Jaipur](/india/jaipur-guide), the blue-washed lanes of Jodhpur, the lake palace of Udaipur floating in a mountain lake, and the golden sandstone fort of Jaisalmer rising from the Thar Desert like a mirage. The Rajput kingdoms that built these palaces from the 8th to 18th centuries produced an architecture and culture that is unmistakably and exclusively Indian — a tradition of painted frescoes, carved *jaali* screens, elephant processions, and the heroic aesthetics of a warrior aristocracy.
 
 The standard circuit — Jaipur, Jodhpur, Udaipur, Jaisalmer — covers 1,000 km and is optimally done in 10–14 days.
 
@@ -59,7 +59,7 @@ Founded in 1727 by Maharaja Jai Singh II — the first planned city in India, bu
 ## Getting Around Rajasthan
 
 The most efficient circuit uses a combination of:
-- **Train**: Delhi–Jaipur (4.5 hours, Shatabdi Express), Jaipur–Jodhpur (5.5 hours), Jodhpur–Jaisalmer (5.5 hours), Jodhpur–Udaipur (4 hours). Book on irctc.co.in
+- **Train**: [Delhi](/india/delhi-guide)–Jaipur (4.5 hours, Shatabdi Express), Jaipur–Jodhpur (5.5 hours), Jodhpur–Jaisalmer (5.5 hours), Jodhpur–Udaipur (4 hours). Book on irctc.co.in
 - **Private car with driver**: The most flexible option for the full circuit — a 10-day hire (Delhi to Udaipur) costs ₹25,000–40,000 including driver accommodation
 
 ---

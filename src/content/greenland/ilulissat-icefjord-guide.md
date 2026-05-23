@@ -10,7 +10,7 @@ tags: [Ilulissat, Greenland, Icefjord, UNESCO, icebergs, Sermeq Kujalleq, midnig
 city: ilulissat
 ---
 
-Ilulissat sits at 69°N, 350 km north of the Arctic Circle, on the western coast of Greenland — a town of 4,500 people whose immediate hinterland contains one of the most dramatic geological processes on Earth. The Sermeq Kujalleq glacier (also known as Jakobshavn Glacier) is the world's fastest-moving glacier and one of the most productive ice-calving glaciers in the northern hemisphere, generating roughly 20 billion tonnes of icebergs annually. These icebergs exit through the Ilulissat Icefjord — a 40 km fjord that has been a UNESCO World Heritage Site since 2004 — and pile up in the shallow water at the fjord mouth before drifting south into the North Atlantic.
+Ilulissat sits at 69°N, 350 km north of the Arctic Circle, on the western coast of [Greenland](/greenland) — a town of 4,500 people whose immediate hinterland contains one of the most dramatic geological processes on Earth. The Sermeq Kujalleq glacier (also known as Jakobshavn Glacier) is the world's fastest-moving glacier and one of the most productive ice-calving glaciers in the northern hemisphere, generating roughly 20 billion tonnes of icebergs annually. These icebergs exit through the Ilulissat Icefjord — a 40 km fjord that has been a UNESCO World Heritage Site since 2004 — and pile up in the shallow water at the fjord mouth before drifting south into the North Atlantic.
 
 The visual result is one of the most extraordinary landscapes available on Earth: city-block-sized icebergs, some reaching 100m above the waterline, clustered and drifting in the blue water below the town. The icefjord is visible directly from the town center.
 
@@ -68,7 +68,7 @@ Ilulissat is one of the last places in the world with a functioning sled dog cul
 
 ## Getting to Ilulissat
 
-**Air Greenland from Nuuk**: 1.5-hour flight; 2–3 flights daily. The main connection.
+**Air Greenland from [Nuuk](/greenland/nuuk-travel-guide)**: 1.5-hour flight; 2–3 flights daily. The main connection.
 
 **Air Greenland from Kangerlussuaq**: 45 minutes. Kangerlussuaq is the transatlantic connection point (SAS from Copenhagen).
 

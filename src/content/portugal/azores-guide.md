@@ -10,7 +10,7 @@ tags: [Azores, Portugal, São Miguel, Pico, Flores, whale watching, volcanic, hi
 city: azores
 ---
 
-The Azores are nine volcanic islands in the mid-Atlantic, 1,400 km west of Lisbon and sitting on the triple junction of the North American, Eurasian, and African tectonic plates. The result is a landscape of permanent geological drama: calderas the size of small cities filled with lakes, hydrothermal springs that heat public baths and cook food underground, and the kind of intense green that comes from volcanic soil, high humidity, and year-round mild temperatures (16–24°C). The islands are an autonomous region of Portugal, accessible from Lisbon in 2 hours by air.
+The Azores are nine volcanic islands in the mid-Atlantic, 1,400 km west of [Lisbon](/portugal/lisbon-guide) and sitting on the triple junction of the North American, Eurasian, and African tectonic plates. The result is a landscape of permanent geological drama: calderas the size of small cities filled with lakes, hydrothermal springs that heat public baths and cook food underground, and the kind of intense green that comes from volcanic soil, high humidity, and year-round mild temperatures (16–24°C). The islands are an autonomous region of [Portugal](/portugal), accessible from Lisbon in 2 hours by air.
 
 The Azores are the most underrated destination in Europe and one of the best in the world for whale watching, hiking, and the experience of nature at scale.
 

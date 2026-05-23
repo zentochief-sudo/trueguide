@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Greenland has two completely different travel seasons — summer (midnight sun, hiking, boat tours) and winter (northern lights, dog sledding, extreme Arctic). Both are extraordinary for completely different reasons.
+[Greenland](/greenland) has two completely different travel seasons — summer (midnight sun, hiking, boat tours) and winter (northern lights, [dog sledding](/greenland/dog-sledding-guide), extreme Arctic). Both are extraordinary for completely different reasons.
 
 ## The Short Answer
 
@@ -63,7 +63,7 @@ Dog sled still excellent. Light returning — spectacular long golden hours at d
 Sea ice beginning to break up. Last reliable dog sled conditions. The ice sheet hike season opening. Days long (18+ hours of light). Fewer tourists than summer; some summer activities beginning.
 
 ### May ⭐ (midnight sun approaching)
-Midnight sun arrives in Ilulissat (north) around May 25. Nuuk still has a brief night. Hiking trails increasingly accessible. Boat tours beginning. Icebergs from the winter calving season impressive.
+Midnight sun arrives in Ilulissat (north) around May 25. [Nuuk](/greenland/nuuk-travel-guide) still has a brief night. Hiking trails increasingly accessible. Boat tours beginning. Icebergs from the winter calving season impressive.
 
 ### June ⭐⭐ (best summer month)
 Midnight sun in full effect across the west coast. All activities operational. Wildflowers beginning on the tundra. Icebergs at their most spectacular. Least crowded of the summer months.

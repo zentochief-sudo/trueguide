@@ -10,15 +10,15 @@ tags: [Costa Rica, October, transition, leatherback turtles, Tortuguero closing,
 city: national
 ---
 
-October is Costa Rica's final month of transition. The Guanacaste dry season typically begins arriving in November, and late October sometimes delivers the first glimpse of what's coming — a few clearer mornings and slightly lighter afternoon rain. The Caribbean's Tortuguero turtle nesting season is winding down as the last green sea turtles nest and the final hatchlings emerge. On the Pacific side, the leatherback turtle nesting season opens at Playa Grande (Las Baulas National Park) in October — a different and extraordinary turtle experience. October also sees the Limón Carnival — the Caribbean coast's biggest cultural event.
+October is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s final month of transition. The Guanacaste dry season typically begins arriving in November, and late October sometimes delivers the first glimpse of what's coming — a few clearer mornings and slightly lighter afternoon rain. The Caribbean's Tortuguero turtle nesting season is winding down as the last green sea turtles nest and the final hatchlings emerge. On the Pacific side, the leatherback turtle nesting season opens at Playa Grande (Las Baulas National Park) in October — a different and extraordinary turtle experience. October also sees the Limón Carnival — the Caribbean coast's biggest cultural event.
 
 ## Weather & Conditions
 
 **Guanacaste:** 23–31°C. Still rainy season but beginning to ease by late October.
 
-**Manuel Antonio:** 23–29°C. Rain. Transitioning.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 23–29°C. Rain. Transitioning.
 
-**Arenal:** 19–25°C. Heavy rain. Still the wet season.
+**[Arenal](/costa-rica/arenal-guide):** 19–25°C. Heavy rain. Still the wet season.
 
 **Caribbean (Tortuguero):** 23–28°C. Heavy rain. Turtle season closing.
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Tanzania's safari season is shaped by two rainy seasons — the long rains (March–May) and short rains (November). The Great Migration follows a predictable annual clockwise loop around the Serengeti. Understanding both is the key to planning.
+[Tanzania](/tanzania)'s safari season is shaped by two rainy seasons — the long rains (March–May) and short rains (November). The Great Migration follows a predictable annual clockwise loop around the Serengeti. Understanding both is the key to planning.
 
 ## The Short Answer
 
@@ -40,13 +40,13 @@ The wildebeest migration (1.5 million animals) moves in a clockwise circuit arou
 
 ### January ⭐ (calving season)
 **Southern Serengeti/Ndutu:** Calving season peak — hundreds of thousands of wildebeest calves born. This attracts enormous concentrations of predators (cheetahs, lions, hyenas, wild dogs). One of the year's most dramatic wildlife moments.
-**Zanzibar:** Hot and humid but generally sunny (northeast monsoon season). Good beach weather.
+**[Zanzibar](/tanzania/zanzibar-guide):** Hot and humid but generally sunny (northeast monsoon season). Good beach weather.
 
 ### February ⭐ (calving continues)
 Calving season continues. Short dry spell makes roads accessible. **Excellent photography light** — clear sky after the short rains, green grass, and predators hunting calves.
 
 ### March–May — Mostly Avoid
-Long rains arrive in March. By April–May, roads in the Serengeti and Ngorongoro can flood. Many smaller camps close. Wildlife is present but harder to find in dense vegetation. **Not recommended** for first-time safari visitors. Significant discounts available (30–50% off).
+Long rains arrive in March. By April–May, roads in the Serengeti and [Ngorongoro](/tanzania/ngorongoro-guide) can flood. Many smaller camps close. Wildlife is present but harder to find in dense vegetation. **Not recommended** for first-time safari visitors. Significant discounts available (30–50% off).
 
 ### June ⭐⭐ Excellent (dry season begins)
 Long rains end. Vegetation drying out — animals concentrate around water. **Grumeti River crossings** begin in the western Serengeti. Excellent conditions throughout the Northern Circuit. Prices rising toward peak.
@@ -79,7 +79,7 @@ Short rains ending. Migration back in southern Serengeti. Excellent conditions r
 | Serengeti (central/Seronera) | Jun–Oct | Year-round predators; dry season best |
 | Serengeti (north/Mara) | Jul–Oct | River crossings |
 | Ngorongoro Crater | Jun–Oct | Dry season best; year-round accessible |
-| Tarangire | Jun–Oct | Dry season elephant concentrations |
+| [Tarangire](/tanzania/tarangire-guide) | Jun–Oct | Dry season elephant concentrations |
 | Ruaha | Jun–Oct | Best wildlife; inaccessible long rains |
 | Selous/Nyerere | Jun–Oct | Boat safaris best dry season |
 | Zanzibar | Jun–Sep and Dec–Feb | Best beach weather |

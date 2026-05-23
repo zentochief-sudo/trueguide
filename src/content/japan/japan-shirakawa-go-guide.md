@@ -74,9 +74,9 @@ The smallest of the three UNESCO villages — 9 farmhouses in a tight gorge. Als
 
 ### From Kanazawa (Most Common Approach)
 
-**Bus from Kanazawa (金沢)**: The Hokutetsu Bus *Hato Bus* route runs from Kanazawa Station to Ogimachi. 1h15m–1h30m. ¥1,850 each way. Multiple daily departures.
+**Bus from [Kanazawa](/japan/kanazawa-guide) (金沢)**: The Hokutetsu Bus *Hato Bus* route runs from Kanazawa Station to Ogimachi. 1h15m–1h30m. ¥1,850 each way. Multiple daily departures.
 
-**The World Heritage Bus**: A specific service connecting Kanazawa, Ogimachi (Shirakawa-go), and Takayama in sequence — useful for the standard Kanazawa–Shirakawa-go–Takayama itinerary.
+**The World Heritage Bus**: A specific service connecting Kanazawa, Ogimachi (Shirakawa-go), and [Takayama](/japan/takayama-guide) in sequence — useful for the standard Kanazawa–Shirakawa-go–Takayama itinerary.
 
 ### From Takayama (Most Scenic Route)
 

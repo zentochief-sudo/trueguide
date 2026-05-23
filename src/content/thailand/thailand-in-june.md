@@ -10,15 +10,15 @@ tags: [Thailand, June, low season, Ko Tao, Ko Phangan, Bangkok, green season, bu
 city: national
 ---
 
-June is Thailand's deep low season — the Andaman coast is wet, the Gulf coast is still in dry season but sees increasing showers, and international tourist numbers are at their annual minimum. Prices reflect this: accommodation across the country is at or near annual minimum. The travelers who come in June are rewarded with an uncrowded, genuinely local Thailand — quieter temples, shorter queues, and prices that make Thailand's legendary value even more pronounced.
+June is [Thailand](/thailand)'s deep low season — the Andaman coast is wet, the Gulf coast is still in dry season but sees increasing showers, and international tourist numbers are at their annual minimum. Prices reflect this: accommodation across the country is at or near annual minimum. The travelers who come in June are rewarded with an uncrowded, genuinely local Thailand — quieter temples, shorter queues, and prices that make Thailand's legendary value even more pronounced.
 
 ## Weather in June
 
-**Bangkok:** 27°C to 35°C. Rainy season — afternoon and evening showers most days. Mornings are often clear. The city is hot and occasionally very wet.
+**[Bangkok](/thailand/bangkok-guide):** 27°C to 35°C. Rainy season — afternoon and evening showers most days. Mornings are often clear. The city is hot and occasionally very wet.
 
-**Chiang Mai:** 24°C to 35°C. Rainy season — the mountains are lush and green. Heavy afternoon rain possible. The northern landscape is at its most verdant.
+**[Chiang Mai](/thailand/chiang-mai-guide):** 24°C to 35°C. Rainy season — the mountains are lush and green. Heavy afternoon rain possible. The northern landscape is at its most verdant.
 
-**Phuket/Andaman Coast:** 26°C to 33°C. Monsoon season — regular rain, rougher seas. Some days are mostly cloudy with no rain; others are very wet. Not optimal for beach holidays.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 26°C to 33°C. Monsoon season — regular rain, rougher seas. Some days are mostly cloudy with no rain; others are very wet. Not optimal for beach holidays.
 
 **Ko Samui/Gulf Coast:** 26°C to 34°C. Technically dry season continues, but June sees increasing afternoon showers. Still far better than the Andaman coast. Beach conditions remain good.
 

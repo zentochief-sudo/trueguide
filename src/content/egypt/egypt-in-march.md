@@ -10,11 +10,11 @@ tags: [Egypt, March, spring, Luxor, Nile cruise, Siwa Oasis, Khamsin]
 city: national
 ---
 
-March sits at the closing edge of Egypt's comfortable season. Temperatures are warming toward summery but haven't yet crossed the threshold where outdoor exploration becomes an endurance exercise. The peak tourist crowds of January and February thin out. And the landscape — particularly the Nile Valley with its green agricultural strips against the desert — looks its best in the clear, low-humidity spring air. The one caveat: the Khamsin wind season begins in March, bringing occasional dust storms that can last a day or two.
+March sits at the closing edge of [Egypt](/egypt)'s comfortable season. Temperatures are warming toward summery but haven't yet crossed the threshold where outdoor exploration becomes an endurance exercise. The peak tourist crowds of January and February thin out. And the landscape — particularly the Nile Valley with its green agricultural strips against the desert — looks its best in the clear, low-humidity spring air. The one caveat: the Khamsin wind season begins in March, bringing occasional dust storms that can last a day or two.
 
 ## Weather & Conditions
 
-**Cairo:** 14–22°C. Warming noticeably from February. The Khamsin winds can drop visibility and push temperatures briefly to 30°C+ for a day or two in March.
+**[Cairo](/egypt/cairo-travel-guide):** 14–22°C. Warming noticeably from February. The Khamsin winds can drop visibility and push temperatures briefly to 30°C+ for a day or two in March.
 
 **Luxor:** 18–28°C. Warm afternoons at outdoor archaeological sites. Early morning visits remain pleasant. The day starts to feel hot by 11am by late March.
 
@@ -22,7 +22,7 @@ March sits at the closing edge of Egypt's comfortable season. Temperatures are w
 
 **Red Sea:** 22–26°C air temperature, 22°C water. Warm enough for comfortable snorkeling without a wetsuit. March is good value for Red Sea resorts.
 
-**Siwa Oasis (Western Desert):** 15–25°C. The desert oasis is at its most comfortable in March — cool nights, warm days, minimal tourists. The Berber-influenced culture and ancient Oracle Temple of Amun make it one of Egypt's most rewarding off-the-beaten-track destinations.
+**[Siwa Oasis](/egypt/siwa-oasis-guide) (Western Desert):** 15–25°C. The desert oasis is at its most comfortable in March — cool nights, warm days, minimal tourists. The Berber-influenced culture and ancient Oracle Temple of Amun make it one of Egypt's most rewarding off-the-beaten-track destinations.
 
 ## What to Do
 

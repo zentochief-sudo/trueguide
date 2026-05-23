@@ -10,7 +10,7 @@ tags: [South Korea, February, winter, spring, ski, plum blossoms, Seollal, trave
 city: national
 ---
 
-February sits at the edge of winter. Seoul is still frigid — often colder than January, with polar air masses that can push temperatures to -12°C — but by the final week you'll notice something shift: plum trees blooming in Gwangyang, the angle of the light changing, the cold slightly less absolute. Winter and spring fight for the month, and it makes February unexpectedly interesting.
+February sits at the edge of winter. [Seoul](/south-korea/seoul-guide) is still frigid — often colder than January, with polar air masses that can push temperatures to -12°C — but by the final week you'll notice something shift: plum trees blooming in Gwangyang, the angle of the light changing, the cold slightly less absolute. Winter and spring fight for the month, and it makes February unexpectedly interesting.
 
 ## Weather in February
 

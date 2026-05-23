@@ -10,7 +10,7 @@ tags: [Hakone, Japan, onsen, ryokan, Mount Fuji, ropeway, Owakudani, Ashinoko la
 city: national
 ---
 
-Hakone occupies a collapsed volcanic caldera in the mountains of Kanagawa Prefecture, 90 minutes southwest of Tokyo. The landscape — steep forested slopes, steaming sulfur vents, a large crater lake with Mount Fuji behind it on clear days — is legitimately dramatic. The onsen ryokan built across it are among the easiest access points to traditional Japanese inn culture available from a major city.
+Hakone occupies a collapsed volcanic caldera in the mountains of Kanagawa Prefecture, 90 minutes southwest of [Tokyo](/japan/tokyo-guide). The landscape — steep forested slopes, steaming sulfur vents, a large crater lake with [Mount Fuji](/japan/mount-fuji-guide) behind it on clear days — is legitimately dramatic. The onsen [ryokan](/japan/ryokan-guide) built across it are among the easiest access points to traditional Japanese inn culture available from a major city.
 
 Most people come for a single night. That is enough. Two nights is better if you want to slow down.
 
@@ -51,7 +51,7 @@ Pirate-ship-styled ferries cross Lake Ashi (Ashinoko) in 30–40 minutes. The la
 The lakeside Shinto shrine with the red torii gate visible from the lake. The main shrine building is set in cedar forest above the shore. Not dramatically decorated — the power is in the setting.
 
 **7. Cedar Avenue (Moto-Hakone)**
-A 500-meter section of ancient cedar trees lining the old Tokaido highway, part of the route that connected Tokyo and Kyoto before the Shinkansen. The cedars are 300–400 years old. Walk it slowly.
+A 500-meter section of ancient cedar trees lining the old Tokaido highway, part of the route that connected Tokyo and [Kyoto](/japan/kyoto-guide) before the Shinkansen. The cedars are 300–400 years old. Walk it slowly.
 
 ---
 

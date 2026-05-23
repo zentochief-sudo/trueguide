@@ -10,7 +10,7 @@ tags: [Guadalajara, neighborhoods, World Cup 2026, Chapultepec, Historic Center,
 city: guadalajara
 ---
 
-Guadalajara is Mexico's second city and the cultural capital of the west — mariachi, charrería, tequila, and talavera ceramics all originate here or in the state of Jalisco. The city's neighborhoods reflect that identity in the colonial architecture of the Center, the contemporary energy of Chapultepec and Providencia, and the craft atmosphere of incorporated towns like Tlaquepaque and Tonalá.
+Guadalajara is [Mexico](/mexico)'s second city and the cultural capital of the west — mariachi, charrería, tequila, and talavera ceramics all originate here or in the state of Jalisco. The city's neighborhoods reflect that identity in the colonial architecture of the Center, the contemporary energy of Chapultepec and Providencia, and the craft atmosphere of incorporated towns like Tlaquepaque and Tonalá.
 
 ---
 
@@ -56,7 +56,7 @@ La Glorieta Minerva — the statue of the Roman goddess surrounded by radiating 
 
 **Colonia Americana**: Adjacent to Chapultepec — streets of Porfiriato houses converted into restaurants, galleries, and hostels. The city's most established neighborhood for eating well.
 
-**Puerta de Hierro** (to the west): The highest-income residential area of the metropolitan zone — international chain hotels here (Hilton, Marriott Puerta de Hierro), with access to Estadio Akron in 20–25 min by Uber.
+**Puerta de Hierro** (to the west): The highest-income residential area of the metropolitan zone — international chain hotels here (Hilton, Marriott Puerta de Hierro), with access to [Estadio Akron](/mexico/estadio-akron-guide) in 20–25 min by Uber.
 
 **Staying**: Chain hotels (1,500–3,500 MXN/night). **Hilton Guadalajara Midtown** (Av. de las Rosas 2933) is the business and premium tourism reference.
 

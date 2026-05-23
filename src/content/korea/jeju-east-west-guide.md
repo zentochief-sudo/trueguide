@@ -10,7 +10,7 @@ tags: [Jeju, east Jeju, west Jeju, Seongsan Ilchulbong, Jungmun, Hyeopjae Beach,
 city: national
 ---
 
-Jeju Island (*제주도*) sits 90km south of the Korean mainland — a volcanic island of 1,847 square kilometers with a climate distinctly milder than Seoul and a landscape that bears no resemblance to the rest of Korea. The central feature is Hallasan, a 1,950m dormant shield volcano; the coastline alternates between black lava rock, white sand beaches (formed from crushed shells rather than quartz), and dramatic cliff formations. The island is a UNESCO World Natural Heritage Site (2007), recognizing Hallasan, Seongsan Ilchulbong, and the Geomunoreum lava tube system.
+[Jeju](/korea/jeju-guide) Island (*제주도*) sits 90km south of the Korean mainland — a volcanic island of 1,847 square kilometers with a climate distinctly milder than Seoul and a landscape that bears no resemblance to the rest of Korea. The central feature is Hallasan, a 1,950m dormant shield volcano; the coastline alternates between black lava rock, white sand beaches (formed from crushed shells rather than quartz), and dramatic cliff formations. The island is a UNESCO World Natural Heritage Site (2007), recognizing Hallasan, Seongsan Ilchulbong, and the Geomunoreum lava tube system.
 
 Most first-time visitors to Jeju see the island as a unified destination. Travelers who know it understand that the east and west coasts have fundamentally different characters — different landscapes, different activities, different atmospheres — and that a Jeju itinerary should be structured accordingly.
 
@@ -18,7 +18,7 @@ Most first-time visitors to Jeju see the island as a unified destination. Travel
 
 ## Getting to Jeju
 
-**By air**: The fastest and most common option from Seoul. Gimpo Airport (GMP) to Jeju Airport (CJU): 50–55 minutes. Multiple airlines (Korean Air, Asiana, Jeju Air, T'way) operate the route continuously — it is the world's busiest air route by number of flights. Seoul Incheon (ICN) to Jeju is also available. Fares vary widely; booking 2–4 weeks in advance typically produces prices of ¥40,000–80,000 each way on budget carriers.
+**By air**: The fastest and most common option from Seoul. Gimpo Airport (GMP) to Jeju Airport (CJU): 50–55 minutes. Multiple airlines (Korean Air, Asiana, Jeju Air, T'way) operate the route continuously — it is the world's busiest air route by number of flights. Seoul [Incheon](/korea/incheon-guide) (ICN) to Jeju is also available. Fares vary widely; booking 2–4 weeks in advance typically produces prices of ¥40,000–80,000 each way on budget carriers.
 
 **By ferry**: From Mokpo (Jeolla coast), 5–6 hours overnight ferry. Less common but provides a different arrival experience and allows vehicles.
 

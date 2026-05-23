@@ -10,19 +10,19 @@ tags: [Greenland, September, Northern Lights, aurora, autumn tundra, Ilulissat, 
 city: national
 ---
 
-September is Greenland's most beautiful month and one of its finest for aurora viewing. The summer tourist season has ended — prices drop, crowds vanish, and the remaining visitors are specifically here for the autumn character. The tundra turns extraordinary shades of red, orange, and gold across the hillsides above every settlement. The nights are long enough for reliable aurora viewing (up to 14 hours of darkness by month end) while the temperatures are still manageable. The icebergs are still present in Disko Bay. Boat access is still operating, though it begins closing in late September. September combines summer accessibility with winter character.
+September is [Greenland](/greenland)'s most beautiful month and one of its finest for aurora viewing. The summer tourist season has ended — prices drop, crowds vanish, and the remaining visitors are specifically here for the autumn character. The tundra turns extraordinary shades of red, orange, and gold across the hillsides above every settlement. The nights are long enough for reliable aurora viewing (up to 14 hours of darkness by month end) while the temperatures are still manageable. The icebergs are still present in Disko Bay. Boat access is still operating, though it begins closing in late September. September combines summer accessibility with winter character.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** 2 to 8°C. Nights dark enough for aurora from early September. Boat tours still running.
 
-**Nuuk:** 3 to 9°C. Excellent hiking. Autumn colors on the hillsides.
+**[Nuuk](/greenland/nuuk-travel-guide):** 3 to 9°C. Excellent hiking. Autumn colors on the hillsides.
 
-**Sisimiut:** 2 to 7°C. Transitioning. Last hiking weeks.
+**[Sisimiut](/greenland/sisimiut-guide):** 2 to 7°C. Transitioning. Last hiking weeks.
 
-**South Greenland:** 5 to 12°C. Autumn color earlier than north. Accessible.
+**[South Greenland](/greenland/south-greenland-guide):** 5 to 12°C. Autumn color earlier than north. Accessible.
 
-**East Greenland:** 2 to 6°C. Sea ice forming in protected fjords by late September.
+**[East Greenland](/greenland/east-greenland-guide):** 2 to 6°C. Sea ice forming in protected fjords by late September.
 
 ## What to Do
 

@@ -20,7 +20,7 @@ The festivals on this list are worth scheduling travel around. They are specific
 
 ### Sapporo Snow Festival (Yuki Matsuri)
 **When**: Early February (usually February 4–11)
-**Where**: Sapporo, Hokkaido — Odori Park, Susukino, and Tsudome sites
+**Where**: [Sapporo](/japan/sapporo-guide), [Hokkaido](/japan/hokkaido-guide) — Odori Park, Susukino, and Tsudome sites
 
 More than 200 snow and ice sculptures built by Self-Defense Forces teams, university students, and international competition teams. Scale ranges from intricate small pieces to reproductions of famous buildings at a scale of 15 meters. The main Odori site runs 1.5 km through the center of Sapporo; the Susukino site focuses on ice sculptures; Tsudome has interactive snow activities.
 
@@ -44,19 +44,19 @@ One of the most atmospheric winter festivals in Japan, in a setting (Akita snow,
 
 ### Takayama Spring Festival (Sanno Matsuri)
 **When**: April 14–15
-**Where**: Takayama, Gifu Prefecture
+**Where**: [Takayama](/japan/takayama-guide), Gifu Prefecture
 
 Eleven elaborate *yatai* floats, some dating to the 17th century, are pulled through the old town streets. The floats carry mechanical puppets (*karakuri ningyo*) operated by hidden strings and visible moving parts; performances in the main square show the puppets executing complex sequences. The festival takes place in Takayama's preserved Edo-period townscape.
 
 The combination of the float craftsmanship, the mechanical puppets, and the historic street setting makes this one of the more concentrated cultural experiences in Japan. Registered as UNESCO Intangible Cultural Heritage.
 
-**Practical**: Takayama is 2 hours from Nagoya by Hida limited express. Book accommodation early — the town fills completely.
+**Practical**: Takayama is 2 hours from [Nagoya](/japan/nagoya-guide) by Hida limited express. Book accommodation early — the town fills completely.
 
 ---
 
 ### Miyako Odori (Kyoto Spring Dances)
 **When**: April (daily performances throughout the month)
-**Where**: Gion Kobu Kaburenjo Theater, Kyoto
+**Where**: Gion Kobu Kaburenjo Theater, [Kyoto](/japan/kyoto-guide)
 
 The spring public performance by the geiko and maiko of Gion Kobu hanamachi. The full program runs 1 hour and covers 8 scenes of classical dance with live *jiutamai* music. The stage design changes annually; the tea ceremony before the performance is included in some ticket tiers.
 
@@ -98,7 +98,7 @@ A 400-year-old dance festival: tens of thousands of dancers in regional schools 
 
 The music is *awa-odori-bayashi* — a specific rhythm on shamisen, taiko, and flute that is inseparable from the dance. At its best, with a skilled *ren* in full cry, the rhythm enters the body involuntarily.
 
-**Practical**: Tokushima is 1 hour from Osaka by Shinkansen + bus. Accommodation books completely for the August 12–15 period — book 6+ months ahead.
+**Practical**: Tokushima is 1 hour from [Osaka](/japan/osaka-guide) by Shinkansen + bus. Accommodation books completely for the August 12–15 period — book 6+ months ahead.
 
 ---
 
@@ -108,13 +108,13 @@ The music is *awa-odori-bayashi* — a specific rhythm on shamisen, taiko, and f
 
 Obon is the Buddhist festival of the dead — the period when ancestors' spirits return to visit the living. Families clean graves, light lanterns to guide spirits home, and perform *bon odori* (circle dances) in the evenings. The specific dance style varies dramatically by region.
 
-**Toro Nagashi** (floating lanterns): On the last night of Obon, paper lanterns are set on rivers or the sea to guide the returning spirits back to the other world. The Hiroshima ceremony on the Motoyasu River (adjacent to the Atomic Bomb Dome) on August 6 is the most attended and the most emotionally complex — it combines the Obon tradition with the atomic bomb memorial.
+**Toro Nagashi** (floating lanterns): On the last night of Obon, paper lanterns are set on rivers or the sea to guide the returning spirits back to the other world. The [Hiroshima](/japan/hiroshima-guide) ceremony on the Motoyasu River (adjacent to the Atomic Bomb Dome) on August 6 is the most attended and the most emotionally complex — it combines the Obon tradition with the atomic bomb memorial.
 
 ---
 
 ### Nebuta Matsuri (Aomori)
 **When**: August 2–7
-**Where**: Aomori City, Aomori Prefecture (Tohoku)
+**Where**: Aomori City, Aomori Prefecture ([Tohoku](/japan/tohoku-guide))
 
 Giant illuminated floats (*nebuta*) representing warriors, mythological figures, and historical scenes are pulled through the city streets while dancers (*haneto*) in specific costumes jump in front of them chanting. The floats are painted paper stretched over wire frames and lit from within; the 5-meter-tall figures in full motion at night are visually extraordinary.
 

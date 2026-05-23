@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Pakistan is one of the world's best value destinations. Prices are significantly lower than neighbouring India, and the combination of extraordinary hospitality (locals regularly invite travellers for meals and tea) with genuine affordability makes it exceptional value.
+[Pakistan](/pakistan) is one of the world's best value destinations. Prices are significantly lower than neighbouring [India](/india), and the combination of extraordinary hospitality (locals regularly invite travellers for meals and tea) with genuine affordability makes it exceptional value.
 
 ## Quick Summary
 
@@ -28,9 +28,9 @@ Pakistan is one of the world's best value destinations. Prices are significantly
 
 **Mid-range hotels:** €25–60/night. Very good quality — clean, air-conditioned, often with breakfast. Pakistani mid-range hotels offer great value.
 
-**Lahore and Islamabad:** Pearl Continental, Avari, and Serena Hotels (5-star equivalents): €90–180/night. Significantly cheaper than equivalents in India or the Gulf.
+**[Lahore](/pakistan/lahore-guide) and [Islamabad](/pakistan/islamabad-guide):** Pearl Continental, Avari, and Serena Hotels (5-star equivalents): €90–180/night. Significantly cheaper than equivalents in India or the Gulf.
 
-**Mountain guesthouses (Hunza, Fairy Meadows):** €15–40/night for clean mountain accommodation. Simple but charming, often family-run, with home-cooked food included.
+**Mountain guesthouses (Hunza, [Fairy Meadows](/pakistan/fairy-meadows-guide)):** €15–40/night for clean mountain accommodation. Simple but charming, often family-run, with home-cooked food included.
 
 **Fairy Meadows camping:** €8–12/night for basic camping and tent accommodation near the meadows.
 
@@ -44,7 +44,7 @@ Pakistani food is outstanding and extraordinarily cheap.
 
 **Dhaba (roadside restaurant):** €2–5 for a full meal of dal, roti, rice, and a meat dish. This is how most Pakistanis eat.
 
-**Lahore food streets (sit-down):** €4–10/person for a full meal at a proper Lahori restaurant. For the price of a coffee in London, you can eat extraordinary nihari or karahi.
+**[Lahore food](/pakistan/lahore-food-guide) streets (sit-down):** €4–10/person for a full meal at a proper Lahori restaurant. For the price of a coffee in London, you can eat extraordinary nihari or karahi.
 
 **Mid-range restaurant:** €8–18/person. Very good quality food.
 

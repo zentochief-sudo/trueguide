@@ -10,15 +10,15 @@ tags: [Thailand, August, Ko Samui, Ko Phangan, Ko Tao, full moon party, Gulf coa
 city: national
 ---
 
-August is Thailand's Gulf coast month. European and Australian school holidays drive significant tourist flow to Ko Samui, Ko Phangan, and Ko Tao — creating a mini peak season on the east coast while the Andaman coast remains in monsoon. For beach travelers, the Gulf of Thailand in August delivers excellent conditions, warm water, and an energetic, international crowd. The rest of Thailand (Andaman, north, Bangkok) continues at low season.
+August is [Thailand](/thailand)'s Gulf coast month. European and Australian school holidays drive significant tourist flow to Ko Samui, Ko Phangan, and Ko Tao — creating a mini peak season on the east coast while the Andaman coast remains in monsoon. For beach travelers, the Gulf of Thailand in August delivers excellent conditions, warm water, and an energetic, international crowd. The rest of Thailand (Andaman, north, [Bangkok](/thailand/bangkok-guide)) continues at low season.
 
 ## Weather in August
 
 **Bangkok:** 27°C to 34°C. Hot with regular afternoon and evening rain — the wettest period of the year. Mornings are often partially clear.
 
-**Chiang Mai:** 24°C to 33°C. Wet season continues — heavy afternoon rain. The north is deep green, waterfalls at full power.
+**[Chiang Mai](/thailand/chiang-mai-guide):** 24°C to 33°C. Wet season continues — heavy afternoon rain. The north is deep green, waterfalls at full power.
 
-**Phuket/Andaman Coast:** 26°C to 33°C. Monsoon continues — regular heavy rain, rough seas. Not beach season.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 26°C to 33°C. Monsoon continues — regular heavy rain, rough seas. Not beach season.
 
 **Ko Samui/Gulf Coast:** 27°C to 33°C. August is the best month on the Gulf coast — dry season at its most reliable, sea calm, sun strong.
 

@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Ireland is one of Europe's most visitor-friendly destinations — the language barrier is zero, locals are famously welcoming, and the country punches well above its weight in scenery, history, and atmosphere. But there are a few things first-timers often don't know that make a real difference.
+[Ireland](/ireland) is one of Europe's most visitor-friendly destinations — the language barrier is zero, locals are famously welcoming, and the country punches well above its weight in scenery, history, and atmosphere. But there are a few things first-timers often don't know that make a real difference.
 
 ## The Basics
 
-**Capital:** Dublin  
+**Capital:** [Dublin](/ireland/dublin-travel-guide)  
 **Currency:** Euro (€) — though Northern Ireland uses British pounds (£)  
 **Language:** English (Irish/Gaelic is a co-official language, spoken in Gaeltacht regions)  
 **Time zone:** GMT/IST (GMT+1 in summer)  
@@ -33,10 +33,10 @@ Probably some of it, yes. Ireland gets rain regularly throughout the year — bu
 Very safe. Ireland consistently ranks among Europe's safest countries. Normal big-city awareness in Dublin (pickpocketing in tourist areas) is all you need.
 
 ### "Do I need a car?"
-Yes, almost certainly, once you leave Dublin. Ireland's rural scenery — which is the whole point of going — is not accessible by public transport. Buses connect the cities, but to drive the Ring of Kerry, explore Connemara, or visit the Giant's Causeway, you need your own wheels. Rent a car and embrace the left-side driving.
+Yes, almost certainly, once you leave Dublin. Ireland's rural scenery — which is the whole point of going — is not accessible by public transport. Buses connect the cities, but to drive the [Ring of Kerry](/ireland/ring-of-kerry-guide), explore Connemara, or visit the Giant's Causeway, you need your own wheels. Rent a car and embrace the left-side driving.
 
 ### "How is the food?"
-Better than its reputation. Modern Irish food has evolved into something genuinely excellent — farm-to-table culture, exceptional seafood, world-class dairy and beef, and increasingly creative restaurants, especially in Dublin, Cork, and Galway.
+Better than its reputation. Modern Irish food has evolved into something genuinely excellent — farm-to-table culture, exceptional seafood, world-class dairy and beef, and increasingly creative restaurants, especially in Dublin, [Cork](/ireland/cork-guide), and [Galway](/ireland/galway-guide).
 
 ---
 
@@ -44,13 +44,13 @@ Better than its reputation. Modern Irish food has evolved into something genuine
 
 **Dublin (Days 1–2):** You'll likely arrive here. Don't skip the National Museum, Trinity College, and at least one proper pub evening.
 
-**County Kerry (Days 3–4):** The Ring of Kerry and Dingle Peninsula are among Europe's most beautiful drives. Killarney is the most convenient base.
+**County Kerry (Days 3–4):** The Ring of Kerry and Dingle Peninsula are among Europe's most beautiful drives. [Killarney](/ireland/killarney-travel-guide) is the most convenient base.
 
 **Galway and Connemara (Days 5–6):** Galway is Ireland's most vibrant city outside Dublin. Connemara is the wild, treeless bogland that you'll see in every tourist poster.
 
 **Cliffs of Moher (Day 7):** One of Ireland's iconic sights — genuinely impressive, especially if you walk the coastal path away from the main platform.
 
-If you have time: **Giant's Causeway** (Northern Ireland), **Glendalough**, **Kilkenny**, and the **Wild Atlantic Way** between Donegal and Kerry.
+If you have time: **Giant's Causeway** (Northern Ireland), **Glendalough**, **Kilkenny**, and the **[Wild Atlantic Way](/ireland/wild-atlantic-way-guide)** between Donegal and Kerry.
 
 ---
 

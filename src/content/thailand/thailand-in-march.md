@@ -10,7 +10,7 @@ tags: [Thailand, March, shoulder season, Andaman, Phuket, Ko Lanta, Bangkok, pre
 city: national
 ---
 
-March is Thailand's transition month — the peak season is winding down (European spring breaks aside), the heat is building, and the beaches are still in excellent condition. The Andaman coast has its clearest water of the year through March. Bangkok gets genuinely hot. Chiang Mai starts to warm significantly. For travelers who want good beach conditions with lower crowds and emerging value pricing, March is an underrated option.
+March is [Thailand](/thailand)'s transition month — the peak season is winding down (European spring breaks aside), the heat is building, and the beaches are still in excellent condition. The Andaman coast has its clearest water of the year through March. [Bangkok](/thailand/bangkok-guide) gets genuinely hot. [Chiang Mai](/thailand/chiang-mai-guide) starts to warm significantly. For travelers who want good beach conditions with lower crowds and emerging value pricing, March is an underrated option.
 
 ## Weather in March
 
@@ -18,7 +18,7 @@ March is Thailand's transition month — the peak season is winding down (Europe
 
 **Chiang Mai:** 20°C to 38°C. The cool season is over — Chiang Mai in late March is hot and hazy. The haze comes from agricultural burning in the north (a serious air quality issue in March-April). Check the AQI before planning northern trips.
 
-**Phuket/Andaman Coast:** 26°C to 34°C. Still excellent — the Andaman's dry season runs through April. The water is at its clearest of the year in March.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 26°C to 34°C. Still excellent — the Andaman's dry season runs through April. The water is at its clearest of the year in March.
 
 **Ko Samui/Gulf Coast:** 26°C to 34°C. Good conditions on the Gulf side, though the north shore of Ko Samui can see occasional brief showers. Still overwhelmingly dry.
 

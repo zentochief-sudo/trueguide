@@ -10,7 +10,7 @@ tags: [Japan, October, autumn, fall foliage, koyo, travel tips]
 city: national
 ---
 
-October is what Japan looks like when the travel writers aren't all looking at the same thing. Cherry blossom season gets the headlines. October quietly delivers: stable weather, fall colors beginning in the north, and crowds that are real but nowhere near spring levels.
+October is what Japan looks like when the travel writers aren't all looking at the same thing. [Cherry blossom](/japan/cherry-blossom-guide) season gets the headlines. October quietly delivers: stable weather, fall colors beginning in the north, and crowds that are real but nowhere near spring levels.
 
 It's the month that Japan regulars return to.
 
@@ -18,9 +18,9 @@ It's the month that Japan regulars return to.
 
 October is arguably the most comfortable month to be in Japan.
 
-- **Tokyo / Kyoto / Osaka:** 18–24°C during the day, 12–15°C evenings. T-shirt weather. No humidity.
-- **Hokkaido:** 10–16°C, cooler evenings. Leaves already turning by early October.
-- **Japanese Alps / Nikko:** 8–15°C. Bring a real layer. The mountain areas are stunning but cold.
+- **Tokyo / [Kyoto](/japan/kyoto-guide) / Osaka:** 18–24°C during the day, 12–15°C evenings. T-shirt weather. No humidity.
+- **[Hokkaido](/japan/hokkaido-guide):** 10–16°C, cooler evenings. Leaves already turning by early October.
+- **Japanese Alps / [Nikko](/japan/nikko-guide):** 8–15°C. Bring a real layer. The mountain areas are stunning but cold.
 
 Rain exists but is less frequent than spring or summer. The infamous typhoon season (September) typically winds down by late September, though early October can still bring the tail end of typhoon activity — check forecasts if traveling in the first week.
 
@@ -33,7 +33,7 @@ Japan's autumn color (koyo) follows the same north-to-south logic as sakura, but
 | Region | Typical Peak |
 |---|---|
 | Hokkaido (Daisetsuzan) | Late September–early October |
-| Hokkaido (lowlands / Sapporo) | Mid October |
+| Hokkaido (lowlands / [Sapporo](/japan/sapporo-guide)) | Mid October |
 | Nikko (Tochigi) | Mid–late October |
 | Japan Alps (Kamikochi, Hakuba) | Mid–late October |
 | Kyoto / Osaka | Mid–late November |
@@ -47,13 +47,13 @@ October is prime time for **Nikko** and the **Japan Alps** — and these are ext
 
 **Sounkyo Gorge, Hokkaido:** Vertical canyon walls covered in maple and Japanese beech in peak color by early October. One of the most spectacular individual landscapes in Japan.
 
-**Towada-Hachimantai (Tohoku):** A national park in northern Honshu with lake views and mountain roads lined with autumn foliage. Less visited than Nikko, equally beautiful.
+**Towada-Hachimantai ([Tohoku](/japan/tohoku-guide)):** A national park in northern Honshu with lake views and mountain roads lined with autumn foliage. Less visited than Nikko, equally beautiful.
 
 ## What to Do in October
 
 **Beyond foliage:**
 
-**Hiking season peak:** The Japanese Alps, Hokkaido's national parks, and the Kumano Kodo pilgrimage trail are all at their best in October — stable weather, no snow at most elevations, post-summer crowds gone.
+**Hiking season peak:** The Japanese Alps, Hokkaido's national parks, and the [Kumano Kodo](/japan/kumano-kodo-guide) pilgrimage trail are all at their best in October — stable weather, no snow at most elevations, post-summer crowds gone.
 
 **Cultural events:**
 - **Jidai Matsuri, Kyoto (October 22):** A massive historical procession through Kyoto with 2,000 participants in period costumes representing 1,100 years of Japanese history. Worth arranging your trip around.
@@ -82,7 +82,7 @@ Mid-season pricing — not peak (April) but not low season either.
 |---|---|
 | Budget accommodation | $35–60/night |
 | Mid-range hotel | $100–180/night |
-| Ryokan (mountain, October) | $150–350/person with meals |
+| [Ryokan](/japan/ryokan-guide) (mountain, October) | $150–350/person with meals |
 | Shinkansen Tokyo–Kyoto | $130 |
 | Meals | Same as any season — street food $8–15, restaurants $20–50 |
 

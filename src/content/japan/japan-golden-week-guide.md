@@ -37,7 +37,7 @@ When April 30 and May 1–2 fall on weekdays, companies typically grant paid vac
 
 The domestic travel volume during Golden Week is extraordinary — it rivals New Year's. The combination of school holidays (spring semester break) and adult vacation produces the maximum simultaneous demand on Japan's transport infrastructure.
 
-**Shinkansen**: Trains fully booked on peak departure days (April 28–30 and May 3–4) and return days (May 4–6) months in advance. Unreserved seats fill to standing within minutes. The Tokaido Shinkansen (Tokyo–Kyoto–Osaka) and Tohoku Shinkansen (Tokyo–Sendai–Sapporo) see the heaviest traffic.
+**Shinkansen**: Trains fully booked on peak departure days (April 28–30 and May 3–4) and return days (May 4–6) months in advance. Unreserved seats fill to standing within minutes. The Tokaido Shinkansen (Tokyo–Kyoto–Osaka) and [Tohoku](/japan/tohoku-guide) Shinkansen (Tokyo–Sendai–[Sapporo](/japan/sapporo-guide)) see the heaviest traffic.
 
 **Roads**: Major expressways, particularly around Tokyo, Osaka, and the connections between them, have 30–80km traffic jams on peak days. Driving during Golden Week is strongly inadvisable.
 
@@ -51,7 +51,7 @@ Golden Week is one of the most challenging times to visit Japan — but also one
 
 ### Challenges
 
-**Accommodation prices**: Hotel prices typically 30–80% higher than surrounding periods. Ryokan prices increase similarly. Popular locations (Kyoto, Tokyo, Osaka, Hakone) are the most affected.
+**Accommodation prices**: Hotel prices typically 30–80% higher than surrounding periods. [Ryokan](/japan/ryokan-guide) prices increase similarly. Popular locations (Kyoto, Tokyo, Osaka, [Hakone](/japan/hakone-guide)) are the most affected.
 
 **Train reservations**: If you're using a JR Pass, reserve Shinkansen seats as far in advance as possible. The reservation office at major stations should be your first stop after activating the pass.
 
@@ -65,7 +65,7 @@ Golden Week is one of the most challenging times to visit Japan — but also one
 
 **Children's Day programming**: Parks, temples, and cultural venues run special programs oriented toward families — traditional games, koinobori displays, cultural demonstrations. These are oriented toward Japanese children but accessible to international visitors.
 
-**Cherry blossom tail end**: Depending on the year, cherry blossoms in northern Japan (Tohoku, Hokkaido) can overlap with Golden Week. Hirosaki Castle's cherry blossom, one of Japan's most celebrated, peaks in late April.
+**[Cherry blossom](/japan/cherry-blossom-guide) tail end**: Depending on the year, cherry blossoms in northern Japan (Tohoku, [Hokkaido](/japan/hokkaido-guide)) can overlap with Golden Week. Hirosaki Castle's cherry blossom, one of Japan's most celebrated, peaks in late April.
 
 ---
 
@@ -77,10 +77,10 @@ The domestic travel surge is concentrated at famous tourist destinations and maj
 
 **Good Golden Week destinations**:
 - *Kinosaki Onsen* (Hyogo): Mountain onsen town; busy but not overwhelming
-- *Kanazawa*: Excellent and somewhat undervisited relative to Kyoto/Tokyo
+- *[Kanazawa](/japan/kanazawa-guide)*: Excellent and somewhat undervisited relative to Kyoto/Tokyo
 - *Matsumoto* (Nagano): Feudal castle town with good access; popular but manageable
 - *Iwate Prefecture* (Tohoku): Northern Japan largely off the main circuit; excellent during sakura season
-- *San'in Coast* (Tottori/Shimane): One of Japan's most beautiful and undervisited coastlines
+- *San'in Coast* ([Tottori](/japan/tottori-guide)/Shimane): One of Japan's most beautiful and undervisited coastlines
 
 ### Option 2: Stay in Tokyo
 

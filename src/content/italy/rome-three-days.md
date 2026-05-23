@@ -10,7 +10,7 @@ tags: []
 city: Rome
 ---
 
-Rome has been called the Eternal City for two millennia, and spending three days here confirms why. Layers of history — ancient, medieval, Renaissance, Baroque — sit on top of each other in the same street, so that a walk of 10 minutes can take you from a 2,000-year-old temple to a Caravaggio in a dimly lit church.
+[Rome](/italy/rome-guide) has been called the Eternal City for two millennia, and spending three days here confirms why. Layers of history — ancient, medieval, Renaissance, Baroque — sit on top of each other in the same street, so that a walk of 10 minutes can take you from a 2,000-year-old temple to a Caravaggio in a dimly lit church.
 
 ## Day 1 – Ancient Rome
 

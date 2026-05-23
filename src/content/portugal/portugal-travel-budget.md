@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Portugal has historically been one of the most affordable Western European destinations, and while prices have risen in Lisbon and Porto in recent years, it still offers exceptional value compared to France, Spain, or the UK. You can travel well here without spending a fortune.
+[Portugal](/portugal) has historically been one of the most affordable Western European destinations, and while prices have risen in [Lisbon](/portugal/lisbon-guide) and [Porto](/portugal/porto-guide) in recent years, it still offers exceptional value compared to [France](/france), [Spain](/spain), or the UK. You can travel well here without spending a fortune.
 
 ## Quick Summary
 
@@ -26,7 +26,7 @@ Portugal has historically been one of the most affordable Western European desti
 
 ## Accommodation
 
-**Hostels:** €18–35/night in dorms, €50–80 for private rooms. Lisbon and Porto have some of Europe's best hostels — stylish, social, and well-run. The Algarve has fewer hostel options.
+**Hostels:** €18–35/night in dorms, €50–80 for private rooms. Lisbon and Porto have some of Europe's best hostels — stylish, social, and well-run. The [Algarve](/portugal/algarve-guide) has fewer hostel options.
 
 **Guesthouses (pensões) and B&Bs:** €60–100/night for a double room — often better value than hotels, with personal service. The Alentejo has some exceptional rural guesthouses.
 
@@ -68,7 +68,7 @@ Portugal has historically been one of the most affordable Western European desti
 
 **Intercity buses:** Rede Expressos connects most cities. Lisbon–Porto by bus: €19–25. Often slightly cheaper than trains.
 
-**Car rental:** €25–45/day for a small car. Petrol is €1.65–1.85/litre. A week with a rental car (including fuel) runs €220–350. Essential for Alentejo and Douro Valley.
+**Car rental:** €25–45/day for a small car. Petrol is €1.65–1.85/litre. A week with a rental car (including fuel) runs €220–350. Essential for Alentejo and [Douro Valley](/portugal/douro-valley-guide).
 
 **Uber:** Very affordable in Lisbon and Porto. A 15-minute urban ride costs €5–8.
 
@@ -80,7 +80,7 @@ Portugal has historically been one of the most affordable Western European desti
 |-----------|-------|
 | Jerónimos Monastery | €15 |
 | Tower of Belém | €8 |
-| Pena Palace (Sintra) | €21 |
+| Pena Palace ([Sintra](/portugal/sintra-guide)) | €21 |
 | Quinta da Regaleira | €12 |
 | Museu do Azulejo | €8 |
 | LX Factory Sunday market | Free |

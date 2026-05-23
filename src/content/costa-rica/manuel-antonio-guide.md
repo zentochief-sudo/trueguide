@@ -10,7 +10,7 @@ tags: [Manuel Antonio, Costa Rica, national park, sloths, wildlife, beach, Quepo
 city: manuel-antonio
 ---
 
-Manuel Antonio is Costa Rica's paradox: the smallest national park in the country (683 hectares) and, at certain times of year, the most visited. The combination of pristine beaches within an intact forest — where sloths sleep in cecropia trees above the sand and white-faced capuchin monkeys walk the paths alongside visitors — creates an experience that is genuinely spectacular and simultaneously requires careful management to avoid being overrun.
+Manuel Antonio is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s paradox: the smallest national park in the country (683 hectares) and, at certain times of year, the most visited. The combination of pristine beaches within an intact forest — where sloths sleep in cecropia trees above the sand and white-faced capuchin monkeys walk the paths alongside visitors — creates an experience that is genuinely spectacular and simultaneously requires careful management to avoid being overrun.
 
 The wildlife here is unusually habituated to human presence after decades of visitor traffic, which means it's easier to spot than almost anywhere else in Costa Rica. The flip side is that the park imposes strict visitor limits, sells out in advance, and is closed on Tuesdays.
 
@@ -82,7 +82,7 @@ Quepos is the functional town — restaurants, banks, ATMs, supermarkets, and tr
 
 **Getting to Quepos**: 3.5 hours from San José by shuttle ($55 with Interbus/Grayline) or public bus ($7, 3.5 hours via Dominical). Domestic flights from San José: 35 minutes ($80–150 on Sansa Airlines).
 
-**From Arenal**: No direct road route — requires returning to the Pacific highway. 4–5 hours via Ciudad Quesada. The shuttle services navigate this via multiple connections.
+**From [Arenal](/costa-rica/arenal-guide)**: No direct road route — requires returning to the Pacific highway. 4–5 hours via Ciudad Quesada. The shuttle services navigate this via multiple connections.
 
 ---
 

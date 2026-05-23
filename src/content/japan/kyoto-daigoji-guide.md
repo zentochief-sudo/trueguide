@@ -10,7 +10,7 @@ tags: [Daigo-ji, Kyoto temples, five-story pagoda, Toyotomi Hideyoshi, sakura Ky
 city: kyoto
 ---
 
-Daigo-ji (*醍醐寺*) is a Shingon Buddhist temple complex founded in 874, sprawling across the slopes of Daigo-san mountain in southeastern Kyoto. It is one of the 17 properties making up Kyoto's UNESCO World Heritage Site designation, and contains the oldest surviving building in Kyoto: a five-story pagoda completed in 951, standing 38 meters tall and structurally intact after more than a thousand years.
+Daigo-ji (*醍醐寺*) is a Shingon Buddhist temple complex founded in 874, sprawling across the slopes of Daigo-san mountain in southeastern [Kyoto](/japan/kyoto-guide). It is one of the 17 properties making up Kyoto's UNESCO World Heritage Site designation, and contains the oldest surviving building in Kyoto: a five-story pagoda completed in 951, standing 38 meters tall and structurally intact after more than a thousand years.
 
 The temple is far from the main tourist circuit — a 20-minute subway ride south of Kyoto Station puts you in a residential neighborhood where the temple entrance is a relative surprise — and significantly less visited than Kinkaku-ji or Fushimi Inari, which is to its advantage.
 
@@ -20,7 +20,7 @@ The temple is far from the main tourist circuit — a 20-minute subway ride sout
 
 Daigo-ji was founded by the monk Shobo (Rigen Daishi) who climbed Daigo-san in 874 and discovered a spring at the summit — the name *daigo* refers to a pure substance in Buddhist teaching, symbolized by the clarity of the spring water. The temple grew under imperial patronage during the Heian period; Emperor Daigo (who reigned 897–930) is buried in the lower temple precinct.
 
-The connection to Toyotomi Hideyoshi defines much of Daigo-ji's modern history. In 1598, the year before his death, Hideyoshi organized the "Daigo no Hanami" — an elaborate cherry blossom viewing party that brought 1,300 attendees (including five of his wives and concubines, relatives, and loyal generals) to the temple's sakura groves. Hideyoshi oversaw extensive restoration of the temple ahead of the event, which accounts for several of the current structures on the lower grounds. The hanami of 1598 was his last major public appearance; he died five months later.
+The connection to Toyotomi Hideyoshi defines much of Daigo-ji's modern history. In 1598, the year before his death, Hideyoshi organized the "Daigo no Hanami" — an elaborate [cherry blossom](/japan/cherry-blossom-guide) viewing party that brought 1,300 attendees (including five of his wives and concubines, relatives, and loyal generals) to the temple's sakura groves. Hideyoshi oversaw extensive restoration of the temple ahead of the event, which accounts for several of the current structures on the lower grounds. The hanami of 1598 was his last major public appearance; he died five months later.
 
 ---
 
@@ -38,7 +38,7 @@ The flat temple precinct at the base of the mountain, accessed through the Sanpo
 
 **Five-Story Pagoda (五重塔)**: Completed in 951 CE. This is the oldest existing structure in Kyoto — a thousand-year-old building in original working condition. The proportions are considered among the most elegant of any Japanese pagoda: the top story is nearly the same width as the lowest, creating a visual impression of soaring height rather than taper.
 
-**Kondo (Main Hall)**: Reconstructed in 1600 using materials from a similar hall in Wakayama. Enshrines Yakushi Nyorai (the Medicine Buddha), flanked by the bodhisattvas Nikko and Gakko.
+**Kondo (Main Hall)**: Reconstructed in 1600 using materials from a similar hall in Wakayama. Enshrines Yakushi Nyorai (the Medicine Buddha), flanked by the bodhisattvas [Nikko](/japan/nikko-guide) and Gakko.
 
 **Kaisan-do**: The founder's hall containing a portrait of Shobo.
 

@@ -80,7 +80,7 @@ Houston is not Austin (which has a more established live music identity) but has
 
 **Last call**: Texas state law sets last call at 2am. Most bars close by 2:15am.
 
-**Rideshare post-match**: Surge pricing applies immediately after matches. From NRG Stadium to Midtown: $25–50 post-match surge. The Red Line eliminates this entirely if you're returning to the METRORail corridor.
+**Rideshare post-match**: Surge pricing applies immediately after matches. From [NRG Stadium](/united-states/nrg-stadium-guide) to Midtown: $25–50 post-match surge. The Red Line eliminates this entirely if you're returning to the METRORail corridor.
 
 **Climate factor**: Houston in July is 33–36°C with high humidity. Outdoor bars are common and many have fans and misters. The Dogwood's outdoor section, the Discovery Green events, and rooftop venues become uncomfortable between 10am and 7pm; evenings are the workable outdoor window.
 

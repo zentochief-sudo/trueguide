@@ -10,7 +10,7 @@ tags: [SF Bay Area, budget, costs, World Cup 2026, San Francisco, travel costs]
 city: sfbay
 ---
 
-San Francisco is one of the three most expensive cities in the United States for accommodation. Combined with Caltrain fares, California restaurant prices, and World Cup demand, the Bay Area is a meaningfully more expensive World Cup destination than Houston, Dallas, or Kansas City. The value case exists in the food (Mission taquerias, Chinatown dim sum, the Ferry Building market) and in the free attractions (Golden Gate Park, the waterfront, the neighborhoods themselves). Understanding where the money goes helps plan against it.
+[San Francisco](/united-states/san-francisco-guide) is one of the three most expensive cities in the United States for accommodation. Combined with Caltrain fares, California restaurant prices, and World Cup demand, the Bay Area is a meaningfully more expensive World Cup destination than Houston, Dallas, or Kansas City. The value case exists in the food (Mission taquerias, Chinatown dim sum, the Ferry Building market) and in the free attractions (Golden Gate Park, the waterfront, the neighborhoods themselves). Understanding where the money goes helps plan against it.
 
 ---
 

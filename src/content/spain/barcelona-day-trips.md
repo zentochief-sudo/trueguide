@@ -10,7 +10,7 @@ tags: [Barcelona, day trips, Montserrat, Sitges, Tarragona, Penedès, Costa Brav
 city: barcelona
 ---
 
-Barcelona's position on the Catalan coast places it within easy reach of mountains, Roman ruins, beach towns, and wine country — all reachable within 30–90 minutes. These are the day trips worth taking.
+[Barcelona](/[spain](/spain)/barcelona-travel-guide)'s position on the Catalan coast places it within easy reach of mountains, Roman ruins, beach towns, and wine country — all reachable within 30–90 minutes. These are the day trips worth taking.
 
 ---
 

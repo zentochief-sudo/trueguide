@@ -20,7 +20,7 @@ Going to an onsen is not complicated. But the etiquette around it is specific, a
 
 An *onsen* is technically any bath fed by natural hot spring water meeting specific mineral and temperature criteria (the Water Law of 1948 defines the thresholds). The distinction from regular public baths (*sentō*) matters: sentō uses heated tap water; onsen uses natural spring water with specific mineral properties that are considered therapeutically distinct.
 
-Most onsen in Japan are gender-segregated: men and women bathe separately in different bath areas. Mixed bathing (*konyoku*) exists but is increasingly rare and usually involves a rotemburo (outdoor bath) in more remote ryokan. Bathing suits are not worn in traditional onsen.
+Most onsen in Japan are gender-segregated: men and women bathe separately in different bath areas. Mixed bathing (*konyoku*) exists but is increasingly rare and usually involves a rotemburo (outdoor bath) in more remote [ryokan](/japan/ryokan-guide). Bathing suits are not worn in traditional onsen.
 
 The mineral composition varies significantly between springs, and different compositions are traditionally associated with different health benefits: sulfuric water for skin conditions, iron-rich water for anemia, alkaline water for general skin health. Whether the therapeutic claims are clinically valid is debated; the mineral differences are real.
 
@@ -58,9 +58,9 @@ The mineral composition varies significantly between springs, and different comp
 
 ### Hakone (Kanagawa Prefecture)
 
-The closest major onsen destination to Tokyo: 90 minutes by Odakyu Romancecar from Shinjuku. The Hakone basin has multiple spring areas with different mineral compositions — you can cover several in a day using the Hakone ropeway and cable car network.
+The closest major onsen destination to [Tokyo](/japan/tokyo-guide): 90 minutes by Odakyu Romancecar from Shinjuku. The [Hakone](/japan/hakone-guide) basin has multiple spring areas with different mineral compositions — you can cover several in a day using the Hakone ropeway and cable car network.
 
-**Fujiya Hotel** (1878, the first Western-style hotel in Japan) has onsen facilities. **Gora** and **Miyanoshita** are the two main ryokan districts. On clear days, views of Mount Fuji from the outdoor baths at higher elevations are exceptional.
+**Fujiya Hotel** (1878, the first Western-style hotel in Japan) has onsen facilities. **Gora** and **Miyanoshita** are the two main ryokan districts. On clear days, views of [Mount Fuji](/japan/mount-fuji-guide) from the outdoor baths at higher elevations are exceptional.
 
 Day trip or overnight: the overnight experience, with the indoor-outdoor bath sequence at a ryokan, is worth the extra cost. Day-trippers use the Hakone Open Air Museum and ropeway alongside the onsen visits.
 
@@ -84,7 +84,7 @@ The onsen town that does the wooden geta clogs and yukata evening walk correctly
 
 The canal, the historic wooden buildings, the sound of geta on stone — Kinosaki at night is the visual ideal of Japanese onsen culture that most people carry. It is not performed for tourists; this is just how the town works.
 
-Access: 2.5 hours from Osaka by JR Kinosaki Express, or from Kyoto in 2.5 hours. Overnight strongly recommended.
+Access: 2.5 hours from [Osaka](/japan/osaka-guide) by JR Kinosaki Express, or from [Kyoto](/japan/kyoto-guide) in 2.5 hours. Overnight strongly recommended.
 
 ---
 
@@ -92,11 +92,11 @@ Access: 2.5 hours from Osaka by JR Kinosaki Express, or from Kyoto in 2.5 hours.
 
 Japan's second-largest hot spring city by volume of water output (after Yellowstone globally). The city produces 95 million liters of hot spring water per day. The geography is dramatic: steam vents from sidewalks, the air smells of sulfur, and the harbor views compete with the thermal activity.
 
-**Jigoku Meguri (Hell Tour)** — seven hot spring pools marketed as the "Hells of Beppu": Umi Jigoku (cobalt blue), Oniishibozu Jigoku (grey bubbling mud), Kamado Jigoku, Chinoike Jigoku (blood-red iron oxide pool). Touristic but genuinely striking. Admission ¥400 per hell, or ¥2,200 for all seven.
+**Jigoku Meguri (Hell Tour)** — seven hot spring pools marketed as the "Hells of [Beppu](/japan/beppu-guide)": Umi Jigoku (cobalt blue), Oniishibozu Jigoku (grey bubbling mud), Kamado Jigoku, Chinoike Jigoku (blood-red iron oxide pool). Touristic but genuinely striking. Admission ¥400 per hell, or ¥2,200 for all seven.
 
 **Takegawara Onsen** — the 1879 wooden bathhouse downtown, with both standard baths and the famous *sunamushi* (sand steam bath) where you lie buried in hot sand near the sea. The sand steam bath is its own experience: attendants shovel sand over you; you lie there for 15 minutes while the heat works through.
 
-Access: Fukuoka airport to Beppu, 2 hours by highway bus. Pair with Yufuin for a Kyushu onsen route.
+Access: [Fukuoka](/japan/fukuoka-guide) airport to Beppu, 2 hours by highway bus. Pair with Yufuin for a Kyushu onsen route.
 
 ---
 

@@ -14,7 +14,7 @@ March is Korea's pre-season — the month before the crowds. Cherry blossoms hav
 
 ## Weather in March
 
-**Seoul:** Cold early, warming mid-month. Temperatures go from 3–8°C in early March to 10–15°C by late month. Winter coat still needed for the first two weeks, light jacket by the end.
+**[Seoul](/south-korea/seoul-guide):** Cold early, warming mid-month. Temperatures go from 3–8°C in early March to 10–15°C by late month. Winter coat still needed for the first two weeks, light jacket by the end.
 
 **Busan:** Warmer than Seoul by 2–3 degrees — a meaningful difference in early March. Sea air moderates the cold.
 

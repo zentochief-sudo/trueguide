@@ -10,9 +10,9 @@ tags: [Odaiba, Tokyo, teamLab, Gundam, Rainbow Bridge, digital art, Tokyo Bay, a
 city: tokyo
 ---
 
-Odaiba was landfill — the island was built on reclaimed Tokyo Bay over several decades, with a large-scale development push in the 1980s and 90s intended to create a new business and entertainment district to relieve central Tokyo's congestion. The bubble economy burst before the vision fully materialized, leaving an island with wide boulevards, massive entertainment complexes, and a specific uncanny quality of planned urbanism that never quite filled to its intended density.
+Odaiba was landfill — the island was built on reclaimed [Tokyo](/japan/tokyo-guide) Bay over several decades, with a large-scale development push in the 1980s and 90s intended to create a new business and entertainment district to relieve central Tokyo's congestion. The bubble economy burst before the vision fully materialized, leaving an island with wide boulevards, massive entertainment complexes, and a specific uncanny quality of planned urbanism that never quite filled to its intended density.
 
-What resulted is paradoxically interesting. Odaiba has the best skyline views of Tokyo (looking back from the island toward Shibuya and Shinjuku across the bay, with the Rainbow Bridge in the foreground), some of the most significant contemporary art installations in Japan (teamLab), and enough specific attractions to justify a half-day or full-day visit.
+What resulted is paradoxically interesting. Odaiba has the best skyline views of Tokyo (looking back from the island toward Shibuya and Shinjuku across the bay, with the Rainbow Bridge in the foreground), some of the most significant contemporary art installations in Japan ([teamLab](/japan/teamlab-guide)), and enough specific attractions to justify a half-day or full-day visit.
 
 ---
 
@@ -58,7 +58,7 @@ The large Ferris wheel near the DiverCity area (Daikanransha) provides views ove
 
 ## Waterfront Views
 
-The most underappreciated reason to visit Odaiba: the view from the north beach promenade looking back at the Tokyo skyline. The Rainbow Bridge in the foreground, Tokyo Tower visible to the left, Shibuya skyscrapers in the distance. At dusk the bridge lights activate and the city illuminates behind it — one of the better urban views in Japan.
+The most underappreciated reason to visit Odaiba: the view from the north beach promenade looking back at the Tokyo skyline. The Rainbow Bridge in the foreground, [Tokyo Tower](/japan/tokyo-tower-guide) visible to the left, Shibuya skyscrapers in the distance. At dusk the bridge lights activate and the city illuminates behind it — one of the better urban views in Japan.
 
 The Odaiba Seaside Park runs along the north shore; the beach area (artificial, but maintained) is occasionally open for walking. The replica Statue of Liberty facing the Rainbow Bridge is the landmark that appears in every Odaiba photograph.
 

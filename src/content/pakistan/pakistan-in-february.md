@@ -10,7 +10,7 @@ tags: [Pakistan, February, Hunza, almond blossom, Lahore, spring, cultural circu
 city: national
 ---
 
-February is Pakistan's most aesthetically charged month in the north — the almond trees of Hunza Valley begin blooming in the most remote mountain scenery on Earth, creating pink blossoms against snowcapped peaks. The cultural heartland cities (Lahore, Islamabad, Multan) are at their finest with cool, clear weather. And the preparations for spring begin across the country.
+February is [Pakistan](/pakistan)'s most aesthetically charged month in the north — the almond trees of [Hunza Valley](/pakistan/hunza-valley-guide) begin blooming in the most remote mountain scenery on Earth, creating pink blossoms against snowcapped peaks. The cultural heartland cities ([Lahore](/pakistan/lahore-guide), [Islamabad](/pakistan/islamabad-guide), Multan) are at their finest with cool, clear weather. And the preparations for spring begin across the country.
 
 ## Weather & Conditions
 

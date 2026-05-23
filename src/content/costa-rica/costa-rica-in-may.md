@@ -10,17 +10,17 @@ tags: [Costa Rica, May, green season, humpback whales, Osa Peninsula, lush, Cari
 city: national
 ---
 
-May is when Costa Rica's green season is fully established. The Pacific side receives consistent afternoon and evening rain that transforms the landscape — the brown, desiccated vegetation of March becomes the luminous green that makes Costa Rica look like a country designed for postcards. Humpback whales from the Northern Hemisphere arrive in Costa Rican Pacific waters in May (the Southern Hemisphere population arrives August–October, making Costa Rica unique in hosting two distinct humpback seasons). Prices remain 25–40% below January peak. The country is running at full capacity but without the crowds.
+May is when [Costa Rica](/costa-rica/costa-rica-travel-guide)'s green season is fully established. The Pacific side receives consistent afternoon and evening rain that transforms the landscape — the brown, desiccated vegetation of March becomes the luminous green that makes Costa Rica look like a country designed for postcards. Humpback whales from the Northern Hemisphere arrive in Costa Rican Pacific waters in May (the Southern Hemisphere population arrives August–October, making Costa Rica unique in hosting two distinct humpback seasons). Prices remain 25–40% below January peak. The country is running at full capacity but without the crowds.
 
 ## Weather & Conditions
 
 **Guanacaste:** 25–34°C. Consistent afternoon rains. Mornings typically clear.
 
-**Manuel Antonio:** 24–31°C. More rain than Guanacaste. Lush conditions.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–31°C. More rain than Guanacaste. Lush conditions.
 
-**Arenal:** 20–26°C. Rainy season conditions. Waterfalls at peak flow.
+**[Arenal](/costa-rica/arenal-guide):** 20–26°C. Rainy season conditions. Waterfalls at peak flow.
 
-**Osa Peninsula (Corcovado):** 24–32°C. Heavy rain. Trails more challenging. Wildlife excellent.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide) (Corcovado):** 24–32°C. Heavy rain. Trails more challenging. Wildlife excellent.
 
 **Caribbean coast:** 24–30°C. This is the Caribbean's wet season — conditions variable.
 
@@ -34,7 +34,7 @@ May is when Costa Rica's green season is fully established. The Pacific side rec
 
 **River rafting — peak season:** May river levels make the Pacuare and Sarapiquí rivers exceptional for whitewater rafting. Class III–IV rapids at maximum flow on the Pacuare (one of National Geographic's top rafting rivers) are the standard May experience. Multi-day Pacuare trips with overnight camping in the jungle river canyon run through all rainy season months.
 
-**Monteverde green season:** The cloud forest is at its most cloud-like in May — the mist is persistent, the epiphytes are dripping, and the sense of immersion in the forest is total. The wildlife activity is excellent. The famous hanging bridges and canopy walks run in all weather.
+**[Monteverde](/costa-rica/monteverde-guide) green season:** The cloud forest is at its most cloud-like in May — the mist is persistent, the epiphytes are dripping, and the sense of immersion in the forest is total. The wildlife activity is excellent. The famous hanging bridges and canopy walks run in all weather.
 
 ## Festivals & Events
 

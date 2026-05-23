@@ -10,19 +10,19 @@ tags: [Tanzania, January, Ngorongoro, Serengeti, Zanzibar, calving season, wildl
 city: national
 ---
 
-January is one of Tanzania's most rewarding months for wildlife photography. The short rains of November have ended, the long rains are still months away, and the Serengeti's southern plains are at their most dramatic: Wildebeest calving season is in full swing, with hundreds of thousands of calves born within a six-week window. Predator activity is exceptional. And Zanzibar's east coast is in ideal condition — the northeast trade winds keep things dry and breezy.
+January is one of [Tanzania](/tanzania)'s most rewarding months for wildlife photography. The short rains of November have ended, the long rains are still months away, and the Serengeti's southern plains are at their most dramatic: Wildebeest calving season is in full swing, with hundreds of thousands of calves born within a six-week window. Predator activity is exceptional. And [Zanzibar](/tanzania/zanzibar-guide)'s east coast is in ideal condition — the northeast trade winds keep things dry and breezy.
 
 ## Weather & Conditions
 
 **Serengeti (Southern):** 22–30°C. Dry and warm with residual green from the short rains. Visibility is excellent — the grass is shorter than mid-year.
 
-**Ngorongoro Crater:** 18–24°C. The crater rim can be cool and misty in the morning. The crater floor is warm and accessible.
+**[Ngorongoro](/tanzania/ngorongoro-guide) Crater:** 18–24°C. The crater rim can be cool and misty in the morning. The crater floor is warm and accessible.
 
-**Arusha / Northern Circuit:** 18–28°C. Warm and relatively dry.
+**[Arusha](/tanzania/arusha-guide) / Northern Circuit:** 18–28°C. Warm and relatively dry.
 
 **Zanzibar (Unguja):** 26–30°C. The northeast monsoon (kaskazi) has ended; January and February are the finest beach months on the east coast. Minimal rain. Northeast trade wind keeps it comfortable.
 
-**Mount Kilimanjaro:** January is one of the drier months for Kilimanjaro. Good conditions for the Machame and Marangu routes.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** January is one of the drier months for Kilimanjaro. Good conditions for the Machame and Marangu routes.
 
 ## What to Do
 
@@ -34,7 +34,7 @@ January is one of Tanzania's most rewarding months for wildlife photography. The
 
 **Climbing Kilimanjaro:** January is one of two optimal months to summit Kilimanjaro. Clear skies and dry conditions on the upper mountain (above 4,000m). The Machame route (6–7 days) and the Lemosho route (7–8 days) are both excellent in January. Book operators and permits months ahead — January is popular.
 
-**Tarangire National Park:** The dry season parks like Tarangire are less dramatic in January than in the July–October dry season, but elephant concentrations remain high. The ancient baobab trees (some over 1,000 years old) against green January grass are photogenic.
+**[Tarangire](/tanzania/tarangire-guide) National Park:** The dry season parks like Tarangire are less dramatic in January than in the July–October dry season, but elephant concentrations remain high. The ancient baobab trees (some over 1,000 years old) against green January grass are photogenic.
 
 ## Festivals & Events
 

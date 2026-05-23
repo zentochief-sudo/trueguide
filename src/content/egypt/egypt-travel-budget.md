@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Egypt offers extraordinary value for money — the world's greatest concentration of ancient monuments, affordable accommodation, cheap street food, and Nile cruises at prices that shock most visitors coming from Western Europe. The currency devaluation of recent years has made Egypt even more affordable for foreign visitors.
+[Egypt](/egypt) offers extraordinary value for money — the world's greatest concentration of ancient monuments, affordable accommodation, cheap street food, and Nile cruises at prices that shock most visitors coming from Western Europe. The currency devaluation of recent years has made Egypt even more affordable for foreign visitors.
 
 ## The Numbers at a Glance
 
@@ -25,7 +25,7 @@ Egypt offers extraordinary value for money — the world's greatest concentratio
 
 ## Flights
 
-**From Europe to Cairo (CAI):**
+**From Europe to [Cairo](/egypt/cairo-travel-guide) (CAI):**
 - Budget: €200–350 return (EasyJet from London, Ryanair, Wizz Air from various European cities)
 - Mid-range: €350–550 return (EgyptAir, Lufthansa, KLM, Turkish Airlines via Istanbul)
 - Book 6–10 weeks ahead for best budget airline fares
@@ -87,8 +87,8 @@ Egyptian street food is some of the cheapest and most satisfying in the world.
 |---|---|
 | Pyramids of Giza + Sphinx | €16 |
 | Great Pyramid interior | €27 (separate, worth it) |
-| Grand Egyptian Museum | €18 |
-| Egyptian Museum (Tahrir) | €10 |
+| [Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) | €18 |
+| [Egyptian Museum](/egypt/egyptian-museum-guide) (Tahrir) | €10 |
 | Tutankhamun Collection (GEM) | €18 |
 | Karnak Temple Complex | €12 |
 | Luxor Temple | €10 |

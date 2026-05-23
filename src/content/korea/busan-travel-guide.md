@@ -10,7 +10,7 @@ tags: [Busan, South Korea, Gamcheon, Haedong, beaches, Korean food, Jagalchi]
 city: busan
 ---
 
-Most travelers put Busan at the end of their Korea itinerary, as a two-night stop before flying home. That's one way to do it. The better way is to treat it as a separate destination — a city with its own character, its own food culture, and a coastline that makes Seoul feel very far away.
+Most travelers put [Busan](/korea/busan-guide) at the end of their Korea itinerary, as a two-night stop before flying home. That's one way to do it. The better way is to treat it as a separate destination — a city with its own character, its own food culture, and a coastline that makes Seoul feel very far away.
 
 Busan is a port city. It's louder than Seoul, more salt-weathered, somehow more casual. The pace changes as soon as you step off the KTX. The streets are steeper. The neighborhoods climb hills above harbor views. The fish was alive this morning.
 
@@ -82,7 +82,7 @@ The restaurants and bars along the esplanade range from grilled fish places to c
 
 Built in 1376, destroyed during the Japanese occupation, reconstructed in 1930. Located on a rocky clifftop where the East Sea crashes against the foundations.
 
-Most Korean temples are set in forests on mountainsides. Haedong Yonggungsa is, deliberately and dramatically, set above the sea. The approach — down stone staircases with carved stone zodiac animals — ends at a plaza where the main hall sits directly above the water. Waves break beneath it. Salt spray hits the walls.
+Most [Korean temples](/korea/korean-temples-guide) are set in forests on mountainsides. Haedong Yonggungsa is, deliberately and dramatically, set above the sea. The approach — down stone staircases with carved stone zodiac animals — ends at a plaza where the main hall sits directly above the water. Waves break beneath it. Salt spray hits the walls.
 
 Go at sunrise. This requires getting up very early (Busan sunrise in October is around 6:40am; in April, 6:10am). The temple and coastal path are empty. The light on the sea is soft. The main hall incense smoke drifts toward water. It is one of the better things you will see on a trip to Korea.
 
@@ -138,7 +138,7 @@ The food here: *ssal hotteok* (rice cake hotteok filled with seeds and brown sug
 
 **Getting around**: The metro covers the major sites. Taxis are inexpensive (base fare ₩4,800) and drivers are generally helpful with a destination written in Korean on your phone.
 
-**Combining with Gyeongju**: Busan to Gyeongju is 18 minutes by KTX (Singyeongju Station) or about 1 hour by bus. If your itinerary includes Gyeongju, doing Busan then Gyeongju then Seoul (or vice versa) is more efficient than doubling back.
+**Combining with [Gyeongju](/korea/gyeongju-guide)**: Busan to Gyeongju is 18 minutes by KTX (Singyeongju Station) or about 1 hour by bus. If your itinerary includes Gyeongju, doing Busan then Gyeongju then Seoul (or vice versa) is more efficient than doubling back.
 
 ---
 

@@ -73,17 +73,17 @@ Certain vending machines are tourist destinations in their own right:
 
 **Kirin Brewery vending trail, Yokohama**: Multiple machines selling fresh draft beer near the brewery.
 
-**Canned sake machines, Fushimi (Kyoto)**: In Japan's sake-producing district, machines selling regional sake brands in cans or small bottles.
+**Canned sake machines, Fushimi ([Kyoto](/japan/kyoto-guide))**: In Japan's sake-producing district, machines selling regional sake brands in cans or small bottles.
 
 **Ramen noodle machines**: Several ramen shops now operate 24/7 frozen ramen machines outside the restaurant — allowing purchase of restaurant-quality raw noodles at any hour.
 
-**Mount Fuji vending machines**: High-altitude machines at the 5th and 8th stations — legendary for being operational at 2,300m elevation. Prices are slightly higher (¥200–300) to account for the logistics.
+**[Mount Fuji](/japan/mount-fuji-guide) vending machines**: High-altitude machines at the 5th and 8th stations — legendary for being operational at 2,300m elevation. Prices are slightly higher (¥200–300) to account for the logistics.
 
 ---
 
 ## Practical Tips
 
-**On hiking trails**: Vending machines appear at trailheads and mountain huts on popular trails (Takao-san, Fuji, Nikko). A 500ml bottle is ¥130 at the base and ¥180–200 at altitude.
+**On hiking trails**: Vending machines appear at trailheads and mountain huts on popular trails (Takao-san, Fuji, [Nikko](/japan/nikko-guide)). A 500ml bottle is ¥130 at the base and ¥180–200 at altitude.
 
 **At temples and shrines**: Machines are placed discreetly near entrances. Buying a cold drink at Fushimi Inari before the climb is standard practice.
 

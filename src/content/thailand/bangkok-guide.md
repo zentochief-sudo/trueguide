@@ -18,7 +18,7 @@ The city rewards those who stay more than two days and venture beyond the backpa
 
 ## The Temple Circuit
 
-**Grand Palace & Wat Phra Kaew**: The historic center of Bangkok — a 218,000 m² complex of royal halls, pavilions, and the temple of the Emerald Buddha. The Emerald Buddha is a 66 cm jade statue (not emerald) that is the most sacred object in Thailand; the king changes its seasonal robes three times per year. Dress code strictly enforced: shoulders and knees covered (wraps available for rent at the entrance). Open 8:30 AM–3:30 PM; arrive before 9 AM to avoid the worst crowds. Entry ฿500.
+**Grand Palace & Wat Phra Kaew**: The historic center of Bangkok — a 218,000 m² complex of royal halls, pavilions, and the temple of the Emerald Buddha. The Emerald Buddha is a 66 cm jade statue (not emerald) that is the most sacred object in [Thailand](/thailand); the king changes its seasonal robes three times per year. Dress code strictly enforced: shoulders and knees covered (wraps available for rent at the entrance). Open 8:30 AM–3:30 PM; arrive before 9 AM to avoid the worst crowds. Entry ฿500.
 
 **Wat Pho**: Directly behind the Grand Palace — the temple of the Reclining Buddha, a 46-meter gilded figure that barely fits inside its building. Wat Pho is also the national center for traditional Thai massage (the massage school has been operating for centuries); 1-hour traditional massage sessions are available on-site for ฿420. One of the most complete temple complexes in Bangkok.
 

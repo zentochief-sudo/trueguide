@@ -10,7 +10,7 @@ tags: [Pakistan, March, apricot blossom, Hunza, Nowruz, spring, Peshawar]
 city: national
 ---
 
-March is Pakistan's blossom month in the north and its most comfortable month in the lowland plains. The apricot orchards of Hunza and the Gilgit region — possibly the finest apricot orchards in the world — bloom in March, covering the mountain valley terraces with white and pink. Lahore and Islamabad are warm and clear. Nowruz (Persian New Year on March 21) is observed by the Pashtun and some Baloch communities with festivities.
+March is [Pakistan](/pakistan)'s blossom month in the north and its most comfortable month in the lowland plains. The apricot orchards of Hunza and the Gilgit region — possibly the finest apricot orchards in the world — bloom in March, covering the mountain valley terraces with white and pink. [Lahore](/pakistan/lahore-guide) and [Islamabad](/pakistan/islamabad-guide) are warm and clear. Nowruz (Persian New Year on March 21) is observed by the Pashtun and some Baloch communities with festivities.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ March is Pakistan's blossom month in the north and its most comfortable month in
 
 **Islamabad:** 12–22°C. Spring fully established. The Margalla Hills are green.
 
-**Hunza Valley:** 2–15°C. Apricot blossom season — typically March through early April. Snow still on passes.
+**[Hunza Valley](/pakistan/hunza-valley-guide):** 2–15°C. Apricot blossom season — typically March through early April. Snow still on passes.
 
 **Chitral and Kalash Valley:** 6–18°C. Spring arrives in the high valleys. The Kalash people (Pakistan's smallest ethnic group, practicing a unique pre-Islamic polytheistic tradition) celebrate spring festivals in March.
 

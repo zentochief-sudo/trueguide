@@ -10,7 +10,7 @@ tags: [Cairo, food, koshari, ful medames, Om Ali, Egyptian cuisine, street food]
 city: cairo
 ---
 
-Egyptian food is one of the world's oldest cuisines — ful medames (stewed fava beans) has been eaten in the Nile valley for over 5,000 years; dishes served at Cairo street stalls today were consumed in medieval caravanserais and ancient banquets. The cuisine is hearty, vegetable-forward, and built around grain and legume foundations. Meat (lamb, chicken, rabbit) is present but not dominant. The flavors are warming rather than spicy — cumin, coriander, cinnamon, and garlic do most of the work.
+Egyptian food is one of the world's oldest cuisines — ful medames (stewed fava beans) has been eaten in the Nile valley for over 5,000 years; dishes served at [Cairo](/egypt/cairo-travel-guide) street stalls today were consumed in medieval caravanserais and ancient banquets. The cuisine is hearty, vegetable-forward, and built around grain and legume foundations. Meat (lamb, chicken, rabbit) is present but not dominant. The flavors are warming rather than spicy — cumin, coriander, cinnamon, and garlic do most of the work.
 
 ---
 
@@ -18,7 +18,7 @@ Egyptian food is one of the world's oldest cuisines — ful medames (stewed fava
 
 ### Koshari
 
-Egypt's national dish — a layered bowl of rice, lentils, chickpeas, and macaroni, topped with a spiced tomato-vinegar sauce, crispy fried onions, and optionally a garlic-vinegar sauce (da'a). The combination of four different starches sounds excessive but produces a textural and flavor complexity that is uniquely satisfying.
+[Egypt](/egypt)'s national dish — a layered bowl of rice, lentils, chickpeas, and macaroni, topped with a spiced tomato-vinegar sauce, crispy fried onions, and optionally a garlic-vinegar sauce (da'a). The combination of four different starches sounds excessive but produces a textural and flavor complexity that is uniquely satisfying.
 
 Price: 30–60 EGP (~$0.60–$1.20) — one of the cheapest complete meals in the world.
 

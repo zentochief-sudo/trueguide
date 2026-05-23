@@ -30,7 +30,7 @@ Kansas City is the most affordable major World Cup host city in the United State
 
 **Kansas City Streetcar**: Free.
 
-**Uber to Arrowhead Stadium**: $25–40 from downtown. Round trip: $50–80 + possible post-match surge.
+**Uber to [Arrowhead Stadium](/usa/arrowhead-stadium-guide)**: $25–40 from downtown. Round trip: $50–80 + possible post-match surge.
 
 **Airport (MCI) to downtown**: $35–55 by Uber; $1.50 by bus.
 

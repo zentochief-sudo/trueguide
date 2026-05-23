@@ -10,19 +10,19 @@ tags: [Portugal, October, Douro, harvest, Nazaré, big waves, Alentejo, autumn, 
 city: national
 ---
 
-October is Portugal's autumn opener — and for travelers who missed September, it offers most of the same advantages at even lower prices. The Douro harvest finishes in early October and the valley begins its post-harvest stillness. Nazaré's big wave season opens — the first major Atlantic swells of the autumn arrive, and the world's surf community descends on the canyon break. The Alentejo, too hot for comfort in summer, becomes one of Europe's most appealing walking destinations. And Lisbon in October — warm, low on tourists, its cultural season in full swing — is exceptional.
+October is [Portugal](/portugal)'s autumn opener — and for travelers who missed September, it offers most of the same advantages at even lower prices. The Douro harvest finishes in early October and the valley begins its post-harvest stillness. Nazaré's big wave season opens — the first major Atlantic swells of the autumn arrive, and the world's surf community descends on the canyon break. The Alentejo, too hot for comfort in summer, becomes one of Europe's most appealing walking destinations. And [Lisbon](/portugal/lisbon-guide) in October — warm, low on tourists, its cultural season in full swing — is exceptional.
 
 ## Weather in October
 
 **Lisbon:** 14°C to 23°C. Warm autumn days, first significant rain of the season in the second half of October. The light — golden autumn light on the city's hills — is at its most beautiful.
 
-**Porto:** 12°C to 20°C. Cooling, with more rain than Lisbon. The Douro post-harvest landscape — golden vines, quiet quintas.
+**[Porto](/portugal/porto-guide):** 12°C to 20°C. Cooling, with more rain than Lisbon. The Douro post-harvest landscape — golden vines, quiet quintas.
 
-**Algarve:** 18°C to 25°C. Warm enough for beach days. Sea temperature dropping from September peak (22–23°C in October) but still very swimmable. Off-season pricing begins.
+**[Algarve](/portugal/algarve-guide):** 18°C to 25°C. Warm enough for beach days. Sea temperature dropping from September peak (22–23°C in October) but still very swimmable. Off-season pricing begins.
 
 **Alentejo:** 14°C to 24°C. Excellent walking temperature. The cork oak forests showing early autumn color.
 
-**Douro Valley:** 12°C to 22°C. Post-harvest — the vines turning yellow and red, the terraces shifting to autumn color.
+**[Douro Valley](/portugal/douro-valley-guide):** 12°C to 22°C. Post-harvest — the vines turning yellow and red, the terraces shifting to autumn color.
 
 ## Nazaré — Big Wave Season Opens
 
@@ -68,7 +68,7 @@ October is when Lisbon's cultural season fully launches — festivals, exhibitio
 
 **Culturgest:** The cultural center of the Caixa Geral de Depósitos building — October program typically includes contemporary dance, theater, and music.
 
-**The city in October:** Warm enough for outdoor dining, cool enough for walking all day. The museums have shifted to local audience. The tourist density is October-reduced — you can see the Museu Nacional do Azulejo and the Palácio Nacional de Sintra without summer planning.
+**The city in October:** Warm enough for outdoor dining, cool enough for walking all day. The museums have shifted to local audience. The tourist density is October-reduced — you can see the Museu Nacional do Azulejo and the Palácio Nacional de [Sintra](/portugal/sintra-guide) without summer planning.
 
 ## Budget in October
 

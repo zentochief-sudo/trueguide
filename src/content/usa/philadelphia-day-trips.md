@@ -24,9 +24,9 @@ New York City is the most dramatic day trip from any World Cup host city — the
 
 **Cost**: Acela express: $50–120 one-way (flexible booking); Northeast Regional: $25–60 one-way. Book in advance for lower fares.
 
-**What to do in NYC from Philadelphia**: The primary consideration is time — with a 90-minute train each way, a 9am departure gets you to Penn Station by 10:30am; returning by 9pm gives you 10 hours. This is enough for: a specific neighborhood (the Whitney Museum and the High Line; Central Park; the Lower East Side); one exceptional restaurant; the Brooklyn Bridge walk. Not enough for a comprehensive New York visit.
+**What to do in NYC from Philadelphia**: The primary consideration is time — with a 90-minute train each way, a 9am departure gets you to Penn Station by 10:30am; returning by 9pm gives you 10 hours. This is enough for: a specific neighborhood (the Whitney Museum and the High Line; Central Park; the Lower East Side); one exceptional restaurant; the [Brooklyn](/united-states/brooklyn-guide) Bridge walk. Not enough for a comprehensive New York visit.
 
-**Practical note**: For World Cup visitors who will also have matches in New York (MetLife Stadium), the reverse day trip logic applies — visit Philadelphia from New York on a non-match day.
+**Practical note**: For World Cup visitors who will also have matches in New York ([MetLife Stadium](/united-states/metlife-stadium-guide)), the reverse day trip logic applies — visit Philadelphia from New York on a non-match day.
 
 ---
 

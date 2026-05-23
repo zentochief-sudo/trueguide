@@ -14,7 +14,7 @@ If Korea has a peak month, May is the argument for it. Cherry blossoms are finis
 
 ## Weather in May
 
-**Seoul:** 14°C to 24°C. Comfortable days, cool nights. The clearest skies of the year — the yellow dust season that plagues April typically eases in May. Little rain before the monsoon arrives in late June.
+**[Seoul](/south-korea/seoul-guide):** 14°C to 24°C. Comfortable days, cool nights. The clearest skies of the year — the yellow dust season that plagues April typically eases in May. Little rain before the monsoon arrives in late June.
 
 **Busan:** 16°C to 25°C. Warm enough for the beach by late May, though water temperature is still cold for swimming.
 

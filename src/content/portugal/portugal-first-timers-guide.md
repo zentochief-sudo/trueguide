@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Portugal consistently ranks as one of the world's top travel destinations, and it deserves the reputation. First-timers are often surprised by how much there is — not just beaches and Lisbon, but wine country, medieval villages, Atlantic islands, and a cuisine that's been quietly world-class for decades.
+[Portugal](/portugal) consistently ranks as one of the world's top travel destinations, and it deserves the reputation. First-timers are often surprised by how much there is — not just beaches and [Lisbon](/portugal/lisbon-guide), but wine country, medieval villages, Atlantic islands, and a cuisine that's been quietly world-class for decades.
 
 ## The Basics
 
@@ -20,7 +20,7 @@ Portugal consistently ranks as one of the world's top travel destinations, and i
 **Time zone:** WET/WEST (same as UK, GMT/GMT+1)  
 **Driving:** Right-hand side  
 **Plug type:** Type F (two round pins, same as most of mainland Europe)  
-**Visa:** EU/EEA no visa. US, UK, Canada, Australia — visa-free for 90 days (Schengen)
+**Visa:** EU/EEA no visa. US, UK, [Canada](/canada), Australia — visa-free for 90 days (Schengen)
 
 ---
 
@@ -36,7 +36,7 @@ In cities and tourist areas, yes — very well, especially among younger people.
 Yes — Lisbon is built on seven hills (some say more). The historic neighbourhoods of Alfama, Mouraria, and Graça require climbing. The reward is spectacular views and beautiful light. Wear comfortable shoes. The city has vintage funiculars and elevators (elevadores) that help.
 
 ### "How do I get between cities?"
-Train for Lisbon–Porto (3 hours on Alfa Pendular). Train or bus for Lisbon–Algarve (3–3.5 hours). Car rental for the Alentejo, Douro Valley, and most rural areas. Portugal is well-connected but a car unlocks the best parts.
+Train for Lisbon–[Porto](/portugal/porto-guide) (3 hours on Alfa Pendular). Train or bus for Lisbon–[Algarve](/portugal/algarve-guide) (3–3.5 hours). Car rental for the Alentejo, [Douro Valley](/portugal/douro-valley-guide), and most rural areas. Portugal is well-connected but a car unlocks the best parts.
 
 ---
 
@@ -44,7 +44,7 @@ Train for Lisbon–Porto (3 hours on Alfa Pendular). Train or bus for Lisbon–A
 
 **Lisbon (3 days minimum):** The city you'll fall in love with. Alfama, Belém, Chiado, and the viewpoints at sunset.
 
-**Sintra (day trip from Lisbon):** Fairy-tale palaces in a UNESCO World Heritage town. Non-negotiable.
+**[Sintra](/portugal/sintra-guide) (day trip from Lisbon):** Fairy-tale palaces in a UNESCO World Heritage town. Non-negotiable.
 
 **Porto (2–3 days):** Port wine, azulejo tiles, extraordinary food, and one of Europe's most characterful cities.
 
@@ -66,7 +66,7 @@ Train for Lisbon–Porto (3 hours on Alfa Pendular). Train or bus for Lisbon–A
 
 **Petiscos** are Portugal's version of tapas — small dishes designed for sharing over wine.
 
-**Wine:** Portugal makes world-class wines at prices that would be considered budget in France. Vinho Verde (fresh, slightly sparkling green wine) is perfect with seafood. Alentejo reds are full-bodied and excellent. Port wine comes from the Douro Valley.
+**Wine:** Portugal makes world-class wines at prices that would be considered budget in [France](/france). Vinho Verde (fresh, slightly sparkling green wine) is perfect with seafood. Alentejo reds are full-bodied and excellent. Port wine comes from the Douro Valley.
 
 **Meal times:** Lunch 1–3pm. Dinner 8–10pm. Restaurants are typically empty before 8pm.
 

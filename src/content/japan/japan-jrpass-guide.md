@@ -10,7 +10,7 @@ tags: [JR Pass, Japan rail pass, Shinkansen, Japan travel tips, train pass, bull
 city: national
 ---
 
-The JR Pass (*Japan Rail Pass*) is a special pass available only to foreign tourists visiting Japan on a tourist visa — an unlimited travel card covering all Japan Railways Group (JR) trains, including most Shinkansen (bullet trains), for a fixed period. Until October 2023, it was considered one of the best travel deals in Asia. The 2023 price increase of approximately 70% changed the calculus significantly.
+The JR Pass (*[Japan Rail Pass](/japan/japan-rail-pass-guide)*) is a special pass available only to foreign tourists visiting Japan on a tourist visa — an unlimited travel card covering all Japan Railways Group (JR) trains, including most Shinkansen (bullet trains), for a fixed period. Until October 2023, it was considered one of the best travel deals in Asia. The 2023 price increase of approximately 70% changed the calculus significantly.
 
 The pass still makes sense for certain itineraries — particularly those covering long distances between multiple cities — but for short stays or city-focused trips, individual ticket purchasing is often cheaper.
 
@@ -34,8 +34,8 @@ The pass still makes sense for certain itineraries — particularly those coveri
 
 **Shinkansen** (bullet trains):
 - ✅ Tokaido Shinkansen: Tokyo–Nagoya–Kyoto–Osaka (Hikari and Kodama trains)
-- ✅ Sanyo Shinkansen: Osaka–Hiroshima–Hakata (Hikari and Sakura trains)
-- ✅ Tohoku, Hokuriku, Kyushu, and Hokkaido Shinkansen lines
+- ✅ Sanyo Shinkansen: Osaka–[Hiroshima](/japan/hiroshima-guide)–Hakata (Hikari and Sakura trains)
+- ✅ Tohoku, Hokuriku, Kyushu, and [Hokkaido](/japan/hokkaido-guide) Shinkansen lines
 - ❌ **Nozomi** and **Mizuho** (the fastest trains): NOT covered by the regular JR Pass — these require a surcharge or separate ticket
 
 **JR Local Trains**: All JR lines throughout Japan — the backbone of local transit in smaller cities and regional areas.
@@ -48,7 +48,7 @@ The pass still makes sense for certain itineraries — particularly those coveri
 - ❌ Limousine Bus: not covered
 
 **Ferries**:
-- ✅ Miyajima Ferry (Hiroshima–Miyajima)
+- ✅ [Miyajima](/japan/miyajima-guide) Ferry (Hiroshima–Miyajima)
 - ✅ JR-operated ferries on some routes
 
 ---
@@ -56,7 +56,7 @@ The pass still makes sense for certain itineraries — particularly those coveri
 ## What It Does NOT Cover
 
 - **Nozomi and Mizuho Shinkansen** (the fastest trains on the Tokaido/Sanyo routes): These are excluded. The next fastest (Hikari) still makes the Tokyo–Osaka route in 2h40m vs. the Nozomi's 2h15m — a modest difference.
-- **Tokyo Metro and Toei Subway**: Not JR — the major Tokyo subway system requires a separate IC card or ticket
+- **Tokyo Metro and Toei Subway**: Not JR — the major [Tokyo subway](/japan/tokyo-subway-guide) system requires a separate IC card or ticket
 - **Osaka Metro and Kyoto Municipal Subway**: Same — separate payment required
 - **Most private railways**: Kintetsu, Hankyu, Keihan, Odakyu, etc. — all require separate tickets or their own passes
 - **Keikyu to Haneda Airport** from Tokyo: Not JR
@@ -77,10 +77,10 @@ The clearest way to evaluate the JR Pass is to price the specific routes of your
 | Tokyo → Kyoto (Hikari) | ¥13,750 |
 | Tokyo → Osaka (Hikari) | ¥14,720 |
 | Kyoto → Hiroshima (Hikari) | ¥10,440 |
-| Hiroshima → Hakata/Fukuoka (Sakura) | ¥6,280 |
+| Hiroshima → Hakata/[Fukuoka](/japan/fukuoka-guide) (Sakura) | ¥6,280 |
 | Tokyo → Sendai (Hayabusa/Yamabiko) | ¥11,410 |
 | Tokyo → Sapporo (Hokkaido Shinkansen) | ¥22,690 |
-| Osaka → Kagoshima (Sakura) | ¥15,190 |
+| Osaka → [Kagoshima](/japan/kagoshima-guide) (Sakura) | ¥15,190 |
 
 **7-day pass break-even example**:
 If your 7-day itinerary includes:
@@ -133,7 +133,7 @@ After purchasing overseas, you receive an Exchange Order. **Activation** happens
 ## Seat Reservations
 
 Most Shinkansen journeys are possible without reservation (*jiyuseki* — unreserved seats), but reserved seats (*shitei seki*) are recommended for:
-- Peak travel periods (Golden Week, Obon, New Year, cherry blossom season)
+- Peak travel periods (Golden Week, Obon, New Year, [cherry blossom](/japan/cherry-blossom-guide) season)
 - Long-distance journeys (Tokyo–Osaka, Tokyo–Hokkaido)
 - Travel with children
 

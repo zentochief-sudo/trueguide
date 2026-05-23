@@ -18,9 +18,9 @@ The city's defining visual is Sakurajima: a 1,117-meter stratovolcano sitting 4 
 
 ## Getting There
 
-**From Fukuoka**: 1 hour 20 minutes by Shinkansen Mizuho to Kagoshima-Chuo Station (¥10,450). JR Pass valid.
-**From Osaka**: 3.5 hours by Nozomi/Mizuho Shinkansen (¥22,000). JR Pass valid.
-**From Tokyo**: 7 hours by Shinkansen or 2 hours by flight to Kagoshima Airport (30 min from city by bus).
+**From [Fukuoka](/japan/fukuoka-guide)**: 1 hour 20 minutes by Shinkansen Mizuho to Kagoshima-Chuo Station (¥10,450). JR Pass valid.
+**From [Osaka](/japan/osaka-guide)**: 3.5 hours by Nozomi/Mizuho Shinkansen (¥22,000). JR Pass valid.
+**From [Tokyo](/japan/tokyo-guide)**: 7 hours by Shinkansen or 2 hours by flight to Kagoshima Airport (30 min from city by bus).
 
 ---
 

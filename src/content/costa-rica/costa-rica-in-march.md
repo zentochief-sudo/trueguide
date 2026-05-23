@@ -10,19 +10,19 @@ tags: [Costa Rica, March, quetzal, dry season ending, beaches, Monteverde, Arena
 city: national
 ---
 
-March is the final month of Costa Rica's peak dry season and one of its finest for wildlife. The resplendent quetzal is nesting in the highland cloud forests — the male quetzal in full nesting plumage (with tail feathers up to 65cm long) is one of the most spectacular birds in the Western Hemisphere. The Pacific beaches are still completely reliable. The green season rains typically begin arriving in late April, making March the last month of guaranteed dry conditions and among the last weeks of peak-season pricing.
+March is the final month of [Costa Rica](/costa-rica/costa-rica-travel-guide)'s peak dry season and one of its finest for wildlife. The resplendent quetzal is nesting in the highland cloud forests — the male quetzal in full nesting plumage (with tail feathers up to 65cm long) is one of the most spectacular birds in the Western Hemisphere. The Pacific beaches are still completely reliable. The green season rains typically begin arriving in late April, making March the last month of guaranteed dry conditions and among the last weeks of peak-season pricing.
 
 ## Weather & Conditions
 
 **Guanacaste:** 26–36°C. Hot and dry. The vegetation is brown and the birds concentrate around water.
 
-**Manuel Antonio:** 25–33°C. Still dry. Excellent beach conditions.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 25–33°C. Still dry. Excellent beach conditions.
 
-**Arenal:** 22–28°C. Clear mornings common. Humidity building.
+**[Arenal](/costa-rica/arenal-guide):** 22–28°C. Clear mornings common. Humidity building.
 
 **San Gerardo de Dota (quetzal country):** 12–18°C. Cool. Cloud forest at its best.
 
-**Osa Peninsula:** 25–32°C. Driest month. Best Corcovado conditions of the year.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 25–32°C. Driest month. Best Corcovado conditions of the year.
 
 ## What to Do
 

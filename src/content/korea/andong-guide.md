@@ -22,7 +22,7 @@ What survived is the most complete preserved landscape of Joseon Confucian cultu
 
 **By KTX/train**: Seoul → Dongdaegu (Daegu) by KTX (1.5 hours), then Mugunghwa train to Andong (1.5 hours). Total: 3 hours, ₩40,000–50,000.
 
-**From Busan**: Direct bus from Busan to Andong (2.5 hours).
+**From [Busan](/korea/busan-guide)**: Direct bus from Busan to Andong (2.5 hours).
 
 **Within Andong**: Bus system covers the main sites; buses to Hahoe Village depart from the Andong Bus Terminal approximately every 30–60 minutes.
 
@@ -80,7 +80,7 @@ The comedy in the traditional performance is often directed at the yangban (aris
 
 ## Practical Notes
 
-**1-night stay**: The minimum to cover Hahoe Village and Dosan Seowon meaningfully. Day 1 — arrive Andong, Hahoe Village afternoon + evening, dinner in Andong (jjimdak). Day 2 — Dosan Seowon morning, bus back to Seoul or onward to Gyeongju.
+**1-night stay**: The minimum to cover Hahoe Village and Dosan Seowon meaningfully. Day 1 — arrive Andong, Hahoe Village afternoon + evening, dinner in Andong (jjimdak). Day 2 — Dosan Seowon morning, bus back to Seoul or onward to [Gyeongju](/korea/gyeongju-guide).
 
 **Combine with Gyeongju**: Andong and Gyeongju are 1 hour apart by bus — a natural 4-day southeast Korea cultural circuit: Seoul → Andong (2 nights) → Gyeongju (2 nights) → Busan → Seoul by KTX.
 

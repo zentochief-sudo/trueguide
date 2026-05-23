@@ -10,7 +10,7 @@ tags: [Toronto, waterfront, Harbourfront, Toronto Islands, Lake Ontario, World C
 city: toronto
 ---
 
-Toronto's relationship with Lake Ontario is central to the city's summer identity. The waterfront extends along the southern edge of the downtown core — from Humber Bay in the west past the Harbourfront Centre, BMO Field, and the ferry terminal to the Port Lands in the east. The Toronto Islands, 10 minutes offshore, provide the counter-view back toward the CN Tower that defines the city's visual identity.
+Toronto's relationship with Lake Ontario is central to the city's summer identity. The waterfront extends along the southern edge of the downtown core — from Humber Bay in the west past the Harbourfront Centre, [BMO Field](/[canada](/canada)/bmo-field-guide), and the ferry terminal to the Port Lands in the east. The Toronto Islands, 10 minutes offshore, provide the counter-view back toward the CN Tower that defines the city's visual identity.
 
 ---
 

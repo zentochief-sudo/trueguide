@@ -10,7 +10,7 @@ tags: [San Francisco, nightlife, bars, World Cup 2026, Castro, Mission, North Be
 city: sfbay
 ---
 
-San Francisco's nightlife has been reshaped over the past decade by rising rents and the pandemic — many historic venues closed, the SOMA club scene contracted, and the late-night infrastructure is thinner than it was in the 1990s and 2000s. But what remains is genuine: the Mission's bars, North Beach's old-school Italian bars, the Castro's LGBTQ+ corridor, and a handful of SOMA clubs that operate on the strength of music programming rather than size alone. The city is better experienced as a bar city than a club city.
+[San Francisco](/united-states/san-francisco-guide)'s nightlife has been reshaped over the past decade by rising rents and the pandemic — many historic venues closed, the SOMA club scene contracted, and the late-night infrastructure is thinner than it was in the 1990s and 2000s. But what remains is genuine: the Mission's bars, North Beach's old-school Italian bars, the Castro's LGBTQ+ corridor, and a handful of SOMA clubs that operate on the strength of music programming rather than size alone. The city is better experienced as a bar city than a club city.
 
 ---
 

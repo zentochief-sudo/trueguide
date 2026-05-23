@@ -10,7 +10,7 @@ tags: [Nakameguro, Tokyo, Japan, Meguro River, cherry blossoms, cafés, boutique
 city: tokyo
 ---
 
-Nakameguro is built around the Meguro River — a canal, really, about 8 meters wide — which runs through a residential valley between low hills. The canal banks were developed incrementally from the 2000s into the densest concentration of independent shops and cafés in Tokyo: not a planned shopping district but organic accumulation, one narrow building at a time, along a 2-kilometer stretch of canal path.
+Nakameguro is built around the Meguro River — a canal, really, about 8 meters wide — which runs through a residential valley between low hills. The canal banks were developed incrementally from the 2000s into the densest concentration of independent shops and cafés in [Tokyo](/japan/tokyo-guide): not a planned shopping district but organic accumulation, one narrow building at a time, along a 2-kilometer stretch of canal path.
 
 The neighborhood became globally known through two vectors: the cherry blossoms (the canal is lined with somei yoshino trees that create a tunnel of pink over the water in late March and early April) and the design/café culture (the Starbucks Reserve Roastery opened here in 2019 and confirmed what independent coffee culture had been building for a decade). Both reputations are accurate.
 
@@ -32,7 +32,7 @@ The Meguro River cherry blossoms are Tokyo's most photographed hanami location a
 
 **What makes it different from Ueno**: The scale is intimate — you are walking under the trees, at water level, rather than looking across a flat park. The reflections of the blossoms in the canal below are the defining image. The surrounding café culture means you can sit inside a warm space with a view of the blossoms.
 
-**The crowds**: During peak cherry blossom season, Nakameguro is extremely crowded — weekend evenings with the lanterns illuminating the blossoms attract tens of thousands. The most practical approach: weekday mornings (before 9am) or the first and last days of bloom, when the trees are either just opening or losing petals. The petals on the water (*hanafubuki*, flower blizzard) in the final days are particularly beautiful.
+**The crowds**: During peak [cherry blossom](/japan/cherry-blossom-guide) season, Nakameguro is extremely crowded — weekend evenings with the lanterns illuminating the blossoms attract tens of thousands. The most practical approach: weekday mornings (before 9am) or the first and last days of bloom, when the trees are either just opening or losing petals. The petals on the water (*hanafubuki*, flower blizzard) in the final days are particularly beautiful.
 
 ---
 

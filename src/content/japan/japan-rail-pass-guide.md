@@ -24,10 +24,10 @@ The Japan Rail Pass is an unlimited-use ticket for most JR (Japan Railways) trai
 - All Shinkansen routes except the Nozomi and Mizuho (the two fastest) — you use the slightly slower Hikari, which is still extremely fast
 - All JR local and express trains
 - JR buses on certain routes
-- JR ferries to Miyajima island (near Hiroshima)
+- JR ferries to [Miyajima](/japan/miyajima-guide) island (near [Hiroshima](/japan/hiroshima-guide))
 
 **What it doesn't cover:**
-- Subway systems in Tokyo, Osaka, Kyoto
+- Subway systems in [Tokyo](/japan/tokyo-guide), [Osaka](/japan/osaka-guide), [Kyoto](/japan/kyoto-guide)
 - Private rail lines (including some scenic routes)
 - The Nozomi/Mizuho Shinkansen
 - Most overnight sleeper trains (limited exceptions)
@@ -44,8 +44,8 @@ The Japan Rail Pass is an unlimited-use ticket for most JR (Japan Railways) trai
 | Kyoto → Osaka | ¥570 |
 | Osaka → Hiroshima | ¥10,440 |
 | Hiroshima → Tokyo | ¥19,440 |
-| Tokyo → Kanazawa | ¥14,120 |
-| Tokyo → Nikko (JR portion) | ¥2,700 |
+| Tokyo → [Kanazawa](/japan/kanazawa-guide) | ¥14,120 |
+| Tokyo → [Nikko](/japan/nikko-guide) (JR portion) | ¥2,700 |
 
 **Scenario A — Classic route (Tokyo → Kyoto → Osaka → Hiroshima → Tokyo):**
 Round trip value: ¥13,850 + ¥570 + ¥10,440 + ¥19,440 = **¥44,300**
@@ -100,7 +100,7 @@ Take a window seat. Look up from your phone.
 
 **Yes, if:**
 - Your itinerary includes 3+ long-distance Shinkansen routes
-- You're visiting multiple regions (Kanto + Kansai + possibly Tohoku or Kyushu)
+- You're visiting multiple regions (Kanto + Kansai + possibly [Tohoku](/japan/tohoku-guide) or Kyushu)
 - You want flexibility to take trains without worrying about cost
 
 **No, if:**

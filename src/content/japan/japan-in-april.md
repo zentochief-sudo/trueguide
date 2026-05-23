@@ -16,7 +16,7 @@ April has two distinct phases. Understanding both will determine whether your tr
 
 ## The Two Halves of April
 
-**Early–mid April (1st–19th):** Cherry blossom peak in Tokyo, Kyoto, and surrounding areas. Warm days (15–20°C), cool evenings, occasional rain. Crowds are real but manageable with planning.
+**Early–mid April (1st–19th):** [Cherry blossom](/japan/cherry-blossom-guide) peak in Tokyo, Kyoto, and surrounding areas. Warm days (15–20°C), cool evenings, occasional rain. Crowds are real but manageable with planning.
 
 **Late April (20th–30th) and into May:** Golden Week — Japan's largest holiday cluster, when much of the country travels simultaneously. Internal domestic travel surges. Major tourist sites become genuinely packed. Hotel prices double or triple.
 
@@ -34,8 +34,8 @@ As April progresses, the bloom moves north:
 | Nikko / Tohoku | Mid April |
 | Matsumoto / Japan Alps | Mid–late April |
 | Hirosaki (Aomori) | Late April |
-| Hokkaido (south) | Late April–early May |
-| Sapporo | Late April–early May |
+| [Hokkaido](/japan/hokkaido-guide) (south) | Late April–early May |
+| [Sapporo](/japan/sapporo-guide) | Late April–early May |
 
 **Hirosaki Castle in Aomori** — easily the most spectacular late-April cherry blossom site in Japan. The castle reflected in the moat, 2,600 cherry trees, and petals covering the water like snow. Less visited than Kyoto equivalents.
 
@@ -50,9 +50,9 @@ As April progresses, the bloom moves north:
 - Chidorigafuchi — canal boats under overhanging branches
 
 **To escape Tokyo crowds:**
-- Kawaguchiko (Fuji Five Lakes) — cherry blossoms with Mount Fuji as backdrop. 2 hours from Tokyo.
+- Kawaguchiko (Fuji Five Lakes) — cherry blossoms with [Mount Fuji](/japan/mount-fuji-guide) as backdrop. 2 hours from Tokyo.
 - Nikko — ornate shrines and temples surrounded by cherry and plum. 2 hours from Tokyo.
-- Kamakura — coastal town with the Great Buddha, temples, and mountain cherry trees. 1 hour from Tokyo.
+- [Kamakura](/japan/kamakura-guide) — coastal town with the Great Buddha, temples, and mountain cherry trees. 1 hour from Tokyo.
 
 **If you're based in Kyoto in April:**
 The main sites (Philosopher's Path, Maruyama Park) will be post-peak but the petal-fall (hanafubuki) is beautiful through early April. Shift focus to lesser-known temples — Daikaku-ji, Ninna-ji, and the mountain temples north of the city.
@@ -63,7 +63,7 @@ Golden Week clusters four public holidays: Showa Day (April 29), Constitution Da
 
 What this means practically:
 - Bullet train reservations sell out weeks ahead
-- Major tourist sites (Kyoto, Hakone, Nikko) reach capacity
+- Major tourist sites (Kyoto, [Hakone](/japan/hakone-guide), Nikko) reach capacity
 - Hotels in tourist areas raise prices 50–200%
 - Restaurants and services may have reduced hours or be fully booked
 
@@ -73,7 +73,7 @@ What this means practically:
 3. Rural Japan during Golden Week is often quieter than usual (urban areas empty out)
 4. Go very early or very late — 6am at Fushimi Inari is empty; noon is impassable
 
-**Best Golden Week escape:** The Kumano Kodo pilgrimage trail, the Noto Peninsula, or any rural onsen town. Domestic travelers stick to cities and theme parks; walkers inherit the countryside.
+**Best Golden Week escape:** The [Kumano Kodo](/japan/kumano-kodo-guide) pilgrimage trail, the Noto Peninsula, or any rural onsen town. Domestic travelers stick to cities and theme parks; walkers inherit the countryside.
 
 ## Weather in April
 
@@ -88,7 +88,7 @@ April has the most international tourists of any month. Combine with Japanese sp
 Specifics:
 - **Fushimi Inari, Kyoto:** queue to enter the tunnel gates by 9am. Before 7am is the only way to have any solitude.
 - **Arashiyama bamboo grove:** overrun by 9am. Go at dawn or accept the crowds.
-- **TeamLab Borderless (Tokyo):** book weeks ahead; walk-in is essentially impossible in April.
+- **[TeamLab](/japan/teamlab-guide) Borderless (Tokyo):** book weeks ahead; walk-in is essentially impossible in April.
 
 **Where crowds thin:** Side streets of Kyoto neighborhoods (Fushimi, Higashiyama old town early morning), Nara beyond the deer park, any destination more than 1 stop off the tourist circuit.
 

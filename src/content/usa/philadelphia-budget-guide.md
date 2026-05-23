@@ -10,7 +10,7 @@ tags: [Philadelphia, budget, costs, World Cup 2026, travel costs, Pennsylvania]
 city: philadelphia
 ---
 
-Philadelphia is one of the more affordable World Cup cities on the East Coast — meaningfully less expensive than New York, comparable to Boston, and with significantly lower hotel rates than either. The city's underrated food culture creates extraordinary value: Reading Terminal Market meals for $10–16, Italian Market for even less, and cheesesteaks at $13–17. Combined with a SEPTA transit system that runs directly to Lincoln Financial Field for $2.50, Philadelphia provides good value relative to the match experience it offers.
+Philadelphia is one of the more affordable World Cup cities on the East Coast — meaningfully less expensive than New York, comparable to Boston, and with significantly lower hotel rates than either. The city's underrated food culture creates extraordinary value: Reading Terminal Market meals for $10–16, Italian Market for even less, and cheesesteaks at $13–17. Combined with a SEPTA transit system that runs directly to [Lincoln Financial](/united-states/lincoln-financial-guide) Field for $2.50, Philadelphia provides good value relative to the match experience it offers.
 
 ---
 
@@ -53,7 +53,7 @@ Philadelphia is one of the more affordable World Cup cities on the East Coast �
 **$75–100/day at restaurants**:
 - One restaurant dinner (Zahav or Vernick level: $70–90) plus market meals
 
-**The genuine value case**: Philadelphia's market culture is one of the strongest in the US. Reading Terminal Market lunch for $10–16 is world-class in quality — DiNic's roast pork sandwich won a national best sandwich competition. Eating this well for this price doesn't exist at comparable quality in New York or San Francisco.
+**The genuine value case**: Philadelphia's market culture is one of the strongest in the US. Reading Terminal Market lunch for $10–16 is world-class in quality — DiNic's roast pork sandwich won a national best sandwich competition. Eating this well for this price doesn't exist at comparable quality in New York or [San Francisco](/united-states/san-francisco-guide).
 
 ---
 

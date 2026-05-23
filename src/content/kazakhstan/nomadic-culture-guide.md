@@ -10,7 +10,7 @@ tags: [Kazakhstan, nomadic culture, yurt, eagle hunting, dombra, Nauryz, steppe,
 city: almaty
 ---
 
-The Kazakh people were nomadic pastoralists for approximately 3,000 years — moving seasonally across the steppe with their livestock (horses, sheep, camels) following the grass. The nomadic lifestyle was systematically disrupted during Soviet collectivization in the 1930s (which caused a famine killing approximately one-third of the Kazakh population), and the way of life essentially ended for the majority of Kazakhs within a generation. What remains is a cultural memory that has become increasingly important as a marker of national identity in post-Soviet Kazakhstan.
+The Kazakh people were nomadic pastoralists for approximately 3,000 years — moving seasonally across the steppe with their livestock (horses, sheep, camels) following the grass. The nomadic lifestyle was systematically disrupted during Soviet collectivization in the 1930s (which caused a famine killing approximately one-third of the Kazakh population), and the way of life essentially ended for the majority of Kazakhs within a generation. What remains is a cultural memory that has become increasingly important as a marker of national identity in post-Soviet [Kazakhstan](/kazakhstan).
 
 Understanding this culture — its material objects, its traditions, its music, its relationship with the horse — enriches any visit to Kazakhstan and helps explain why a country that appears thoroughly Soviet in its cities maintains such a strong distinct identity beneath the concrete.
 
@@ -24,7 +24,7 @@ The yurt is assembled and disassembled in approximately 3 hours. The design evol
 
 **What's inside**: The interior is organized by function and gender — the right side (east, *ong zhak*) is the women's area, with cooking equipment; the left side (*sol zhak*) is the men's area, with weapons and tools. The back of the yurt (*tor*) faces the entrance and is the place of honor for guests and elders. The floor is covered with felt *shyrdaks* (decorated felt carpets made from appliqué — some of the finest craft objects in Central Asian material culture).
 
-**Where to see and stay**: Yurt camps exist throughout Kazakhstan for tourist accommodation — from organized camps in the Altai Mountains and on the Charyn Canyon rim to more authentic guesthouses in Kyrgyz-border areas. Almaty's Medeu valley has several.
+**Where to see and stay**: Yurt camps exist throughout Kazakhstan for tourist accommodation — from organized camps in the Altai Mountains and on the [Charyn Canyon](/kazakhstan/charyn-canyon-guide) rim to more authentic guesthouses in Kyrgyz-border areas. [Almaty](/kazakhstan/almaty-travel-guide)'s Medeu valley has several.
 
 ---
 

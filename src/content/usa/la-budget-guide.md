@@ -10,7 +10,7 @@ tags: [Los Angeles, budget, costs, World Cup 2026, travel costs, LA prices]
 city: la
 ---
 
-Los Angeles is not the cheapest World Cup city, and during the tournament it will be significantly more expensive than a normal June visit. Hotels near popular neighborhoods will charge 40–80% premiums for dates around match days. But unlike New York or San Francisco, LA has a functional low-cost tier for food and transport that can keep daily costs manageable for budget travelers.
+Los Angeles is not the cheapest World Cup city, and during the tournament it will be significantly more expensive than a normal June visit. Hotels near popular neighborhoods will charge 40–80% premiums for dates around match days. But unlike New York or [San Francisco](/united-states/san-francisco-guide), LA has a functional low-cost tier for food and transport that can keep daily costs manageable for budget travelers.
 
 The difference between a $90 day and a $300 day in LA often comes down to where you sleep and whether you take Metro or Uber.
 
@@ -20,7 +20,7 @@ The difference between a $90 day and a $300 day in LA often comes down to where 
 
 Accommodation is the single biggest variable in your LA budget. The World Cup premium is real — book as early as possible, ideally 3–6 months out.
 
-**Hostels**: $45–75/night in a dorm. LA has a reasonable hostel market: **USA Hostels Hollywood**, **HI Los Angeles Santa Monica**, and **Samesun Hollywood** are the established options. Dorm sizes range from 6 to 12 beds. For comparison, the same quality hostel in Tokyo costs $25–35.
+**Hostels**: $45–75/night in a dorm. LA has a reasonable hostel market: **USA Hostels [Hollywood](/united-states/hollywood-guide)**, **HI Los Angeles Santa Monica**, and **Samesun Hollywood** are the established options. Dorm sizes range from 6 to 12 beds. For comparison, the same quality hostel in Tokyo costs $25–35.
 
 **Budget hotels and motels**: $120–180/night. The motel culture along roads like **Lincoln Boulevard** (Santa Monica to Culver City), **Hollywood Boulevard** (east of Highland), and in **Koreatown** offers functional, clean accommodation at reasonable rates. These are not glamorous, but they work.
 
@@ -28,7 +28,7 @@ Accommodation is the single biggest variable in your LA budget. The World Cup pr
 
 **Airbnb**: Can be excellent value if you're traveling in a group. A two-bedroom apartment in Koreatown or Silver Lake rents for $150–200/night — split between four people, that's $40–50 per person. Parking is often included, which saves $20–25/day versus hotels.
 
-**The match-day premium**: Hotels within 5 miles of SoFi Stadium (Inglewood, Hawthorne, El Segundo) will charge the highest premiums around match dates but may be cheaper overall than Westside hotels. The tradeoff is a less convenient base for tourism.
+**The match-day premium**: Hotels within 5 miles of [SoFi Stadium](/united-states/sofi-stadium-guide) (Inglewood, Hawthorne, El Segundo) will charge the highest premiums around match dates but may be cheaper overall than Westside hotels. The tradeoff is a less convenient base for tourism.
 
 ---
 

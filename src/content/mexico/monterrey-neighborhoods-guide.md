@@ -10,7 +10,7 @@ tags: [Monterrey, neighborhoods, Barrio Antiguo, San Pedro, World Cup 2026]
 city: monterrey
 ---
 
-Monterrey is a sprawling metropolitan area of 5 million across multiple municipalities — Monterrey (the original city), San Pedro Garza García (the wealthy suburb), Guadalupe (where Estadio BBVA is located), San Nicolás de los Garza, and others. For World Cup visitors, the practical area concentrates on three zones: Centro/Barrio Antiguo, San Pedro Garza García, and Colonia Obispado.
+Monterrey is a sprawling metropolitan area of 5 million across multiple municipalities — Monterrey (the original city), San Pedro Garza García (the wealthy suburb), Guadalupe (where [Estadio BBVA](/[mexico](/mexico)/estadio-bbva-guide) is located), San Nicolás de los Garza, and others. For World Cup visitors, the practical area concentrates on three zones: Centro/Barrio Antiguo, San Pedro Garza García, and Colonia Obispado.
 
 ---
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Costa Rica packs extraordinary biodiversity into a country the size of West Virginia. Seven days gives you the iconic arc: the volcano and hot springs of Arenal, the cloud forest of Monteverde, and one of the country's extraordinary coastlines. "Pura Vida" — pure life — is the national phrase, and you'll understand why.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) packs extraordinary biodiversity into a country the size of West Virginia. Seven days gives you the iconic arc: the volcano and hot springs of [Arenal](/costa-rica/arenal-guide), the cloud forest of [Monteverde](/costa-rica/monteverde-guide), and one of the country's extraordinary coastlines. "Pura Vida" — pure life — is the national phrase, and you'll understand why.
 
 ## Day 1 – San José: Arrival
 
@@ -54,7 +54,7 @@ Consider a 2.5-hour evening guided canopy tour — Monteverde's hanging bridges 
 
 Drive southwest to the Pacific Coast (4–5 hours from Monteverde). Two options:
 
-**Manuel Antonio (recommended for wildlife):** A small national park on a peninsula where rainforest meets Pacific beach. Squirrel monkeys, capuchin monkeys, sloths, white-tipped sharks offshore, and some of Costa Rica's finest beaches. The park is small — easier to cover fully in one afternoon.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide) (recommended for wildlife):** A small national park on a peninsula where rainforest meets Pacific beach. Squirrel monkeys, capuchin monkeys, sloths, white-tipped sharks offshore, and some of Costa Rica's finest beaches. The park is small — easier to cover fully in one afternoon.
 
 **Tamarindo (recommended for surf):** Costa Rica's most developed surf beach in Guanacaste — surf schools, beach bars, restaurants, and consistent year-round waves. Better for nightlife and the social beach scene.
 

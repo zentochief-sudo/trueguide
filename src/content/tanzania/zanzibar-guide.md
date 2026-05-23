@@ -10,7 +10,7 @@ tags: [Zanzibar, Stone Town, Tanzania, beaches, spice island, Freddie Mercury, U
 city: zanzibar
 ---
 
-Zanzibar is an archipelago off the Tanzanian coast — a semi-autonomous region within Tanzania consisting of Unguja (the main island, commonly called "Zanzibar") and Pemba. For centuries it was the hub of the Indian Ocean spice trade and, more darkly, the East African slave trade — both histories visible in the physical fabric of Stone Town, its ancient capital. Today it's the beach-and-culture addendum to a Tanzania safari, or a standalone Indian Ocean island destination.
+Zanzibar is an archipelago off the Tanzanian coast — a semi-autonomous region within [Tanzania](/tanzania) consisting of Unguja (the main island, commonly called "Zanzibar") and Pemba. For centuries it was the hub of the Indian Ocean spice trade and, more darkly, the East African slave trade — both histories visible in the physical fabric of Stone Town, its ancient capital. Today it's the beach-and-culture addendum to a Tanzania safari, or a standalone Indian Ocean island destination.
 
 ---
 
@@ -61,7 +61,7 @@ Zanzibar was called the "Spice Island" for its production of cloves, nutmeg, cin
 
 ## Combining Zanzibar with a Safari
 
-The classic Tanzania trip — 5–7 days safari (Serengeti, Ngorongoro, Tarangire) + 3–5 days Zanzibar — is one of the best travel combinations available. The transition from the red dust of the northern plains to the Indian Ocean coast in 45 minutes (Kilimanjaro Airport to Zanzibar by short-haul flight) is genuinely jarring in the best possible way.
+The classic Tanzania trip — 5–7 days safari (Serengeti, [Ngorongoro](/tanzania/ngorongoro-guide), [Tarangire](/tanzania/tarangire-guide)) + 3–5 days Zanzibar — is one of the best travel combinations available. The transition from the red dust of the northern plains to the Indian Ocean coast in 45 minutes ([Kilimanjaro](/tanzania/kilimanjaro-guide) Airport to Zanzibar by short-haul flight) is genuinely jarring in the best possible way.
 
 **Flights**: Multiple daily flights between Kilimanjaro (JRO) and Zanzibar (ZNZ) on Precision Air and Coastal Aviation. ~1 hour, ~$100–150 one way.
 
@@ -71,7 +71,7 @@ The classic Tanzania trip — 5–7 days safari (Serengeti, Ngorongoro, Tarangir
 
 ## Practical Notes
 
-**Getting to Zanzibar**: Flights from Dar es Salaam (20 min, multiple daily), Kilimanjaro (1 hour), Nairobi (1.5 hours), and international connections via Nairobi or Dar es Salaam.
+**Getting to Zanzibar**: Flights from [Dar es Salaam](/tanzania/dar-es-salaam-guide) (20 min, multiple daily), Kilimanjaro (1 hour), Nairobi (1.5 hours), and international connections via Nairobi or Dar es Salaam.
 
 **Currency**: Tanzanian Shilling (TZS). USD widely accepted. Cards accepted at most tourist hotels; cash essential in Stone Town markets.
 

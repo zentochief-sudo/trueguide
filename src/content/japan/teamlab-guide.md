@@ -10,7 +10,7 @@ tags: [teamLab, Tokyo, Japan, Borderless, Planets, Toyosu, Azabudai Hills, immer
 city: tokyo
 ---
 
-teamLab is a Tokyo-based interdisciplinary art collective that creates large-scale digital art installations where projected light, sound, and motion-tracking technology produce environments that respond to visitors' presence. The work is simultaneously accessible to mass audiences and technically sophisticated — installations that non-art visitors find beautiful and that serious art audiences find conceptually interesting.
+teamLab is a [Tokyo](/japan/tokyo-guide)-based interdisciplinary art collective that creates large-scale digital art installations where projected light, sound, and motion-tracking technology produce environments that respond to visitors' presence. The work is simultaneously accessible to mass audiences and technically sophisticated — installations that non-art visitors find beautiful and that serious art audiences find conceptually interesting.
 
 The two main Tokyo venues are genuinely different experiences despite the overlapping aesthetic. Understanding the difference before booking determines which to prioritize.
 

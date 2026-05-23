@@ -10,7 +10,7 @@ tags: [Venice, Milan, day trip, Piazza San Marco, Rialto, Grand Canal, vaporetto
 city: milan
 ---
 
-Venice is 2.5 hours from Milan on the Frecciarossa — fast enough to be a day trip, far enough to feel like a journey. A single day in Venice is not sufficient to absorb the city properly, but it's enough to see the essential: the Grand Canal by vaporetto, Piazza San Marco at dawn when it's empty, the Rialto Bridge, and the discovery that Venice is simultaneously the most beautiful and most exhausted city in Europe.
+Venice is 2.5 hours from [Milan](/italy/milan-travel-guide) on the Frecciarossa — fast enough to be a day trip, far enough to feel like a journey. A single day in Venice is not sufficient to absorb the city properly, but it's enough to see the essential: the Grand Canal by vaporetto, Piazza San Marco at dawn when it's empty, the Rialto Bridge, and the discovery that Venice is simultaneously the most beautiful and most exhausted city in Europe.
 
 For visitors based in Milan or en route to Cortina, the day trip logic is straightforward — depart early from Milano Centrale, arrive in Venice Santa Lucia by 9 AM, and be back in Milan by 9 PM.
 
@@ -20,7 +20,7 @@ For visitors based in Milan or en route to Cortina, the day trip logic is straig
 
 **Train**: Trenitalia Frecciarossa from Milano Centrale to Venezia Santa Lucia, approximately every 30 minutes. Journey: 2 hours 15 minutes. Fares: €15–45 depending on class and booking lead time. Book at trenitalia.com.
 
-**Arriving at Santa Lucia**: The main Venice train station deposits you directly at the Grand Canal. The view from the station steps — the Grand Canal before you, boats and buildings — is the best possible arrival in Italy.
+**Arriving at Santa Lucia**: The main Venice train station deposits you directly at the Grand Canal. The view from the station steps — the Grand Canal before you, boats and buildings — is the best possible arrival in [Italy](/italy).
 
 ---
 

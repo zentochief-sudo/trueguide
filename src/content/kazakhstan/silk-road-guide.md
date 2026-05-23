@@ -10,9 +10,9 @@ tags: [Kazakhstan, Silk Road, Turkestan, Khoja Ahmed Yasawi, Otrar, UNESCO, anci
 city: almaty
 ---
 
-The Silk Road wasn't a single road — it was a network of trade routes connecting China to the Mediterranean, threading through the steppes and oases of Central Asia for approximately 1,500 years (roughly 200 BCE to 1450 CE). The routes through what is now southern Kazakhstan were among the most heavily trafficked sections, connecting the oasis cities of Samarkand and Bukhara (now Uzbekistan) northward across the steppe toward the Volga and east toward the Tarim Basin.
+The Silk Road wasn't a single road — it was a network of trade routes connecting China to the Mediterranean, threading through the steppes and oases of Central Asia for approximately 1,500 years (roughly 200 BCE to 1450 CE). The routes through what is now southern [Kazakhstan](/kazakhstan) were among the most heavily trafficked sections, connecting the oasis cities of Samarkand and Bukhara (now Uzbekistan) northward across the steppe toward the Volga and east toward the Tarim Basin.
 
-The surviving monuments are concentrated in southern Kazakhstan — the UNESCO-listed Mausoleum of Khoja Ahmed Yasawi in Turkestan, the ruins of Otrar (the city whose destruction triggered Genghis Khan's invasion of Central Asia), and the older foundations of Taraz. These are destinations for travelers interested in the specific history of the Silk Road; they're not on the standard Almaty-Astana tourist circuit but reward the detour significantly.
+The surviving monuments are concentrated in southern Kazakhstan — the UNESCO-listed Mausoleum of Khoja Ahmed Yasawi in Turkestan, the ruins of Otrar (the city whose destruction triggered Genghis Khan's invasion of Central Asia), and the older foundations of Taraz. These are destinations for travelers interested in the specific history of the Silk Road; they're not on the standard [Almaty](/kazakhstan/almaty-travel-guide)-[Astana](/kazakhstan/astana-guide) tourist circuit but reward the detour significantly.
 
 ---
 
@@ -51,7 +51,7 @@ The ruins of Otrar are one of the most historically significant archaeological s
 
 **The site**: Otrar is a large tell (archaeological mound) — the accumulated debris of 2,000 years of continuous habitation. Excavations have revealed the Silk Road trading city in substantial detail: caravanserais, workshops, mosques, and private houses. The archaeological museum at the site (modest but informative) covers the excavation history.
 
-**Accessibility**: The site is accessible by road from Turkestan or Shymkent (130 km from Shymkent). No public transport; a rental car or arranged tour from Turkestan is required.
+**Accessibility**: The site is accessible by road from Turkestan or [Shymkent](/kazakhstan/shymkent-guide) (130 km from Shymkent). No public transport; a rental car or arranged tour from Turkestan is required.
 
 ---
 

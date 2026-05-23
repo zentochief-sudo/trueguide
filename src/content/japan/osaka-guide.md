@@ -10,11 +10,11 @@ tags: [Osaka, Japan, Dotonbori, food, takoyaki, kushikatsu, Namba, Shinsekai, ni
 city: osaka
 ---
 
-There is a Japanese expression — *kuidaore* — that means "to ruin yourself by eating." Osaka claims it as a civic identity. The city has a long reputation as Japan's food capital, the place where merchants settled after trading elsewhere and brought money, appetite, and a disinclination toward the austerity that defines Tokyo or the refinement that defines Kyoto.
+There is a Japanese expression — *kuidaore* — that means "to ruin yourself by eating." Osaka claims it as a civic identity. The city has a long reputation as Japan's food capital, the place where merchants settled after trading elsewhere and brought money, appetite, and a disinclination toward the austerity that defines [Tokyo](/japan/tokyo-guide) or the refinement that defines [Kyoto](/japan/kyoto-guide).
 
 Osaka people are different. They talk more, laugh louder, and express more direct opinions than the national stereotype suggests. Ask someone for directions in Tokyo and they will apologetically send you to an information center. Ask in Osaka and they will walk you there while explaining why the first three streets you'll pass are worth knowing about.
 
-Two days minimum. Three if you want to explore Osaka alongside a day trip to Nara.
+Two days minimum. Three if you want to explore Osaka alongside a day trip to [Nara](/japan/nara-guide).
 
 ---
 
@@ -70,7 +70,7 @@ The area around Shinsekai at night has pachinkos, tachinomi (standing drinking) 
 
 ## Osaka Castle
 
-The castle is a 1931 concrete reconstruction of a 16th-century original (itself a replacement — the original was burned). The reconstruction is not architecturally significant. The park around it is, however, very large and very good — especially during cherry blossom season when it becomes one of the best viewing spots in the Kansai region.
+The castle is a 1931 concrete reconstruction of a 16th-century original (itself a replacement — the original was burned). The reconstruction is not architecturally significant. The park around it is, however, very large and very good — especially during [cherry blossom](/japan/cherry-blossom-guide) season when it becomes one of the best viewing spots in the Kansai region.
 
 The castle's **historical content** is substantial: the museum inside covers the life of Toyotomi Hideyoshi, the warlord who built the original in 1583, in detail. Allow 90 minutes if the history interests you.
 
@@ -82,7 +82,7 @@ The castle's **historical content** is substantial: the museum inside covers the
 
 **Nara**: 45 minutes by Kintetsu Nara line. The deer, the giant Buddha, the ancient temples. See the Kyoto guide for detail on the deer park and Todai-ji temple.
 
-**Kobe**: 30 minutes by Hankyu or JR from Osaka. The port city with the best beef in Japan. Kobe beef is a specific breed (Tajima cattle, raised in Hyogo Prefecture) — the best preparation is a simple steak at a restaurant near the Kitano ijinkan district, where European merchants built Victorian houses during the Meiji period.
+**[Kobe](/japan/kobe-guide)**: 30 minutes by Hankyu or JR from Osaka. The port city with the best beef in Japan. Kobe beef is a specific breed (Tajima cattle, raised in Hyogo Prefecture) — the best preparation is a simple steak at a restaurant near the Kitano ijinkan district, where European merchants built Victorian houses during the Meiji period.
 
 **Minoo Park**: 30 minutes from Umeda on the Hankyu Minoo line. A forested valley with a waterfall 33 meters high. The path along the river is 2.5km each way through maple and cedar. Worth knowing: the local specialty is fried maple leaves (momiji no tempura), which exists in the ambiguous space between snack and curiosity.
 
@@ -106,7 +106,7 @@ The castle's **historical content** is substantial: the museum inside covers the
 
 **Safety**: Osaka is extremely safe. Shinsekai and the areas around Namba at night are rougher by Japanese standards but present no significant hazard by any international measure.
 
-**From Osaka to Hiroshima**: 90 minutes by shinkansen (Nozomi). One of the more efficient ways to structure a Western Japan itinerary: Osaka + Kyoto for 3–4 days, then Hiroshima + Miyajima for 1–2 days, before continuing to Fukuoka or returning east.
+**From Osaka to [Hiroshima](/japan/hiroshima-guide)**: 90 minutes by shinkansen (Nozomi). One of the more efficient ways to structure a Western Japan itinerary: Osaka + Kyoto for 3–4 days, then Hiroshima + [Miyajima](/japan/miyajima-guide) for 1–2 days, before continuing to [Fukuoka](/japan/fukuoka-guide) or returning east.
 
 ---
 

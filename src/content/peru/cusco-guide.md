@@ -18,12 +18,12 @@ At 3,400 m, Cusco requires 1–2 days of acclimatization before heavy activity. 
 
 ## Altitude Acclimatization
 
-Arriving in Cusco from Lima or directly from abroad involves a jump from sea level to 3,400 m. Symptoms: headache, fatigue, shortness of breath, nausea. Management:
+Arriving in Cusco from [Lima](/peru/lima-guide) or directly from abroad involves a jump from sea level to 3,400 m. Symptoms: headache, fatigue, shortness of breath, nausea. Management:
 
-- **Coca leaves and coca tea**: The traditional Andean remedy — available everywhere in Cusco, including at hotels. Chewed or brewed as *maté de coca*, they genuinely reduce altitude symptoms. Legal in Peru (coca cultivation is legal; cocaine processing is not)
+- **Coca leaves and coca tea**: The traditional Andean remedy — available everywhere in Cusco, including at hotels. Chewed or brewed as *maté de coca*, they genuinely reduce altitude symptoms. Legal in [Peru](/peru) (coca cultivation is legal; cocaine processing is not)
 - **Sorojchi pills (acetazolamide)**: Available over the counter in Peru; taken 24 hours before arrival. Reduces fluid retention associated with altitude
 - **Rest on day 1**: Walk slowly; avoid alcohol and heavy food for the first 24 hours
-- **Ascent strategy**: Spend at least 1 night in Cusco before visiting higher-altitude sites (Sacsayhuamán, 3,700 m). Visit Machu Picchu (2,430 m) before Cusco if altitude is a concern
+- **Ascent strategy**: Spend at least 1 night in Cusco before visiting higher-altitude sites (Sacsayhuamán, 3,700 m). Visit [Machu Picchu](/peru/machu-picchu-guide) (2,430 m) before Cusco if altitude is a concern
 
 ---
 
@@ -61,6 +61,6 @@ The neighborhood above the Plaza de Armas — the artisan and craft district, wi
 
 ## Practical Notes
 
-- **Boleto Turístico (Tourist Ticket)**: $70 for 10 days — covers Sacsayhuamán, Qenqo, Puca Pucara, Tambomachay, and sites in the Sacred Valley. Buy at the cultural tourism office (DIRCETUR) on Av. El Sol or at covered sites
+- **Boleto Turístico (Tourist Ticket)**: $70 for 10 days — covers Sacsayhuamán, Qenqo, Puca Pucara, Tambomachay, and sites in the [Sacred Valley](/peru/sacred-valley-guide). Buy at the cultural tourism office (DIRCETUR) on Av. El Sol or at covered sites
 - **Getting to Cusco**: Lima–Cusco flights (1.5 hours, $50–120); StarPerú, LatAm, and Avianca operate multiple daily frequencies
 - **Accommodation**: San Blas for the most atmospheric (independent guesthouses in colonial buildings); Belmond Hotel Monasterio (a converted 16th-century monastery) for the luxury version

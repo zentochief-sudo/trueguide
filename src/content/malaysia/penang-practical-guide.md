@@ -10,7 +10,7 @@ tags: [Penang, Malaysia, practical, transport, CAT bus, ferry, George Town, budg
 city: penang
 ---
 
-Penang is one of Southeast Asia's most effortlessly navigable destinations — a small island connected to the mainland by a bridge and ferry, with a heritage city core that's entirely walkable, a well-functioning bus system for the rest of the island, and the universal availability of Grab for anything between. This guide covers the practical logistics for independent visitors.
+[Penang](/malaysia/penang-travel-guide) is one of Southeast Asia's most effortlessly navigable destinations — a small island connected to the mainland by a bridge and ferry, with a heritage city core that's entirely walkable, a well-functioning bus system for the rest of the island, and the universal availability of Grab for anything between. This guide covers the practical logistics for independent visitors.
 
 ---
 
@@ -20,9 +20,9 @@ Penang is one of Southeast Asia's most effortlessly navigable destinations — a
 
 **By bus**: Multiple operators (Aeroline, Transnasional, CatchThatBus) from KL TBS to Sungai Nibong bus terminal on Penang island. 5 hours; cheaper than the train.
 
-**By air**: Penang International Airport (PEN) — 45-minute flights from KL on AirAsia, Malaysia Airlines, Batik Air. Regular flights from Singapore, Bangkok, Taipei, and several Chinese cities.
+**By air**: Penang International Airport (PEN) — 45-minute flights from KL on AirAsia, [Malaysia](/malaysia) Airlines, Batik Air. Regular flights from Singapore, Bangkok, Taipei, and several Chinese cities.
 
-**Penang International Airport to George Town**: Grab (15–20 minutes, RM20–35) or RapidPenang bus 401 (45 minutes, RM4).
+**Penang International Airport to [George Town](/malaysia/george-town-guide)**: Grab (15–20 minutes, RM20–35) or RapidPenang bus 401 (45 minutes, RM4).
 
 ---
 
@@ -73,7 +73,7 @@ Penang is excellent value:
 
 ## Combining Penang with Langkawi
 
-The ferry from Georgetown to Langkawi (Langkawi Cruise and Ceria Express operate the route) takes 2.75 hours and costs approximately RM75–85 one way. Ferries depart from Swettenham Pier in Georgetown 1–2 times daily. The Penang-Langkawi combination is the standard Malaysian island pairing — heritage city + beach island in a single trip.
+The ferry from Georgetown to [Langkawi](/malaysia/langkawi-guide) (Langkawi Cruise and Ceria Express operate the route) takes 2.75 hours and costs approximately RM75–85 one way. Ferries depart from Swettenham Pier in Georgetown 1–2 times daily. The Penang-Langkawi combination is the standard Malaysian island pairing — heritage city + beach island in a single trip.
 
 ---
 

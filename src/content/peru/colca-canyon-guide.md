@@ -18,7 +18,7 @@ The gateway city is Arequipa (the "White City," built from white sillar volcanic
 
 ## Arequipa
 
-The base for Colca Canyon — a city of 1 million at 2,335 m (lower than Cusco, good for acclimatization) with exceptional colonial architecture:
+The base for Colca Canyon — a city of 1 million at 2,335 m (lower than [Cusco](/[peru](/peru)/cusco-guide), good for acclimatization) with exceptional colonial architecture:
 
 **Plaza de Armas**: The finest colonial plaza in Peru — the Cathedral (1844, the largest in Peru, with twin towers flanking the full width of the plaza) and the Compañía de Jesús (1698, the most elaborate Baroque facade in Peru) face each other across the square.
 
@@ -63,4 +63,4 @@ The Colca Valley walls are among the most extensively terraced agricultural land
 - **Getting to Colca**: Most visitors join 2-day organized tours from Arequipa (S/150–250 including transport, accommodation, guide, and entry fees). Self-driving is possible; public buses run from Arequipa to Chivay (S/10, 3 hours)
 - **Entry fee**: Canyon entry fee S/70 (Boleto Turístico Colca, valid 2 days) — paid at a control point on the road from Chivay to Cruz del Condor
 - **Best time**: May–September (dry season) for clearest condor sightings and trekking conditions. The canyon can be visited year-round; January–March (wet season) has fewer condors visible
-- **From Cusco**: Arequipa is 5.5 hours from Cusco by road or 1 hour by flight — the Cusco–Arequipa–Colca–Lima circuit is a logical Peru itinerary extension
+- **From Cusco**: Arequipa is 5.5 hours from Cusco by road or 1 hour by flight — the Cusco–Arequipa–Colca–[Lima](/peru/lima-guide) circuit is a logical Peru itinerary extension

@@ -20,7 +20,7 @@ Houston is surrounded by the Gulf Coast plain — flat, industrial on the outski
 **Driving time**: 50–70 minutes  
 **Best for**: Half-day beach + dinner
 
-Galveston is a barrier island in the Gulf of Mexico connected to the mainland by a causeway. The beach is brown-sand Gulf Coast (Mississippi sediment colors the Gulf waters), warm (28–30°C in summer), and genuinely pleasant for swimming. The **Seawall Boulevard** runs along the beach front with restaurants, hotels, and the particular atmosphere of a Texas Gulf resort town.
+Galveston is a barrier island in the Gulf of [Mexico](/mexico) connected to the mainland by a causeway. The beach is brown-sand Gulf Coast (Mississippi sediment colors the Gulf waters), warm (28–30°C in summer), and genuinely pleasant for swimming. The **Seawall Boulevard** runs along the beach front with restaurants, hotels, and the particular atmosphere of a Texas Gulf resort town.
 
 **The Strand Historic District**: A preserved Victorian commercial district inland from the beach — cast-iron facade buildings from the 1880s, boutique shops, restaurants, and bars. The neighborhood survived the catastrophic 1900 hurricane (which killed 6,000+ people and remains the deadliest natural disaster in US history) through luck of location.
 

@@ -20,13 +20,13 @@ This guide is for the direction that matters.
 
 Los Angeles is not a city where fine dining defines the culture. The defining food experiences here are informal: a taco truck parked on a residential block, a Korean BBQ table with a built-in grill, a Japanese noodle shop in a strip mall in Torrance that has a 45-minute queue at noon on a Tuesday.
 
-The most common mistake visitors make is eating within a 500-meter radius of their hotel. If your hotel is in Hollywood, Santa Monica, or Beverly Hills, that 500-meter radius is full of overpriced restaurants that exist because tourists don't know better. Walk further, take Metro one stop east, and the city opens up.
+The most common mistake visitors make is eating within a 500-meter radius of their hotel. If your hotel is in [Hollywood](/united-states/hollywood-guide), Santa Monica, or Beverly Hills, that 500-meter radius is full of overpriced restaurants that exist because tourists don't know better. Walk further, take Metro one stop east, and the city opens up.
 
 ---
 
 ## Tacos
 
-This is the category where LA is genuinely unrivaled outside of Mexico. The city has a Mexican population of roughly 4 million and a street food culture that dates back decades.
+This is the category where LA is genuinely unrivaled outside of [Mexico](/mexico). The city has a Mexican population of roughly 4 million and a street food culture that dates back decades.
 
 **The basics**: A proper LA taco costs $3–5. It is served on two small corn tortillas with meat, cilantro, onion, and your choice of salsa. It comes from a truck or a taqueria with plastic chairs, not a restaurant with table service. If it costs $14 and has microgreens on it, you are in the wrong place.
 

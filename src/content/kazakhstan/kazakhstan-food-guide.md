@@ -10,19 +10,19 @@ tags: [Kazakhstan, food, beshbarmak, plov, Central Asian cuisine, Almaty, shashl
 city: almaty
 ---
 
-Kazakh cuisine is built around two historical facts: a nomadic herding culture with access to abundant livestock but limited grain and vegetables, and a Silk Road position that brought rice, spices, dried fruit, and cooking techniques from Uzbekistan, Persia, and China. The result is a food culture where meat is central, bread is sacred, and the hospitality traditions around communal eating are deeply embedded in how meals work.
+Kazakh cuisine is built around two historical facts: a nomadic herding culture with access to abundant livestock but limited grain and vegetables, and a [Silk Road](/kazakhstan/silk-road-guide) position that brought rice, spices, dried fruit, and cooking techniques from Uzbekistan, Persia, and China. The result is a food culture where meat is central, bread is sacred, and the hospitality traditions around communal eating are deeply embedded in how meals work.
 
 ---
 
 ## The Essential Dishes
 
 ### Beshbarmak
-The national dish of Kazakhstan — literally "five fingers" in Kazakh, eaten traditionally with the hands. Boiled lamb or horse meat, served on wide, flat pasta sheets, with onion sauce and broth. The broth (shorpa) is served separately as a drinking soup. Beshbarmak is a ceremonial food — prepared for Nauryz (Kazakh New Year), weddings, funerals, and occasions of importance. The piece of meat given to each guest communicates their status (the sheep's head, which has the best flavor, goes to the most honored guest).
+The national dish of [Kazakhstan](/kazakhstan) — literally "five fingers" in Kazakh, eaten traditionally with the hands. Boiled lamb or horse meat, served on wide, flat pasta sheets, with onion sauce and broth. The broth (shorpa) is served separately as a drinking soup. Beshbarmak is a ceremonial food — prepared for Nauryz (Kazakh New Year), weddings, funerals, and occasions of importance. The piece of meat given to each guest communicates their status (the sheep's head, which has the best flavor, goes to the most honored guest).
 
-Where to eat it: Any traditional Kazakhstani restaurant serves beshbarmak. In Almaty, dedicated beshbarmak restaurants (called "chaikana" or traditional Kazakh restaurants) prepare it to order. Expect to pay KZT 3,000–6,000 per portion.
+Where to eat it: Any traditional Kazakhstani restaurant serves beshbarmak. In [Almaty](/kazakhstan/almaty-travel-guide), dedicated beshbarmak restaurants (called "chaikana" or traditional Kazakh restaurants) prepare it to order. Expect to pay KZT 3,000–6,000 per portion.
 
 ### Plov
-The great dish of Silk Road Central Asia — rice slow-cooked in lamb fat with carrots, onions, and lamb, served from a kazan (a large cast-iron cauldron). Uzbek plov and Kazakh plov differ in their proportions of rice to meat and the additional ingredients used (quince, dried barberries, and chickpeas are common Kazakhstani additions). The Shymkent and southern Kazakhstan version is closer to Uzbek plov; Almaty's version has its own character.
+The great dish of Silk Road Central Asia — rice slow-cooked in lamb fat with carrots, onions, and lamb, served from a kazan (a large cast-iron cauldron). Uzbek plov and Kazakh plov differ in their proportions of rice to meat and the additional ingredients used (quince, dried barberries, and chickpeas are common Kazakhstani additions). The [Shymkent](/kazakhstan/shymkent-guide) and southern Kazakhstan version is closer to Uzbek plov; Almaty's version has its own character.
 
 Where to eat it: Bazaars and chaikhana restaurants. The Green Bazaar in Almaty has plov stalls from early morning. In Shymkent, the Baydibek Bazaar plov cooks serve directly from the kazan.
 

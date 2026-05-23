@@ -10,13 +10,13 @@ tags: [Portugal, February, Carnival, Torres Vedras, almond blossom, Algarve, sur
 city: national
 ---
 
-February is Portugal's Carnival month — and Portugal's Carnival, particularly in Torres Vedras north of Lisbon, is the most politically satirical street festival in the country. The Algarve's almond blossom season reaches its peak in February, turning the inland valleys white and pink. Atlantic swell delivers the biggest surf of the year to the coast north of Lisbon and to Sagres. And prices remain at winter lows. February rewards travelers who come for specific reasons rather than general beach tourism.
+February is [Portugal](/portugal)'s Carnival month — and Portugal's Carnival, particularly in Torres Vedras north of [Lisbon](/portugal/lisbon-guide), is the most politically satirical street festival in the country. The [Algarve](/portugal/algarve-guide)'s almond blossom season reaches its peak in February, turning the inland valleys white and pink. Atlantic swell delivers the biggest surf of the year to the coast north of Lisbon and to Sagres. And prices remain at winter lows. February rewards travelers who come for specific reasons rather than general beach tourism.
 
 ## Weather in February
 
 **Lisbon:** 10°C to 16°C. Slightly warmer than January on average. Rain continues but the light days lengthen noticeably. February can produce warm, clear spells that feel like early spring.
 
-**Porto:** 8°C to 14°C. Still cool and often rainy. The Douro valley can produce clear, cold days with dramatic light.
+**[Porto](/portugal/porto-guide):** 8°C to 14°C. Still cool and often rainy. The [Douro valley](/portugal/douro-valley-guide) can produce clear, cold days with dramatic light.
 
 **Algarve:** 13°C to 18°C. The warmest February in Portugal. Almond blossom season peaks — the inland valleys near Silves, Loulé, and São Brás de Alportel are at their most beautiful.
 

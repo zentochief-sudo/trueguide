@@ -10,7 +10,7 @@ tags: [Greenland, East Greenland, Tasiilaq, Scoresby Sound, remote travel, exped
 city: nuuk
 ---
 
-East Greenland is defined by what it doesn't have: roads connecting any of its settlements, a rail network, crowds, cell coverage in most areas, or any logical reason to be there unless you specifically want wilderness. What it does have — fjords deeper and steeper than anything on the west coast, mountains that descend directly into sea ice, polar bear territory across most of the land, and a human community (the town of Tasiilaq, population ~2,000) that is among the most isolated permanently inhabited places on the planet — is precisely why serious wilderness travelers come.
+East [Greenland](/greenland) is defined by what it doesn't have: roads connecting any of its settlements, a rail network, crowds, cell coverage in most areas, or any logical reason to be there unless you specifically want wilderness. What it does have — fjords deeper and steeper than anything on the west coast, mountains that descend directly into sea ice, polar bear territory across most of the land, and a human community (the town of Tasiilaq, population ~2,000) that is among the most isolated permanently inhabited places on the planet — is precisely why serious wilderness travelers come.
 
 The region has two main entry points: Tasiilaq on the southeast coast and Ittoqqortoormiit (Scoresbysund) on the central east coast, near Scoresby Sound.
 
@@ -20,12 +20,12 @@ The region has two main entry points: Tasiilaq on the southeast coast and Ittoqq
 
 The largest community on East Greenland's coast and the base for most tourism in the region. Tasiilaq sits in a deep-cut fjord — the Ammassalik Fjord — surrounded by steep rock walls. The town has a distinctive compressed verticality: buildings step up the hillside in staggered rows, with the hospital, church, and school visible from almost anywhere in town.
 
-**Getting there**: Air Greenland flights from Reykjavik (direct, year-round) and from Nuuk via Kulusuk. The airstrip is on Kulusuk island, 20 minutes by helicopter from Tasiilaq (included in the flight package). The Reykjavik–Kulusuk flight is 2.5 hours — closer to Iceland than to West Greenland.
+**Getting there**: Air Greenland flights from Reykjavik (direct, year-round) and from [Nuuk](/greenland/nuuk-travel-guide) via Kulusuk. The airstrip is on Kulusuk island, 20 minutes by helicopter from Tasiilaq (included in the flight package). The Reykjavik–Kulusuk flight is 2.5 hours — closer to Iceland than to West Greenland.
 
 **What to do**:
 - Guided wilderness day hikes into the mountains above the fjord
 - Sea kayaking through fjord ice (June–September)
-- Dog sledding on fjord ice (February–April)
+- [Dog sledding](/greenland/dog-sledding-guide) on fjord ice (February–April)
 - Cultural visits to the local museum and community center
 - Boat trips to surrounding villages and abandoned settlement ruins
 

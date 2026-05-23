@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Pakistan is one of the world's most misunderstood travel destinations — and, for those who go, one of the most rewarding. The hospitality is extraordinary, the landscapes rank among the finest on earth, and the Mughal heritage of Lahore rivals anything in South Asia. Seven days gives you the city, the highway, and the mountains.
+[Pakistan](/pakistan) is one of the world's most misunderstood travel destinations — and, for those who go, one of the most rewarding. The hospitality is extraordinary, the landscapes rank among the finest on earth, and the Mughal heritage of [Lahore](/pakistan/lahore-guide) rivals anything in South Asia. Seven days gives you the city, the highway, and the mountains.
 
 ## Day 1 – Lahore: Old City
 
@@ -38,9 +38,9 @@ Explore Gilgit bazaar — a frontier town feel with traders from Central Asia, W
 
 ## Day 4 – Karakoram Highway to Hunza
 
-Drive north from Gilgit on the **Karakoram Highway** (KKH) — one of the world's most extraordinary roads, cut through the Karakoram mountains by Chinese and Pakistani engineers between 1959 and 1979. At 4,693m at Khunjerab Pass, it's the world's highest paved international border crossing.
+Drive north from Gilgit on the **[Karakoram Highway](/pakistan/karakoram-highway-guide)** (KKH) — one of the world's most extraordinary roads, cut through the Karakoram mountains by Chinese and Pakistani engineers between 1959 and 1979. At 4,693m at Khunjerab Pass, it's the world's highest paved international border crossing.
 
-The drive to **Hunza Valley** (2.5 hours from Gilgit) passes through dramatic gorges with the Hunza River below and mountain walls rising on either side. Stop at **Rakaposhi Viewpoint** for views of Rakaposhi (7,788m) rising directly from the valley floor — one of the most dramatic single mountain rises in the world.
+The drive to **[Hunza Valley](/pakistan/hunza-valley-guide)** (2.5 hours from Gilgit) passes through dramatic gorges with the Hunza River below and mountain walls rising on either side. Stop at **Rakaposhi Viewpoint** for views of Rakaposhi (7,788m) rising directly from the valley floor — one of the most dramatic single mountain rises in the world.
 
 **Hunza Valley** (2,438m) — a valley of terraced apricot orchards, ancient forts, and impossible mountain views. Baltit Fort above Karimabad dominates the valley with 700 years of history and views of four 7,000m+ peaks.
 
@@ -62,7 +62,7 @@ Return to Karimabad for the night.
 
 ## Day 7 – Return to Gilgit & Fly to Lahore
 
-Drive back to Gilgit and fly to Lahore (or Islamabad for international connections).
+Drive back to Gilgit and fly to Lahore (or [Islamabad](/pakistan/islamabad-guide) for international connections).
 
 If departing from Islamabad: the **Islamabad-Rawalpindi** area has the excellent **Pakistan Museum of Natural History** and the nearby **Rawalpindi Old City** for a final market experience.
 

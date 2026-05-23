@@ -10,7 +10,7 @@ tags: [Canada, October, fall, foliage, Thanksgiving, Algonquin, Quebec]
 city: national
 ---
 
-October is when Canada's landscape earns its reputation. The maple-and-birch forests of Ontario and Quebec reach full color in early to mid-October. Algonquin Provincial Park — the reference standard for North American fall foliage — is at its peak. Quebec City's stone walls and church spires glow against amber trees. And Canadian Thanksgiving on the second Monday brings the country to long harvest tables. It's one of the genuinely great months to be in the country.
+October is when [Canada](/canada)'s landscape earns its reputation. The maple-and-birch forests of Ontario and Quebec reach full color in early to mid-October. Algonquin Provincial Park — the reference standard for North American fall foliage — is at its peak. Quebec City's stone walls and church spires glow against amber trees. And Canadian Thanksgiving on the second Monday brings the country to long harvest tables. It's one of the genuinely great months to be in the country.
 
 ## Weather & Conditions
 

@@ -10,11 +10,11 @@ tags: [France, July, lavender, Provence, Bastille Day, Tour de France, Paris, pe
 city: national
 ---
 
-July is France at full intensity — Provence's lavender fields at peak purple, Bastille Day celebrations across the country on July 14, the Tour de France's final mountain stages and Champs-Élysées finish, and every beach resort at maximum capacity. The weather is excellent and the cultural calendar is extraordinary. The trade-off is real: accommodation is expensive, the major sites are crowded, and moving around requires planning that would have seemed excessive in March. July is worth it if you know what you're choosing.
+July is [France](/france) at full intensity — [Provence](/france/provence-guide)'s lavender fields at peak purple, Bastille Day celebrations across the country on July 14, the Tour de France's final mountain stages and Champs-Élysées finish, and every beach resort at maximum capacity. The weather is excellent and the cultural calendar is extraordinary. The trade-off is real: accommodation is expensive, the major sites are crowded, and moving around requires planning that would have seemed excessive in March. July is worth it if you know what you're choosing.
 
 ## Weather in July
 
-**Paris:** 18°C to 28°C. Warm, mostly sunny. Some years see heat waves that push Paris above 35°C for several days — air conditioning is not universal in Parisian hotels, which matters at these temperatures.
+**[Paris](/france/paris-travel-guide):** 18°C to 28°C. Warm, mostly sunny. Some years see heat waves that push Paris above 35°C for several days — air conditioning is not universal in Parisian hotels, which matters at these temperatures.
 
 **Provence:** 22°C to 36°C. Hot, dry, lavender-purple. The Valensole plateau at dawn before the heat builds is the defining July image of France.
 
@@ -22,7 +22,7 @@ July is France at full intensity — Provence's lavender fields at peak purple, 
 
 **Brittany:** 16°C to 25°C. The coolest major tourist destination in France in July — a rational choice if heat is a concern.
 
-**Alsace:** 17°C to 28°C. The wine road and the Vosges mountains are at their summer best.
+**[Alsace](/france/alsace-guide):** 17°C to 28°C. The wine road and the Vosges mountains are at their summer best.
 
 **French Alps:** Summer hiking season — the Tour du Mont Blanc and the Grande Randonnée trails are at full operation.
 
@@ -35,7 +35,7 @@ July is France at full intensity — Provence's lavender fields at peak purple, 
 - **Fireworks at the Eiffel Tower:** The evening fireworks display — synchronized to music, launched from the Trocadéro and surrounding areas. The Champ de Mars is the most crowded viewing area; the Pont de Bir-Hakeim, Trocadéro gardens, and Île aux Cygnes (the smaller island in the Seine) offer alternative views.
 - **Bal des Pompiers (Firefighters' Ball):** On the nights of July 13 and 14, fire stations across Paris open for public dancing — an old Parisian tradition, genuinely local, free entry. The 1st arrondissement station near the Louvre and the Marais stations are popular.
 
-**Outside Paris:** Every French city and town runs its own Bastille Day fireworks and public celebration. Smaller cities (Annecy, Lyon, Bordeaux) run excellent regional events that are dramatically less crowded than Paris.
+**Outside Paris:** Every French city and town runs its own Bastille Day fireworks and public celebration. Smaller cities (Annecy, Lyon, [Bordeaux](/france/bordeaux-guide)) run excellent regional events that are dramatically less crowded than Paris.
 
 ## Lavender Season — Provence
 

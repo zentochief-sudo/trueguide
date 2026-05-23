@@ -10,7 +10,7 @@ tags: [Pai, Mae Hong Son, northern Thailand, motorbike, mountains, hot springs, 
 city: chiang-mai
 ---
 
-The Mae Hong Son Loop is the mountain circuit of northwestern Thailand — a 600 km road from Chiang Mai through Pai, Mae Hong Son, and Mae Sariang, running through the Shan Hills along the Myanmar border. The road is famous for its 762 curves between Chiang Mai and Pai alone; the landscape is forested mountain ridges, river valleys, and Shan, Karen, and Hmong hill tribe villages. The loop is usually ridden over 4–6 days by motorbike, though buses cover the main segments.
+The Mae Hong Son Loop is the mountain circuit of northwestern [Thailand](/thailand) — a 600 km road from [Chiang Mai](/thailand/chiang-mai-guide) through Pai, Mae Hong Son, and Mae Sariang, running through the Shan Hills along the Myanmar border. The road is famous for its 762 curves between Chiang Mai and Pai alone; the landscape is forested mountain ridges, river valleys, and Shan, Karen, and Hmong hill tribe villages. The loop is usually ridden over 4–6 days by motorbike, though buses cover the main segments.
 
 ---
 
@@ -32,7 +32,7 @@ The mountain town that has been "discovered" and re-discovered for 30 years with
 
 ## Mae Hong Son
 
-100 km southwest of Pai (2.5-hour drive on the mountain road) — the provincial capital of Thailand's most remote province, closer to Mandalay than to Bangkok. The town is 70% Shan (Tai Yai) with a strong Burmese architectural influence: the Burmese-style temples of Wat Chong Kham and Wat Chong Klang (twin white temples reflected in Nong Chong Kham lake) are the defining images of the town.
+100 km southwest of Pai (2.5-hour drive on the mountain road) — the provincial capital of Thailand's most remote province, closer to Mandalay than to [Bangkok](/thailand/bangkok-guide). The town is 70% Shan (Tai Yai) with a strong Burmese architectural influence: the Burmese-style temples of Wat Chong Kham and Wat Chong Klang (twin white temples reflected in Nong Chong Kham lake) are the defining images of the town.
 
 **Wat Chong Kham and Wat Chong Klang**: On the lake at the center of town — Burmese-Shan style pagodas with whitewashed stupas and gilded finials, best photographed at dawn when the mist lifts off the lake.
 

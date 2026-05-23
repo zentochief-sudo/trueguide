@@ -10,7 +10,7 @@ tags: [driving, Japan, international driving permit, rental car, highway, naviga
 city: national
 ---
 
-Japan has one of the world's most sophisticated rail networks, and for most itineraries it is the right way to travel. But there is a category of Japan that rail cannot reach: the mountain onsen with no bus service, the rural ryokan accessed by a single-lane road through cedar forest, the Hokkaido pastoral landscape where the interest is the emptiness itself, the Okinawan coast where the beach requires a car to find. Driving in Japan rewards the effort to understand the system.
+Japan has one of the world's most sophisticated rail networks, and for most itineraries it is the right way to travel. But there is a category of Japan that rail cannot reach: the mountain onsen with no bus service, the rural [ryokan](/japan/ryokan-guide) accessed by a single-lane road through cedar forest, the [Hokkaido](/japan/hokkaido-guide) pastoral landscape where the interest is the emptiness itself, the Okinawan coast where the beach requires a car to find. Driving in Japan rewards the effort to understand the system.
 
 ---
 
@@ -20,9 +20,9 @@ Japan has one of the world's most sophisticated rail networks, and for most itin
 
 Most foreign visitors need an **International Driving Permit (IDP)** in addition to their home-country license. The IDP must be issued in your home country before traveling — it cannot be obtained in Japan.
 
-**Countries whose licenses are accepted without IDP**: Switzerland, Germany, France, Belgium, Monaco, Taiwan, and a small number of others under bilateral agreements. Check the Japan Automobile Federation (JAF) website for the current list.
+**Countries whose licenses are accepted without IDP**: Switzerland, Germany, [France](/france), Belgium, Monaco, Taiwan, and a small number of others under bilateral agreements. Check the Japan Automobile Federation (JAF) website for the current list.
 
-**Countries requiring IDP**: The United States, United Kingdom, Canada, Australia, most of Asia and South America, and the majority of the world.
+**Countries requiring IDP**: The United States, United Kingdom, [Canada](/canada), Australia, most of Asia and South America, and the majority of the world.
 
 **Where to get IDP**: In the US, AAA and AAAMIDATLANTIC issue them (¥1 in US dollars = $20, requires passport photo and license). In the UK, Post Offices and AA/RAC. In Australia, AAA affiliates. Processing is usually same-day or next-day.
 
@@ -80,7 +80,7 @@ Save **mapcodes** for all planned destinations before departure. They're availab
 
 **Coin parking**: Insert payment on entry or exit. Rates typically ¥300–600 per hour in cities, ¥100–200 in rural areas. The machine accepts cash and sometimes IC cards. The barrier (ロック板 — lock plate) rises from the ground under your car while parked; lower it by paying.
 
-**At tourist sites**: Most major tourist attractions, national parks, and ryokan have associated parking. In peak season (cherry blossom, autumn foliage, Golden Week) parking fills early — arrive before 9am or use alternate parking with walking distance.
+**At tourist sites**: Most major tourist attractions, national parks, and ryokan have associated parking. In peak season ([cherry blossom](/japan/cherry-blossom-guide), autumn foliage, Golden Week) parking fills early — arrive before 9am or use alternate parking with walking distance.
 
 ---
 
@@ -90,8 +90,8 @@ Save **mapcodes** for all planned destinations before departure. They're availab
 
 The expressway network (shinkansen of roads) covers most of Japan. Entered via interchanges (IC), with exits spaced roughly every 10–20km. Each stretch between toll plazas costs ¥25–29 per kilometer. Major arteries:
 
-- **Tōmei Expressway** (東名): Tokyo → Nagoya → Osaka
-- **Chūgoku Expressway** (中国): Osaka → Hiroshima → Kitakyushu
+- **Tōmei Expressway** (東名): Tokyo → [Nagoya](/japan/nagoya-guide) → Osaka
+- **Chūgoku Expressway** (中国): Osaka → [Hiroshima](/japan/hiroshima-guide) → Kitakyushu
 - **Tōhoku Expressway** (東北): Tokyo → Sendai → Aomori
 - **Hokkaido Expressway system**: Various routes across Hokkaido
 
@@ -125,7 +125,7 @@ Japan's northernmost island is the country's primary road trip destination. The 
 
 The main island is compact enough to drive in a day, but the real reason to rent is the northern **Yanbaru** forest (UNESCO listed) and the **Motobu Peninsula**. The Onna coastline south of Nago has cliff roads above turquoise water.
 
-**Niraikanai Bridge** on the east coast: A 1.5km curved bridge descending from the plateau to sea level, one of the most photographed road sections in Okinawa.
+**Niraikanai Bridge** on the east coast: A 1.5km curved bridge descending from the plateau to sea level, one of the most photographed road sections in [Okinawa](/japan/okinawa-guide).
 
 ### Izu Peninsula
 

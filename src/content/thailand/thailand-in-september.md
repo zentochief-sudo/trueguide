@@ -10,15 +10,15 @@ tags: [Thailand, September, low season, budget, Bangkok, Chiang Mai, Isan, veget
 city: national
 ---
 
-September is Thailand's quietest month — and its cheapest. Both major coastlines are in their respective monsoon/rainy seasons. The Gulf coast sees increasing rain and rough seas. The Andaman coast remains in full monsoon. International tourist numbers reach their annual minimum. For travelers on a tight budget who can accept weather variability and the absence of beach conditions, September offers Thailand at its most affordable and its most genuine.
+September is [Thailand](/thailand)'s quietest month — and its cheapest. Both major coastlines are in their respective monsoon/rainy seasons. The Gulf coast sees increasing rain and rough seas. The Andaman coast remains in full monsoon. International tourist numbers reach their annual minimum. For travelers on a tight budget who can accept weather variability and the absence of beach conditions, September offers Thailand at its most affordable and its most genuine.
 
 ## Weather in September
 
-**Bangkok:** 27°C to 33°C. Rainy season at its most intense — regular and sometimes very heavy afternoon and evening storms. Flooding possible in low-lying areas after major rain events.
+**[Bangkok](/thailand/bangkok-guide):** 27°C to 33°C. Rainy season at its most intense — regular and sometimes very heavy afternoon and evening storms. Flooding possible in low-lying areas after major rain events.
 
-**Chiang Mai:** 23°C to 32°C. Wet season continuing — heavy rain, lush green landscape. The mountains are beautiful; outdoor trails are muddy.
+**[Chiang Mai](/thailand/chiang-mai-guide):** 23°C to 32°C. Wet season continuing — heavy rain, lush green landscape. The mountains are beautiful; outdoor trails are muddy.
 
-**Phuket/Andaman Coast:** 25°C to 32°C. Monsoon — rough seas, regular heavy rain. Not beach season; some dive shops reduce operations.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 25°C to 32°C. Monsoon — rough seas, regular heavy rain. Not beach season; some dive shops reduce operations.
 
 **Ko Samui/Gulf Coast:** 26°C to 33°C. Ko Samui starts receiving the northeast monsoon — October through January is Ko Samui's rainy season, and September is the approach. More rain than August, sea getting rougher.
 

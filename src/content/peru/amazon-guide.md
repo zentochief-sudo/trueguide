@@ -10,7 +10,7 @@ tags: [Amazon, Peru, Iquitos, Tambopata, Madre de Dios, jungle lodge, wildlife, 
 city: amazon
 ---
 
-The Peruvian Amazon covers 60% of Peru's territory — 780,000 km² of tropical rainforest that is the most biodiverse ecosystem on Earth. Peru protects more Amazon territory than any other country through its network of national reserves and indigenous territories. The two main access points for wildlife tourism are Puerto Maldonado (southern Amazon, Madre de Dios region, accessible from Cusco) and Iquitos (northern Amazon, Loreto region, accessible only by river or air — the largest city in the world with no road access).
+The Peruvian Amazon covers 60% of [Peru](/peru)'s territory — 780,000 km² of tropical rainforest that is the most biodiverse ecosystem on Earth. Peru protects more Amazon territory than any other country through its network of national reserves and indigenous territories. The two main access points for wildlife tourism are Puerto Maldonado (southern Amazon, Madre de Dios region, accessible from [Cusco](/peru/cusco-guide)) and Iquitos (northern Amazon, Loreto region, accessible only by river or air — the largest city in the world with no road access).
 
 Both areas offer genuine wilderness, but the Madre de Dios region (Tambopata) is the more accessible and better-studied for wildlife. Iquitos offers the deeper river experience.
 
@@ -18,7 +18,7 @@ Both areas offer genuine wilderness, but the Madre de Dios region (Tambopata) is
 
 ## Tambopata (Madre de Dios)
 
-**Puerto Maldonado**: The gateway city — 1.5-hour flight from Lima or 8-hour bus from Cusco (road now paved). Most visitors spend minimal time in Puerto Maldonado and transfer directly to their lodge.
+**Puerto Maldonado**: The gateway city — 1.5-hour flight from [Lima](/peru/lima-guide) or 8-hour bus from Cusco (road now paved). Most visitors spend minimal time in Puerto Maldonado and transfer directly to their lodge.
 
 **Tambopata National Reserve**: 274,690 hectares of protected rainforest bordering Bolivia — the most biodiverse area of Peru by species count. Within one hour by river from Puerto Maldonado, you are in primary forest with wildlife densities that justify the journey.
 

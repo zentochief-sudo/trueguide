@@ -10,7 +10,7 @@ tags: [Canada, March, spring, skiing, maple syrup, Ontario, Banff]
 city: national
 ---
 
-March in Canada is a transitional month that suits travelers who want winter activities without peak winter prices. The ski season extends into April in the Rockies and at higher-elevation Quebec resorts, but the desperate cold of January and February starts to ease. In southern Ontario and Quebec, maple syrup season begins — one of the most distinctly Canadian experiences there is.
+March in [Canada](/canada) is a transitional month that suits travelers who want winter activities without peak winter prices. The ski season extends into April in the Rockies and at higher-elevation Quebec resorts, but the desperate cold of January and February starts to ease. In southern Ontario and Quebec, maple syrup season begins — one of the most distinctly Canadian experiences there is.
 
 ## Weather & Conditions
 

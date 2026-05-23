@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Canada is the world's second-largest country by land mass — a place of staggering geographical and cultural diversity. One week is enough to experience the contrast between Canada's world-class cities and the wilderness that defines the national character. This itinerary combines Toronto (Canada's largest city) with the Canadian Rockies (one of the world's great mountain landscapes).
+[Canada](/canada) is the world's second-largest country by land mass — a place of staggering geographical and cultural diversity. One week is enough to experience the contrast between Canada's world-class cities and the wilderness that defines the national character. This itinerary combines Toronto (Canada's largest city) with the Canadian Rockies (one of the world's great mountain landscapes).
 
 **Note:** Canada's size means you fly between major regions. Toronto to Calgary (gateway to the Rockies) is a 4-hour flight. Plan for this accordingly.
 
@@ -18,11 +18,11 @@ Canada is the world's second-largest country by land mass — a place of stagger
 
 Arrive in **Toronto** — Canada's largest city (6.2 million metro area), one of the world's most multicultural cities, and a genuinely excellent urban destination.
 
-**Day 1:** Start at the **CN Tower** (553m — was the world's tallest freestanding structure 1976–2009). The glass floor observation deck and the EdgeWalk (outdoor walk on the outside of the tower at 356m) are vertigo-inducing in the best possible way. Walk down to **Harbourfront** and the **Toronto waterfront** along Lake Ontario — the lake views are expansive and the waterfront has been dramatically redeveloped.
+**Day 1:** Start at the **CN Tower** (553m — was the world's tallest freestanding structure 1976–2009). The glass floor observation deck and the EdgeWalk (outdoor walk on the outside of the tower at 356m) are vertigo-inducing in the best possible way. Walk down to **Harbourfront** and the **[Toronto waterfront](/canada/toronto-waterfront-guide)** along Lake Ontario — the lake views are expansive and the waterfront has been dramatically redeveloped.
 
 Afternoon: **Distillery District** — a Victorian-era industrial complex transformed into the city's most characterful neighbourhood, with galleries, restaurants, boutiques, and some of the city's best cafés, all set in remarkably preserved red-brick industrial buildings.
 
-Evening: dinner in the **Kensington Market** or **Little Portugal** area — Toronto's best neighbourhood food cultures.
+Evening: dinner in the **Kensington Market** or **Little [Portugal](/portugal)** area — Toronto's best neighbourhood food cultures.
 
 **Day 2:** The **Royal Ontario Museum (ROM)** — one of North America's great museums, with extraordinary Egyptian, Chinese, and ancient Americas collections, plus an outstanding natural history wing. The Daniel Libeskind crystal extension (2007) is one of Canada's most distinctive contemporary buildings.
 

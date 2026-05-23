@@ -10,9 +10,9 @@ tags: [Osaka, Japan, itinerary, 3 days, Dotonbori, Shinsekai, Umeda, Nara, day t
 city: osaka
 ---
 
-Osaka rewards visitors who don't rush it. The city's pleasures are lateral — you don't check off a list of monuments, you eat your way through neighborhoods and let the street energy do the rest. Three days gives you enough time to cover the main areas without collapsing from overeating, which is a genuine risk.
+[Osaka](/japan/osaka-guide) rewards visitors who don't rush it. The city's pleasures are lateral — you don't check off a list of monuments, you eat your way through neighborhoods and let the street energy do the rest. Three days gives you enough time to cover the main areas without collapsing from overeating, which is a genuine risk.
 
-This itinerary assumes you're staying in or near Namba, which is the right base for Osaka. Shinsaibashi, Dotonbori, and Shinsekai are all walkable; Umeda is a 10-minute subway ride north; Nara is 45 minutes by limited express.
+This itinerary assumes you're staying in or near Namba, which is the right base for Osaka. Shinsaibashi, Dotonbori, and Shinsekai are all walkable; Umeda is a 10-minute subway ride north; [Nara](/japan/nara-guide) is 45 minutes by limited express.
 
 ---
 
@@ -75,7 +75,7 @@ Back in Namba by 4–5pm gives you a final evening in Osaka for anything you mis
 
 ## The Optional Fourth Day: Kobe Day Trip
 
-If you have an extra day, **Kobe** is 30 minutes west of Osaka by Hanshin train (departs Osaka-Umeda). The city sits between mountains and sea, with a port area that retains Western buildings from the 19th century and the best beef in Japan. The **Kitano** district has preserved European-style houses (ijinkan) from when Kobe was Japan's primary foreign port. **Kobe beef** can be eaten at restaurants around Motomachi at lunch for ¥5,000–10,000 — expensive but the real thing, in the city where the breed originated.
+If you have an extra day, **[Kobe](/japan/kobe-guide)** is 30 minutes west of Osaka by Hanshin train (departs Osaka-Umeda). The city sits between mountains and sea, with a port area that retains Western buildings from the 19th century and the best beef in Japan. The **Kitano** district has preserved European-style houses (ijinkan) from when Kobe was Japan's primary foreign port. **Kobe beef** can be eaten at restaurants around Motomachi at lunch for ¥5,000–10,000 — expensive but the real thing, in the city where the breed originated.
 
 ---
 
@@ -83,7 +83,7 @@ If you have an extra day, **Kobe** is 30 minutes west of Osaka by Hanshin train 
 
 **Namba** is the right base — walkable to Dotonbori, Shinsekai, and Shinsaibashi. Most mid-range hotels here run ¥8,000–15,000 per night. **Dormy Inn Namba** and **Cross Hotel Osaka** are reliable.
 
-**Shinsaibashi** is quieter and still central. For a splurge, **Cross Hotel** or **The Blossom Namba** deliver genuine comfort without Tokyo prices.
+**Shinsaibashi** is quieter and still central. For a splurge, **Cross Hotel** or **The Blossom Namba** deliver genuine comfort without [Tokyo](/japan/tokyo-guide) prices.
 
 Capsule hotels in Namba are functional and well-priced; **First Cabin Namba** offers private capsule-style pods that split the difference between capsule and private room.
 

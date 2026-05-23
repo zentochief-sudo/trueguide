@@ -10,7 +10,7 @@ tags: [Ireland, December, Christmas, Dublin, Galway, winter, festive, pubs]
 city: national
 ---
 
-December is when Ireland's social instinct — always present, particularly in pub culture — reaches its annual peak. Christmas parties fill the pubs from the second week. The Christmas markets of Dublin, Galway, and Cork run through the month. Carol singing at church services draws communities together. And the country's dark, short days paradoxically intensify the warmth of indoor life. December in Ireland is best understood as a gathering month.
+December is when [Ireland](/ireland)'s social instinct — always present, particularly in pub culture — reaches its annual peak. Christmas parties fill the pubs from the second week. The Christmas markets of [Dublin](/ireland/dublin-travel-guide), [Galway](/ireland/galway-guide), and [Cork](/ireland/cork-guide) run through the month. Carol singing at church services draws communities together. And the country's dark, short days paradoxically intensify the warmth of indoor life. December in Ireland is best understood as a gathering month.
 
 ## Weather & Conditions
 

@@ -10,13 +10,13 @@ tags: [Kazakhstan, March, Nauryz, spring, Almaty, transition, steppe]
 city: national
 ---
 
-March is when Kazakhstan's long winter begins its retreat. Temperatures in Almaty move above 0°C for the first time in months. The Tian Shan snow remains but the city streets clear. And most significantly, Nauryz approaches — the Persian/Central Asian New Year on March 22, which is Kazakhstan's most joyful national celebration. March is preparation and anticipation.
+March is when [Kazakhstan](/kazakhstan)'s long winter begins its retreat. Temperatures in [Almaty](/kazakhstan/almaty-travel-guide) move above 0°C for the first time in months. The Tian Shan snow remains but the city streets clear. And most significantly, Nauryz approaches — the Persian/Central Asian New Year on March 22, which is Kazakhstan's most joyful national celebration. March is preparation and anticipation.
 
 ## Weather & Conditions
 
 **Almaty:** -2 to 8°C. Warming noticeably. Snow in the city melts and refreezes through the month.
 
-**Astana:** -15 to -5°C. Still cold but the worst is past. March is the first month of incremental warming.
+**[Astana](/kazakhstan/astana-guide):** -15 to -5°C. Still cold but the worst is past. March is the first month of incremental warming.
 
 **Shymbulak:** -10 to 0°C. Late ski season. Snow quality decreasing but runs still operational.
 
@@ -32,7 +32,7 @@ March is when Kazakhstan's long winter begins its retreat. Temperatures in Almat
 
 **Green Bazaar, Almaty:** The central market of Almaty is excellent year-round but March brings the first spring produce. Dried fruits, nuts, and the preparations for Nauryz food are visible in the stalls.
 
-**Charyn Canyon (pre-season visit):** The extraordinary canyon 195km east of Almaty — often compared to a small-scale Grand Canyon — is accessible in March before the tourist season. Cold but dramatic, the red sandstone formations and the Ash Grove (a relic ash tree forest from the Tertiary period) are accessible.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide) (pre-season visit):** The extraordinary canyon 195km east of Almaty — often compared to a small-scale Grand Canyon — is accessible in March before the tourist season. Cold but dramatic, the red sandstone formations and the Ash Grove (a relic ash tree forest from the Tertiary period) are accessible.
 
 ## Festivals & Events
 

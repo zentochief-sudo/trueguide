@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Pakistan reveals the country's extraordinary depth — Mughal grandeur in Lahore, the world's most dramatic mountain road, high-altitude valleys with legendary hospitality, and landscapes that rank among the finest on earth.
+Two weeks in [Pakistan](/pakistan) reveals the country's extraordinary depth — Mughal grandeur in [Lahore](/pakistan/lahore-guide), the world's most dramatic mountain road, high-altitude valleys with legendary hospitality, and landscapes that rank among the finest on earth.
 
 ## Days 1–3 – Lahore
 
@@ -26,13 +26,13 @@ Also: the **Data Darbar** Sufi shrine — the most visited religious site in Pak
 
 ## Day 4 – Fly to Islamabad & Drive North
 
-Fly Lahore to Islamabad (45 min). Explore Islamabad briefly — the **Pakistani Monument** (a star-shaped museum of Pakistani history and culture), the **Faisal Mosque** (the world's largest mosque capacity: 300,000 worshippers), and the cosmopolitan F-7/F-6 neighbourhoods for excellent cafés.
+Fly Lahore to [Islamabad](/pakistan/islamabad-guide) (45 min). Explore Islamabad briefly — the **Pakistani Monument** (a star-shaped museum of Pakistani history and culture), the **Faisal Mosque** (the world's largest mosque capacity: 300,000 worshippers), and the cosmopolitan F-7/F-6 neighbourhoods for excellent cafés.
 
 Drive or take the overnight NATCO bus north toward Chilas.
 
 ## Days 5–6 – Fairy Meadows: Nanga Parbat Base
 
-Drive through **Chilas** and turn off the KKH to the jeep track toward Fairy Meadows. A 45-minute jeep ride on a terrifyingly narrow cliff road leads to **Tato village**, then a 2–3 hour hike up to **Fairy Meadows** (3,300m) — an alpine meadow directly beneath the south face of **Nanga Parbat** (8,126m — the "Killer Mountain").
+Drive through **Chilas** and turn off the KKH to the jeep track toward [Fairy Meadows](/pakistan/fairy-meadows-guide). A 45-minute jeep ride on a terrifyingly narrow cliff road leads to **Tato village**, then a 2–3 hour hike up to **Fairy Meadows** (3,300m) — an alpine meadow directly beneath the south face of **Nanga Parbat** (8,126m — the "Killer Mountain").
 
 The view from Fairy Meadows: the 4,500m vertical south face of Nanga Parbat rising directly above you, the largest rock face on earth. At night: extraordinary starscapes with the mountain silhouetted by moonlight.
 
@@ -40,7 +40,7 @@ The view from Fairy Meadows: the 4,500m vertical south face of Nanga Parbat risi
 
 ## Days 7–8 – Hunza Valley
 
-Drive north on the KKH to **Hunza Valley** (3–4 hours from Chilas). Two days of fort visits, viewpoints, and valley walks.
+Drive north on the KKH to **[Hunza Valley](/pakistan/hunza-valley-guide)** (3–4 hours from Chilas). Two days of fort visits, viewpoints, and valley walks.
 
 **Day 7:** Arrive and walk the terraced apricot orchards. Visit **Altit Fort** (older than Baltit by 200 years — 900 years of Hunza royal history) and the **Altit Heritage Village** below it.
 
@@ -56,7 +56,7 @@ The **Khunjerab National Park** en route to the pass is home to snow leopard (ve
 
 ## Day 11 – Return South: Swat Valley Diversion
 
-Drive southwest from Gilgit toward the **Swat Valley** (5–6 hours) — a lush, green valley once called the "Switzerland of Pakistan" and a historical centre of Gandharan Buddhist civilisation (3rd century BCE – 10th century CE).
+Drive southwest from Gilgit toward the **[Swat Valley](/pakistan/swat-valley-guide)** (5–6 hours) — a lush, green valley once called the "Switzerland of Pakistan" and a historical centre of Gandharan Buddhist civilisation (3rd century BCE – 10th century CE).
 
 ## Days 12–13 – Swat Valley
 

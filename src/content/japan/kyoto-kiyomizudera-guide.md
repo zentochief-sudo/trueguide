@@ -10,7 +10,7 @@ tags: [Kiyomizudera, Kyoto, Japan, temple, Higashiyama, Otowa waterfall, cherry 
 city: kyoto
 ---
 
-Kiyomizudera (*Pure Water Temple*) was founded in 778, making it one of the oldest surviving temple complexes in Kyoto — predating the city itself, which was established as the capital in 794. The name refers to the Otowa waterfall that runs from the cliff face below the main hall: the pure water of the spring is the reason the site was chosen and the theological center of the temple's function.
+Kiyomizudera (*Pure Water Temple*) was founded in 778, making it one of the oldest surviving temple complexes in [Kyoto](/japan/kyoto-guide) — predating the city itself, which was established as the capital in 794. The name refers to the Otowa waterfall that runs from the cliff face below the main hall: the pure water of the spring is the reason the site was chosen and the theological center of the temple's function.
 
 The current buildings date primarily from 1633 (rebuilt by the third Tokugawa shogun); the main hall stage (*butai*), the most famous element, is constructed from hundreds of *keyaki* (Japanese zelkova) wooden pillars fitted together without nails using traditional Japanese joinery.
 
@@ -61,7 +61,7 @@ Above the main hall: the small Shinto shrine dedicated to the god of matchmaking
 
 ## Seasonal Highlights
 
-**Cherry blossom (late March–early April)**: The temple complex has excellent cherry trees; the most famous view is the pagoda with blossoms framing it. The Maruyama Park–Higashiyama walk leading to Kiyomizudera is one of the best cherry blossom routes in Kyoto.
+**[Cherry blossom](/japan/cherry-blossom-guide) (late March–early April)**: The temple complex has excellent cherry trees; the most famous view is the pagoda with blossoms framing it. The Maruyama Park–Higashiyama walk leading to Kiyomizudera is one of the best cherry blossom routes in Kyoto.
 
 **Autumn foliage (mid–late November)**: The hillside forests below the veranda turn orange and red; the view from the stage over the autumn trees is the most dramatic seasonal view in the temple complex.
 

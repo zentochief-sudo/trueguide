@@ -10,7 +10,7 @@ tags: [Pakistan, January, Lahore, Mughal, winter, cultural circuit, Karachi]
 city: national
 ---
 
-January is the month Pakistan's lowland cities become genuinely pleasant. Lahore — the cultural heart of Pakistani civilization, one of the great Mughal cities — is at its most accessible in cool, clear January air. The Badshahi Mosque, the Lahore Fort, and the walled city's food streets can be explored without the summer heat that makes them exhausting. Karachi's coast has its best beach weather. The northern mountains — Gilgit-Baltistan, the Karakoram — are under deep winter snow and inaccessible except for the hardiest adventurers.
+January is the month [Pakistan](/pakistan)'s lowland cities become genuinely pleasant. [Lahore](/pakistan/lahore-guide) — the cultural heart of Pakistani civilization, one of the great Mughal cities — is at its most accessible in cool, clear January air. The Badshahi Mosque, the Lahore Fort, and the walled city's food streets can be explored without the summer heat that makes them exhausting. Karachi's coast has its best beach weather. The northern mountains — Gilgit-Baltistan, the Karakoram — are under deep winter snow and inaccessible except for the hardiest adventurers.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ January is the month Pakistan's lowland cities become genuinely pleasant. Lahore
 
 **Karachi (South):** 16–24°C. Pleasant, dry, and breezy. The best beach weather of the year.
 
-**Islamabad:** 4–15°C. Cool and clear. The capital is comfortable and fully operational.
+**[Islamabad](/pakistan/islamabad-guide):** 4–15°C. Cool and clear. The capital is comfortable and fully operational.
 
 **Peshawar and Khyber Pakhtunkhwa:** 4–17°C. Cold mornings but warm afternoons.
 
-**Gilgit-Baltistan (north — Hunza, Skardu):** -5 to 5°C. Deep winter snow. The Karakoram Highway is snow-covered in places; Skardu is accessible by air.
+**Gilgit-Baltistan (north — Hunza, Skardu):** -5 to 5°C. Deep winter snow. The [Karakoram Highway](/pakistan/karakoram-highway-guide) is snow-covered in places; Skardu is accessible by air.
 
 ## What to Do
 
@@ -52,4 +52,4 @@ January fog in Lahore and Islamabad: similar to Delhi, morning flights are regul
 
 ## Who January Is For
 
-Cultural travelers who want Pakistan's Mughal heritage at its most accessible. Anyone who has been to India and wants to see the other side of the same civilization. First-time Pakistan visitors for whom the combination of Lahore, Islamabad, and the Indus Valley sites is the itinerary. January conditions are the best of the year for this circuit.
+Cultural travelers who want Pakistan's Mughal heritage at its most accessible. Anyone who has been to [India](/india) and wants to see the other side of the same civilization. First-time Pakistan visitors for whom the combination of Lahore, Islamabad, and the Indus Valley sites is the itinerary. January conditions are the best of the year for this circuit.

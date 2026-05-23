@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Peru's geography creates completely different weather zones: the Pacific coast (Lima) is mild and grey year-round, the Andean highlands have distinct dry and wet seasons, and the Amazon is hot and humid with varying rain patterns. Planning around these differences is essential.
+[Peru](/peru)'s geography creates completely different weather zones: the Pacific coast ([Lima](/peru/lima-guide)) is mild and grey year-round, the Andean highlands have distinct dry and wet seasons, and the [Amazon](/peru/amazon-guide) is hot and humid with varying rain patterns. Planning around these differences is essential.
 
 ## The Short Answer
 
-**Best for Machu Picchu & the highlands:** May–October (dry season)  
+**Best for [Machu Picchu](/peru/machu-picchu-guide) & the highlands:** May–October (dry season)  
 **Best for the Inca Trail:** May–September (closed February)  
 **Best for Lima:** December–April (sunniest)  
 **Best for the Amazon:** Year-round — river levels affect access  
@@ -30,7 +30,7 @@ Peru's geography creates completely different weather zones: the Pacific coast (
 **Amazon:** High water season — excellent for spotting wildlife from boats.
 
 ### February — Avoid highlands
-**Inca Trail closed** the entire month for maintenance. Machu Picchu remains open via bus from Aguas Calientes. Wettest month in Cusco. Not recommended for mountain travel.
+**Inca Trail closed** the entire month for maintenance. Machu Picchu remains open via bus from Aguas Calientes. Wettest month in [Cusco](/peru/cusco-guide). Not recommended for mountain travel.
 
 ### March–April
 Wet season ending. March can still be rainy; April is transitioning. Landscapes are spectacularly green. Fewer crowds. The Inca Trail reopens in March.
@@ -62,9 +62,9 @@ Full wet season. Machu Picchu has mist and daily rain — dramatically beautiful
 | Machu Picchu | May–September | Book tickets months ahead in peak season |
 | Inca Trail (4-day) | Mar–January | Closed February; peak permits sell out in 10 minutes |
 | Cusco city | Year-round | Best weather May–September |
-| Sacred Valley | May–September | |
-| Lake Titicaca | Apr–October | Cold at night year-round (3,800m) |
-| Nazca Lines | Year-round | Flights go daily (can be cancelled in poor visibility) |
+| [Sacred Valley](/peru/sacred-valley-guide) | May–September | |
+| [Lake Titicaca](/peru/lake-titicaca-guide) | Apr–October | Cold at night year-round (3,800m) |
+| [Nazca Lines](/peru/nazca-lines-guide) | Year-round | Flights go daily (can be cancelled in poor visibility) |
 | Paracas/Ballestas | Year-round | Winter fog June–November |
 | Amazon (Puerto Maldonado) | Year-round | High water (Jan–Apr) great for boat wildlife; low water (May–Oct) better for walking |
 | Lima | December–April | Sunniest; May–November grey and drizzly (garúa) |

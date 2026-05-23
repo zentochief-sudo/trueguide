@@ -12,7 +12,7 @@ city: houston
 
 Houston is the most ethnically diverse large city in the United States. The statistic cited most often — that Houston has residents from more countries than any other American city, and that the Houston school district teaches students who speak over 145 languages — doesn't fully convey what this means at the level of food, culture, and neighborhood life. It means that within a 20-minute drive of downtown Houston, you can eat Vietnamese food that the Vietnamese community considers excellent, Nigerian food that the Nigerian community considers excellent, Indian food across six regional traditions, and the best Tex-Mex outside San Antonio.
 
-Houston is hosting the World Cup at NRG Stadium — a domed facility that handles Texas summer heat with industrial-scale air conditioning. The city has enormous Latin American and African populations that will make the World Cup feel like a hometown event regardless of which teams are playing.
+Houston is hosting the World Cup at [NRG Stadium](/united-states/nrg-stadium-guide) — a domed facility that handles Texas summer heat with industrial-scale air conditioning. The city has enormous Latin American and African populations that will make the World Cup feel like a hometown event regardless of which teams are playing.
 
 The weather is hot and humid — worse than Dallas, comparable to Miami. The food situation is better than any other city on this guide.
 
@@ -68,13 +68,13 @@ The practical day structure: indoor activities or morning outdoor time until 11a
 
 ## Food Strategy
 
-Houston's food culture is legitimately exceptional and genuinely underrated by national food media that focuses on New York, LA, and San Francisco.
+Houston's food culture is legitimately exceptional and genuinely underrated by national food media that focuses on New York, LA, and [San Francisco](/united-states/san-francisco-guide).
 
-**Vietnamese**: The largest Vietnamese community outside of Southern California has created a restaurant ecosystem in Southwest Houston (the Chinatown corridor and surrounds) that produces some of the best Vietnamese food available in the United States. **Pho 24** and the surrounding Bellaire Boulevard restaurants for pho. **Thanh Noi** for banh cuon (steamed rice rolls). **Crawfish & Noodles** — which combines the Vietnamese crawfish tradition with standard Vietnamese seafood — is one of the most specific Houston food experiences.
+**Vietnamese**: The largest Vietnamese community outside of Southern California has created a restaurant ecosystem in Southwest Houston (the Chinatown corridor and surrounds) that produces some of the best Vietnamese food available in the United States. **Pho 24** and the surrounding Bellaire Boulevard restaurants for pho. **Thanh Noi** for banh cuon (steamed rice rolls). **Crawfish & Noodles** — which combines the Vietnamese crawfish tradition with standard Vietnamese seafood — is one of the most specific [Houston food](/united-states/houston-food-guide) experiences.
 
 **Nigerian and West African**: Houston has a large Nigerian diaspora, particularly in the Southwest Alief area. **The Jollof Kitchen** and **Eko Kitchen** serve jollof rice, suya (spiced grilled beef on skewers), egusi soup, and puff puff in formats ranging from casual to restaurant. This is not a cuisine widely accessible in other American cities.
 
-**Mexican and Tex-Mex**: Houston's Mexican food is closer to the border tradition than Dallas's — more interior Mexico cooking alongside Tex-Mex. **Hugo's** (in Montrose) is the most acclaimed Mexican restaurant in the city. **Ninfa's on Navigation** (the original location, 2704 Navigation Boulevard) invented the fajita as a restaurant dish in 1973; the fajitas here retain the original character.
+**Mexican and Tex-Mex**: Houston's Mexican food is closer to the border tradition than Dallas's — more interior [Mexico](/mexico) cooking alongside Tex-Mex. **Hugo's** (in Montrose) is the most acclaimed Mexican restaurant in the city. **Ninfa's on Navigation** (the original location, 2704 Navigation Boulevard) invented the fajita as a restaurant dish in 1973; the fajitas here retain the original character.
 
 **Seafood and crawfish**: Houston's proximity to the Gulf Coast means excellent fresh Gulf seafood. The Vietnamese crawfish tradition — live crawfish boiled in a Southeast Asian-spiced broth with corn, sausage, and potatoes — is a Houston food institution. **Crawfish & Noodles** (11360 Bellaire Boulevard) is the reference point; **The Boiling Crab** serves the same tradition.
 

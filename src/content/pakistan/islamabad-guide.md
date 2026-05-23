@@ -10,9 +10,9 @@ tags: [Islamabad, Pakistan, Faisal Mosque, Margalla Hills, Rawalpindi, capital, 
 city: islamabad
 ---
 
-Islamabad is a planned capital city — purpose-built from 1960 onward on the Pothohar Plateau at the foot of the Margalla Hills, replacing Karachi as the national capital in 1966. Like Astana or Canberra, it has a deliberate spatial quality: wide tree-lined boulevards, a sector grid system, abundant greenery, and a quiet that distinguishes it dramatically from Karachi, Lahore, or the adjacent old city of Rawalpindi (Pindi). It is, by Pakistani standards, an extremely easy city to navigate — clean, organized, and with less of the sensory intensity that defines most of the subcontinent.
+Islamabad is a planned capital city — purpose-built from 1960 onward on the Pothohar Plateau at the foot of the Margalla Hills, replacing Karachi as the national capital in 1966. Like Astana or Canberra, it has a deliberate spatial quality: wide tree-lined boulevards, a sector grid system, abundant greenery, and a quiet that distinguishes it dramatically from Karachi, [Lahore](/pakistan/lahore-guide), or the adjacent old city of Rawalpindi (Pindi). It is, by Pakistani standards, an extremely easy city to navigate — clean, organized, and with less of the sensory intensity that defines most of the subcontinent.
 
-Most international visitors to Pakistan pass through Islamabad's Benazir Bhutto International Airport. It's worth 2–3 days on its own terms, and it's the logical northern gateway to the Karakoram Highway and the mountains of Gilgit-Baltistan.
+Most international visitors to [Pakistan](/pakistan) pass through Islamabad's Benazir Bhutto International Airport. It's worth 2–3 days on its own terms, and it's the logical northern gateway to the [Karakoram Highway](/pakistan/karakoram-highway-guide) and the mountains of Gilgit-Baltistan.
 
 ---
 

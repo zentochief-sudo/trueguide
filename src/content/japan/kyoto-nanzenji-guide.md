@@ -12,7 +12,7 @@ city: kyoto
 
 Nanzenji (*Nanzen-ji*) was established in 1291 when Emperor Kameyama converted his retirement villa into a Zen temple. It became the highest-ranking Zen temple in Japan in the Muromachi period and the seat of the Rinzai school's main system. The complex extends across 40 hectares at the base of the Higashiyama hills and includes the main temple buildings, a dozen sub-temples (*tacchu*), and the surrounding forest garden.
 
-The most surprising element for first-time visitors: the **Lake Biwa Canal Aqueduct** (*Sosui*), a Meiji-period brick water channel that passes directly through the temple precinct, elevated on arched brick piers. Built in 1890 to bring water from Lake Biwa to Kyoto, the aqueduct was controversial when constructed — Western industrial infrastructure placed inside Japan's most important Zen complex. It has since been absorbed into the temple landscape and is now photographed as frequently as the sanmon gate.
+The most surprising element for first-time visitors: the **Lake Biwa Canal Aqueduct** (*Sosui*), a Meiji-period brick water channel that passes directly through the temple precinct, elevated on arched brick piers. Built in 1890 to bring water from Lake Biwa to [Kyoto](/japan/kyoto-guide), the aqueduct was controversial when constructed — Western industrial infrastructure placed inside Japan's most important Zen complex. It has since been absorbed into the temple landscape and is now photographed as frequently as the sanmon gate.
 
 ---
 
@@ -64,7 +64,7 @@ The blocks between the sanmon gate and the sub-temples have a cluster of *yudofu
 
 ## Getting There and Context
 
-**Access**: Keage Station on the Tokyo Metro Tozai Line (3 minutes from Sanjo or Higashiyama stations). 10-minute walk from the station through the Okazaki museum district.
+**Access**: Keage Station on the [Tokyo](/japan/tokyo-guide) Metro Tozai Line (3 minutes from Sanjo or Higashiyama stations). 10-minute walk from the station through the Okazaki museum district.
 
 **Hours**: The main precinct is freely accessible (the sanmon interior and sub-temples have their own admission). The sub-temples open 8:30–9am; the restaurants open for lunch.
 

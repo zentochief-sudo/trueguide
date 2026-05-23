@@ -10,7 +10,7 @@ tags: [Osaka, itinerary, 5 days, travel plan, Kyoto, Nara, day trips, Japan]
 city: Osaka
 ---
 
-Five days in Osaka is the right amount — enough time to move past the tourist circuit and into the city's actual character. The first two days cover the essential Osaka (Dotonbori, Shinsekai, Osaka Castle). Days 3–4 add the neighborhoods and a day trip. Day 5 goes deeper into the food, the craft culture, or a second day trip. Here's the full breakdown.
+Five days in [Osaka](/japan/osaka-guide) is the right amount — enough time to move past the tourist circuit and into the city's actual character. The first two days cover the essential Osaka (Dotonbori, Shinsekai, [Osaka Castle](/japan/osaka-castle-guide)). Days 3–4 add the neighborhoods and a day trip. Day 5 goes deeper into the food, the craft culture, or a second day trip. Here's the full breakdown.
 
 ## Before You Arrive
 
@@ -37,7 +37,7 @@ Walk the Shinsaibashi-suji covered arcade south to north — the full commercial
 Return to Dotonbori as the neon illuminates — the canal-side walk, the Glico Running Man sign (most photographed at night), and dinner at one of the restaurants on the canal. The Dotonbori canal cruise (¥1,200, 20 min) runs in the evening for a different perspective.
 
 **Dinner: Takoyaki and okonomiyaki**
-First Osaka meal: takoyaki from Wanaka (queue expected — worth it) and okonomiyaki from Mizuno nearby. The classic Osaka street food introduction.
+First Osaka meal: takoyaki from Wanaka (queue expected — worth it) and okonomiyaki from Mizuno nearby. The classic [Osaka street food](/japan/osaka-street-food-guide) introduction.
 
 **Late: Hozenji Yokocho**
 The narrow alley behind the Hozenji Temple — tiny restaurants and bars, the moss-covered Fudo Myoo statue. One drink or one more small dish at a 12-seat counter.
@@ -92,7 +92,7 @@ Dinner in Fukushima — the most local izakaya district. Arrive before 7 PM to s
 
 **Depart early (8 AM train)**
 
-Kyoto is 28 minutes by Hankyu Railway from Umeda (¥410) or 15 minutes by Shinkansen from Shin-Osaka (¥1,420 — not worth the premium for most travelers). The Hankyu is excellent.
+[Kyoto](/japan/kyoto-guide) is 28 minutes by Hankyu Railway from Umeda (¥410) or 15 minutes by Shinkansen from Shin-Osaka (¥1,420 — not worth the premium for most travelers). The Hankyu is excellent.
 
 **Kyoto itinerary suggestion (full day, return by evening):**
 
@@ -104,13 +104,13 @@ Kyoto is 28 minutes by Hankyu Railway from Umeda (¥410) or 15 minutes by Shinka
 
 **Afternoon:** Kinkaku-ji (the Golden Pavilion — ¥500, the most visited sight in Kyoto) or Arashiyama (the bamboo grove, Tenryu-ji garden — 30 minutes west of central Kyoto by Sagano Line).
 
-**Return:** Hankyu to Osaka Umeda. Dinner in Osaka.
+**Return:** Hankyu to [Osaka Umeda](/japan/osaka-umeda-guide). Dinner in Osaka.
 
 ---
 
 ## Day 5 — Nara Day Trip or Deep Osaka
 
-**Option A: Nara Day Trip**
+**Option A: [Nara](/japan/nara-guide) Day Trip**
 
 Nara is 35–50 minutes from Osaka — the Kintetsu Nara Line from Namba is most convenient (35 min Limited Express, ¥1,110).
 

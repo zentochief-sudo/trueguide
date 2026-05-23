@@ -10,7 +10,7 @@ tags: [Narita airport, Haneda airport, Tokyo airport, airport transfer, Narita E
 city: tokyo
 ---
 
-Most international flights to Tokyo land at either Narita International Airport (NRT), 60km east of the city center, or Haneda Airport (HND), 20km south in Tokyo Bay. Haneda has expanded international routes significantly since 2020; Narita remains the primary hub for long-haul routes from North America, Europe, and Southeast Asia.
+Most international flights to [Tokyo](/japan/tokyo-guide) land at either Narita International Airport (NRT), 60km east of the city center, or Haneda Airport (HND), 20km south in Tokyo Bay. Haneda has expanded international routes significantly since 2020; Narita remains the primary hub for long-haul routes from North America, Europe, and Southeast Asia.
 
 The choice of airport affects your arrival logistics substantially — Narita requires 60–90 minutes to central Tokyo; Haneda is 30–45 minutes. If you have a choice of routing, Haneda saves at least 30 minutes and several hundred yen each way.
 
@@ -89,11 +89,11 @@ More limited route network than Narita but covers major hotel areas.
 
 ## Kansai International Airport (KIX) — For Osaka/Kyoto
 
-If flying into Osaka, Kansai International is on a man-made island 50km southwest of the city.
+If flying into [Osaka](/japan/osaka-guide), Kansai International is on a man-made island 50km southwest of the city.
 
 **Haruka Limited Express (JR)**:
 - Haruka to Shin-Osaka: 45 minutes, ¥2,080 (Osaka station 30 min, ¥1,210 with ICOCA)
-- Haruka to Kyoto Station: 75 minutes, ¥2,870
+- Haruka to [Kyoto](/japan/kyoto-guide) Station: 75 minutes, ¥2,870
 - **JR Pass**: Covered — reserve at JR desk. Essentially free to Kyoto for pass holders
 
 **Nankai Rapi:t Express (private railway)**:

@@ -10,7 +10,7 @@ tags: [Sapporo, Hokkaido, Japan, Snow Festival, ramen, miso, beer, Susukino, Mar
 city: national
 ---
 
-Sapporo was designed. In 1869, the Meiji government established the Hokkaido Development Commission and brought in American agricultural scientist Horace Capron to help plan a city from scratch on a river plain. The result is a grid — rectangular blocks with wide avenues, a park running east-west through the center, and a logical numbering system for streets that makes it unusually easy to navigate for a Japanese city.
+Sapporo was designed. In 1869, the Meiji government established the [Hokkaido](/japan/hokkaido-guide) Development Commission and brought in American agricultural scientist Horace Capron to help plan a city from scratch on a river plain. The result is a grid — rectangular blocks with wide avenues, a park running east-west through the center, and a logical numbering system for streets that makes it unusually easy to navigate for a Japanese city.
 
 The deliberate design shows in Sapporo's character: it is more open, less visually dense, and more car-oriented than most Japanese cities. The beer gardens are bigger, the parks are more spread out, and the food culture draws on Hokkaido's extraordinary agricultural resources — the island produces Japan's best dairy, butter, corn, potatoes, and a significant percentage of its wheat and seafood.
 
@@ -18,7 +18,7 @@ The deliberate design shows in Sapporo's character: it is more open, less visual
 
 ## Getting There
 
-**From Tokyo**: New Chitose Airport (Sapporo's airport, 45 minutes from the city) has direct flights from Tokyo (Haneda, Narita) in 90 minutes. Air is faster and often cheaper than the Shinkansen for this route.
+**From [Tokyo](/japan/tokyo-guide)**: New Chitose Airport (Sapporo's airport, 45 minutes from the city) has direct flights from Tokyo (Haneda, Narita) in 90 minutes. Air is faster and often cheaper than the Shinkansen for this route.
 
 **Shinkansen**: The Hokkaido Shinkansen extension reached Hakodate in 2016; a further extension to Sapporo is under construction (expected around 2030). Currently, Sapporo is accessible by Shinkansen to Shin-Hakodate-Hokuto (3 hours from Tokyo) and then limited express *Super Hokuto* to Sapporo (another 4 hours). Too slow for most itineraries.
 
@@ -32,7 +32,7 @@ The deliberate design shows in Sapporo's character: it is more open, less visual
 
 **Sapporo TV Tower**: The 147-meter tower at the east end of Odori Park, modeled (loosely) on the Eiffel Tower and built in 1957. The observation deck at 90m has the standard cityscape view. Admission ¥720.
 
-**Susukino**: The entertainment and nightlife district south of Odori, one of the largest in Japan outside Tokyo and Osaka. The district activates in the evening — restaurants, bars, ramen shops, and the standard range of Japanese nightlife, concentrated in a walkable area. The Susukino market (*Nijo Ichiba*) nearby opens in the morning for fresh seafood, Hokkaido dairy products, and early breakfast.
+**Susukino**: The entertainment and nightlife district south of Odori, one of the largest in Japan outside Tokyo and [Osaka](/japan/osaka-guide). The district activates in the evening — restaurants, bars, ramen shops, and the standard range of Japanese nightlife, concentrated in a walkable area. The Susukino market (*Nijo Ichiba*) nearby opens in the morning for fresh seafood, Hokkaido dairy products, and early breakfast.
 
 ---
 
@@ -40,7 +40,7 @@ The deliberate design shows in Sapporo's character: it is more open, less visual
 
 The most significant reason to visit in winter: Japan's largest winter festival, held for one week in early February (typically February 4–11). The entire 13-block length of Odori Park is taken over by ice and snow sculptures — some reaching 15 meters in height and 25 meters in length, built by Japan's Ground Self-Defense Force and international teams over several weeks before the festival opens.
 
-**Scale**: The sculptures include full-scale replicas of famous buildings (the Parthenon, Himeji Castle, international landmarks) and original artistic constructions. The night illumination (sculptures lit from within) is the best viewing condition.
+**Scale**: The sculptures include full-scale replicas of famous buildings (the Parthenon, [Himeji](/japan/himeji-guide) Castle, international landmarks) and original artistic constructions. The night illumination (sculptures lit from within) is the best viewing condition.
 
 **Attendance**: Over 2 million visitors come to Sapporo during the one-week festival. Book accommodation 6 months in advance minimum; hotels in central Sapporo are fully booked by October for Snow Festival dates.
 
@@ -82,7 +82,7 @@ Admission to the museum: free. Beer and food priced separately.
 
 ## Maruyama Park and the Hokkaido Shrine
 
-The large forest park in the west of Sapporo, centered on Hokkaido Jingu — the main Shinto shrine for Hokkaido, dedicated to the spirits of the island's founders. The approach through the forest grove, the shrine buildings in a clearing surrounded by mature trees, and the spring cherry blossoms (Maruyama Park is the prime cherry blossom site in Sapporo) make this the most peaceful area in the city.
+The large forest park in the west of Sapporo, centered on Hokkaido Jingu — the main Shinto shrine for Hokkaido, dedicated to the spirits of the island's founders. The approach through the forest grove, the shrine buildings in a clearing surrounded by mature trees, and the spring cherry blossoms (Maruyama Park is the prime [cherry blossom](/japan/cherry-blossom-guide) site in Sapporo) make this the most peaceful area in the city.
 
 The Maruyama Zoo adjacent to the park is one of Japan's better zoos, with significant polar bear and penguin exhibits reflecting the Hokkaido context.
 
@@ -90,7 +90,7 @@ The Maruyama Zoo adjacent to the park is one of Japan's better zoos, with signif
 
 ## Day Trips from Sapporo
 
-**Otaru** (35 minutes by JR): Canal town, sushi district, Meiji architecture — see the separate Otaru guide.
+**[Otaru](/japan/otaru-guide)** (35 minutes by JR): Canal town, sushi district, Meiji architecture — see the separate Otaru guide.
 
 **Jozankei Onsen** (1 hour by bus): Hokkaido's closest major onsen resort to Sapporo — a valley of hot spring hotels along the Toyohira River, particularly famous for autumn foliage (late September–October) when the maple and birch trees turn above the steam.
 

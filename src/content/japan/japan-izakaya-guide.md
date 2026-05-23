@@ -12,7 +12,7 @@ city: national
 
 The izakaya (*i* = stay, *sakaya* = sake shop) is the casual drinking establishment that also serves food — or the casual restaurant where drinking is equally important as eating. The distinction from a restaurant is the expectation: at a restaurant, you eat and leave; at an izakaya, you drink, eat small plates over several hours, and occupy the table for the evening.
 
-The format accommodates everything from a quick post-work beer with one colleague to a five-hour company *nomikai* (drinking party). It is Japan's most common setting for social eating and drinking, and the knowledge of how it works is prerequisite for participating in Japanese food culture at its most genuine.
+The format accommodates everything from a quick post-work beer with one colleague to a five-hour company *nomikai* (drinking party). It is Japan's most common setting for social eating and drinking, and the knowledge of how it works is prerequisite for participating in [Japanese food](/japan/japanese-food-guide) culture at its most genuine.
 
 ---
 
@@ -24,7 +24,7 @@ The format accommodates everything from a quick post-work beer with one colleagu
 
 **Ordering**: Izakaya menus are typically laminated cards or bound books with photographs — most have pictures, and increasingly many have English translations or QR code translation options. Order at your own pace; food arrives as it's prepared rather than in courses.
 
-**Drinks first**: The standard opening order is drinks. The first round is almost universally beer (*nama biru* — draft beer, typically Sapporo, Asahi, or Kirin) or a *highball* (whisky and soda, most commonly Suntory Tory's). This is ordered before food; the *kampai* (toast) happens when the drinks arrive.
+**Drinks first**: The standard opening order is drinks. The first round is almost universally beer (*nama biru* — draft beer, typically [Sapporo](/japan/sapporo-guide), Asahi, or Kirin) or a *highball* (whisky and soda, most commonly Suntory Tory's). This is ordered before food; the *kampai* (toast) happens when the drinks arrive.
 
 **Nomi-hōdai (all-you-can-drink)**: Many izakaya offer a drink *nomi-hōdai* course (typically ¥1,500–2,500 for 90–120 minutes) covering draft beer, shochu highballs, sake, wine, soft drinks, and cocktails. Worth considering for groups who drink; not worth it for moderate drinkers.
 
@@ -56,7 +56,7 @@ The format accommodates everything from a quick post-work beer with one colleagu
 
 **Sashimi plate**: Most izakaya have a sashimi selection — the quality varies enormously but the price (¥600–1,500 for a plate) is well below dedicated sushi restaurants.
 
-**Obanzai** (Kyoto izakaya): The small side dishes of Kyoto cuisine — pickled vegetables, simmered konnyaku, burdock root salad — served in small portions for sampling.
+**Obanzai** ([Kyoto](/japan/kyoto-guide) izakaya): The small side dishes of Kyoto cuisine — pickled vegetables, simmered konnyaku, burdock root salad — served in small portions for sampling.
 
 ---
 
@@ -88,7 +88,7 @@ The format accommodates everything from a quick post-work beer with one colleagu
 
 **Chain izakaya** (*Torikizoku*, *Tori no Suke*, *Watami*, *Shirokiya*): High-volume, affordable, consistent, and specifically designed for large groups. The yakitori chains (*Torikizoku*, ¥300–350 per skewer) are the most practical for first-time visitors — English menus, photo ordering, reliable quality.
 
-**Standing bar (*tachinomi*)**: Izakaya without seating — you stand, order beer and skewers at the counter, eat quickly, and leave. The fastest and cheapest format; the most common option under elevated railway tracks in central Tokyo.
+**Standing bar (*tachinomi*)**: Izakaya without seating — you stand, order beer and skewers at the counter, eat quickly, and leave. The fastest and cheapest format; the most common option under elevated railway tracks in central [Tokyo](/japan/tokyo-guide).
 
 **Shotengai izakaya**: The izakaya embedded in a covered shopping street — typically family-run, serving neighborhood regulars, with the most genuine local character.
 

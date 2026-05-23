@@ -10,7 +10,7 @@ tags: [Kazakhstan, January, winter, Shymbulak, skiing, Almaty, Astana, extreme c
 city: national
 ---
 
-January in Kazakhstan is not for the unprepared. Astana (capital, renamed from Nur-Sultan) regularly hits -30°C with wind chill reaching -40°C. The steppe is frozen, white, and vast. Even Almaty in the south, warmer by Central Asian standards, averages -8 to -5°C. But within these extremes, Kazakhstan in January has specific experiences: world-class skiing at Shymbulak outside Almaty, the extraordinary winter spectacle of the Kazakh steppe, and the country's indoor hospitality culture at its most developed.
+January in [Kazakhstan](/kazakhstan) is not for the unprepared. [Astana](/kazakhstan/astana-guide) (capital, renamed from Nur-Sultan) regularly hits -30°C with wind chill reaching -40°C. The steppe is frozen, white, and vast. Even [Almaty](/kazakhstan/almaty-travel-guide) in the south, warmer by Central Asian standards, averages -8 to -5°C. But within these extremes, Kazakhstan in January has specific experiences: world-class skiing at Shymbulak outside Almaty, the extraordinary winter spectacle of the Kazakh steppe, and the country's indoor hospitality culture at its most developed.
 
 ## Weather & Conditions
 
@@ -30,7 +30,7 @@ Pack seriously: thermal base layers, insulated mid-layers, a proper winter coat 
 
 **Medeo Ice Skating Rink:** The famous outdoor ice rink at 1,691m altitude — the largest in the world and historically the site of world speed skating records — is operational in January. Skate hire available. The surrounding mountain scenery adds to the experience.
 
-**Almaty food culture:** Kazakhstan's former capital has an exceptional food scene — the Central Bazaar (Green Bazaar/Zelyony Bazaar) is a world-class covered market with Kazakh produce, Russian smoked fish, dried fruits from the south, and the regional chuchvara dumplings and laghman noodle soup. January cold amplifies the appeal of sitting in a warm chaikhana (tea house) with plov (rice pilaf), manti dumplings, and kumiss (fermented mare's milk — warming in winter).
+**[Almaty food](/kazakhstan/almaty-food-guide) culture:** Kazakhstan's former capital has an exceptional food scene — the Central Bazaar (Green Bazaar/Zelyony Bazaar) is a world-class covered market with Kazakh produce, Russian smoked fish, dried fruits from the south, and the regional chuchvara dumplings and laghman noodle soup. January cold amplifies the appeal of sitting in a warm chaikhana (tea house) with plov (rice pilaf), manti dumplings, and kumiss (fermented mare's milk — warming in winter).
 
 **Astana's futuristic architecture in snow:** The capital's extraordinary skyline — Bayterek Tower, the Khan Shatyr entertainment center, the Palace of Peace and Reconciliation, and the National Museum — are visually more dramatic in winter snow conditions. The city's indoor spaces are designed for the cold: Khan Shatyr is a heated tent city with a beach resort inside.
 

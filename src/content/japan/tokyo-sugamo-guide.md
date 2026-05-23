@@ -10,7 +10,7 @@ tags: [Sugamo, Tokyo neighborhoods, Jizo-dori, Tokyo shopping, old Tokyo, red un
 city: tokyo
 ---
 
-Sugamo's Jizo-dori shopping street (*地蔵通り商店街*) is one of Tokyo's most distinctive neighborhoods — affectionately nicknamed *obachan no Harajuku* ("Grandma's Harajuku") for its elderly clientele, traditional shops, and conspicuous absence of Instagram-friendly aesthetics. While Harajuku sells youth fashion to teenagers, Sugamo sells red underwear, traditional pickles, and lucky charms to retired Tokyoites.
+Sugamo's Jizo-dori shopping street (*地蔵通り商店街*) is one of [Tokyo](/japan/tokyo-guide)'s most distinctive neighborhoods — affectionately nicknamed *obachan no Harajuku* ("Grandma's Harajuku") for its elderly clientele, traditional shops, and conspicuous absence of Instagram-friendly aesthetics. While Harajuku sells youth fashion to teenagers, Sugamo sells red underwear, traditional pickles, and lucky charms to retired Tokyoites.
 
 The comparison is genuinely apt: both are pedestrian shopping streets centered on a specific identity. Harajuku's identity is youth and fashion; Sugamo's is traditional Tokyo culture, religious observance, and the specific domestic concerns of the city's older generation.
 
@@ -62,6 +62,6 @@ On the 4th, 14th, and 24th of each month — the traditional Jizo festival days 
 
 **Hours**: Most shops open 9am–6pm. The street is liveliest before noon.
 
-**Combine with**: Komagome Station (one stop south on Yamanote) for Rikugien Garden — one of Tokyo's finest traditional strolling gardens, particularly beautiful in autumn foliage (late November) and cherry blossom season (late March). A Sugamo morning walk followed by Rikugien in the afternoon is a half-day circuit.
+**Combine with**: Komagome Station (one stop south on Yamanote) for Rikugien Garden — one of Tokyo's finest traditional strolling gardens, particularly beautiful in autumn foliage (late November) and [cherry blossom](/japan/cherry-blossom-guide) season (late March). A Sugamo morning walk followed by Rikugien in the afternoon is a half-day circuit.
 
 **What makes it worth visiting**: Sugamo is one of the few Tokyo neighborhoods that looks genuinely old, moves at a different pace from the rest of the city, and doesn't feel staged for tourists. The people shopping there are shopping there for real — buying the same things their parents bought in the same shops. That specificity is increasingly rare in Tokyo.

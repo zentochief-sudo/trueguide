@@ -10,7 +10,7 @@ tags: [Kerala, India, backwaters, Alleppey, Munnar, Fort Kochi, Ayurveda, Theyya
 city: kerala
 ---
 
-Kerala is the narrowest and most geographically intense state in India — a 550 km strip of coastline, backwaters, and paddy fields between the Arabian Sea and the Western Ghats, rising from sea level to 2,695 m in 60 km. The diversity within that strip is extraordinary: Chinese fishing nets and Dutch trading posts at Fort Kochi, the world's most productive pepper, cardamom, and rubber plantations in the hills, one of the highest literacy rates in the developing world (96%), and a tradition of ritual arts (Kathakali, Theyyam) that is among the most distinctive in Asia.
+Kerala is the narrowest and most geographically intense state in [India](/india) — a 550 km strip of coastline, backwaters, and paddy fields between the Arabian Sea and the Western Ghats, rising from sea level to 2,695 m in 60 km. The diversity within that strip is extraordinary: Chinese fishing nets and Dutch trading posts at Fort Kochi, the world's most productive pepper, cardamom, and rubber plantations in the hills, one of the highest literacy rates in the developing world (96%), and a tradition of ritual arts (Kathakali, Theyyam) that is among the most distinctive in Asia.
 
 The backwaters alone — the network of lagoons, lakes, and canals parallel to the coast — justify the journey.
 
@@ -60,7 +60,7 @@ The best experiences are at village-level Theyyam ceremonies reachable from Kann
 
 ## Practical Notes
 
-- **Getting to Kerala**: Kochi International Airport has direct flights from the Gulf, Singapore, and major Indian cities. Train connections to all Kerala cities from Mumbai and Delhi
+- **Getting to Kerala**: Kochi International Airport has direct flights from the Gulf, Singapore, and major Indian cities. Train connections to all Kerala cities from [Mumbai](/india/mumbai-guide) and [Delhi](/india/delhi-guide)
 - **Getting around**: Local buses (cheap, comprehensive), auto-rickshaws (meter or negotiate), Ola/Uber in cities
 - **Best time**: October–February (post-monsoon, dry and comfortable). June–September is monsoon season — dramatic but intense
 - **Ayurveda**: Kerala is the home of authentic Ayurvedic treatment — panchakarma (full-body detox) programs require 7–21 days. Day massages (abhyangam, €20–40) are available at every resort. For authentic treatment, look for centers with qualified practitioners (BAMS graduates)

@@ -10,7 +10,7 @@ tags: [Monterrey, food, cabrito, carne asada, machaca, World Cup 2026, northern 
 city: monterrey
 ---
 
-Monterrey's cuisine is the cuisine of northern Mexico — meat-forward, grilled over mesquite wood, with flour tortillas instead of corn, and a distinct identity from the mole-and-market culture of central Mexico. The three pillars are cabrito (roasted young goat), carne asada (grilled beef), and machaca (dried shredded beef). Understanding the difference between regio food and what visitors often expect from "Mexican food" is the starting point.
+Monterrey's cuisine is the cuisine of northern [Mexico](/mexico) — meat-forward, grilled over mesquite wood, with flour tortillas instead of corn, and a distinct identity from the mole-and-market culture of central Mexico. The three pillars are cabrito (roasted young goat), carne asada (grilled beef), and machaca (dried shredded beef). Understanding the difference between regio food and what visitors often expect from "Mexican food" is the starting point.
 
 ---
 

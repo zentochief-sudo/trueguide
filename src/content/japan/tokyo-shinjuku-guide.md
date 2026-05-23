@@ -22,7 +22,7 @@ This disorientation is also the best way to understand Shinjuku: the neighborhoo
 
 What Kabukicho actually contains: host clubs (where men are paid to entertain female customers), hostess bars, various categories of adult entertainment, legitimate restaurants and izakayas, karaoke chains (Shidax, Big Echo), and the new **Kabukicho Tower** (2023) — a 48-story mixed-use tower with a cinema, restaurants, and a hotel designed by Klein Dytham Architecture.
 
-Walking through Kabukicho at 11pm is a specific urban experience — the neon, the touts, the mix of tourists and salarymen and working-night-shift hostesses — that is Tokyo as intensely as anything in the city. You do not need to participate in any of the commercial offers. Walking through is enough.
+Walking through Kabukicho at 11pm is a specific urban experience — the neon, the touts, the mix of tourists and salarymen and working-night-shift hostesses — that is [Tokyo](/japan/tokyo-guide) as intensely as anything in the city. You do not need to participate in any of the commercial offers. Walking through is enough.
 
 **Golden Gai** — the compact alley network immediately east of Kabukicho: approximately 200 tiny bars packed into six narrow lanes, each bar seating 6–10 people maximum, most owned and operated by a single person with a specific aesthetic and often a specific clientele type (writers, jazz listeners, film people, drag artists). The bars have been here since the postwar period, surviving development pressure through a combination of legal ownership structure and community resistance.
 
@@ -40,7 +40,7 @@ Cover charges (¥500–1,500) are common and disclosed at the door. Drinks are �
 
 The skyscraper district west of the station occupies the site of the former Yodobashi Reservoir, drained in 1965 to make way for development. What went up in the following decades is Tokyo's most concentrated cluster of high-rise architecture.
 
-**Tokyo Metropolitan Government Building** — the twin-tower complex designed by Kenzo Tange (completed 1990), housing the Tokyo government offices and two free observation decks on the 45th floor. Hours: 9am–11pm (South Tower) and 9am–10:30pm (North Tower); closed alternating Mondays and Tuesdays. The view covers central Tokyo in every direction, with clear-day visibility to Mount Fuji to the southwest. Free. This is the most practical observatory in Tokyo — no ticket queue, no admission charge, and views equivalent to paid alternatives.
+**Tokyo Metropolitan Government Building** — the twin-tower complex designed by Kenzo Tange (completed 1990), housing the Tokyo government offices and two free observation decks on the 45th floor. Hours: 9am–11pm (South Tower) and 9am–10:30pm (North Tower); closed alternating Mondays and Tuesdays. The view covers central Tokyo in every direction, with clear-day visibility to [Mount Fuji](/japan/mount-fuji-guide) to the southwest. Free. This is the most practical observatory in Tokyo — no ticket queue, no admission charge, and views equivalent to paid alternatives.
 
 **Shinjuku Park Tower** — the Tange-designed three-tower complex at the western edge of the skyscraper district, with the Park Hyatt Tokyo occupying the upper floors. The New York Bar on the 52nd floor is the *Lost in Translation* bar — not a film set recreation but the actual bar, still operating, still with the Tokyo nightscape view. Drinks are ¥2,000–3,000+; the cover charge (¥2,200) applies after 8pm on weekdays. Worth one visit.
 
@@ -52,7 +52,7 @@ The skyscraper district west of the station occupies the site of the former Yodo
 
 The best park in central Tokyo: 58 hectares of former imperial garden containing three distinct garden styles (Japanese, French formal, English landscape), 1,500 trees, and a greenhouse with tropical plants.
 
-**Cherry blossom**: Shinjuku Gyoen has 65 varieties of cherry tree including early-blooming *kanzakura* (January) and late *ichiyo* (late April), extending the viewing season considerably beyond the standard 2-week window. At peak bloom the park's scale allows for less crowded viewing than many smaller Shinjuku parks. The no-alcohol policy keeps the blue tarp picnic culture to a minimum.
+**[Cherry blossom](/japan/cherry-blossom-guide)**: Shinjuku Gyoen has 65 varieties of cherry tree including early-blooming *kanzakura* (January) and late *ichiyo* (late April), extending the viewing season considerably beyond the standard 2-week window. At peak bloom the park's scale allows for less crowded viewing than many smaller Shinjuku parks. The no-alcohol policy keeps the blue tarp picnic culture to a minimum.
 
 Admission ¥500. Open 9am–4:30pm (closed Mondays). The south gate on Shinjuku-dori is the standard entry; the Sendagaya gate on the north side is less busy.
 

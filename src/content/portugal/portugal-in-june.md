@@ -10,13 +10,13 @@ tags: [Portugal, June, Santo António, Lisbon, Alfama, festivals, Algarve, summe
 city: national
 ---
 
-June is when Portugal's summer begins — not just meteorologically but culturally. The Festas de Lisboa (Lisbon Festivals) run the entire month, culminating in the Santo António celebrations on June 12–13: the largest popular festival in Lisbon, centered on the Alfama and Mouraria neighborhoods, with street sardines, music, and dancing until dawn. The Algarve is fully open for beach season. The Douro Valley has its full summer canopy. And the jacaranda is finishing in Lisbon, replaced by the heat and light of a proper Mediterranean summer.
+June is when [Portugal](/portugal)'s summer begins — not just meteorologically but culturally. The Festas de Lisboa ([Lisbon](/portugal/lisbon-guide) Festivals) run the entire month, culminating in the Santo António celebrations on June 12–13: the largest popular festival in Lisbon, centered on the Alfama and Mouraria neighborhoods, with street sardines, music, and dancing until dawn. The [Algarve](/portugal/algarve-guide) is fully open for beach season. The [Douro Valley](/portugal/douro-valley-guide) has its full summer canopy. And the jacaranda is finishing in Lisbon, replaced by the heat and light of a proper Mediterranean summer.
 
 ## Weather in June
 
 **Lisbon:** 17°C to 27°C. Warm, increasingly dry. The first proper summer days arrive in June — outdoor dining weather all month.
 
-**Porto:** 15°C to 24°C. Warm and mostly dry. The Douro valley can be hot in late June.
+**[Porto](/portugal/porto-guide):** 15°C to 24°C. Warm and mostly dry. The Douro valley can be hot in late June.
 
 **Algarve:** 20°C to 28°C. Full summer conditions. Sea temperature 21–22°C. Long days (sunset after 9 PM).
 

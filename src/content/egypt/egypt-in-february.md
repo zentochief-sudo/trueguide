@@ -10,11 +10,11 @@ tags: [Egypt, February, Abu Simbel, Red Sea, Luxor, solar alignment, diving]
 city: national
 ---
 
-February is among Egypt's best months, sitting in the sweet spot between the January peak and the approaching spring warmth. The Abu Simbel solar alignment on February 22 draws visitors specifically for that event. Red Sea water temperatures are still cool but diving visibility is excellent. And the historic sites are comfortable at temperatures that begin creeping warmer by midday — warm enough to feel summery, not yet oppressive.
+February is among [Egypt](/egypt)'s best months, sitting in the sweet spot between the January peak and the approaching spring warmth. The Abu Simbel solar alignment on February 22 draws visitors specifically for that event. Red Sea water temperatures are still cool but diving visibility is excellent. And the historic sites are comfortable at temperatures that begin creeping warmer by midday — warm enough to feel summery, not yet oppressive.
 
 ## Weather & Conditions
 
-**Cairo:** 12–20°C. Pleasant, clear days. Occasional dust-carrying Khamsin winds begin by late February, but they're rare at this point.
+**[Cairo](/egypt/cairo-travel-guide):** 12–20°C. Pleasant, clear days. Occasional dust-carrying Khamsin winds begin by late February, but they're rare at this point.
 
 **Luxor:** 15–25°C. Warmer than January. Afternoons at exterior sites feel genuinely warm by February. Pack sunscreen.
 

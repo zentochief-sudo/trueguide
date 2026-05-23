@@ -10,7 +10,7 @@ tags: [Tokyo Skytree, Tokyo, Japan, observation deck, Tembo Deck, Solamachi, Asa
 city: tokyo
 ---
 
-Tokyo Skytree opened in 2012, replacing Tokyo Tower as the city's primary broadcast tower and surpassing it dramatically in height: at 634 meters (the number chosen because it reads as *mu-sa-shi*, the old name for the Kanto region in Japanese numerical wordplay), it is the world's tallest tower and the second-tallest structure after the Burj Khalifa.
+[Tokyo](/japan/tokyo-guide) Skytree opened in 2012, replacing [Tokyo Tower](/japan/tokyo-tower-guide) as the city's primary broadcast tower and surpassing it dramatically in height: at 634 meters (the number chosen because it reads as *mu-sa-shi*, the old name for the Kanto region in Japanese numerical wordplay), it is the world's tallest tower and the second-tallest structure after the Burj Khalifa.
 
 The tower's design — a tapering lattice structure with a triangular base that transitions to a circular cross-section above 320 meters — takes traditional Japanese aesthetics seriously: the *sorin* (the topmost spire design) references the finials of Buddhist pagodas; the curved lower structure references *entasis* (the slight outward curvature used in traditional temple columns). The result is a tower that does not look like a European or American telecoms tower and is considerably more interesting architecturally.
 
@@ -27,7 +27,7 @@ The main observation floor — a glass-walled circular platform at 350 meters, w
 - **North**: Saitama Prefecture and the flat Kanto Plain extending to the horizon
 - **South**: Shibuya, Roppongi, and the concentration of city towers in Minato ward
 
-On clear days with good visibility (winter mornings, after rainfall), **Mount Fuji** is visible to the west — the most photographed view from Skytree.
+On clear days with good visibility (winter mornings, after rainfall), **[Mount Fuji](/japan/mount-fuji-guide)** is visible to the west — the most photographed view from Skytree.
 
 **Café 634**: The café on the deck level serves food and drinks with window views. Reservation not required but the window seats have queues on peak days.
 

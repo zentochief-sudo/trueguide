@@ -10,7 +10,7 @@ tags: [Fukuoka, Japan, Kyushu, ramen, tonkotsu, yatai, food, Hakata, Beppu, Naga
 city: national
 ---
 
-Fukuoka is the largest city on Kyushu, Japan's southernmost main island, and by various measures the most liveable city in Japan: low cost of living relative to Tokyo, compact enough to walk or cycle between neighborhoods, excellent public transport, and a food culture that punches considerably above its profile on international travel itineraries.
+Fukuoka is the largest city on Kyushu, Japan's southernmost main island, and by various measures the most liveable city in Japan: low cost of living relative to [Tokyo](/japan/tokyo-guide), compact enough to walk or cycle between neighborhoods, excellent public transport, and a food culture that punches considerably above its profile on international travel itineraries.
 
 The city is divided between two historic districts that still function as identities: **Hakata**, the traditional merchant town on the east bank of the Naka River, and **Tenjin**, the modern commercial center on the west bank. The Shinkansen station is called Hakata Station, not Fukuoka Station, which tells you something about which identity won.
 
@@ -18,9 +18,9 @@ The city is divided between two historic districts that still function as identi
 
 ## Getting There
 
-**From Osaka**: 2 hours 20 minutes by Shinkansen Nozomi (¥15,000). The most convenient Kyushu entry point from the Kansai region.
+**From [Osaka](/japan/osaka-guide)**: 2 hours 20 minutes by Shinkansen Nozomi (¥15,000). The most convenient Kyushu entry point from the Kansai region.
 **From Tokyo**: 5 hours by Shinkansen Nozomi (¥22,000) or 2 hours by flight to Fukuoka Airport. The airport is 2 stops from Hakata Station on the subway — one of the most convenient airport connections in Japan (5 minutes, ¥260).
-**Within Kyushu**: Fukuoka is 2 hours from Nagasaki by express train, 90 minutes from Beppu, 2.5 hours from Kagoshima by Shinkansen.
+**Within Kyushu**: Fukuoka is 2 hours from [Nagasaki](/japan/nagasaki-guide) by express train, 90 minutes from [Beppu](/japan/beppu-guide), 2.5 hours from [Kagoshima](/japan/kagoshima-guide) by Shinkansen.
 
 ---
 
@@ -58,7 +58,7 @@ The old merchant district on the east bank of the Naka River, with the Shinkanse
 
 **Kushida Shrine** — the principal shrine of Hakata, founded in 757. The shrine houses two giant *kazari-yama* (festival floats) from the Hakata Gion Yamakasa festival — enormous wooden frame constructions decorated with figures from mythology and history, carried through the streets in July at speeds that seem physically impossible given their weight. The floats on permanent display in the shrine are 13 meters tall and weigh several tons.
 
-**Hakata Gion Yamakasa** (July 1–15): The Fukuoka festival, one of Japan's three major festivals alongside Kyoto's Gion Matsuri and Osaka's Tenjin Matsuri. The climax on July 15 — the Oiyama race, where seven neighborhood teams carry the heavy floats through Hakata streets at a run — starts at 4:59am. Tens of thousands attend. Hotel rates double for this two-week period.
+**Hakata Gion Yamakasa** (July 1–15): The Fukuoka festival, one of Japan's three major festivals alongside [Kyoto](/japan/kyoto-guide)'s Gion Matsuri and Osaka's Tenjin Matsuri. The climax on July 15 — the Oiyama race, where seven neighborhood teams carry the heavy floats through Hakata streets at a run — starts at 4:59am. Tens of thousands attend. Hotel rates double for this two-week period.
 
 **Hakata Machiya Folk Museum** — a Meiji-era townhouse complex with rotating exhibitions on traditional Hakata crafts: *Hakata-ori* silk weaving (the textile used for high-quality kimono obi belts), *Hakata ningyo* (painted ceramic dolls), and *Yamakasa* festival history. Admission ¥200.
 
@@ -72,7 +72,7 @@ The commercial center of the city: Tenjin Station at the hub, surrounded by depa
 
 **Ohori Park** — the large park centered on a lake 2km west of Tenjin. Former castle moat expanded into a proper lake with a central island connected by bridges. The jogging path around the lake (2km) is heavily used by Fukuoka residents. The Japanese garden inside the park is smaller and more refined than the park's scale suggests.
 
-**Fukuoka Castle Ruins (Maizuru Park)** — the stone foundations and small remaining turret of Fukuoka Castle, within Maizuru Park adjacent to Ohori. The castle itself was dismantled in the Meiji period; what remains is a broad elevated area with views over the city and excellent cherry blossom (the park has 1,000 trees, and the castle ruins location is among the better viewing spots in the city).
+**Fukuoka Castle Ruins (Maizuru Park)** — the stone foundations and small remaining turret of Fukuoka Castle, within Maizuru Park adjacent to Ohori. The castle itself was dismantled in the Meiji period; what remains is a broad elevated area with views over the city and excellent [cherry blossom](/japan/cherry-blossom-guide) (the park has 1,000 trees, and the castle ruins location is among the better viewing spots in the city).
 
 ---
 

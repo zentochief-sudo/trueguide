@@ -10,13 +10,13 @@ tags: []
 city: Delhi
 ---
 
-Delhi is one of the world's great cities — 3,000 years old, eight times destroyed and rebuilt, and home to some of the most extraordinary monuments ever raised. It's also overwhelming, loud, polluted, and chaotically alive. Three days is exactly enough to get past the initial shock and start to love it.
+[Delhi](/india/delhi-guide) is one of the world's great cities — 3,000 years old, eight times destroyed and rebuilt, and home to some of the most extraordinary monuments ever raised. It's also overwhelming, loud, polluted, and chaotically alive. Three days is exactly enough to get past the initial shock and start to love it.
 
 ## Day 1 – Old Delhi: Mughal City
 
 **Morning:** Start in **Chandni Chowk** — the main street of Mughal Old Delhi, built in 1650 and still as chaotic. Take a cycle rickshaw through the narrow lanes of the **Khari Baoli spice market** (Asia's largest wholesale spice market — the smells are overwhelming) and the silver, textiles, and wedding markets of the surrounding lanes.
 
-Visit the **Jama Masjid** — India's largest mosque, a red sandstone and marble complex built by Shah Jahan between 1644 and 1656. The courtyard can hold 25,000 worshippers. Climb the south minaret (small fee) for a view across Old Delhi's rooftops.
+Visit the **Jama Masjid** — [India](/india)'s largest mosque, a red sandstone and marble complex built by Shah Jahan between 1644 and 1656. The courtyard can hold 25,000 worshippers. Climb the south minaret (small fee) for a view across Old Delhi's rooftops.
 
 Lunch at **Karim's** — established in 1913 by descendants of royal Mughal court chefs, the lamb curry and mutton Korma here are legendary.
 

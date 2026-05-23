@@ -10,7 +10,7 @@ tags: [Cairo, Egypt, travel guide, Pyramids, Grand Egyptian Museum, practical ti
 city: cairo
 ---
 
-Cairo is one of the world's great cities — a metropolis of 23 million people built on both banks of the Nile, where medieval Islamic architecture, ancient Pharaonic monuments, and a chaotic, vital modern city exist in immediate proximity. The Pyramids of Giza are visible from suburban rooftops. The Khan el-Khalili bazaar, founded in 1382, is still the neighborhood market. The Grand Egyptian Museum, opened in 2023, is the largest museum dedicated to a single civilization on earth.
+Cairo is one of the world's great cities — a metropolis of 23 million people built on both banks of the Nile, where medieval Islamic architecture, ancient Pharaonic monuments, and a chaotic, vital modern city exist in immediate proximity. The Pyramids of Giza are visible from suburban rooftops. The Khan el-Khalili bazaar, founded in 1382, is still the neighborhood market. The [Grand Egyptian Museum](/[egypt](/egypt)/grand-egyptian-museum-guide), opened in 2023, is the largest museum dedicated to a single civilization on earth.
 
 It is loud, overwhelming, deeply atmospheric, and completely unlike anywhere else.
 
@@ -18,7 +18,7 @@ It is loud, overwhelming, deeply atmospheric, and completely unlike anywhere els
 
 ## Why Cairo in 2026
 
-The opening of the **Grand Egyptian Museum (GEM)** near the Giza Plateau in 2023 created a genuine shift in what Cairo offers visitors. For the first time in history, all 5,398 artifacts from Tutankhamun's tomb are displayed together — including the famous golden mask, thrones, chariots, and jewelry that have never previously been shown in a single exhibition. Combined with the ancient Pyramids a short drive away, the GEM makes Cairo arguably the single most important destination for anyone interested in ancient history.
+The opening of the **Grand [Egyptian Museum](/egypt/egyptian-museum-guide) (GEM)** near the Giza Plateau in 2023 created a genuine shift in what Cairo offers visitors. For the first time in history, all 5,398 artifacts from Tutankhamun's tomb are displayed together — including the famous golden mask, thrones, chariots, and jewelry that have never previously been shown in a single exhibition. Combined with the ancient Pyramids a short drive away, the GEM makes Cairo arguably the single most important destination for anyone interested in ancient history.
 
 ---
 
@@ -50,9 +50,9 @@ Every Cairo visit organizes around five experiences that can't be skipped:
 
 1. **The Pyramids of Giza and Sphinx**: The only surviving wonder of the ancient world — nothing prepares you for the scale.
 2. **The Grand Egyptian Museum**: The complete Tutankhamun collection plus 100,000 additional artifacts in a world-class building.
-3. **Islamic Cairo**: Walking Al-Muizz Street, visiting the Sultan Hassan Mosque, and drinking tea in a medieval caravanserai.
+3. **[Islamic Cairo](/egypt/islamic-cairo-guide)**: Walking Al-Muizz Street, visiting the Sultan Hassan Mosque, and drinking tea in a medieval caravanserai.
 4. **Khan el-Khalili**: The oldest continuously operating bazaar in the Middle East.
-5. **Coptic Cairo**: The Hanging Church, the Ben Ezra Synagogue, and the intersection of Christianity, Judaism, and Islam in a single neighborhood.
+5. **[Coptic Cairo](/egypt/coptic-cairo-guide)**: The Hanging Church, the Ben Ezra Synagogue, and the intersection of Christianity, Judaism, and Islam in a single neighborhood.
 
 A five-day visit covers all five comfortably. Three days covers them in compressed form.
 

@@ -10,9 +10,9 @@ tags: [Peru, food, ceviche, causa, chicha, anticuchos, chifa, Andean cuisine, Am
 city: lima
 ---
 
-Peruvian cuisine is the most complex food culture in Latin America and one of the most varied in the world — the intersection of 3,000+ varieties of potato, 55 varieties of corn, Amazon river fish and jungle fruits, Pacific Ocean seafood, and the cooking traditions of Spanish, African, Japanese, and Chinese immigrants who arrived over five centuries. The result is a cuisine with more distinct regional traditions, more endemic ingredients, and a more complete relationship between high-altitude agriculture and coastal fishing than anywhere in the Americas.
+Peruvian cuisine is the most complex food culture in Latin America and one of the most varied in the world — the intersection of 3,000+ varieties of potato, 55 varieties of corn, [Amazon](/[peru](/peru)/amazon-guide) river fish and jungle fruits, Pacific Ocean seafood, and the cooking traditions of Spanish, African, Japanese, and Chinese immigrants who arrived over five centuries. The result is a cuisine with more distinct regional traditions, more endemic ingredients, and a more complete relationship between high-altitude agriculture and coastal fishing than anywhere in the Americas.
 
-The Lima fine dining revolution of the 2000s (led by Gastón Acurio, who opened Astrid & Gastón in 1994 and spent two decades reframing Peruvian cuisine internationally) has made the food internationally visible; the tradition behind it is much older.
+The [Lima](/peru/lima-guide) fine dining revolution of the 2000s (led by Gastón Acurio, who opened Astrid & Gastón in 1994 and spent two decades reframing Peruvian cuisine internationally) has made the food internationally visible; the tradition behind it is much older.
 
 ---
 
@@ -75,7 +75,7 @@ The largest Chinese community in Latin America arrived in Peru as contract labor
 ## Regional Variations
 
 - **Arequipa**: *Chupe de camarones*, *rocoto relleno*, *adobo arequipeño* (marinated pork stew)
-- **Cusco**: *Chiri uchu* (cold plate of dried meats, corn, cheese, and seaweed), *capchi de habas* (fava bean stew)
+- **[Cusco](/peru/cusco-guide)**: *Chiri uchu* (cold plate of dried meats, corn, cheese, and seaweed), *capchi de habas* (fava bean stew)
 - **Iquitos**: *Juane* (rice and chicken wrapped in bijao leaves and boiled — the Amazon tamale), *tacacho con cecina* (mashed plantain with dried pork), *inchicapi* (peanut-chicken soup with corn)
 
 ---

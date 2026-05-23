@@ -10,7 +10,7 @@ tags: []
 city: Dublin
 ---
 
-Dublin rewards slow walking and spontaneous detours. It's a city where a 15-minute stroll connects a Viking burial site, a Georgian library, and a pub that's been pouring pints since 1198. Three days is the sweet spot — long enough to go beyond the tourist circuit, short enough to stay energised.
+[Dublin](/ireland/dublin-travel-guide) rewards slow walking and spontaneous detours. It's a city where a 15-minute stroll connects a Viking burial site, a Georgian library, and a pub that's been pouring pints since 1198. Three days is the sweet spot — long enough to go beyond the tourist circuit, short enough to stay energised.
 
 ## Day 1 – The Historic Core
 
@@ -18,7 +18,7 @@ Dublin rewards slow walking and spontaneous detours. It's a city where a 15-minu
 
 Walk to **St Stephen's Green**, Dublin's elegant Victorian park, then south to **Merrion Square** — the Georgian heartland. The colourful townhouses and their famous front doors make for great photos. **Number 29** on Fitzwilliam Street is a restored Georgian townhouse you can tour.
 
-**Afternoon:** The **National Museum of Ireland – Archaeology** is free and world-class. The bog bodies (2,000-year-old preserved corpses found in Irish peatlands), gold treasures, and the Tara Brooch are extraordinary. Finish at **Leinster House** (the Irish parliament) and walk to **Grafton Street** for coffee and people-watching.
+**Afternoon:** The **National Museum of [Ireland](/ireland) – Archaeology** is free and world-class. The bog bodies (2,000-year-old preserved corpses found in Irish peatlands), gold treasures, and the Tara Brooch are extraordinary. Finish at **Leinster House** (the Irish parliament) and walk to **Grafton Street** for coffee and people-watching.
 
 **Evening:** Head to the **Temple Bar district** for dinner — yes, it's touristy, but the streets are lively and the food has improved dramatically. **The Vintage Kitchen** or **Bastible** (if you can book) are worth it. For drinks, try **The Long Hall** on South Great George's Street — all dark mahogany, brass fittings, and Victorian grandeur.
 

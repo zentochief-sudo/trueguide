@@ -10,7 +10,7 @@ tags: [Portugal, December, Christmas, Madeira, New Year, Lisbon, Porto, winter, 
 city: national
 ---
 
-December is Portugal's Christmas month — and Portugal celebrates Christmas with genuine warmth and traditional culture. Lisbon and Porto illuminate their historic streets with Christmas lights. The Mercados de Natal (Christmas markets) appear in the city centers. Madeira runs the most spectacular New Year's Eve fireworks in Europe — the Funchal display is officially recognized as the world's largest fireworks show. And the continental coast is at its most dramatically Atlantic. December rewards specific intent: Christmas atmosphere, New Year in Madeira, or winter value in a mild European capital.
+December is [Portugal](/portugal)'s Christmas month — and Portugal celebrates Christmas with genuine warmth and traditional culture. [Lisbon](/portugal/lisbon-guide) and [Porto](/portugal/porto-guide) illuminate their historic streets with Christmas lights. The Mercados de Natal (Christmas markets) appear in the city centers. Madeira runs the most spectacular New Year's Eve fireworks in Europe — the Funchal display is officially recognized as the world's largest fireworks show. And the continental coast is at its most dramatically Atlantic. December rewards specific intent: Christmas atmosphere, New Year in Madeira, or winter value in a mild European capital.
 
 ## Weather in December
 
@@ -18,7 +18,7 @@ December is Portugal's Christmas month — and Portugal celebrates Christmas wit
 
 **Porto:** 7°C to 13°C. Cooler and wetter than Lisbon. Porto's December atmosphere — grey light, rain, the Port wine lodge illuminations reflecting on the Douro — is genuinely beautiful in its austerity.
 
-**Algarve:** 12°C to 18°C. The warmest December in Portugal — mild enough for coastal walking every day. Not swimming weather but excellent for the Fishermen's Trail or beach walks.
+**[Algarve](/portugal/algarve-guide):** 12°C to 18°C. The warmest December in Portugal — mild enough for coastal walking every day. Not swimming weather but excellent for the Fishermen's Trail or beach walks.
 
 **Alentejo:** 7°C to 13°C. Cold nights, comfortable days. The medieval towns are festive in a low-key, deeply local way.
 

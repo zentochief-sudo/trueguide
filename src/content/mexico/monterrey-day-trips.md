@@ -22,7 +22,7 @@ The closest and most dramatic natural destination from Monterrey — a canyon cu
 
 **What to do**:
 - **Canyon floor hike**: 8 km round trip, no technical gear required. Best in the morning before the heat.
-- **Rock climbing**: One of Mexico's best climbing areas — hundreds of bolted routes from beginner to advanced. Guides and gear rental at the canyon entrance.
+- **Rock climbing**: One of [Mexico](/mexico)'s best climbing areas — hundreds of bolted routes from beginner to advanced. Guides and gear rental at the canyon entrance.
 - **Photography**: Morning light on the east-facing walls; the canyon entrance at dawn is the most photogenic time.
 
 **Practical note**: No public transit to the trailhead. Uber is the most practical option; the driver can drop at the entrance and a return Uber can be arranged from the parking area. The canyon is accessible year-round; June–July heat requires an early start.

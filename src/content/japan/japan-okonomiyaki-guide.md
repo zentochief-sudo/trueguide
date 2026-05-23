@@ -12,7 +12,7 @@ city: national
 
 *Okonomiyaki* (お好み焼き) translates loosely as "grilled as you like it" — *okonomi* means preference or as-you-like, *yaki* means grilled. The name reflects the dish's flexibility: the base (batter, cabbage, eggs) stays consistent, but the fillings are variable by region, season, and preference.
 
-The dish has two major schools — Osaka (*Kansai-style*) and Hiroshima (*Hiroshima-style*) — that are sufficiently different to be considered separate dishes using a shared name. The rivalry between them is genuine and occasionally heated.
+The dish has two major schools — [Osaka](/japan/osaka-guide) (*Kansai-style*) and [Hiroshima](/japan/hiroshima-guide) (*Hiroshima-style*) — that are sufficiently different to be considered separate dishes using a shared name. The rivalry between them is genuine and occasionally heated.
 
 ---
 
@@ -66,7 +66,7 @@ The result is much larger and more substantial than the Osaka version — a full
 
 ## Tokyo Style (もんじゃ焼き — Monjayaki)
 
-Tokyo's related dish — *monjayaki* — is technically a separate preparation. The batter is much more liquid (nearly watery), and the cooking technique is different: the solid ingredients are arranged in a ring on the griddle, the liquid batter is poured into the center, and the mixture is slowly stirred and scraped as it cooks into something between a crispy paste and a thick sauce.
+[Tokyo](/japan/tokyo-guide)'s related dish — *monjayaki* — is technically a separate preparation. The batter is much more liquid (nearly watery), and the cooking technique is different: the solid ingredients are arranged in a ring on the griddle, the liquid batter is poured into the center, and the mixture is slowly stirred and scraped as it cooks into something between a crispy paste and a thick sauce.
 
 The texture is nothing like okonomiyaki — stickier, chewier, more liquid. Monjayaki is eaten directly from the griddle with small metal spatulas. The most concentrated monjayaki area in Tokyo is *Tsukishima* (accessible from Tsukishima Station, Yurakucho Line) — a neighborhood with dozens of monjayaki restaurants on a single street.
 
@@ -88,7 +88,7 @@ The Osaka tradition is most concentrated around:
 
 The okonomiyaki *mura* ("okonomiyaki village") near Hondori — a multi-story building with multiple small restaurants on each floor, each operating one or two griddles — is the concentrated destination. *Kanawa* and *Mitchan* are the most-referenced individual restaurants.
 
-**Miyajima**: On the island accessible from Hiroshima, restaurants near the ferry pier serve Hiroshima okonomiyaki with local oysters added — the oyster okonomiyaki of Miyajima is specific and worth seeking.
+**[Miyajima](/japan/miyajima-guide)**: On the island accessible from Hiroshima, restaurants near the ferry pier serve Hiroshima okonomiyaki with local oysters added — the oyster okonomiyaki of Miyajima is specific and worth seeking.
 
 ### Tokyo
 

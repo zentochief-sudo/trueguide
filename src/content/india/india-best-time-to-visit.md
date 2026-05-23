@@ -10,15 +10,15 @@ tags: []
 city: national
 ---
 
-India is a subcontinent with wildly different climates operating simultaneously. When the north is in pleasant winter (November–February), the south is warm. When Rajasthan hits 48°C in May, the Himalayas are perfect for trekking. Understanding regional climate is essential for planning.
+[India](/india) is a subcontinent with wildly different climates operating simultaneously. When the north is in pleasant winter (November–February), the south is warm. When [Rajasthan](/india/rajasthan-guide) hits 48°C in May, the Himalayas are perfect for trekking. Understanding regional climate is essential for planning.
 
 ## The Short Answer
 
-**Best for Golden Triangle (Delhi, Agra, Jaipur):** October–March  
-**Best for Kerala:** October–February (avoid June–September monsoon)  
+**Best for Golden Triangle ([Delhi](/india/delhi-guide), Agra, [Jaipur](/india/jaipur-guide)):** October–March  
+**Best for [Kerala](/india/kerala-guide):** October–February (avoid June–September monsoon)  
 **Best for Rajasthan:** November–February  
 **Best for Himachal Pradesh / Himalayas:** April–June and September–October  
-**Best for Goa:** November–March  
+**Best for [Goa](/india/goa-guide):** November–March  
 **Avoid everywhere:** May–June (extreme heat) and July–September (peak monsoon in most regions)
 
 ---
@@ -76,7 +76,7 @@ Late monsoon. North India getting its last heavy rain. South India beautiful —
 Post-monsoon freshness. Temperatures dropping. Navratri and Dussehra festivals (September–October). One of the best months for Rajasthan and Delhi.
 
 ### November ⭐⭐ Best month overall
-The sweet spot: cool, clear, post-monsoon green but drying out. Diwali (the festival of lights) is in October or November — extraordinary across India, particularly in Jaipur and Varanasi. Best month for the Golden Triangle.
+The sweet spot: cool, clear, post-monsoon green but drying out. Diwali (the festival of lights) is in October or November — extraordinary across India, particularly in Jaipur and [Varanasi](/india/varanasi-guide). Best month for the Golden Triangle.
 
 ### December
 Cool in the north (Delhi fog can be heavy in late December). Christmas celebrations in Goa and Kerala (large Christian communities). Good for South India and beaches.

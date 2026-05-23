@@ -10,7 +10,7 @@ tags: [Costa Rica, San José, Barrio Amón, Mercado Central, Gold Museum, Jade M
 city: san-jose
 ---
 
-San José has a reputation problem. Most Costa Rica guidebooks spend a paragraph on the capital and then direct readers to the national parks, beaches, and cloud forests that make up the rest of the country. This is partly fair — San José is not a spectacularly beautiful city — but it misses what the capital actually offers: a compact historic core with genuinely interesting museums, a lively Mercado Central, and a logistical convenience as a transit hub that makes it useful even if it's not the primary reason you've come.
+San José has a reputation problem. Most [Costa Rica](/costa-rica/costa-rica-travel-guide) guidebooks spend a paragraph on the capital and then direct readers to the national parks, beaches, and cloud forests that make up the rest of the country. This is partly fair — San José is not a spectacularly beautiful city — but it misses what the capital actually offers: a compact historic core with genuinely interesting museums, a lively Mercado Central, and a logistical convenience as a transit hub that makes it useful even if it's not the primary reason you've come.
 
 Almost all international flights arrive in San José; most rental car agencies are at the airport; and most destinations in Costa Rica are within a 3-hour drive. The standard approach is right: use San José as a base for the first day or two, see what it has to offer, then spread out.
 
@@ -30,7 +30,7 @@ Key landmarks: the Casa Amarilla (the Yellow House, Costa Rica's Foreign Ministr
 A world-class collection of pre-Columbian gold work — over 1,600 pieces from the Chiriquí and other Costa Rican indigenous cultures, displayed in the vaults beneath the Plaza de la Cultura. The technical sophistication of the goldsmithing is remarkable: hollow casting, surface enrichment, and intricate figurative work produced without the use of iron tools. Open daily; admission ~$15.
 
 ### Jade Museum (Museo del Jade)
-The world's largest collection of American jade — 7,000+ pieces including jewelry, ceremonial objects, and tools. Costa Rican jade (actually nephrite and jadeite from Mesoamerican sources) was traded across a wide cultural network; the collection illustrates pre-Columbian exchange routes that reached from Mexico to Colombia. Modernized building with good interpretive displays. Open daily.
+The world's largest collection of American jade — 7,000+ pieces including jewelry, ceremonial objects, and tools. Costa Rican jade (actually nephrite and jadeite from Mesoamerican sources) was traded across a wide cultural network; the collection illustrates pre-Columbian exchange routes that reached from [Mexico](/mexico) to Colombia. Modernized building with good interpretive displays. Open daily.
 
 ### MADC (Museo de Arte y Diseño Contemporáneo)
 Costa Rica's contemporary art museum in the former National Liquor Factory building — a good space with rotating exhibitions of Central American contemporary art. Undervisited but consistently interesting.

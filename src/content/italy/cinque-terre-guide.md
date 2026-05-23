@@ -10,9 +10,9 @@ tags: [Cinque Terre, Italy, coastal hiking, Vernazza, Manarola, Sentiero Azzurro
 city: milan
 ---
 
-Cinque Terre ("Five Lands") is a stretch of Ligurian coastline where five villages — Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore — occupy cliff faces above the Ligurian Sea. The combination of colorful stacked houses, terraced vineyards, and sea views has made Cinque Terre one of Italy's most photographed destinations, a UNESCO World Heritage Site since 1997, and simultaneously a victim of its own success during the peak summer months.
+Cinque Terre ("Five Lands") is a stretch of Ligurian coastline where five villages — Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore — occupy cliff faces above the Ligurian Sea. The combination of colorful stacked houses, terraced vineyards, and sea views has made Cinque Terre one of [Italy](/italy)'s most photographed destinations, a UNESCO World Heritage Site since 1997, and simultaneously a victim of its own success during the peak summer months.
 
-From Milan: 2.5–3 hours by train via La Spezia. A manageable day trip; better as 2–3 days with a base in one of the villages.
+From [Milan](/italy/milan-travel-guide): 2.5–3 hours by train via La Spezia. A manageable day trip; better as 2–3 days with a base in one of the villages.
 
 ---
 

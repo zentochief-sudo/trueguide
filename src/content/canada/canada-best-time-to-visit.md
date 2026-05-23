@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Canada is the world's second-largest country — and its seasons are not uniform. British Columbia's mild, rainy winters are entirely different from Ontario's -20°C blizzards or Québec's celebrated winter carnivals. "Best time to visit" depends entirely on where you're going and what you want to do.
+[Canada](/canada) is the world's second-largest country — and its seasons are not uniform. British Columbia's mild, rainy winters are entirely different from Ontario's -20°C blizzards or Québec's celebrated winter carnivals. "Best time to visit" depends entirely on where you're going and what you want to do.
 
 ## The Short Answer
 

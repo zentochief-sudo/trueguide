@@ -10,7 +10,7 @@ tags: [Cairo, transport, Metro, Uber, Careem, Egypt, getting around]
 city: cairo
 ---
 
-Cairo's transport reality: Uber and Careem are the practical solutions for almost all tourist journeys. The city's famously chaotic traffic and the Metro's limited coverage mean that tourists need both — Metro for the few routes it covers well, and Uber for everything else.
+[Cairo](/egypt/cairo-travel-guide)'s transport reality: Uber and Careem are the practical solutions for almost all tourist journeys. The city's famously chaotic traffic and the Metro's limited coverage mean that tourists need both — Metro for the few routes it covers well, and Uber for everything else.
 
 The good news: Uber is extraordinarily cheap in Cairo by international standards. A 30-minute ride across the city typically costs $2–4 USD. Traffic is the constraint, not the price.
 
@@ -33,7 +33,7 @@ Africa's oldest metro system (opened 1987), with 3 lines covering approximately 
 **Women-only cars**: The 4th and 5th cars of each train are women-only (marked with pink signage). Women can board any car; men cannot enter the designated cars.
 
 **Key lines for tourists**:
-- **Line 1** (Helwan–New El-Marg): Passes through Sadat station (Tahrir Square/Egyptian Museum), Mar Girgis (Coptic Cairo), Ramses Station
+- **Line 1** (Helwan–New El-Marg): Passes through Sadat station (Tahrir Square/[Egyptian Museum](/[egypt](/egypt)/egyptian-museum-guide)), Mar Girgis ([Coptic Cairo](/egypt/coptic-cairo-guide)), Ramses Station
 - **Line 2** (Shubra el-Kheima–El Mounib): Intersects Line 1 at Shohada and Ataba; serves Opera/Garden City
 - **Line 3** (Adly Mansour–Kit Kat): Connects the Cairo Airport area to the city center at Ataba and Bab El Shaeria stations
 
@@ -55,7 +55,7 @@ Both Uber and Careem (Careem is the Dubai-based ride-hail company dominant in th
 | Airport (CAI) to Zamalek/Downtown | 40–60 min | 150–250 EGP (~$3–5) |
 | Zamalek to Tahrir Square | 10–15 min | 40–70 EGP |
 | Downtown to Giza Plateau (Pyramids) | 30–50 min | 80–150 EGP |
-| Zamalek to Islamic Cairo | 20–30 min | 60–100 EGP |
+| Zamalek to [Islamic Cairo](/egypt/islamic-cairo-guide) | 20–30 min | 60–100 EGP |
 | Zamalek to Coptic Cairo | 25–35 min | 70–120 EGP |
 | Pyramids to GEM | 5–10 min | 30–50 EGP |
 

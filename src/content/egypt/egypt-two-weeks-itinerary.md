@@ -10,19 +10,19 @@ tags: []
 city: national
 ---
 
-Two weeks in Egypt allows you to go beyond Cairo and the Pyramids and experience the full sweep of one of the world's oldest civilisations — from the Pharaonic temples of Luxor (3,500 years old) to the Roman ruins of Alexandria, from the living Nile in Aswan to the surreal landscape of the White Desert. This is Egypt properly explored.
+Two weeks in [Egypt](/egypt) allows you to go beyond [Cairo](/egypt/cairo-travel-guide) and the Pyramids and experience the full sweep of one of the world's oldest civilisations — from the Pharaonic temples of Luxor (3,500 years old) to the Roman ruins of Alexandria, from the living Nile in Aswan to the surreal landscape of the White Desert. This is Egypt properly explored.
 
 ## Days 1–3 – Cairo
 
 Three days in Cairo — one of the world's great cities, chaotic and fascinating in equal measure.
 
-**Day 1:** The **Grand Egyptian Museum (GEM)** — the world's largest archaeological museum, opened 2023, housing over 100,000 artefacts including the complete **Treasures of Tutankhamun** (the boy pharaoh's burial goods, including the golden death mask — the most famous object in Egyptian archaeology). Allow 4–5 hours. Located at Giza, adjacent to the pyramids.
+**Day 1:** The **[Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) (GEM)** — the world's largest archaeological museum, opened 2023, housing over 100,000 artefacts including the complete **Treasures of Tutankhamun** (the boy pharaoh's burial goods, including the golden death mask — the most famous object in Egyptian archaeology). Allow 4–5 hours. Located at Giza, adjacent to the pyramids.
 
 **Day 2:** The **Pyramids of Giza** and **Sphinx** — the last surviving wonder of the ancient world, built between 2580 and 2510 BCE. The scale of the Great Pyramid (Khufu) is only comprehensible when you stand at the base. Take a camel or horse ride around the plateau for perspective, or walk the perimeter on foot. **Saqqara** (30 minutes south): Egypt's oldest stone structure — the **Step Pyramid of Djoser** (2650 BCE), predating Giza, in a less-visited archaeological complex. **Memphis**: the ancient capital with its colossal fallen statue of Ramesses II.
 
-**Day 3:** **Islamic Cairo** — the dense, medieval heart of the city. **Khan el-Khalili bazaar** (a working market since 1382 — spices, gold, papyrus, textiles, and every form of souvenir in a labyrinthine layout). The **Al-Azhar Mosque** (972 CE — one of the world's oldest universities still in operation). Walk the **Al-Muizz Street** — the main north-south artery of Islamic Cairo, lined with extraordinarily preserved medieval architecture including the **Bab Zuweila gate** (1092 CE).
+**Day 3:** **[Islamic Cairo](/egypt/islamic-cairo-guide)** — the dense, medieval heart of the city. **Khan el-Khalili bazaar** (a working market since 1382 — spices, gold, papyrus, textiles, and every form of souvenir in a labyrinthine layout). The **Al-Azhar Mosque** (972 CE — one of the world's oldest universities still in operation). Walk the **Al-Muizz Street** — the main north-south artery of Islamic Cairo, lined with extraordinarily preserved medieval architecture including the **Bab Zuweila gate** (1092 CE).
 
-**Coptic Cairo**: the Christian quarter with the **Hanging Church** (suspended over Roman gate towers, 3rd–4th century), the **Coptic Museum**, and the ancient **Ben Ezra Synagogue** (where Moses is said to have been found in the Nile — historically uncertain, culturally significant).
+**[Coptic Cairo](/egypt/coptic-cairo-guide)**: the Christian quarter with the **Hanging Church** (suspended over Roman gate towers, 3rd–4th century), the **Coptic Museum**, and the ancient **Ben Ezra Synagogue** (where Moses is said to have been found in the Nile — historically uncertain, culturally significant).
 
 ## Day 4 – Alexandria
 

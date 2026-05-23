@@ -10,9 +10,9 @@ tags: [skiing Japan, Niseko, Hakuba, powder snow, Hokkaido skiing, Nagano skiing
 city: national
 ---
 
-Japan's ski resorts have an international reputation built on one thing: *JaPow* — the name given to the specific quality of snow that falls on Hokkaido and the mountains of Honshu from Siberian air masses crossing the Sea of Japan. The continental cold air picks up moisture over the sea, then drops it as extremely light, dry powder when it hits Japan's mountains. Niseko averages 15 meters of snowfall per season; Hakuba averages 11 meters. The powder days are consistent, the accumulation deep, and the quality of the snow in January and February specifically is among the best in the world.
+Japan's ski resorts have an international reputation built on one thing: *JaPow* — the name given to the specific quality of snow that falls on [Hokkaido](/japan/hokkaido-guide) and the mountains of Honshu from Siberian air masses crossing the Sea of Japan. The continental cold air picks up moisture over the sea, then drops it as extremely light, dry powder when it hits Japan's mountains. Niseko averages 15 meters of snowfall per season; Hakuba averages 11 meters. The powder days are consistent, the accumulation deep, and the quality of the snow in January and February specifically is among the best in the world.
 
-Japan skiing also means onsen after the mountain, kaiseki dinners in ryokan, and ski-in/ski-out convenience stores selling *nikuman* (steamed pork buns) and warm sake. The complete experience is unlike European or American skiing.
+Japan skiing also means onsen after the mountain, kaiseki dinners in [ryokan](/japan/ryokan-guide), and ski-in/ski-out convenience stores selling *nikuman* (steamed pork buns) and warm sake. The complete experience is unlike European or American skiing.
 
 ---
 
@@ -20,7 +20,7 @@ Japan skiing also means onsen after the mountain, kaiseki dinners in ryokan, and
 
 The internationally best-known Japanese ski destination, and the one that drove the global awareness of Japanese powder skiing from the 1990s onward.
 
-**Location**: 2 hours from Sapporo by bus or rental car, in the Shiribeshi region of southwestern Hokkaido. The resort overlooks the volcanic cone of Mount Yotei (1,898m), which dominates the valley view and appears on virtually every Niseko photograph.
+**Location**: 2 hours from [Sapporo](/japan/sapporo-guide) by bus or rental car, in the Shiribeshi region of southwestern Hokkaido. The resort overlooks the volcanic cone of Mount Yotei (1,898m), which dominates the valley view and appears on virtually every Niseko photograph.
 
 **The resorts**: Niseko United links four separate resorts under a single lift pass:
 - **Grand Hirafu**: The largest and most international of the four, with the best English-language infrastructure and the majority of foreign-operated hotels and restaurants
@@ -44,7 +44,7 @@ The internationally best-known Japanese ski destination, and the one that drove 
 
 The host of alpine events for the 1998 Nagano Winter Olympics. Hakuba is a valley in the Northern Alps (*Kita Alps*) of Nagano Prefecture with 10 interconnected resorts.
 
-**Location**: 2.5–3 hours from Tokyo by the Hakuba Valley Bus direct service (from Shinjuku), or 2 hours by the *Azusa* limited express train to Matsumoto then bus. The direct bus from Shinjuku is the standard approach.
+**Location**: 2.5–3 hours from [Tokyo](/japan/tokyo-guide) by the Hakuba Valley Bus direct service (from Shinjuku), or 2 hours by the *Azusa* limited express train to Matsumoto then bus. The direct bus from Shinjuku is the standard approach.
 
 **The resorts**: The main Hakuba resorts:
 - **Hakuba 47 / Goryu**: Interconnected resorts with varied terrain; 47 has steeper technical runs
@@ -92,7 +92,7 @@ A traditional ski-and-onsen town in Nagano with a reputation as one of Japan's m
 
 **Rusutsu (ルスツ)** — *Hokkaido, near Niseko*: A less crowded alternative to Niseko with excellent terrain (three mountains) and owned by the Westin Hotel — the most direct ski-in/ski-out resort experience in Hokkaido. 90-minute drive from Sapporo.
 
-**Appi Kogen** — *Iwate Prefecture, Tohoku*: Large resort in northern Honshu, popular with Tokyo weekenders; 2h30m by Shinkansen to Morioka then bus. Less powder-focused than Hokkaido.
+**Appi Kogen** — *Iwate Prefecture, [Tohoku](/japan/tohoku-guide)*: Large resort in northern Honshu, popular with Tokyo weekenders; 2h30m by Shinkansen to Morioka then bus. Less powder-focused than Hokkaido.
 
 **Zao (蔵王)** — *Yamagata Prefecture*: Famous for *juhyo* (ice monsters) — trees covered in layers of ice from the cold Siberian wind, creating surreal sculptural forms. The cable car serves the juhyo zone at the top; this is as much a landscape tourism destination as a ski resort.
 
@@ -108,4 +108,4 @@ A traditional ski-and-onsen town in Nagano with a reputation as one of Japan's m
 
 **Language**: Niseko and Hakuba have extensive English. Furano, Nozawa Onsen, and Rusutsu are more Japanese-dominant; a translation app and basic Japanese help.
 
-**Onsen etiquette at ski resorts**: Full tattoo restrictions at traditional onsen (including many ryokan) mean heavily tattooed visitors need to check policies before booking. Some Niseko and Hakuba establishments have adapted to international visitors.
+**[Onsen etiquette](/japan/onsen-etiquette-guide) at ski resorts**: Full tattoo restrictions at traditional onsen (including many ryokan) mean heavily tattooed visitors need to check policies before booking. Some Niseko and Hakuba establishments have adapted to international visitors.

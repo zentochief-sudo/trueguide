@@ -10,7 +10,7 @@ tags: [Kazakhstan, November, winter, Almaty, Shymbulak, steppe, Astana, cold]
 city: national
 ---
 
-November is when Kazakhstan's winter arrives in earnest. Astana drops to -10°C or below by late November. The steppe is brown, frozen, and largely empty. Almaty is cooler but the mountains above still lack sufficient snow for skiing — it's an in-between month. What November offers is Kazakhstan's city culture stripped of any tourist pretension: the bazaars stocking up for winter, the cultural institutions running their serious programming, and the country preparing for the long cold months ahead.
+November is when [Kazakhstan](/kazakhstan)'s winter arrives in earnest. [Astana](/kazakhstan/astana-guide) drops to -10°C or below by late November. The steppe is brown, frozen, and largely empty. [Almaty](/kazakhstan/almaty-travel-guide) is cooler but the mountains above still lack sufficient snow for skiing — it's an in-between month. What November offers is Kazakhstan's city culture stripped of any tourist pretension: the bazaars stocking up for winter, the cultural institutions running their serious programming, and the country preparing for the long cold months ahead.
 
 ## Weather & Conditions
 
@@ -20,7 +20,7 @@ November is when Kazakhstan's winter arrives in earnest. Astana drops to -10°C 
 
 **Astana:** -5 to -15°C by late November. Winter gear required.
 
-**Charyn Canyon:** 5–14°C. Cold but still accessible. An empty, stark landscape.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 5–14°C. Cold but still accessible. An empty, stark landscape.
 
 **Steppe:** -2 to 10°C. Frozen and vast. Not a tourist destination.
 

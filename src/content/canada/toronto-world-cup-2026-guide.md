@@ -10,9 +10,9 @@ tags: [Toronto, World Cup 2026, FIFA, BMO Field, Canada, Ontario]
 city: toronto
 ---
 
-Toronto is the host city for the World Cup 2026 Canada matches and one of the most genuinely diverse cities in the world — approximately 50% of Toronto's population was born outside Canada, making it the most multicultural city of any World Cup host. The neighborhood consequences are real: Chinatown, Little Italy, Little Portugal, Greektown, Little India (the Gerrard India Bazaar), Koreatown, and Little Jamaica are functioning communities where the restaurants, shops, and street life reflect the heritage cultures authentically.
+Toronto is the host city for the World Cup 2026 [Canada](/canada) matches and one of the most genuinely diverse cities in the world — approximately 50% of Toronto's population was born outside Canada, making it the most multicultural city of any World Cup host. The neighborhood consequences are real: Chinatown, Little [Italy](/italy), Little [Portugal](/portugal), Greektown, Little [India](/india) (the Gerrard India Bazaar), Koreatown, and Little Jamaica are functioning communities where the restaurants, shops, and street life reflect the heritage cultures authentically.
 
-The stadium is BMO Field on the waterfront — Toronto's own MLS stadium, smaller than most World Cup venues but specific to the host country's soccer culture.
+The stadium is [BMO Field](/canada/bmo-field-guide) on the waterfront — Toronto's own MLS stadium, smaller than most World Cup venues but specific to the host country's soccer culture.
 
 ---
 

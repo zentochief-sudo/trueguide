@@ -18,7 +18,7 @@ This guide exists because most tourists eat bad Mexican food in LA. They eat $20
 
 ## The Foundation: Why LA Mexican Food Is Different
 
-The Mexican community in Los Angeles is not monolithic. The city has major populations from Oaxaca, Jalisco, Michoacán, Guerrero, and Mexico City, plus Central American communities (Salvadoran, Guatemalan) whose food overlaps with and enriches the Mexican traditions. This means LA has deep expertise in regional specialties that most North American cities don't: Oaxacan mole negro, Sinaloan-style aguachile, Guerrero-style pozole rojo, Jalisco birria.
+The Mexican community in Los Angeles is not monolithic. The city has major populations from Oaxaca, Jalisco, Michoacán, Guerrero, and [Mexico](/mexico) City, plus Central American communities (Salvadoran, Guatemalan) whose food overlaps with and enriches the Mexican traditions. This means LA has deep expertise in regional specialties that most North American cities don't: Oaxacan mole negro, Sinaloan-style aguachile, Guerrero-style pozole rojo, Jalisco birria.
 
 When a Oaxacan-owned restaurant in Koreatown-adjacent Pico-Union makes tlayudas — large, crunchy tortillas loaded with black beans, Oaxacan cheese, and your choice of protein — they are making them with the same techniques and ingredients (including specially sourced Oaxacan cheese) as restaurants in Oaxaca City. The 2,000-mile difference in geography has not meaningfully changed the dish.
 
@@ -66,7 +66,7 @@ Sinaloa and Baja California coastal food traditions have produced a specific sea
 
 **El Siete Mares** (10 E. Valley Boulevard, San Gabriel): A seafood restaurant in the San Gabriel Valley that does the full scope of Pacific Mexican seafood — ceviche, aguachile negro, whole fried snapper, shrimp in garlic butter. The pescado zarandeado (butterflied and grilled fish) is $25–35 for a whole fish and is exceptional.
 
-**Coni'Seafood** (3544 W. Imperial Hwy, Inglewood): Actually close to SoFi Stadium — one of the best seafood restaurants in the city, serving Sinaloan-style dishes. The camarones culichi (shrimp in a cream sauce with poblano chili) is the signature. Budget $30–45 per person for a full meal.
+**Coni'Seafood** (3544 W. Imperial Hwy, Inglewood): Actually close to [SoFi Stadium](/united-states/sofi-stadium-guide) — one of the best seafood restaurants in the city, serving Sinaloan-style dishes. The camarones culichi (shrimp in a cream sauce with poblano chili) is the signature. Budget $30–45 per person for a full meal.
 
 ---
 

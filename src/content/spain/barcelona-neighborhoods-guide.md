@@ -10,7 +10,7 @@ tags: [Barcelona, neighborhoods, Eixample, El Born, Gràcia, Barceloneta, where 
 city: barcelona
 ---
 
-Barcelona's neighborhoods are distinct enough to function as different cities — each with its own street rhythm, food scene, and social character. Knowing the difference between them determines whether you spend a week feeling like a tourist or like someone who actually knows the city.
+[Barcelona](/[spain](/spain)/barcelona-travel-guide)'s neighborhoods are distinct enough to function as different cities — each with its own street rhythm, food scene, and social character. Knowing the difference between them determines whether you spend a week feeling like a tourist or like someone who actually knows the city.
 
 ---
 

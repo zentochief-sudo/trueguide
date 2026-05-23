@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Thailand's biggest secret: its two coasts have different monsoon seasons. The Gulf of Thailand (Koh Samui, Koh Phangan) is best November–April. The Andaman Sea (Phuket, Krabi, Koh Lanta) is best November–April too — but it gets hit harder from May–October. The north (Chiang Mai) has its own pattern. Timing matters enormously.
+[Thailand](/thailand)'s biggest secret: its two coasts have different monsoon seasons. The Gulf of Thailand (Koh Samui, Koh Phangan) is best November–April. The Andaman Sea ([Phuket](/thailand/phuket-guide), Krabi, Koh Lanta) is best November–April too — but it gets hit harder from May–October. The north ([Chiang Mai](/thailand/chiang-mai-guide)) has its own pattern. Timing matters enormously.
 
 ## The Short Answer
 
@@ -25,7 +25,7 @@ Thailand's biggest secret: its two coasts have different monsoon seasons. The Gu
 ## Month-by-Month
 
 ### November ⭐ Excellent
-Dry season begins everywhere. Temperatures cooling slightly (27–32°C in Bangkok). The Andaman Sea emerges from monsoon and the water is crystal clear. **Loy Krathong festival** (full moon, November) — thousands of floating lotus-shaped candles released on rivers and lakes. Extraordinarily beautiful.
+Dry season begins everywhere. Temperatures cooling slightly (27–32°C in [Bangkok](/thailand/bangkok-guide)). The Andaman Sea emerges from monsoon and the water is crystal clear. **Loy Krathong festival** (full moon, November) — thousands of floating lotus-shaped candles released on rivers and lakes. Extraordinarily beautiful.
 
 ### December ⭐⭐ Peak season begins
 Perfect conditions everywhere. Cool season at its best — comfortable temperatures (24–30°C), clear blue skies, and calm seas. Christmas and New Year mean prices spike and crowds peak at major beaches. Book months ahead.

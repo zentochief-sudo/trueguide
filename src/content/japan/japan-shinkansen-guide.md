@@ -10,7 +10,7 @@ tags: [shinkansen, bullet train, Japan rail, JR Pass, reserved seats, unreserved
 city: national
 ---
 
-Japan's shinkansen network connects Tokyo to Osaka in 2 hours 15 minutes, to Kyoto in 2 hours 20 minutes, to Hiroshima in 4 hours, and to Hakata (Fukuoka) in 5 hours. Trains run every 10–15 minutes on main lines and depart within seconds of scheduled time. The operational precision and density of service means the shinkansen functions more like a scheduled urban transit system than conventional intercity rail.
+Japan's shinkansen network connects [Tokyo](/japan/tokyo-guide) to [Osaka](/japan/osaka-guide) in 2 hours 15 minutes, to [Kyoto](/japan/kyoto-guide) in 2 hours 20 minutes, to [Hiroshima](/japan/hiroshima-guide) in 4 hours, and to Hakata ([Fukuoka](/japan/fukuoka-guide)) in 5 hours. Trains run every 10–15 minutes on main lines and depart within seconds of scheduled time. The operational precision and density of service means the shinkansen functions more like a scheduled urban transit system than conventional intercity rail.
 
 Understanding how to book efficiently — particularly the distinction between train types, seat categories, and payment methods — saves both money and planning effort.
 
@@ -20,13 +20,13 @@ Understanding how to book efficiently — particularly the distinction between t
 
 The main trunk route (Tokyo–Osaka–Hiroshima–Fukuoka) operates three categories:
 
-**Nozomi (のぞみ)**: The fastest. Tokyo to Osaka in 2h15m, stopping only at Shinagawa, Shin-Yokohama, Nagoya, Kyoto, Shin-Osaka. Operates most frequently (every 10 minutes peak hours). **Not covered by the standard JR Pass.**
+**Nozomi (のぞみ)**: The fastest. Tokyo to Osaka in 2h15m, stopping only at Shinagawa, Shin-Yokohama, [Nagoya](/japan/nagoya-guide), Kyoto, Shin-Osaka. Operates most frequently (every 10 minutes peak hours). **Not covered by the standard JR Pass.**
 
 **Hikari (ひかり)**: Intermediate speed. Tokyo to Osaka approximately 2h45m, with additional stops including Hamamatsu, Shizuoka, or Okayama depending on service. **Covered by JR Pass.** Less frequent than Nozomi but easily sufficient for the route.
 
 **Kodama (こだま)**: Stops at every station. Slow (Tokyo to Osaka 4h). **Covered by JR Pass.** Useful for intermediate stops; rarely the right choice for long-distance travel unless you're stopping en route.
 
-**Other lines**: The Tohoku Shinkansen (Tokyo–Sendai–Morioka–Shin-Aomori) runs Hayabusa (fastest, not JR Pass) and Yamabiko/Nasuno (JR Pass covered). The Hokuriku Shinkansen (Tokyo–Kanazawa–Tsuruga) and Kyushu Shinkansen operate under different naming conventions.
+**Other lines**: The [Tohoku](/japan/tohoku-guide) Shinkansen (Tokyo–Sendai–Morioka–Shin-Aomori) runs Hayabusa (fastest, not JR Pass) and Yamabiko/Nasuno (JR Pass covered). The Hokuriku Shinkansen (Tokyo–[Kanazawa](/japan/kanazawa-guide)–Tsuruga) and Kyushu Shinkansen operate under different naming conventions.
 
 ---
 

@@ -10,7 +10,7 @@ destinations: [japan, thailand]
 tags: [Japan, Thailand, Asia, comparison, Southeast Asia, travel]
 ---
 
-Japan and Thailand are the two most-visited countries in Asia for good reason — they've both figured out how to be extraordinary for travelers in completely different ways. One runs on order and precision. The other runs on warmth and improvisation.
+Japan and [Thailand](/thailand) are the two most-visited countries in Asia for good reason — they've both figured out how to be extraordinary for travelers in completely different ways. One runs on order and precision. The other runs on warmth and improvisation.
 
 Choosing between them is less about budget or logistics (though both matter) and more about who you are as a traveler.
 

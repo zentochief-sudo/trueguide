@@ -10,7 +10,7 @@ tags: [Gion Matsuri, Kyoto festival, Japanese festivals, yamaboko, matsuri, July
 city: kyoto
 ---
 
-Gion Matsuri (*祇園祭*) is the annual festival of Yasaka Shrine in Kyoto, celebrated throughout the entire month of July. It is designated one of Japan's three great festivals alongside Osaka's Tenjin Matsuri and Tokyo's Kanda Matsuri, and by most assessments it is the most elaborate, most historically rich, and most visually spectacular of the three.
+Gion Matsuri (*祇園祭*) is the annual festival of Yasaka Shrine in [Kyoto](/japan/kyoto-guide), celebrated throughout the entire month of July. It is designated one of Japan's three great festivals alongside [Osaka](/japan/osaka-guide)'s Tenjin Matsuri and [Tokyo](/japan/tokyo-guide)'s Kanda Matsuri, and by most assessments it is the most elaborate, most historically rich, and most visually spectacular of the three.
 
 The festival originated in 869 CE as a plague purification ritual — the city was suffering epidemic, and 66 pikes were erected in the Shinsen Garden (representing Japan's 66 provinces at the time) to appease the plague deity. The ritual evolved over the following millennium into its current form: a two-week preparatory period of lantern exhibitions, followed by two processions of massive decorated floats (*yamaboko*) through the streets of the old city.
 

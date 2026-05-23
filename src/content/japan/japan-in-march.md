@@ -16,11 +16,11 @@ It's also, unsurprisingly, one of the busiest months of the year.
 
 ## What the Weather Is Like
 
-Early March is still winter in northern Japan. Tokyo and Kyoto hover between 8–14°C, dropping to 4–6°C at night. Pack layers — a wool mid-layer and a proper jacket are necessary for the first two weeks.
+Early March is still winter in northern Japan. Tokyo and [Kyoto](/japan/kyoto-guide) hover between 8–14°C, dropping to 4–6°C at night. Pack layers — a wool mid-layer and a proper jacket are necessary for the first two weeks.
 
-By late March, temperatures in central Honshu climb to 14–18°C during the day, and the coat can stay in the hotel for afternoon walks. Osaka and southern areas warm faster.
+By late March, temperatures in central Honshu climb to 14–18°C during the day, and the coat can stay in the hotel for afternoon walks. [Osaka](/japan/osaka-guide) and southern areas warm faster.
 
-Hokkaido stays cold through March — snow is still common in Sapporo, and ski resorts in Niseko operate well into the month.
+[Hokkaido](/japan/hokkaido-guide) stays cold through March — snow is still common in [Sapporo](/japan/sapporo-guide), and ski resorts in Niseko operate well into the month.
 
 ## The Cherry Blossom Schedule
 
@@ -28,7 +28,7 @@ The bloom follows a predictable path north, but the exact timing shifts 1–2 we
 
 | Region | Typical First Bloom | Peak |
 |---|---|---|
-| Kyushu (Fukuoka) | Mid–late March | Late March |
+| Kyushu ([Fukuoka](/japan/fukuoka-guide)) | Mid–late March | Late March |
 | Osaka/Kyoto | Late March | Late March–early April |
 | Tokyo | Late March | Early April |
 | Sendai | Early April | Mid April |
@@ -60,13 +60,13 @@ March is excellent for Japan even without bloom fixation.
 
 **Cultural festivals** — Omizutori at Tōdai-ji temple in Nara runs February 1–March 14. The fire ceremony on the final nights is one of the most atmospheric events in Japan.
 
-**Museum season** — Before the spring break crowds hit, Tokyo's major museums (Mori Art Museum, Tokyo National Museum, teamLab) are accessible without the August lines.
+**Museum season** — Before the spring break crowds hit, Tokyo's major museums (Mori Art Museum, Tokyo National Museum, [teamLab](/japan/teamlab-guide)) are accessible without the August lines.
 
 **Kyoto without the worst crowds** — Early March, before bloom, is one of the best windows for visiting Fushimi Inari and Arashiyama with manageable crowds. Go first thing in the morning.
 
 ## Crowd Levels and Booking
 
-Late March coincides with Japanese spring break and the fiscal/school year end. Internal travel spikes. Add international visitors specifically for cherry blossom season, and the most popular spots get genuinely overwhelming.
+Late March coincides with Japanese spring break and the fiscal/school year end. Internal travel spikes. Add international visitors specifically for [cherry blossom](/japan/cherry-blossom-guide) season, and the most popular spots get genuinely overwhelming.
 
 **Book accommodation 3–6 months ahead** for Kyoto in late March–early April. Weekends during peak bloom are booked out a year in advance at popular ryokans.
 
@@ -76,7 +76,7 @@ Late March coincides with Japanese spring break and the fiscal/school year end. 
 
 ## Budget Notes
 
-Accommodation prices rise 20–40% during peak bloom weeks versus early March. If you're flexible, targeting the first week of March (before bloom) or waiting until mid-April (after Tokyo peak, before Tohoku bloom) gets you dramatically better rates.
+Accommodation prices rise 20–40% during peak bloom weeks versus early March. If you're flexible, targeting the first week of March (before bloom) or waiting until mid-April (after Tokyo peak, before [Tohoku](/japan/tohoku-guide) bloom) gets you dramatically better rates.
 
 Food and transport costs are stable — restaurants don't price-surge for sakura season.
 

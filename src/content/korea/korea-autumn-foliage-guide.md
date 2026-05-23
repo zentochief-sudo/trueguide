@@ -22,10 +22,10 @@ The progression follows elevation and geography:
 
 | Period | Location | What to See |
 |---|---|---|
-| Late September | Seoraksan summits, Hallasan (Jeju) | First color on the highest peaks |
+| Late September | Seoraksan summits, Hallasan ([Jeju](/korea/jeju-guide)) | First color on the highest peaks |
 | Early October | Seoraksan valley, Jirisan upper slopes | Peak at major mountain parks |
 | Mid October | Naejangsan, Maisan, inner mountain valleys | Peak in southwest mountains |
-| Late October | Gyeongju plains, Seoul parks, coastal areas | City-level foliage peak |
+| Late October | [Gyeongju](/korea/gyeongju-guide) plains, Seoul parks, coastal areas | City-level foliage peak |
 | Early November | Jeju lowlands, south coast | The final wave of the season |
 
 ---
@@ -50,7 +50,7 @@ If Seoraksan is the dramatic mountain foliage, Naejangsan is the intimate valley
 
 **Peak timing**: October 20 – November 5, typically 1–2 weeks later than Seoraksan.
 
-**Access**: From Jeonju (40 minutes by bus) or from Gwangju (1 hour). The region is in Jeollabuk-do (North Jeolla), making it combinable with a Jeonju visit.
+**Access**: From [Jeonju](/korea/jeonju-guide) (40 minutes by bus) or from Gwangju (1 hour). The region is in Jeollabuk-do (North Jeolla), making it combinable with a Jeonju visit.
 
 **Naejang Cable Car**: From the temple area to a ridge viewpoint — provides an overview of the valley's foliage bowl.
 
@@ -84,7 +84,7 @@ The city doesn't match the mountain parks in drama, but the urban foliage has it
 **Best Seoul locations**:
 - **Bukhansan National Park** (north edge of Seoul): The granite peaks of Baegundae (836m) above Seoul have October foliage; hiking trails are accessible from the northern districts (Dobongsan Station or Bukhansan Ui Station).
 - **Namsan Park**: The forested slopes of Namsan turn reliably in late October; the combination of the N Seoul Tower, the city view, and the autumn color is strongest from the Bugaksan-side trail.
-- **Gyeongbokgung Palace**: The ginkgo trees along the approach road to the palace turn gold in late October. Gyeongbokgung's western garden (Gyeonghoeru Pond) with autumn trees reflected in the still water.
+- **[Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide)**: The ginkgo trees along the approach road to the palace turn gold in late October. Gyeongbokgung's western garden (Gyeonghoeru Pond) with autumn trees reflected in the still water.
 - **Seoul Forest** (Seongsu): The mixed forest adjacent to the Han River is conveniently located and less crowded than the palace or mountain options.
 
 **Peak timing**: October 25 – November 10 in the city.

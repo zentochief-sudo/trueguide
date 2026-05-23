@@ -10,17 +10,17 @@ tags: [Greenland, January, polar night, Northern Lights, aurora, dog sledding, I
 city: national
 ---
 
-January is Greenland's darkest month. Above the Arctic Circle — which includes Ilulissat, Sisimiut, and most of inhabited Greenland — the sun does not rise. The polar night (mørketid) runs from late November through late January in Ilulissat. What replaces the sun: the Northern Lights on clear nights, the blue-grey twilight at midday, and the extraordinary quiet of a frozen Arctic landscape that has committed entirely to winter. Dog sled season is in full operation across the sea ice. This is not a destination for every traveler, but for those who specifically want the Arctic in its most extreme form, January delivers.
+January is [Greenland](/greenland)'s darkest month. Above the Arctic Circle — which includes Ilulissat, [Sisimiut](/greenland/sisimiut-guide), and most of inhabited Greenland — the sun does not rise. The polar night (mørketid) runs from late November through late January in Ilulissat. What replaces the sun: the Northern Lights on clear nights, the blue-grey twilight at midday, and the extraordinary quiet of a frozen Arctic landscape that has committed entirely to winter. Dog sled season is in full operation across the sea ice. This is not a destination for every traveler, but for those who specifically want the Arctic in its most extreme form, January delivers.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** -10 to -22°C. Polar night. Sea ice forming.
 
-**Nuuk (south Greenland):** -4 to -12°C. A few hours of twilight daily. Ice conditions variable.
+**[Nuuk](/greenland/nuuk-travel-guide) ([south Greenland](/greenland/south-greenland-guide)):** -4 to -12°C. A few hours of twilight daily. Ice conditions variable.
 
-**Sisimiut:** -8 to -18°C. Dog sledding season well underway.
+**Sisimiut:** -8 to -18°C. [Dog sledding](/greenland/dog-sledding-guide) season well underway.
 
-**Tasiilaq (East Greenland):** -12 to -25°C. Very remote. Limited services.
+**Tasiilaq ([East Greenland](/greenland/east-greenland-guide)):** -12 to -25°C. Very remote. Limited services.
 
 **Sea ice:** Forming across Disko Bay. Dog sled routes being established.
 
@@ -30,7 +30,7 @@ January is Greenland's darkest month. Above the Arctic Circle — which includes
 
 **Northern Lights viewing:** January's polar night means maximum darkness for aurora viewing. Clear nights in Ilulissat or Sisimiut provide extraordinary aurora conditions — the lights appear over frozen fjords, icebergs locked in sea ice, and snow-covered mountains with no light pollution. The aurora is visible whenever the sky is clear, which in winter is unpredictable — allow at least 4–5 nights for reasonable odds of seeing it.
 
-**Ilulissat Icefjord in polar night:** The UNESCO-listed Ilulissat Icefjord doesn't stop being dramatic in January. The icebergs are frozen into the fjord's sea ice, creating a static landscape of ice formations. The blue twilight at midday (around 12:30–1:30pm in January) illuminates the fjord briefly in extraordinary light. Helicopter tours give aerial perspective on the ice when ground access is limited.
+**[Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) in polar night:** The UNESCO-listed Ilulissat Icefjord doesn't stop being dramatic in January. The icebergs are frozen into the fjord's sea ice, creating a static landscape of ice formations. The blue twilight at midday (around 12:30–1:30pm in January) illuminates the fjord briefly in extraordinary light. Helicopter tours give aerial perspective on the ice when ground access is limited.
 
 **Nuuk city and cultural scene:** Nuuk is Greenland's capital and its most connected city (Air Greenland flies from Copenhagen year-round). The National Museum of Greenland has the most important collection of Inuit artifacts and archaeological finds in the Arctic — the Qilakitsoq mummies (preserved by freeze-drying, 500 years old) are the highlight. The Katuaq Cultural Center runs winter programming. January Nuuk is cold but functional.
 

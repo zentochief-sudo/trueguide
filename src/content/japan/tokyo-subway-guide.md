@@ -10,7 +10,7 @@ tags: [Tokyo subway, train, Suica, Pasmo, JR Yamanote, metro, transport, IC card
 city: tokyo
 ---
 
-Tokyo's transit network feels overwhelming until you understand that most visitors use a small subset of it. The core of tourist Tokyo is served by three overlapping systems: the JR Yamanote Line (the elevated loop), the Tokyo Metro (the private subway), and the Toei Subway (the municipal subway). Once you can navigate these three, you can reach every major attraction in the city.
+[Tokyo](/japan/tokyo-guide)'s transit network feels overwhelming until you understand that most visitors use a small subset of it. The core of tourist Tokyo is served by three overlapping systems: the JR Yamanote Line (the elevated loop), the Tokyo Metro (the private subway), and the Toei Subway (the municipal subway). Once you can navigate these three, you can reach every major attraction in the city.
 
 ---
 
@@ -57,7 +57,7 @@ Frequency: every 2–3 minutes during peak hours. Cost with IC card: ¥150–330
 
 **Marunouchi Line (red)**: Runs through Shinjuku → Shinjuku-Sanchome → Akasaka-Mitsuke → Tokyo → Ginza → Kasumigaseki. Essential for Shinjuku–Tokyo connections.
 
-**Chiyoda Line (green)**: Connects Yoyogi-Uehara (transfer to Odakyu for Hakone) → Omote-sando → Akasaka → Tokyo → Ayase. Key for Omotesando access.
+**Chiyoda Line (green)**: Connects Yoyogi-Uehara (transfer to Odakyu for [Hakone](/japan/hakone-guide)) → Omote-sando → Akasaka → Tokyo → Ayase. Key for Omotesando access.
 
 **Hanzomon Line (purple)**: Connects the Tokyu Denentoshi Line suburbs through Shibuya → Omotesando → Nagatacho → Mitsukoshimae → Oshiage (Skytree). 
 

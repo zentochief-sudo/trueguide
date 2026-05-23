@@ -10,11 +10,11 @@ tags: [Egypt, April, shoulder season, Luxor, Nile, Red Sea, spring]
 city: national
 ---
 
-April is a transition month in Egypt that rewards travelers who know how to use it. Temperatures are warm — genuinely hot at midday in Upper Egypt by mid-April — but manageable if you structure days around the heat. The European and North American tour groups have largely gone home. Prices are at shoulder-season rates. And the sites themselves are at their least crowded since November. April is honest: not the easiest month, but genuine value for the right traveler.
+April is a transition month in [Egypt](/egypt) that rewards travelers who know how to use it. Temperatures are warm — genuinely hot at midday in Upper Egypt by mid-April — but manageable if you structure days around the heat. The European and North American tour groups have largely gone home. Prices are at shoulder-season rates. And the sites themselves are at their least crowded since November. April is honest: not the easiest month, but genuine value for the right traveler.
 
 ## Weather & Conditions
 
-**Cairo:** 18–27°C. Warm and increasingly sunny. Khamsin dust storms are more frequent in April than March — be prepared.
+**[Cairo](/egypt/cairo-travel-guide):** 18–27°C. Warm and increasingly sunny. Khamsin dust storms are more frequent in April than March — be prepared.
 
 **Luxor:** 22–35°C. Hot by afternoon. Visiting the Valley of the Kings between 7am and 10am is the strategy. Afternoons are best spent indoors or on the Nile.
 
@@ -34,7 +34,7 @@ April is a transition month in Egypt that rewards travelers who know how to use 
 
 **Dahab and the Blue Hole:** The Blue Hole dive site near Dahab is one of the world's most famous (and most dangerous for technical divers) underwater features. From the surface or at recreational dive depths, it's a remarkable site. Dahab town is low-key, cheap, and worth 2–3 days independently of diving.
 
-**Islamic Cairo walking exploration:** April's warmth makes the rooftop terraces and open courtyards of Cairo's medieval Islamic quarter particularly pleasant. Walk from Al-Azhar Mosque south through the Khan el-Khalili bazaar to the Ibn Tulun Mosque. The narrow streets, Mamluk architecture, and cacophony of trade are unchanged by season.
+**[Islamic Cairo](/egypt/islamic-cairo-guide) walking exploration:** April's warmth makes the rooftop terraces and open courtyards of Cairo's medieval Islamic quarter particularly pleasant. Walk from Al-Azhar Mosque south through the Khan el-Khalili bazaar to the Ibn Tulun Mosque. The narrow streets, Mamluk architecture, and cacophony of trade are unchanged by season.
 
 ## Festivals & Events
 

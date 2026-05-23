@@ -10,11 +10,11 @@ tags: [Egypt, December, winter, peak season, Pyramids, Luxor, Nile cruise, Chris
 city: national
 ---
 
-December is when Egypt's tourism machine reaches full speed. Temperatures across the country are at their most comfortable — pleasant enough that the Pyramids can be visited all day without special precautions, and the Nile is calm and reflective. European winter-sun travelers fill the Red Sea resorts. Organized tour groups from across the world converge on Luxor and Aswan. It's the best weather month alongside January, and the most expensive as a result.
+December is when [Egypt](/egypt)'s tourism machine reaches full speed. Temperatures across the country are at their most comfortable — pleasant enough that the Pyramids can be visited all day without special precautions, and the Nile is calm and reflective. European winter-sun travelers fill the Red Sea resorts. Organized tour groups from across the world converge on Luxor and Aswan. It's the best weather month alongside January, and the most expensive as a result.
 
 ## Weather & Conditions
 
-**Cairo:** 10–18°C. Cool mornings, warm afternoons. The cleanest air of the year — clear blue skies over the Pyramids.
+**[Cairo](/egypt/cairo-travel-guide):** 10–18°C. Cool mornings, warm afternoons. The cleanest air of the year — clear blue skies over the Pyramids.
 
 **Luxor:** 12–22°C. Ideal. Light jacket in the morning, single layer by afternoon. Zero heat issues at any hour.
 
@@ -34,7 +34,7 @@ December is when Egypt's tourism machine reaches full speed. Temperatures across
 
 **Red Sea diving, Ras Mohamed and Brothers Islands:** The water is cooler than summer but visibility often exceeds 30m in December — some divers argue December–January has the best visibility of the year. The Brothers Islands liveaboard route is excellent.
 
-**Siwa Oasis in December:** The Western Desert oasis in December is at ideal temperature — days around 20°C, cold nights below 10°C. The Great Sand Sea, Cleopatra's Bath spring, and the ancient Oracle Temple are all accessible. Siwa dates are at their best in late November–December — fresh-harvested and extraordinary.
+**[Siwa Oasis](/egypt/siwa-oasis-guide) in December:** The Western Desert oasis in December is at ideal temperature — days around 20°C, cold nights below 10°C. The Great Sand Sea, Cleopatra's Bath spring, and the ancient Oracle Temple are all accessible. Siwa dates are at their best in late November–December — fresh-harvested and extraordinary.
 
 ## Festivals & Events
 

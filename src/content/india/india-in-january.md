@@ -10,19 +10,19 @@ tags: [India, January, winter, Rajasthan, Kerala, Republic Day, Jaipur]
 city: national
 ---
 
-January is the month India makes sense to most travelers. The heat that defines the country for much of the year is absent. The monsoon is months away. Rajasthan's desert palaces and medieval forts are accessible in comfortable 20°C days. Kerala's backwaters shimmer in clear winter light. The Himalayas are locked in snow but Goa is beach-perfect. January is India's peak season, which means higher prices and organized groups everywhere — it's still worth it.
+January is the month [India](/india) makes sense to most travelers. The heat that defines the country for much of the year is absent. The monsoon is months away. [Rajasthan](/india/rajasthan-guide)'s desert palaces and medieval forts are accessible in comfortable 20°C days. [Kerala](/india/kerala-guide)'s backwaters shimmer in clear winter light. The Himalayas are locked in snow but [Goa](/india/goa-guide) is beach-perfect. January is India's peak season, which means higher prices and organized groups everywhere — it's still worth it.
 
 ## Weather & Conditions
 
-**Delhi and North India:** 8–20°C. Cool mornings (dense fog is common in the Delhi plains in January — flights and trains can be delayed). Afternoons are warm and comfortable. January fog season is a real logistical consideration.
+**[Delhi](/india/delhi-guide) and North India:** 8–20°C. Cool mornings (dense fog is common in the Delhi plains in January — flights and trains can be delayed). Afternoons are warm and comfortable. January fog season is a real logistical consideration.
 
-**Rajasthan (Jaipur, Jodhpur, Udaipur, Jaisalmer):** 8–22°C. Cool nights and warm afternoons. Desert nights in Jaisalmer can drop below 5°C. Pack a proper layer.
+**Rajasthan ([Jaipur](/india/jaipur-guide), Jodhpur, Udaipur, Jaisalmer):** 8–22°C. Cool nights and warm afternoons. Desert nights in Jaisalmer can drop below 5°C. Pack a proper layer.
 
 **Kerala and the South:** 22–32°C. Humid and warm but not extreme. The northeast monsoon has ended; the southwest coast is dry and excellent.
 
 **Goa:** 22–32°C. The peak beach season. Relatively dry and warm throughout.
 
-**Mumbai:** 18–28°C. Pleasant. The city is at its most walkable.
+**[Mumbai](/india/mumbai-guide):** 18–28°C. Pleasant. The city is at its most walkable.
 
 **Himalayas (Manali, Leh, Shimla):** -5 to -15°C. Deep winter snow. Leh-Manali Highway is closed. Shimla accessible but cold. Not a hiking season.
 

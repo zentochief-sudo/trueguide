@@ -10,7 +10,7 @@ tags: [Levi's Stadium, Santa Clara, World Cup 2026, FIFA, stadium guide, SF Bay 
 city: sfbay
 ---
 
-Levi's Stadium opened in 2014 as the home of the San Francisco 49ers NFL franchise — built specifically for the Santa Clara climate, positioned to host major events, and designed with sustainability features that include a rooftop solar installation. For World Cup 2026, it hosts 6 matches including a semifinal, making it one of the higher-stakes venues in the tournament.
+Levi's Stadium opened in 2014 as the home of the [San Francisco](/united-states/san-francisco-guide) 49ers NFL franchise — built specifically for the Santa Clara climate, positioned to host major events, and designed with sustainability features that include a rooftop solar installation. For World Cup 2026, it hosts 6 matches including a semifinal, making it one of the higher-stakes venues in the tournament.
 
 ---
 

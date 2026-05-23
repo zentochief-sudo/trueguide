@@ -40,7 +40,7 @@ A short underground cable car connects to the dam level.
 **Kurobe Dam**: Japan's largest arch dam, completed in 1963 — 186m high and 492m wide. The discharge from the spillways (operating late June to October) is one of Japan's most dramatic water spectacles. Walking across the dam takes 15 minutes; the views up to the peaks and down the Kurobe Gorge are substantial.
 
 **Kurobe Dam → Ogizawa (trolley bus) → Omachi/Shinano-Omachi (bus)**
-The final descent by bus to the Nagano side. Shinano-Omachi Station connects to Matsumoto (50 minutes) and onward to Tokyo.
+The final descent by bus to the Nagano side. Shinano-Omachi Station connects to Matsumoto (50 minutes) and onward to [Tokyo](/japan/tokyo-guide).
 
 ---
 
@@ -87,7 +87,7 @@ Advance booking online (立山黒部アルペンルートウェブサイト) is 
 
 ### Access
 
-**Toyama side**: Toyama Station on the Hokuriku Shinkansen — 2 hours from Kanazawa, 2.5 hours from Osaka, 2h30m from Tokyo via Hokuriku Shinkansen.
+**Toyama side**: Toyama Station on the Hokuriku Shinkansen — 2 hours from [Kanazawa](/japan/kanazawa-guide), 2.5 hours from [Osaka](/japan/osaka-guide), 2h30m from Tokyo via Hokuriku Shinkansen.
 
 **Nagano side (Omachi/Shinano-Omachi)**: Train to Matsumoto (JR Oito Line, 50 minutes), then Tokyo by Azusa limited express (2.5 hours) or shinkansen via Nagano.
 

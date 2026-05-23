@@ -20,7 +20,7 @@ The result is a city with more visual variety per square kilometer than Seoul �
 
 **From Seoul Station**: KTX to Busan Station (2 hours 15 minutes, ₩59,800 standard; ₩41,500 early booking discount). The fastest and most convenient option. JR Pass equivalent does not apply; buy KTX tickets at *Letskorail* or *KoreaTrain* apps.
 
-**From Incheon Airport**: Direct bus to Busan (4–5 hours, ₩43,000) or flight (1 hour, ₩40,000–90,000). The bus is the budget option; the train via Seoul adds 3+ hours.
+**From [Incheon](/korea/incheon-guide) Airport**: Direct bus to Busan (4–5 hours, ₩43,000) or flight (1 hour, ₩40,000–90,000). The bus is the budget option; the train via Seoul adds 3+ hours.
 
 **Within Busan**: The Busan Metro covers all major tourist areas — Haeundae (Line 2), Jagalchi/Nampo (Line 1), Gamcheon (Line 1 + bus), Gwangalli (Line 2), Taejongdae (Line 1 + bus). A 1-day pass (₩4,800) covers most needs.
 
@@ -102,7 +102,7 @@ For visitors who arrive in October, the BIFF atmosphere — outdoor screenings, 
 
 **2 nights**: Day 1 — Jagalchi Market (morning), Gamcheon (afternoon), Nampo-dong/BIFF Square (evening), Bupyeong night market. Day 2 — Haedong Yonggungsa (early morning), Haeundae Beach, Gwangalli evening.
 
-**3 nights adds**: Taejongdae, Gukje Market, day trip to Gyeongju.
+**3 nights adds**: Taejongdae, Gukje Market, day trip to [Gyeongju](/korea/gyeongju-guide).
 
 ---
 

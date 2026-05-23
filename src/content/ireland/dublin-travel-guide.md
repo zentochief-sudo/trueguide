@@ -21,7 +21,7 @@ It's also heavily touristed, and the areas most visible to visitors (Temple Bar,
 ### Trinity College and the Book of Kells
 **College Green | Open Monday–Saturday 9:30 AM–5 PM, Sunday 12–5 PM**
 
-Ireland's oldest university (founded 1592) occupies a walled 47-acre campus in the center of Dublin. The main attraction is the **Book of Kells** — an illuminated manuscript gospel, created by Celtic monks circa 800 AD, displayed in the Old Library alongside the **Long Room** (a two-story barrel-vaulted library with 200,000 volumes and a collection of Irish harps).
+[Ireland](/ireland)'s oldest university (founded 1592) occupies a walled 47-acre campus in the center of Dublin. The main attraction is the **Book of Kells** — an illuminated manuscript gospel, created by Celtic monks circa 800 AD, displayed in the Old Library alongside the **Long Room** (a two-story barrel-vaulted library with 200,000 volumes and a collection of Irish harps).
 
 **Booking**: Essential. Entry queues without pre-booking can exceed 90 minutes. Book at tcd.ie/visitors/book-of-kells. The Long Room alone is worth the visit; the Book of Kells exhibition that precedes it explains the manuscript's significance and production methods. ~€18 adults.
 

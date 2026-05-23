@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Mexico is a vast country with dramatically different climate zones — the cold highlands of Mexico City (2,240m), the tropical jungles of the Yucatán, the arid deserts of the north, and the Pacific and Caribbean coasts. "Best time to visit" depends entirely on where you're going.
+[Mexico](/mexico) is a vast country with dramatically different climate zones — the cold highlands of Mexico City (2,240m), the tropical jungles of the Yucatán, the arid deserts of the north, and the Pacific and Caribbean coasts. "Best time to visit" depends entirely on where you're going.
 
 ## The Short Answer
 

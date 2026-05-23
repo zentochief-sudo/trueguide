@@ -10,7 +10,7 @@ tags: [Langkawi, Malaysia, duty-free, cable car, mangroves, beaches, island-hopp
 city: langkawi
 ---
 
-Langkawi is a duty-free archipelago of 99 islands in the Andaman Sea, 30 km off the Malaysian coast near the Thai border. The main island (Pulau Langkawi) has the scale of a proper destination — an international airport, resort hotels along the western coast, jungle inland, and the UNESCO-designated Kilim Karst Geoforest Park covering the northeast. It's the anti-Penang: where Penang's appeal is its dense urban culture and food heritage, Langkawi's is natural landscape, resort living, and the tax-free status that makes alcohol and electronics significantly cheaper than anywhere else in Malaysia.
+Langkawi is a duty-free archipelago of 99 islands in the Andaman Sea, 30 km off the Malaysian coast near the Thai border. The main island (Pulau Langkawi) has the scale of a proper destination — an international airport, resort hotels along the western coast, jungle inland, and the UNESCO-designated Kilim Karst Geoforest Park covering the northeast. It's the anti-[Penang](/malaysia/penang-travel-guide): where Penang's appeal is its dense urban culture and food heritage, Langkawi's is natural landscape, resort living, and the tax-free status that makes alcohol and electronics significantly cheaper than anywhere else in [Malaysia](/malaysia).
 
 ---
 

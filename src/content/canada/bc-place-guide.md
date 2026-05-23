@@ -10,9 +10,9 @@ tags: [BC Place, Vancouver, World Cup 2026, FIFA, stadium guide, False Creek]
 city: vancouver
 ---
 
-BC Place opened in 1983 as the first domed stadium in Canada and underwent a major renovation in 2011, replacing the original air-supported roof with a retractable cable-supported roof — the largest retractable roof in the world at the time. The stadium sits on the False Creek waterfront in downtown Vancouver, adjacent to Rogers Arena and Science World, and is one of the most centrally located stadiums of any World Cup venue.
+BC Place opened in 1983 as the first domed stadium in [Canada](/canada) and underwent a major renovation in 2011, replacing the original air-supported roof with a retractable cable-supported roof — the largest retractable roof in the world at the time. The stadium sits on the False Creek waterfront in downtown Vancouver, adjacent to Rogers Arena and Science World, and is one of the most centrally located stadiums of any World Cup venue.
 
-For World Cup 2026, BC Place hosts 6 matches at its standard capacity of 54,500 — one of the larger fixed venues in the tournament. Unlike Toronto's BMO Field (which requires temporary expansion), BC Place operates at full capacity as-built.
+For World Cup 2026, BC Place hosts 6 matches at its standard capacity of 54,500 — one of the larger fixed venues in the tournament. Unlike Toronto's [BMO Field](/canada/bmo-field-guide) (which requires temporary expansion), BC Place operates at full capacity as-built.
 
 ---
 

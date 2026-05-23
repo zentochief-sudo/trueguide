@@ -12,7 +12,7 @@ city: national
 
 Japan built over 5,000 castles during the Sengoku period (1467–1615) — the 150 years of civil war during which regional lords competed for territory and survival. Most were destroyed, abandoned, or dismantled during the Meiji period (1868–1912), when the new government systematically eliminated the feudal infrastructure. Some were bombed in World War II. A handful survived.
 
-Of the castles visible in Japan today, **only 12** have original keeps (*tenshukaku*) from the feudal period — structures that have not been reconstructed from concrete after the fact. These are the ones listed in this guide. The concrete reconstructions (Nagoya, Osaka, Hiroshima, Tokyo) are historically interesting and worth visiting for their museums; architecturally they are reproductions. The real thing is a different experience.
+Of the castles visible in Japan today, **only 12** have original keeps (*tenshukaku*) from the feudal period — structures that have not been reconstructed from concrete after the fact. These are the ones listed in this guide. The concrete reconstructions ([Nagoya](/japan/nagoya-guide), [Osaka](/japan/osaka-guide), [Hiroshima](/japan/hiroshima-guide), Tokyo) are historically interesting and worth visiting for their museums; architecturally they are reproductions. The real thing is a different experience.
 
 ---
 
@@ -20,13 +20,13 @@ Of the castles visible in Japan today, **only 12** have original keeps (*tenshuk
 
 ### Himeji Castle — the Finest
 
-**Himeji, Hyogo Prefecture** (Shinkansen from Osaka: 30 min; from Tokyo: 2.5 hours)
+**[Himeji](/japan/himeji-guide), Hyogo Prefecture** (Shinkansen from Osaka: 30 min; from Tokyo: 2.5 hours)
 
 The undisputed benchmark — the largest, most architecturally elaborate, and best-preserved castle in Japan. The main keep (1609, designated National Treasure) stands 46 meters on its stone foundation, surrounded by three smaller towers and a complex of multiple defensive compounds, gates, and corridors. The white plaster exterior gives it the name "White Heron Castle" (*Shirasagi-jo*).
 
 The defensive logic is visible throughout: the castle is engineered to confuse and slow attackers — the winding path from the outer gate to the main keep turns 14 times, crossing seven gates in apparently random sequence (the sequence is not random; each turn exposes attackers to flanking fire from the next gate's defenders). The interior floors are designed for defenders to drop stones and boiling water through trap doors onto anyone who breached the lower floors.
 
-Admission ¥1,000. Allow 2 hours minimum. The approach from Himeji Station along the main boulevard (Otemae-dori) provides the classic frontal view; the cherry blossom season version is exceptional.
+Admission ¥1,000. Allow 2 hours minimum. The approach from Himeji Station along the main boulevard (Otemae-dori) provides the classic frontal view; the [cherry blossom](/japan/cherry-blossom-guide) season version is exceptional.
 
 ---
 
@@ -44,7 +44,7 @@ Admission ¥700. The city of Matsumoto itself rewards a day — the Nakamachi tr
 
 ### Hikone Castle
 
-**Hikone, Shiga Prefecture** (30 min by train from Kyoto on JR Biwako Line)
+**Hikone, Shiga Prefecture** (30 min by train from [Kyoto](/japan/kyoto-guide) on JR Biwako Line)
 
 One of four National Treasure castles. The keep dates to 1606, built largely with materials from demolished castles in the surrounding region after the decisive battle of Sekigahara (1600). The castle overlooks Lake Biwa, Japan's largest lake; the garden below (*Genkyuen*, 1677) is designed to incorporate the lake as borrowed scenery.
 
@@ -68,7 +68,7 @@ Inuyama was the only privately owned castle in Japan for most of the postwar per
 
 ### Kochi Castle
 
-**Kochi City, Kochi Prefecture, Shikoku** (1 hour from Matsuyama by road)
+**Kochi City, Kochi Prefecture, Shikoku** (1 hour from [Matsuyama](/japan/matsuyama-guide) by road)
 
 The only surviving castle in Japan where the complete set of buildings — main keep, secondary keep, and palace (the *goten*, where the lord lived and conducted business) — all survived together. The interior of the palace shows feudal residential architecture that most castles lack: tatami rooms, decorative alcoves, built-in shelving, and the organizational hierarchy visible in the room sizes.
 
@@ -120,7 +120,7 @@ The castle is rarely crowded — the remoteness deters casual visitors. Admissio
 
 Several reconstructed castles are worth visiting for their museums and settings even though the architecture is concrete:
 
-**Osaka Castle**: The museum inside the 1931/1997 concrete reconstruction covers Toyotomi Hideyoshi's career in detail — some of the best castle history interpretation in Japan. The park is excellent for cherry blossom.
+**[Osaka Castle](/japan/osaka-castle-guide)**: The museum inside the 1931/1997 concrete reconstruction covers Toyotomi Hideyoshi's career in detail — some of the best castle history interpretation in Japan. The park is excellent for cherry blossom.
 
 **Kumamoto Castle**: The original keep (1607, one of Japan's finest) was severely damaged in the 2016 earthquake; reconstruction is ongoing. The castle grounds are partially open and the visible reconstruction work is itself interesting.
 

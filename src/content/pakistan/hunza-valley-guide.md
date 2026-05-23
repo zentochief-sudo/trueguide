@@ -10,7 +10,7 @@ tags: [Hunza Valley, Pakistan, Karakoram Highway, Karimabad, Baltit Fort, mounta
 city: hunza
 ---
 
-The Hunza Valley is the reason most adventure travelers go to Pakistan. A narrow mountain valley at 2,400 meters elevation in the Karakoram range, flanked by some of the highest peaks on earth — Rakaposhi (7,788m), Ultar Sar (7,388m), and the view of Ladyfinger Peak rising directly above the main town. The Karakoram Highway, carved through the mountains along the ancient Silk Road route, runs through the valley on its way to the Chinese border at Khunjerab Pass.
+The Hunza Valley is the reason most adventure travelers go to [Pakistan](/pakistan). A narrow mountain valley at 2,400 meters elevation in the Karakoram range, flanked by some of the highest peaks on earth — Rakaposhi (7,788m), Ultar Sar (7,388m), and the view of Ladyfinger Peak rising directly above the main town. The [Karakoram Highway](/pakistan/karakoram-highway-guide), carved through the mountains along the ancient Silk Road route, runs through the valley on its way to the Chinese border at Khunjerab Pass.
 
 Hunza is culturally distinct from the rest of Pakistan — the Ismaili Muslim community (following the Aga Khan) has historically supported women's education and relatively progressive social norms. The local language is Burushaski (unrelated to any other language family). The apricot orchards that blanket the terraced hillsides in spring blossom pink-white in one of the most spectacular seasonal displays in Asia.
 
@@ -32,7 +32,7 @@ Hunza is culturally distinct from the rest of Pakistan — the Ismaili Muslim co
 
 **The Karakoram Highway (KKH)**: Completed in 1978 after 20 years of construction by Pakistani and Chinese engineers, the KKH runs 1,300 km from Hasan Abdal (near Rawalpindi) to the Chinese border at Khunjerab Pass. It follows the Indus, Hunza, and Gojal rivers through some of the most geologically dramatic terrain on earth.
 
-**By air to Gilgit**: Gilgit is the regional hub — flights from Islamabad (PIA, 1 hour) when weather allows. Mountain flying conditions mean flights are frequently delayed or cancelled; always have a backup day. Alternatively, NATCO buses and private cars from Islamabad to Gilgit (14–18 hours, mountain road).
+**By air to Gilgit**: Gilgit is the regional hub — flights from [Islamabad](/pakistan/islamabad-guide) (PIA, 1 hour) when weather allows. Mountain flying conditions mean flights are frequently delayed or cancelled; always have a backup day. Alternatively, NATCO buses and private cars from Islamabad to Gilgit (14–18 hours, mountain road).
 
 **Gilgit to Hunza**: 2–2.5 hours by private vehicle or shared jeep (100 km on the KKH). Karimabad is the main settlement; Aliabad (slightly lower) is the commercial center.
 

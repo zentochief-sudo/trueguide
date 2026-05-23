@@ -10,7 +10,7 @@ tags: [Tanzania, Dar es Salaam, Kariakoo, National Museum, Indian Ocean, ferry, 
 city: dar-es-salaam
 ---
 
-Dar es Salaam ("Haven of Peace" in Arabic) is a city that most visitors pass through rather than linger in — the ferry to Zanzibar departs from here, the flights for southern circuit safaris land here, and the national museum is here. It was Tanzania's capital until the government moved to Dodoma in 1996, and it remains by far the largest city, most important port, and economic center of the country. Population: approximately 6 million.
+Dar es Salaam ("Haven of Peace" in Arabic) is a city that most visitors pass through rather than linger in — the ferry to [Zanzibar](/tanzania/zanzibar-guide) departs from here, the flights for southern circuit safaris land here, and the national museum is here. It was [Tanzania](/tanzania)'s capital until the government moved to Dodoma in 1996, and it remains by far the largest city, most important port, and economic center of the country. Population: approximately 6 million.
 
 The city is not architecturally spectacular and the traffic is significant, but it has a genuine Indian Ocean port character — Swahili, Asian, Arab, and African influences layered in the architecture, food, and street life of a city that has been a trade hub for centuries.
 
@@ -49,7 +49,7 @@ The historic administrative and residential seafront — the German and British 
 
 ## Getting to Zanzibar
 
-The fast ferry (Azam Marine, Kilimanjaro Fast Ferries) from the Kivukoni ferry terminal crosses to Zanzibar's Stone Town in 1.5–2 hours. Cost: $35–50 one way. Multiple departures daily (6 AM–4 PM). Book at least a day in advance; the 7 AM and 9 AM ferries fill up.
+The fast ferry (Azam Marine, [Kilimanjaro](/tanzania/kilimanjaro-guide) Fast Ferries) from the Kivukoni ferry terminal crosses to Zanzibar's Stone Town in 1.5–2 hours. Cost: $35–50 one way. Multiple departures daily (6 AM–4 PM). Book at least a day in advance; the 7 AM and 9 AM ferries fill up.
 
 The crossing is open ocean — the Zanzibar Channel can be rough, especially December–March. Sea sickness is common; take medication if susceptible.
 

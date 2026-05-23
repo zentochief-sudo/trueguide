@@ -21,7 +21,7 @@ The result is a nightlife culture that starts late (dinner before 9pm is unusual
 New York has no single nightlife district in the way that Las Vegas has the Strip or Miami has South Beach. Instead, different neighborhoods anchor different types of evening:
 
 - **East Village / Lower East Side**: The broadest range of bars and late-night options, most affordable
-- **Williamsburg, Brooklyn**: Bar culture plus music venues, younger demographic
+- **Williamsburg, [Brooklyn](/united-states/brooklyn-guide)**: Bar culture plus music venues, younger demographic
 - **West Village and Meatpacking**: Higher-end cocktail bars and restaurants that transition to bars late
 - **Hell's Kitchen**: Post-theater drinking, LGBTQ+ bars, late-night diner options
 - **Midtown**: Hotel bars, tourist-facing options, the Times Square perimeter

@@ -10,7 +10,7 @@ tags: [Serengeti, Great Migration, wildebeest, Mara River, Tanzania, safari, cal
 city: arusha
 ---
 
-The Great Migration is the largest terrestrial mammal movement on Earth — approximately 1.5 million wildebeest, 200,000 zebra, and 400,000 Thomson's gazelle moving in a roughly clockwise circuit through the Serengeti-Mara ecosystem across Tanzania and Kenya. The circuit is driven by rainfall and grass availability; the animals follow the grass, and the grass follows the rain.
+The Great Migration is the largest terrestrial mammal movement on Earth — approximately 1.5 million wildebeest, 200,000 zebra, and 400,000 Thomson's gazelle moving in a roughly clockwise circuit through the Serengeti-Mara ecosystem across [Tanzania](/tanzania) and Kenya. The circuit is driven by rainfall and grass availability; the animals follow the grass, and the grass follows the rain.
 
 The movement is continuous — there's no single "Migration moment." What varies month by month is the density of animals in specific areas, the availability of dramatic events (calving, river crossings, predator activity), and the accessibility of the best viewing locations.
 
@@ -20,7 +20,7 @@ The movement is continuous — there's no single "Migration moment." What varies
 
 ### January–February: Calving Season (Southern Serengeti)
 
-**Location**: Ndutu area, Southern Serengeti, the Ngorongoro Conservation Area plains
+**Location**: Ndutu area, Southern Serengeti, the [Ngorongoro](/tanzania/ngorongoro-guide) Conservation Area plains
 
 The short dry spell of January–February concentrates the herd in the southern Serengeti and the Ndutu region, where the short-grass plains support the nutritional requirements of calving. In January–February, approximately 500,000 wildebeest calves are born within a 3-week period — the greatest single birth event of any mammal population on Earth.
 
@@ -88,7 +88,7 @@ The herd disperses south across the central Serengeti toward the calving grounds
 
 ## Practical Decisions
 
-**Safari length**: The Great Migration requires at least 3 nights in the appropriate area at the right time of year. A single-day visit to the Serengeti from Arusha cannot position you for either calving or crossing events at sufficient depth.
+**Safari length**: The Great Migration requires at least 3 nights in the appropriate area at the right time of year. A single-day visit to the Serengeti from [Arusha](/tanzania/arusha-guide) cannot position you for either calving or crossing events at sufficient depth.
 
 **Budget**: Premium migration camps (particularly the Lamai Triangle mobile camps) are the most expensive in Tanzania's safari market. A 3-night stay at a leading migration camp costs $1,500–3,000/person. More affordable options (private budget camping, less precisely positioned camps) see the Serengeti but have lower crossing probability.
 

@@ -10,7 +10,7 @@ tags: [Houston, transport, METRORail, World Cup 2026, getting around Houston]
 city: houston
 ---
 
-Houston is a car city — larger in geographic area than the entire state of Rhode Island, built around freeways, with most of its neighborhoods only practical by car. But for World Cup visitors, the METRORail Red Line provides the one genuinely excellent transit connection that matters most: a direct rail ride from downtown to NRG Stadium in 15–20 minutes for $1.25.
+Houston is a car city — larger in geographic area than the entire state of Rhode Island, built around freeways, with most of its neighborhoods only practical by car. But for World Cup visitors, the METRORail Red Line provides the one genuinely excellent transit connection that matters most: a direct rail ride from downtown to [NRG Stadium](/united-states/nrg-stadium-guide) in 15–20 minutes for $1.25.
 
 For exploring Houston beyond the downtown-to-stadium corridor, a rental car or rideshare is the realistic option. Understanding both systems will make the week work.
 

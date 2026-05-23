@@ -18,11 +18,11 @@ The city has been a spa resort since the Meiji era and developed significant tou
 
 ## Getting There
 
-**From Fukuoka (Hakata)**: JR Sonic limited express to Beppu (2 hours, ¥4,940). JR Pass valid.
+**From [Fukuoka](/japan/fukuoka-guide) (Hakata)**: JR Sonic limited express to Beppu (2 hours, ¥4,940). JR Pass valid.
 
-**From Osaka/Kyoto**: Shinkansen to Kokura or Hakata, then JR Sonic to Beppu (4–5 hours total).
+**From [Osaka](/japan/osaka-guide)/[Kyoto](/japan/kyoto-guide)**: Shinkansen to Kokura or Hakata, then JR Sonic to Beppu (4–5 hours total).
 
-**From Nagasaki**: JR to Hakata, then Sonic (4 hours total).
+**From [Nagasaki](/japan/nagasaki-guide)**: JR to Hakata, then Sonic (4 hours total).
 
 **Within Beppu**: City buses (Kamenoi Bus system) cover all major sites. The Beppu one-day bus pass (¥900) covers unlimited rides including the Kannawa area and Jigoku Meguri circuit.
 
@@ -72,7 +72,7 @@ In the Kannawa district, geothermal steam (100°C) rises through cooking boxes p
 
 ## Yufuin — The Comparison
 
-40 minutes from Beppu by JR, Yufuin is Oita Prefecture's other major onsen destination — a more polished, scenic-valley resort with craft shops, European-inflected cafes, and a boutique ryokan culture.
+40 minutes from Beppu by JR, Yufuin is Oita Prefecture's other major onsen destination — a more polished, scenic-valley resort with craft shops, European-inflected cafes, and a boutique [ryokan](/japan/ryokan-guide) culture.
 
 **Beppu vs Yufuin**: Beppu is older, rawer, and has significantly more geological spectacle. Yufuin is more aesthetically curated and has better high-end ryokan. Many visitors do both on a Kyushu circuit: Yufuin for the overnight ryokan experience, Beppu for the Jigoku Meguri and the more unusual bathing formats.
 
@@ -84,7 +84,7 @@ In the Kannawa district, geothermal steam (100°C) rises through cooking boxes p
 
 **Day trip vs overnight**: Beppu works as a day trip from Fukuoka (return by 8pm is feasible, covers Jigoku Meguri + sand bath + Kannawa neighborhood). An overnight allows morning bathing when the neighborhood is quiet and the steam is thick in cool morning air.
 
-**Combined circuit**: Beppu + Yufuin + Fukuoka is the standard 3-day Kyushu onsen circuit from Tokyo or Osaka — fly into Fukuoka, one day Beppu, one night Yufuin ryokan, return from Fukuoka.
+**Combined circuit**: Beppu + Yufuin + Fukuoka is the standard 3-day Kyushu onsen circuit from [Tokyo](/japan/tokyo-guide) or Osaka — fly into Fukuoka, one day Beppu, one night Yufuin ryokan, return from Fukuoka.
 
 ---
 

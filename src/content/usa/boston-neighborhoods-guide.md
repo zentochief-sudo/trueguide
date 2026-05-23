@@ -16,7 +16,7 @@ Boston is the most walkable World Cup host city — the historic neighborhoods a
 
 ## Downtown and the Financial District
 
-Downtown Boston encompasses the Financial District, the Government Center area, and the blocks around Faneuil Hall and Quincy Market. It is the most hotel-dense area and has the best access to the MBTA (T) subway for commuter rail connections to Gillette Stadium.
+Downtown Boston encompasses the Financial District, the Government Center area, and the blocks around Faneuil Hall and Quincy Market. It is the most hotel-dense area and has the best access to the MBTA (T) subway for commuter rail connections to [Gillette Stadium](/united-states/gillette-stadium-guide).
 
 **Faneuil Hall Marketplace**: A tourist-heavy complex of indoor food stalls, street performers, and market buildings — the Quincy Market building has a continuous corridor of food vendors. The context is historical (Faneuil Hall itself, the "Cradle of Liberty," is where pre-Revolutionary meetings were held) and the modern execution is commercial but functional for a meal.
 

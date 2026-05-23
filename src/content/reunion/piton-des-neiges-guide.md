@@ -10,7 +10,7 @@ tags: [Réunion, Piton des Neiges, hiking, summit, Cilaos, Hell-Bourg, high alti
 city: cilaos
 ---
 
-Piton des Neiges ("Peak of Snows") at 3,069 meters is the highest point in the Indian Ocean — the extinct shield volcano that forms the geological core of Réunion, around which the three cirques (Cilaos, Salazie, Mafate) are formed. The summit is above the cloud layer that typically wraps the cirque walls, giving sunrise views over the entire island and occasionally to Mauritius on clear mornings.
+Piton des Neiges ("Peak of Snows") at 3,069 meters is the highest point in the Indian Ocean — the extinct shield volcano that forms the geological core of Réunion, around which the three cirques ([Cilaos](/reunion/cilaos-guide), Salazie, Mafate) are formed. The summit is above the cloud layer that typically wraps the cirque walls, giving sunrise views over the entire island and occasionally to Mauritius on clear mornings.
 
 The climb is the most significant hiking objective on the island — accessible to fit hikers without technical climbing skills, but requiring a full day and a night at altitude.
 
@@ -21,7 +21,7 @@ The climb is the most significant hiking objective on the island — accessible 
 ### From Cilaos (more popular)
 **Distance**: 14 km return | **Elevation gain**: 1,650m | **Time**: 5–7 hours up, 4–5 hours down
 
-Starting from the gîte de montagne near the Cilaos village edge, the trail climbs through tree heather forest, then transitions to the high volcanic plateau with views across to the Piton de la Fournaise. The trail is well-marked and managed by the national park.
+Starting from the gîte de montagne near the Cilaos village edge, the trail climbs through tree heather forest, then transitions to the high volcanic plateau with views across to the [Piton de la Fournaise](/[reunion](/reunion/reunion-travel-guide)/piton-de-la-fournaise-guide). The trail is well-marked and managed by the national park.
 
 The standard approach is to hike up to the Caverne Dufour hut (2,479m) in the afternoon, sleep, then ascend the final section to the summit (590m more elevation) in darkness to arrive for sunrise. The Caverne Dufour hut accommodates 70 people in dormitory-style bunks; advance booking is essential (through the Parc National de la Réunion booking system, €25–35 per person including dinner and breakfast).
 

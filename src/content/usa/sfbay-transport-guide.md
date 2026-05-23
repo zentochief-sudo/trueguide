@@ -10,7 +10,7 @@ tags: [SF Bay Area, transport, Caltrain, BART, World Cup 2026, getting around Sa
 city: sfbay
 ---
 
-The SF Bay Area has the most complex transit network of any World Cup host — multiple overlapping systems (BART, Caltrain, Muni, VTA, ferry, AC Transit) each covering different parts of the Bay Area. For World Cup visitors, three systems matter: Caltrain (SF to stadium), BART (SF internal and Oakland), and Muni (within San Francisco). Everything else is useful but secondary.
+The SF Bay Area has the most complex transit network of any World Cup host — multiple overlapping systems (BART, Caltrain, Muni, VTA, ferry, AC Transit) each covering different parts of the Bay Area. For World Cup visitors, three systems matter: Caltrain (SF to stadium), BART (SF internal and Oakland), and Muni (within [San Francisco](/united-states/san-francisco-guide)). Everything else is useful but secondary.
 
 ---
 

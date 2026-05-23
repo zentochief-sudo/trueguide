@@ -10,7 +10,7 @@ tags: [Serengeti, Tanzania, safari, Great Migration, Ngorongoro, Arusha, wildlif
 city: arusha
 ---
 
-The Serengeti ecosystem is the largest intact wildlife migration system on earth — 1.5 million wildebeest, 250,000 zebra, and 500,000 gazelle moving in a continuous annual circuit across 40,000 square kilometers of Tanzania and Kenya. The experience of seeing this — standing on a ridge above the Mara River watching a river crossing, or driving through a herd so dense that the car is surrounded from horizon to horizon — is one of the genuinely irreplaceable wildlife experiences left on the planet.
+The Serengeti ecosystem is the largest intact wildlife migration system on earth — 1.5 million wildebeest, 250,000 zebra, and 500,000 gazelle moving in a continuous annual circuit across 40,000 square kilometers of [Tanzania](/tanzania) and Kenya. The experience of seeing this — standing on a ridge above the Mara River watching a river crossing, or driving through a herd so dense that the car is surrounded from horizon to horizon — is one of the genuinely irreplaceable wildlife experiences left on the planet.
 
 This guide covers the planning logistics that determine whether a Tanzania safari is brilliant or merely expensive.
 
@@ -35,7 +35,7 @@ The migration is driven by rainfall and the resulting grass growth. The herd's l
 ## The Key Parks
 
 ### Serengeti National Park
-Tanzania's premier wildlife park — 14,750 km², the core of the migration ecosystem. Access from Arusha by road (7–8 hours to the central Seronera region) or by small aircraft (45–60 minutes to any of the airstrips). The park is too large for a single camp to cover — position your camp according to where the migration is during your visit.
+Tanzania's premier wildlife park — 14,750 km², the core of the migration ecosystem. Access from [Arusha](/tanzania/arusha-guide) by road (7–8 hours to the central Seronera region) or by small aircraft (45–60 minutes to any of the airstrips). The park is too large for a single camp to cover — position your camp according to where the migration is during your visit.
 
 **Camp positioning strategy**:
 - Southern Serengeti / Ndutu (December–March): Calving season
@@ -44,14 +44,14 @@ Tanzania's premier wildlife park — 14,750 km², the core of the migration ecos
 - Northern Serengeti / Kogatende (June–October): River crossings
 
 ### Ngorongoro Conservation Area
-The Ngorongoro Crater — a volcanic caldera 19 km across and 600m deep, containing a self-contained ecosystem with an estimated 25,000 large mammals. The crater has a permanent resident population of lion, elephant, buffalo, hyena, and the densest population of black rhino in the world. Unlike the Serengeti, game doesn't migrate in and out — everything is here year-round.
+The [Ngorongoro](/tanzania/ngorongoro-guide) Crater — a volcanic caldera 19 km across and 600m deep, containing a self-contained ecosystem with an estimated 25,000 large mammals. The crater has a permanent resident population of lion, elephant, buffalo, hyena, and the densest population of black rhino in the world. Unlike the Serengeti, game doesn't migrate in and out — everything is here year-round.
 
 **Why it's different from the Serengeti**: Guaranteed sightings of all Big Five in a compact area. The compressed geography (the entire crater floor is visible from the rim) creates a different experience — less wild, more zoo-like in terms of density, but the wildlife encounters are extraordinary.
 
 **Access**: The crater descent road is one-way (descent in the morning, ascent in the afternoon). All vehicles descend and ascend together — early morning is essential. Crater floor visits: ~8 hours maximum (park regulations).
 
 ### Tarangire National Park
-Often overlooked in favor of the Serengeti, Tarangire has the highest density of elephants in Tanzania — herds of 300+ animals are possible. The baobab trees create a distinctive landscape. Best in the dry season (June–October) when wildlife concentrates around the Tarangire River.
+Often overlooked in favor of the Serengeti, [Tarangire](/tanzania/tarangire-guide) has the highest density of elephants in Tanzania — herds of 300+ animals are possible. The baobab trees create a distinctive landscape. Best in the dry season (June–October) when wildlife concentrates around the Tarangire River.
 
 ---
 
@@ -73,7 +73,7 @@ A Tanzania safari is expensive. The park fees alone are significant:
 - Park fees: ~$1,000 per person
 - Accommodation (7 nights mid-range): ~$2,500 per person
 - Vehicle + guide: ~$800 per person
-- **Total: ~$4,300 per person** (excludes international flights to Kilimanjaro/Arusha)
+- **Total: ~$4,300 per person** (excludes international flights to [Kilimanjaro](/tanzania/kilimanjaro-guide)/Arusha)
 
 ### Booking Through Operators vs. Independent
 

@@ -10,11 +10,11 @@ tags: [Kamakura, Japan, Great Buddha, temples, hiking, coast, Zeniarai Benten, H
 city: national
 ---
 
-Kamakura was Japan's political center from 1185 to 1333 — the seat of the Kamakura shogunate, the military government that effectively ruled while the emperor remained ceremonial in Kyoto. The temples and shrines built during those 150 years reflect a different aesthetic from Kyoto: more austere, more influenced by the Zen sects that were arriving from China, and built into the terrain rather than on open ground. The wooded hills behind the town are threaded with hiking trails connecting temples in ways that have remained mostly unchanged.
+Kamakura was Japan's political center from 1185 to 1333 — the seat of the Kamakura shogunate, the military government that effectively ruled while the emperor remained ceremonial in [Kyoto](/japan/kyoto-guide). The temples and shrines built during those 150 years reflect a different aesthetic from Kyoto: more austere, more influenced by the Zen sects that were arriving from China, and built into the terrain rather than on open ground. The wooded hills behind the town are threaded with hiking trails connecting temples in ways that have remained mostly unchanged.
 
 The Great Buddha (Kotoku-in Daibutsu) is the draw that most people come for, and it does not disappoint. But the circuit of temples and the coastal path make Kamakura a full day rather than a morning.
 
-One hour from Tokyo by JR Yokosuka Line from Tokyo Station.
+One hour from [Tokyo](/japan/tokyo-guide) by JR Yokosuka Line from Tokyo Station.
 
 ---
 
@@ -76,7 +76,7 @@ Get off at Kita-Kamakura Station (one stop before Kamakura from Tokyo) and walk 
 
 The main shrine of Kamakura, dedicated to Hachiman (the god of war and patron deity of the Minamoto clan who established the shogunate). A wide approach boulevard lined with cherry trees leads from the sea to the shrine's main hall on the hill — the layout was designed to be impressive from a distance, and it is.
 
-The approach, called Wakamiya-oji, divides into an upper and lower section separated by a lotus pond. In cherry blossom season the whole boulevard is canopied in pink. A large ancient ginkgo tree (now dead from storm damage) stood at the base of the main stairs for centuries; its stump remains as a landmark.
+The approach, called Wakamiya-oji, divides into an upper and lower section separated by a lotus pond. In [cherry blossom](/japan/cherry-blossom-guide) season the whole boulevard is canopied in pink. A large ancient ginkgo tree (now dead from storm damage) stood at the base of the main stairs for centuries; its stump remains as a landmark.
 
 Free entry to the main precinct. Admission ¥200 for the treasure museum.
 

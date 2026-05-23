@@ -10,7 +10,7 @@ tags: [Kansas City, World Cup 2026, Arrowhead Stadium, BBQ, jazz, Missouri]
 city: kansas-city
 ---
 
-Kansas City sits at the geographic center of the United States — on the Missouri-Kansas border, where the Great Plains begin. It's the smallest market among the 2026 World Cup host cities, which means shorter lines, cheaper accommodation, and a more concentrated fan experience in a city that takes its sports seriously. Arrowhead Stadium, home of the Kansas City Chiefs, is one of the loudest venues in North American sports.
+Kansas City sits at the geographic center of the United States — on the Missouri-Kansas border, where the Great Plains begin. It's the smallest market among the 2026 World Cup host cities, which means shorter lines, cheaper accommodation, and a more concentrated fan experience in a city that takes its sports seriously. [Arrowhead Stadium](/usa/arrowhead-stadium-guide), home of the Kansas City Chiefs, is one of the loudest venues in North American sports.
 
 The city has two identities that visitors reliably discover: the BBQ capital of the United States (a genuinely contested claim that Kansas Citians believe without qualification), and the birthplace of jazz's Kansas City style — a blues-influenced, riff-driven form that shaped American music from the 1920s through the bebop era.
 
@@ -46,7 +46,7 @@ Arrowhead Stadium will host **6 matches** in the 2026 World Cup. The stadium —
 
 **18th & Vine Jazz District**: The neighborhood where Kansas City jazz developed in the 1920s–40s. The American Jazz Museum and the Negro Leagues Baseball Museum share a building at 18th and Vine — the combination covers two of the most significant cultural contributions of the African American community to American history.
 
-**Nelson-Atkins Museum of Art**: One of the best art museums in the United States, with free admission. The collection spans ancient Egypt through contemporary photography; the Asian art collection is nationally significant.
+**Nelson-Atkins Museum of Art**: One of the best art museums in the United States, with free admission. The collection spans ancient [Egypt](/egypt) through contemporary photography; the Asian art collection is nationally significant.
 
 **Kauffman Center for the Performing Arts**: The performing arts complex that defines the current Kansas City skyline — two venues in a glass-and-concrete building that opened in 2011.
 

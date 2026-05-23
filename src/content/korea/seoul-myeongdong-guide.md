@@ -31,7 +31,7 @@ The K-beauty category has been internationally popularized to the point where so
 
 **Sheet masks**: Korean sheet mask technology is genuinely ahead of comparable Western products. **Mediheal**, **Dr. Jart+**, and **Some By Mi** produce effective sheet masks at prices that make buying 10-20 for a trip reasonable. Standard price ¥1,000–3,000 per mask; shops often have 10-for-¥10,000 deals.
 
-**Sunscreen**: Korean sunscreen formulations are lighter than most Western SPF products and more wearable under makeup. **Round Lab Birch Juice Moisturizing Sun Cream** and **Biore UV Aqua Rich** (Japanese but widely available) are the standard recommendations from Korean beauty communities.
+**Sunscreen**: Korean sunscreen formulations are lighter than most Western SPF products and more wearable under makeup. **Round Lab Birch Juice Moisturizing Sun Cream** and **Biore UV Aqua Rich** (Japanese but widely available) are the standard recommendations from [Korean beauty](/korea/korean-beauty-guide) communities.
 
 **Snail cream**: The filtrate from snail secretion is genuinely used in high-end Korean skincare as a healing and regenerating ingredient. **COSRX Advanced Snail 96 Mucin Power Essence** is the most widely recommended entry point.
 

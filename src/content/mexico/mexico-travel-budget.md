@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Mexico is one of the world's best-value destinations at every level — you can eat extraordinary food for €2 at a street stall, or spend €200 at one of Latin America's finest restaurants. The same flexibility applies to accommodation, transport, and activities. Here's what to realistically budget.
+[Mexico](/mexico) is one of the world's best-value destinations at every level — you can eat extraordinary food for €2 at a street stall, or spend €200 at one of Latin America's finest restaurants. The same flexibility applies to accommodation, transport, and activities. Here's what to realistically budget.
 
 ## The Numbers at a Glance
 
@@ -26,7 +26,7 @@ Mexico is one of the world's best-value destinations at every level — you can 
 ## Flights
 
 **From Europe to Mexico City (MEX):**
-- Budget: €400–650 return (Iberia, Air France, KLM, Copa)
+- Budget: €400–650 return (Iberia, Air [France](/france), KLM, Copa)
 - Mid-range: €650–900 return
 - Book 2–4 months ahead for best prices
 

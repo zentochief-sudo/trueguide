@@ -10,13 +10,13 @@ tags: [Costa Rica, practical, visa, rental car, shuttle, budget, safety, health,
 city: papagayo
 ---
 
-Costa Rica is one of the easier countries in Central America to visit independently — no visa required for most nationalities, a well-developed tourism infrastructure, English widely spoken in tourist areas, and an extensive network of shuttle services connecting every major destination. The main practical decisions are whether to rent a car (enables maximum flexibility; requires driving on unpaved roads), which route to take between the main destinations, and how to budget for a country that's significantly more expensive than its neighbors.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) is one of the easier countries in Central America to visit independently — no visa required for most nationalities, a well-developed tourism infrastructure, English widely spoken in tourist areas, and an extensive network of shuttle services connecting every major destination. The main practical decisions are whether to rent a car (enables maximum flexibility; requires driving on unpaved roads), which route to take between the main destinations, and how to budget for a country that's significantly more expensive than its neighbors.
 
 ---
 
 ## Visas
 
-**Visa-free entry** for citizens of: all EU countries, UK, USA, Canada, Australia, New Zealand, Japan, South Korea, and most Latin American countries. Length of stay: 90 days.
+**Visa-free entry** for citizens of: all EU countries, UK, USA, [Canada](/canada), Australia, New Zealand, Japan, South Korea, and most Latin American countries. Length of stay: 90 days.
 
 **What you need**: A valid passport (6 months remaining validity), onward/return ticket (technically required; enforcement varies), and proof of sufficient funds ($100/day is the stated requirement, never actually verified at the border).
 
@@ -26,7 +26,7 @@ Costa Rica is one of the easier countries in Central America to visit independen
 
 ## Getting There
 
-**Juan Santamaría International Airport (SJO), San José**: The main hub — direct connections from Miami (2.5 hours), New York (5.5 hours), Atlanta, Houston, Los Angeles (7 hours), Madrid, and multiple US gateway cities. Airlines: American, United, Delta, Avianca, Air France, Iberia.
+**Juan Santamaría International Airport (SJO), San José**: The main hub — direct connections from Miami (2.5 hours), New York (5.5 hours), Atlanta, Houston, Los Angeles (7 hours), Madrid, and multiple US gateway cities. Airlines: American, United, Delta, Avianca, Air [France](/france), Iberia.
 
 **Daniel Oduber Quirós International Airport (LIR), Liberia**: The Guanacaste/Papagayo regional airport — direct service from several US cities (Miami, New York, Houston via American, United, JetBlue). Better option if your itinerary focuses on the northwest Pacific coast; avoids the drive from San José.
 
@@ -40,7 +40,7 @@ The best tool for independent exploration. Costa Rica's national park system, wa
 **4WD is recommended** — not because of mountain passes but because:
 - Unpaved lodge driveways (common everywhere)
 - Beach access roads (often deep sand or rock)
-- River crossings in the south (Osa Peninsula, certain Guanacaste roads)
+- River crossings in the south ([Osa Peninsula](/costa-rica/osa-peninsula-guide), certain Guanacaste roads)
 - Rainy season roads in any region
 
 **Automatic vs. manual**: Most rental cars are manual; automatics cost more and have limited availability. Book automatics well in advance.
@@ -52,7 +52,7 @@ The best tool for independent exploration. Costa Rica's national park system, wa
 ### Shuttle Services
 The most convenient alternative to a rental car — shared or private shuttles between all major destinations:
 
-- **Interbus** (interbusonline.com): Shared shuttles, reliable, runs San José–Arenal–Monteverde–Guanacaste–Manuel Antonio and all combinations. Cost: $40–80/person per leg.
+- **Interbus** (interbusonline.com): Shared shuttles, reliable, runs San José–[Arenal](/costa-rica/arenal-guide)–[Monteverde](/costa-rica/monteverde-guide)–Guanacaste–[Manuel Antonio](/costa-rica/manuel-antonio-guide) and all combinations. Cost: $40–80/person per leg.
 - **Grayline** (graylinecostarica.com): Similar routes and pricing.
 - **Private transfers**: More expensive but direct door-to-door.
 

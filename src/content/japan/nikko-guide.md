@@ -14,7 +14,7 @@ Nikko is where Tokugawa Ieyasu — the shogun who unified Japan in 1603 and ende
 
 The forest around it is ancient cedar, planted over centuries in groves that pre-date most of the buildings. The combination of that forest and the extravagance of what's inside it is specifically Nikko, and it is unlike anything else in Japan.
 
-Two hours from Tokyo by direct train. A long day trip or an overnight.
+Two hours from [Tokyo](/japan/tokyo-guide) by direct train. A long day trip or an overnight.
 
 ---
 
@@ -82,7 +82,7 @@ The falls drop the full height in a single main cascade — one of Japan's three
 
 **Day trip from Tokyo**: Leave Asakusa on the 7:30am Spacia express. Arrive 9:20am. Shrine complex by 10am (before the first tour group buses). Kegon Falls after lunch. Return train by 5pm.
 
-**Overnight**: Stay in the Chuzenji Onsen area by the lake (ryokan ¥15,000–30,000/night) for the early morning forest atmosphere and access to the falls before day-trippers arrive. Or stay in Nikko town itself for more budget options.
+**Overnight**: Stay in the Chuzenji Onsen area by the lake ([ryokan](/japan/ryokan-guide) ¥15,000–30,000/night) for the early morning forest atmosphere and access to the falls before day-trippers arrive. Or stay in Nikko town itself for more budget options.
 
 **Crowding**: Weekends in spring and autumn foliage season (late October–mid November) are significantly busier. Weekdays at opening are manageable. The shrine complex opens at 8am — arrive then.
 
@@ -92,7 +92,7 @@ The falls drop the full height in a single main cascade — one of Japan's three
 
 **Yuba** (tofu skin) is Nikko's local specialty: the skin that forms on heated soy milk, served fresh, dried, or in tofu dishes. The restaurants on Nishi-sando leading to the shrine serve yuba kaiseki sets (¥2,500–4,000). The conveniece stores and market stalls near the station sell yuba snacks.
 
-**Nikko tamago**: Eggs slow-cooked in hot spring water, sold at roadside stands near the falls area. Similar to Hakone's black eggs in concept.
+**Nikko tamago**: Eggs slow-cooked in hot spring water, sold at roadside stands near the falls area. Similar to [Hakone](/japan/hakone-guide)'s black eggs in concept.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Pakistan, practical, visa, safety, transport, Gilgit, Skardu, flights, bu
 city: islamabad
 ---
 
-Pakistan has one of the largest gaps between reputation and reality in international travel. The country's image in Western media — shaped by coverage of security incidents, political instability, and conflict in neighboring Afghanistan — diverges sharply from the experience of most visitors to the northern mountain regions and the historic cities of Punjab. Travelers who visit Lahore, the Hunza Valley, or the Karakoram report overwhelmingly positive experiences of hospitality, natural beauty, and cultural richness.
+[Pakistan](/pakistan) has one of the largest gaps between reputation and reality in international travel. The country's image in Western media — shaped by coverage of security incidents, political instability, and conflict in neighboring Afghanistan — diverges sharply from the experience of most visitors to the northern mountain regions and the historic cities of Punjab. Travelers who visit [Lahore](/pakistan/lahore-guide), the [Hunza Valley](/pakistan/hunza-valley-guide), or the Karakoram report overwhelmingly positive experiences of hospitality, natural beauty, and cultural richness.
 
 This doesn't mean Pakistan requires no preparation or awareness. It means the preparation is specific, informed by what actually concerns visitors in the areas they're visiting, rather than generalizations that don't distinguish between Karachi's port neighborhoods, the Federally Administered areas near the Afghan border, and the tourism-developed mountain valleys of Gilgit-Baltistan.
 
@@ -18,7 +18,7 @@ This doesn't mean Pakistan requires no preparation or awareness. It means the pr
 
 ## Visas
 
-**e-Visa on Arrival**: Pakistan introduced an e-Visa and Visa on Arrival (VoA) system for citizens of over 50 countries, including the EU, UK, USA, Canada, Australia, Japan, and most Western countries. Apply at visa.nadra.gov.pk at least 7 days before travel.
+**e-Visa on Arrival**: Pakistan introduced an e-Visa and Visa on Arrival (VoA) system for citizens of over 50 countries, including the EU, UK, USA, [Canada](/canada), Australia, Japan, and most Western countries. Apply at visa.nadra.gov.pk at least 7 days before travel.
 
 **Visa fee**: Approximately $75–100 (tourist visa, single entry, 30 days).
 
@@ -34,7 +34,7 @@ This doesn't mean Pakistan requires no preparation or awareness. It means the pr
 
 **The north (Gilgit-Baltistan, Hunza, Skardu)**: The mountain regions of northern Pakistan that attract international tourists are among the safest areas in the country for visitors. The tourism economy depends on visitor safety; the communities here have a strong tradition of hospitality and little of the political violence that affects other parts of Pakistan. Foreign tourists have been visiting Hunza, Skardu, and the Karakoram continuously for 50+ years.
 
-**Punjab (Lahore, Islamabad)**: Relatively safe for tourists, with the standard urban precautions applicable to any large South Asian city. Lahore's old city, the tourist sites, and the restaurant areas are visited by Pakistani and international tourists daily.
+**Punjab (Lahore, [Islamabad](/pakistan/islamabad-guide))**: Relatively safe for tourists, with the standard urban precautions applicable to any large South Asian city. Lahore's old city, the tourist sites, and the restaurant areas are visited by Pakistani and international tourists daily.
 
 **Areas to avoid or enter only with specific guidance**: The Federally Administered areas near the Afghan border (former FATA), Balochistan (outside specific tourist corridors), parts of KPK province away from the main highways. The UK FCDO, US State Department, and German AA publish current advisories by region — consult these specifically by district, not by country-wide advice.
 
@@ -64,7 +64,7 @@ The only practical way to reach Gilgit and Skardu on a limited itinerary. Both a
 **Booking**: At piaa.com.pk or through local travel agents in Rawalpindi. Ticket availability is tight in July–September peak season; book as early as possible.
 
 ### NATCO Buses (Rawalpindi to Gilgit)
-The overland alternative via the Karakoram Highway. 18–20 hours, departing from Pir Wadhai Bus Terminal in Rawalpindi. Reliable service, comfortable enough for a single overnight. Arrives at Gilgit early morning.
+The overland alternative via the [Karakoram Highway](/pakistan/karakoram-highway-guide). 18–20 hours, departing from Pir Wadhai Bus Terminal in Rawalpindi. Reliable service, comfortable enough for a single overnight. Arrives at Gilgit early morning.
 
 ### Within Cities
 **Ride-hailing**: Careem (the main regional app, owned by Uber) and InDriver operate in Islamabad, Lahore, Karachi. Download before arriving.

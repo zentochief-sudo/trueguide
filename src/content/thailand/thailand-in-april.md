@@ -10,15 +10,15 @@ tags: [Thailand, April, Songkran, Thai New Year, water festival, Chiang Mai, Ban
 city: national
 ---
 
-April is Thailand's Songkran month — and Songkran is one of the most extraordinary public celebrations in Southeast Asia. The Thai New Year water festival (April 13–15, sometimes extended to a week in Chiang Mai) turns every street into a water fight, with millions of Thais and tourists armed with water guns, buckets, and hoses, soaking each other in temperatures that make the cool water genuinely welcome. Outside Songkran, April is the hottest and most humid month of the year, with the rainy season approaching.
+April is [Thailand](/thailand)'s Songkran month — and Songkran is one of the most extraordinary public celebrations in Southeast Asia. The Thai New Year water festival (April 13–15, sometimes extended to a week in [Chiang Mai](/thailand/chiang-mai-guide)) turns every street into a water fight, with millions of Thais and tourists armed with water guns, buckets, and hoses, soaking each other in temperatures that make the cool water genuinely welcome. Outside Songkran, April is the hottest and most humid month of the year, with the rainy season approaching.
 
 ## Weather in April
 
-**Bangkok:** 29°C to 40°C. The hottest month — heat index often feels like 42–44°C. April is oppressive for outdoor sightseeing outside of Songkran, when the water keeps temperatures manageable.
+**[Bangkok](/thailand/bangkok-guide):** 29°C to 40°C. The hottest month — heat index often feels like 42–44°C. April is oppressive for outdoor sightseeing outside of Songkran, when the water keeps temperatures manageable.
 
 **Chiang Mai:** 25°C to 40°C. Also the hottest month — compounded by the lingering smoke haze in early April. By mid-April (Songkran) the city is full of water and people.
 
-**Phuket/Andaman Coast:** 26°C to 35°C. Still dry season, but the first afternoon showers begin appearing in late April. Water conditions remain excellent.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 26°C to 35°C. Still dry season, but the first afternoon showers begin appearing in late April. Water conditions remain excellent.
 
 **Ko Samui/Gulf Coast:** 27°C to 35°C. Approaching rainy season on the Gulf side. Some afternoon showers in late April.
 
@@ -57,7 +57,7 @@ Outside Songkran (when water makes the heat irrelevant), April is genuinely the 
 
 - Grand Palace in Bangkok at 40°C heat index: exhausting
 - Chiang Mai temple circuit: not advisable midday
-- Ayutthaya (ancient capital, outdoor archaeological park): morning only — before 9 AM
+- [Ayutthaya](/thailand/ayutthaya-guide) (ancient capital, outdoor archaeological park): morning only — before 9 AM
 
 The beaches are the rational choice in April — the Andaman coast's remaining dry season and the Gulf coast's warm conditions make water activity the most comfortable option.
 

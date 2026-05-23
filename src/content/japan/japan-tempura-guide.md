@@ -58,7 +58,7 @@ The full tempura experience. You sit at a counter with 6–10 seats; the chef fr
 
 The meal progresses from light to rich, from delicate fish to heavier vegetables. At the highest end, this is an omakase format — the chef decides the sequence based on what is freshest that day.
 
-**Price range**: ¥8,000–30,000+ per person. Three-star tempura counters in Tokyo charge ¥30,000–50,000 for a lunch omakase.
+**Price range**: ¥8,000–30,000+ per person. Three-star tempura counters in [Tokyo](/japan/tokyo-guide) charge ¥30,000–50,000 for a lunch omakase.
 
 **Reservation**: Most specialist counters in Tokyo require booking 1–4 weeks in advance. Michelin-starred establishments may require advance booking months ahead.
 
@@ -99,9 +99,9 @@ The small bits of batter that fall during frying (*tenkasu*) are gathered and us
 
 **Tokyo-style (*Edo-style*)**: Sesame oil is used for frying, producing a slightly nutier, darker result. Firmer batter.
 
-**Kyoto and Osaka-style (*Kansai-style*)**: Lighter oil (typically vegetable oil or cottonseed oil), paler batter, more emphasis on the ingredient's natural color showing through.
+**[Kyoto](/japan/kyoto-guide) and [Osaka](/japan/osaka-guide)-style (*Kansai-style*)**: Lighter oil (typically vegetable oil or cottonseed oil), paler batter, more emphasis on the ingredient's natural color showing through.
 
-**Nagasaki-style**: Where tempura entered Japan — the original Portuguese influence resulted in a slightly different batter tradition in Nagasaki, though modern Nagasaki tempura has largely converged with national standards.
+**[Nagasaki](/japan/nagasaki-guide)-style**: Where tempura entered Japan — the original Portuguese influence resulted in a slightly different batter tradition in Nagasaki, though modern Nagasaki tempura has largely converged with national standards.
 
 ---
 

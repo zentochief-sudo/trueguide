@@ -10,11 +10,11 @@ tags: [Egypt, October, autumn, Abu Simbel, Luxor, Nile cruise, solar alignment]
 city: national
 ---
 
-October is the month Egypt graduates from "challenging to visit" to "excellent to visit." Luxor and Aswan temperatures drop to a range where you can walk the ancient sites at any hour without severe heat management. The Abu Simbel solar alignment on October 22 draws a focused group of visitors to Nubia. And the organized tour groups from Europe are just beginning to arrive, meaning the sites have a proper visitor presence but not yet the peak-season congestion of January–February.
+October is the month [Egypt](/egypt) graduates from "challenging to visit" to "excellent to visit." Luxor and Aswan temperatures drop to a range where you can walk the ancient sites at any hour without severe heat management. The Abu Simbel solar alignment on October 22 draws a focused group of visitors to Nubia. And the organized tour groups from Europe are just beginning to arrive, meaning the sites have a proper visitor presence but not yet the peak-season congestion of January–February.
 
 ## Weather & Conditions
 
-**Cairo:** 20–28°C. Comfortable. Evenings are pleasant. A light jacket useful for after sunset.
+**[Cairo](/egypt/cairo-travel-guide):** 20–28°C. Comfortable. Evenings are pleasant. A light jacket useful for after sunset.
 
 **Luxor:** 22–32°C. Genuinely comfortable at most hours. The 10am–3pm window is warm but manageable. This is a significant shift from September.
 

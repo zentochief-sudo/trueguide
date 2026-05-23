@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-More travellers have visited Pakistan in the past five years than in the previous two decades combined. Those who go almost universally report the same thing: extraordinary landscapes, unmatched hospitality, and a country that bears no resemblance to its media image. It is one of the most rewarding destinations on earth — for those who go informed.
+More travellers have visited [Pakistan](/pakistan) in the past five years than in the previous two decades combined. Those who go almost universally report the same thing: extraordinary landscapes, unmatched hospitality, and a country that bears no resemblance to its media image. It is one of the most rewarding destinations on earth — for those who go informed.
 
 ## The Basics
 
-**Capital:** Islamabad  
+**Capital:** [Islamabad](/pakistan/islamabad-guide)  
 **Currency:** Pakistani Rupee (PKR). €1 ≈ PKR 310.  
 **Language:** Urdu (official national). English widely spoken in cities and educated circles. Regional languages: Punjabi, Sindhi, Pashto, Balochi, Wakhi, and many more.  
 **Time zone:** PKT (GMT+5)  
@@ -30,7 +30,7 @@ This is the first thing everyone asks. The honest answer:
 
 **Pakistan's security situation varies dramatically by region.** The northwest tribal border areas (FATA/KPK bordering Afghanistan), Balochistan, and parts of Karachi require serious caution and are not recommended for independent tourist travel.
 
-**Islamabad, Lahore, Punjab, and the KKH/Northern Areas** (Gilgit-Baltistan, Hunza, Swat) are generally considered safe for tourists, with millions of visitors annually (mostly Pakistani domestic tourists). Foreign visitors are rare enough to be a novelty — which often means extraordinary hospitality.
+**Islamabad, [Lahore](/pakistan/lahore-guide), Punjab, and the KKH/Northern Areas** (Gilgit-Baltistan, Hunza, Swat) are generally considered safe for tourists, with millions of visitors annually (mostly Pakistani domestic tourists). Foreign visitors are rare enough to be a novelty — which often means extraordinary hospitality.
 
 **Always check your government's current travel advisory**, which is updated regularly and distinguishes between regions.
 
@@ -52,11 +52,11 @@ This hospitality is the single most consistent comment from every traveller who 
 
 **Lahore:** The greatest concentration of Mughal architecture in South Asia — Lahore Fort, Badshahi Mosque, Wazir Khan Mosque, and Shalimar Gardens are all UNESCO-listed or eligible. Plus one of the subcontinent's greatest food cities.
 
-**Karakoram Highway:** The 1,300km road from Islamabad to the Chinese border, passing through some of the world's most dramatic mountain scenery. The Karakoram, Himalaya, and Hindu Kush all meet here.
+**[Karakoram Highway](/pakistan/karakoram-highway-guide):** The 1,300km road from Islamabad to the Chinese border, passing through some of the world's most dramatic mountain scenery. The Karakoram, Himalaya, and Hindu Kush all meet here.
 
-**Hunza Valley:** A valley of apricot orchards and impossible mountain views — Rakaposhi, Ultar Sar, and Diran rising above green fields. The Hunzai people have maintained a remarkable mountain civilisation for centuries.
+**[Hunza Valley](/pakistan/hunza-valley-guide):** A valley of apricot orchards and impossible mountain views — Rakaposhi, Ultar Sar, and Diran rising above green fields. The Hunzai people have maintained a remarkable mountain civilisation for centuries.
 
-**Fairy Meadows:** An alpine meadow beneath Nanga Parbat (8,126m) accessible by a terrifying jeep road and a 3-hour hike. The view is one of the most extraordinary on earth.
+**[Fairy Meadows](/pakistan/fairy-meadows-guide):** An alpine meadow beneath Nanga Parbat (8,126m) accessible by a terrifying jeep road and a 3-hour hike. The view is one of the most extraordinary on earth.
 
 **Taxila:** South Asia's most important Buddhist archaeological site — a UNESCO World Heritage city spanning 1,000 years of Gandharan civilisation.
 

@@ -10,15 +10,15 @@ tags: [Ireland, May, spring, walking, Wild Atlantic Way, Aran Islands, bluebells
 city: national
 ---
 
-May is the month many experienced Ireland travelers treat as the secret. The days are genuinely long (sunset approaching 9:30pm by month's end), the countryside is at its most vivid green before summer fades the intensity, the wildflowers are at their best, and the tourist infrastructure is fully operational without the August crowds. The Aran Islands are accessible. The Ring of Kerry is driveable without hour-long waits at passing places. May is Ireland performing at full capability for a smaller audience.
+May is the month many experienced [Ireland](/ireland) travelers treat as the secret. The days are genuinely long (sunset approaching 9:30pm by month's end), the countryside is at its most vivid green before summer fades the intensity, the wildflowers are at their best, and the tourist infrastructure is fully operational without the August crowds. The Aran Islands are accessible. The [Ring of Kerry](/ireland/ring-of-kerry-guide) is driveable without hour-long waits at passing places. May is Ireland performing at full capability for a smaller audience.
 
 ## Weather & Conditions
 
-**Dublin and East:** 9–16°C. May is one of Ireland's drier months — not dry exactly, but noticeably less wet than autumn and winter. Showers are shorter and sunnier. Dublin in May has a lightness that's distinctive.
+**[Dublin](/ireland/dublin-travel-guide) and East:** 9–16°C. May is one of Ireland's drier months — not dry exactly, but noticeably less wet than autumn and winter. Showers are shorter and sunnier. Dublin in May has a lightness that's distinctive.
 
-**West Coast (Galway, Clare, Mayo, Donegal):** 9–15°C. Atlantic showers with significant stretches of sunshine. The west coast in May light — late afternoon gold across the cliffs and bogs — is photographic at its best.
+**West Coast ([Galway](/ireland/galway-guide), Clare, Mayo, Donegal):** 9–15°C. Atlantic showers with significant stretches of sunshine. The west coast in May light — late afternoon gold across the cliffs and bogs — is photographic at its best.
 
-**Kerry/Cork:** 11–17°C. Ireland's warmest area. May in Kerry can feel like early summer — warm enough for sitting outside, long enough to walk until 9pm.
+**Kerry/[Cork](/ireland/cork-guide):** 11–17°C. Ireland's warmest area. May in Kerry can feel like early summer — warm enough for sitting outside, long enough to walk until 9pm.
 
 **Northern Ireland (Antrim Coast):** 9–15°C. The Giant's Causeway without winter wind or summer crowds is genuinely spectacular in May.
 
@@ -44,7 +44,7 @@ May is the month many experienced Ireland travelers treat as the secret. The day
 
 ## Practical Tips
 
-May is the best single month for driving the Wild Atlantic Way — the full 2,500km route from Donegal to West Cork. Traffic is manageable, all facilities are open, and the evening light is extraordinary for the final driving hours of the day.
+May is the best single month for driving the [Wild Atlantic Way](/ireland/wild-atlantic-way-guide) — the full 2,500km route from Donegal to West Cork. Traffic is manageable, all facilities are open, and the evening light is extraordinary for the final driving hours of the day.
 
 Summer school bookings and campervan rentals for July–August are being made in May — if your trip is later in the summer, book now.
 

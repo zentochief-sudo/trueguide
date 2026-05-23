@@ -28,7 +28,7 @@ The math is easier once you understand the categories: what has excellent cheap 
 
 **Mid-range hotels**: ¥12,000–25,000. Standard rooms, good locations.
 
-**Ryokan (budget)**: ¥8,000–15,000/person including dinner and breakfast. Small-town family ryokan often have the best value-to-experience ratio in this tier.
+**[Ryokan](/japan/ryokan-guide) (budget)**: ¥8,000–15,000/person including dinner and breakfast. Small-town family ryokan often have the best value-to-experience ratio in this tier.
 
 **High-end hotels and ryokan**: ¥30,000–100,000+.
 
@@ -58,7 +58,7 @@ Japan has more price tiers for food than almost anywhere. The same category of f
 
 **Within cities (subway/metro)**: ¥140–320 per ride depending on distance. IC card (Suica or Pasmo, ¥500 deposit) covers all transport and convenience store purchases.
 
-**Bullet train (Shinkansen)**: ¥2,500–22,000 depending on distance. Tokyo–Kyoto is ¥13,920 unreserved. The JR Pass covers Shinkansen on most routes — see below.
+**Bullet train (Shinkansen)**: ¥2,500–22,000 depending on distance. Tokyo–[Kyoto](/japan/kyoto-guide) is ¥13,920 unreserved. The JR Pass covers Shinkansen on most routes — see below.
 
 **Local trains and buses**: ¥140–500 typically. IC card handles all of these.
 
@@ -68,11 +68,11 @@ Japan has more price tiers for food than almost anywhere. The same category of f
 
 ### Entrance Fees
 
-**Temples and shrines**: ¥300–600 typically. Some are free (Meiji Jingu, most shrine grounds). The "expensive" ones are ¥1,000–1,600 (Ghibli Museum lottery tickets, some private gardens).
+**Temples and shrines**: ¥300–600 typically. Some are free (Meiji Jingu, most shrine grounds). The "expensive" ones are ¥1,000–1,600 ([Ghibli Museum](/japan/ghibli-museum-guide) lottery tickets, some private gardens).
 
 **Museums**: ¥500–2,000 for national museums. The National Museums in Tokyo, Kyoto, and Nara are ¥1,000 and cover large permanent collections. Municipal museums are often cheaper or free.
 
-**Observation decks**: ¥500–3,000. Tokyo Metropolitan Government Building observatory is free (open evenings). Tokyo Skytree ¥2,100–3,100. The free alternatives are as good as the paid ones in many cases.
+**Observation decks**: ¥500–3,000. Tokyo Metropolitan Government Building observatory is free (open evenings). [Tokyo Skytree](/japan/tokyo-skytree-guide) ¥2,100–3,100. The free alternatives are as good as the paid ones in many cases.
 
 ---
 
@@ -80,7 +80,7 @@ Japan has more price tiers for food than almost anywhere. The same category of f
 
 The JR Pass (7-day ¥50,000, 14-day ¥80,000, 21-day ¥100,000) covers unlimited travel on JR-operated trains including most Shinkansen routes. The math:
 
-**Worth it if**: You are traveling between multiple cities — Tokyo + Kyoto + Osaka + Hiroshima + Fukuoka is a typical itinerary where the pass covers 3–4x its cost.
+**Worth it if**: You are traveling between multiple cities — Tokyo + Kyoto + [Osaka](/japan/osaka-guide) + [Hiroshima](/japan/hiroshima-guide) + [Fukuoka](/japan/fukuoka-guide) is a typical itinerary where the pass covers 3–4x its cost.
 
 **Not worth it if**: You are staying in one city, or your itinerary is only Tokyo–Kyoto–Tokyo (one round trip = ¥27,840; the 7-day pass costs ¥50,000).
 
@@ -120,7 +120,7 @@ The JR Pass (7-day ¥50,000, 14-day ¥80,000, 21-day ¥100,000) covers unlimited
 
 ## Accommodation Strategies
 
-**Book early for cherry blossom season and Golden Week**: Cherry blossom (late March–early April) and Golden Week (late April–early May) are the two peak domestic travel periods. Accommodation prices rise 50–100% and availability collapses. Book 3–4 months ahead or choose dates that avoid peak weeks.
+**Book early for [cherry blossom](/japan/cherry-blossom-guide) season and Golden Week**: Cherry blossom (late March–early April) and Golden Week (late April–early May) are the two peak domestic travel periods. Accommodation prices rise 50–100% and availability collapses. Book 3–4 months ahead or choose dates that avoid peak weeks.
 
 **Business hotels have reliable quality**: The Dormy Inn chain specifically has good hot spring baths in most properties, comfortable beds, and reasonable breakfast options. Comparable rooms to higher-priced hotels at ¥7,000–11,000.
 

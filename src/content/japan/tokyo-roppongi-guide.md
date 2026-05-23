@@ -10,7 +10,7 @@ tags: [Roppongi, Tokyo, Japan, Mori Art Museum, National Art Center, 21_21 Desig
 city: tokyo
 ---
 
-Roppongi occupies a hill in Minato ward between Shibuya to the west and Toranomon to the east. Its postwar reputation was built on the American military presence at nearby bases — the entertainment district that grew to serve foreign servicemen became the foundation of the international nightlife zone it remains. The art district came later, anchored by the Roppongi Hills development (2003) and the Mori Art Museum at its center, then Tokyo Midtown (2007) and 21_21 Design Sight, then the National Art Center (2007) within walking distance of both.
+Roppongi occupies a hill in Minato ward between Shibuya to the west and Toranomon to the east. Its postwar reputation was built on the American military presence at nearby bases — the entertainment district that grew to serve foreign servicemen became the foundation of the international nightlife zone it remains. The art district came later, anchored by the Roppongi Hills development (2003) and the Mori Art Museum at its center, then [Tokyo](/japan/tokyo-guide) Midtown (2007) and 21_21 Design Sight, then the National Art Center (2007) within walking distance of both.
 
 The result is an unusual urban concentration: three serious art institutions and an international nightlife district within a 15-minute radius. Most visitors choose one side or the other. Spending a full day covers both.
 
@@ -26,7 +26,7 @@ At the top of Roppongi Hills Mori Tower (52nd and 53rd floors, 238 meters): the 
 
 **Practical**: Tickets include access to the Tokyo City View observation deck on the 52nd floor (the outdoor Sky Deck on 55F is extra). The museum is open until 10pm most nights (11pm Tuesdays and Fridays) — one of the few major art museums in the world with late opening hours, making it viable for evening visits after dinner. Admission ¥1,800–2,000 depending on exhibition.
 
-The view from the observation deck and the Sky Deck is among the best in Tokyo — Shibuya and Shinjuku to the west, Tokyo Bay to the south, and the Tokyo Tower and Skytree in the foreground and background respectively.
+The view from the observation deck and the Sky Deck is among the best in Tokyo — Shibuya and Shinjuku to the west, Tokyo Bay to the south, and the [Tokyo Tower](/japan/tokyo-tower-guide) and Skytree in the foreground and background respectively.
 
 ### 21_21 Design Sight
 

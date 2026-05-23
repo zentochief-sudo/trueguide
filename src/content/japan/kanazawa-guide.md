@@ -10,17 +10,17 @@ tags: [Kanazawa, Kenroku-en, geisha, Japan, Ishikawa, samurai, regional Japan]
 city: kanazawa
 ---
 
-There's a reason Kanazawa is called "Little Kyoto." But that name sells it short, because Kanazawa has something Kyoto lost decades ago: it still feels real.
+There's a reason Kanazawa is called "Little [Kyoto](/japan/kyoto-guide)." But that name sells it short, because Kanazawa has something Kyoto lost decades ago: it still feels real.
 
-Kyoto is extraordinary. It's also, in the tourist zones, a performance. Kanazawa hasn't crossed that line. The geisha district has actual geisha. The samurai quarter has people who live there. The market has a fish counter where a man in rubber boots argues with a supplier at 6am. None of it is staged for you.
+Kyoto is extraordinary. It's also, in the tourist zones, a performance. Kanazawa hasn't crossed that line. The [geisha](/japan/geisha-guide) district has actual geisha. The samurai quarter has people who live there. The market has a fish counter where a man in rubber boots argues with a supplier at 6am. None of it is staged for you.
 
 The city also survived WWII without a single air raid. There's a persistent theory that the Americans spared it intentionally, recognizing its cultural significance. Whether true or not, the result is a city where the Edo period didn't have to be reconstructed — it's still there.
 
 ## Getting to Kanazawa
 
-The Hokuriku Shinkansen connects Kanazawa to Tokyo (2.5 hours) and to Osaka and Kyoto via an extension that opened in 2024.
+The Hokuriku Shinkansen connects Kanazawa to [Tokyo](/japan/tokyo-guide) (2.5 hours) and to [Osaka](/japan/osaka-guide) and Kyoto via an extension that opened in 2024.
 
-From Tokyo: board at Tokyo Station, arrive at Kanazawa Station. The journey is on the JR network, so a Japan Rail Pass covers it in full.
+From Tokyo: board at Tokyo Station, arrive at Kanazawa Station. The journey is on the JR network, so a [Japan Rail Pass](/japan/japan-rail-pass-guide) covers it in full.
 
 From Kyoto or Osaka: the 2024 extension made this seamless. Previously this required a bus or scenic railway; now it's a direct shinkansen. The journey from Kyoto takes about 2 hours.
 
@@ -84,7 +84,7 @@ Eat at the sushi counters inside the market — specifically the ones with no En
 
 ## Where to Stay
 
-**The best choice is a ryokan.** Kanazawa has several excellent options in the ¥15,000–30,000 per person range (including dinner and breakfast). This is not a splurge category for Japan; it's standard ryokan pricing. Eating both meals at the ryokan makes logistical sense — dinner is kaiseki served in your room, breakfast is a small spread of local fish and pickles.
+**The best choice is a [ryokan](/japan/ryokan-guide).** Kanazawa has several excellent options in the ¥15,000–30,000 per person range (including dinner and breakfast). This is not a splurge category for Japan; it's standard ryokan pricing. Eating both meals at the ryokan makes logistical sense — dinner is kaiseki served in your room, breakfast is a small spread of local fish and pickles.
 
 If you're keeping costs down, business hotels near Kanazawa Station work fine. The city is small enough that you're never more than 15 minutes by bus or taxi from any of the main areas.
 
@@ -96,7 +96,7 @@ The three geisha and samurai districts are walkable from each other; Kenroku-en 
 
 ## A Note on Why to Go
 
-Every tourist in Japan knows Kyoto. Most have heard of Nara. Kanazawa, despite being 2.5 hours from Tokyo and containing one of Japan's great gardens, two of its best preserved historic districts, and some of its finest seasonal seafood, remains underexplored by foreign visitors.
+Every tourist in Japan knows Kyoto. Most have heard of [Nara](/japan/nara-guide). Kanazawa, despite being 2.5 hours from Tokyo and containing one of Japan's great gardens, two of its best preserved historic districts, and some of its finest seasonal seafood, remains underexplored by foreign visitors.
 
 That is almost certainly going to change. The new shinkansen extension has cut access times significantly. Travel media is beginning to notice.
 

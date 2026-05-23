@@ -10,7 +10,7 @@ tags: [Tokyo, Japan, itinerary, 3 days, first time, Shinjuku, Shibuya, Asakusa, 
 city: tokyo
 ---
 
-Tokyo at three days: not enough to understand the city, but enough to begin. The goal of this itinerary is calibration — the experience of what Tokyo actually is, at the street level, across enough variety that subsequent visits can be organized around preference rather than obligation.
+[Tokyo](/japan/tokyo-guide) at three days: not enough to understand the city, but enough to begin. The goal of this itinerary is calibration — the experience of what Tokyo actually is, at the street level, across enough variety that subsequent visits can be organized around preference rather than obligation.
 
 The structure is geographic. Tokyo wastes time if you jump between far-apart neighborhoods; this itinerary groups adjacent areas and moves in coherent arcs, using the Yamanote Line as a spine when walking connections are not practical.
 

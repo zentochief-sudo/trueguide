@@ -80,10 +80,10 @@ Toronto's primary Chinatown runs along Dundas Street West and Spadina Avenue —
 
 ## Neighborhood Summary
 
-| Neighborhood | Best for | TTC to BMO Field | Avg. cost |
+| Neighborhood | Best for | TTC to [BMO Field](/[canada](/canada)/bmo-field-guide) | Avg. cost |
 |---|---|---|---|
 | Downtown Core | Transit hub, hotels | 20 min (streetcar) | $200–450 |
 | Kensington Market | Markets, diversity | 25 min | $110–200 Airbnb |
 | Distillery District | Architecture, walks | 30 min | $180–350 |
-| Little Italy | Food, bars | 25 min | $100–190 Airbnb |
+| Little [Italy](/italy) | Food, bars | 25 min | $100–190 Airbnb |
 | Chinatown/Spadina | Dim sum, budget | 25 min | $120–200 |

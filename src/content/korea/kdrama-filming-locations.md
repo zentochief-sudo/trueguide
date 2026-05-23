@@ -156,7 +156,7 @@ A French-themed cultural village in Gyeonggi-do, 1.5 hours from Seoul. Appears i
 
 ### 15. Jeonju Hanok Village — *Hometown Cha-Cha-Cha* and others
 
-Jeonju, 2 hours from Seoul by KTX, has the largest remaining hanok village in Korea — hundreds of traditional houses on a hill above the modern city. Filming here appears across multiple dramas. Jeonju is also the birthplace of bibimbap; eating it here, where it originated, is an entirely different experience from eating it in Seoul.
+[Jeonju](/korea/jeonju-guide), 2 hours from Seoul by KTX, has the largest remaining hanok village in Korea — hundreds of traditional houses on a hill above the modern city. Filming here appears across multiple dramas. Jeonju is also the birthplace of bibimbap; eating it here, where it originated, is an entirely different experience from eating it in Seoul.
 
 ---
 

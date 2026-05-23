@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Canada is the world's second-largest country by area — and one of the most rewarding to visit. It has extraordinary wilderness, world-class cities, a welcoming multicultural society, and the Canadian Rockies, which may be the most spectacular mountain scenery accessible to general tourists anywhere in the world. It also requires more planning than most European destinations, primarily because of its sheer size.
+[Canada](/canada) is the world's second-largest country by area — and one of the most rewarding to visit. It has extraordinary wilderness, world-class cities, a welcoming multicultural society, and the Canadian Rockies, which may be the most spectacular mountain scenery accessible to general tourists anywhere in the world. It also requires more planning than most European destinations, primarily because of its sheer size.
 
 ## The Basics
 

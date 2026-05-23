@@ -10,7 +10,7 @@ tags: [Miami, transport, Metrorail, traffic, World Cup 2026, getting around Miam
 city: miami
 ---
 
-Miami has a reputation as a city you cannot navigate without a car. This reputation is more accurate than Los Angeles's equivalent — Miami's public transit is genuinely limited compared to most major international cities — but it is not the whole story. For visitors based in South Beach, Brickell, or Wynwood, a combination of Metrorail, the Metromover, rideshare, and occasional rentals covers most needs. The car becomes necessary primarily for reaching Hard Rock Stadium efficiently on match days.
+Miami has a reputation as a city you cannot navigate without a car. This reputation is more accurate than Los Angeles's equivalent — Miami's public transit is genuinely limited compared to most major international cities — but it is not the whole story. For visitors based in South Beach, Brickell, or Wynwood, a combination of Metrorail, the Metromover, rideshare, and occasional rentals covers most needs. The car becomes necessary primarily for reaching [Hard Rock Stadium](/united-states/hard-rock-stadium-guide) efficiently on match days.
 
 ---
 
@@ -48,7 +48,7 @@ No single transit option is perfect for Hard Rock. The practical options by base
 
 ### From South Beach
 1. **Rideshare (most common)**: $45–65 normal, $65–100 match-day surge. 30–50 minutes.
-2. **Express bus (World Cup service)**: Check Miami-Dade Transit for World Cup-specific express routes. Expected to operate from Miami Beach Convention Center area.
+2. **Express bus (World Cup service)**: Check Miami-Dade Transit for World Cup-specific express routes. Expected to operate from [Miami Beach](/united-states/miami-beach-guide) Convention Center area.
 3. **Drive + park**: Park at a South Beach garage, take rideshare or Tri-Rail from a mainland location if you can arrange it.
 
 ### From Brickell / Downtown

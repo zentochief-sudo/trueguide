@@ -12,7 +12,7 @@ city: national
 
 Suwon's **Hwaseong Fortress** was built between 1794 and 1796 under the direction of King Jeong-jo of Joseon, who wanted to create a model planned city incorporating military, commercial, and residential functions in a single fortified perimeter. The result — 5.7km of wall, 48 military structures, four main gates, and a surrounding city — was one of the most sophisticated urban planning projects in East Asian history. UNESCO recognized it in 1997.
 
-It's an hour from Seoul by subway and receives a fraction of the visitors that Gyeongju or Gyeongbokgung Palace do. This combination of quality and accessibility without crowds makes it one of the best day trips in Korea.
+It's an hour from Seoul by subway and receives a fraction of the visitors that [Gyeongju](/korea/gyeongju-guide) or [Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide) do. This combination of quality and accessibility without crowds makes it one of the best day trips in Korea.
 
 ---
 
@@ -54,7 +54,7 @@ The palace holds regular cultural performances including **martial arts demonstr
 
 The area enclosed by Hwaseong Fortress is a functioning city of about 100,000 people — not a museum recreation but an actual urban neighborhood with restaurants, markets, and daily life. The **Haenggung-dong** neighborhood immediately around the palace has the best density of traditional-style restaurants and the **Paldalmun Market** (one of Korea's largest traditional markets) is a short walk from the south gate.
 
-**The market**: Fresh produce, dried goods, textiles, and street food in a covered arcade that has operated since 1914. The evening food stalls serve sundae, tteokbokki, pajeon, and makgeolli in the tradition of the Korean traditional market evening meal. Specifically good for anyone who found Seoul's Gwangjang Market too tourist-facing.
+**The market**: Fresh produce, dried goods, textiles, and street food in a covered arcade that has operated since 1914. The evening food stalls serve sundae, tteokbokki, pajeon, and makgeolli in the tradition of the Korean traditional market evening meal. Specifically good for anyone who found Seoul's [Gwangjang Market](/korea/gwangjang-market-guide) too tourist-facing.
 
 ---
 

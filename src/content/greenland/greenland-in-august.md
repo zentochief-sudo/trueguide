@@ -10,19 +10,19 @@ tags: [Greenland, August, summer peak, Northern Lights, whales, Ilulissat, kayak
 city: national
 ---
 
-August is Greenland's last full summer month and arguably its most complete. The midnight sun has ended in Ilulissat (after July 24), meaning night returns and with it the first Northern Lights of the season — visible for the first time since April on clear August nights. All boat routes are operating. Whale activity continues at high levels. The hiking season is at peak. And the first signs of autumn tundra color begin appearing on the hillsides above settlements. August delivers nearly everything Greenland offers in a single month.
+August is [Greenland](/greenland)'s last full summer month and arguably its most complete. The midnight sun has ended in Ilulissat (after July 24), meaning night returns and with it the first Northern Lights of the season — visible for the first time since April on clear August nights. All boat routes are operating. Whale activity continues at high levels. The hiking season is at peak. And the first signs of autumn tundra color begin appearing on the hillsides above settlements. August delivers nearly everything Greenland offers in a single month.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** 8 to 14°C. Night has returned. First aurora possible.
 
-**Nuuk:** 8 to 13°C. Long days (18+ hours of daylight). Hiking season excellent.
+**[Nuuk](/greenland/nuuk-travel-guide):** 8 to 13°C. Long days (18+ hours of daylight). Hiking season excellent.
 
-**Sisimiut:** 7 to 12°C. Arctic Circle Trail still prime.
+**[Sisimiut](/greenland/sisimiut-guide):** 7 to 12°C. Arctic Circle Trail still prime.
 
-**South Greenland:** 10 to 17°C. Warmest month of the year for the south.
+**[South Greenland](/greenland/south-greenland-guide):** 10 to 17°C. Warmest month of the year for the south.
 
-**East Greenland:** 6 to 11°C. Full summer access. Most reliable month for Tasiilaq.
+**[East Greenland](/greenland/east-greenland-guide):** 6 to 11°C. Full summer access. Most reliable month for Tasiilaq.
 
 ## What to Do
 

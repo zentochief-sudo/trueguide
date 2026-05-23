@@ -36,7 +36,7 @@ Tequila is a distillate of blue tequilana Weber agave — specifically this vari
 
 The tourist train that runs from Guadalajara to the town of Tequila on weekends and some weekdays. It's the most organized and popular experience for visiting the region.
 
-**Itinerary**: Departs from the Guadalajara train station. The train journey (60–75 minutes) includes live mariachi, breakfast, and tequila shots. In the town of Tequila, passengers visit La Rojeña distillery (the oldest continuously operating distillery in Mexico, founded in 1795, owned by Jose Cuervo) with a production tour, tasting, and free time.
+**Itinerary**: Departs from the Guadalajara train station. The train journey (60–75 minutes) includes live mariachi, breakfast, and tequila shots. In the town of Tequila, passengers visit La Rojeña distillery (the oldest continuously operating distillery in [Mexico](/mexico), founded in 1795, owned by Jose Cuervo) with a production tour, tasting, and free time.
 
 **Included**: Transport, breakfast, distillery tour, and tequila tastings.
 

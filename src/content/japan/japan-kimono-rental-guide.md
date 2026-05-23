@@ -10,7 +10,7 @@ tags: [kimono rental, yukata, Kyoto kimono, Gion kimono, Japan experiences, Japa
 city: national
 ---
 
-Renting a kimono for a day is one of the most actively enjoyable things to do in Kyoto or Tokyo — not merely a costume activity but a genuine engagement with Japanese aesthetic culture and, practically, an exceptional way to be photographed at the famous sites. The rental industry serving tourists has developed to the point where the process is smooth, the staff at major shops are accustomed to non-Japanese customers, and the selection is broad enough to choose something genuinely beautiful rather than merely generic.
+Renting a kimono for a day is one of the most actively enjoyable things to do in [Kyoto](/japan/kyoto-guide) or [Tokyo](/japan/tokyo-guide) — not merely a costume activity but a genuine engagement with Japanese aesthetic culture and, practically, an exceptional way to be photographed at the famous sites. The rental industry serving tourists has developed to the point where the process is smooth, the staff at major shops are accustomed to non-Japanese customers, and the selection is broad enough to choose something genuinely beautiful rather than merely generic.
 
 ---
 

@@ -10,17 +10,17 @@ tags: []
 city: national
 ---
 
-Italy is one of the world's most beloved travel destinations, and it lives up to its reputation — the food, the art, the architecture, and the light are all genuinely extraordinary. But Italy operates on its own logic, and understanding that logic before you arrive makes the experience immeasurably better.
+[Italy](/italy) is one of the world's most beloved travel destinations, and it lives up to its reputation — the food, the art, the architecture, and the light are all genuinely extraordinary. But Italy operates on its own logic, and understanding that logic before you arrive makes the experience immeasurably better.
 
 ## The Basics
 
-**Capital:** Rome  
+**Capital:** [Rome](/italy/rome-guide)  
 **Currency:** Euro (€)  
 **Language:** Italian — English is spoken in tourist areas but decreasingly so in the south and countryside  
 **Time zone:** CET/CEST (GMT+1/+2)  
 **Driving:** Right-hand side  
 **Plugs:** Type F (Schuko) and Type L (Italian 3-pin) — bring an adapter  
-**Visa:** EU/EEA no visa; US, UK, Canada, Australia — visa-free 90 days (Schengen)
+**Visa:** EU/EEA no visa; US, UK, [Canada](/canada), Australia — visa-free 90 days (Schengen)
 
 ---
 
@@ -73,7 +73,7 @@ Shoulders and knees must be covered to enter most Italian churches. Major basili
 
 **Ribollita:** Tuscan bread and vegetable soup. One of Italy's great winter dishes.
 
-**Risotto alla Milanese:** Milan's saffron risotto — one of the few preparations where risotto (not pasta) leads.
+**Risotto alla Milanese:** [Milan](/italy/milan-travel-guide)'s saffron risotto — one of the few preparations where risotto (not pasta) leads.
 
 **Seafood:** Exceptional on both coastlines, and extraordinary in Sicily.
 

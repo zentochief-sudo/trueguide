@@ -10,11 +10,11 @@ tags: [Egypt, September, autumn, shoulder season, Luxor, Aswan, Nile cruise, val
 city: national
 ---
 
-September is the turning point for Egypt travel. Temperatures are still high — Luxor averages 38–40°C in early September — but the trend is downward, and by the end of the month the afternoons have dropped to where a properly timed outdoor excursion no longer requires the strict sunrise-only strategy. The international tour operators begin their autumn campaigns, pre-booking October and November tours, but September itself remains quiet. This is the last value month before winter prices return.
+September is the turning point for [Egypt](/egypt) travel. Temperatures are still high — Luxor averages 38–40°C in early September — but the trend is downward, and by the end of the month the afternoons have dropped to where a properly timed outdoor excursion no longer requires the strict sunrise-only strategy. The international tour operators begin their autumn campaigns, pre-booking October and November tours, but September itself remains quiet. This is the last value month before winter prices return.
 
 ## Weather & Conditions
 
-**Cairo:** 24–33°C. Noticeably cooler than August. Evenings become pleasant.
+**[Cairo](/egypt/cairo-travel-guide):** 24–33°C. Noticeably cooler than August. Evenings become pleasant.
 
 **Luxor:** 26–39°C in early September, dropping to 24–34°C by month's end. The shift is meaningful — a 34°C afternoon is manageable in shade; a 44°C one is not.
 
@@ -32,7 +32,7 @@ September is the turning point for Egypt travel. Temperatures are still high —
 
 **Abu Simbel in September:** The solar alignment of October 22 is approaching. September visits to Abu Simbel catch the site at low-crowd and reasonable (if still warm) temperatures. The sound and light show at Abu Simbel runs nightly — worth booking for an evening visit.
 
-**Siwa Oasis:** The Western Desert oasis is accessible and comfortable in September. The Great Sand Sea and the Oracle Temple of Amun are the highlights. Natural hot spring pools (Cleopatra's Bath) and the salt lake are enjoyable in September warmth. The drive from Cairo is long but the remote character of Siwa is worth it.
+**[Siwa Oasis](/egypt/siwa-oasis-guide):** The Western Desert oasis is accessible and comfortable in September. The Great Sand Sea and the Oracle Temple of Amun are the highlights. Natural hot spring pools (Cleopatra's Bath) and the salt lake are enjoyable in September warmth. The drive from Cairo is long but the remote character of Siwa is worth it.
 
 **Sinai desert trekking:** The high plateaus of the Sinai interior (around St. Catherine and Mount Sinai) are at their best in September and October. The temperatures are warm but not extreme at altitude. Hiking with Bedouin guides through canyons, oases, and sandstone formations is a very different Egypt than the Nile Valley.
 

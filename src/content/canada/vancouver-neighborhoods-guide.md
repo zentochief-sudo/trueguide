@@ -16,7 +16,7 @@ Vancouver's neighborhoods each have distinct personalities shaped by geography a
 
 ## Downtown Core / West End
 
-The downtown core is the hotel district — Robson Street, the Vancouver Convention Centre, and Coal Harbour are all in this zone. The West End (the residential peninsula west of Denman Street) has the highest residential density in Canada and direct access to English Bay beach.
+The downtown core is the hotel district — Robson Street, the Vancouver Convention Centre, and Coal Harbour are all in this zone. The West End (the residential peninsula west of Denman Street) has the highest residential density in [Canada](/canada) and direct access to English Bay beach.
 
 **English Bay Beach**: The urban beach at the foot of Denman Street — sunset views over the water toward Vancouver Island, the Sylvia Hotel on the beach (opened 1912, the most atmospheric beach hotel in Vancouver), and Stanley Park immediately north.
 
@@ -46,7 +46,7 @@ The former Canadian Pacific Railway maintenance yards — heavy industrial build
 
 **What makes it specific**: Yaletown has the highest density of upscale restaurants per block of any neighborhood in Vancouver — Hamilton and Mainland Streets are lined with restaurants with loading dock patios. The architectural character (brick warehouses, high ceilings) is unique in the city.
 
-**False Creek proximity**: The seawall from Yaletown to BC Place is 1.5 km — 20 minutes walking east. The False Creek Ferries (small passenger ferries, $4–5 CAD) connect Yaletown to Granville Island and Science World.
+**False Creek proximity**: The seawall from Yaletown to [BC Place](/canada/bc-place-guide) is 1.5 km — 20 minutes walking east. The False Creek Ferries (small passenger ferries, $4–5 CAD) connect Yaletown to Granville Island and Science World.
 
 **Stay**: Condos via Airbnb ($180–350 CAD/night for a 1-bedroom) and boutique hotels. **OPUS Hotel** (322 Davie Street) is Yaletown's design hotel reference — $240–420 CAD/night.
 

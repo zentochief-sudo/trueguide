@@ -12,7 +12,7 @@ city: bangkok
 
 Ayutthaya was the capital of the Kingdom of Siam from 1350 to 1767, when it was sacked and burned by the Burmese. At its peak, Ayutthaya was one of the largest cities in the world — a population of one million, with over 400 temples, and the commercial center of mainland Southeast Asia. The ruins left after the Burmese destruction are scattered across the island formed by the Chao Phraya, Pa Sak, and Lopburi rivers: broken chedis, headless Buddha statues, and the remnants of palaces whose original wooden structures have long since disappeared.
 
-The site is a UNESCO World Heritage Site and an 80-minute train ride from Bangkok.
+The site is a UNESCO World Heritage Site and an 80-minute train ride from [Bangkok](/thailand/bangkok-guide).
 
 ---
 
@@ -26,7 +26,7 @@ The site is a UNESCO World Heritage Site and an 80-minute train ride from Bangko
 
 **Wat Chai Watthanaram**: On the western bank of the Chao Phraya — a Khmer-influenced temple built in 1630 with a central prang surrounded by corner towers, reflecting the cosmological mandala plan. Best at sunset when the prang turns gold. Entry ฿50.
 
-**Wihan Phra Mongkhon Bophit**: The hall housing one of the largest bronze seated Buddhas in Thailand — the image was cast in the 15th century and restored after the Burmese destruction. Free entry; the interior is active for merit-making.
+**Wihan Phra Mongkhon Bophit**: The hall housing one of the largest bronze seated Buddhas in [Thailand](/thailand) — the image was cast in the 15th century and restored after the Burmese destruction. Free entry; the interior is active for merit-making.
 
 ---
 

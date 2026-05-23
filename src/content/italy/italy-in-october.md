@@ -10,7 +10,7 @@ tags: [Italy, October, truffle, Piedmont, autumn, Tuscany, Sicily, Venice, harve
 city: national
 ---
 
-October is Italy's quiet peak. The summer crowds are entirely gone. The Mediterranean holds enough warmth for beach swimming through the first two weeks. The white truffle season in Piedmont is at full intensity. Tuscany and Umbria begin showing autumn color. And the cultural cities — Rome, Florence, Venice — return to their best, least-crowded, most functional state. October is the other argument (alongside September) for Italy's optimal travel month.
+October is [Italy](/italy)'s quiet peak. The summer crowds are entirely gone. The Mediterranean holds enough warmth for beach swimming through the first two weeks. The white truffle season in Piedmont is at full intensity. Tuscany and Umbria begin showing autumn color. And the cultural cities — [Rome](/italy/rome-guide), Florence, Venice — return to their best, least-crowded, most functional state. October is the other argument (alongside September) for Italy's optimal travel month.
 
 ## Weather in October
 

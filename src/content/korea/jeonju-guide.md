@@ -12,7 +12,7 @@ city: national
 
 Jeonju is a two-hour train ride south of Seoul and the reason most Koreans who know food want to go to Jeolla Province. The city has the country's largest preserved *hanok* village (over 700 traditional houses), the most debated version of bibimbap, a fermented food and makgeolli culture that goes deep, and a traditional crafts scene centered on hanji (Korean handmade paper) that has been operating since the Joseon period.
 
-It is one of those Korean cities that domestic tourists visit specifically to eat and that international tourists underestimate because the famous foreign-facing attractions are located elsewhere (Seoul, Busan, Jeju). This is their loss.
+It is one of those Korean cities that domestic tourists visit specifically to eat and that international tourists underestimate because the famous foreign-facing attractions are located elsewhere (Seoul, [Busan](/korea/busan-guide), [Jeju](/korea/jeju-guide)). This is their loss.
 
 ---
 
@@ -22,7 +22,7 @@ It is one of those Korean cities that domestic tourists visit specifically to ea
 
 **Bus from Seoul**: Intercity buses from Seoul's Express Bus Terminal to Jeonju take about 2.5 hours and cost ₩10,000–15,000. Slower but cheaper.
 
-From **Gyeongju or Busan**: Limited intercity bus connections; typically easier to return to Seoul and come back down the Honam KTX line.
+From **[Gyeongju](/korea/gyeongju-guide) or Busan**: Limited intercity bus connections; typically easier to return to Seoul and come back down the Honam KTX line.
 
 ---
 
@@ -69,7 +69,7 @@ Jeonju and the Jeolla region have an abundance of food culture that extends beyo
 
 **Kongnamul Gukbap** (콩나물국밥): Soybean sprout rice soup — a Jeonju specialty and the traditional morning-after meal. The clear broth, tender sprouts, rice, and raw egg create a dish specifically calibrated for recovery. Available at 24-hour restaurants.
 
-**Makgeolli**: Jeonju is in the heart of Korea's best makgeolli-producing region. The milky, slightly sweet, slightly tart fermented rice wine is consumed in volumes here that the rest of Korea can't match. The pairing is *pajeon* (green onion pancakes) or *jeon* (savory pancakes) of various kinds — the combination is as canonical as wine and cheese in France.
+**Makgeolli**: Jeonju is in the heart of Korea's best makgeolli-producing region. The milky, slightly sweet, slightly tart fermented rice wine is consumed in volumes here that the rest of Korea can't match. The pairing is *pajeon* (green onion pancakes) or *jeon* (savory pancakes) of various kinds — the combination is as canonical as wine and cheese in [France](/france).
 
 **Hanamari**: A Jeonju version of a drinking snack spread — makgeolli with multiple accompanying *anju* (food served with drinks). The anju plates (typically ₩5,000–10,000 per serving) include pancakes, spicy rice cakes, small dried fish, and fermented dishes.
 

@@ -10,13 +10,13 @@ tags: [Portugal, May, Lisbon, jacaranda, Douro, Algarve, festivals, spring, trav
 city: national
 ---
 
-May is Portugal's peak spring month — and for many travelers, the best month of the year. The jacaranda trees that started blooming in April reach their maximum intensity in Lisbon. The Algarve has warm water (19°C) and long days. The Douro Valley is vivid green with growing vines. And the crowds and prices of June haven't yet arrived. May is the optimal window between the spring build and the summer surge.
+May is [Portugal](/portugal)'s peak spring month — and for many travelers, the best month of the year. The jacaranda trees that started blooming in April reach their maximum intensity in [Lisbon](/portugal/lisbon-guide). The [Algarve](/portugal/algarve-guide) has warm water (19°C) and long days. The [Douro Valley](/portugal/douro-valley-guide) is vivid green with growing vines. And the crowds and prices of June haven't yet arrived. May is the optimal window between the spring build and the summer surge.
 
 ## Weather in May
 
 **Lisbon:** 15°C to 23°C. Warm, dry days with occasional Atlantic cloud. The city at its most comfortable — warm enough for outdoor dining, cool enough for walking.
 
-**Porto:** 13°C to 21°C. Spring warmth fully established. The Douro terraces are intensely green.
+**[Porto](/portugal/porto-guide):** 13°C to 21°C. Spring warmth fully established. The Douro terraces are intensely green.
 
 **Algarve:** 18°C to 25°C. Beach season properly open — sea temperature reaches 19–20°C. Long daylight hours.
 
@@ -71,7 +71,7 @@ May is the optimal Algarve month — before the July-August crowds and heat:
 
 ## Sintra in May
 
-Sintra — the UNESCO palace town 30 minutes from Lisbon — is at its most manageable in May before summer:
+[Sintra](/portugal/sintra-guide) — the UNESCO palace town 30 minutes from Lisbon — is at its most manageable in May before summer:
 
 **Pena Palace:** The colorful Romantic palace on the summit of the Serra de Sintra — book timed entry at least 2 weeks ahead. May mornings (open 9:30 AM) before midday crowds.
 

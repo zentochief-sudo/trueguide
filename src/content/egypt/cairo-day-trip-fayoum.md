@@ -10,7 +10,7 @@ tags: [Fayoum, Valley of the Whales, Wadi El Hitan, day trip, Cairo, Egypt, UNES
 city: cairo
 ---
 
-The most surprising day trip from Cairo is not a temple or a tomb — it's a desert that was once a sea. Wadi El Hitan (Valley of the Whales), 130 km southwest of Cairo, is a UNESCO World Heritage Site containing hundreds of fossils of Archaeoceti — the earliest known ancestors of modern whales — from a period 40 million years ago when this part of the Sahara was a shallow tropical sea.
+The most surprising day trip from [Cairo](/egypt/cairo-travel-guide) is not a temple or a tomb — it's a desert that was once a sea. Wadi El Hitan (Valley of the Whales), 130 km southwest of Cairo, is a UNESCO World Heritage Site containing hundreds of fossils of Archaeoceti — the earliest known ancestors of modern whales — from a period 40 million years ago when this part of the Sahara was a shallow tropical sea.
 
 Walking through Wadi El Hitan, you pass fossilized whale skeletons extending from the sand, their shapes visible in the rock, surrounded by desert silence. No other site in the world concentrates these transitional fossils so densely and accessibly.
 
@@ -40,7 +40,7 @@ Walking through Wadi El Hitan, you pass fossilized whale skeletons extending fro
 
 ## Wadi El Rayan
 
-On the same day trip route, 30 km before Wadi El Hitan, **Wadi El Rayan** is a national protectorate with two interconnected salt lakes and Egypt's only natural waterfalls — formed when irrigation runoff from the Fayoum oasis created a lake system in the desert depression.
+On the same day trip route, 30 km before Wadi El Hitan, **Wadi El Rayan** is a national protectorate with two interconnected salt lakes and [Egypt](/egypt)'s only natural waterfalls — formed when irrigation runoff from the Fayoum oasis created a lake system in the desert depression.
 
 The waterfalls are modest in scale (5–8 meters) but visually dramatic in the desert context. Felucca-style boats operate on the upper lake.
 

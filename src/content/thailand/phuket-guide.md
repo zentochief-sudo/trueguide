@@ -10,7 +10,7 @@ tags: [Phuket, Thailand, beaches, Phang Nga Bay, Similan Islands, diving, Patong
 city: phuket
 ---
 
-Phuket is Thailand's largest island and its most visited — 14 million arrivals per year, concentrated largely in the Patong–Karon–Kata resort strip on the west coast. The island is also genuinely beautiful in the parts that haven't been fully developed: the limestone karst scenery of Phang Nga Bay to the north, the Similan Islands for world-class diving to the northwest, the Phuket Old Town Sino-Portuguese architecture in the center, and beaches on the southern tip that remain accessible without requiring resort membership.
+Phuket is [Thailand](/thailand)'s largest island and its most visited — 14 million arrivals per year, concentrated largely in the Patong–Karon–Kata resort strip on the west coast. The island is also genuinely beautiful in the parts that haven't been fully developed: the limestone karst scenery of Phang Nga Bay to the north, the Similan Islands for world-class diving to the northwest, the Phuket Old Town Sino-Portuguese architecture in the center, and beaches on the southern tip that remain accessible without requiring resort membership.
 
 The island works best as a base for the surrounding region rather than as a destination in itself — the bay and island day trips are exceptional.
 
@@ -60,7 +60,7 @@ The historic center of Phuket Town (30 minutes east of Patong) — Sino-Portugue
 
 ## Practical Notes
 
-- **Getting there**: Phuket International Airport has direct flights from Bangkok (1.5 hours), Singapore, Hong Kong, Kuala Lumpur, and European hubs
+- **Getting there**: Phuket International Airport has direct flights from [Bangkok](/thailand/bangkok-guide) (1.5 hours), Singapore, Hong Kong, Kuala Lumpur, and European hubs
 - **Getting around**: No public transport. Metered taxis (demand the meter or use Grab). Motorbike rental (฿250/day) for independent beach-hopping; requires a license and confidence in Thai traffic
 - **Best time**: November–April (dry season). May–October is monsoon season — some beaches close, ferry services are reduced, diving visibility drops. West coast beaches are roughest in the monsoon; east coast (Rawai area) is more sheltered
 - **Accommodation**: Patong for nightlife access; Kata/Nai Harn for beach quality; Phuket Town for culture and local food

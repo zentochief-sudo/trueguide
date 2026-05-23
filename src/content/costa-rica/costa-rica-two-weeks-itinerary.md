@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Costa Rica lets you go beyond the highlight reel and discover the country's extraordinary biodiversity in depth. This itinerary covers both coasts, the cloud forest, the volcano, the most biodiverse zone in the country (Osa Peninsula), and the Caribbean turtle coast.
+Two weeks in [Costa Rica](/costa-rica/costa-rica-travel-guide) lets you go beyond the highlight reel and discover the country's extraordinary biodiversity in depth. This itinerary covers both coasts, the cloud forest, the volcano, the most biodiverse zone in the country ([Osa Peninsula](/costa-rica/osa-peninsula-guide)), and the Caribbean turtle coast.
 
 ## Days 1–2 – San José & Surroundings
 
@@ -20,7 +20,7 @@ Two weeks in Costa Rica lets you go beyond the highlight reel and discover the c
 
 ## Days 3–4 – Arenal
 
-Drive to Arenal (3.5 hours). Two days of volcano, canopy, hot springs, and lake activities. Day 3: arrival, Mistico hanging bridges, evening hot springs. Day 4: morning hike at Arenal National Park, afternoon kayaking on Lake Arenal, and La Fortuna waterfall.
+Drive to [Arenal](/costa-rica/arenal-guide) (3.5 hours). Two days of volcano, canopy, hot springs, and lake activities. Day 3: arrival, Mistico hanging bridges, evening hot springs. Day 4: morning hike at Arenal National Park, afternoon kayaking on Lake Arenal, and La Fortuna waterfall.
 
 ## Days 5–6 – Tortuguero
 
@@ -38,7 +38,7 @@ Drive south along the Caribbean coast to **Puerto Viejo de Talamanca** — a Afr
 
 ## Days 9–10 – Drive Across to Monteverde
 
-The cross-country drive to Monteverde takes 6–7 hours via San José. Alternatively, take a boat-bus shuttle (ferry + transfers, about the same time). Spend an afternoon arriving in Monteverde.
+The cross-country drive to [Monteverde](/costa-rica/monteverde-guide) takes 6–7 hours via San José. Alternatively, take a boat-bus shuttle (ferry + transfers, about the same time). Spend an afternoon arriving in Monteverde.
 
 **Day 10:** Full cloud forest day — Monteverde Biological Reserve with a guide in the morning, frog pond and butterfly garden in the afternoon, and the sky walk or a night tour in the evening.
 

@@ -10,19 +10,19 @@ tags: [Costa Rica, August, humpback whales, turtles, Tortuguero, green season, w
 city: national
 ---
 
-August is when Costa Rica becomes briefly unique in the world's whale watching calendar. The Northern Hemisphere humpback population (in Pacific waters since May) begins its southward migration while the Southern Hemisphere humpback population (from Antarctic waters) arrives from the south. For several weeks in August–September, both populations overlap in Costa Rican Pacific waters — the only place in the world where this occurs. Combine this with Tortuguero's continuing peak turtle nesting, full river flow for rafting, and the most lush landscape of the year, and August delivers wildlife density that few months anywhere can match.
+August is when [Costa Rica](/costa-rica/costa-rica-travel-guide) becomes briefly unique in the world's whale watching calendar. The Northern Hemisphere humpback population (in Pacific waters since May) begins its southward migration while the Southern Hemisphere humpback population (from Antarctic waters) arrives from the south. For several weeks in August–September, both populations overlap in Costa Rican Pacific waters — the only place in the world where this occurs. Combine this with Tortuguero's continuing peak turtle nesting, full river flow for rafting, and the most lush landscape of the year, and August delivers wildlife density that few months anywhere can match.
 
 ## Weather & Conditions
 
 **Guanacaste:** 23–31°C. Heavy rainy season. Not Pacific beach conditions.
 
-**Manuel Antonio:** 24–30°C. Rainy. Lush forest. Wildlife concentrated.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–30°C. Rainy. Lush forest. Wildlife concentrated.
 
-**Arenal:** 20–26°C. Heavy rain. Waterfalls at maximum.
+**[Arenal](/costa-rica/arenal-guide):** 20–26°C. Heavy rain. Waterfalls at maximum.
 
 **Caribbean (Tortuguero):** 23–29°C. Rainy. Turtle nesting continuing at peak.
 
-**Osa Peninsula (Corcovado):** 22–29°C. Heavy rain. Difficult but extraordinary.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide) (Corcovado):** 22–29°C. Heavy rain. Difficult but extraordinary.
 
 ## What to Do
 
@@ -34,7 +34,7 @@ August is when Costa Rica becomes briefly unique in the world's whale watching c
 
 **Corcovado in the heaviest rain:** August Corcovado requires commitment — rubber boots, dry bags for everything, and waterproof clothing throughout. Trail river crossings can be deep and fast. The wildlife reward is exceptional: all four monkey species, tapirs, peccaries, and the scarlet macaws that fly in flocks between forest patches. The Sirena ranger station inside the park is the deepest and most biodiverse access point. Overnight stays inside the park require advance booking.
 
-**Sarapiquí river area:** The Sarapiquí lowlands below Monteverde have exceptional birding in August — the rain brings insects, which brings birds. La Selva Biological Station (run by the Organization for Tropical Studies, with guided walks for visitors) gives access to primary lowland rainforest adjacent to the Caribbean lowlands.
+**Sarapiquí river area:** The Sarapiquí lowlands below [Monteverde](/costa-rica/monteverde-guide) have exceptional birding in August — the rain brings insects, which brings birds. La Selva Biological Station (run by the Organization for Tropical Studies, with guided walks for visitors) gives access to primary lowland rainforest adjacent to the Caribbean lowlands.
 
 ## Festivals & Events
 

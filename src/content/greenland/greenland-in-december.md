@@ -10,7 +10,7 @@ tags: [Greenland, December, polar night, dog sledding, Christmas, aurora, Ilulis
 city: national
 ---
 
-December is Greenland at maximum darkness. In Ilulissat, the sun set in late November and won't rise again until mid-January. In Nuuk, the sun rises for fewer than 3 hours and barely clears the horizon. The sea ice is thickening toward the January-February peak. The dog sled season is underway, with the first established routes operating across Disko Bay's forming ice. And in Greenland's settlements, the Christmas (Juullip) celebration has a particular intensity — the contrast of warmth, light, and community against the surrounding polar darkness makes the holiday more meaningful here than almost anywhere else.
+December is [Greenland](/greenland) at maximum darkness. In Ilulissat, the sun set in late November and won't rise again until mid-January. In [Nuuk](/greenland/nuuk-travel-guide), the sun rises for fewer than 3 hours and barely clears the horizon. The sea ice is thickening toward the January-February peak. The dog sled season is underway, with the first established routes operating across Disko Bay's forming ice. And in Greenland's settlements, the Christmas (Juullip) celebration has a particular intensity — the contrast of warmth, light, and community against the surrounding polar darkness makes the holiday more meaningful here than almost anywhere else.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ December is Greenland at maximum darkness. In Ilulissat, the sun set in late Nov
 
 **Nuuk:** -5 to -13°C. Under 3 hours of twilight daily. Snowbound.
 
-**Sisimiut:** -8 to -18°C. Dog sled season underway. Sea ice routes establishing.
+**[Sisimiut](/greenland/sisimiut-guide):** -8 to -18°C. Dog sled season underway. Sea ice routes establishing.
 
 **Kangerlussuaq:** -15 to -30°C. Extreme cold. Best aurora conditions in Greenland.
 
@@ -26,7 +26,7 @@ December is Greenland at maximum darkness. In Ilulissat, the sun set in late Nov
 
 ## What to Do
 
-**Dog sledding — season building:** The sea ice in December is thickening toward its February peak. Dog sled routes from Ilulissat and Sisimiut are operating, with short to medium-distance routes established by mid-December. Multi-day expeditions of the scale possible in February aren't yet reliable, but day and overnight sled trips are running. The experience of a dog sled in polar night — traveling by headlamp across the ice, the silence broken only by the dogs — is unique to this time of year.
+**[Dog sledding](/greenland/dog-sledding-guide) — season building:** The sea ice in December is thickening toward its February peak. Dog sled routes from Ilulissat and Sisimiut are operating, with short to medium-distance routes established by mid-December. Multi-day expeditions of the scale possible in February aren't yet reliable, but day and overnight sled trips are running. The experience of a dog sled in polar night — traveling by headlamp across the ice, the silence broken only by the dogs — is unique to this time of year.
 
 **Northern Lights — prime viewing window:** December's polar darkness gives maximum aurora viewing hours. The Kp index drives aurora intensity; December has no competitive disadvantage over other winter months and significant advantage over any summer month. Clear nights at Kangerlussuaq are statistically more common than on the coast. On an active aurora night in December — with the lights filling the sky over sea ice and frozen icebergs — Greenland delivers one of the most extraordinary natural light shows available anywhere.
 

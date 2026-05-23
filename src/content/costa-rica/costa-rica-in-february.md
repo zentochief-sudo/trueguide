@@ -10,17 +10,17 @@ tags: [Costa Rica, February, dry season, Guanacaste, diving, quetzal, Arenal, wi
 city: national
 ---
 
-February is the heart of Costa Rica's dry season. Guanacaste's beaches are completely reliable — day after day of blue sky and low surf. Wildlife activity is excellent as animals concentrate around remaining water sources. In the highlands, the resplendent quetzal begins courtship displays ahead of the March–April nesting peak. Underwater, February is the peak season for dive visibility at Bat Islands (Islas Murciélagos) and the beginning of whale shark season at Cocos Island. February delivers maximum reliability with slightly less crowd pressure than January.
+February is the heart of [Costa Rica](/costa-rica/costa-rica-travel-guide)'s dry season. Guanacaste's beaches are completely reliable — day after day of blue sky and low surf. Wildlife activity is excellent as animals concentrate around remaining water sources. In the highlands, the resplendent quetzal begins courtship displays ahead of the March–April nesting peak. Underwater, February is the peak season for dive visibility at Bat Islands (Islas Murciélagos) and the beginning of whale shark season at Cocos Island. February delivers maximum reliability with slightly less crowd pressure than January.
 
 ## Weather & Conditions
 
 **Guanacaste:** 25–35°C. Sunny and dry. Zero rain.
 
-**Manuel Antonio:** 24–31°C. Mostly dry. Best months of the year.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–31°C. Mostly dry. Best months of the year.
 
-**Arenal:** 22–27°C. Clear mornings. Afternoon cloud.
+**[Arenal](/costa-rica/arenal-guide):** 22–27°C. Clear mornings. Afternoon cloud.
 
-**Osa Peninsula:** 24–31°C. Drier than rest of year. Best Corcovado conditions.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 24–31°C. Drier than rest of year. Best Corcovado conditions.
 
 **Caribbean:** 24–29°C. Some rain possible. Year-round pattern.
 
@@ -34,7 +34,7 @@ February is the heart of Costa Rica's dry season. Guanacaste's beaches are compl
 
 **San Gerardo de Dota — quetzal courtship:** The mountain village of San Gerardo de Dota (3 hours from San José) is Costa Rica's premier quetzal watching location. February sees the beginning of quetzal courtship display — males calling and flying through the cloud forest before March nesting begins. The Savegre Lodge runs guided quetzal tours with local guides who know the territory. Sightings aren't guaranteed but February through April are the highest probability months.
 
-**Monteverde and Santa Elena:** February cloud forest visits mean trails are less muddy than the wet season. The Monteverde Cloud Forest Biological Reserve (the ACMCR-managed zone) and the adjacent Santa Elena Reserve both have trail networks through the epiphyte-laden forest. Night walks reveal red-eyed tree frogs, kinkajous, and nocturnal tarantulas.
+**[Monteverde](/costa-rica/monteverde-guide) and Santa Elena:** February cloud forest visits mean trails are less muddy than the wet season. The Monteverde Cloud Forest Biological Reserve (the ACMCR-managed zone) and the adjacent Santa Elena Reserve both have trail networks through the epiphyte-laden forest. Night walks reveal red-eyed tree frogs, kinkajous, and nocturnal tarantulas.
 
 ## Festivals & Events
 

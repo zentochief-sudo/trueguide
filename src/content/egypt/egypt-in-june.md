@@ -10,7 +10,7 @@ tags: [Egypt, June, summer, heat, Red Sea, Luxor, Pyramids, low season]
 city: national
 ---
 
-June is when honest travel writing about Egypt requires clarity: it's very hot. Cairo regularly exceeds 38°C. Luxor and Aswan routinely hit 42–45°C. Outdoor sightseeing in Upper Egypt during midday in June is genuinely dangerous without extreme precautions. And yet — the ancient sites stand almost empty. The Pyramids at Giza can be explored without a single other tourist in the early morning. The Valley of the Kings is walkable at 6am in conditions that feel like a furnace warming up rather than fully lit. June in Egypt is not for everyone. For those who know what they're doing, it's a singular experience.
+June is when honest travel writing about [Egypt](/egypt) requires clarity: it's very hot. [Cairo](/egypt/cairo-travel-guide) regularly exceeds 38°C. Luxor and Aswan routinely hit 42–45°C. Outdoor sightseeing in Upper Egypt during midday in June is genuinely dangerous without extreme precautions. And yet — the ancient sites stand almost empty. The Pyramids at Giza can be explored without a single other tourist in the early morning. The Valley of the Kings is walkable at 6am in conditions that feel like a furnace warming up rather than fully lit. June in Egypt is not for everyone. For those who know what they're doing, it's a singular experience.
 
 ## Weather & Conditions
 
@@ -34,7 +34,7 @@ June is when honest travel writing about Egypt requires clarity: it's very hot. 
 
 **Alexandria maritime museum and coast:** Egypt's oldest major city on the Mediterranean is significantly cooler than Cairo and the Nile Valley. The Bibliotheca Alexandrina, the Roman Amphitheater, and the Mediterranean seaside corniche are all worth exploring. The evening (9pm+) promenade along the corniche is an Alexandria tradition worth joining.
 
-**Egyptian Museum, Cairo:** The old Egyptian Museum in Tahrir Square and the new Grand Egyptian Museum (GEM) near the Pyramids are both fully air-conditioned and entirely appropriate for June afternoon hours. The GEM is the world's largest archaeological museum — designed to house the complete Tutankhamun collection. Book timed-entry tickets for GEM well in advance.
+**[Egyptian Museum](/egypt/egyptian-museum-guide), Cairo:** The old Egyptian Museum in Tahrir Square and the new [Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) (GEM) near the Pyramids are both fully air-conditioned and entirely appropriate for June afternoon hours. The GEM is the world's largest archaeological museum — designed to house the complete Tutankhamun collection. Book timed-entry tickets for GEM well in advance.
 
 ## Festivals & Events
 

@@ -10,7 +10,7 @@ tags: [Fushimi Inari, Kyoto, Japan, torii gates, shrine, hike, Inari, fox, vermi
 city: kyoto
 ---
 
-Fushimi Inari-taisha is the head shrine of some 32,000 Inari shrines across Japan — the deity of rice harvests, sake brewing, business prosperity, and foxes (*kitsune*, the divine messengers of Inari). The shrine complex sits at the base of Inari-yama (Inari Mountain) on the southeastern edge of Kyoto, and the mountain is covered with thousands of *torii* gates donated by businesses and individuals over centuries. Walking through the gate tunnels on the mountain path is one of the most intense spatial experiences in Japan.
+Fushimi Inari-taisha is the head shrine of some 32,000 Inari shrines across Japan — the deity of rice harvests, sake brewing, business prosperity, and foxes (*kitsune*, the divine messengers of Inari). The shrine complex sits at the base of Inari-yama (Inari Mountain) on the southeastern edge of [Kyoto](/japan/kyoto-guide), and the mountain is covered with thousands of *torii* gates donated by businesses and individuals over centuries. Walking through the gate tunnels on the mountain path is one of the most intense spatial experiences in Japan.
 
 ---
 
@@ -66,7 +66,7 @@ The path to the mountain base is lined with restaurants and shops selling:
 
 ## Getting There
 
-**JR Nara Line** from Kyoto Station to **Fushimi Inari Station** (5 minutes, ¥150) — the closest station, a 2-minute walk from the main gate.
+**JR [Nara](/japan/nara-guide) Line** from Kyoto Station to **Fushimi Inari Station** (5 minutes, ¥150) — the closest station, a 2-minute walk from the main gate.
 
 **Keihan Line** to **Fushimi Inari Station** — same walk from the south.
 

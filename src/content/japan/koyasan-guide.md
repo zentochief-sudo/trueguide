@@ -20,9 +20,9 @@ This is one of the experiences in Japan with no equivalent in most other travel 
 
 ## Getting There
 
-**From Osaka (Namba)**: Nankai Koya Line Limited Express Koya to Gokurakubashi, then the Koyasan Cable Car to the summit. Total: 1 hour 50 minutes (¥2,860). The train passes through increasingly mountainous terrain; the cable car ascent takes 5 minutes.
+**From [Osaka](/japan/osaka-guide) (Namba)**: Nankai Koya Line Limited Express Koya to Gokurakubashi, then the Koyasan Cable Car to the summit. Total: 1 hour 50 minutes (¥2,860). The train passes through increasingly mountainous terrain; the cable car ascent takes 5 minutes.
 
-**From Kyoto**: JR to Osaka, then Nankai Koya Line. Total: 2.5 hours.
+**From [Kyoto](/japan/kyoto-guide)**: JR to Osaka, then Nankai Koya Line. Total: 2.5 hours.
 
 **Koyasan World Heritage Ticket**: Nankai Railways sells a round-trip ticket with unlimited bus access on Koyasan and discounts at major sites (¥3,400 from Namba). Practical for a 1–2 night stay.
 
@@ -96,7 +96,7 @@ Rates typically include dinner and breakfast.
 
 ## Combining with Kumano Kodo
 
-Koyasan and the Kumano Kodo are geographically and spiritually connected — the **Kohechi route** of the Kumano Kodo runs from Koyasan directly south to the Kumano Hongu Taisha, crossing the mountain spine of the Kii Peninsula (70 km, 4–5 days). Pilgrims who complete the circuit Ise → Kumano → Koyasan, or Koyasan → Kumano in reverse, are covering the central axis of Japanese mountain pilgrimage tradition.
+Koyasan and the [Kumano Kodo](/japan/kumano-kodo-guide) are geographically and spiritually connected — the **Kohechi route** of the Kumano Kodo runs from Koyasan directly south to the Kumano Hongu Taisha, crossing the mountain spine of the Kii Peninsula (70 km, 4–5 days). Pilgrims who complete the circuit Ise → Kumano → Koyasan, or Koyasan → Kumano in reverse, are covering the central axis of Japanese mountain pilgrimage tradition.
 
 The **Ise-Kumano-Wakayama Area Pass** covers transport between Osaka, Ise, Tanabe, Shingu, and Koyasan, making this combined circuit practically feasible by rail and bus.
 

@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Malaysia sits near the equator and is tropical year-round — warm, humid, and subject to monsoon rains that vary significantly between the west and east coasts. KL and Penang (west coast) have different weather patterns from the Perhentian Islands and Tioman (east coast). Borneo follows its own schedule.
+[Malaysia](/malaysia) sits near the equator and is tropical year-round — warm, humid, and subject to monsoon rains that vary significantly between the west and east coasts. KL and [Penang](/malaysia/penang-travel-guide) (west coast) have different weather patterns from the Perhentian Islands and Tioman (east coast). [Borneo](/malaysia/borneo-guide) follows its own schedule.
 
 ## The Short Answer
 
-**West coast (KL, Penang, Melaka):** Best December–April; acceptable year-round  
+**West coast (KL, Penang, [Melaka](/malaysia/melaka-guide)):** Best December–April; acceptable year-round  
 **East coast beaches (Perhentian, Redang, Tioman):** Best April–September; closed October–February  
 **Borneo (Sabah, Sarawak):** Best March–October; wettest November–January  
 **Avoid nationally:** November monsoon transition and during major school holidays
@@ -54,9 +54,9 @@ Northeast monsoon. Heaviest rain on the east coast. KL and Penang are manageable
 
 | Destination | Best Time | Closed/Avoid |
 |------------|-----------|--------------|
-| Kuala Lumpur | Any time; best May–July | No bad time |
+| [Kuala Lumpur](/malaysia/kuala-lumpur-guide) | Any time; best May–July | No bad time |
 | Penang | Oct–Mar (drier) | No bad time |
-| Langkawi | Sep–Mar (driest) | Apr–Aug (more rain) |
+| [Langkawi](/malaysia/langkawi-guide) | Sep–Mar (driest) | Apr–Aug (more rain) |
 | East coast beaches (Perhentian, Redang) | May–Sep | Oct–Feb (closed) |
 | Tioman Island | Apr–Sep | Nov–Feb (ferries suspended) |
 | Sipadan diving | Jun–Sep | Year-round but best mid-year |

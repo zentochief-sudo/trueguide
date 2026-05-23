@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Greenland is one of the last great frontiers — a country of 57,000 people spread across 2.17 million square kilometres, where the ice sheet covers 80% of the land, glaciers calve into fjords the size of cities, and the sky does things found nowhere else on earth. Seven days scratches the surface. It's enough to be transformed.
+[Greenland](/greenland) is one of the last great frontiers — a country of 57,000 people spread across 2.17 million square kilometres, where the ice sheet covers 80% of the land, glaciers calve into fjords the size of cities, and the sky does things found nowhere else on earth. Seven days scratches the surface. It's enough to be transformed.
 
 ## Days 1–2 – Nuuk: The World's Most Northern Capital
 
-Arrive in **Nuuk** — Greenland's capital and largest city, with 18,000 inhabitants. It's simultaneously a modern Scandinavian city and a place of profound Arctic remoteness.
+Arrive in **[Nuuk](/greenland/nuuk-travel-guide)** — Greenland's capital and largest city, with 18,000 inhabitants. It's simultaneously a modern Scandinavian city and a place of profound Arctic remoteness.
 
 **Day 1:** Start at the **Greenland National Museum** — housed in colonial-era Greenlandic buildings in the Old Town, with exhibits covering 4,500 years of Arctic human history. The centrepiece: the **Qilakitsoq mummies** — eight naturally preserved Inuit bodies from around 1475, found in 1972. Hauntingly beautiful and one of the most significant archaeological discoveries from the circumpolar world.
 
@@ -28,7 +28,7 @@ Hike behind the city into the **Arctic hill system** — trails lead up to viewp
 
 Fly from Nuuk to **Ilulissat** (1.5 hours) — a town of 4,500 inhabitants on the west coast, and the gateway to one of the world's most extraordinary natural phenomena.
 
-**Ilulissat Icefjord (Sermeq Kujalleq)** — a UNESCO World Heritage Site and the world's most productive glacier outside Antarctica. The glacier calves 46 cubic kilometres of ice per year, filling the 40km fjord with an ever-changing landscape of icebergs the size of skyscrapers. The sound alone — a continuous deep cracking and thundering as ice breaks and shifts — is extraordinary.
+**[Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) (Sermeq Kujalleq)** — a UNESCO World Heritage Site and the world's most productive glacier outside Antarctica. The glacier calves 46 cubic kilometres of ice per year, filling the 40km fjord with an ever-changing landscape of icebergs the size of skyscrapers. The sound alone — a continuous deep cracking and thundering as ice breaks and shifts — is extraordinary.
 
 Evening: walk the wooden boardwalk trail to the main fjord viewpoint. The light at this latitude in summer (midnight sun from May to July) means you can walk at 11pm in full daylight. The icebergs glow blue and white.
 
@@ -60,6 +60,6 @@ Fly back to Nuuk for international connections. Nuuk's airport connects to Copen
 
 **Cost:** Greenland is one of the world's most expensive destinations — partly due to import costs on an island with no road connections to the outside world. Budget €250–400+/day per person mid-range.
 
-**Best time:** Summer (June–August) for hiking, boat tours, midnight sun. Winter (January–March) for dog sledding, northern lights, and truly extreme Arctic atmosphere.
+**Best time:** Summer (June–August) for hiking, boat tours, midnight sun. Winter (January–March) for [dog sledding](/greenland/dog-sledding-guide), northern lights, and truly extreme Arctic atmosphere.
 
 **Clothing:** Always dress in layers. Even in summer, temperatures near the ice sheet can drop rapidly. Waterproof outer layers essential year-round.

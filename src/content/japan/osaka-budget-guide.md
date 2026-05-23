@@ -10,7 +10,7 @@ tags: [Osaka, budget, cost, cheap, accommodation, food, transport, travel tips, 
 city: Osaka
 ---
 
-Osaka is consistently the most affordable of Japan's major cities — the *kuidaore* (eat until you drop) culture means extraordinary food at street-food prices, accommodation competition keeps rates lower than Tokyo, and the city's flat geography makes walking a viable alternative to transit for many journeys. A realistic daily budget for Osaka ranges from ¥6,000 (bare budget) to ¥20,000 (comfortable mid-range), with significant flexibility depending on where you eat and sleep.
+[Osaka](/japan/osaka-guide) is consistently the most affordable of Japan's major cities — the *kuidaore* (eat until you drop) culture means extraordinary food at street-food prices, accommodation competition keeps rates lower than [Tokyo](/japan/tokyo-guide), and the city's flat geography makes walking a viable alternative to transit for many journeys. A realistic daily budget for Osaka ranges from ¥6,000 (bare budget) to ¥20,000 (comfortable mid-range), with significant flexibility depending on where you eat and sleep.
 
 ## Daily Budget Benchmarks
 
@@ -67,7 +67,7 @@ Osaka's food culture is built on affordable excellence:
 
 **Average day of subway use (4–6 trips):** ¥800–¥1,600
 
-**Osaka Amazing Pass (1 day):** ¥2,800 — includes unlimited subway + 40+ attraction admissions. Worth it if doing Osaka Castle (¥600) + multiple subway journeys.
+**Osaka Amazing Pass (1 day):** ¥2,800 — includes unlimited subway + 40+ attraction admissions. Worth it if doing [Osaka Castle](/japan/osaka-castle-guide) (¥600) + multiple subway journeys.
 
 **Airport transfer:**
 - KIX → Osaka (Nankai Rapi:t): ¥1,450
@@ -121,9 +121,9 @@ Osaka's food culture is built on affordable excellence:
 - The teishoku lunch set is your best friend — a complete Japanese meal for ¥700–¥1,200
 
 **Day trip from Osaka instead of separate accommodation:**
-- Kyoto: 15 minutes by Shinkansen (¥1,420) or 28 minutes by Hankyu (¥410). Staying in Osaka and day-tripping to Kyoto saves significant accommodation money.
-- Nara: 35–50 minutes by train. No accommodation needed.
-- Kobe: 20–30 minutes by train. Easy day trip.
+- [Kyoto](/japan/kyoto-guide): 15 minutes by Shinkansen (¥1,420) or 28 minutes by Hankyu (¥410). Staying in Osaka and day-tripping to Kyoto saves significant accommodation money.
+- [Nara](/japan/nara-guide): 35–50 minutes by train. No accommodation needed.
+- [Kobe](/japan/kobe-guide): 20–30 minutes by train. Easy day trip.
 
 **Osaka Amazing Pass calculation:**
 - Osaka Castle (¥600) + 4 subway rides (¥800) = ¥1,400 without pass

@@ -18,7 +18,7 @@ South Korea is one of the most logistically straightforward countries in Asia fo
 
 **K-ETA (Korea Electronic Travel Authorization)**: Citizens of 112 countries can enter Korea for tourism without a visa but must register in advance through the K-ETA system (k-eta.go.kr). The application costs ¥10,000 KRW (approximately $7.50 USD) and is valid for multiple entries over 2 years. Apply at least 72 hours before departure.
 
-**Countries included**: USA, Canada, UK, EU member states, Australia, New Zealand, Japan, most Southeast Asian countries. Check the K-ETA website for the current list.
+**Countries included**: USA, [Canada](/canada), UK, EU member states, Australia, New Zealand, Japan, most Southeast Asian countries. Check the K-ETA website for the current list.
 
 **Visa exemption (no K-ETA required)**: Some nationalities (including most EU countries) entered an additional bilateral exemption arrangement where no application is needed for stays under 90 days. Verify your specific country's status before traveling.
 
@@ -34,7 +34,7 @@ South Korea is one of the most logistically straightforward countries in Asia fo
 
 The fastest and most practical option for most visitors.
 
-**Express Train**: Non-stop from Incheon International Airport Terminal 1 to Seoul Station. 43 minutes. ¥9,500. Departs every 30–40 minutes from approximately 5:20am to 11:40pm.
+**Express Train**: Non-stop from [Incheon](/korea/incheon-guide) International Airport Terminal 1 to Seoul Station. 43 minutes. ¥9,500. Departs every 30–40 minutes from approximately 5:20am to 11:40pm.
 
 **All-Stop Train**: Stops at multiple stations including Gimpo Airport, Hongik University (Hongdae), Gongdeok, and Seoul Station. 65 minutes from Terminal 1. ¥4,750. Same operating hours.
 
@@ -72,8 +72,8 @@ The high-speed rail network connecting Seoul to major cities:
 
 | Route | Duration | Approximate Fare |
 |---|---|---|
-| Seoul → Busan | 2h 15m | ¥59,800 |
-| Seoul → Gyeongju | 2h | ¥56,500 |
+| Seoul → [Busan](/korea/busan-guide) | 2h 15m | ¥59,800 |
+| Seoul → [Gyeongju](/korea/gyeongju-guide) | 2h | ¥56,500 |
 | Seoul → Daegu | 1h 40m | ¥49,600 |
 | Seoul → Gwangju | 1h 30m | ¥42,800 |
 

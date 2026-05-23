@@ -10,7 +10,7 @@ tags: [Toyosu market, tuna auction, Tokyo seafood, sushi Tokyo, fish market Japa
 city: tokyo
 ---
 
-Toyosu Market (*豊洲市場*) opened in October 2018 as the successor to the legendary Tsukiji Outer Market, which had operated as Tokyo's central seafood and wholesale food market since 1935. The move was controversial — Tsukiji's cramped, atmospheric lanes were replaced with a modern, climate-controlled facility on reclaimed land in Tokyo Bay — but Toyosu now handles approximately 480 tons of seafood daily and hosts the famed New Year tuna auction that draws international attention each January.
+Toyosu Market (*豊洲市場*) opened in October 2018 as the successor to the legendary Tsukiji Outer Market, which had operated as [Tokyo](/japan/tokyo-guide)'s central seafood and wholesale food market since 1935. The move was controversial — Tsukiji's cramped, atmospheric lanes were replaced with a modern, climate-controlled facility on reclaimed land in Tokyo Bay — but Toyosu now handles approximately 480 tons of seafood daily and hosts the famed New Year tuna auction that draws international attention each January.
 
 ---
 

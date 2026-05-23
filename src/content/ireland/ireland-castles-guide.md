@@ -10,7 +10,7 @@ tags: [Ireland, castles, Rock of Cashel, Kilkenny, Ross Castle, medieval, herita
 city: killarney
 ---
 
-Ireland has roughly 30,000 castles, castle ruins, and tower houses — more per square kilometer than almost any country in Europe, the legacy of Norman conquest, Gaelic chieftaincy, and successive centuries of fortification. Most are accessible ruins in fields, reached by unmarked farm tracks. A smaller number are restored, managed, and surrounded by gift shops. The challenge for visitors is identifying which monuments justify the trip.
+[Ireland](/ireland) has roughly 30,000 castles, castle ruins, and tower houses — more per square kilometer than almost any country in Europe, the legacy of Norman conquest, Gaelic chieftaincy, and successive centuries of fortification. Most are accessible ruins in fields, reached by unmarked farm tracks. A smaller number are restored, managed, and surrounded by gift shops. The challenge for visitors is identifying which monuments justify the trip.
 
 ---
 
@@ -22,7 +22,7 @@ The most spectacular castle-complex in Ireland — a group of medieval buildings
 
 **History**: The Rock was the seat of the Kings of Munster for centuries before Brian Boru received the submission of other Irish kings here in 1101. The buildings range from the 11th-century round tower to the 13th-century Gothic cathedral. The site was attacked and burned by British forces in 1647; the cathedral roof was removed in 1749 when the Church of Ireland bishop found the building inconvenient to maintain.
 
-**Visiting**: The OPW (Office of Public Works) manages the site. Guided tours are included in admission. Allow 1.5–2 hours. Cashel is a 2-hour drive from Dublin and 1 hour from Killarney — a natural stop on the Cork-Dublin route.
+**Visiting**: The OPW (Office of Public Works) manages the site. Guided tours are included in admission. Allow 1.5–2 hours. Cashel is a 2-hour drive from [Dublin](/ireland/dublin-travel-guide) and 1 hour from [Killarney](/ireland/killarney-travel-guide) — a natural stop on the [Cork](/ireland/cork-guide)-Dublin route.
 
 ---
 
@@ -60,7 +60,7 @@ A large 15th-century castle on a rocky island in the River Suir — well preserv
 
 The most numerous castle type in Ireland — square stone towers of 3–5 stories built by minor Gaelic lords and Norman landowners from the 15th to 17th centuries. Thousands survive in varying states:
 
-**Thoor Ballylee (County Galway)**: The tower house purchased by W.B. Yeats in 1917 and used as a summer residence and creative retreat. His collection "The Tower" (1928) was named for it. The building has been restored and operates as a heritage site.
+**Thoor Ballylee (County [Galway](/ireland/galway-guide))**: The tower house purchased by W.B. Yeats in 1917 and used as a summer residence and creative retreat. His collection "The Tower" (1928) was named for it. The building has been restored and operates as a heritage site.
 
 **Claregalway Friary (County Galway)**: A 15th-century Franciscan friary with an adjacent tower — both in the same state of atmospheric partial ruin, standing in an active churchyard.
 

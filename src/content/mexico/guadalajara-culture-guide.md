@@ -10,7 +10,7 @@ tags: [Guadalajara, culture, Orozco, Cabañas, mariachi, Tlaquepaque, World Cup 
 city: guadalajara
 ---
 
-Guadalajara has the distinction of being simultaneously the most Mexican city — in the sense that mariachi, tequila, and charrería, the three most globally recognizable symbols of Mexico, all originated here — and a city with world-class museums and cultural institutions that are frequently overlooked in favor of CDMX. The Instituto Cultural Cabañas with José Clemente Orozco's murals is a UNESCO World Heritage Site; Tlaquepaque has the country's largest fine craft market.
+Guadalajara has the distinction of being simultaneously the most Mexican city — in the sense that mariachi, tequila, and charrería, the three most globally recognizable symbols of [Mexico](/mexico), all originated here — and a city with world-class museums and cultural institutions that are frequently overlooked in favor of CDMX. The Instituto Cultural Cabañas with José Clemente Orozco's murals is a UNESCO World Heritage Site; Tlaquepaque has the country's largest fine craft market.
 
 ---
 
@@ -56,7 +56,7 @@ Mariachi originated in the state of Jalisco between the 18th and 19th centuries 
 
 **Plaza de la Liberación, Centro** | Free
 
-The Cathedral was built between 1561 and 1618 — its twin yellow towers are Guadalajara's visual symbol. The interior has 11 altars with paintings by Miguel Cabrera (18th century), the most important painter of New Spain.
+The Cathedral was built between 1561 and 1618 — its twin yellow towers are Guadalajara's visual symbol. The interior has 11 altars with paintings by Miguel Cabrera (18th century), the most important painter of New [Spain](/spain).
 
 The Cathedral faces four plazas — Plaza de Armas (with the 1898 theater-bandstand), Plaza de los Laureles, Plaza de la Liberación, and Plaza Tapatía. This arrangement of four connected plazas around the Cathedral is unique in Mexican colonial urbanism.
 

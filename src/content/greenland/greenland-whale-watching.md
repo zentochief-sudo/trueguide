@@ -10,7 +10,7 @@ tags: [Greenland, whale watching, humpback whale, narwhal, beluga, Disko Bay, Il
 city: ilulissat
 ---
 
-Greenland's waters are among the most productive whale habitats in the North Atlantic — the cold, nutrient-rich Arctic seas support dense populations of humpback whales, minke whales, fin whales, beluga whales, and the narwhal, the tusked whale with no near relative anywhere in the world. The combination of abundant marine life and the visual backdrop of icebergs, sea cliffs, and the Greenland coast produces whale watching of a quality and scale rarely matched elsewhere.
+[Greenland](/greenland)'s waters are among the most productive whale habitats in the North Atlantic — the cold, nutrient-rich Arctic seas support dense populations of humpback whales, minke whales, fin whales, beluga whales, and the narwhal, the tusked whale with no near relative anywhere in the world. The combination of abundant marine life and the visual backdrop of icebergs, sea cliffs, and the Greenland coast produces whale watching of a quality and scale rarely matched elsewhere.
 
 The most accessible whale watching centers on Disko Bay, on the west coast — Ilulissat, the largest town in the bay, is the logistical center, but the smaller island of Qeqertarsuaq (Disko Island) offers more remote and often more productive conditions.
 

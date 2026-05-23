@@ -44,7 +44,7 @@ Vancouver's food identity is built on two pillars: Pacific seafood (wild salmon,
 
 ## Richmond Chinese Food
 
-The suburb of Richmond, 20 minutes south by Canada Line SkyTrain, has the most authentic Hong Kong-style Chinese food in North America outside of Hong Kong.
+The suburb of Richmond, 20 minutes south by [Canada](/canada) Line SkyTrain, has the most authentic Hong Kong-style Chinese food in North America outside of Hong Kong.
 
 **Aberdeen Centre** (4151 Hazelbridge Way): The food court in this mall rivals restaurant quality in many cities — roast duck rice, beef brisket noodles, Hainanese chicken, and HK-style milk tea from a dozen concurrent vendors. $8–14 CAD per dish.
 
@@ -82,7 +82,7 @@ Vancouver has a Japanese food culture (Robsonghia — the Japanese commercial ar
 
 ## Japadog
 
-The Vancouver street food invention that has become internationally recognized — a hot dog with Japanese toppings (teriyaki, oroshi daikon, nori, and various sauces). Started as a street cart; now multiple locations including near BC Place.
+The Vancouver street food invention that has become internationally recognized — a hot dog with Japanese toppings (teriyaki, oroshi daikon, nori, and various sauces). Started as a street cart; now multiple locations including near [BC Place](/canada/bc-place-guide).
 
 **Original Japadog** (530 Robson Street and other locations): $7–11 CAD. The Terimayo (teriyaki sauce, Japanese mayo, nori on a pork dog) is the classic order.
 

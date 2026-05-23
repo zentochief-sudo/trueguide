@@ -101,4 +101,4 @@ Each station is a 3-minute Metro ride apart. Walking between them along the Boul
 
 **Parking**: The Hollywood & Highland complex has a large parking structure ($15–25/day). Most street parking requires permits after 6pm. Using Metro eliminates the parking problem entirely.
 
-**To SoFi Stadium on match days**: B Line south to 7th/Metro Center, transfer to the A Line or E Line, then to the K Line at Expo/Crenshaw. Approximately 65–75 minutes. This is consistently faster than driving.
+**To [SoFi Stadium](/united-states/sofi-stadium-guide) on match days**: B Line south to 7th/Metro Center, transfer to the A Line or E Line, then to the K Line at Expo/Crenshaw. Approximately 65–75 minutes. This is consistently faster than driving.

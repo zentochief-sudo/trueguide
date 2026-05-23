@@ -24,7 +24,7 @@ The Normandy beaches stretch 80 km from Utah (westernmost, American sector) to S
 
 **Pointe du Hoc**: Between Omaha and Utah — a headland where US Army Rangers scaled 30-meter cliffs under fire to destroy German coastal guns. The craters from Allied naval bombardment are still visible; the German bunkers are accessible.
 
-**The Mémorial de Caen**: The best WWII museum in France — comprehensive coverage of the war, occupation, resistance, and the liberation. Full day. Located in Caen, 15 km from the beaches.
+**The Mémorial de Caen**: The best WWII museum in [France](/france) — comprehensive coverage of the war, occupation, resistance, and the liberation. Full day. Located in Caen, 15 km from the beaches.
 
 **Getting around**: A car is essential. The beaches and memorials are spread over 80 km. Alternatively, guided bus tours from Bayeux (the most convenient base, 10 km from Omaha) cover the main sites in a day.
 
@@ -42,7 +42,7 @@ An island abbey on a tidal mount 1 km off the Norman coast — at high tide, the
 
 ## Giverny: Monet's Garden
 
-Claude Monet lived at Giverny (80 km east of Bayeux, 1.5 hours from Paris) from 1883 until his death in 1926, creating the water garden that he painted obsessively in the last 30 years of his life. The Japanese bridge, the wisteria, and the water lilies are exactly as painted — the garden is maintained by the Fondation Claude Monet to match the paintings.
+Claude Monet lived at Giverny (80 km east of Bayeux, 1.5 hours from [Paris](/france/paris-travel-guide)) from 1883 until his death in 1926, creating the water garden that he painted obsessively in the last 30 years of his life. The Japanese bridge, the wisteria, and the water lilies are exactly as painted — the garden is maintained by the Fondation Claude Monet to match the paintings.
 
 The two-hectare garden is best in May–June (tulips and wisteria) and September (dahlias and nasturtiums). Summer weekends are crowded; weekday morning entry gives the closest experience to seeing it before the tour groups. Book online at fondation-monet.com.
 

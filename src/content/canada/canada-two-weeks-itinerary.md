@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Two weeks in Canada allows you to cross the extraordinary cultural and geographical divide between the country's east and west — from the French-speaking culture of Québec to the Pacific rainforests of British Columbia, from the urban intensity of Toronto to the wilderness of the Rockies. This is Canada at its most complete.
+Two weeks in [Canada](/canada) allows you to cross the extraordinary cultural and geographical divide between the country's east and west — from the French-speaking culture of Québec to the Pacific rainforests of British Columbia, from the urban intensity of Toronto to the wilderness of the Rockies. This is Canada at its most complete.
 
 ## Days 1–2 – Québec City
 
-Begin in **Québec City** — the only walled city north of Mexico, a UNESCO World Heritage Site, and the most thoroughly French city in North America. Founded in 1608, it has maintained its French-speaking character, its architecture, and its distinct cultural identity through 400 years of British colonialism and American cultural dominance.
+Begin in **Québec City** — the only walled city north of [Mexico](/mexico), a UNESCO World Heritage Site, and the most thoroughly French city in North America. Founded in 1608, it has maintained its French-speaking character, its architecture, and its distinct cultural identity through 400 years of British colonialism and American cultural dominance.
 
 **Day 1:** **Old Québec (Vieux-Québec)** — the walled upper city (Haute-Ville) with its cobblestoned streets, **Château Frontenac** (the grand railway hotel that dominates every view of the city), and the **Terrasse Dufferin** (a wooden boardwalk promenade overlooking the St. Lawrence River and the Plains of Abraham). Walk the **ramparts** — the only remaining fortified city walls in North America north of Mexico.
 

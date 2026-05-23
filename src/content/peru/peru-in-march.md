@@ -10,19 +10,19 @@ tags: [Peru, March, Inca Trail, Machu Picchu, rainy season, green, shoulder seas
 city: national
 ---
 
-March is when the Inca Trail reopens and Peru's Andean landscapes are at their most vivid green. The rainy season is still active but begins tapering through the month. Tourist numbers are low — the Inca Trail's February closure means March bookings are still building, and Machu Picchu's attendance is well below the July peak. For travelers who can accept some rain in exchange for green mountains and quiet ruins, March is a genuine opportunity.
+March is when the Inca Trail reopens and [Peru](/peru)'s Andean landscapes are at their most vivid green. The rainy season is still active but begins tapering through the month. Tourist numbers are low — the Inca Trail's February closure means March bookings are still building, and [Machu Picchu](/peru/machu-picchu-guide)'s attendance is well below the July peak. For travelers who can accept some rain in exchange for green mountains and quiet ruins, March is a genuine opportunity.
 
 ## Weather & Conditions
 
-**Cusco and the Sacred Valley:** 11–20°C. Rain continues but begins easing. Morning windows of clear sky appear more frequently. The mountains are intensely green.
+**[Cusco](/peru/cusco-guide) and the [Sacred Valley](/peru/sacred-valley-guide):** 11–20°C. Rain continues but begins easing. Morning windows of clear sky appear more frequently. The mountains are intensely green.
 
 **Machu Picchu:** 14–22°C. Still wet but improving through the month. Cloud can lift dramatically to reveal the citadel in extraordinary light.
 
-**Puno (Lake Titicaca):** 8–16°C. Rain continues in March. Titicaca is full and dramatic.
+**Puno ([Lake Titicaca](/peru/lake-titicaca-guide)):** 8–16°C. Rain continues in March. Titicaca is full and dramatic.
 
-**Lima:** 18–24°C. Overcast but not cold. Coast becomes clearer from April.
+**[Lima](/peru/lima-guide):** 18–24°C. Overcast but not cold. Coast becomes clearer from April.
 
-**Amazon:** Beginning to transition from peak flood. Still very high water but early signs of recession.
+**[Amazon](/peru/amazon-guide):** Beginning to transition from peak flood. Still very high water but early signs of recession.
 
 **Paracas and the Nazca Coast:** Dry year-round. Paracas National Reserve and the Ballestas Islands are excellent in March.
 
@@ -32,7 +32,7 @@ March is when the Inca Trail reopens and Peru's Andean landscapes are at their m
 
 **Rainbow Mountain (Vinicunca) in the wet season:** The famous Peruvian mountain striated with colored mineral layers (pink, red, yellow, green) is accessible year-round. March's rain keeps the snow melt flowing and the colors particularly vivid. The 5km uphill hike from the base camp at 5,000m+ is strenuous at altitude. Cusco acclimatization of 2+ days is essential before attempting this.
 
-**Colca Canyon condor watching:** Arequipa's canyon is excellent in March — the rainy season greens the canyon walls and the condors rise on thermals regardless of season. The Cruz del Condor viewpoint is best at 8–9am. From Arequipa, the canyon is 4–5 hours by road.
+**[Colca Canyon](/peru/colca-canyon-guide) condor watching:** Arequipa's canyon is excellent in March — the rainy season greens the canyon walls and the condors rise on thermals regardless of season. The Cruz del Condor viewpoint is best at 8–9am. From Arequipa, the canyon is 4–5 hours by road.
 
 **Ballestas Islands, Paracas:** The "Poor Man's Galapagos" — accessible by boat from Paracas on Peru's coast — has sea lion colonies, Humboldt penguins, cormorants, boobies, and the enormous Candelabra geoglyph carved into the coastal cliff. Peru's south coast is dry year-round; Paracas in March is entirely unaffected by the Andean rain season.
 

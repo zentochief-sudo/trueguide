@@ -10,7 +10,7 @@ tags: [Houston, budget, costs, World Cup 2026, travel costs, Texas]
 city: houston
 ---
 
-Houston is among the most affordable World Cup cities in the United States, with a combination of lower hotel rates than the coastal cities, some of the best cheap food in the country (Vietnamese, Nigerian, Tex-Mex all available for $12–16 per meal), and a direct METRORail connection to NRG Stadium that costs $1.25 each way.
+Houston is among the most affordable World Cup cities in the United States, with a combination of lower hotel rates than the coastal cities, some of the best cheap food in the country (Vietnamese, Nigerian, Tex-Mex all available for $12–16 per meal), and a direct METRORail connection to [NRG Stadium](/united-states/nrg-stadium-guide) that costs $1.25 each way.
 
 The main cost variable is airport transport — George Bush Intercontinental (IAH) has no rail connection, meaning a $40–60 rideshare from the airport. Choosing Hobby Airport (HOU) eliminates this with a $1.25 rail connection.
 

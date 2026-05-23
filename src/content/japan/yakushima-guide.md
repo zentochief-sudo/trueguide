@@ -10,7 +10,7 @@ tags: [Yakushima, Jomon Sugi, UNESCO, ancient cedar, Princess Mononoke, Shiratan
 city: national
 ---
 
-Yakushima sits 60 kilometers south of Kagoshima at the point where the warm Pacific meets the cold Kuroshio Current, producing one of the wettest climates in Japan — reportedly raining 35 days a month, or so locals say with deadpan pride. This rainfall, over millennia, produced the ancient cedar forests that cover the island's mountainous interior. Some of the trees — *yakusugi*, cedars over 1,000 years old — have survived because the dense, resinous wood resisted logging even when the rest of the island was harvested during the Edo period. The oldest confirmed living tree, Jōmon Sugi, has been here for somewhere between 2,170 and 7,200 years (the measurement method varies; the ambiguity is accurate).
+Yakushima sits 60 kilometers south of [Kagoshima](/japan/kagoshima-guide) at the point where the warm Pacific meets the cold Kuroshio Current, producing one of the wettest climates in Japan — reportedly raining 35 days a month, or so locals say with deadpan pride. This rainfall, over millennia, produced the ancient cedar forests that cover the island's mountainous interior. Some of the trees — *yakusugi*, cedars over 1,000 years old — have survived because the dense, resinous wood resisted logging even when the rest of the island was harvested during the Edo period. The oldest confirmed living tree, Jōmon Sugi, has been here for somewhere between 2,170 and 7,200 years (the measurement method varies; the ambiguity is accurate).
 
 The island's central mountains were designated a UNESCO World Heritage Site in 1993 — one of Japan's first four UNESCO natural sites.
 
@@ -74,7 +74,7 @@ Yakushima hosts the largest loggerhead sea turtle (*Caretta caretta*) nesting po
 
 **By plane**: Kagoshima → Yakushima Airport (35 min) on JAC (Japan Air Commuter). Multiple daily flights. Useful in combination with ferry one-way.
 
-**By Shinkansen + ferry**: Tokyo → Kagoshima-Chūō by Shinkansen (6h30m), then hydrofoil to Yakushima.
+**By Shinkansen + ferry**: [Tokyo](/japan/tokyo-guide) → Kagoshima-Chūō by Shinkansen (6h30m), then hydrofoil to Yakushima.
 
 ---
 

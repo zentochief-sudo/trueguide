@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Italy is mid-range on the European cost spectrum — pricier than Portugal or Eastern Europe, but generally cheaper than France or Switzerland. The gap between spending wisely and spending carelessly is larger in Italy than almost anywhere: a tourist restaurant near the Colosseum can charge €25 for a plate of mediocre pasta, while a café two streets away serves perfect cacio e pepe for €10.
+[Italy](/italy) is mid-range on the European cost spectrum — pricier than [Portugal](/portugal) or Eastern Europe, but generally cheaper than [France](/france) or Switzerland. The gap between spending wisely and spending carelessly is larger in Italy than almost anywhere: a tourist restaurant near the Colosseum can charge €25 for a plate of mediocre pasta, while a café two streets away serves perfect cacio e pepe for €10.
 
 ## Quick Summary
 
@@ -26,7 +26,7 @@ Italy is mid-range on the European cost spectrum — pricier than Portugal or Ea
 
 ## Accommodation
 
-**Hostels:** €22–40/night in dorms; €70–100 for private rooms. Rome, Florence, and Venice all have good hostel scenes. Naples is cheaper.
+**Hostels:** €22–40/night in dorms; €70–100 for private rooms. [Rome](/italy/rome-guide), Florence, and Venice all have good hostel scenes. Naples is cheaper.
 
 **B&Bs and guesthouses:** €70–120/night for a double. Often excellent value — Italy's family-run accommodations are genuinely good.
 
@@ -48,7 +48,7 @@ Italian food culture rewards those who eat like Italians.
 
 **Lunch at a trattoria (menù):** €12–18 for a set menu including pasta, main, and wine. The best value in Italian dining.
 
-**Aperitivo hour (5–7pm):** Pay €6–10 for a Spritz or Negroni and many bars provide free snacks or small bites. Milan's aperitivo scene is particularly generous.
+**Aperitivo hour (5–7pm):** Pay €6–10 for a Spritz or Negroni and many bars provide free snacks or small bites. [Milan](/italy/milan-travel-guide)'s aperitivo scene is particularly generous.
 
 **Dinner mid-range:** €25–40/person with wine. A serious meal at a proper Italian restaurant is more expensive but generally extraordinary value for the quality.
 

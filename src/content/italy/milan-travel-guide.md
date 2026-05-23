@@ -10,7 +10,7 @@ tags: [Milan, Italy, 2026 Winter Olympics, Duomo, Navigli, fashion, aperitivo, d
 city: milan
 ---
 
-Milan is Italy's second city by population and first by economic output — the capital of the country's fashion, finance, and design industries, and a city that operates on a distinctly northern European tempo compared to Rome or Naples. The streets are emptier, the trains run on time, the aperitivo hour is taken seriously, and the dominant cultural exports (Prada, Armani, Versace, Ferrari, Pirelli) are recognizable worldwide.
+Milan is [Italy](/italy)'s second city by population and first by economic output — the capital of the country's fashion, finance, and design industries, and a city that operates on a distinctly northern European tempo compared to [Rome](/italy/rome-guide) or Naples. The streets are emptier, the trains run on time, the aperitivo hour is taken seriously, and the dominant cultural exports (Prada, Armani, Versace, Ferrari, Pirelli) are recognizable worldwide.
 
 In 2026, Milan co-hosts the Winter Olympics alongside Cortina d'Ampezzo — the city serves as the urban hub for the games, hosting the opening and closing ceremonies at San Siro stadium and several indoor events.
 

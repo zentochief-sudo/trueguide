@@ -20,13 +20,13 @@ Peru contains one of history's greatest civilisations, South America's finest fo
 **Time zone:** PET (GMT-5). No daylight saving.  
 **Driving:** Right-hand side  
 **Plugs:** Type A and B (standard US-style flat pins)  
-**Visa:** US, EU, UK, Canada, Australia — visa-free for 90 days
+**Visa:** US, EU, UK, [Canada](/canada), Australia — visa-free for 90 days
 
 ---
 
 ## The Most Important Thing: Altitude
 
-Cusco sits at 3,400 metres. Lake Titicaca is at 3,812 metres. Machu Picchu (at 2,430m) is actually lower, which is why some people feel better there than in Cusco.
+[Cusco](/peru/cusco-guide) sits at 3,400 metres. [Lake Titicaca](/peru/lake-titicaca-guide) is at 3,812 metres. [Machu Picchu](/peru/machu-picchu-guide) (at 2,430m) is actually lower, which is why some people feel better there than in Cusco.
 
 **Altitude sickness (soroche)** affects many visitors regardless of fitness level. Symptoms: headache, nausea, dizziness, shortness of breath, fatigue. Usually improves after 24–48 hours of acclimatisation.
 
@@ -50,7 +50,7 @@ Peru's top experiences have capacity limits and sell out. Book these before you 
 
 **Lima restaurants:** Central, Maido, and Astrid y Gastón require reservations. Central especially books up 2–3 months in advance.
 
-**Amazon lodges:** Book 4–8 weeks ahead for quality eco-lodges in Tambopata.
+**[Amazon](/peru/amazon-guide) lodges:** Book 4–8 weeks ahead for quality eco-lodges in Tambopata.
 
 ---
 
@@ -60,11 +60,11 @@ Peru's top experiences have capacity limits and sell out. Book these before you 
 
 **Cusco (2 days minimum, 3 recommended):** The Inca capital, now a UNESCO city. Give yourself time to acclimatise before the physical activity.
 
-**Sacred Valley (1 day):** Lower altitude, Inca ruins, traditional markets. Good for acclimatisation between Cusco and Machu Picchu.
+**[Sacred Valley](/peru/sacred-valley-guide) (1 day):** Lower altitude, Inca ruins, traditional markets. Good for acclimatisation between Cusco and Machu Picchu.
 
 **Machu Picchu (1–2 days):** The reason most people come to Peru — and it delivers.
 
-**Then choose:** The Amazon (Puerto Maldonado), Lake Titicaca (Puno), the Nazca Lines, or the Colca Canyon — each adds a completely different dimension.
+**Then choose:** The Amazon (Puerto Maldonado), Lake Titicaca (Puno), the [Nazca Lines](/peru/nazca-lines-guide), or the [Colca Canyon](/peru/colca-canyon-guide) — each adds a completely different dimension.
 
 ---
 

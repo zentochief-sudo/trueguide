@@ -10,17 +10,17 @@ tags: [Kazakhstan, practical, visa, e-visa, Almaty, Astana, budget, transport, t
 city: almaty
 ---
 
-Kazakhstan is Central Asia's most accessible destination — a 72-hour visa-free policy that covers most Western nationalities, Air Astana connecting the major cities with a modern fleet, and enough English in the tourism infrastructure of Almaty and Astana to navigate independently. The country is not quite on the well-worn Southeast Asia or European backpacker circuit, which means the infrastructure is functional but occasionally requires more active problem-solving. The reward is significant: the landscapes are extraordinary, the food culture is underexplored internationally, and the combination of Soviet architecture, nomadic culture, and Silk Road history is genuinely distinct from anything in Europe or East Asia.
+[Kazakhstan](/kazakhstan) is Central Asia's most accessible destination — a 72-hour visa-free policy that covers most Western nationalities, Air [Astana](/kazakhstan/astana-guide) connecting the major cities with a modern fleet, and enough English in the tourism infrastructure of [Almaty](/kazakhstan/almaty-travel-guide) and Astana to navigate independently. The country is not quite on the well-worn Southeast Asia or European backpacker circuit, which means the infrastructure is functional but occasionally requires more active problem-solving. The reward is significant: the landscapes are extraordinary, the food culture is underexplored internationally, and the combination of Soviet architecture, [nomadic culture](/kazakhstan/nomadic-culture-guide), and [Silk Road](/kazakhstan/silk-road-guide) history is genuinely distinct from anything in Europe or East Asia.
 
 ---
 
 ## Visas
 
-**72-hour transit visa-free**: Citizens of 68 countries (including EU, UK, USA, Canada, Australia, Japan, South Korea) can visit Kazakhstan for up to 72 hours without a visa, entered through specific ports of entry. This is a transit policy, not a general tourist visa — it's designed for layover visitors.
+**72-hour transit visa-free**: Citizens of 68 countries (including EU, UK, USA, [Canada](/canada), Australia, Japan, South Korea) can visit Kazakhstan for up to 72 hours without a visa, entered through specific ports of entry. This is a transit policy, not a general tourist visa — it's designed for layover visitors.
 
 **30-day e-visa**: Available through the Kazakhstan e-Visa Portal (viza.mfa.kz). Processing: 3–5 business days. Fee: approximately $30–40 USD. Covers a single entry for 30 days. The practical option for any visit longer than 72 hours.
 
-**Visa-free 30 days**: Citizens of most EU countries, UK, USA, Canada, Australia, Japan, Malaysia, South Korea, and others receive 30 days visa-free entry (check the current list — this has expanded significantly in recent years). No application required; stamp on arrival.
+**Visa-free 30 days**: Citizens of most EU countries, UK, USA, Canada, Australia, Japan, [Malaysia](/malaysia), South Korea, and others receive 30 days visa-free entry (check the current list — this has expanded significantly in recent years). No application required; stamp on arrival.
 
 **Registration**: Visitors staying in hotels are automatically registered (hotels submit guest information). If staying in private accommodation for more than 3 days, the host must register you with the local migration office. This rule is enforced inconsistently but exists.
 
@@ -56,7 +56,7 @@ Kazakhstan is Central Asia's most accessible destination — a 72-hour visa-free
 
 **Bus to Medeu**: City bus 6A or 12A from Alatau Square (center). Infrequent; taxi (~2,000 KZT) is more reliable for specific timing.
 
-**Big Almaty Lake**: No public transport to the lake directly — taxi from the city or from Medeu.
+**[Big Almaty Lake](/kazakhstan/big-almaty-lake-guide)**: No public transport to the lake directly — taxi from the city or from Medeu.
 
 ---
 

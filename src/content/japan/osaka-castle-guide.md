@@ -10,7 +10,7 @@ tags: [Osaka Castle, Toyotomi Hideyoshi, Osaka history, Osaka sightseeing, Osaka
 city: osaka
 ---
 
-Osaka Castle (*Osaka-jo*) was built in 1583 by Toyotomi Hideyoshi — the warlord who came closest to unifying Japan before Tokugawa Ieyasu completed the project after Hideyoshi's death. The original castle was the largest in Japan at the time, deliberately overshadowing Nobunaga's Azuchi Castle in scale and ambition. It was destroyed twice (burned by retreating Toyotomi forces in 1615, lightning in 1665) and the current tower, built in 1931 and renovated in 1997, is a reinforced concrete reconstruction on the Tokugawa-era stone foundations.
+[Osaka](/japan/osaka-guide) Castle (*Osaka-jo*) was built in 1583 by Toyotomi Hideyoshi — the warlord who came closest to unifying Japan before Tokugawa Ieyasu completed the project after Hideyoshi's death. The original castle was the largest in Japan at the time, deliberately overshadowing Nobunaga's Azuchi Castle in scale and ambition. It was destroyed twice (burned by retreating Toyotomi forces in 1615, lightning in 1665) and the current tower, built in 1931 and renovated in 1997, is a reinforced concrete reconstruction on the Tokugawa-era stone foundations.
 
 This matters because the castle's history is the museum's subject — and the contrast between the genuine 16th-century stonework and moats and the 20th-century concrete tower is the honest version of the story.
 
@@ -20,7 +20,7 @@ This matters because the castle's history is the museum's subject — and the co
 
 The castle complex covers 105 hectares — one of the largest castle parks in Japan. The approach from either Tanimachi-yonchome or Morinomiya Station passes through two defensive rings:
 
-**Outer moat and stone walls**: The *nishino-maru* (western enclosure) garden, admission ¥350, is a landscape garden with the castle tower in the background — the main cherry blossom viewing ground in Osaka. About 600 cherry trees here make this the city's most popular hanami site during late March–early April.
+**Outer moat and stone walls**: The *nishino-maru* (western enclosure) garden, admission ¥350, is a landscape garden with the castle tower in the background — the main [cherry blossom](/japan/cherry-blossom-guide) viewing ground in Osaka. About 600 cherry trees here make this the city's most popular hanami site during late March–early April.
 
 **Honmaru (main enclosure)**: Cross the Gokurakubashi bridge over the inner moat to reach the castle tower itself. The 5-meter-high stone walls of the honmaru are original — the scale of Hideyoshi's construction is apparent from standing next to them.
 

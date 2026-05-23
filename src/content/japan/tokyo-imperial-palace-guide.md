@@ -10,7 +10,7 @@ tags: [Imperial Palace, Tokyo, East Gardens, Kokyo, moat walk, Nijubashi, Kitano
 city: tokyo
 ---
 
-The Tokyo Imperial Palace (*皇居*, *Kōkyo*) occupies the former site of Edo Castle — the Tokugawa shogunate's seat of government from 1603 until 1868, when Emperor Meiji relocated to Edo from Kyoto and the castle became the imperial residence. The castle keep was lost to fire in 1657 and never rebuilt; what remains today is the moat system, several original castle gates, and the thick stone foundations of the honmaru (main compound).
+The [Tokyo](/japan/tokyo-guide) Imperial Palace (*皇居*, *Kōkyo*) occupies the former site of Edo Castle — the Tokugawa shogunate's seat of government from 1603 until 1868, when Emperor Meiji relocated to Edo from [Kyoto](/japan/kyoto-guide) and the castle became the imperial residence. The castle keep was lost to fire in 1657 and never rebuilt; what remains today is the moat system, several original castle gates, and the thick stone foundations of the honmaru (main compound).
 
 For most of the year, the inner grounds are accessible only twice: January 2 (New Year greeting, the only occasion when visitors can enter the inner plaza to see the imperial family appear on the balcony) and February 23 (the emperor's birthday). For the rest of the year, visitors explore the East Gardens, the moat path, and the surrounding Kitanomaru Park — which is still a substantial experience and one of the most distinctive urban parks in the world.
 
@@ -88,6 +88,6 @@ The inner grounds (excluding the private residential areas) are accessible on gu
 
 **Best sequence**: East Gardens → Ninomaru Garden → honmaru stone foundation → exit → moat walk south → Nijubashi plaza view → Kokyomae Plaza → Hibiya Park (adjacent).
 
-**Spring sakura**: The moat-side cherry trees (approximately 400) bloom in late March–early April, with the pink blossoms reflecting in the moat water and the castle walls in the background. This is one of Tokyo's best cherry blossom locations and gets very crowded; early morning arrival is recommended.
+**Spring sakura**: The moat-side cherry trees (approximately 400) bloom in late March–early April, with the pink blossoms reflecting in the moat water and the castle walls in the background. This is one of Tokyo's best [cherry blossom](/japan/cherry-blossom-guide) locations and gets very crowded; early morning arrival is recommended.
 
 **Running**: The 5km outer moat loop is a genuine pleasure in the early morning before office traffic increases. Rental running gear (shoes, clothing) is available from *Runners Station* outlets in the nearby Otemachi area for visitors who want to run without packing running clothes.

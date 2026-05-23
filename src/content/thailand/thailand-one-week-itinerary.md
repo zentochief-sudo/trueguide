@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Seven days in Thailand gives you a taste of three very different worlds: Bangkok's electric urban energy, the mountain culture of the north, and the turquoise water of the south. This is the classic first-timer's route — and it's classic for excellent reasons.
+Seven days in [Thailand](/thailand) gives you a taste of three very different worlds: [Bangkok](/thailand/bangkok-guide)'s electric urban energy, the mountain culture of the north, and the turquoise water of the south. This is the classic first-timer's route — and it's classic for excellent reasons.
 
 ## Days 1–2 – Bangkok
 
@@ -30,7 +30,7 @@ Afternoon: the futuristic **Siam** shopping district for air-conditioned respite
 
 ## Days 3–4 – Chiang Mai
 
-Fly or take an overnight train north to **Chiang Mai** — Thailand's northern capital, set in a valley surrounded by mountains, with a well-preserved moat-encircled old city full of temples.
+Fly or take an overnight train north to **[Chiang Mai](/thailand/chiang-mai-guide)** — Thailand's northern capital, set in a valley surrounded by mountains, with a well-preserved moat-encircled old city full of temples.
 
 **Day 3:** The **Old City** walled district has 300+ temples — the most important being **Wat Chedi Luang** (a 14th-century ruined chedi that was once the tallest structure in Chiang Mai) and **Wat Phra Singh** (elegant Lanna-style temple with important Buddha images). The **Sunday Walking Street** along Wualai Road is one of Thailand's best markets.
 

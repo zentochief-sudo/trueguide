@@ -50,14 +50,14 @@ A protected designation of origin lentil grown on the cirque's terraced slopes �
 
 **Réunion's highest peak at 3,070m**
 
-Piton des Neiges is the island's central massif — a dormant shield volcano (last erupted ~20,000 years ago) whose flanks form all three cirques. The standard ascent begins from Cilaos.
+[Piton des Neiges](/[reunion](/reunion/reunion-travel-guide)/piton-des-neiges-guide) is the island's central massif — a dormant shield volcano (last erupted ~20,000 years ago) whose flanks form all three cirques. The standard ascent begins from Cilaos.
 
 **The route** (from Cilaos):
 - **Distance**: 22 km round trip (or 14 km if using the Caverne Dufour gîte as an overnight)
 - **Elevation gain**: 1,870m
 - **Time**: 6–8 hours for the day version; 2 days with gîte overnight
 
-**Via Bras Sec** (most common day route): Starts at the edge of Cilaos village, climbs steadily through forest then scrub to the summit. The final section above the gîte is steep *ravine* terrain. Summit views encompass the entire island — both the volcano cone (Piton de la Fournaise) to the southeast and the Indian Ocean on all sides.
+**Via Bras Sec** (most common day route): Starts at the edge of Cilaos village, climbs steadily through forest then scrub to the summit. The final section above the gîte is steep *ravine* terrain. Summit views encompass the entire island — both the volcano cone ([Piton de la Fournaise](/reunion/piton-de-la-fournaise-guide)) to the southeast and the Indian Ocean on all sides.
 
 **Caverne Dufour gîte (2,479m)**: The high-altitude mountain hut, bookable through Centrale de Réservation des Gîtes de Réunion. Overnight here for sunrise on the summit is the recommended approach — the cloud often clears at dawn before building again by mid-morning.
 

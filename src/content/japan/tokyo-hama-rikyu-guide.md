@@ -10,7 +10,7 @@ tags: [Hama-Rikyu, Tokyo, Shiodomejo garden, tidal garden, Tokugawa, duck pond, 
 city: tokyo
 ---
 
-Hama-Rikyū Onshi Teien (*浜離宮恩賜庭園*) is a tidal garden — the large central pond connects to Tokyo Bay through sluice gates, and its water level rises and falls with the tide. The garden was the Tokugawa shogunate's falconry and duck-hunting ground from 1654; the pond was enlarged for duck hunting using traditional *ganshibari* (duck lure) techniques, and the duck hunts continued into the Meiji period. Today it is a formal garden under the Tokyo Metropolitan Government, and one of the few places in central Tokyo where you can hear water rather than traffic.
+Hama-Rikyū Onshi Teien (*浜離宮恩賜庭園*) is a tidal garden — the large central pond connects to [Tokyo](/japan/tokyo-guide) Bay through sluice gates, and its water level rises and falls with the tide. The garden was the Tokugawa shogunate's falconry and duck-hunting ground from 1654; the pond was enlarged for duck hunting using traditional *ganshibari* (duck lure) techniques, and the duck hunts continued into the Meiji period. Today it is a formal garden under the Tokyo Metropolitan Government, and one of the few places in central Tokyo where you can hear water rather than traffic.
 
 The contrast is specific: Hama-Rikyū sits at the south edge of the Shiodome media district, Tokyo's cluster of high-rise towers visible from every point in the garden, their reflections cutting across the pond surface. This juxtaposition — 17th-century tidal garden, 21st-century office towers — is the whole experience.
 
@@ -28,7 +28,7 @@ The garden occupies 250,000 square meters at the mouth of the Sumida River, boun
 
 **Duck Blind / Ganshibari site (雁木)**: The preserved structure from the traditional duck hunting — a series of channels and blinds where hunters waited for ducks lured into proximity. No longer operational but preserved as a historical artifact of the garden's original purpose.
 
-**Flower calendar**: *Nanohana* (canola, yellow) in February–March; *Ajisai* (hydrangea) in June; seasonal grasses (*susuki*) in October; *Sakura* (cherry blossom) along the paths in late March–early April.
+**Flower calendar**: *Nanohana* (canola, yellow) in February–March; *Ajisai* (hydrangea) in June; seasonal grasses (*susuki*) in October; *Sakura* ([cherry blossom](/japan/cherry-blossom-guide)) along the paths in late March–early April.
 
 ---
 

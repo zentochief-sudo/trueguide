@@ -42,7 +42,7 @@ Kensington Market changes character after 9pm — the daytime food vendors close
 
 The cluster around Rogers Centre and Scotiabank Arena has the highest concentration of sports bars and venues for major events.
 
-**The Real Sports Bar** (15 York Street): Connected to the Air Canada Centre (Scotiabank Arena) — one of the largest sports bars in North America, with 199 screens. During World Cup matches, this will be one of the most active fan-watching venues in the city.
+**The Real Sports Bar** (15 York Street): Connected to the Air [Canada](/canada) Centre (Scotiabank Arena) — one of the largest sports bars in North America, with 199 screens. During World Cup matches, this will be one of the most active fan-watching venues in the city.
 
 **The Library Bar** (100 Front Street West, inside the Fairmont Royal York): The most beautiful hotel bar in Toronto — Victorian mahogany and leather in the basement of the 1929 hotel. The cocktail program is classic; the atmosphere is irreplaceable. $16–22 CAD cocktails.
 
@@ -54,7 +54,7 @@ The cluster around Rogers Centre and Scotiabank Arena has the highest concentrat
 
 Ossington Avenue between Dundas and Queen West is Toronto's best concentrated bar street — smaller, independent, and more interesting than King West.
 
-**Reposado Bar & Lounge** (136 Ossington): The best tequila and mezcal selection in Toronto — 200+ agave spirits, serious cocktail program. For World Cup visitors from Mexico, this is where the Oaxacan mezcal and Jalisco blanco tequila is taken seriously.
+**Reposado Bar & Lounge** (136 Ossington): The best tequila and mezcal selection in Toronto — 200+ agave spirits, serious cocktail program. For World Cup visitors from [Mexico](/mexico), this is where the Oaxacan mezcal and Jalisco blanco tequila is taken seriously.
 
 **Sweaty Betty's** (13 Ossington): A dive bar on the strip with the least pretension and the most regulars. Cheap beer, loud music, no dress code.
 

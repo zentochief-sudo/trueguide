@@ -10,13 +10,13 @@ tags: [Costa Rica, surfing, Tamarindo, Santa Teresa, Nosara, Pavones, beaches, P
 city: papagayo
 ---
 
-Costa Rica has over 1,000 km of Pacific coastline and produces consistent surf year-round — the northwestern Guanacaste province in the dry season (December–April), the southern Pacific and Caribbean in the wet season (May–November). The country has been a serious surfing destination since the 1970s and now has a developed infrastructure of surf schools, board rentals, and surf camps at every level, from beginner-friendly foam-over-reef spots to world-class reef breaks.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) has over 1,000 km of Pacific coastline and produces consistent surf year-round — the northwestern Guanacaste province in the dry season (December–April), the southern Pacific and Caribbean in the wet season (May–November). The country has been a serious surfing destination since the 1970s and now has a developed infrastructure of surf schools, board rentals, and surf camps at every level, from beginner-friendly foam-over-reef spots to world-class reef breaks.
 
 ---
 
 ## Understanding the Two Coasts
 
-**Pacific coast**: The primary surf destination — consistent west and northwest swells, clean point and beach breaks, and the infrastructure (hotels, surf schools, transport) that makes planning simple. Guanacaste in the north and the Central Pacific around Jacó and Manuel Antonio are the busiest zones; the Southern Pacific (around Dominical and Pavones) has bigger, more demanding surf.
+**Pacific coast**: The primary surf destination — consistent west and northwest swells, clean point and beach breaks, and the infrastructure (hotels, surf schools, transport) that makes planning simple. Guanacaste in the north and the Central Pacific around Jacó and [Manuel Antonio](/costa-rica/manuel-antonio-guide) are the busiest zones; the Southern Pacific (around Dominical and Pavones) has bigger, more demanding surf.
 
 **Caribbean coast**: Less consistent but when it works (October–March), the surf at Puerto Viejo de Talamanca (Playa Salsa Brava) is among the heaviest in Central America — a shallow reef break producing powerful hollow waves that is not for beginners. The Caribbean coast is accessed from San José via the Braulio Carrillo highway (3.5 hours).
 

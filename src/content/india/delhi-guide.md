@@ -20,7 +20,7 @@ The result is overwhelming, contradictory, and genuinely unlike anywhere else. D
 
 **Lal Qila (Red Fort)**: The palace-fortress built by Shah Jahan in 1639–48 — the red sandstone walls enclose a 254-acre compound of audience halls, palaces, and gardens. The Diwan-i-Khas (Hall of Private Audiences) is where the Peacock Throne stood before it was carried off to Persia in 1739. The sound and light show in the evenings gives context without the midday heat. Entry ₹600 (foreigners). Open Tuesday–Sunday.
 
-**Jama Masjid**: The largest mosque in India, built by Shah Jahan in 1650–56 — capacity 25,000 worshippers, the red sandstone and marble courtyard visible from the Red Fort ramparts. Open to non-Muslim visitors between prayer times. The northern minaret can be climbed for views over Old Delhi (₹100).
+**Jama Masjid**: The largest mosque in [India](/india), built by Shah Jahan in 1650–56 — capacity 25,000 worshippers, the red sandstone and marble courtyard visible from the Red Fort ramparts. Open to non-Muslim visitors between prayer times. The northern minaret can be climbed for views over Old Delhi (₹100).
 
 **Chandni Chowk**: The main commercial street of Old Delhi — 400 years old, still functioning as a wholesale market, with specialized lanes for spices (Khari Baoli, the largest spice market in Asia), fabrics, electronics, and wedding supplies. Accessible on foot from the Red Fort; the best approach is by cycle rickshaw from the metro station, which positions you at the west entrance of the fort.
 

@@ -10,7 +10,7 @@ tags: [Réunion, practical, transport, car rental, budget, accommodation, gettin
 city: saint-denis
 ---
 
-Réunion is a French overseas department (département d'outre-mer) — part of France, part of the European Union, using the euro, with French as the official language and the same administrative systems as metropolitan France. This matters practically: the island functions at a European standard, prices are European, and the infrastructure is significantly better than neighboring Mauritius or Madagascar. It also means the island is almost entirely oriented toward French tourists; English is spoken less widely than in most popular international destinations.
+Réunion is a French overseas department (département d'outre-mer) — part of [France](/france), part of the European Union, using the euro, with French as the official language and the same administrative systems as metropolitan France. This matters practically: the island functions at a European standard, prices are European, and the infrastructure is significantly better than neighboring Mauritius or Madagascar. It also means the island is almost entirely oriented toward French tourists; English is spoken less widely than in most popular international destinations.
 
 ---
 
@@ -31,9 +31,9 @@ Réunion is a French overseas department (département d'outre-mer) — part of 
 ### Car Rental (Essential)
 Réunion is not navigable without a vehicle. The island has buses (Car Jaune, the local network) but they serve the coastal Route Nationale rather than the cirques or mountain routes, and schedules are limited. For anything beyond the main coastal ring, a car is necessary.
 
-Rental: Available at the airport from standard international companies (Hertz, Europcar) and local operators. Expect €35–60/day for a standard vehicle, €55–80/day for a 4WD (recommended if you're accessing Piton de la Fournaise or the cirque roads).
+Rental: Available at the airport from standard international companies (Hertz, Europcar) and local operators. Expect €35–60/day for a standard vehicle, €55–80/day for a 4WD (recommended if you're accessing [Piton de la Fournaise](/[reunion](/reunion/reunion-travel-guide)/piton-de-la-fournaise-guide) or the cirque roads).
 
-**Roads**: The Route Nationale 1 (RN1) runs around the coast — the main road connecting all coastal towns. The mountain roads to the cirques (particularly the road to Cilaos, with 400+ curves over 37 km) are technically demanding but drivable in a standard car.
+**Roads**: The Route Nationale 1 (RN1) runs around the coast — the main road connecting all coastal towns. The mountain roads to the cirques (particularly the road to [Cilaos](/reunion/cilaos-guide), with 400+ curves over 37 km) are technically demanding but drivable in a standard car.
 
 **Traffic**: Saint-Denis and the coastal strip can be congested during rush hours (7–9 AM, 5–7 PM). The interior is empty.
 

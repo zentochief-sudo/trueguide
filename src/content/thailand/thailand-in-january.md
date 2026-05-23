@@ -10,17 +10,17 @@ tags: [Thailand, January, peak season, Chiang Mai, Koh Samui, Phuket, dry season
 city: national
 ---
 
-January is Thailand's best weather month — the rainy season is entirely finished, the air is clear, temperatures are warm but not oppressive, and both major coastlines are in excellent condition. It's also the most expensive and most crowded month. The combination of Chinese New Year preparations, Western winter holidays, and regional travel makes January the peak of the peak. If you go in January, you're going in ideal conditions — and you'll be sharing them with the maximum number of other people.
+January is [Thailand](/thailand)'s best weather month — the rainy season is entirely finished, the air is clear, temperatures are warm but not oppressive, and both major coastlines are in excellent condition. It's also the most expensive and most crowded month. The combination of Chinese New Year preparations, Western winter holidays, and regional travel makes January the peak of the peak. If you go in January, you're going in ideal conditions — and you'll be sharing them with the maximum number of other people.
 
 ## Weather in January
 
-**Bangkok:** 24°C to 33°C. Dry and clear. Pleasantly warm days, comfortable evenings. The best month for the capital.
+**[Bangkok](/thailand/bangkok-guide):** 24°C to 33°C. Dry and clear. Pleasantly warm days, comfortable evenings. The best month for the capital.
 
-**Chiang Mai (north):** 13°C to 31°C. The coolest month in northern Thailand — genuinely cold at night (bring a light jacket), beautiful clear days. This is Chiang Mai's finest month.
+**[Chiang Mai](/thailand/chiang-mai-guide) (north):** 13°C to 31°C. The coolest month in northern Thailand — genuinely cold at night (bring a light jacket), beautiful clear days. This is Chiang Mai's finest month.
 
 **Koh Samui/Gulf of Thailand (east coast):** 24°C to 31°C. Dry season on the Gulf side. Ko Samui and Ko Phangan are at their best — clear water, no rain, ideal beach conditions.
 
-**Phuket/Andaman Coast:** 24°C to 32°C. Peak dry season. Phuket, Krabi, Ko Lanta, and the Phi Phi Islands are in perfect condition. The Andaman Sea is calm and turquoise.
+**[Phuket](/thailand/phuket-guide)/Andaman Coast:** 24°C to 32°C. Peak dry season. Phuket, Krabi, Ko Lanta, and the Phi Phi Islands are in perfect condition. The Andaman Sea is calm and turquoise.
 
 **Koh Tao:** 25°C to 31°C. Excellent visibility for diving — some of the best dive conditions of the year.
 

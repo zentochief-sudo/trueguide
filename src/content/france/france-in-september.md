@@ -10,13 +10,13 @@ tags: [France, September, Vendanges, grape harvest, Bordeaux, Burgundy, Riviera,
 city: national
 ---
 
-September is France's optimal travel month — the argument is almost too easy. The summer crowds clear from September 1 as French school resumes. The Mediterranean stays warm (sea 24–25°C) through the entire month. The grape harvest (vendanges) begins across Bordeaux, Burgundy, Champagne, Alsace, and the Loire. The Braderie de Lille — Europe's largest flea market — fills an entire northern city for one weekend. Prices drop 20–35% from August. And the wine country — which peaked in its June-July visual green — transitions to its golden harvest phase. September is when France works best.
+September is [France](/france)'s optimal travel month — the argument is almost too easy. The summer crowds clear from September 1 as French school resumes. The Mediterranean stays warm (sea 24–25°C) through the entire month. The grape harvest (vendanges) begins across [Bordeaux](/france/bordeaux-guide), Burgundy, Champagne, [Alsace](/france/alsace-guide), and the Loire. The Braderie de Lille — Europe's largest flea market — fills an entire northern city for one weekend. Prices drop 20–35% from August. And the wine country — which peaked in its June-July visual green — transitions to its golden harvest phase. September is when France works best.
 
 ## Weather in September
 
-**Paris:** 14°C to 23°C. One of Paris's finest months — warm, clear, the light turning toward autumn gold. Outdoor life continues; terraces running.
+**[Paris](/france/paris-travel-guide):** 14°C to 23°C. One of Paris's finest months — warm, clear, the light turning toward autumn gold. Outdoor life continues; terraces running.
 
-**Provence:** 18°C to 30°C. Warm and clear. The lavender fields have been harvested (stubs visible, fragrant in the heat); the vineyards are turning gold.
+**[Provence](/france/provence-guide):** 18°C to 30°C. Warm and clear. The lavender fields have been harvested (stubs visible, fragrant in the heat); the vineyards are turning gold.
 
 **Côte d'Azur:** 20°C to 28°C. Sea temperature 24–25°C — the best swimming conditions of the year with September's lower crowd levels.
 

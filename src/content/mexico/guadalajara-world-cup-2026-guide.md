@@ -10,7 +10,7 @@ tags: [Guadalajara, World Cup 2026, FIFA, Estadio Akron, tequila, mariachi, Jali
 city: guadalajara
 ---
 
-Guadalajara is Mexico's second largest city and the cultural capital of the west. Mariachi, tequila (produced in the state of Jalisco), and charrería (Mexican equestrian tradition) were all born here. The Historic Center has the largest concentration of colonial architecture in Mexico outside of CDMX, and the city has a cuisine specific enough — the torta ahogada, birria, red pozole — to justify a visit on food alone.
+Guadalajara is [Mexico](/mexico)'s second largest city and the cultural capital of the west. Mariachi, tequila (produced in the state of Jalisco), and charrería (Mexican equestrian tradition) were all born here. The Historic Center has the largest concentration of colonial architecture in Mexico outside of CDMX, and the city has a cuisine specific enough — the torta ahogada, birria, red pozole — to justify a visit on food alone.
 
 For international World Cup visitors, Guadalajara is arguably the most representative city of Mexican cultural identity.
 
@@ -18,7 +18,7 @@ For international World Cup visitors, Guadalajara is arguably the most represent
 
 ## The Basics
 
-**Stadium**: Estadio Akron (formerly Estadio Chivas), Periférico Norte Manuel Gómez Morín 777, Zapopan, Jalisco  
+**Stadium**: [Estadio Akron](/mexico/estadio-akron-guide) (formerly Estadio Chivas), Periférico Norte Manuel Gómez Morín 777, Zapopan, Jalisco  
 **Capacity**: 49,850  
 **World Cup 2026 matches**: 5 matches (group stage and knockout rounds)  
 **Home team**: Chivas de Guadalajara (Club Deportivo Guadalajara), Mexico's most followed club

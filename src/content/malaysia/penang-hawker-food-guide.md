@@ -10,7 +10,7 @@ tags: [Penang, hawker food, char kway teow, laksa, Hokkien mee, nasi kandar, Mal
 city: penang
 ---
 
-Penang hawker food is not simply "good street food" — it is a specific culinary tradition with centuries of development behind each dish, micro-regional variations between stalls, and devoted local followings that evaluate char kway teow or assam laksa at a level of connoisseurship comparable to wine assessment in France.
+[Penang](/malaysia/penang-travel-guide) hawker food is not simply "good street food" — it is a specific culinary tradition with centuries of development behind each dish, micro-regional variations between stalls, and devoted local followings that evaluate char kway teow or assam laksa at a level of connoisseurship comparable to wine assessment in [France](/france).
 
 Understanding the dishes before arriving makes the difference between a generic "ate some Asian food" experience and actually understanding what you're eating.
 
@@ -28,11 +28,11 @@ Understanding the dishes before arriving makes the difference between a generic 
 ---
 
 ### Assam Laksa
-**What it is**: A sour, pungent fish soup with thick rice noodles (laksa noodles), shredded mackerel, polygonum (torch ginger flower), cucumber strips, pineapple chunks, and shrimp paste (*hae ko*) stirred in at the table. The broth is tamarind-soured (assam = tamarind) and fish-forward — nothing like the coconut-cream laksa more commonly found elsewhere in Malaysia.
+**What it is**: A sour, pungent fish soup with thick rice noodles (laksa noodles), shredded mackerel, polygonum (torch ginger flower), cucumber strips, pineapple chunks, and shrimp paste (*hae ko*) stirred in at the table. The broth is tamarind-soured (assam = tamarind) and fish-forward — nothing like the coconut-cream laksa more commonly found elsewhere in [Malaysia](/malaysia).
 
 **Why it's significant**: Assam laksa was ranked #7 on CNN Travel's "World's 50 Best Foods" list — the highest-ranked Malaysian dish on any such compilation. It's a polarizing flavor (sour, fishy, pungent) that some visitors love and some find challenging. Try it once.
 
-**Where to eat it**: Air Itam Market (Pasar Air Itam, 10 km from George Town) — the acknowledged home of the best assam laksa in Penang. The stall in the market's covered food court has been operating for decades. Alternatively, many stalls at Gurney Drive serve credible versions.
+**Where to eat it**: Air Itam Market (Pasar Air Itam, 10 km from [George Town](/malaysia/george-town-guide)) — the acknowledged home of the best assam laksa in Penang. The stall in the market's covered food court has been operating for decades. Alternatively, many stalls at Gurney Drive serve credible versions.
 
 ---
 
@@ -46,7 +46,7 @@ Understanding the dishes before arriving makes the difference between a generic 
 ---
 
 ### Nasi Kandar
-**What it is**: White rice with a selection of curries poured over it — a Mamak (Tamil Muslim) preparation that has been a Penang staple since the 19th century when Tamil Muslim traders arrived from South India. The name comes from *kandar* — the shoulder pole used by early vendors to carry two pots of rice and curry through the streets.
+**What it is**: White rice with a selection of curries poured over it — a Mamak (Tamil Muslim) preparation that has been a Penang staple since the 19th century when Tamil Muslim traders arrived from South [India](/india). The name comes from *kandar* — the shoulder pole used by early vendors to carry two pots of rice and curry through the streets.
 
 **How it works**: You point to the curries you want ladled over your rice — chicken, beef, prawn, squid, vegetable, egg — and the server adds them. The final price depends on selections; a standard plate runs RM 8–15.
 
@@ -55,7 +55,7 @@ Understanding the dishes before arriving makes the difference between a generic 
 ---
 
 ### Cendol
-**What it is**: Shaved ice with coconut milk, palm sugar syrup (*gula Melaka*), green rice-flour jelly noodles (colored with pandan), red beans, and sometimes sweet corn or jackfruit. The combination of cold, creamy, sweet, and slightly grassy (pandan) flavors is a standard heat-relief staple throughout Southeast Asia but Penang's version — with Malacca palm sugar — is particularly good.
+**What it is**: Shaved ice with coconut milk, palm sugar syrup (*gula [Melaka](/malaysia/melaka-guide)*), green rice-flour jelly noodles (colored with pandan), red beans, and sometimes sweet corn or jackfruit. The combination of cold, creamy, sweet, and slightly grassy (pandan) flavors is a standard heat-relief staple throughout Southeast Asia but Penang's version — with Malacca palm sugar — is particularly good.
 
 **Where to eat it**: Penang Road Cendol (Lebuh Keng Kwee) — arguably the most famous cendol stall in Malaysia. Queue is constant; the stall is open from morning until sold out (~2–3 PM). RM 3.50–5 per bowl.
 

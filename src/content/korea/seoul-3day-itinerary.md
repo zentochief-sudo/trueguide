@@ -21,9 +21,9 @@ Assume you're staying in the Myeongdong-Dongdaemun-Euljiro area, which is centra
 ## Day 1: Historical North — Gyeongbokgung, Bukchon, Insadong
 
 ### Morning
-Start at **Gyeongbokgung Palace** (opens 9am). Arrive by 9:15 to see the guards taking position before the first Changing of the Guard ceremony at 10am. Walk the ceremonial axis from Gwanghwamun Gate to the Geunjeongjeon Throne Hall; visit Gyeonghoeru Pavilion and the garden in the north section. Allow 2 hours.
+Start at **[Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide)** (opens 9am). Arrive by 9:15 to see the guards taking position before the first Changing of the Guard ceremony at 10am. Walk the ceremonial axis from Gwanghwamun Gate to the Geunjeongjeon Throne Hall; visit Gyeonghoeru Pavilion and the garden in the north section. Allow 2 hours.
 
-If you haven't arranged hanbok rental in advance, the shops on the streets immediately south of the palace open at 9am and can dress you in under 15 minutes — hanbok admission is free, which offsets the rental cost.
+If you haven't arranged [hanbok](/korea/hanbok-guide) rental in advance, the shops on the streets immediately south of the palace open at 9am and can dress you in under 15 minutes — hanbok admission is free, which offsets the rental cost.
 
 ### Late Morning
 Walk east from the palace's east gate (about 10 minutes) to **Bukchon 8-gyun** — the viewpoint on the hill where tile roofs descend toward the city skyline. The crowd builds after 10:30am; arriving by 10-10:15am gives you manageable conditions. Walk the hanok lanes north toward the quieter residential sections.
@@ -37,7 +37,7 @@ After lunch, walk south to **Insadong** (20 minutes). Tea at a traditional teaho
 Continue south to **Cheonggyecheon Stream** — the restored urban waterway that runs east-west through the center of Seoul. The stream is accessible from several points along its 5.8km length; the west end (near Gwanghwamun) has the best evening atmosphere with the lights reflected in the water.
 
 ### Evening
-**Gwangjang Market** — 15 minutes east of Insadong by foot or short subway ride — is Seoul's most atmospheric traditional market. The food corridor inside operates from morning to late night and serves the best **bindaetteok** (mung bean pancakes), **mayak kimbap** (small rice rolls), and **yukhoe** (Korean steak tartare with pear and sesame) in the city. This is a proper dinner destination, not a snack stop.
+**[Gwangjang Market](/korea/gwangjang-market-guide)** — 15 minutes east of Insadong by foot or short subway ride — is Seoul's most atmospheric traditional market. The food corridor inside operates from morning to late night and serves the best **bindaetteok** (mung bean pancakes), **mayak kimbap** (small rice rolls), and **yukhoe** (Korean steak tartare with pear and sesame) in the city. This is a proper dinner destination, not a snack stop.
 
 ---
 
@@ -49,7 +49,7 @@ Take Line 2 across the Han River to **Gangnam station**. Morning in Gangnam is f
 **Bongeunsa Temple** next to COEX is genuinely peaceful at 9-10am before it becomes a tourist stop. The combination of Buddhist ceremonies and glass towers surrounding the grounds is specific to Seoul.
 
 ### Lunch
-Stay in Gangnam for Korean BBQ lunch. The best value for the quality is around the Nonhyeon and Sinnonhyeon stations area — **galmaegi-sal** (pork neck) at ₩15,000–20,000 per person including rice, banchan, and a drink is the correct lunch configuration.
+Stay in Gangnam for [Korean BBQ](/korea/korean-bbq-guide) lunch. The best value for the quality is around the Nonhyeon and Sinnonhyeon stations area — **galmaegi-sal** (pork neck) at ₩15,000–20,000 per person including rice, banchan, and a drink is the correct lunch configuration.
 
 ### Afternoon
 Take Line 9 west to **Yeouido** — Seoul's financial district island in the Han River. The **Yeouido Hangang Park** on the river bank is the gateway to the **Han River cycling and leisure parks** that run along both banks. Rent a bicycle (₩3,000 per hour from the kiosk near the park entrance) and cycle the river path west toward Mapo Bridge or east toward Olympic Bridge.
@@ -85,7 +85,7 @@ If the energy remains, the area around **Euljiro 3-ga** — formerly a printing 
 
 ## The Day-Trip Extension: DMZ
 
-If you have a fourth day, a **DMZ tour** is the most singular day trip in South Korea. Half-day and full-day tours depart from central Seoul (pick-up from major hotels or Hongdae/Insadong area). The full experience includes the 3rd Infiltration Tunnel, Dora Observatory overlooking North Korea, Dorasan Station (the southernmost train station on the Korean peninsula), and the Joint Security Area at Panmunjom (requires separate tour and advance booking).
+If you have a fourth day, a **[DMZ](/korea/dmz-guide) tour** is the most singular day trip in South Korea. Half-day and full-day tours depart from central Seoul (pick-up from major hotels or Hongdae/Insadong area). The full experience includes the 3rd Infiltration Tunnel, Dora Observatory overlooking North Korea, Dorasan Station (the southernmost train station on the Korean peninsula), and the Joint Security Area at Panmunjom (requires separate tour and advance booking).
 
 The DMZ visit isn't about tourism in the conventional sense. It's about understanding the context of the country you're visiting — the ongoing division, the family separations, the specific physical reality of the most heavily fortified border in the world. It changes how Seoul feels when you return.
 
@@ -111,4 +111,4 @@ The DMZ visit isn't about tourism in the conventional sense. It's about understa
 | Sights (1-2 paid) | ₩10,000–20,000 |
 | **Total** | **₩105,000–180,000** |
 
-Seoul is significantly cheaper than Tokyo for equivalent quality. Korean BBQ, jjimjilbang, and street food allow excellent eating at modest cost. Budget travelers can cut accommodation costs significantly with guesthouses in the Hongdae or Insadong areas.
+Seoul is significantly cheaper than Tokyo for equivalent quality. Korean BBQ, [jjimjilbang](/korea/jjimjilbang-guide), and street food allow excellent eating at modest cost. Budget travelers can cut accommodation costs significantly with guesthouses in the Hongdae or Insadong areas.

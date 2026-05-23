@@ -60,7 +60,7 @@ South Street was Philadelphia's counterculture corridor in the 1960s–1980s —
 
 **Philadelphia Fan Zone** (location TBC, likely the waterfront at Penn's Landing): Philadelphia's Delaware River waterfront has hosted major outdoor events; during the World Cup, Penn's Landing is the most likely official fan zone location with big screens and food vendors.
 
-**Xfinity Live!** (1100 Pattison Avenue, by the stadium): The entertainment complex adjacent to Lincoln Financial Field has multiple bars and broadcast screens — the pre-match gathering point for the stadium area.
+**Xfinity Live!** (1100 Pattison Avenue, by the stadium): The entertainment complex adjacent to [Lincoln Financial](/united-states/lincoln-financial-guide) Field has multiple bars and broadcast screens — the pre-match gathering point for the stadium area.
 
 ---
 

@@ -10,17 +10,17 @@ tags: [Tanzania, November, short rains, green season, value, Zanzibar, Serengeti
 city: national
 ---
 
-November is when Tanzania's short rainy season (vuli) arrives. Unlike the long rains (April–May), the short rains are briefer and less sustained — afternoon showers that last a few hours, followed by clear evenings. The landscape begins greening. The wildebeest are settling back into the Southern Serengeti ahead of calving season. And prices are at their shoulder-season low — some of the cheapest genuine safari opportunities of the year. Zanzibar's northeast trade wind arrives in November, beginning the beach season.
+November is when [Tanzania](/tanzania)'s short rainy season (vuli) arrives. Unlike the long rains (April–May), the short rains are briefer and less sustained — afternoon showers that last a few hours, followed by clear evenings. The landscape begins greening. The wildebeest are settling back into the Southern Serengeti ahead of calving season. And prices are at their shoulder-season low — some of the cheapest genuine safari opportunities of the year. [Zanzibar](/tanzania/zanzibar-guide)'s northeast trade wind arrives in November, beginning the beach season.
 
 ## Weather & Conditions
 
 **Serengeti:** Short rains begin — typically afternoon showers of 1–3 hours. Mornings are usually clear and excellent for game drives. The grass is beginning to grow.
 
-**Ngorongoro:** Similar pattern — some cloud and afternoon rain. Accessible and still good.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** Similar pattern — some cloud and afternoon rain. Accessible and still good.
 
 **Zanzibar:** The northeast trade (kaskazi) arrives in November — Zanzibar's beach high season begins. The east coast is warming up. Zanzibar in November has improving conditions day by day.
 
-**Mount Kilimanjaro:** November is one of the less reliable months — the transition to the short rains brings increasing cloud. The summit is achievable but conditions are less predictable than the main dry season.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** November is one of the less reliable months — the transition to the short rains brings increasing cloud. The summit is achievable but conditions are less predictable than the main dry season.
 
 ## What to Do
 
@@ -32,7 +32,7 @@ November is when Tanzania's short rainy season (vuli) arrives. Unlike the long r
 
 **Zanzibar beach season opening:** November is the month Zanzibar's east coast fully opens. The northeast trade wind brings consistent conditions for kite surfing and creates the clean, warm water that makes the beaches world-class. Paje, Jambiani, and Michamvi are all coming into their peak season.
 
-**Dar es Salaam as a city destination:** Tanzania's commercial capital is underappreciated as a destination. The Kariakoo market is East Africa's largest traditional market, the Msasani craft market is excellent for Tanzanian artisanship, and the Bongoyo Island marine reserve (ferry from Msasani) has good snorkeling. November is functional year-round city, not a seasonal matter.
+**[Dar es Salaam](/tanzania/dar-es-salaam-guide) as a city destination:** Tanzania's commercial capital is underappreciated as a destination. The Kariakoo market is East Africa's largest traditional market, the Msasani craft market is excellent for Tanzanian artisanship, and the Bongoyo Island marine reserve (ferry from Msasani) has good snorkeling. November is functional year-round city, not a seasonal matter.
 
 ## Festivals & Events
 

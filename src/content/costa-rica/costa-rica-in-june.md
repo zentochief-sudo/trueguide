@@ -10,19 +10,19 @@ tags: [Costa Rica, June, green season, turtles, Tortuguero, Caribbean, veranillo
 city: national
 ---
 
-June is deep green season on the Pacific side of Costa Rica, but the Caribbean coast's turtle season opening at Tortuguero makes it one of the most wildlife-rich months in the country. Green sea turtles begin nesting at Tortuguero from late June through October — the largest green sea turtle nesting site in the Western Hemisphere. The Pacific rains are consistent but the "veranillo" (little summer) — a weather phenomenon that sometimes brings a 2–4 week dry spell to the Pacific in late June and early July — occasionally gives Pacific beach visitors a mid-season break. June is a month of wildlife and value.
+June is deep green season on the Pacific side of [Costa Rica](/costa-rica/costa-rica-travel-guide), but the Caribbean coast's turtle season opening at Tortuguero makes it one of the most wildlife-rich months in the country. Green sea turtles begin nesting at Tortuguero from late June through October — the largest green sea turtle nesting site in the Western Hemisphere. The Pacific rains are consistent but the "veranillo" (little summer) — a weather phenomenon that sometimes brings a 2–4 week dry spell to the Pacific in late June and early July — occasionally gives Pacific beach visitors a mid-season break. June is a month of wildlife and value.
 
 ## Weather & Conditions
 
 **Guanacaste:** 24–33°C. Rainy season, with possible veranillo dry break late June.
 
-**Manuel Antonio:** 24–30°C. Consistent rain. Lush.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–30°C. Consistent rain. Lush.
 
-**Arenal:** 20–26°C. Heavy rain. Waterfalls at peak.
+**[Arenal](/costa-rica/arenal-guide):** 20–26°C. Heavy rain. Waterfalls at peak.
 
 **Caribbean coast (Tortuguero):** 24–30°C. Rainy. Canals accessible regardless.
 
-**Osa Peninsula:** 23–30°C. Heaviest rain of the year building. Wildlife excellent.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 23–30°C. Heaviest rain of the year building. Wildlife excellent.
 
 ## What to Do
 
@@ -34,7 +34,7 @@ June is deep green season on the Pacific side of Costa Rica, but the Caribbean c
 
 **Veranillo Pacific window:** The veranillo — a meteorological phenomenon caused by a temporary shift in the ITCZ (Intertropical Convergence Zone) — sometimes brings 2–4 weeks of dry Pacific weather in late June and early July. It's not guaranteed every year, and its timing and duration vary. Guanacaste beaches during a veranillo have dry season conditions with green season prices. Check forecasts closer to departure.
 
-**Monteverde and hanging bridges:** June cloud forest is at maximum humidity. The forest is exceptional — the biodiversity of the cloud forest is at its most concentrated, and the mist gives the forest a primeval quality. Resplendent quetzals are still present (post-nesting, before migration).
+**[Monteverde](/costa-rica/monteverde-guide) and hanging bridges:** June cloud forest is at maximum humidity. The forest is exceptional — the biodiversity of the cloud forest is at its most concentrated, and the mist gives the forest a primeval quality. Resplendent quetzals are still present (post-nesting, before migration).
 
 ## Festivals & Events
 

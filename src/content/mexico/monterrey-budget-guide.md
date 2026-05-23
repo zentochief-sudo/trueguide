@@ -10,7 +10,7 @@ tags: [Monterrey, budget, costs, World Cup 2026, Nuevo León]
 city: monterrey
 ---
 
-Monterrey is the most affordable World Cup host city in Mexico and among the most affordable in the entire tournament. Accommodation prices are meaningfully lower than CDMX or Guadalajara, market and cantina food is extraordinarily cheap, and the Metro costs 6 MXN per ride. The main cost is the match ticket itself — everything around it is competitively priced.
+Monterrey is the most affordable World Cup host city in [Mexico](/mexico) and among the most affordable in the entire tournament. Accommodation prices are meaningfully lower than CDMX or Guadalajara, market and cantina food is extraordinarily cheap, and the Metro costs 6 MXN per ride. The main cost is the match ticket itself — everything around it is competitively priced.
 
 ---
 
@@ -32,7 +32,7 @@ Monterrey is the most affordable World Cup host city in Mexico and among the mos
 
 **Metro**: 6 MXN per ride — the cheapest Metro in Mexico.
 
-**Uber to Estadio BBVA**: 80–130 MXN from the Centro. Round trip: 160–260 MXN + possible post-match surge (150–250 MXN return).
+**Uber to [Estadio BBVA](/mexico/estadio-bbva-guide)**: 80–130 MXN from the Centro. Round trip: 160–260 MXN + possible post-match surge (150–250 MXN return).
 
 **Airport to Centro (Metro Line 3)**: 6 MXN. Uber: 150–250 MXN.
 

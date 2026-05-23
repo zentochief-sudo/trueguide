@@ -10,7 +10,7 @@ tags: [Milan, neighborhoods, Navigli, Brera, Isola, Porta Venezia, where to stay
 city: milan
 ---
 
-Milan's neighborhoods have distinct characters — the aperitivo canal district, the art village, the working-class area turned creative hub, and the bourgeois residential grid. Understanding the city neighborhood by neighborhood is the fastest way to stop feeling disoriented by the scale of it.
+[Milan](/italy/milan-travel-guide)'s neighborhoods have distinct characters — the aperitivo canal district, the art village, the working-class area turned creative hub, and the bourgeois residential grid. Understanding the city neighborhood by neighborhood is the fastest way to stop feeling disoriented by the scale of it.
 
 ---
 
@@ -64,7 +64,7 @@ North of the Central Station and Garibaldi railway interchange, Isola ("island" 
 
 The northeast of the center — large Liberty-style (Italian Art Nouveau) residential buildings, significant Eritrean and Ethiopian community presence, and the Arco della Pace and Corso Buenos Aires (Milan's main shopping street, more accessible than Montenapoleone). Giardini Pubblici Indro Montanelli (the city's main public garden) is here.
 
-**For eating**: The Eritrean and Ethiopian restaurants around Via Melzo serve some of the best East African food in northern Italy. The Via Sottocorno / Piazza della Repubblica aperitivo strip is more local than Navigli.
+**For eating**: The Eritrean and Ethiopian restaurants around Via Melzo serve some of the best East African food in northern [Italy](/italy). The Via Sottocorno / Piazza della Repubblica aperitivo strip is more local than Navigli.
 
 ---
 

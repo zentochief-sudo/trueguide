@@ -10,7 +10,7 @@ tags: [France, April, spring, Paris, Versailles, Easter, Loire Valley, Alsace, t
 city: national
 ---
 
-April is France's spring peak — the country at its most visually beautiful before the summer crowds take over. Cherry blossoms in Paris's parks. The Loire Valley's châteaux gardens waking up. The Dordogne river valley in first-leaf green. Versailles before the July-August crush. Easter programming adds cultural depth. April crowds are building (especially after Easter school holidays begin), but the first two weeks remain relatively manageable and the weather is genuinely excellent.
+April is [France](/france)'s spring peak — the country at its most visually beautiful before the summer crowds take over. Cherry blossoms in [Paris](/france/paris-travel-guide)'s parks. The [Loire Valley](/france/loire-valley-guide)'s châteaux gardens waking up. The Dordogne river valley in first-leaf green. [Versailles](/france/versailles-guide) before the July-August crush. Easter programming adds cultural depth. April crowds are building (especially after Easter school holidays begin), but the first two weeks remain relatively manageable and the weather is genuinely excellent.
 
 ## Weather in April
 
@@ -18,11 +18,11 @@ April is France's spring peak — the country at its most visually beautiful bef
 
 **Loire Valley:** 8°C to 18°C. The gardens at Villandry and Chenonceau begin their growing season — one of the best times to visit.
 
-**Provence:** 13°C to 22°C. Warm and beautiful. The lavender hasn't bloomed (that's June–July) but Provence in April is green and flowering with poppies and broom.
+**[Provence](/france/provence-guide):** 13°C to 22°C. Warm and beautiful. The lavender hasn't bloomed (that's June–July) but Provence in April is green and flowering with poppies and broom.
 
-**Normandy:** 8°C to 16°C. Spring in Normandy — the apple orchards blossom in April, turning the countryside white and pink. The D-Day beaches in spring weather are appropriately somber.
+**[Normandy](/france/normandy-guide):** 8°C to 16°C. Spring in Normandy — the apple orchards blossom in April, turning the countryside white and pink. The D-Day beaches in spring weather are appropriately somber.
 
-**Alsace:** 8°C to 18°C. The wine road villages in spring — the vines beginning to green up, the Easter markets in the Alsatian towns.
+**[Alsace](/france/alsace-guide):** 8°C to 18°C. The wine road villages in spring — the vines beginning to green up, the Easter markets in the Alsatian towns.
 
 **Dordogne/Périgord:** 10°C to 20°C. The most beautiful version of the Dordogne Valley — the river running clear, the limestone cliffs with their perched medieval villages (La Roque-Gageac, Beynac, Domme) in first-leaf green.
 

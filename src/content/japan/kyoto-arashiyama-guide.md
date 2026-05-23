@@ -10,7 +10,7 @@ tags: [Arashiyama, Kyoto, bamboo grove, Tenryu-ji, Sagano, Oi River, Japan, temp
 city: kyoto
 ---
 
-Arashiyama sits where the mountains begin west of Kyoto, along the Oi River (also called Katsura River as it flows south). The district was the site of aristocratic villas and retreat temples during the Heian period — the combination of water, mountains, maple trees (brilliant in November), and cherry blossoms (April) made it the preferred escape from the capital. Today it is Kyoto's most-visited outer district, which means it is extremely crowded during peak seasons and hours, and notably peaceful in the early morning and in off-peak months.
+Arashiyama sits where the mountains begin west of [Kyoto](/japan/kyoto-guide), along the Oi River (also called Katsura River as it flows south). The district was the site of aristocratic villas and retreat temples during the Heian period — the combination of water, mountains, maple trees (brilliant in November), and cherry blossoms (April) made it the preferred escape from the capital. Today it is Kyoto's most-visited outer district, which means it is extremely crowded during peak seasons and hours, and notably peaceful in the early morning and in off-peak months.
 
 The strategy in Arashiyama is timing. The bamboo grove at 7am is an extraordinary space; at 11am it is a moving queue of camera phones. This guide is organized around what time to be where.
 
@@ -28,7 +28,7 @@ The strategy in Arashiyama is timing. The bamboo grove at 7am is an extraordinar
 
 ## Arashiyama Before 9am
 
-**The Bamboo Grove (Sagano Bamboo Forest)**: The path through the towering moso bamboo northwest of Tenryu-ji — one of the most famous nature images of Japan, appearing on every tourist poster, every cherry blossom campaign, every Japan image search. The bamboo grows to 20 meters; when wind moves through the upper canopy the sound is specific and unlike anything else, which is why the grove has been designated one of "100 Soundscapes of Japan."
+**The Bamboo Grove (Sagano Bamboo Forest)**: The path through the towering moso bamboo northwest of Tenryu-ji — one of the most famous nature images of Japan, appearing on every tourist poster, every [cherry blossom](/japan/cherry-blossom-guide) campaign, every Japan image search. The bamboo grows to 20 meters; when wind moves through the upper canopy the sound is specific and unlike anything else, which is why the grove has been designated one of "100 Soundscapes of Japan."
 
 **The bamboo grove at 7am**: Empty. The quality of early morning light filtering through green bamboo is what the photography shows. The path is 200 meters of this, with the light changing as you walk.
 
@@ -96,7 +96,7 @@ Admission ¥600. Open from 9am. The climb is genuine — 200 meter elevation gai
 
 **Crowds**: Golden Week and mid-November (peak autumn foliage) are the densest periods. March–April (cherry blossom) is also crowded but the bamboo grove remains spacious.
 
-**Accommodation**: Several ryokan in Arashiyama are among the most well-regarded in Kyoto — Hoshinoya Arashiyama (ultra-luxury, river-accessible), Arashiyama Benkei, and Tenryu-ji's Shigetsu restaurant (Zen vegetarian lunch in the temple gardens, ¥3,500–6,000).
+**Accommodation**: Several [ryokan](/japan/ryokan-guide) in Arashiyama are among the most well-regarded in Kyoto — Hoshinoya Arashiyama (ultra-luxury, river-accessible), Arashiyama Benkei, and Tenryu-ji's Shigetsu restaurant (Zen vegetarian lunch in the temple gardens, ¥3,500–6,000).
 
 ---
 

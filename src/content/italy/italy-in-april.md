@@ -10,7 +10,7 @@ tags: [Italy, April, spring, Easter, Rome, Tuscany, Amalfi Coast, Florence, trav
 city: national
 ---
 
-April is when Italy becomes the Italy of photographs — Tuscan hillsides green and gold, coastal towns warm and flowering, Rome at its most beautiful in spring light. It's also when the tourist surge begins in earnest. The combination of perfect weather and Easter pilgrimage traffic means accommodation books out weeks or months in advance. April delivers Italy's best conditions; it also requires Italy's most careful planning.
+April is when [Italy](/italy) becomes the Italy of photographs — Tuscan hillsides green and gold, coastal towns warm and flowering, [Rome](/italy/rome-guide) at its most beautiful in spring light. It's also when the tourist surge begins in earnest. The combination of perfect weather and Easter pilgrimage traffic means accommodation books out weeks or months in advance. April delivers Italy's best conditions; it also requires Italy's most careful planning.
 
 ## Weather in April
 
@@ -24,7 +24,7 @@ April is when Italy becomes the Italy of photographs — Tuscan hillsides green 
 
 **Sicily:** 14°C to 23°C. Full spring. Wildflowers on the hillsides of the interior. Archaeological sites in optimal conditions.
 
-**Lake Como/Garda:** 12°C to 22°C. The lakes wake from winter — ferries running full schedule, villa gardens opening, the famous azalea displays on the lake shores in bloom.
+**[Lake Como](/italy/lake-como-guide)/Garda:** 12°C to 22°C. The lakes wake from winter — ferries running full schedule, villa gardens opening, the famous azalea displays on the lake shores in bloom.
 
 ## Easter in Rome — When It Falls in April
 

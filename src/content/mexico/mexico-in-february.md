@@ -10,7 +10,7 @@ tags: [Mexico, February, Carnival, whale watching, Mazatlán, Veracruz, travel t
 city: national
 ---
 
-February is a month of competing reasons to visit Mexico. Whale watching in Baja is at its absolute peak. Carnival in Mazatlán and Veracruz is the most festive event on the Pacific and Gulf coasts. And the dry season weather — comfortable, clear, and without the spring heat — makes virtually everywhere in the country excellent for visiting.
+February is a month of competing reasons to visit [Mexico](/mexico). Whale watching in Baja is at its absolute peak. Carnival in Mazatlán and Veracruz is the most festive event on the Pacific and Gulf coasts. And the dry season weather — comfortable, clear, and without the spring heat — makes virtually everywhere in the country excellent for visiting.
 
 ## Weather in February
 

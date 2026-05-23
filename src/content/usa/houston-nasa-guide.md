@@ -12,7 +12,7 @@ city: houston
 
 Space Center Houston is the official visitors center for NASA's Johnson Space Center — the facility that has controlled American human spaceflight since 1965, from the Apollo moon missions through the Space Shuttle program and the current commercial crew operations. It is 25 miles southeast of downtown Houston and one of the most significant science and history museums in the United States.
 
-For World Cup visitors, it is the most compelling non-food reason to spend a day in Houston rather than treating the city purely as a transit stop to NRG Stadium.
+For World Cup visitors, it is the most compelling non-food reason to spend a day in Houston rather than treating the city purely as a transit stop to [NRG Stadium](/united-states/nrg-stadium-guide).
 
 ---
 

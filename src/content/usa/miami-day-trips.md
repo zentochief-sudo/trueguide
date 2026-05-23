@@ -10,7 +10,7 @@ tags: [Miami, day trips, Everglades, Florida Keys, World Cup 2026, Miami excursi
 city: miami
 ---
 
-Miami sits at the geographic crossroads of several completely different landscapes. Twenty miles to the west, the city gives way to the Florida Everglades — the largest subtropical wilderness in the United States. Sixty miles to the south, the Florida Keys stretch into the clear waters of the Gulf of Mexico. Thirty miles to the north, Fort Lauderdale and Palm Beach have their own distinct beach and cultural identities.
+Miami sits at the geographic crossroads of several completely different landscapes. Twenty miles to the west, the city gives way to the Florida Everglades — the largest subtropical wilderness in the United States. Sixty miles to the south, the Florida Keys stretch into the clear waters of the Gulf of [Mexico](/mexico). Thirty miles to the north, Fort Lauderdale and Palm Beach have their own distinct beach and cultural identities.
 
 Between World Cup matches, these options provide the kind of extreme landscape change that helps a week in one city feel like a broader journey.
 
@@ -75,7 +75,7 @@ Fort Lauderdale is Miami's slightly calmer, less expensive northern neighbor. It
 
 **The Las Olas Waterway**: Water taxis run up and down the New River and the Intracoastal Waterway, connecting the beach to downtown to the marina district. A 90-minute narrated water taxi tour gives context to Fort Lauderdale's unusual geography. $28.
 
-**For Hard Rock Stadium visitors**: Fort Lauderdale is closer to Hard Rock Stadium than South Beach. Hotels here are $120–200/night versus $250–380 in South Beach. A Fort Lauderdale base with Tri-Rail access to both Miami and the stadium vicinity is the best budget-travel configuration for the World Cup.
+**For [Hard Rock Stadium](/united-states/hard-rock-stadium-guide) visitors**: Fort Lauderdale is closer to Hard Rock Stadium than South Beach. Hotels here are $120–200/night versus $250–380 in South Beach. A Fort Lauderdale base with Tri-Rail access to both Miami and the stadium vicinity is the best budget-travel configuration for the World Cup.
 
 ---
 

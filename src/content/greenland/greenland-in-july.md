@@ -10,19 +10,19 @@ tags: [Greenland, July, peak season, midnight sun, whales, Ilulissat, Arctic Cir
 city: national
 ---
 
-July is Greenland's summer peak. Every coastal settlement is accessible by Air Greenland's network or by coastal ferry (the Sarfaq Ittuk). The Ilulissat Icefjord is at full summer operation. Whale watching in Disko Bay reaches maximum activity. The Arctic Circle Trail from Kangerlussuaq to Sisimiut is at its best conditions. The midnight sun continues in the high north. July delivers maximum access, maximum wildlife activity, and maximum crowd — Greenland's tourist infrastructure operates at full capacity, and the country's limited accommodation books months ahead.
+July is [Greenland](/greenland)'s summer peak. Every coastal settlement is accessible by Air Greenland's network or by coastal ferry (the Sarfaq Ittuk). The [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) is at full summer operation. Whale watching in Disko Bay reaches maximum activity. The Arctic Circle Trail from Kangerlussuaq to [Sisimiut](/greenland/sisimiut-guide) is at its best conditions. The midnight sun continues in the high north. July delivers maximum access, maximum wildlife activity, and maximum crowd — Greenland's tourist infrastructure operates at full capacity, and the country's limited accommodation books months ahead.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** 8 to 15°C. Midnight sun until July 24. Warmest and most accessible.
 
-**Nuuk:** 8 to 14°C. Long days. The capital's best hiking and outdoor season.
+**[Nuuk](/greenland/nuuk-travel-guide):** 8 to 14°C. Long days. The capital's best hiking and outdoor season.
 
 **Sisimiut:** 7 to 13°C. Arctic Circle Trail at peak.
 
-**South Greenland:** 10 to 18°C. Greenland's warmest region. Wildflowers.
+**[South Greenland](/greenland/south-greenland-guide):** 10 to 18°C. Greenland's warmest region. Wildflowers.
 
-**East Greenland (Tasiilaq):** 6 to 12°C. Sea ice usually clear. Boat tours operating.
+**[East Greenland](/greenland/east-greenland-guide) (Tasiilaq):** 6 to 12°C. Sea ice usually clear. Boat tours operating.
 
 ## What to Do
 

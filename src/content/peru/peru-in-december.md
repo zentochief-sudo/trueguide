@@ -10,7 +10,7 @@ tags: [Peru, December, Christmas, Cusco, rainy season, Amazon, Machu Picchu]
 city: national
 ---
 
-December is when Peru's wet season accelerates and the Christmas cultural calendar fills Cusco's colonial center with nativity scenes, processions, and holiday markets. The Inca Trail is operational but wet and muddy. Machu Picchu is frequently cloudy but occasionally spectacular. The Amazon is beginning its flood season. And Lima's coastal spring sunshine is excellent for beach and city tourism. December spans two distinct Peru experiences depending on where you are.
+December is when [Peru](/peru)'s wet season accelerates and the Christmas cultural calendar fills [Cusco](/peru/cusco-guide)'s colonial center with nativity scenes, processions, and holiday markets. The Inca Trail is operational but wet and muddy. [Machu Picchu](/peru/machu-picchu-guide) is frequently cloudy but occasionally spectacular. The [Amazon](/peru/amazon-guide) is beginning its flood season. And [Lima](/peru/lima-guide)'s coastal spring sunshine is excellent for beach and city tourism. December spans two distinct Peru experiences depending on where you are.
 
 ## Weather & Conditions
 

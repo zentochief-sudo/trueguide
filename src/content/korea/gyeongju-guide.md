@@ -10,7 +10,7 @@ tags: [Gyeongju, Korea, Silla, Bulguksa, Seokguram, Tumuli Park, UNESCO, Buddhis
 city: national
 ---
 
-Gyeongju sits in North Gyeongsang Province, 60 km north of Busan, in a wide agricultural plain surrounded by low mountains. The Silla Kingdom — one of the Three Kingdoms of early Korea — made this plain its capital from 57 BC to 935 AD, a span of nearly a thousand years. At its height in the 7th–8th centuries, Gyeongju (then called Seorabeol) had a population estimated at one million, making it one of the largest cities in the world.
+Gyeongju sits in North Gyeongsang Province, 60 km north of [Busan](/korea/busan-guide), in a wide agricultural plain surrounded by low mountains. The Silla Kingdom — one of the Three Kingdoms of early Korea — made this plain its capital from 57 BC to 935 AD, a span of nearly a thousand years. At its height in the 7th–8th centuries, Gyeongju (then called Seorabeol) had a population estimated at one million, making it one of the largest cities in the world.
 
 What survived that history is extraordinary: royal burial mounds (*tumuli*) rising from the middle of the modern city, a reconstructed palace pond complex, a 7th-century astronomical observatory, cave temples with gold-covered Buddhist sculptures, and the best-preserved ancient temple complex on the Korean peninsula. Gyeongju has seven UNESCO World Heritage designations — more than any other city in Korea.
 

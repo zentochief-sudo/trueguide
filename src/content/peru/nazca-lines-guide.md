@@ -10,7 +10,7 @@ tags: [Nazca Lines, Peru, geoglyphs, UNESCO, desert, Nazca culture, archaeology,
 city: lima
 ---
 
-The Nazca Lines are a collection of over 800 straight lines, 300 geometric figures, and 70 zoomorphic and anthropomorphic designs etched into the surface of the Nazca Desert in southern Peru — a dry, windless plateau where the lines have been preserved for 2,000 years. The largest figures (the hummingbird is 93 m, the condor 135 m, the spider 46 m) are visible only from the air; some lines extend for up to 10 km in perfectly straight trajectories that ignore topography.
+The Nazca Lines are a collection of over 800 straight lines, 300 geometric figures, and 70 zoomorphic and anthropomorphic designs etched into the surface of the Nazca Desert in southern [Peru](/peru) — a dry, windless plateau where the lines have been preserved for 2,000 years. The largest figures (the hummingbird is 93 m, the condor 135 m, the spider 46 m) are visible only from the air; some lines extend for up to 10 km in perfectly straight trajectories that ignore topography.
 
 They were made by the Nazca culture (100 BCE–800 CE) by removing the reddish-brown iron oxide-coated surface stones and piling them on the edges of the lines, exposing the lighter-colored ground beneath. The method is simple; the purpose is not.
 
@@ -58,7 +58,7 @@ A functional desert city of 60,000 — no particular beauty but functional for a
 
 ## Getting There
 
-**From Lima**: 7–8 hours by bus (Cruz del Sur, S/50–80, night bus is practical) — arriving for a morning flight. Alternatively, 45 minutes from Ica (a convenient stopover).
+**From [Lima](/peru/lima-guide)**: 7–8 hours by bus (Cruz del Sur, S/50–80, night bus is practical) — arriving for a morning flight. Alternatively, 45 minutes from Ica (a convenient stopover).
 
 **From Ica**: 2 hours south by bus (S/15) or colectivo (shared taxi, S/20).
 

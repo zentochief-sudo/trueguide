@@ -10,7 +10,7 @@ tags: [Osaka, Umeda, Kita, Japan, shopping, department stores, Floating Garden O
 city: osaka
 ---
 
-Osaka has two poles. The south — Namba, Dotonbori, Shinsekai — is chaotic, neon, and food-obsessed. The north — Umeda, Nakatsu, Temma — is taller, more corporate, and connected to the rest of Japan through the tangle of rail lines that converge at Osaka Station. You don't visit Umeda the way you visit Dotonbori. You move through it, use it, eat in it, and occasionally, if you get lost in the right underground mall, make discoveries.
+[Osaka](/japan/osaka-guide) has two poles. The south — Namba, Dotonbori, Shinsekai — is chaotic, neon, and food-obsessed. The north — Umeda, Nakatsu, Temma — is taller, more corporate, and connected to the rest of Japan through the tangle of rail lines that converge at Osaka Station. You don't visit Umeda the way you visit Dotonbori. You move through it, use it, eat in it, and occasionally, if you get lost in the right underground mall, make discoveries.
 
 Osaka-Umeda station (Hankyu) and Osaka station (JR) are the same place, joined underground, and between them they process more passengers per day than most airports. The underground connections extend in every direction, forming a subterranean city that includes shops, restaurants, and walkways that let you navigate much of north Osaka without seeing the sky.
 
@@ -36,7 +36,7 @@ Umeda has the highest concentration of flagship department stores in Japan. This
 
 **Hankyu Umeda** is the original — Hankyu is the private railway company that essentially built modern Umeda, and its department store occupies a full city block. The fashion floors are where Osaka's professional class shops; the food hall is one of the best in the city.
 
-For the tourist perspective: even if you have no intention of buying anything, the basement food halls are worth at least one visit for the concentration of regional Japanese food products in one place.
+For the tourist perspective: even if you have no intention of buying anything, the basement food halls are worth at least one visit for the concentration of regional [Japanese food](/japan/japanese-food-guide) products in one place.
 
 ---
 
@@ -68,7 +68,7 @@ The 2011 redevelopment of Osaka Station created a covered complex above the trac
 
 ## Getting Around North Osaka
 
-The Midosuji subway line runs north-south through Umeda and connects directly to Namba in 10 minutes. The Hankyu and Hanshin rail lines depart from Umeda toward Kyoto and Kobe respectively.
+The Midosuji subway line runs north-south through Umeda and connects directly to Namba in 10 minutes. The Hankyu and Hanshin rail lines depart from Umeda toward [Kyoto](/japan/kyoto-guide) and [Kobe](/japan/kobe-guide) respectively.
 
 The underground mall system — Whity Umeda and Diamor Osaka — takes some navigation at first. Both are well-signposted in English and Japanese, and connecting them will eventually deposit you wherever you need to be. Buy a Suica or ICOCA card and tap in; the fares are small and the coverage is complete.
 
@@ -76,4 +76,4 @@ The underground mall system — Whity Umeda and Diamor Osaka — takes some navi
 
 ## The honest take
 
-Umeda is not the heart of Osaka. That's in the south. But it's the part of Osaka that reveals how the city actually functions — the density of commerce, the efficiency of movement, the quiet ambition of a city that has always competed with Tokyo without fully wanting to become it. Understanding Umeda is understanding a different register of Japan than the one tourists usually seek out.
+Umeda is not the heart of Osaka. That's in the south. But it's the part of Osaka that reveals how the city actually functions — the density of commerce, the efficiency of movement, the quiet ambition of a city that has always competed with [Tokyo](/japan/tokyo-guide) without fully wanting to become it. Understanding Umeda is understanding a different register of Japan than the one tourists usually seek out.

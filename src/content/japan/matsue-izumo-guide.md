@@ -12,19 +12,19 @@ city: national
 
 Matsue is the capital of Shimane — Japan's second least-populated prefecture, on the San'in coast facing the Sea of Japan. It was also the home of Patrick Lafcadio Hearn, the Greek-Irish writer who came to Japan in 1890, married a Japanese woman, became a Japanese citizen (taking the name Koizumi Yakumo), and wrote the Western world's most influential early accounts of Japanese culture and ghost stories. He lived in Matsue for 15 months; the house where he lived is preserved and open to visitors.
 
-But the primary reason to come to this part of Japan is Izumo Taisha — the great shrine 40 minutes west of Matsue. It is one of the oldest and most important shrines in Japan, predating most records; its mythological significance (as the home of Okuninushi no Mikoto, the god of relationships and nation-building) is different in character from Ise Jingu, and the two shrines together represent the two most significant Shinto sacred sites in the country.
+But the primary reason to come to this part of Japan is Izumo Taisha — the great shrine 40 minutes west of Matsue. It is one of the oldest and most important shrines in Japan, predating most records; its mythological significance (as the home of Okuninushi no Mikoto, the god of relationships and nation-building) is different in character from [Ise Jingu](/japan/ise-jingu-guide), and the two shrines together represent the two most significant Shinto sacred sites in the country.
 
 ---
 
 ## Getting There
 
-**From Osaka**: JR Yakumo limited express via Okayama, 3.5–4 hours (¥9,000). JR Pass valid.
+**From [Osaka](/japan/osaka-guide)**: JR Yakumo limited express via Okayama, 3.5–4 hours (¥9,000). JR Pass valid.
 
-**From Hiroshima**: JR to Okayama, then Super Yakumo to Matsue (2 hours 30 minutes, ¥7,200). JR Pass valid.
+**From [Hiroshima](/japan/hiroshima-guide)**: JR to Okayama, then Super Yakumo to Matsue (2 hours 30 minutes, ¥7,200). JR Pass valid.
 
-**From Tottori**: JR San'in Line coastal train, 1 hour 45 minutes. Scenic coastal route.
+**From [Tottori](/japan/tottori-guide)**: JR San'in Line coastal train, 1 hour 45 minutes. Scenic coastal route.
 
-**From Tokyo**: Shinkansen to Okayama, then limited express (4.5 hours total).
+**From [Tokyo](/japan/tokyo-guide)**: Shinkansen to Okayama, then limited express (4.5 hours total).
 
 **Matsue → Izumo Taisha**: JR San'in Line to Izumoshi Station (40 minutes), then Ichibata Railway to Izumo Taisha-mae Station (8 minutes). Total: about 1 hour. Or direct bus from Matsue (1 hour 20 minutes).
 
@@ -95,7 +95,7 @@ The great shrine of Izumo is the home of Okuninushi no Mikoto (*Ōkuninushi*) �
 
 **Getting from Matsue to Hiroshima**: JR San'in → Hakubi → Sanyo route, about 3 hours. Or Blaynomichi bus service (faster, about 2.5 hours). The rail route via Yakumo limited express through Okayama is the JR Pass option.
 
-**Accommodation**: Matsue has business hotels and several ryokan on the lake edge. The Nishimuraya (lake view rooms) and smaller minshuku near the castle are the standard options. Izumo city near the shrine has accommodation for overnight pilgrimage-style stays.
+**Accommodation**: Matsue has business hotels and several [ryokan](/japan/ryokan-guide) on the lake edge. The Nishimuraya (lake view rooms) and smaller minshuku near the castle are the standard options. Izumo city near the shrine has accommodation for overnight pilgrimage-style stays.
 
 ---
 

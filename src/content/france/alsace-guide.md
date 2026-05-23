@@ -10,9 +10,9 @@ tags: [Alsace, Strasbourg, Colmar, France, wine route, Christmas markets, Riesli
 city: paris
 ---
 
-Alsace is the easternmost region of France, separated from Germany by the Rhine and culturally suspended between the two countries for most of its history. French since 1648 (interrupted by German annexation from 1871 to 1918 and again from 1940 to 1944), it retains a Germanic dialect, half-timbered architecture, white wine traditions, and a cuisine that serves choucroute garnie alongside foie gras. The result is something that exists nowhere else in Europe — French administrative precision applied to a deeply Germanic landscape.
+Alsace is the easternmost region of [France](/france), separated from Germany by the Rhine and culturally suspended between the two countries for most of its history. French since 1648 (interrupted by German annexation from 1871 to 1918 and again from 1940 to 1944), it retains a Germanic dialect, half-timbered architecture, white wine traditions, and a cuisine that serves choucroute garnie alongside foie gras. The result is something that exists nowhere else in Europe — French administrative precision applied to a deeply Germanic landscape.
 
-Strasbourg is 1 hour 47 minutes from Paris by TGV — one of the fastest long-distance rail journeys in Europe.
+Strasbourg is 1 hour 47 minutes from [Paris](/france/paris-travel-guide) by TGV — one of the fastest long-distance rail journeys in Europe.
 
 ---
 

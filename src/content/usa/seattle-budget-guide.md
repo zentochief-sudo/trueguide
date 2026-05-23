@@ -10,7 +10,7 @@ tags: [Seattle, budget, costs, World Cup 2026, travel costs, Pacific Northwest]
 city: seattle
 ---
 
-Seattle sits in the middle of World Cup city costs — more expensive than Dallas or Houston, less expensive than New York or San Francisco. The tech industry has raised housing and restaurant prices over the past decade, but the combination of excellent transit (Link Light Rail from the airport costs $3.25 and goes directly to the stadium area) and a genuinely accessible seafood market culture (Pike Place Market has world-class food at accessible prices) provides value that the raw numbers don't fully reflect.
+Seattle sits in the middle of World Cup city costs — more expensive than Dallas or Houston, less expensive than New York or [San Francisco](/united-states/san-francisco-guide). The tech industry has raised housing and restaurant prices over the past decade, but the combination of excellent transit (Link Light Rail from the airport costs $3.25 and goes directly to the stadium area) and a genuinely accessible seafood market culture (Pike Place Market has world-class food at accessible prices) provides value that the raw numbers don't fully reflect.
 
 ---
 

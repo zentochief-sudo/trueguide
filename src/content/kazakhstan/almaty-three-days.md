@@ -10,7 +10,7 @@ tags: []
 city: Almaty
 ---
 
-Almaty is a city that defies Central Asian expectations — broad tree-lined avenues, excellent restaurants, a genuine café culture, and the Tian Shan mountains rising directly from the southern suburbs. Three days here reveals a confident, cosmopolitan city with deep roots in Kazakh nomadic culture.
+[Almaty](/kazakhstan/almaty-travel-guide) is a city that defies Central Asian expectations — broad tree-lined avenues, excellent restaurants, a genuine café culture, and the Tian Shan mountains rising directly from the southern suburbs. Three days here reveals a confident, cosmopolitan city with deep roots in Kazakh [nomadic culture](/[kazakhstan](/kazakhstan)/nomadic-culture-guide).
 
 ## Day 1 – City, Bazaar & Culture
 
@@ -28,13 +28,13 @@ Walk north through **Panfilov Park** — a major Soviet-era public park with the
 
 From Shymbulak, you can hike further up into the **Ile-Alatau National Park** on marked trails. The alpine meadows above 2,500m are covered with wildflowers in summer (June–August) and provide extraordinary mountain views.
 
-**Afternoon:** Drive the 3km (requires a taxi — no public transport) to **Big Almaty Lake** (Bolshoye Almatinskoe Ozero) at 2,511m — a high-altitude reservoir of deep blue-green water enclosed by bare rocky peaks. The colour changes with the light and season. The road through the military/national park checkpoint requires a brief stop. The lake is a 15-minute walk from the parking area.
+**Afternoon:** Drive the 3km (requires a taxi — no public transport) to **[Big Almaty Lake](/kazakhstan/big-almaty-lake-guide)** (Bolshoye Almatinskoe Ozero) at 2,511m — a high-altitude reservoir of deep blue-green water enclosed by bare rocky peaks. The colour changes with the light and season. The road through the military/national park checkpoint requires a brief stop. The lake is a 15-minute walk from the parking area.
 
 **Evening:** The restaurant neighbourhood around **Arbat pedestrian street** and the lanes behind it. The city's best craft beer bars and modern Kazakh restaurants are in this area. Try **Tsar-Ryba** for excellent fish dishes (carp, trout, and caviar from Kazakh rivers and lakes), or any of the terraced restaurants for evening shashlik and beer.
 
 ## Day 3 – Charyn Canyon Day Trip
 
-Drive east from Almaty (3.5 hours) through the Zailiysky Alatau foothills and dry steppe to **Charyn Canyon** — Kazakhstan's most dramatic landscape, a 150km system of eroded gorges through red and orange limestone. The **Valley of Castles** section has the most impressive formations — columns, arches, and towers reminiscent of Bryce Canyon.
+Drive east from Almaty (3.5 hours) through the Zailiysky Alatau foothills and dry steppe to **[Charyn Canyon](/kazakhstan/charyn-canyon-guide)** — Kazakhstan's most dramatic landscape, a 150km system of eroded gorges through red and orange limestone. The **Valley of Castles** section has the most impressive formations — columns, arches, and towers reminiscent of Bryce Canyon.
 
 Walk the canyon floor (3km well-marked loop, easy terrain). The colours are best in the morning (when you arrive) or late afternoon. The canyon is 300m deep; the scale is striking from both rim and floor.
 

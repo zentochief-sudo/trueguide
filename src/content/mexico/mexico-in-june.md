@@ -10,7 +10,7 @@ tags: [Mexico, June, rainy season, green season, Oaxaca, low season, budget trav
 city: national
 ---
 
-June is when Mexico's calculus shifts. The dry season ends, the rains arrive, and with them a wave of travelers looking for lower prices and green landscapes. The rain is real but usually manageable — afternoon showers, not constant downpours. Mornings are reliably clear across most of the country. If you plan around the weather rather than fighting it, June delivers excellent value.
+June is when [Mexico](/mexico)'s calculus shifts. The dry season ends, the rains arrive, and with them a wave of travelers looking for lower prices and green landscapes. The rain is real but usually manageable — afternoon showers, not constant downpours. Mornings are reliably clear across most of the country. If you plan around the weather rather than fighting it, June delivers excellent value.
 
 ## Weather in June
 

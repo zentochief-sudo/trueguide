@@ -10,7 +10,7 @@ tags: [France, October, autumn, Burgundy, Alsace, Paris, Fontainebleau, wine har
 city: national
 ---
 
-October is France's autumn slide — the harvest is finishing, the summer crowds have fully dispersed, prices are dropping toward annual lows, and the landscape is turning gold. Burgundy's wine country is in its most intimate and available state. Alsace on the wine road in October is the most beautiful version of the region. Paris returns to something close to its actual self — galleries, bookshops, cafés occupied by Parisians. October is for travelers who value the country over the spectacle.
+October is [France](/france)'s autumn slide — the harvest is finishing, the summer crowds have fully dispersed, prices are dropping toward annual lows, and the landscape is turning gold. Burgundy's wine country is in its most intimate and available state. [Alsace](/france/alsace-guide) on the wine road in October is the most beautiful version of the region. [Paris](/france/paris-travel-guide) returns to something close to its actual self — galleries, bookshops, cafés occupied by Parisians. October is for travelers who value the country over the spectacle.
 
 ## Weather in October
 
@@ -22,7 +22,7 @@ October is France's autumn slide — the harvest is finishing, the summer crowds
 
 **Dordogne:** 11°C to 20°C. The walnut and chestnut harvest begins. The medieval village circuit is far less crowded than summer.
 
-**Normandy:** 9°C to 17°C. Autumn apple harvest — the cidre and calvados producers are at maximum activity. Impressionist coast views with October light.
+**[Normandy](/france/normandy-guide):** 9°C to 17°C. Autumn apple harvest — the cidre and calvados producers are at maximum activity. Impressionist coast views with October light.
 
 **Côte d'Azur:** 17°C to 24°C. The Mediterranean extending its warmth — the Riviera in October is warm enough for walking and outdoor dining, sea temperature still 20–22°C.
 
@@ -52,7 +52,7 @@ The Alsace wine road (Route des Vins d'Alsace) in October is France's most beaut
 
 ## The Forest of Fontainebleau
 
-The 25,000-hectare forest 60km south of Paris is the best autumn forest in France — more varied species than Versailles, more accessible than Alpine forests, and accessible by RER or train from Paris (45 minutes). October is peak color — the beeches, oaks, and birches turn simultaneously.
+The 25,000-hectare forest 60km south of Paris is the best autumn forest in France — more varied species than [Versailles](/france/versailles-guide), more accessible than Alpine forests, and accessible by RER or train from Paris (45 minutes). October is peak color — the beeches, oaks, and birches turn simultaneously.
 
 The Château de Fontainebleau — the royal hunting lodge preferred by Napoleon — is in the center of the forest and significantly less visited than Versailles. October visits are essentially private by comparison.
 

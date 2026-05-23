@@ -100,7 +100,7 @@ Using *sumimasen* before asking for directions or assistance signals respect in 
 
 **Gochisousama deshita** (ごちそうさまでした): Said after finishing a meal, to staff or a host, expressing gratitude for the meal. Often shortened to *gochisou-sama* in casual settings. The long form is correct in restaurants.
 
-These two phrases are the most important in Japanese food culture. Using them correctly immediately signals more cultural awareness than most foreign tourists demonstrate.
+These two phrases are the most important in [Japanese food](/japan/japanese-food-guide) culture. Using them correctly immediately signals more cultural awareness than most foreign tourists demonstrate.
 
 ---
 

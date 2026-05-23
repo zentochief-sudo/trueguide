@@ -10,15 +10,15 @@ tags: [Portugal, April, Easter, Carnation Revolution, April 25, Lisbon, Douro, s
 city: national
 ---
 
-April is Portugal in full spring — the country at its most vivid, most politically significant, and most rapidly filling with visitors. Easter brings Semana Santa programming to Braga and the religious cities. April 25 marks the Carnation Revolution — one of the most celebrated national holidays in Portugal, commemorating the 1974 peaceful coup that ended 48 years of dictatorship. And the Douro Valley is in its flowering peak. Crowds are building from April onward; the window between Easter and the May surge is the optimal April positioning.
+April is [Portugal](/portugal) in full spring — the country at its most vivid, most politically significant, and most rapidly filling with visitors. Easter brings Semana Santa programming to Braga and the religious cities. April 25 marks the Carnation Revolution — one of the most celebrated national holidays in Portugal, commemorating the 1974 peaceful coup that ended 48 years of dictatorship. And the [Douro Valley](/portugal/douro-valley-guide) is in its flowering peak. Crowds are building from April onward; the window between Easter and the May surge is the optimal April positioning.
 
 ## Weather in April
 
-**Lisbon:** 13°C to 20°C. Warm spring days, occasional showers. The city at its most beautiful — jacaranda trees blooming in the streets.
+**[Lisbon](/portugal/lisbon-guide):** 13°C to 20°C. Warm spring days, occasional showers. The city at its most beautiful — jacaranda trees blooming in the streets.
 
-**Porto:** 11°C to 18°C. Spring warmth arriving — the Douro wine region is in active growing season.
+**[Porto](/portugal/porto-guide):** 11°C to 18°C. Spring warmth arriving — the Douro wine region is in active growing season.
 
-**Algarve:** 16°C to 22°C. Beach season starting — sea temperature still cool (17–18°C) but warm enough for brave swimming. The coast is at its spring best.
+**[Algarve](/portugal/algarve-guide):** 16°C to 22°C. Beach season starting — sea temperature still cool (17–18°C) but warm enough for brave swimming. The coast is at its spring best.
 
 **Alentejo:** 13°C to 22°C. Warm, green plains at peak wildflower season. The spring light on the cork oak landscape is extraordinary.
 
@@ -73,7 +73,7 @@ Spring pricing — meaningfully above January-March but still below June-Septemb
 ## Practical Notes
 
 - **April 25 is a national holiday:** Government offices and many businesses close. Tourist infrastructure (restaurants, museums, transport) operates normally or with special programming.
-- **Booking Sintra in April:** Sintra — the UNESCO palace town — is extremely popular from Easter onward. Book the Pena Palace and Quinta da Regaleira timed entry online weeks ahead.
+- **Booking [Sintra](/portugal/sintra-guide) in April:** Sintra — the UNESCO palace town — is extremely popular from Easter onward. Book the Pena Palace and Quinta da Regaleira timed entry online weeks ahead.
 - **Algarve Easter:** The coastal towns begin their summer build from Easter. Beach clubs start opening.
 
 ## The Short Version

@@ -12,7 +12,7 @@ city: boston
 
 Boston is the smallest metropolitan area among the US World Cup host cities and the one with the most concentrated historical identity. The American Revolution, the oldest universities in the country (Harvard, MIT), some of the best hospitals in the world, and a food culture defined by the North Atlantic seafood of the New England coast — Boston is a compact, walkable city that rewards time spent on foot.
 
-The stadium situation requires attention: Gillette Stadium is in Foxborough, 28 miles south of Boston. Most visitors base in Boston and commute to the matches.
+The stadium situation requires attention: [Gillette Stadium](/united-states/gillette-stadium-guide) is in Foxborough, 28 miles south of Boston. Most visitors base in Boston and commute to the matches.
 
 ---
 

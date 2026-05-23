@@ -76,7 +76,7 @@ The Huwon is different in every season, and the tour is worth planning around:
 
 ## Getting There
 
-**Anguk Station** (Line 3), Exit 3 — 10-minute walk to the main palace entrance. This is the same station for Gyeongbokgung Palace and the Bukchon Hanok Village, making the area logical for a combined visit.
+**Anguk Station** (Line 3), Exit 3 — 10-minute walk to the main palace entrance. This is the same station for [Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide) and the Bukchon Hanok Village, making the area logical for a combined visit.
 
 **Opening hours**: 9am–6pm (9am–5pm in winter, November–January). Closed Mondays.
 

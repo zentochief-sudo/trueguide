@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Seven days is just enough time to fall deeply in love with Ireland — the green hills, the ancient castles, the pubs full of music and laughter, and the coastline that feels like the edge of the world. This itinerary balances Dublin's vibrant city life with the raw beauty of the countryside, hitting the unmissable stops without rushing.
+Seven days is just enough time to fall deeply in love with [Ireland](/ireland) — the green hills, the ancient castles, the pubs full of music and laughter, and the coastline that feels like the edge of the world. This itinerary balances [Dublin](/ireland/dublin-travel-guide)'s vibrant city life with the raw beauty of the countryside, hitting the unmissable stops without rushing.
 
 ## Day 1 – Dublin: Arrival & City Exploration
 
@@ -44,9 +44,9 @@ After lunch at one of Kilkenny's excellent craft-beer pubs, continue south to th
 
 ## Day 5 – Ring of Kerry & Killarney
 
-Drive to **Killarney** in County Kerry, your base for the next two nights. The town itself is charming, but the real draw is the surrounding national park.
+Drive to **[Killarney](/ireland/killarney-travel-guide)** in County Kerry, your base for the next two nights. The town itself is charming, but the real draw is the surrounding national park.
 
-Drive the **Ring of Kerry**, a 179km scenic loop with ocean views, tiny fishing villages, and mountain passes. Key stops include **Moll's Gap**, the colourful village of **Sneem**, and **Ladies' View**, which offers one of the best panoramas in Kerry.
+Drive the **[Ring of Kerry](/ireland/ring-of-kerry-guide)**, a 179km scenic loop with ocean views, tiny fishing villages, and mountain passes. Key stops include **Moll's Gap**, the colourful village of **Sneem**, and **Ladies' View**, which offers one of the best panoramas in Kerry.
 
 Back in Killarney, the old-town pubs along New Street come alive at night with traditional music sessions — the perfect way to end the day.
 

@@ -12,7 +12,7 @@ city: lima
 
 Lima sits on a coastal desert, built between the brown cliffs above the Pacific and the ridges of the Andean foothills — a city of 11 million that receives virtually no rain (0.2 mm per year) but is perpetually wrapped in garúa (coastal fog) from May to November. It was founded by Francisco Pizarro in 1535, became the richest colonial city in the Americas, and is now home to the finest restaurant scene in Latin America.
 
-Most visitors spend 1–2 nights in Lima as a gateway to Cusco and Machu Picchu. This undersells the city considerably — the pre-Columbian archaeology, the colonial architecture, and the food alone justify a 3–4 night stay.
+Most visitors spend 1–2 nights in Lima as a gateway to [Cusco](/[peru](/peru)/cusco-guide) and [Machu Picchu](/peru/machu-picchu-guide). This undersells the city considerably — the pre-Columbian archaeology, the colonial architecture, and the food alone justify a 3–4 night stay.
 
 ---
 

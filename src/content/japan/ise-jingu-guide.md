@@ -18,17 +18,17 @@ The shrine's most remarkable practice: the main buildings of both grand sanctuar
 
 ## Getting There
 
-**From Nagoya**: 1 hour 30 minutes by Kintetsu Limited Express to Ise-shi Station (¥3,520). The most direct connection.
+**From [Nagoya](/japan/nagoya-guide)**: 1 hour 30 minutes by Kintetsu Limited Express to Ise-shi Station (¥3,520). The most direct connection.
 
-**From Osaka (Namba)**: 2 hours by Kintetsu Limited Express (¥3,700). The Kintetsu Ise-Shima Limited Express runs direct.
+**From [Osaka](/japan/osaka-guide) (Namba)**: 2 hours by Kintetsu Limited Express (¥3,700). The Kintetsu Ise-Shima Limited Express runs direct.
 
-**From Kyoto**: 2 hours by Kintetsu from Kyoto Station (¥3,940).
+**From [Kyoto](/japan/kyoto-guide)**: 2 hours by Kintetsu from Kyoto Station (¥3,940).
 
 **JR option**: Rapid Mie from Nagoya, 1 hour 40 minutes. JR Pass valid.
 
 **At Ise**: The Geku (Outer Shrine) is 5 minutes walk from Ise-shi Station. The Naiku (Inner Shrine) is 6 km from Geku — by bus (¥430, 15 minutes), taxi, or the Naiku access road on foot. Most visitors take the bus.
 
-**Ise-Kumano-Wakayama Area Pass**: Covers the Kintetsu and JR connections from Osaka/Nagoya to Ise and onward to the Kumano Kodo region. Practical for a circuit trip.
+**Ise-Kumano-Wakayama Area Pass**: Covers the Kintetsu and JR connections from Osaka/Nagoya to Ise and onward to the [Kumano Kodo](/japan/kumano-kodo-guide) region. Practical for a circuit trip.
 
 ---
 
@@ -80,7 +80,7 @@ The shopping street is designed to look like Edo-period Ise, which it does compe
 
 ## Meotoiwa — Wedded Rocks
 
-20 minutes from Ise by local train (Kintetsu to Futaminoura): two rocks offshore connected by a thick *shimenawa* (sacred rope), representing the divine couple Izanagi and Izanami, with Mount Fuji visible behind them on clear winter days. The sacred rope is renewed three times annually in a ceremony. The rocks and the torii gate framed between them represent a specific Shinto aesthetic of natural objects designated as sacred through ritual. Worth 45 minutes on the way to or from Ise.
+20 minutes from Ise by local train (Kintetsu to Futaminoura): two rocks offshore connected by a thick *shimenawa* (sacred rope), representing the divine couple Izanagi and Izanami, with [Mount Fuji](/japan/mount-fuji-guide) visible behind them on clear winter days. The sacred rope is renewed three times annually in a ceremony. The rocks and the torii gate framed between them represent a specific Shinto aesthetic of natural objects designated as sacred through ritual. Worth 45 minutes on the way to or from Ise.
 
 ---
 
@@ -92,7 +92,7 @@ The shopping street is designed to look like Edo-period Ise, which it does compe
 
 **The empty plots**: The specific experience of standing next to the empty plot knowing it will be occupied in 2033 — and that the current buildings will be gone then — is the thing that makes Ise unlike any other shrine in Japan. The impermanence is not a metaphor; it is the architectural program.
 
-**Combine with**: Ise Jingu and Koyasan together form the most significant Shinto-Buddhist pilgrimage circuit in Japan (connected historically by the Iseji route of the Kumano Kodo). Three days covers both with time for the route connection.
+**Combine with**: Ise Jingu and [Koyasan](/japan/koyasan-guide) together form the most significant Shinto-Buddhist pilgrimage circuit in Japan (connected historically by the Iseji route of the Kumano Kodo). Three days covers both with time for the route connection.
 
 ---
 

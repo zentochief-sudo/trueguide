@@ -10,13 +10,13 @@ tags: [Spain, December, Christmas, New Year, Puerta del Sol, Canary Islands, win
 city: national
 ---
 
-December is Spain's Christmas season — and the Spanish do Christmas with considerable enthusiasm. Nativity scenes (belenes) appear in churches, public squares, and storefronts. Christmas lights illuminate every city center. And the month culminates in New Year's Eve at the Puerta del Sol in Madrid — one of Europe's great public celebrations — followed by the Three Kings parade on January 5–6, the true climax of the season. For sun seekers, the Canary Islands are at peak winter warmth.
+December is [Spain](/spain)'s Christmas season — and the Spanish do Christmas with considerable enthusiasm. Nativity scenes (belenes) appear in churches, public squares, and storefronts. Christmas lights illuminate every city center. And the month culminates in New Year's Eve at the Puerta del Sol in Madrid — one of Europe's great public celebrations — followed by the Three Kings parade on January 5–6, the true climax of the season. For sun seekers, the Canary Islands are at peak winter warmth.
 
 ## Weather in December
 
 **Madrid:** 4°C to 12°C. Cold, sometimes foggy. Snow is possible but rare. The city is beautiful decorated for Christmas. Museums and cultural life fully operational.
 
-**Barcelona:** 9°C to 15°C. Mild but grey by Catalan standards — occasional rain. The Christmas market on Plaça de Sant Jaume is excellent. Sea too cold for swimming.
+**[Barcelona](/spain/barcelona-travel-guide):** 9°C to 15°C. Mild but grey by Catalan standards — occasional rain. The Christmas market on Plaça de Sant Jaume is excellent. Sea too cold for swimming.
 
 **Seville:** 9°C to 19°C. The warmest mainland Christmas in Spain. Outdoor café culture continues even in December in Seville. Orange trees fully loaded with fruit.
 

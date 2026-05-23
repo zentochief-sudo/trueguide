@@ -10,19 +10,19 @@ tags: [Peru, July, Independence Day, peak season, Machu Picchu, Inca Trail, Cusc
 city: national
 ---
 
-July is Peru's most visited month. Independence Day on July 28 brings national celebrations. The dry season is at its most reliable. Machu Picchu processes its maximum daily visitor count. And every reputable Inca Trail permit for July was allocated months ago. This is Peru at its most internationally celebrated and its most crowded. The landscape and ancient sites are extraordinary — you're sharing them with everyone else who had the same idea.
+July is [Peru](/peru)'s most visited month. Independence Day on July 28 brings national celebrations. The dry season is at its most reliable. [Machu Picchu](/peru/machu-picchu-guide) processes its maximum daily visitor count. And every reputable Inca Trail permit for July was allocated months ago. This is Peru at its most internationally celebrated and its most crowded. The landscape and ancient sites are extraordinary — you're sharing them with everyone else who had the same idea.
 
 ## Weather & Conditions
 
-**Cusco:** 7–19°C. The driest month. Clear days, very cold nights (0°C or below). Frost at higher altitudes.
+**[Cusco](/peru/cusco-guide):** 7–19°C. The driest month. Clear days, very cold nights (0°C or below). Frost at higher altitudes.
 
 **Machu Picchu:** 12–22°C. Mostly clear. The occasional afternoon cloud is photogenic; the morning is reliably clear.
 
-**Lima:** 12–18°C. Coolest month. The garúa coastal fog is heavy. Lima's Miraflores and Barranco neighborhoods are lively despite the grey.
+**[Lima](/peru/lima-guide):** 12–18°C. Coolest month. The garúa coastal fog is heavy. Lima's Miraflores and Barranco neighborhoods are lively despite the grey.
 
-**Amazon (Madre de Dios):** Dry season. The rivers are at their lowest. Wildlife concentrates along river banks and oxbow lakes.
+**[Amazon](/peru/amazon-guide) (Madre de Dios):** Dry season. The rivers are at their lowest. Wildlife concentrates along river banks and oxbow lakes.
 
-**Lake Titicaca:** 3–14°C. Clear, cold, and beautiful. Uros Islands and Amantani Island are at their best.
+**[Lake Titicaca](/peru/lake-titicaca-guide):** 3–14°C. Clear, cold, and beautiful. Uros Islands and Amantani Island are at their best.
 
 ## What to Do
 
@@ -32,9 +32,9 @@ July is Peru's most visited month. Independence Day on July 28 brings national c
 
 **Amazon dry season — Tambopata National Reserve:** July's low water levels mean the Amazon's wildlife is concentrated and accessible. The Macaw Clay Lick at Colpa Chuncho (the world's largest macaw clay lick, with hundreds of macaws daily) is accessible by lodge from Puerto Maldonado. Giant river otters in the oxbow lakes are reliable sightings.
 
-**Colca Canyon trek:** The 2-day canyon trek between Cabanaconde and Sangalle (oasis village at the canyon bottom) is excellent in July — dry, clear, and the condors are reliably at the Cruz del Condor viewpoint by 9am.
+**[Colca Canyon](/peru/colca-canyon-guide) trek:** The 2-day canyon trek between Cabanaconde and Sangalle (oasis village at the canyon bottom) is excellent in July — dry, clear, and the condors are reliably at the Cruz del Condor viewpoint by 9am.
 
-**Sacred Valley exploration:** The valley towns of Moray (experimental Inca agricultural terraces), Maras salt pans (a Inca salt extraction system still in operation), and Ollantaytambo (the best-preserved Inca town in existence) are all in perfect July conditions. July is the busiest month in the valley; early morning visits to Ollantaytambo and Moray avoid the midday tour group rush.
+**[Sacred Valley](/peru/sacred-valley-guide) exploration:** The valley towns of Moray (experimental Inca agricultural terraces), Maras salt pans (a Inca salt extraction system still in operation), and Ollantaytambo (the best-preserved Inca town in existence) are all in perfect July conditions. July is the busiest month in the valley; early morning visits to Ollantaytambo and Moray avoid the midday tour group rush.
 
 ## Festivals & Events
 

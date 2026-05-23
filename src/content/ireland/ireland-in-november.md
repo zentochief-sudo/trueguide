@@ -10,13 +10,13 @@ tags: [Ireland, November, winter, budget, low season, Dublin, Cork, pubs]
 city: national
 ---
 
-November is the month to be honest: it's cold, it's wet, and it gets dark early. The rural tourism infrastructure is largely closed. The scenic coasts of Kerry and Connemara are being battered by Atlantic storms. But Dublin and Cork are fully operational, the pub culture is genuinely local and warm, and the accommodation prices hit their annual floor. November is for travelers who want Ireland on Ireland's terms, not their own.
+November is the month to be honest: it's cold, it's wet, and it gets dark early. The rural tourism infrastructure is largely closed. The scenic coasts of Kerry and Connemara are being battered by Atlantic storms. But [Dublin](/ireland/dublin-travel-guide) and [Cork](/ireland/cork-guide) are fully operational, the pub culture is genuinely local and warm, and the accommodation prices hit their annual floor. November is for travelers who want [Ireland](/ireland) on Ireland's terms, not their own.
 
 ## Weather & Conditions
 
 **Dublin:** 5–10°C. Frequently wet and grey. Wind adds a chill that makes outdoor activity less inviting. Days are about 8–9 hours long by month's end.
 
-**West Coast:** 5–10°C. The Atlantic winter sets in. Galway Bay is rough. The Cliffs of Moher in November storm spray is extraordinary but genuinely challenging to stand in.
+**West Coast:** 5–10°C. The Atlantic winter sets in. [Galway](/ireland/galway-guide) Bay is rough. The Cliffs of Moher in November storm spray is extraordinary but genuinely challenging to stand in.
 
 **Kerry/Cork:** 6–11°C. The Gulf Stream keeps the southwest marginally milder. November storms are dramatic along the Beara and Mizen peninsulas.
 

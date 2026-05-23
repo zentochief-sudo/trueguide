@@ -69,7 +69,7 @@ The most common approach for visitors with rental cars or staying in nearby area
 
 **Main routes**:
 - From South/Miami: I-95 North to NW 199th Street exit, west to stadium
-- From the east (Aventura/North Miami Beach): I-95 North or Biscayne Boulevard North to NW 199th Street
+- From the east (Aventura/North [Miami Beach](/united-states/miami-beach-guide)): I-95 North or Biscayne Boulevard North to NW 199th Street
 - From Fort Lauderdale: Florida Turnpike South or I-95 South to NW 199th Street
 
 **Parking**: $30–50 pre-purchased online (via Dolphins or StubHub parking). On-the-day lots open but cost more. The complex has approximately 30,000 parking spaces across multiple lots — find your lot number in your confirmation and note it before you leave your car.

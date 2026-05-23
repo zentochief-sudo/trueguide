@@ -10,7 +10,7 @@ tags: [Réunion, hiking, Mafate, Cilaos, Salazie, GR R1, volcano, Piton de la Fo
 city: saint-denis
 ---
 
-Réunion is a volcanic island in the Indian Ocean — a French overseas département 800 km east of Madagascar — and it contains one of the most dramatic hiking landscapes available anywhere in the world. Three spectacular caldera cirques (Mafate, Cilaos, and Salazie) cut into the volcanic interior; an active volcano (Piton de la Fournaise, one of the most active on earth) rises at the island's eastern end; and two long-distance trails (GR R1 and GR R2) traverse the entire island through terrain that ranges from subtropical forest to moon-like lava fields.
+Réunion is a volcanic island in the Indian Ocean — a French overseas département 800 km east of Madagascar — and it contains one of the most dramatic hiking landscapes available anywhere in the world. Three spectacular caldera cirques (Mafate, [Cilaos](/reunion/cilaos-guide), and Salazie) cut into the volcanic interior; an active volcano ([Piton de la Fournaise](/[reunion](/reunion/reunion-travel-guide)/piton-de-la-fournaise-guide), one of the most active on earth) rises at the island's eastern end; and two long-distance trails (GR R1 and GR R2) traverse the entire island through terrain that ranges from subtropical forest to moon-like lava fields.
 
 For hikers, Réunion is in the tier of destinations you return to.
 
@@ -34,9 +34,9 @@ Mafate's settlements — Marla, La Nouvelle, Ilet à Malheur, Grand Place — ar
 
 **Access**: By road (2 hours from Saint-Denis on the island's most winding mountain road, 400+ hairpin bends). Or on foot from the coast.
 
-Cilaos is the most accessible cirque for casual visitors — a village of 5,000 with hot springs (Thermes de Cilaos), restaurants, and the production of Réunion's unique lentilles de Cilaos (tiny, nutty mountain lentils) and a small amount of wine (*vin de Cilaos* — the only wine produced in France's Indian Ocean territories).
+Cilaos is the most accessible cirque for casual visitors — a village of 5,000 with hot springs (Thermes de Cilaos), restaurants, and the production of Réunion's unique lentilles de Cilaos (tiny, nutty mountain lentils) and a small amount of wine (*vin de Cilaos* — the only wine produced in [France](/france)'s Indian Ocean territories).
 
-**Piton des Neiges from Cilaos**: The highest peak in the Indian Ocean (3,070m) is climbed most commonly from Cilaos. The standard route: Cilaos → Caverne Dufour (mountain hut, night 1, book in advance) → summit pre-dawn → descent back to Cilaos. Total: 2 days, 20+ km, 2,200m elevation gain. Physical fitness essential; no technical equipment required.
+**[Piton des Neiges](/reunion/piton-des-neiges-guide) from Cilaos**: The highest peak in the Indian Ocean (3,070m) is climbed most commonly from Cilaos. The standard route: Cilaos → Caverne Dufour (mountain hut, night 1, book in advance) → summit pre-dawn → descent back to Cilaos. Total: 2 days, 20+ km, 2,200m elevation gain. Physical fitness essential; no technical equipment required.
 
 ### Cirque de Salazie — Waterfalls & Lush Valley
 

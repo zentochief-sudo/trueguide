@@ -10,7 +10,7 @@ tags: [Kazakhstan, May, Almaty, hiking, Tian Shan, spring, ideal season]
 city: national
 ---
 
-May is Kazakhstan's finest month for travel. Temperatures across the south are warm but not hot. The Tian Shan National Park above Almaty opens its hiking season. The steppe is still green from spring rains. And the city of Almaty — surrounded by mountains and famous for its apple orchards (the city's name derives from alma, apple) — is in full spring bloom. May is when Kazakhstan becomes a genuinely welcoming destination.
+May is [Kazakhstan](/kazakhstan)'s finest month for travel. Temperatures across the south are warm but not hot. The Tian Shan National Park above [Almaty](/kazakhstan/almaty-travel-guide) opens its hiking season. The steppe is still green from spring rains. And the city of Almaty — surrounded by mountains and famous for its apple orchards (the city's name derives from alma, apple) — is in full spring bloom. May is when Kazakhstan becomes a genuinely welcoming destination.
 
 ## Weather & Conditions
 
@@ -18,15 +18,15 @@ May is Kazakhstan's finest month for travel. Temperatures across the south are w
 
 **Tian Shan foothills (above Almaty):** 8–18°C. Hiking season opening at lower and mid-elevations.
 
-**Astana:** 8–18°C. Finally comfortable. Spring arrives in the north.
+**[Astana](/kazakhstan/astana-guide):** 8–18°C. Finally comfortable. Spring arrives in the north.
 
-**Charyn Canyon:** 16–26°C. Still comfortable before summer heat arrives.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 16–26°C. Still comfortable before summer heat arrives.
 
 **Steppe:** 12–22°C. Green but beginning to dry out.
 
 ## What to Do
 
-**Tian Shan National Park hiking:** The mountains above Almaty — reaching 4,973m at Talgar Peak — begin opening their hiking routes in May. The Big Almaty Lake route (12km round trip to a spectacular mountain lake) is fully accessible. The Butakov Waterfall trail is a classic beginner route. The Medeo-Shymbulak gondola provides quick access to mid-elevation starting points.
+**Tian Shan National Park hiking:** The mountains above Almaty — reaching 4,973m at Talgar Peak — begin opening their hiking routes in May. The [Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) route (12km round trip to a spectacular mountain lake) is fully accessible. The Butakov Waterfall trail is a classic beginner route. The Medeo-Shymbulak gondola provides quick access to mid-elevation starting points.
 
 **Three Lakes trek (Kolsai Lakes):** Three spectacularly blue mountain lakes at 1,818m, 2,252m, and 2,850m in the Tian Shan foothills 280km from Almaty. The connecting trail between the lower two lakes (12km) is excellent in May. Kazakhstan's most beautiful hiking destination.
 

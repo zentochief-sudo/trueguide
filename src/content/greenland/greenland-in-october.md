@@ -10,19 +10,19 @@ tags: [Greenland, October, Northern Lights, aurora, winter, Ilulissat, Nuuk, Kan
 city: national
 ---
 
-October is Greenland's prime aurora month. The nights are long (16+ hours of darkness), temperatures are cold but not extreme (-5 to -15°C), and solar activity — the primary driver of aurora intensity — aligns with the equinox period to produce some of the year's most active aurora events. The summer boat tours have mostly closed. Most east Greenland access has ended. Dog sled season hasn't started. October is a transitional month where Greenland offers its most spectacular phenomenon (the aurora) while the country prepares for winter closure.
+October is [Greenland](/greenland)'s prime aurora month. The nights are long (16+ hours of darkness), temperatures are cold but not extreme (-5 to -15°C), and solar activity — the primary driver of aurora intensity — aligns with the equinox period to produce some of the year's most active aurora events. The summer boat tours have mostly closed. Most [east Greenland](/greenland/east-greenland-guide) access has ended. Dog sled season hasn't started. October is a transitional month where Greenland offers its most spectacular phenomenon (the aurora) while the country prepares for winter closure.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** -2 to -10°C. Nights approaching 18 hours. Sea ice beginning to form.
 
-**Nuuk:** 0 to -6°C. Short days. First frosts.
+**[Nuuk](/greenland/nuuk-travel-guide):** 0 to -6°C. Short days. First frosts.
 
 **Kangerlussuaq:** -5 to -18°C. Clear, cold, excellent aurora conditions.
 
-**Sisimiut:** -3 to -12°C. First snow on the ground.
+**[Sisimiut](/greenland/sisimiut-guide):** -3 to -12°C. First snow on the ground.
 
-**South Greenland:** 2 to -4°C. Still the mildest. Some boat access possible.
+**[South Greenland](/greenland/south-greenland-guide):** 2 to -4°C. Still the mildest. Some boat access possible.
 
 ## What to Do
 

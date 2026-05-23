@@ -18,7 +18,7 @@ It is genuinely one of the best ways to spend an evening in Korea — functional
 
 ## What a Jjimjilbang Contains
 
-**Bathing section (gender-separated)**: The main pools and shower area, accessed nude (same rules as Japanese onsen). Multiple pools at different temperatures — cold pool (15–18°C), warm pool (38–40°C), hot pool (42–44°C), and sometimes specialty pools (milk bath, herb bath, seawater). Showers and *Italy towel* scrub supplies (the rough viscose cloth used for the Korean body scrub).
+**Bathing section (gender-separated)**: The main pools and shower area, accessed nude (same rules as Japanese onsen). Multiple pools at different temperatures — cold pool (15–18°C), warm pool (38–40°C), hot pool (42–44°C), and sometimes specialty pools (milk bath, herb bath, seawater). Showers and *[Italy](/italy) towel* scrub supplies (the rough viscose cloth used for the Korean body scrub).
 
 **Sauna rooms (mixed-gender, with clothes)**: The heated rooms in the common area, where you wear the facility uniform. Multiple room types:
 
@@ -94,9 +94,9 @@ The overnight jjimjilbang is used in Korea by:
 
 ## Regional Variation
 
-The *haeundae** area of Busan* has multiple large jjimjilbang near the beach — popular for post-beach evenings. The beach + evening jjimjilbang is a standard Busan summer routine.
+The *haeundae** area of [Busan](/korea/busan-guide)* has multiple large jjimjilbang near the beach — popular for post-beach evenings. The beach + evening jjimjilbang is a standard Busan summer routine.
 
-**Gyeongju** and smaller cities have traditional *mogyoktang* (older-style bathhouses without the sauna room complexes) that are the less touristic version — functional public bathing at ₩5,000–7,000, used primarily by older residents.
+**[Gyeongju](/korea/gyeongju-guide)** and smaller cities have traditional *mogyoktang* (older-style bathhouses without the sauna room complexes) that are the less touristic version — functional public bathing at ₩5,000–7,000, used primarily by older residents.
 
 ---
 

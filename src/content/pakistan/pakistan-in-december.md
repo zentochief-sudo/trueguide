@@ -10,7 +10,7 @@ tags: [Pakistan, December, Lahore, winter, cultural circuit, Mughal, peak season
 city: national
 ---
 
-December matches November for cultural circuit excellence in Pakistan. Lahore and Islamabad are at their most comfortable — cool, clear, and fully operational. The Mughal monuments are at their finest under winter light. The northern mountains are locked in winter and inaccessible to tourism. For the visitor whose Pakistan is Lahore, the Indus Valley, and the cultural heartland rather than K2 and the Karakoram, December is as good as the country gets.
+December matches November for cultural circuit excellence in [Pakistan](/pakistan). [Lahore](/pakistan/lahore-guide) and [Islamabad](/pakistan/islamabad-guide) are at their most comfortable — cool, clear, and fully operational. The Mughal monuments are at their finest under winter light. The northern mountains are locked in winter and inaccessible to tourism. For the visitor whose Pakistan is Lahore, the Indus Valley, and the cultural heartland rather than K2 and the Karakoram, December is as good as the country gets.
 
 ## Weather & Conditions
 

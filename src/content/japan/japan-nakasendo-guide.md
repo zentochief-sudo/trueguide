@@ -10,7 +10,7 @@ tags: [Nakasendo, Tsumago, Magome, Kiso Valley, post town, hiking Japan, Edo roa
 city: national
 ---
 
-The Nakasendo (*中山道* — "Central Mountain Road") was one of the *Gokaido* (Five Roads) maintained by the Tokugawa shogunate for official communication between Edo (Tokyo) and Kyoto. The road crossed the mountainous interior of central Honshu, passing through 69 *shukuba* (post towns) where travelers rested and changed horses. Between the mountain passes of Kiso, the road descended through the Kiso Valley alongside the Kiso River — a section of particular difficulty and particular beauty.
+The Nakasendo (*中山道* — "Central Mountain Road") was one of the *Gokaido* (Five Roads) maintained by the Tokugawa shogunate for official communication between Edo ([Tokyo](/japan/tokyo-guide)) and [Kyoto](/japan/kyoto-guide). The road crossed the mountainous interior of central Honshu, passing through 69 *shukuba* (post towns) where travelers rested and changed horses. Between the mountain passes of Kiso, the road descended through the Kiso Valley alongside the Kiso River — a section of particular difficulty and particular beauty.
 
 Two of those 69 post towns — **Tsumago** and **Magome** — survive in exceptional condition as preserved Edo-period streetscapes. The 8km mountain path between them, which bypasses the modern road and follows the original route through forest, is the most historically authentic walk in Japan.
 
@@ -63,7 +63,7 @@ This allows walking with a light daypack rather than full luggage — the most p
 
 ### Access to Magome
 
-**JR from Nagoya**: Shinkansen or limited express to Nakatsugawa Station (50 minutes), then bus to Magome (30 minutes, ¥590). Multiple buses daily.
+**JR from [Nagoya](/japan/nagoya-guide)**: Shinkansen or limited express to Nakatsugawa Station (50 minutes), then bus to Magome (30 minutes, ¥590). Multiple buses daily.
 
 **JR from Tokyo**: Shinkansen to Nagoya, then connect to Nakatsugawa.
 

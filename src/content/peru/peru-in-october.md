@@ -10,17 +10,17 @@ tags: [Peru, October, dry season end, Lord of Miracles, Lima, Inca Trail, Machu 
 city: national
 ---
 
-October marks the closing of Peru's highland dry season. The first rains of the approaching wet season arrive in Cusco — typically light and intermittent at first, building through November. The Inca Trail is still operational and in good condition in October, but the window is narrowing. In Lima, the Lord of Miracles (Señor de los Milagros) procession — the largest religious procession in Latin America — fills the streets with purple-clad devotees.
+October marks the closing of [Peru](/peru)'s highland dry season. The first rains of the approaching wet season arrive in [Cusco](/peru/cusco-guide) — typically light and intermittent at first, building through November. The Inca Trail is still operational and in good condition in October, but the window is narrowing. In [Lima](/peru/lima-guide), the Lord of Miracles (Señor de los Milagros) procession — the largest religious procession in Latin America — fills the streets with purple-clad devotees.
 
 ## Weather & Conditions
 
 **Cusco:** 9–21°C. The dry season ends in October — early rains arrive in the second half of the month. Mornings are still frequently clear; afternoons bring increasing cloud.
 
-**Machu Picchu:** 13–23°C. Still largely clear in October, with more afternoon cloud than September.
+**[Machu Picchu](/peru/machu-picchu-guide):** 13–23°C. Still largely clear in October, with more afternoon cloud than September.
 
 **Lima:** 16–22°C. Spring arrives on the coast — the garúa lifts and the first sunny days of the season appear. Lima's coast becomes pleasant in late October.
 
-**Amazon:** Water levels beginning to rise as rains arrive upstream.
+**[Amazon](/peru/amazon-guide):** Water levels beginning to rise as rains arrive upstream.
 
 **Arequipa:** Dry, sunny, and clear. Arequipa is at its best.
 
@@ -32,9 +32,9 @@ October marks the closing of Peru's highland dry season. The first rains of the 
 
 **Inca Trail — last reliable window:** The trail is still excellent in early-to-mid October. By late October, the first rains are making the sections toward Machu Picchu increasingly muddy. Book for October if you missed the July–September window.
 
-**Arequipa and volcano exploration:** October's dry, clear conditions make the Santa Catalina Monastery and the surrounding landscape around Arequipa excellent. The Misti volcano (5,822m) can be climbed with a guide in clear October conditions. Colca Canyon condors at Cruz del Condor in October are reliable.
+**Arequipa and volcano exploration:** October's dry, clear conditions make the Santa Catalina Monastery and the surrounding landscape around Arequipa excellent. The Misti volcano (5,822m) can be climbed with a guide in clear October conditions. [Colca Canyon](/peru/colca-canyon-guide) condors at Cruz del Condor in October are reliable.
 
-**Nazca Lines (year-round, ideal in dry months):** The coast is dry year-round. October's improving Lima weather makes the Lima-Nasca journey more comfortable. Overflights from Nasca airport are excellent — 30-minute circuits give clear views of the hummingbird, spider, monkey, and the enormous human-like Astronaut figure.
+**[Nazca Lines](/peru/nazca-lines-guide) (year-round, ideal in dry months):** The coast is dry year-round. October's improving Lima weather makes the Lima-Nasca journey more comfortable. Overflights from Nasca airport are excellent — 30-minute circuits give clear views of the hummingbird, spider, monkey, and the enormous human-like Astronaut figure.
 
 ## Festivals & Events
 

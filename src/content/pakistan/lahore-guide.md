@@ -10,7 +10,7 @@ tags: [Lahore, Pakistan, Mughal, Badshahi Mosque, Lahore Fort, food, Sufi music,
 city: lahore
 ---
 
-Lahore is Pakistan's cultural capital — and by most measures, one of the most historically layered cities in South Asia. For over three centuries, it was the second city of the Mughal Empire, producing monuments that rank among the finest examples of Islamic architecture in the world. The Lahore Fort, the Badshahi Mosque, the Shalimar Gardens, and the Wazir Khan Mosque are all here — and all are dramatically undervisited by Western travelers who haven't yet discovered that Pakistan's major monuments are, for now, accessible at a fraction of the cost and crowds of their equivalents in India.
+Lahore is [Pakistan](/pakistan)'s cultural capital — and by most measures, one of the most historically layered cities in South Asia. For over three centuries, it was the second city of the Mughal Empire, producing monuments that rank among the finest examples of Islamic architecture in the world. The Lahore Fort, the Badshahi Mosque, the Shalimar Gardens, and the Wazir Khan Mosque are all here — and all are dramatically undervisited by Western travelers who haven't yet discovered that Pakistan's major monuments are, for now, accessible at a fraction of the cost and crowds of their equivalents in [India](/india).
 
 ---
 
@@ -68,7 +68,7 @@ Non-Muslim visitors are generally welcomed respectfully. Women should cover head
 
 ## Practical Notes
 
-**Getting to Lahore**: Allama Iqbal International Airport (LHE) with connections from Dubai, London, and major Asian hubs. Lahore is also connected by the Grand Trunk Road and Lahore–Islamabad Motorway (3.5 hours by car or bus).
+**Getting to Lahore**: Allama Iqbal International Airport (LHE) with connections from Dubai, London, and major Asian hubs. Lahore is also connected by the Grand Trunk Road and Lahore–[Islamabad](/pakistan/islamabad-guide) Motorway (3.5 hours by car or bus).
 
 **Getting around**: Rickshaws (negotiate fare before riding; PKR 100–300 for most inner-city trips) or the Lahore Metro (Orange Line, opened 2020). The Walled City and main monuments are concentrated enough that walking is possible for a half-day.
 

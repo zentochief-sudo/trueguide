@@ -34,7 +34,7 @@ The most direct entry — a 3-hour walk from the Dos-d'Âne roadhead (north Réu
 **First village**: Ilet-à-Bourse or La Nouvelle depending on your descent path.
 
 ### From Cilaos (Brèche de Mafate, south)
-The most scenic approach — a high-altitude traverse over the Brèche de Mafate (2,010m) from the Cilaos side, descending into the cirque from the south. This approach provides the most dramatic entry — the view from the pass into the cirque with La Nouvelle visible below is the classic Mafate arrival image.
+The most scenic approach — a high-altitude traverse over the Brèche de Mafate (2,010m) from the [Cilaos](/reunion/cilaos-guide) side, descending into the cirque from the south. This approach provides the most dramatic entry — the view from the pass into the cirque with La Nouvelle visible below is the classic Mafate arrival image.
 
 **Access from Cilaos**: 3 hours from Cilaos to the pass, 2 additional hours down to La Nouvelle.
 
@@ -54,7 +54,7 @@ The largest and most central village in Mafate — a community of approximately 
 **Gîtes**: 5–6 gîtes with demi-pension (dinner + breakfast). Book well in advance for weekends and holiday periods. The food quality at Mafate gîtes is consistently good — carri, rougail, lentils, home-grown vegetables.
 
 ### Marla (1,641m)
-The highest and most alpine of the main Mafate villages — at the southern edge of the cirque at significant altitude, with views south toward Piton des Neiges. Cooler than La Nouvelle; more often in cloud. Fewer gîtes; wilder character.
+The highest and most alpine of the main Mafate villages — at the southern edge of the cirque at significant altitude, with views south toward [Piton des Neiges](/[reunion](/reunion/reunion-travel-guide)/piton-des-neiges-guide). Cooler than La Nouvelle; more often in cloud. Fewer gîtes; wilder character.
 
 ### Ilet-à-Bourse (1,088m)
 Northeast of La Nouvelle — a smaller, quieter village with a more traditional character. Good for those wanting to avoid La Nouvelle's relative bustle.

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Thailand has long been one of the world's great value destinations. You can eat exceptionally well, stay comfortably, and experience extraordinary culture and nature for a fraction of European costs. But costs have risen in Bangkok and island resorts — this guide reflects current prices.
+[Thailand](/thailand) has long been one of the world's great value destinations. You can eat exceptionally well, stay comfortably, and experience extraordinary culture and nature for a fraction of European costs. But costs have risen in [Bangkok](/thailand/bangkok-guide) and island resorts — this guide reflects current prices.
 
 ## Quick Summary
 
@@ -25,7 +25,7 @@ Thailand has long been one of the world's great value destinations. You can eat 
 
 ## Accommodation
 
-**Budget hostels:** €8–18/night in dorms; €20–40 for private rooms. Bangkok and Chiang Mai have excellent hostel scenes. Islands run €15–30 for basic beach bungalows.
+**Budget hostels:** €8–18/night in dorms; €20–40 for private rooms. Bangkok and [Chiang Mai](/thailand/chiang-mai-guide) have excellent hostel scenes. Islands run €15–30 for basic beach bungalows.
 
 **Guesthouses:** €25–50/night for clean, comfortable rooms with air-con. Excellent value in Chiang Mai and Bangkok's backpacker districts.
 
@@ -69,7 +69,7 @@ Thailand's street food is one of the world's great cuisines and it's extraordina
 
 **Train (Bangkok–Chiang Mai overnight):** €15–30 for a sleeper berth. Slower than the bus (13 hours) but atmospheric and comfortable.
 
-**Domestic flights:** AirAsia, Nok Air, Thai Lion Air. Bangkok–Chiang Mai: €20–50. Bangkok–Phuket: €20–60. Book 3–6 weeks ahead for lowest prices.
+**Domestic flights:** AirAsia, Nok Air, Thai Lion Air. Bangkok–Chiang Mai: €20–50. Bangkok–[Phuket](/thailand/phuket-guide): €20–60. Book 3–6 weeks ahead for lowest prices.
 
 **Island ferries:** Koh Samui–Koh Phangan: €8–12. Krabi–Koh Lanta: €10–15. Phuket–Phi Phi: €12–18.
 
@@ -88,7 +88,7 @@ Thailand's street food is one of the world's great cuisines and it's extraordina
 | Wat Arun | ฿100 (€2.60) |
 | Doi Suthep (Chiang Mai) | ฿50 (€1.30) + ฿30 songthaew |
 | Elephant Nature Park (half-day) | €50–70 |
-| Ayutthaya temples | ฿50–220 (€1.30–6) each |
+| [Ayutthaya](/thailand/ayutthaya-guide) temples | ฿50–220 (€1.30–6) each |
 | Doi Inthanon National Park | ฿300 (€8) |
 | 4 Islands snorkelling tour | €25–35 |
 | Scuba diving (Koh Tao) | €30–45/dive |

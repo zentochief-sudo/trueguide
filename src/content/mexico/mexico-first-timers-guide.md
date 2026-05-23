@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Mexico is one of the world's great first-time travel destinations — a country with a civilisational depth of 4,000 years, a UNESCO-recognised culinary tradition, extraordinary natural landscapes, and a warmth toward visitors that is immediate and genuine. Most first-timers arrive somewhat anxious (media coverage of Mexico tends toward the negative) and leave wanting to return. Here's what you actually need to know.
+[Mexico](/mexico) is one of the world's great first-time travel destinations — a country with a civilisational depth of 4,000 years, a UNESCO-recognised culinary tradition, extraordinary natural landscapes, and a warmth toward visitors that is immediate and genuine. Most first-timers arrive somewhat anxious (media coverage of Mexico tends toward the negative) and leave wanting to return. Here's what you actually need to know.
 
 ## The Basics
 
@@ -20,7 +20,7 @@ Mexico is one of the world's great first-time travel destinations — a country 
 **Time zones:** Three — CST (Central), MST (Mountain), PST (Pacific)  
 **Plugs:** Type A and B (same as USA — flat pins)  
 **Driving:** Right-hand side  
-**Visa:** Visa-free for EU, US, UK, Canada, Australia — 180 days tourist visa on arrival  
+**Visa:** Visa-free for EU, US, UK, [Canada](/canada), Australia — 180 days tourist visa on arrival  
 **Emergency number:** 911 (same as USA, adopted 2017)
 
 ---

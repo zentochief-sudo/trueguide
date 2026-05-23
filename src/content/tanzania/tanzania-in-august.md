@@ -10,7 +10,7 @@ tags: [Tanzania, August, Great Migration, Mara River, peak season, Northern Sere
 city: national
 ---
 
-August is the month when the Great Migration reaches its most dramatic phase. The wildebeest herds are split across the Mara ecosystem — some in Tanzania's Northern Serengeti, many already in Kenya's Masai Mara — and the crossings back and forth across the Mara River happen at maximum frequency. It's the month travel documentaries are made in. It's also the most crowded, most expensive, and most booked-up month of the East Africa safari year.
+August is the month when the Great Migration reaches its most dramatic phase. The wildebeest herds are split across the Mara ecosystem — some in [Tanzania](/tanzania)'s Northern Serengeti, many already in Kenya's Masai Mara — and the crossings back and forth across the Mara River happen at maximum frequency. It's the month travel documentaries are made in. It's also the most crowded, most expensive, and most booked-up month of the East Africa safari year.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ August is the month when the Great Migration reaches its most dramatic phase. Th
 
 **Southern and Central Serengeti:** Dry and accessible. Resident wildlife throughout.
 
-**Ngorongoro:** 13–21°C. Clear and dry. The crater's big predator prides are at their most active.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 13–21°C. Clear and dry. The crater's big predator prides are at their most active.
 
-**Zanzibar:** Southeast monsoon (kusi) continues. North coast (Nungwi, Kendwa) is the better beach option. East coast (Paje) has wind — good for kite surfers.
+**[Zanzibar](/tanzania/zanzibar-guide):** Southeast monsoon (kusi) continues. North coast (Nungwi, Kendwa) is the better beach option. East coast (Paje) has wind — good for kite surfers.
 
-**Mount Kilimanjaro:** Co-peak month with July. Excellent summit conditions.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Co-peak month with July. Excellent summit conditions.
 
 ## What to Do
 

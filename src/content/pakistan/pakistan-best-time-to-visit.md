@@ -10,13 +10,13 @@ tags: []
 city: national
 ---
 
-Pakistan's geography creates wildly different climate zones simultaneously. When Lahore is a pleasant 25°C in March, the Karakoram passes are buried under metres of snow. When Hunza is lush and perfect in July, Lahore is hitting 44°C. Planning around these extremes is essential.
+[Pakistan](/pakistan)'s geography creates wildly different climate zones simultaneously. When [Lahore](/pakistan/lahore-guide) is a pleasant 25°C in March, the Karakoram passes are buried under metres of snow. When Hunza is lush and perfect in July, Lahore is hitting 44°C. Planning around these extremes is essential.
 
 ## The Short Answer
 
 **Best for Hunza & KKH:** May–September  
 **Best for Lahore & Punjab cities:** February–April and October–November  
-**Best for Swat Valley:** April–October  
+**Best for [Swat Valley](/pakistan/swat-valley-guide):** April–October  
 **Avoid (north):** November–April (passes closed, snow)  
 **Avoid (Lahore/Punjab):** June–August (extreme heat, 40–48°C)
 
@@ -27,7 +27,7 @@ Pakistan's geography creates wildly different climate zones simultaneously. When
 ### January & February
 **Lahore/Punjab:** Cool and pleasant (10–22°C) with some fog. The **Basant kite festival** (traditionally February, now sometimes restricted). Cultural events and food season.
 **North (Hunza/KKH):** Snow-covered, passes closed, deeply cold (-10 to 5°C). Not accessible.
-**Islamabad:** Foggy winter mornings, pleasant afternoons (12–22°C). Manageable.
+**[Islamabad](/pakistan/islamabad-guide):** Foggy winter mornings, pleasant afternoons (12–22°C). Manageable.
 
 ### March ⭐ (Lahore/Punjab)
 One of the best months for visiting Lahore, Islamabad, and the historic sites of Punjab. Temperature 15–28°C. Spring flowers blooming. **Nowruz** (Persian New Year, March 21) is celebrated in the north by Ismaili communities.
@@ -37,7 +37,7 @@ One of the best months for visiting Lahore, Islamabad, and the historic sites of
 Excellent in Lahore (20–35°C — warming up but manageable). Mountains beginning to open — Gilgit accessible, Hunza possible by late April as roads clear.
 
 ### May ⭐ (transition + north opens)
-Lahore getting hot (32–42°C). **Karakoram Highway fully open** — Hunza, Gojal, and approaches to Khunjerab accessible. Fairy Meadows hike begins.
+Lahore getting hot (32–42°C). **[Karakoram Highway](/pakistan/karakoram-highway-guide) fully open** — Hunza, Gojal, and approaches to Khunjerab accessible. [Fairy Meadows](/pakistan/fairy-meadows-guide) hike begins.
 
 ### June–August — North is PEAK, Punjab is AVOID
 **North (Hunza, KKH, Fairy Meadows):** The very best time. Green apricot orchards, clear mountain air, 20–28°C in the valleys. Wildflowers at altitude. All routes open including Khunjerab Pass.

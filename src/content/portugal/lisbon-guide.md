@@ -12,7 +12,7 @@ city: lisbon
 
 Lisbon is built on seven hills over the Tagus estuary — a city of steep lanes, tiled facades (*azulejos*), the yellow tram that creaks up impossible gradients, and the melancholic music of fado that seems to have been born from the maritime history of a country that once commanded the world's oceans and then watched that empire fade. It is among the oldest capitals in Europe (settled before Rome), and it carries that age lightly — the 1755 earthquake destroyed most of the medieval city, and what was rebuilt has a different texture: the Pombaline grid of the Baixa, the neoclassical waterfront, and then the older neighborhoods that survived on the hills.
 
-Portugal entered a period of economic difficulty after 2008 that led to its rediscovery by budget-minded travelers, and the subsequent decade of tourism growth that has made it one of the most-visited cities in Europe. It remains, despite this, genuinely livable and genuinely beautiful.
+[Portugal](/portugal) entered a period of economic difficulty after 2008 that led to its rediscovery by budget-minded travelers, and the subsequent decade of tourism growth that has made it one of the most-visited cities in Europe. It remains, despite this, genuinely livable and genuinely beautiful.
 
 ---
 
@@ -24,7 +24,7 @@ Portugal entered a period of economic difficulty after 2008 that led to its redi
 
 **Sé de Lisboa (Cathedral)**: The Romanesque cathedral at the base of the Alfama hill — built in 1147 on the site of a mosque after the Portuguese Reconquista. The cloister has archaeological excavations of the Roman, Moorish, and medieval layers beneath the cathedral.
 
-**Belém**: 6 km west of the city center — the waterfront quarter from which Vasco da Gama departed for India in 1497. The Torre de Belém (a 16th-century fortified tower in the Tagus), the Mosteiro dos Jerónimos (a UNESCO-listed Manueline monastery of extraordinary decorative complexity, built with spice-trade wealth), and the Museu de Arte, Arquitetura e Tecnologia (MAAT) on the waterfront are all within walking distance. Pastéis de Belém bakery (est. 1837) sells the original pastel de nata — the queue moves faster than it looks.
+**Belém**: 6 km west of the city center — the waterfront quarter from which Vasco da Gama departed for [India](/india) in 1497. The Torre de Belém (a 16th-century fortified tower in the Tagus), the Mosteiro dos Jerónimos (a UNESCO-listed Manueline monastery of extraordinary decorative complexity, built with spice-trade wealth), and the Museu de Arte, Arquitetura e Tecnologia (MAAT) on the waterfront are all within walking distance. Pastéis de Belém bakery (est. 1837) sells the original pastel de nata — the queue moves faster than it looks.
 
 **Museu Nacional do Azulejo**: The tile museum in the Xabregas quarter — a converted convent with the most comprehensive collection of Portuguese decorative tiles (azulejos) in the world, from 15th-century Moorish geometric tiles to the monumental 18th-century Blue Room panorama of pre-earthquake Lisbon.
 

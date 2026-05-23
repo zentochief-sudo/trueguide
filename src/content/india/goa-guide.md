@@ -10,7 +10,7 @@ tags: [Goa, India, beaches, Portuguese, Old Goa, Dudhsagar, feni, north Goa, sou
 city: goa
 ---
 
-Goa was a Portuguese colony from 1510 until 1961 — 451 years of Portuguese rule left a distinct cultural legacy: Catholic churches, Latin-influenced food (the *vindaloo* is a Goan dish based on the Portuguese *vinha d'alhos*), family names like Sequeira and D'Souza, and an architectural tradition of whitewashed Baroque facades that exists nowhere else in India. The combination of this heritage with the beaches of the Konkan coast and the Konkani-Catholic culture produced something that is recognizably India but simultaneously unique.
+Goa was a Portuguese colony from 1510 until 1961 — 451 years of Portuguese rule left a distinct cultural legacy: Catholic churches, Latin-influenced food (the *vindaloo* is a Goan dish based on the Portuguese *vinha d'alhos*), family names like Sequeira and D'Souza, and an architectural tradition of whitewashed Baroque facades that exists nowhere else in [India](/india). The combination of this heritage with the beaches of the Konkan coast and the Konkani-Catholic culture produced something that is recognizably India but simultaneously unique.
 
 Goa attracts 8 million visitors per year — the north (Baga, Calangute, Anjuna) for the party infrastructure, the south (Palolem, Agonda, Benaulim) for quieter beaches, and Old Goa for the history.
 
@@ -26,7 +26,7 @@ Goa attracts 8 million visitors per year — the north (Baga, Calangute, Anjuna)
 
 ## Old Goa (Velha Goa)
 
-The former capital of Portuguese India — a UNESCO World Heritage Site (1986). The churches of Old Goa represent the most complete collection of Portuguese Baroque church architecture outside of Portugal itself.
+The former capital of Portuguese India — a UNESCO World Heritage Site (1986). The churches of Old Goa represent the most complete collection of Portuguese Baroque church architecture outside of [Portugal](/portugal) itself.
 
 **Basilica of Bom Jesus**: Built 1594–1605 — the tomb of St. Francis Xavier, whose remarkably preserved body has been displayed in a silver casket since his death in 1552. The body is displayed every 10 years at the Exposition of St. Francis Xavier (next in 2034, when 3+ million pilgrims typically attend). The church's interior is among the most complete Baroque interiors in Asia.
 
@@ -56,7 +56,7 @@ The spectacular four-tiered waterfall on the Goa–Karnataka border, 60 km east 
 
 ## Practical Notes
 
-- **Getting there**: Goa International Airport (Dabolim) has direct flights from major Indian cities and from the UK, Germany, and Russia. Train connections via the Konkan Railway from Mumbai (8 hours) and from Delhi (24 hours, with change)
+- **Getting there**: Goa International Airport (Dabolim) has direct flights from major Indian cities and from the UK, Germany, and Russia. Train connections via the Konkan Railway from [Mumbai](/india/mumbai-guide) (8 hours) and from [Delhi](/india/delhi-guide) (24 hours, with change)
 - **Getting around**: Scooter rental (₹300–500/day) is the standard local transport — roads are manageable and distances are short. Ola and Uber operate in Goa; auto-rickshaws for shorter distances
 - **Best time**: November–February (dry, 26–30°C). June–September is monsoon — many shacks close, but the landscape is intensely green and the waterfalls are at peak
 - **Visa**: Goa is in India; standard Indian visa required

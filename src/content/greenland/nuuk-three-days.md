@@ -10,11 +10,11 @@ tags: []
 city: Nuuk
 ---
 
-Nuuk sits at 64°N — further north than any other national capital on earth. It's a city of 18,000 people in a country where the nearest road to another settlement doesn't exist (all inter-settlement transport is by plane or boat), surrounded by fjords, mountains, and drifting icebergs. Three days here is enough to understand why people who come return.
+[Nuuk](/greenland/nuuk-travel-guide) sits at 64°N — further north than any other national capital on earth. It's a city of 18,000 people in a country where the nearest road to another settlement doesn't exist (all inter-settlement transport is by plane or boat), surrounded by fjords, mountains, and drifting icebergs. Three days here is enough to understand why people who come return.
 
 ## Day 1 – Old Town, Museums & the Fjord
 
-**Morning:** Start at the **Greenland National Museum and Archives** in the historic Old Town (Kolonihavn). The museum covers 4,500 years of Arctic human history — from the Saqqaq people (the first known inhabitants, 2500 BCE) through the Dorset culture, the Norse Vikings (who colonised Greenland 985–1408 CE and then disappeared entirely), and the modern Greenlandic Inuit people.
+**Morning:** Start at the **[Greenland](/greenland) National Museum and Archives** in the historic Old Town (Kolonihavn). The museum covers 4,500 years of Arctic human history — from the Saqqaq people (the first known inhabitants, 2500 BCE) through the Dorset culture, the Norse Vikings (who colonised Greenland 985–1408 CE and then disappeared entirely), and the modern Greenlandic Inuit people.
 
 The star exhibit: the **Qilakitsoq mummies** — eight naturally mummified Inuit from around 1475 CE, discovered in 1972 in cliff-face burial niches in northwest Greenland. The preservation is extraordinary — skin, hair, and clothing intact. They include a 6-month-old baby. The exhibit is handled with genuine respect.
 

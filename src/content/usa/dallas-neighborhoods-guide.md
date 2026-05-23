@@ -10,7 +10,7 @@ tags: [Dallas, neighborhoods, World Cup 2026, where to stay, Uptown, Deep Ellum]
 city: dallas
 ---
 
-Dallas is a horizontal city organized around freeways, and unlike New York or San Francisco, its character comes from its neighborhoods rather than a single walkable downtown. The neighborhoods worth knowing — Uptown, Deep Ellum, Bishop Arts, Oak Cliff, the Design District — are each distinct enough to feel like different cities, connected by DART light rail and a grid of major streets.
+Dallas is a horizontal city organized around freeways, and unlike New York or [San Francisco](/united-states/san-francisco-guide), its character comes from its neighborhoods rather than a single walkable downtown. The neighborhoods worth knowing — Uptown, Deep Ellum, Bishop Arts, Oak Cliff, the Design District — are each distinct enough to feel like different cities, connected by DART light rail and a grid of major streets.
 
 For World Cup visitors, the choice of neighborhood determines your restaurant access, your nightlife options, and how easily you reach the DART rail system for match-day transit to Arlington.
 

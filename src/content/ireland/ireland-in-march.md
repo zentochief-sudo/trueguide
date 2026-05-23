@@ -10,7 +10,7 @@ tags: [Ireland, March, St. Patrick's Day, Dublin, spring, festival, parade]
 city: national
 ---
 
-March is when the world shows up for Ireland and Ireland shows up for itself. St. Patrick's Day on March 17 is the anchor, but Dublin's Paddy's Day festival typically runs for five days around it. The diaspora returns. The streets go green. And underlying all the ceremony, genuine spring arrives — longer days, the first warmth, and the countryside beginning its slow turn from winter brown to that specific Irish green that earned the island its nickname.
+March is when the world shows up for [Ireland](/ireland) and Ireland shows up for itself. St. Patrick's Day on March 17 is the anchor, but [Dublin](/ireland/dublin-travel-guide)'s Paddy's Day festival typically runs for five days around it. The diaspora returns. The streets go green. And underlying all the ceremony, genuine spring arrives — longer days, the first warmth, and the countryside beginning its slow turn from winter brown to that specific Irish green that earned the island its nickname.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ March is when the world shows up for Ireland and Ireland shows up for itself. St
 
 **West Coast:** 6–11°C. The Atlantic weather remains active but spring softens it. Milder than January but not predictable.
 
-**Kerry/Cork:** 7–13°C. Ireland's mildest corner shows spring earliest. Bulbs in Muckross Garden (Killarney) are often spectacular by late March.
+**Kerry/[Cork](/ireland/cork-guide):** 7–13°C. Ireland's mildest corner shows spring earliest. Bulbs in Muckross Garden ([Killarney](/ireland/killarney-travel-guide)) are often spectacular by late March.
 
 **Northern Ireland:** 4–10°C. Spring arrives similarly to the Republic.
 
@@ -28,13 +28,13 @@ St. Patrick's Day week: pack rain gear regardless of forecast — the parade run
 
 **St. Patrick's Day Festival, Dublin (March 14–18 typically):** The five-day festival surrounding March 17 includes the Grand Parade down O'Connell Street (ticketed viewing stands available; free street views along the route), international and Irish performance events, green light projections on major Dublin buildings, and the Treasure Hunt trail across the city. The official programme is published at stpatricksfestival.ie. The night of the 17th: every pub in Dublin is at capacity. Have a plan (a specific pub and arrival time) rather than wandering.
 
-**St. Patrick's Festival, Cork and Galway:** Both cities run their own parades and festival events. Cork's parade is one of Ireland's best outside Dublin — more community-focused and less tourist-oriented. Galway's Spanish Arch and the Shop Street area fill with a festive crowd.
+**St. Patrick's Festival, Cork and [Galway](/ireland/galway-guide):** Both cities run their own parades and festival events. Cork's parade is one of Ireland's best outside Dublin — more community-focused and less tourist-oriented. Galway's Spanish Arch and the Shop Street area fill with a festive crowd.
 
-**The Wild Atlantic Way in spring:** The 2,500km coastal route along Ireland's west coast begins coming alive in March. Driving sections from Donegal to Kerry before the summer rental car crush makes the route feel like genuine exploration. Achill Island (off the Mayo coast), the Dingle Peninsula, and the Beara Peninsula are all accessible.
+**The [Wild Atlantic Way](/ireland/wild-atlantic-way-guide) in spring:** The 2,500km coastal route along Ireland's west coast begins coming alive in March. Driving sections from Donegal to Kerry before the summer rental car crush makes the route feel like genuine exploration. Achill Island (off the Mayo coast), the Dingle Peninsula, and the Beara Peninsula are all accessible.
 
 **Killarney National Park:** The national park surrounding the lakes of Killarney is excellent in March. The MacGillycuddy's Reeks mountains retain winter character while the valley floor greens up. The Gap of Dunloe (closed to car traffic) can be walked or cycled. Torc Waterfall runs at full winter volume.
 
-**Grafton Street and Dublin neighborhoods:** March in Dublin is the transition month when the city's café and restaurant culture fully reactivates. The Georgian streets of Ranelagh, Rathmines, and Sandymount have excellent independent coffee shops and restaurants that operate at local pace in March.
+**Grafton Street and [Dublin neighborhoods](/ireland/dublin-neighborhoods-guide):** March in Dublin is the transition month when the city's café and restaurant culture fully reactivates. The Georgian streets of Ranelagh, Rathmines, and Sandymount have excellent independent coffee shops and restaurants that operate at local pace in March.
 
 ## Festivals & Events
 

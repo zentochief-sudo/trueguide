@@ -10,7 +10,7 @@ tags: [Vancouver, culture, Museum of Anthropology, Chinatown, Indigenous, World 
 city: vancouver
 ---
 
-Vancouver is the youngest major city in Canada — incorporated in 1886, 35 years after Toronto — which gives it a different relationship to culture than the eastern Canadian cities. What it lacks in European-style historic institutions it compensates with three distinct cultural layers: the Indigenous cultures of the Coast Salish peoples whose territories the city occupies, the Chinese and Asian immigrant cultures that have shaped the city since the 1880s, and a contemporary arts scene that reflects the Pacific Rim position of a city that is geographically closer to Tokyo than to London.
+Vancouver is the youngest major city in [Canada](/canada) — incorporated in 1886, 35 years after Toronto — which gives it a different relationship to culture than the eastern Canadian cities. What it lacks in European-style historic institutions it compensates with three distinct cultural layers: the Indigenous cultures of the Coast Salish peoples whose territories the city occupies, the Chinese and Asian immigrant cultures that have shaped the city since the 1880s, and a contemporary arts scene that reflects the Pacific Rim position of a city that is geographically closer to Tokyo than to London.
 
 ---
 

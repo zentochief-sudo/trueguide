@@ -10,7 +10,7 @@ tags: [Guadalajara, transport, Tren Ligero, Macrobús, World Cup 2026, Estadio A
 city: guadalajara
 ---
 
-Guadalajara has a developing public transit system — the Tren Ligero (two lines) and Macrobús (rapid transit bus system) cover the main corridors, but the city was largely designed for the car. For World Cup visitors, Uber is the most practical option for reaching Estadio Akron and for journeys between neighborhoods.
+Guadalajara has a developing public transit system — the Tren Ligero (two lines) and Macrobús (rapid transit bus system) cover the main corridors, but the city was largely designed for the car. For World Cup visitors, Uber is the most practical option for reaching [Estadio Akron](/[mexico](/mexico)/estadio-akron-guide) and for journeys between neighborhoods.
 
 ---
 

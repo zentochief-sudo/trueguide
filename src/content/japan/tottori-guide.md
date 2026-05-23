@@ -18,9 +18,9 @@ The dunes are the reason most people come to Tottori. They are also only one par
 
 ## Getting There
 
-**From Osaka**: JR Super Hakuto limited express direct to Tottori Station (2 hours 30 minutes, ¥5,940). JR Pass valid.
+**From [Osaka](/japan/osaka-guide)**: JR Super Hakuto limited express direct to Tottori Station (2 hours 30 minutes, ¥5,940). JR Pass valid.
 
-**From Kyoto**: JR to Himeji, then limited express to Tottori (2 hours 50 minutes total, ¥5,490).
+**From [Kyoto](/japan/kyoto-guide)**: JR to [Himeji](/japan/himeji-guide), then limited express to Tottori (2 hours 50 minutes total, ¥5,490).
 
 **From Matsue**: JR San'in Line along the coast (1 hour 40 minutes). This is the scenic coastal route; the train runs along clifftops above the Sea of Japan for much of the journey.
 
@@ -76,7 +76,7 @@ Gosho Aoyama, the creator of the *Detective Conan* (Case Closed) manga series, w
 
 **1-day vs 2-day**: One day covers the dunes, Uradome coast, and back. Two days allows Kurayoshi and a slower dune experience.
 
-**Accommodation**: Tottori city has business hotels; Uradome Coast has small ryokan and guesthouses. The coastal ryokan options (Hamasaka, Yurihama) pair with the seafood — the San'in coast crab season (November–March) is the regional culinary event.
+**Accommodation**: Tottori city has business hotels; Uradome Coast has small [ryokan](/japan/ryokan-guide) and guesthouses. The coastal ryokan options (Hamasaka, Yurihama) pair with the seafood — the San'in coast crab season (November–March) is the regional culinary event.
 
 **San'in Crab**: The Matsuba crab (*Matsuba-gani*) from the Sea of Japan coast — Tottori and Shimane are the primary source regions. Sold at the pier markets in Tottori; priced by size and quality (¥3,000–20,000+ for a full crab). The winter crab season makes the San'in coast a specific food destination.
 

@@ -69,9 +69,9 @@ The pumpkins function as genuinely excellent art and as orientation markers — 
 
 ### Getting There
 
-**From Osaka/Kyoto**: Shin-Osaka → Okayama (Shinkansen, 45 min) → Uno Port (local train + bus, 1 hour) → Naoshima by ferry (20 min). Allow 2.5–3 hours total.
+**From [Osaka](/japan/osaka-guide)/[Kyoto](/japan/kyoto-guide)**: Shin-Osaka → Okayama (Shinkansen, 45 min) → Uno Port (local train + bus, 1 hour) → Naoshima by ferry (20 min). Allow 2.5–3 hours total.
 
-**From Tokyo**: Shinkansen to Okayama (3 hours 15 min), then as above.
+**From [Tokyo](/japan/tokyo-guide)**: Shinkansen to Okayama (3 hours 15 min), then as above.
 
 **Ferry services**:
 - Uno Port → Miyanoura (Naoshima): 15–20 minutes, multiple daily departures

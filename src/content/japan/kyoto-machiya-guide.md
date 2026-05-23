@@ -10,9 +10,9 @@ tags: [machiya, Kyoto accommodation, Kyoto town house, traditional accommodation
 city: kyoto
 ---
 
-Machiya (*町家*) are Kyoto's traditional wooden town houses — the vernacular residential and commercial architecture of the city for several centuries, characterized by narrow street frontages (historically taxed by width), deep floor plans, and interior garden courtyards (*tsuboniwa*) that bring light and air into the center of the structure. Several thousand survive in Kyoto; since the early 2000s, approximately 200–400 have been converted into private lodging.
+Machiya (*町家*) are [Kyoto](/japan/kyoto-guide)'s traditional wooden town houses — the vernacular residential and commercial architecture of the city for several centuries, characterized by narrow street frontages (historically taxed by width), deep floor plans, and interior garden courtyards (*tsuboniwa*) that bring light and air into the center of the structure. Several thousand survive in Kyoto; since the early 2000s, approximately 200–400 have been converted into private lodging.
 
-Staying in a machiya is a different experience from a hotel or even a ryokan — you have the entire house, typically 2–6 people, for the duration of your stay.
+Staying in a machiya is a different experience from a hotel or even a [ryokan](/japan/ryokan-guide) — you have the entire house, typically 2–6 people, for the duration of your stay.
 
 ---
 
@@ -67,7 +67,7 @@ Machiya range significantly in size:
 - *Town & Gown Kyoto*: Higher-end properties
 - *Kyoto Machiya*: Direct property management with English service
 
-**Lead time**: The best properties book out months ahead during cherry blossom season (late March–early April) and autumn foliage (mid-November). Standard booking windows of 3–6 months ahead are necessary for popular periods.
+**Lead time**: The best properties book out months ahead during [cherry blossom](/japan/cherry-blossom-guide) season (late March–early April) and autumn foliage (mid-November). Standard booking windows of 3–6 months ahead are necessary for popular periods.
 
 ---
 

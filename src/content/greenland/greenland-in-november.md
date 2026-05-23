@@ -10,7 +10,7 @@ tags: [Greenland, November, polar night, sea ice, aurora, dog sledding beginning
 city: national
 ---
 
-November is when Greenland enters its winter commitment. The polar night arrives in Ilulissat around November 28 — the sun disappears below the horizon and won't return until mid-January. In Nuuk (at 64°N, south of the Arctic Circle), the sun still rises briefly but for fewer than 4 hours daily by month end. The sea ice is thickening in Disko Bay and across the harbors. The dog sled season is building — the ice isn't yet thick enough for full-distance routes, but the first short sleds are operating. Greenland in November is committed to winter in a way that October isn't quite.
+November is when [Greenland](/greenland) enters its winter commitment. The polar night arrives in Ilulissat around November 28 — the sun disappears below the horizon and won't return until mid-January. In [Nuuk](/greenland/nuuk-travel-guide) (at 64°N, south of the Arctic Circle), the sun still rises briefly but for fewer than 4 hours daily by month end. The sea ice is thickening in Disko Bay and across the harbors. The dog sled season is building — the ice isn't yet thick enough for full-distance routes, but the first short sleds are operating. Greenland in November is committed to winter in a way that October isn't quite.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ November is when Greenland enters its winter commitment. The polar night arrives
 
 **Nuuk:** -3 to -10°C. Short days. First significant snowfall.
 
-**Sisimiut:** -6 to -16°C. Dog sled season beginning on established routes.
+**[Sisimiut](/greenland/sisimiut-guide):** -6 to -16°C. Dog sled season beginning on established routes.
 
 **Kangerlussuaq:** -10 to -25°C. Clear and cold. Aurora excellent.
 

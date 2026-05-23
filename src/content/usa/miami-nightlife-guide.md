@@ -41,7 +41,7 @@ South Beach remains the center of Miami's internationally known nightlife, conce
 
 **E11EVEN** (29 NE 11th Street, Overtown/Edgewater area — technically just off South Beach's circuit but part of the same nightlife network): A 24-hour ultra-venue that bills itself as the only 24/7 nightclub in the country. Multiple rooms, rooftop, performance elements (aerial acrobatics during shows). Entry: $40–80. A specific Miami experience.
 
-**Basement** (The Miami Beach EDITION, 2901 Collins Avenue): A basement club (hence the name) with bowling, ice skating in winter (closed in summer), and a separate club space. More boutique than LIV, focuses on electronic music.
+**Basement** (The [Miami Beach](/united-states/miami-beach-guide) EDITION, 2901 Collins Avenue): A basement club (hence the name) with bowling, ice skating in winter (closed in summer), and a separate club space. More boutique than LIV, focuses on electronic music.
 
 **Story** (136 Collins Avenue): A South Beach staple with a production-heavy main room and a reliable lineup of global DJs. Entry: $30–50.
 
@@ -101,7 +101,7 @@ Miami during the World Cup will have an exceptional concentration of Latin music
 
 ## World Cup Post-Match Watching
 
-When a major match (particularly involving Brazil, Argentina, Colombia, or Mexico) ends at 10–11pm local time, the South Beach boardwalk area, Calle Ocho, and Wynwood will have spontaneous street celebrations. The Brazilian community in Miami is the largest outside Brazil; Argentine community events in Brickell organize large watch parties.
+When a major match (particularly involving Brazil, Argentina, Colombia, or [Mexico](/mexico)) ends at 10–11pm local time, the South Beach boardwalk area, Calle Ocho, and Wynwood will have spontaneous street celebrations. The Brazilian community in Miami is the largest outside Brazil; Argentine community events in Brickell organize large watch parties.
 
 **Blackbird Ordinary** (729 SW 1st Avenue, Downtown): A bar that shows matches on multiple screens and has become a focal point for international football watching in Miami. Arrive 45 minutes before kickoff for any major match.
 

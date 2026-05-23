@@ -10,7 +10,7 @@ tags: [Toronto, CN Tower, landmarks, Toronto Islands, Casa Loma, World Cup 2026]
 city: toronto
 ---
 
-Toronto's landmarks are anchored by the CN Tower — the 553-meter telecommunications tower that defined the skyline from 1976 (when it became the world's tallest free-standing structure) until 2010 (when Dubai's Burj Khalifa surpassed it). The tower remains the defining visual element of Toronto and the most recognizable structure in Canada. Beyond it, the city's landmarks spread from the waterfront to the residential hills north of the downtown core.
+Toronto's landmarks are anchored by the CN Tower — the 553-meter telecommunications tower that defined the skyline from 1976 (when it became the world's tallest free-standing structure) until 2010 (when Dubai's Burj Khalifa surpassed it). The tower remains the defining visual element of Toronto and the most recognizable structure in [Canada](/canada). Beyond it, the city's landmarks spread from the waterfront to the residential hills north of the downtown core.
 
 ---
 

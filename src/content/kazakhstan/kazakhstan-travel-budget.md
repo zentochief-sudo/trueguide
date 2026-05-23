@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Kazakhstan sits between the budget travel of Central Asia and the mid-range costs of Eastern Europe. It's significantly cheaper than Western Europe but more expensive than neighbouring Kyrgyzstan or Uzbekistan. Almaty is the priciest city; rural areas and the steppe are very affordable.
+[Kazakhstan](/kazakhstan) sits between the budget travel of Central Asia and the mid-range costs of Eastern Europe. It's significantly cheaper than Western Europe but more expensive than neighbouring Kyrgyzstan or Uzbekistan. [Almaty](/kazakhstan/almaty-travel-guide) is the priciest city; rural areas and the steppe are very affordable.
 
 ## Quick Summary
 
@@ -28,7 +28,7 @@ Kazakhstan sits between the budget travel of Central Asia and the mid-range cost
 
 **Guesthouses:** €25–50/night. Good quality throughout Kazakhstan. Mountain area guesthouses near Medeu, Charyn, and Kolsai run €20–40/night.
 
-**Mid-range hotels:** €60–120/night. Good quality in Almaty and Astana — Soviet-era hotels have often been renovated into comfortable properties.
+**Mid-range hotels:** €60–120/night. Good quality in Almaty and [Astana](/kazakhstan/astana-guide) — Soviet-era hotels have often been renovated into comfortable properties.
 
 **Luxury:** Kazakhstan's top hotels (The Ritz-Carlton Astana, JW Marriott Astana, St Regis) run €200–500/night — expensive but offer the full international luxury experience.
 
@@ -58,11 +58,11 @@ Kazakhstan sits between the budget travel of Central Asia and the mid-range cost
 
 **Yandex Taxi:** Almaty's excellent ride-hailing app. City centre trips: €2–6. Reliable, metered, and convenient.
 
-**Domestic flights (Air Astana, SCAT):** Almaty–Astana: €40–90 one-way. Almaty–Shymkent: €30–70. Book on Air Astana website for best prices.
+**Domestic flights (Air Astana, SCAT):** Almaty–Astana: €40–90 one-way. Almaty–[Shymkent](/kazakhstan/shymkent-guide): €30–70. Book on Air Astana website for best prices.
 
 **Trains:** Kazakhstan has good train connections. Almaty–Astana: 12h by train (€15–40 for a platzkart berth; €25–60 for a kupe cabin). Comfortable overnight trains.
 
-**Intercity buses/marshrutkas:** Very cheap but slower and less comfortable. Almaty–Charyn Canyon: no direct public transport — hire a taxi or join a tour.
+**Intercity buses/marshrutkas:** Very cheap but slower and less comfortable. Almaty–[Charyn Canyon](/kazakhstan/charyn-canyon-guide): no direct public transport — hire a taxi or join a tour.
 
 **Car hire:** €40–70/day. Useful for mountain areas; driving is on the right and roads are generally good.
 
@@ -79,7 +79,7 @@ Kazakhstan sits between the budget travel of Central Asia and the mid-range cost
 | Charyn Canyon entry | KZT 1,500 (€3) |
 | Baiterek Tower (Astana) | KZT 1,500 (€3) |
 | Khan Shatyr entry | Free |
-| Big Almaty Lake (park fee) | KZT 500 (€1) |
+| [Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) (park fee) | KZT 500 (€1) |
 | Altyn-Emel National Park | KZT 1,500 (€3) |
 | Kolsai Lakes National Park | KZT 1,000 (€2) |
 

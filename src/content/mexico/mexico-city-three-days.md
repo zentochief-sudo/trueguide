@@ -10,7 +10,7 @@ tags: []
 city: Mexico City
 ---
 
-Mexico City is one of the world's great cities — a metropolis of 22 million people built on the ruins of the Aztec capital Tenochtitlan, which was itself built on a lake in the middle of a valley. It has more museums than Paris, a restaurant scene that has produced multiple lists of the world's best, street food that has been recognised by UNESCO, and an energy that is simultaneously exhausting and completely addictive.
+[Mexico](/mexico) City is one of the world's great cities — a metropolis of 22 million people built on the ruins of the Aztec capital Tenochtitlan, which was itself built on a lake in the middle of a valley. It has more museums than Paris, a restaurant scene that has produced multiple lists of the world's best, street food that has been recognised by UNESCO, and an energy that is simultaneously exhausting and completely addictive.
 
 Three days is enough to understand why Mexico City devotees return annually. It's not enough to exhaust it — that would take a lifetime.
 

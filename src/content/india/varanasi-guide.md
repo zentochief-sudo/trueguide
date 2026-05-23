@@ -20,7 +20,7 @@ Varanasi is confronting, beautiful, and impossible to be indifferent to.
 
 The 88 ghats line the western bank of the Ganges for 6.5 km — a continuous stone stairway descending to the river, each section managed by a different community, religious organization, or maharaja. At dawn, the ghats host simultaneous bathing (pilgrims), yoga, cremation, boat launching, and the morning prayers of the temples above.
 
-**The dawn boat ride**: The definitive Varanasi experience — a wooden rowing boat on the Ganges from Dashashwamedh Ghat (the central ghat) north and south at sunrise (5:30–7 AM). The view from the water, looking at the ghats and the rising sun, is one of the most powerful visual experiences in India. Negotiate boat hire the evening before; fixed-price boats from the Tourism Centre are S/400–600 for a 1.5-hour sunrise ride. Private boatmen charge ₹200–500.
+**The dawn boat ride**: The definitive Varanasi experience — a wooden rowing boat on the Ganges from Dashashwamedh Ghat (the central ghat) north and south at sunrise (5:30–7 AM). The view from the water, looking at the ghats and the rising sun, is one of the most powerful visual experiences in [India](/india). Negotiate boat hire the evening before; fixed-price boats from the Tourism Centre are S/400–600 for a 1.5-hour sunrise ride. Private boatmen charge ₹200–500.
 
 **Dashashwamedh Ghat**: The most important and most crowded ghat — the site of the evening Ganga Aarti ceremony and the main bathing ghat. The Brahmin priests who manage the ghat have been doing so for generations.
 
@@ -58,7 +58,7 @@ Accessible by auto-rickshaw from Varanasi (₹200–300 round trip, 30 minutes e
 
 ## Practical Notes
 
-- **Getting to Varanasi**: Flights from Delhi (1.5 hours, ₹2,000–5,000) and Mumbai. Overnight trains from Delhi (Kashi Express, 12 hours) and Mumbai (12–14 hours)
+- **Getting to Varanasi**: Flights from [Delhi](/india/delhi-guide) (1.5 hours, ₹2,000–5,000) and [Mumbai](/india/mumbai-guide). Overnight trains from Delhi (Kashi Express, 12 hours) and Mumbai (12–14 hours)
 - **Getting around**: The old city (ghats + lanes) is navigable only on foot — the lanes are too narrow for vehicles, and the ghat path runs 6 km. Auto-rickshaws and cycle-rickshaws for ghat-to-station or hotel connections
 - **Accommodation**: The best choice is a guesthouse directly on the ghats — waking to the sound of the river and stepping directly to the boat is the Varanasi experience. Brijrama Palace (on Darbhanga Ghat) and Hotel Ganges View (Assi Ghat) are the most atmospheric mid-range options
 - **Best time**: October–February for comfortable temperatures (15–25°C) and clear Ganges. Summer (April–June) is extremely hot (40°C+). Monsoon (July–September) floods the lower ghats

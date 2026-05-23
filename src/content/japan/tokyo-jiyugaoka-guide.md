@@ -10,7 +10,7 @@ tags: [Jiyugaoka, Tokyo, patisserie, confectionery, Mont Blanc, Sweets Forest, c
 city: tokyo
 ---
 
-Jiyugaoka (*自由が丘*) is a station neighborhood in Meguro Ward, southwest Tokyo — an area of low-rise residential buildings with a central commercial district that has built its identity around sweets. The concentration of patisseries (French-influenced confectionery shops), wagashi (traditional Japanese confectionery) specialists, and café culture per block is higher here than anywhere else in Tokyo.
+Jiyugaoka (*自由が丘*) is a station neighborhood in Meguro Ward, southwest [Tokyo](/japan/tokyo-guide) — an area of low-rise residential buildings with a central commercial district that has built its identity around sweets. The concentration of patisseries (French-influenced confectionery shops), wagashi (traditional Japanese confectionery) specialists, and café culture per block is higher here than anywhere else in Tokyo.
 
 The neighborhood's name means "Freedom Hill." The confectionery culture developed organically from the late postwar period as the residential population and the commercial district co-evolved; today Jiyugaoka attracts visitors specifically for its dessert culture alongside its general character as a livable, medium-density Tokyo neighborhood.
 
@@ -50,7 +50,7 @@ Jiyugaoka has a concentration of French-trained Japanese patissiers operating un
 
 The neighborhood also supports traditional Japanese confectionery (*wagashi*) alongside the French-influenced patisseries:
 
-**Toraya Jiyugaoka**: Branch of the 500-year-old Kyoto wagashi company, with tea room seating.
+**Toraya Jiyugaoka**: Branch of the 500-year-old [Kyoto](/japan/kyoto-guide) wagashi company, with tea room seating.
 
 **Harajuku Kichi Jiyugaoka**: Seasonal *namagashi* (fresh wagashi) in forms matching the current season — one of the best wagashi shops in southwest Tokyo.
 

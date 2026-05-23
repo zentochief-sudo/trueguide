@@ -10,7 +10,7 @@ tags: [Pakistan, October, Hunza, autumn, fall color, Lahore, Karakoram, cultural
 city: national
 ---
 
-October is Pakistan's most visually spectacular month. The Hunza Valley's golden autumn — poplars ablaze along every road and field, the Karimabad terraces in gold and red against white Himalayan peaks — is one of the world's most beautiful seasonal transformations and remains known only to a small fraction of the travelers who flock to similar scenes in Japan or Europe. Lahore's cultural season opens. The mountain passes close for winter.
+October is [Pakistan](/pakistan)'s most visually spectacular month. The [Hunza Valley](/pakistan/hunza-valley-guide)'s golden autumn — poplars ablaze along every road and field, the Karimabad terraces in gold and red against white Himalayan peaks — is one of the world's most beautiful seasonal transformations and remains known only to a small fraction of the travelers who flock to similar scenes in Japan or Europe. [Lahore](/pakistan/lahore-guide)'s cultural season opens. The mountain passes close for winter.
 
 ## Weather & Conditions
 
@@ -20,7 +20,7 @@ October is Pakistan's most visually spectacular month. The Hunza Valley's golden
 
 **Lahore and Punjab:** 18–28°C. Genuinely comfortable. October is one of the best months for Lahore.
 
-**Islamabad:** 14–26°C. Pleasant autumn.
+**[Islamabad](/pakistan/islamabad-guide):** 14–26°C. Pleasant autumn.
 
 **Khunjerab Pass:** Closes for winter in October–November.
 

@@ -20,7 +20,7 @@ Unlike most countries where you can navigate by intuition, Japan has several sys
 
 **Navigation**: Japanese addresses are not laid out on a grid, and landmark navigation requires Google Maps or Kakuho Maps to work reliably.
 
-**Transit**: The multilayer rail system (JR, Tokyo Metro, Toei, private lines) requires an app to plan routes efficiently, especially when transfers or IC card use is involved.
+**Transit**: The multilayer rail system (JR, [Tokyo](/japan/tokyo-guide) Metro, Toei, private lines) requires an app to plan routes efficiently, especially when transfers or IC card use is involved.
 
 **Reservations**: Many restaurants, experiences, and transport bookings are app-based or online.
 
@@ -130,7 +130,7 @@ If your home mobile carrier includes unlimited Japan data in your plan (common w
 
 **Convenience stores**: 7-Eleven, FamilyMart, and Lawson all offer free WiFi in-store. Registration required via an email or app the first time.
 
-**Train stations**: Major JR stations (Tokyo, Kyoto, Osaka, Shinjuku) have free WiFi in the station buildings. Not on the trains themselves.
+**Train stations**: Major JR stations (Tokyo, [Kyoto](/japan/kyoto-guide), [Osaka](/japan/osaka-guide), Shinjuku) have free WiFi in the station buildings. Not on the trains themselves.
 
 **Tourist areas**: Asakusa, Akihabara, and major tourist districts have municipal free WiFi zones.
 

@@ -10,15 +10,15 @@ tags: [Malaysia, practical, visa, transport, ETS train, budget, Penang, Kuala Lu
 city: kuala-lumpur
 ---
 
-Malaysia is one of the most effortless destinations in Southeast Asia for independent travelers — English is widely spoken, public transport between the main cities is good, the food is excellent and cheap, and the country is politically stable with a well-developed tourism infrastructure. It also has two distinct parts that require different approaches: Peninsular Malaysia (KL, Penang, the east coast) and Malaysian Borneo (Sabah, Sarawak) separated by the South China Sea.
+[Malaysia](/malaysia) is one of the most effortless destinations in Southeast Asia for independent travelers — English is widely spoken, public transport between the main cities is good, the food is excellent and cheap, and the country is politically stable with a well-developed tourism infrastructure. It also has two distinct parts that require different approaches: Peninsular Malaysia (KL, [Penang](/malaysia/penang-travel-guide), the east coast) and Malaysian [Borneo](/malaysia/borneo-guide) (Sabah, Sarawak) separated by the South China Sea.
 
 ---
 
 ## Visas
 
-**Visa-free**: Citizens of most Western countries (EU, UK, USA, Australia, Canada, New Zealand, Japan, Korea) receive 90 days visa-free entry. No application required — stamp on arrival.
+**Visa-free**: Citizens of most Western countries (EU, UK, USA, Australia, [Canada](/canada), New Zealand, Japan, Korea) receive 90 days visa-free entry. No application required — stamp on arrival.
 
-**eNTRI (Electronic Travel Registration and Information)**: Citizens of China and India can apply for a 15-day eNTRI single-entry pass online before arrival ($20–30). Separate from the standard visa-free entry.
+**eNTRI (Electronic Travel Registration and Information)**: Citizens of China and [India](/india) can apply for a 15-day eNTRI single-entry pass online before arrival ($20–30). Separate from the standard visa-free entry.
 
 **Malaysia Visa Application Center**: For nationalities requiring a visa, the standard tourist visa (single entry) is available online via VLN (Visa Luar Negeri) system or at embassies.
 
@@ -26,9 +26,9 @@ Malaysia is one of the most effortless destinations in Southeast Asia for indepe
 
 ## Getting There
 
-**Kuala Lumpur International Airport (KLIA)**: The main hub — direct long-haul routes from Europe (London Heathrow 12.5 hours, Amsterdam 12 hours via Malaysia Airlines), North America (few direct routes; most connect via Doha, Abu Dhabi, or Hong Kong), Australia (8 hours from Perth), and extensive Asian connections.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide) International Airport (KLIA)**: The main hub — direct long-haul routes from Europe (London Heathrow 12.5 hours, Amsterdam 12 hours via Malaysia Airlines), North America (few direct routes; most connect via Doha, Abu Dhabi, or Hong Kong), Australia (8 hours from Perth), and extensive Asian connections.
 
-**AirAsia**: The region's largest low-cost carrier, headquartered at KLIA2 (separate terminal from KLIA). Extremely cheap fares between KL and all Southeast Asian destinations; also serves Penang, Langkawi, and Kota Kinabalu domestically.
+**AirAsia**: The region's largest low-cost carrier, headquartered at KLIA2 (separate terminal from KLIA). Extremely cheap fares between KL and all Southeast Asian destinations; also serves Penang, [Langkawi](/malaysia/langkawi-guide), and Kota Kinabalu domestically.
 
 **Penang International Airport (PEN)**: Direct flights from KL (55 minutes), Singapore, Bangkok, and a small number of other regional cities. If Penang is the primary destination, the direct flight avoids the KL transit.
 
@@ -38,7 +38,7 @@ Malaysia is one of the most effortless destinations in Southeast Asia for indepe
 
 ### KL to Penang
 
-**ETS (Electric Train Service)**: The best option — fast, comfortable trains from KL Sentral to Butterworth (the mainland station opposite Penang island), then a 5-minute ferry (RM1.20) across to George Town. Journey: 3 hours 15 minutes. Book through KTM website or app (ktm.com.my). Advance booking recommended; trains fill during school holidays. Fares: RM35–70 depending on class and time.
+**ETS (Electric Train Service)**: The best option — fast, comfortable trains from KL Sentral to Butterworth (the mainland station opposite Penang island), then a 5-minute ferry (RM1.20) across to [George Town](/malaysia/george-town-guide). Journey: 3 hours 15 minutes. Book through KTM website or app (ktm.com.my). Advance booking recommended; trains fill during school holidays. Fares: RM35–70 depending on class and time.
 
 **Bus**: Multiple companies (Transnasional, CatchThatBus) operate KL to Penang. 4.5–5 hours, from RM35. Less comfortable than ETS but more flexible with departure times.
 

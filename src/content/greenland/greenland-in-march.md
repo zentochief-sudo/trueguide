@@ -10,15 +10,15 @@ tags: [Greenland, March, spring light, dog sledding, Arctic, Ilulissat, ice fjor
 city: national
 ---
 
-March is among Greenland's finest travel months. The Arctic equinox brings equal day and night, which in Greenland's context means 12 hours of extraordinary low-angle Arctic spring light — the sun never rises high in the sky, keeping the golden hour quality for most of the day. Dog sledding is in its final peak weeks before the sea ice softens in April. The Ilulissat Icefjord is still frozen, creating a static landscape of dramatic ice. And the Northern Lights are still visible on clear nights in the first half of the month.
+March is among [Greenland](/greenland)'s finest travel months. The Arctic equinox brings equal day and night, which in Greenland's context means 12 hours of extraordinary low-angle Arctic spring light — the sun never rises high in the sky, keeping the golden hour quality for most of the day. [Dog sledding](/greenland/dog-sledding-guide) is in its final peak weeks before the sea ice softens in April. The [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) is still frozen, creating a static landscape of dramatic ice. And the Northern Lights are still visible on clear nights in the first half of the month.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** -8 to -18°C. 12+ hours of daylight at equinox. Sea ice still firm.
 
-**Nuuk:** -3 to -10°C. Spring light. Some days above freezing by late March.
+**[Nuuk](/greenland/nuuk-travel-guide):** -3 to -10°C. Spring light. Some days above freezing by late March.
 
-**Sisimiut:** -8 to -16°C. Dog sled season in final peak.
+**[Sisimiut](/greenland/sisimiut-guide):** -8 to -16°C. Dog sled season in final peak.
 
 **Kangerlussuaq:** -10 to -22°C. Still deep winter conditions. Musk ox visible on the tundra.
 

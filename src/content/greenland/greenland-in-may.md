@@ -10,17 +10,17 @@ tags: [Greenland, May, hiking, Arctic Circle Trail, Ilulissat, icebergs, midnigh
 city: national
 ---
 
-May opens Greenland's summer. The sea ice has retreated from most harbor areas, the hiking trails are becoming accessible as snow recedes from lower elevations, and the daylight stretches to 18–20 hours by month end. The icebergs in Disko Bay are moving freely — massive ice formations drifting through open water, calved from the Sermeq Kujalleq glacier. Boat tours are operating from Ilulissat. The Arctic Circle Trail from Kangerlussuaq to Sisimiut is walkable in late May (though the passes still carry snow). May is the start of real summer access without July and August crowds.
+May opens [Greenland](/greenland)'s summer. The sea ice has retreated from most harbor areas, the hiking trails are becoming accessible as snow recedes from lower elevations, and the daylight stretches to 18–20 hours by month end. The icebergs in Disko Bay are moving freely — massive ice formations drifting through open water, calved from the Sermeq Kujalleq glacier. Boat tours are operating from Ilulissat. The Arctic Circle Trail from Kangerlussuaq to [Sisimiut](/greenland/sisimiut-guide) is walkable in late May (though the passes still carry snow). May is the start of real summer access without July and August crowds.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** 2 to -4°C. Sea ice gone from harbor. Icebergs moving freely.
 
-**Nuuk:** 4 to -2°C. Snowmelt ongoing. Lower trails open.
+**[Nuuk](/greenland/nuuk-travel-guide):** 4 to -2°C. Snowmelt ongoing. Lower trails open.
 
 **Sisimiut:** 2 to -5°C. Town accessible. Arctic Circle Trail beginning.
 
-**South Greenland:** 6 to 2°C. Mildest conditions in Greenland. Sheep grazing begins.
+**[South Greenland](/greenland/south-greenland-guide):** 6 to 2°C. Mildest conditions in Greenland. Sheep grazing begins.
 
 **Kangerlussuaq:** 4 to -6°C. Still significant snow in passes.
 
@@ -28,7 +28,7 @@ May opens Greenland's summer. The sea ice has retreated from most harbor areas, 
 
 **Arctic Circle Trail — late May start:** The 165km Arctic Circle Trail from Kangerlussuaq to Sisimiut is one of the world's great wilderness hikes — 9 days through Arctic tundra, across rivers, and over mountain passes with no roads, no services, and some of the most dramatic unpeopled landscape on earth. Late May is the earliest start — the snow in the high passes has retreated enough for navigation. The trail has no huts (three emergency shelters only), requires full wilderness kit, and demands river crossing ability. Allow 8–10 days and plan for weather.
 
-**Ilulissat iceberg boat tours:** May boat tours into the Ilulissat Icefjord are running regularly. The ice architecture of Disko Bay in May — icebergs the size of buildings moving through dark fjord water, with the still snow-covered mountains behind — is extraordinary. Tour operators include World of Greenland and Ilulissat-based operators. Half-day boat excursions cost DKK 400–600.
+**Ilulissat iceberg boat tours:** May boat tours into the [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) are running regularly. The ice architecture of Disko Bay in May — icebergs the size of buildings moving through dark fjord water, with the still snow-covered mountains behind — is extraordinary. Tour operators include World of Greenland and Ilulissat-based operators. Half-day boat excursions cost DKK 400–600.
 
 **Nuuk hiking — fjord trails:** Nuuk's fjord trail system opens in May. The Quassussuaq (Store Malene) peak above Nuuk (788m) is accessible by May and gives a panoramic view of the fjord, the city, and the sea ice remnants. The hike takes 4–5 hours round trip.
 

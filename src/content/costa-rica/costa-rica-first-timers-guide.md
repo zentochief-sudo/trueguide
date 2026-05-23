@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Costa Rica has built the world's most successful ecotourism model. A country that was 75% deforested in the 1980s now has 25% of its territory as protected national parks and reserves — and its tourism industry is built around this extraordinary natural recovery. First-timers are often surprised by how seriously it takes conservation.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) has built the world's most successful ecotourism model. A country that was 75% deforested in the 1980s now has 25% of its territory as protected national parks and reserves — and its tourism industry is built around this extraordinary natural recovery. First-timers are often surprised by how seriously it takes conservation.
 
 ## The Basics
 
@@ -20,7 +20,7 @@ Costa Rica has built the world's most successful ecotourism model. A country tha
 **Time zone:** CST (GMT-6). No daylight saving.  
 **Driving:** Right-hand side  
 **Plugs:** Type A and B (standard US flat pins)  
-**Visa:** US, EU, UK, Canada, Australia — visa-free for 90 days
+**Visa:** US, EU, UK, [Canada](/canada), Australia — visa-free for 90 days
 
 ---
 
@@ -35,13 +35,13 @@ Costa Rica has built the world's most successful ecotourism model. A country tha
 Costa Rica has 5% of the world's biodiversity in a country smaller than West Virginia. For wildlife watching:
 
 **Common species (most visitors see these):**
-- **Three-toed and two-toed sloths:** Common in Manuel Antonio, Tortuguero, and the Caribbean coast. Move at 0.15 mph — literally the world's slowest mammal.
+- **Three-toed and two-toed sloths:** Common in [Manuel Antonio](/costa-rica/manuel-antonio-guide), Tortuguero, and the Caribbean coast. Move at 0.15 mph — literally the world's slowest mammal.
 - **Capuchin and howler monkeys:** Howler monkeys produce the loudest noise of any land animal — don't be startled.
-- **Toucans, parrots, and macaws:** Scarlet macaws in Osa Peninsula; great green macaws in Tortuguero.
+- **Toucans, parrots, and macaws:** Scarlet macaws in [Osa Peninsula](/costa-rica/osa-peninsula-guide); great green macaws in Tortuguero.
 - **Poison dart frogs:** Tiny (2cm), bright red/blue/green, and extraordinary. Cloud forest and Caribbean lowlands.
 
 **Harder to see (worth trying):**
-- **Resplendent quetzal:** The holy grail of neotropical birding — found in Monteverde and San Gerardo de Dota. Best December–May.
+- **Resplendent quetzal:** The holy grail of neotropical birding — found in [Monteverde](/costa-rica/monteverde-guide) and San Gerardo de Dota. Best December–May.
 - **Jaguar:** Present in Corcovado (Osa Peninsula) but rarely spotted. Camera traps confirm presence.
 - **Tapir:** Large, shy, and forest-dwelling. Corcovado offers the best chance.
 
@@ -55,7 +55,7 @@ Costa Rica has 5% of the world's biodiversity in a country smaller than West Vir
 
 ## Transport: The 4WD Question
 
-**Do you need a 4WD?** If you're staying in San José, Arenal (on the paved road), or beach resorts with paved access — no. If you're going to Monteverde (unpaved road, steep), Osa Peninsula (river crossings), or any remote lodge — yes, absolutely.
+**Do you need a 4WD?** If you're staying in San José, [Arenal](/costa-rica/arenal-guide) (on the paved road), or beach resorts with paved access — no. If you're going to Monteverde (unpaved road, steep), Osa Peninsula (river crossings), or any remote lodge — yes, absolutely.
 
 **Rental cars:** Book well in advance, especially in peak season (December–April). 4WDs are more expensive (~$80–120/day) but give complete flexibility.
 

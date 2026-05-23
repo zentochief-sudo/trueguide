@@ -10,13 +10,13 @@ tags: [Kyushu, Fukuoka, Nagasaki, Kumamoto, Beppu, Mount Aso, Kagoshima, Yakushi
 city: national
 ---
 
-Kyushu (*九州* — "Nine Provinces") is Japan's southwestern-most main island, separated from Honshu by the Kanmon Strait at Shimonoseki. The island of 13 million people contains 7 prefectures, several of Japan's most historically distinct cities, the country's most active volcanic landscape, and the hot spring capital of Beppu. It is less visited than Kansai or Tokyo but offers a different experience of Japan: subtropical climate, distinct regional cuisines, a history shaped by early contact with Asia and the West, and a pace that reflects the island's distance from the capital.
+Kyushu (*九州* — "Nine Provinces") is Japan's southwestern-most main island, separated from Honshu by the Kanmon Strait at Shimonoseki. The island of 13 million people contains 7 prefectures, several of Japan's most historically distinct cities, the country's most active volcanic landscape, and the hot spring capital of [Beppu](/japan/beppu-guide). It is less visited than Kansai or [Tokyo](/japan/tokyo-guide) but offers a different experience of Japan: subtropical climate, distinct regional cuisines, a history shaped by early contact with Asia and the West, and a pace that reflects the island's distance from the capital.
 
 ---
 
 ## Getting to Kyushu
 
-**Shinkansen**: The Kyushu Shinkansen connects Hakata Station (Fukuoka) to Kagoshima-Chuo in the south. The Sanyo-Kyushu Shinkansen through-service runs from Osaka/Hiroshima to Fukuoka and onward. Tokyo to Hakata takes approximately 5 hours on Nozomi.
+**Shinkansen**: The Kyushu Shinkansen connects Hakata Station ([Fukuoka](/japan/fukuoka-guide)) to [Kagoshima](/japan/kagoshima-guide)-Chuo in the south. The Sanyo-Kyushu Shinkansen through-service runs from [Osaka](/japan/osaka-guide)/[Hiroshima](/japan/hiroshima-guide) to Fukuoka and onward. Tokyo to Hakata takes approximately 5 hours on Nozomi.
 
 **Flight**: Tokyo to Fukuoka is 1h45m; to Kagoshima 2 hours. JAL and ANA fly multiple daily services; budget carriers (Peach, Jetstar Japan) operate Fukuoka routes.
 
@@ -42,7 +42,7 @@ The largest city in Kyushu and the gateway from Honshu. Fukuoka is one of Japan'
 
 ## Nagasaki
 
-The second city of Kyushu's historical significance: Nagasaki was Japan's only open port during the *sakoku* (closed country) period (1633–1853), when Dutch and Chinese traders were the sole permitted foreign contacts. The city's architecture, food, and culture reflect this hybrid history in ways visible nowhere else in Japan.
+The second city of Kyushu's historical significance: [Nagasaki](/japan/nagasaki-guide) was Japan's only open port during the *sakoku* (closed country) period (1633–1853), when Dutch and Chinese traders were the sole permitted foreign contacts. The city's architecture, food, and culture reflect this hybrid history in ways visible nowhere else in Japan.
 
 **Atomic Bomb Legacy**: On August 9, 1945, a plutonium bomb was detonated over Nagasaki, killing 40,000–80,000 people. The Nagasaki Peace Park and Atomic Bomb Museum are sober, important, and well-curated. The preserved hypocenter area and the ruined Urakami Cathedral wall are distinct from Hiroshima's Peace Park — smaller scale, more intimate.
 
@@ -60,7 +60,7 @@ The second city of Kyushu's historical significance: Nagasaki was Japan's only o
 
 **Kumamoto Castle**: One of Japan's three great castles, severely damaged in the 2016 earthquake. Reconstruction is ongoing but the main tower reopened in 2021 and the grounds show both the castle's scale and the earthquake's impact. Admission ¥800.
 
-**Mount Aso (阿蘇山)**: One of the world's largest active calderas — 25km by 18km — in the center of Kyushu. The active crater (Nakadake) has been erupting intermittently since 2019; access to the crater rim is permitted when sulfur dioxide levels allow (check current status at aso.ne.jp). The Aso caldera rim, the *kusasenri* (grass plain), and the secondary cones visible from the highway are extraordinary volcanic landscape. The *Aso Base Hostel* and ryokan in Aso City make this a viable overnight stop.
+**Mount Aso (阿蘇山)**: One of the world's largest active calderas — 25km by 18km — in the center of Kyushu. The active crater (Nakadake) has been erupting intermittently since 2019; access to the crater rim is permitted when sulfur dioxide levels allow (check current status at aso.ne.jp). The Aso caldera rim, the *kusasenri* (grass plain), and the secondary cones visible from the highway are extraordinary volcanic landscape. The *Aso Base Hostel* and [ryokan](/japan/ryokan-guide) in Aso City make this a viable overnight stop.
 
 ---
 

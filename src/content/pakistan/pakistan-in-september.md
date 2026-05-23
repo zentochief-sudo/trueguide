@@ -10,11 +10,11 @@ tags: [Pakistan, September, autumn, Hunza, trekking, Karakoram, fall color]
 city: national
 ---
 
-September is Pakistan's autumn in the north — the poplar trees of Hunza and the Gilgit valleys turn gold and orange, the harvested apricots and apples fill the roadside stalls, and the mountain landscape has a post-summer clarity that is distinct from the summer haze. The monsoon retreats from the south, making Lahore functional again. The trekking season is in its final productive weeks before October's early snows.
+September is [Pakistan](/pakistan)'s autumn in the north — the poplar trees of Hunza and the Gilgit valleys turn gold and orange, the harvested apricots and apples fill the roadside stalls, and the mountain landscape has a post-summer clarity that is distinct from the summer haze. The monsoon retreats from the south, making [Lahore](/pakistan/lahore-guide) functional again. The trekking season is in its final productive weeks before October's early snows.
 
 ## Weather & Conditions
 
-**Hunza Valley:** 10–24°C. Autumnal. The poplars and fruit orchards are turning gold.
+**[Hunza Valley](/pakistan/hunza-valley-guide):** 10–24°C. Autumnal. The poplars and fruit orchards are turning gold.
 
 **Gilgit:** 12–26°C. Comfortable and clear.
 
@@ -22,7 +22,7 @@ September is Pakistan's autumn in the north — the poplar trees of Hunza and th
 
 **Lahore and Punjab:** 26–34°C. Monsoon retreating. Temperatures dropping from August.
 
-**Islamabad:** 22–30°C. Comfortable and increasingly clear. Good month for the city.
+**[Islamabad](/pakistan/islamabad-guide):** 22–30°C. Comfortable and increasingly clear. Good month for the city.
 
 **Karachi:** 24–32°C. Monsoon ending. The coast returns to good conditions.
 
@@ -36,7 +36,7 @@ September is Pakistan's autumn in the north — the poplar trees of Hunza and th
 
 **Lahore returns to manageable:** September's monsoon retreat makes Lahore genuinely accessible again. The morning temperature drops and the Mughal monuments can be visited in September heat (30–32°C) with proper hydration and morning scheduling. The Lahore Museum (British-era, housing one of the finest South Asian collections) is excellent.
 
-**Swat Valley, Khyber Pakhtunkhwa:** The valley of the Swat River — historically the heart of the Gandharan Buddhist civilization — is in its autumn best in September. The Mingora bazaar, the Saidu Sharif archaeological museum (Gandharan art), and the drive north through the valley are accessible and rewarding.
+**[Swat Valley](/pakistan/swat-valley-guide), Khyber Pakhtunkhwa:** The valley of the Swat River — historically the heart of the Gandharan Buddhist civilization — is in its autumn best in September. The Mingora bazaar, the Saidu Sharif archaeological museum (Gandharan art), and the drive north through the valley are accessible and rewarding.
 
 ## Festivals & Events
 

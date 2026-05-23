@@ -10,9 +10,9 @@ tags: [Lahore, Pakistan, Mughal, Lahore Fort, Badshahi Mosque, Wazir Khan Mosque
 city: lahore
 ---
 
-Lahore was the Mughal Empire's second capital and cultural heart — the city where Akbar, Jahangir, and Shah Jahan spent significant periods of their reigns, and where some of the most accomplished Mughal architecture in existence was built. The Lahore Fort (partly UNESCO-listed), the Badshahi Mosque, the Shalimar Gardens, and the Wazir Khan Mosque form an ensemble of 16th–17th century Islamic architecture that rivals anything in Agra, Delhi, or Isfahan.
+[Lahore](/pakistan/lahore-guide) was the Mughal Empire's second capital and cultural heart — the city where Akbar, Jahangir, and Shah Jahan spent significant periods of their reigns, and where some of the most accomplished Mughal architecture in existence was built. The Lahore Fort (partly UNESCO-listed), the Badshahi Mosque, the Shalimar Gardens, and the Wazir Khan Mosque form an ensemble of 16th–17th century Islamic architecture that rivals anything in Agra, Delhi, or Isfahan.
 
-The Old City (the walled city, *Andaroon Lahore*) surrounding these monuments is a functioning urban environment — 2 million people living in a medieval street plan, the bazaars still organized by trade as they were under Mughal rule. It's more challenging to navigate than any comparable site in India or Central Asia, and more rewarding.
+The Old City (the walled city, *Andaroon Lahore*) surrounding these monuments is a functioning urban environment — 2 million people living in a medieval street plan, the bazaars still organized by trade as they were under Mughal rule. It's more challenging to navigate than any comparable site in [India](/india) or Central Asia, and more rewarding.
 
 ---
 
@@ -95,6 +95,6 @@ The Old City (*Andaroon Lahore*) is organized around the Delhi Gate–Royal Baza
 
 **1 km from the Fort | Open 24 hours | Free**
 
-The most important Sufi shrine in Pakistan — the tomb of Ali Hujwiri (Data Ganj Bakhsh, died approximately 1077 CE), one of the earliest Sufi missionaries in South Asia. The shrine is a continuous 24-hour pilgrimage site: hundreds of devotees at any hour, *qawwali* music performed at the shrine on Thursday evenings, and the specific atmosphere of Sufi devotional practice that has been maintained at this site for nearly a millennium.
+The most important Sufi shrine in [Pakistan](/pakistan) — the tomb of Ali Hujwiri (Data Ganj Bakhsh, died approximately 1077 CE), one of the earliest Sufi missionaries in South Asia. The shrine is a continuous 24-hour pilgrimage site: hundreds of devotees at any hour, *qawwali* music performed at the shrine on Thursday evenings, and the specific atmosphere of Sufi devotional practice that has been maintained at this site for nearly a millennium.
 
 Visiting a Sufi shrine in the context of active pilgrimage is one of the most powerful cultural experiences available in Pakistan — the music, the devotion, and the specific form of Islamic practice are entirely different from the formal mosque context.

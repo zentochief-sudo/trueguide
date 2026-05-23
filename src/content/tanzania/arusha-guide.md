@@ -10,9 +10,9 @@ tags: [Arusha, Tanzania, safari, Mount Meru, northern circuit, Serengeti, Kilima
 city: arusha
 ---
 
-Arusha is a functional city that has become, largely by geographic luck, the safari capital of East Africa. Sitting at the foot of Mount Meru (4,566m) and equidistant between Nairobi and Dar es Salaam, it's the staging post for Tanzania's northern safari circuit — the Serengeti, Ngorongoro Crater, Tarangire National Park, and Lake Manyara. The entire industry of arranging, provisioning, and guiding these safaris is centered here.
+Arusha is a functional city that has become, largely by geographic luck, the safari capital of East Africa. Sitting at the foot of Mount Meru (4,566m) and equidistant between Nairobi and [Dar es Salaam](/[tanzania](/tanzania)/dar-es-salaam-guide), it's the staging post for Tanzania's northern safari circuit — the Serengeti, [Ngorongoro](/tanzania/ngorongoro-guide) Crater, [Tarangire](/tanzania/tarangire-guide) National Park, and Lake Manyara. The entire industry of arranging, provisioning, and guiding these safaris is centered here.
 
-It's not a destination in itself in the way Zanzibar or the Serengeti are. But it rewards a day or two of attention — particularly Arusha National Park, which is an undervisited gem sitting 25 km east of the city.
+It's not a destination in itself in the way [Zanzibar](/tanzania/zanzibar-guide) or the Serengeti are. But it rewards a day or two of attention — particularly Arusha National Park, which is an undervisited gem sitting 25 km east of the city.
 
 ---
 
@@ -22,7 +22,7 @@ It's not a destination in itself in the way Zanzibar or the Serengeti are. But i
 
 Consistently underrated and undervisited — the proximity to Arusha makes it a day-trip destination for groups in transit, and it lacks the marquee predators (no lions, leopards, or cheetahs) that define the northern circuit parks. What it does have is extraordinary:
 
-**Mount Meru**: Tanzania's second-highest mountain at 4,566m — a 4-day trekking route with exceptional scenery and a fraction of Kilimanjaro's crowds. The summit crater rim walk is technically more challenging than Kilimanjaro's standard routes. Many climbers use Meru as acclimatization for Kilimanjaro.
+**Mount Meru**: Tanzania's second-highest mountain at 4,566m — a 4-day trekking route with exceptional scenery and a fraction of [Kilimanjaro](/tanzania/kilimanjaro-guide)'s crowds. The summit crater rim walk is technically more challenging than Kilimanjaro's standard routes. Many climbers use Meru as acclimatization for Kilimanjaro.
 
 **Ngurdoto Crater**: A small, perfect volcanic crater whose floor is a closed forest reserve — no vehicles allowed in, only viewed from the rim. The density of buffalo and other game on the crater floor visible from above is remarkable.
 

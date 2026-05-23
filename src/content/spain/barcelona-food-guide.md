@@ -10,7 +10,7 @@ tags: [Barcelona, food, tapas, Boqueria, Catalan cuisine, vermouth, pintxos, pae
 city: barcelona
 ---
 
-Barcelona is one of Europe's great eating cities — not just because of the Michelin-starred restaurants (it has several), but because the everyday food culture is exceptionally strong. A market breakfast of coffee and a croissant de mantequilla costs €2.50. A lunch menu (menú del día) at a neighborhood restaurant runs €12–15 for three courses with wine. The challenge isn't finding good food; it's knowing which version of the city's food culture to prioritize.
+[Barcelona](/[spain](/spain)/barcelona-travel-guide) is one of Europe's great eating cities — not just because of the Michelin-starred restaurants (it has several), but because the everyday food culture is exceptionally strong. A market breakfast of coffee and a croissant de mantequilla costs €2.50. A lunch menu (menú del día) at a neighborhood restaurant runs €12–15 for three courses with wine. The challenge isn't finding good food; it's knowing which version of the city's food culture to prioritize.
 
 ---
 

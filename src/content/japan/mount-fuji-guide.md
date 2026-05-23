@@ -137,13 +137,13 @@ For the majority of visitors — including many Japanese who have never climbed 
 The most accessible of the Fuji Five Lakes, 45 minutes from Kawaguchiko Station (direct bus from Shinjuku). The northern shore in the morning, with the reflection in calm water, is the classic composition. **Chureito Pagoda** — a five-story pagoda 397 steps above Arakurayama Sengen Park — provides the foreground for the most-reproduced Fuji photograph. Worth the climb.
 
 ### Hakone
-The Owakudani ropeway, the open-air museum grounds, and the Hakone Shrine's torii gate rising from Lake Ashi all frame Fuji on clear days. Fuji is not visible from Hakone every day — the mountain generates its own cloud cover — but when visible, the view from the lake is exceptional.
+The Owakudani ropeway, the open-air museum grounds, and the [Hakone](/japan/hakone-guide) Shrine's torii gate rising from Lake Ashi all frame Fuji on clear days. Fuji is not visible from Hakone every day — the mountain generates its own cloud cover — but when visible, the view from the lake is exceptional.
 
 ### Shizuoka (South Side)
 The Miho no Matsubara pine grove near Shimizu — a UNESCO cultural site — frames Fuji over Suruga Bay. Less visited than the Five Lakes, more photogenic in afternoon light from the south.
 
 ### Torii Mor (from the Train)
-The Shinkansen between Tokyo and Osaka passes within 50km of Fuji. On a clear day, the Nozomi or Hikari provides a moving view of the mountain at speed, typically visible for 3–4 minutes around Shin-Fuji station. Sit on the left side (window seat, D or E row) traveling from Tokyo toward Osaka.
+The Shinkansen between [Tokyo](/japan/tokyo-guide) and [Osaka](/japan/osaka-guide) passes within 50km of Fuji. On a clear day, the Nozomi or Hikari provides a moving view of the mountain at speed, typically visible for 3–4 minutes around Shin-Fuji station. Sit on the left side (window seat, D or E row) traveling from Tokyo toward Osaka.
 
 ---
 

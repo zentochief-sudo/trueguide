@@ -36,17 +36,17 @@ This guide covers what is available and worth eating in each season, with specif
 
 **Edamame**: Summer soybeans — boiled in the pod with salt, eaten by squeezing the beans into the mouth while drinking beer. The specific summer izakaya (pub) opening move. The fresh edamame sold in bunches at farmers markets is markedly different from the frozen product; the natural sweetness is only present in very fresh beans.
 
-**Hamo (pike eel)**: A specifically Kyoto-Osaka summer fish — *hamo* is difficult to prepare because of the extreme density of tiny bones (requiring the skill of *hone-kiri*, the technique of cutting through the bones at 2mm intervals without breaking the skin). The result, blanched, produces a fish that fans out like a chrysanthemum (*hanohamo*). The labor involved is part of the aesthetic. Appears in kaiseki during Gion Matsuri season.
+**Hamo (pike eel)**: A specifically [Kyoto](/japan/kyoto-guide)-[Osaka](/japan/osaka-guide) summer fish — *hamo* is difficult to prepare because of the extreme density of tiny bones (requiring the skill of *hone-kiri*, the technique of cutting through the bones at 2mm intervals without breaking the skin). The result, blanched, produces a fish that fans out like a chrysanthemum (*hanohamo*). The labor involved is part of the aesthetic. Appears in kaiseki during Gion Matsuri season.
 
 **Kakigori (shaved ice)**: Japanese shaved ice is not a snow cone — the ice is machine-shaved to a very fine texture (like fresh snow rather than ice chips) and topped with natural fruit syrups, condensed milk, and seasonal additions. Summer kakigori shops queue on hot days; the Kyoto Ujikintoki style (matcha syrup, sweet red bean paste, condensed milk) is the reference standard.
 
-**Corn**: Japanese sweet corn is extraordinarily sweet — a variety bred specifically for the fresh-eating market, sold in rows of *tomorokoshi* at summer festivals and roadside stalls, grilled with soy sauce and butter. Hokkaido corn is the most celebrated.
+**Corn**: Japanese sweet corn is extraordinarily sweet — a variety bred specifically for the fresh-eating market, sold in rows of *tomorokoshi* at summer festivals and roadside stalls, grilled with soy sauce and butter. [Hokkaido](/japan/hokkaido-guide) corn is the most celebrated.
 
 ---
 
 ## Autumn (September–November)
 
-**Matsutake mushroom**: Japan's most expensive and culturally significant mushroom — a large, firm, intensely aromatic pine mushroom that grows in red pine forests in specific mountain regions (Kyoto's Tanba, Kyushu, parts of Hokkaido). The supply has declined drastically since the 1980s as Japanese pine forests aged and changed; domestic matsutake now costs ¥50,000–100,000 per kilogram and most available matsutake is imported from Korea, Canada, and China.
+**Matsutake mushroom**: Japan's most expensive and culturally significant mushroom — a large, firm, intensely aromatic pine mushroom that grows in red pine forests in specific mountain regions (Kyoto's Tanba, Kyushu, parts of Hokkaido). The supply has declined drastically since the 1980s as Japanese pine forests aged and changed; domestic matsutake now costs ¥50,000–100,000 per kilogram and most available matsutake is imported from Korea, [Canada](/canada), and China.
 
 The flavor is described as "the smell of the forest" — earthy, piney, complex. The traditional preparation: *dobin mushi* (steamed in a small teapot with dashi broth, the broth poured into the lid-cup and drunk before the mushroom is eaten) and *matsutake gohan* (matsutake rice).
 
@@ -66,7 +66,7 @@ The flavor is described as "the smell of the forest" — earthy, piney, complex.
 
 **Fugu (blowfish)**: The fish that requires a licensed chef to prepare — the organs of certain fugu species contain tetrodotoxin, lethal if ingested. The preparation license is a multi-year certification. The resulting dish (*fugu-sashi*, thin-sliced raw fugu with ponzu; *fugu-chiri*, fugu hot pot) has a flavor that is delicate and clean rather than dramatic — the interest is partly the precision of preparation and partly the cultural weight. Kyushu (Shimonoseki is the primary market) and Osaka are the primary fugu markets. Prices: ¥3,000–20,000+ depending on format and restaurant.
 
-**Nabe (hot pot)**: The winter eating format — *nabe* (hot pot at the table, continuously added to throughout the meal). The most famous varieties: *shabu-shabu* (thinly sliced wagyu swished in dashi, dipped in ponzu or sesame sauce), *sukiyaki* (beef simmered in sweet soy broth, dipped in raw egg), *yosenabe* (seafood and vegetables in a lighter broth), and *chanko-nabe* (the sumo wrestler's meal — chicken or fish broth with large protein portions).
+**Nabe (hot pot)**: The winter eating format — *nabe* (hot pot at the table, continuously added to throughout the meal). The most famous varieties: *shabu-shabu* (thinly sliced wagyu swished in dashi, dipped in ponzu or sesame sauce), *sukiyaki* (beef simmered in sweet soy broth, dipped in raw egg), *yosenabe* (seafood and vegetables in a lighter broth), and *chanko-nabe* (the [sumo](/japan/sumo-guide) wrestler's meal — chicken or fish broth with large protein portions).
 
 **Osechi ryori**: The traditional New Year's food — a lacquered box system (*jubako*) of small portions of symbolic foods prepared in advance for the first days of January when kitchens are ideally quiet. Each item has a meaning: black soybeans (*kuromame*) for health and diligence, herring roe (*kazunoko*) for fertility, sweet rolled egg (*datemaki*) for academic success. The full osechi set is prepared in the last days of December and eaten through January 3.
 
@@ -76,7 +76,7 @@ The flavor is described as "the smell of the forest" — earthy, piney, complex.
 
 The menu at a serious Japanese restaurant changes seasonally not as a marketing gesture but as an expression of this framework: the best-available ingredients at this moment, prepared in the way that brings out their peak quality. Kaiseki — the formal multi-course meal — is the most explicit expression of shun, but the principle applies at every level from the sushi counter to the izakaya.
 
-When ordering in Japan, asking "what's in season now?" (*ima no kisetsu no mono wa nani desu ka?*) at any restaurant will produce a response that tells you more about Japanese food culture than any menu item. The answer is the answer.
+When ordering in Japan, asking "what's in season now?" (*ima no kisetsu no mono wa nani desu ka?*) at any restaurant will produce a response that tells you more about [Japanese food](/japan/japanese-food-guide) culture than any menu item. The answer is the answer.
 
 ---
 

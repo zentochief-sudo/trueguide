@@ -10,19 +10,19 @@ tags: [Tanzania, October, shoulder season, Zanzibar, Serengeti, value, migration
 city: national
 ---
 
-October is a transitional month that rewards savvy Tanzania travelers. The wildebeest herds are completing their southward return to the Serengeti's interior, with the calving grounds beckoning. Zanzibar's east coast is in its finest condition — the sea is calm, the water is clear, and the northeast trade wind will arrive soon to make December–February the peak period. Safari prices are below their July–August maximum. October is genuinely excellent value.
+October is a transitional month that rewards savvy [Tanzania](/tanzania) travelers. The wildebeest herds are completing their southward return to the Serengeti's interior, with the calving grounds beckoning. [Zanzibar](/tanzania/zanzibar-guide)'s east coast is in its finest condition — the sea is calm, the water is clear, and the northeast trade wind will arrive soon to make December–February the peak period. Safari prices are below their July–August maximum. October is genuinely excellent value.
 
 ## Weather & Conditions
 
 **Serengeti (Central and Southern):** 22–30°C. The dry season continues through October before the short rains arrive in November. Game viewing is excellent with short grass.
 
-**Ngorongoro:** 16–24°C. Dry and clear. October is one of the crater's best months — visitors are fewer than July–August.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 16–24°C. Dry and clear. October is one of the crater's best months — visitors are fewer than July–August.
 
 **Zanzibar:** 26–30°C. The southeast monsoon (kusi) has fully ended. The east coast (Paje, Jambiani) is in ideal condition — warm, clear water, minimal wind. The best month to be on Zanzibar's beaches.
 
-**Dar es Salaam:** 26–30°C. Warm and dry.
+**[Dar es Salaam](/tanzania/dar-es-salaam-guide):** 26–30°C. Warm and dry.
 
-**Mount Kilimanjaro:** October is actually a good month — before the short rains. The dry season clarity continues.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** October is actually a good month — before the short rains. The dry season clarity continues.
 
 ## What to Do
 
@@ -30,7 +30,7 @@ October is a transitional month that rewards savvy Tanzania travelers. The wilde
 
 **Zanzibar east coast:** October may be the single best month to be on Zanzibar's east coast. Paje and Jambiani's beaches are calm, warm, and relatively uncrowded compared to the December–February northeast monsoon peak. Snorkeling the Mnemba Atoll, diving the offshore reefs, and simply being on the beach at sunset are October pleasures.
 
-**Tarangire National Park:** October is excellent for Tarangire — the dry season concentrates wildlife around the Tarangire River in spectacular numbers. Elephant herds of hundreds, massive baobab trees, and good lion and leopard viewing. Tarangire is often combined with Serengeti and Ngorongoro in the Northern Circuit itinerary. Often overlooked but genuinely world-class.
+**[Tarangire](/tanzania/tarangire-guide) National Park:** October is excellent for Tarangire — the dry season concentrates wildlife around the Tarangire River in spectacular numbers. Elephant herds of hundreds, massive baobab trees, and good lion and leopard viewing. Tarangire is often combined with Serengeti and Ngorongoro in the Northern Circuit itinerary. Often overlooked but genuinely world-class.
 
 **Lake Manyara National Park:** The flamingos on Lake Manyara, the tree-climbing lions (an unusual behavior specific to Manyara's lions), and the forest zone along the escarpment make Manyara a half-day or full-day addition to any Northern Circuit itinerary. October conditions are excellent.
 

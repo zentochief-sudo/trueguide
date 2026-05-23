@@ -20,7 +20,7 @@ The effect of entering the hall is unique in the world. There is no comparison.
 
 ### The Central Kannon (中尊千手観音坐像)
 
-The large seated Kannon at the center of the hall was carved by Tankei in 1254, when the sculptor was 82 years old. It is considered one of the masterworks of Kamakura-period Buddhist sculpture — the serene expression, the fine carving of the 40 actual arms (each understood to save 25 worlds, reaching the symbolic 1,000), and the scale of the central figure against the rows of standing statues create the focal point of the entire composition.
+The large seated Kannon at the center of the hall was carved by Tankei in 1254, when the sculptor was 82 years old. It is considered one of the masterworks of [Kamakura](/japan/kamakura-guide)-period Buddhist sculpture — the serene expression, the fine carving of the 40 actual arms (each understood to save 25 worlds, reaching the symbolic 1,000), and the scale of the central figure against the rows of standing statues create the focal point of the entire composition.
 
 ### The 1,000 Standing Kannon
 
@@ -46,7 +46,7 @@ The hall measures 121m × 17m — longer than a football field. The interior spa
 
 ## Getting There
 
-**Kyoto Station area**: Sanjūsangendō is within comfortable walking distance (15 minutes) of Kyoto Station. Exit the station south side and walk east.
+**[Kyoto](/japan/kyoto-guide) Station area**: Sanjūsangendō is within comfortable walking distance (15 minutes) of Kyoto Station. Exit the station south side and walk east.
 
 **Bus**: Multiple city buses stop at Sanjūsangendō-mae (the stop name).
 

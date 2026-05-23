@@ -18,11 +18,11 @@ This guide breaks down exactly what you'll spend across three different travel s
 
 Korea's value proposition isn't about being cheap — it's about what you get per dollar:
 
-- **Public transport** is modern, fast, and cheap. The Seoul metro serves most tourist areas for ₩1,400–2,000 per ride (~$1–1.50). The KTX high-speed train between Seoul and Busan costs ~₩59,800 (~$44) one-way.
+- **Public transport** is modern, fast, and cheap. The Seoul metro serves most tourist areas for ₩1,400–2,000 per ride (~$1–1.50). The KTX high-speed train between Seoul and [Busan](/korea/busan-guide) costs ~₩59,800 (~$44) one-way.
 - **Street food and local restaurants** are genuinely inexpensive. A filling meal at a market stall costs ₩5,000–10,000 ($4–7). Even a sit-down restaurant with multiple banchan costs ₩8,000–15,000 ($6–11).
 - **Most major cultural sites** (palaces, temples, markets, parks) are free or cost ₩1,000–3,000 ($0.75–2.25).
 
-Where Korea gets expensive: accommodation in central Seoul during peak season, imported alcohol, and high-end Korean BBQ restaurants marketed to tourists.
+Where Korea gets expensive: accommodation in central Seoul during peak season, imported alcohol, and high-end [Korean BBQ](/korea/korean-bbq-guide) restaurants marketed to tourists.
 
 ---
 
@@ -80,7 +80,7 @@ One nice dinner per trip at a Michelin-recommended Korean restaurant: ₩50,000�
 Metro plus occasional taxis (very affordable — a cross-city trip rarely exceeds ₩10,000/$7 — and the base fare is ₩4,800). Add KTX intercity trains to total.
 
 ### Activities: $20–30/day
-Mix of free sites and paid experiences — a cooking class (₩50,000–80,000), a day trip to the DMZ (₩60,000–80,000), a museum with admission.
+Mix of free sites and paid experiences — a cooking class (₩50,000–80,000), a day trip to the [DMZ](/korea/dmz-guide) (₩60,000–80,000), a museum with admission.
 
 **Mid-range total: ~$130–180/day**
 
@@ -110,7 +110,7 @@ Private tours, full Korean spa day (*jimjilbang* day, including meals and sleepi
 ## The Big Costs: What Changes Your Total
 
 ### Intercity Transport
-Seoul to Busan KTX: ₩59,800 (~$44) each way. Seoul to Gyeongju: similar. The Korea Rail Pass (3-day, 5-day options) may or may not make sense depending on your route — calculate for your specific itinerary.
+Seoul to Busan KTX: ₩59,800 (~$44) each way. Seoul to [Gyeongju](/korea/gyeongju-guide): similar. The Korea Rail Pass (3-day, 5-day options) may or may not make sense depending on your route — calculate for your specific itinerary.
 
 ### International Flights
 Seoul is well-served by budget carriers from across Asia. From the US, expect $700–1,400 round-trip depending on departure city and booking timing. From Europe, $600–1,100.
@@ -118,7 +118,7 @@ Seoul is well-served by budget carriers from across Asia. From the US, expect $7
 ### Day Trips
 DMZ tour: ₩50,000–90,000 ($37–67) including transport.
 Nami Island: ₩50,000 from Seoul (~$37) including express bus + ferry.
-Jeonju (KTX): ~₩20,000 each way.
+[Jeonju](/korea/jeonju-guide) (KTX): ~₩20,000 each way.
 
 ---
 

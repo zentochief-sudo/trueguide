@@ -10,7 +10,7 @@ tags: [Nuuk, Greenland, Arctic, northern lights, coolcation, Inuit culture, trav
 city: nuuk
 ---
 
-Nuuk is the world's smallest national capital by population — approximately 19,000 people, roughly the size of a small market town in most countries, yet the cultural, political, and economic center of the world's largest island. Located on the southwestern coast of Greenland at 64°N latitude (slightly north of Reykjavik), it sits where the Nuuk Fjord system meets the Labrador Sea — one of the most dramatic natural settings of any capital city on earth.
+Nuuk is the world's smallest national capital by population — approximately 19,000 people, roughly the size of a small market town in most countries, yet the cultural, political, and economic center of the world's largest island. Located on the southwestern coast of [Greenland](/greenland) at 64°N latitude (slightly north of Reykjavik), it sits where the Nuuk Fjord system meets the Labrador Sea — one of the most dramatic natural settings of any capital city on earth.
 
 Greenland has emerged as a significant travel destination for a specific reason: it offers an extreme version of what travelers in 2025–2026 are seeking — genuine remoteness, Arctic nature, Inuit cultural encounters, and an escape from heat and crowds. The term "coolcation" — traveling to cold places during increasingly hot summers — is driving new interest in destinations like Nuuk, Ilulissat, and the Greenlandic coast.
 
@@ -47,7 +47,7 @@ Greenland has no road connections to the rest of the world and limited air conne
 
 **Autumn (September–October)**: Northern lights begin in September. Still accessible weather. Wildlife watching remains good. Nights lengthen quickly.
 
-**Winter (November–March)**: Northern lights are most reliable (long, dark nights). Dog sledding is possible from Nuuk. Temperatures -15 to -5°C. This is a more demanding visit but the northern lights spectacle is the reason most people come in winter.
+**Winter (November–March)**: Northern lights are most reliable (long, dark nights). [Dog sledding](/greenland/dog-sledding-guide) is possible from Nuuk. Temperatures -15 to -5°C. This is a more demanding visit but the northern lights spectacle is the reason most people come in winter.
 
 **Spring (April–May)**: Ski touring on the surrounding mountains (skis + skins, no lifts), dog sledding season ending, increasing light. Less visited but excellent for active travelers.
 

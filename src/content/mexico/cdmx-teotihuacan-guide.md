@@ -10,7 +10,7 @@ tags: [Teotihuacán, Ciudad de México, pirámides, excursión, World Cup 2026, 
 city: cdmx
 ---
 
-Teotihuacán is 50 kilometers northeast of Mexico City — the largest city in the world in 500 AD, with more than 200,000 inhabitants at its peak, when Rome had barely 800,000 and most European cities didn't yet exist. The Pyramids of the Sun and Moon, the Avenue of the Dead, and the Temple of the Feathered Serpent are the main monuments of a civilization that mysteriously disappeared around 700 AD and which, unlike the Aztecs or Maya, has no directly identified descendants.
+Teotihuacán is 50 kilometers northeast of [Mexico](/mexico) City — the largest city in the world in 500 AD, with more than 200,000 inhabitants at its peak, when Rome had barely 800,000 and most European cities didn't yet exist. The Pyramids of the Sun and Moon, the Avenue of the Dead, and the Temple of the Feathered Serpent are the main monuments of a civilization that mysteriously disappeared around 700 AD and which, unlike the Aztecs or Maya, has no directly identified descendants.
 
 For World Cup visitors, Teotihuacán is the most important single-day excursion available from any World Cup host city on the entire planet.
 

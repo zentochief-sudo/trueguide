@@ -10,7 +10,7 @@ tags: [sumo, sumo tournament, basho, Tokyo sumo, Ryogoku, sumo training, yokozun
 city: national
 ---
 
-Sumo (*相撲*) has a documented history of over 1,500 years in Japan — the earliest records are from the Kojiki (712 CE), describing sumo bouts as a means of divination. The sport's current form, with its elaborate Shinto ritual, its specific vocabulary, and its rigidly hierarchical ranking system, developed during the Edo period and has changed little since. Watching a live tournament — a *basho* — is one of the most distinctive cultural experiences available in Japan.
+[Sumo](/japan/sumo-guide) (*相撲*) has a documented history of over 1,500 years in Japan — the earliest records are from the Kojiki (712 CE), describing sumo bouts as a means of divination. The sport's current form, with its elaborate Shinto ritual, its specific vocabulary, and its rigidly hierarchical ranking system, developed during the Edo period and has changed little since. Watching a live tournament — a *basho* — is one of the most distinctive cultural experiences available in Japan.
 
 ---
 
@@ -20,12 +20,12 @@ There are six *honbasho* (grand tournaments) per year, each lasting 15 days. Eac
 
 | Tournament | Location | Dates |
 |---|---|---|
-| January Basho (Hatsu Basho) | Kokugikan, Tokyo | January |
-| March Basho (Haru Basho) | Osaka Prefectural Gymnasium | March |
+| January Basho (Hatsu Basho) | Kokugikan, [Tokyo](/japan/tokyo-guide) | January |
+| March Basho (Haru Basho) | [Osaka](/japan/osaka-guide) Prefectural Gymnasium | March |
 | May Basho (Natsu Basho) | Kokugikan, Tokyo | May |
-| July Basho (Nagoya Basho) | Dolphins Arena, Nagoya | July |
+| July Basho ([Nagoya](/japan/nagoya-guide) Basho) | Dolphins Arena, Nagoya | July |
 | September Basho (Aki Basho) | Kokugikan, Tokyo | September |
-| November Basho (Kyushu Basho) | Marine Messe Fukuoka, Hakata) | November |
+| November Basho (Kyushu Basho) | Marine Messe [Fukuoka](/japan/fukuoka-guide), Hakata) | November |
 
 Tokyo hosts three of the six tournaments; Osaka, Nagoya, and Fukuoka each host one. If your Japan itinerary overlaps with a basho, attending is a priority experience.
 

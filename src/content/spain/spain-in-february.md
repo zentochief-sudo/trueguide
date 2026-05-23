@@ -10,13 +10,13 @@ tags: [Spain, February, Carnival, Cádiz, Tenerife, ski, Sierra Nevada, almond b
 city: national
 ---
 
-February is Spain's Carnival month — and Spanish Carnival, particularly in Cádiz and Tenerife, is among the best in the world. Prices remain low outside the festival dates, the Sierra Nevada is at peak ski condition, and in Andalusia and Extremadura, almond trees turn entire valleys white before spring arrives anywhere else in Europe. February has more going on than its reputation suggests.
+February is [Spain](/spain)'s Carnival month — and Spanish Carnival, particularly in Cádiz and Tenerife, is among the best in the world. Prices remain low outside the festival dates, the Sierra Nevada is at peak ski condition, and in Andalusia and Extremadura, almond trees turn entire valleys white before spring arrives anywhere else in Europe. February has more going on than its reputation suggests.
 
 ## Weather in February
 
 **Madrid:** 3°C to 12°C. Still cold, occasional snow possible, but the second half of February shows the first tentative warming. Museums and city tourism remain excellent.
 
-**Barcelona:** 9°C to 16°C. Mild and liveable. Occasional rain. Still winter, but the café terraces start filling on sunny afternoons by late February.
+**[Barcelona](/spain/barcelona-travel-guide):** 9°C to 16°C. Mild and liveable. Occasional rain. Still winter, but the café terraces start filling on sunny afternoons by late February.
 
 **Seville/Andalusia:** 9°C to 18°C. Warm enough for outdoor life. Almond blossoms visible in the province of Almería and Extremadura from mid-February.
 

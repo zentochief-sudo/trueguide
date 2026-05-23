@@ -12,7 +12,7 @@ city: tokyo
 
 The area known as Yanesen — a portmanteau of three adjacent neighborhoods: Yanaka, Nezu, and Sendagi — sits in the northern part of the Taito ward, between Ueno and Nippori. The topography (the area is on a low plateau above the surrounding lowlands) may be partly responsible for its survival: it was less vulnerable to flooding and less directly targeted in the firebombing campaign of 1945 than the shitamachi districts closer to the Sumida River.
 
-What survived is a residential neighborhood where the built environment has a density and character that most of Tokyo lost. The lanes are narrow enough that two people walking side by side require care; the wooden houses have proper *engawa* (covered verandahs) and *machiya* lattice windows; the family temples — there are over 70 Buddhist temples in Yanaka alone — occupy their original plots. It is genuinely old in a way that is not maintained for tourism but simply persisted.
+What survived is a residential neighborhood where the built environment has a density and character that most of [Tokyo](/japan/tokyo-guide) lost. The lanes are narrow enough that two people walking side by side require care; the wooden houses have proper *engawa* (covered verandahs) and *machiya* lattice windows; the family temples — there are over 70 Buddhist temples in Yanaka alone — occupy their original plots. It is genuinely old in a way that is not maintained for tourism but simply persisted.
 
 ---
 
@@ -30,9 +30,9 @@ The commercial street that anchors Yanaka's daily life: a 200-meter covered and 
 
 ## Yanaka Cemetery
 
-The large cemetery north of Yanaka Ginza is one of the most atmospheric in Japan — less theatrically so than Okunoin at Koyasan, but more integrated into ordinary urban life. The cemetery (established 1874) is the final resting place of the last Tokugawa shogun (Tokugawa Yoshinobu), multiple prominent Meiji-era figures, and generations of Yanaka residents.
+The large cemetery north of Yanaka Ginza is one of the most atmospheric in Japan — less theatrically so than Okunoin at [Koyasan](/japan/koyasan-guide), but more integrated into ordinary urban life. The cemetery (established 1874) is the final resting place of the last Tokugawa shogun (Tokugawa Yoshinobu), multiple prominent Meiji-era figures, and generations of Yanaka residents.
 
-The main path through the cemetery is flanked by large cherry trees — one of the best hanami (cherry blossom viewing) spots in Tokyo, and significantly less crowded than Ueno Park or Shinjuku Gyoen. The tombstones range from simple granite blocks to elaborate carved stone monuments from the Meiji period.
+The main path through the cemetery is flanked by large cherry trees — one of the best hanami ([cherry blossom](/japan/cherry-blossom-guide) viewing) spots in Tokyo, and significantly less crowded than Ueno Park or Shinjuku Gyoen. The tombstones range from simple granite blocks to elaborate carved stone monuments from the Meiji period.
 
 The cemetery is a functional working space — families visit to maintain graves, flowers are fresh on many stones, incense smoke appears in various corners. It functions as both a park and a sacred site simultaneously, in the specifically Japanese way that blurs these categories.
 

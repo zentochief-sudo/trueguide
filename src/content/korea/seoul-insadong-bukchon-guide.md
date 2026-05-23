@@ -12,7 +12,7 @@ city: seoul
 
 Two of Seoul's most photographed areas sit within walking distance of each other north of the city center. **Insadong** is a commercial street of galleries, teahouses, and craft vendors — the curated version of traditional Korean material culture. **Bukchon Hanok Village** is a residential neighborhood of preserved *hanok* (traditional Korean houses) on the hill between Gyeongbokgung and Changdeokgung palaces, where people actually live and where the view of tile roofs against the city skyline is the standard image of Seoul.
 
-They are logically combined with **Gyeongbokgung Palace** for a full day circuit of northern Seoul.
+They are logically combined with **[Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide)** for a full day circuit of northern Seoul.
 
 ---
 
@@ -74,7 +74,7 @@ This combination works as a coherent northern Seoul day:
 
 ## Practical Notes
 
-**Hanbok rental**: Both Insadong and Bukchon have hanbok rental shops where you can dress in traditional Korean clothing for 2-4 hours (¥20,000–40,000). Wearing hanbok in the palace grounds grants free admission — worth knowing if you're planning the full day. The rental process includes dressing assistance; hairstyling is often included.
+**[Hanbok](/korea/hanbok-guide) rental**: Both Insadong and Bukchon have hanbok rental shops where you can dress in traditional Korean clothing for 2-4 hours (¥20,000–40,000). Wearing hanbok in the palace grounds grants free admission — worth knowing if you're planning the full day. The rental process includes dressing assistance; hairstyling is often included.
 
 **Anguk station** (Line 3) is the central access point for the entire circuit — the palace, Bukchon, and Insadong are all within 15 minutes' walk.
 

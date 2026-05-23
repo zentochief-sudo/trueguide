@@ -10,7 +10,7 @@ tags: [Peru, June, Inti Raymi, Cusco, Inca Trail, peak season, dry season]
 city: national
 ---
 
-June marks the beginning of Peru's tourist peak and the month of its most spectacular annual event: Inti Raymi. The June 24 Festival of the Sun at the Sacsayhuamán fortress above Cusco is a full-day re-enactment of the Inca Sun Festival — thousands of costumed performers, Quechua ceremony, and the entire city of Cusco in celebration. The dry season is fully established, Machu Picchu is in clear-sky mode, and every Inca Trail permit for June was booked months ago.
+June marks the beginning of [Peru](/peru)'s tourist peak and the month of its most spectacular annual event: Inti Raymi. The June 24 Festival of the Sun at the Sacsayhuamán fortress above [Cusco](/peru/cusco-guide) is a full-day re-enactment of the Inca Sun Festival — thousands of costumed performers, Quechua ceremony, and the entire city of Cusco in celebration. The dry season is fully established, [Machu Picchu](/peru/machu-picchu-guide) is in clear-sky mode, and every Inca Trail permit for June was booked months ago.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ June marks the beginning of Peru's tourist peak and the month of its most specta
 
 **Machu Picchu:** 12–22°C. The best weather of the year. Clear mornings, warm afternoons.
 
-**Lima:** 14–18°C. Lima's coastal winter begins — grey and cooler. The city is fully operational but not beach season.
+**[Lima](/peru/lima-guide):** 14–18°C. Lima's coastal winter begins — grey and cooler. The city is fully operational but not beach season.
 
-**Amazon:** Dry season conditions. Water levels falling, wildlife concentrating around rivers and lagoons.
+**[Amazon](/peru/amazon-guide):** Dry season conditions. Water levels falling, wildlife concentrating around rivers and lagoons.
 
-**Lake Titicaca:** 4–14°C. Clear, dry, and cold. The lake in June morning sun is extraordinary.
+**[Lake Titicaca](/peru/lake-titicaca-guide):** 4–14°C. Clear, dry, and cold. The lake in June morning sun is extraordinary.
 
 ## What to Do
 
@@ -34,7 +34,7 @@ June marks the beginning of Peru's tourist peak and the month of its most specta
 
 **Choquequirao:** The remote ruin complex 3 days from Cachora is in perfect June condition. No permits required, few other trekkers. The views from the ridge trail down into the Apurímac Canyon are extraordinary. Stay at Capuliyoc camp and walk 4–6 hours per day.
 
-**Sacred Valley festival calendar:** June 24 is also Cusco Day — the city celebrates with fireworks, parades, and civic events beyond the Inti Raymi ceremony.
+**[Sacred Valley](/peru/sacred-valley-guide) festival calendar:** June 24 is also Cusco Day — the city celebrates with fireworks, parades, and civic events beyond the Inti Raymi ceremony.
 
 ## Festivals & Events
 

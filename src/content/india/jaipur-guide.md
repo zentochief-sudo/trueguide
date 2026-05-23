@@ -10,7 +10,7 @@ tags: [Jaipur, India, Rajasthan, Jantar Mantar, Chand Baori, block printing, Blu
 city: rajasthan
 ---
 
-Jaipur's three major monuments — Amber Fort, the City Palace, and the Hawa Mahal — are covered in the Rajasthan circuit guide. But Jaipur rewards a longer stay and deeper engagement: the scientific instruments of Jantar Mantar, the craft traditions that have made Jaipur the gemstone capital of Asia, the stepwells of the surrounding countryside, and the Jaipur Literature Festival (the world's largest free literary event) in January.
+Jaipur's three major monuments — Amber Fort, the City Palace, and the Hawa Mahal — are covered in the [Rajasthan](/[india](/india)/rajasthan-guide) circuit guide. But Jaipur rewards a longer stay and deeper engagement: the scientific instruments of Jantar Mantar, the craft traditions that have made Jaipur the gemstone capital of Asia, the stepwells of the surrounding countryside, and the Jaipur Literature Festival (the world's largest free literary event) in January.
 
 ---
 

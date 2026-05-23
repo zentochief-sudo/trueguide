@@ -10,9 +10,9 @@ tags: [Karakoram Highway, Pakistan, KKH, Hunza, Nanga Parbat, Gilgit, Khunjerab 
 city: hunza
 ---
 
-The Karakoram Highway (KKH) is one of the great road trips of the world — 1,300 km from Islamabad to Kashgar in China, climbing from 500m to 4,700m at Khunjerab Pass, passing through the confluence of the Hindu Kush, Karakoram, and Himalayas mountain ranges. The Chinese and Pakistani governments built it between 1966 and 1986, losing over 900 workers to avalanches, falling rock, and the Indus River. The result is a road that follows the ancient Silk Road through some of the most dramatic mountain scenery on earth.
+The Karakoram Highway (KKH) is one of the great road trips of the world — 1,300 km from [Islamabad](/[pakistan](/pakistan)/islamabad-guide) to Kashgar in China, climbing from 500m to 4,700m at Khunjerab Pass, passing through the confluence of the Hindu Kush, Karakoram, and Himalayas mountain ranges. The Chinese and Pakistani governments built it between 1966 and 1986, losing over 900 workers to avalanches, falling rock, and the Indus River. The result is a road that follows the ancient Silk Road through some of the most dramatic mountain scenery on earth.
 
-For travelers, the Pakistan section (from Islamabad to the Khunjerab Pass, ~900 km) is the journey. The Hunza Valley in the middle section is the destination.
+For travelers, the Pakistan section (from Islamabad to the Khunjerab Pass, ~900 km) is the journey. The [Hunza Valley](/pakistan/hunza-valley-guide) in the middle section is the destination.
 
 ---
 

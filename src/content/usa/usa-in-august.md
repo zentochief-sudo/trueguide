@@ -22,7 +22,7 @@ August is the USA's late-summer peak — families taking final vacations before 
 
 **Midwest:** 22°C to 33°C. Hot, with possible severe thunderstorms. State fair season is in full swing.
 
-**Southwest:** 32°C to 41°C. Monsoon season (Arizona, New Mexico) — afternoon and evening thunderstorms bring some humidity but also dramatic lightning and flash flood risk.
+**Southwest:** 32°C to 41°C. Monsoon season (Arizona, New [Mexico](/mexico)) — afternoon and evening thunderstorms bring some humidity but also dramatic lightning and flash flood risk.
 
 **Rocky Mountains:** 15°C to 27°C. Summer continues — afternoon thunderstorms are the daily pattern at altitude. Morning is the optimal time for hiking.
 

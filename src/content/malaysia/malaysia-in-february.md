@@ -10,7 +10,7 @@ tags: [Malaysia, February, Chinese New Year, Penang, KL, Langkawi, Thaipusam]
 city: national
 ---
 
-February is Malaysia's most culturally charged month. Chinese New Year — observed by Malaysia's 25% Chinese population — transforms Penang and Kuala Lumpur with 15 days of lights, lion dances, fireworks, and reunion feasts. Langkawi remains in prime beach season. The east coast is still under monsoon closure. And Thaipusam — the Hindu festival of spectacular devotion at Batu Caves — falls in either January or February.
+February is [Malaysia](/malaysia)'s most culturally charged month. Chinese New Year — observed by Malaysia's 25% Chinese population — transforms [Penang](/malaysia/penang-travel-guide) and [Kuala Lumpur](/malaysia/kuala-lumpur-guide) with 15 days of lights, lion dances, fireworks, and reunion feasts. [Langkawi](/malaysia/langkawi-guide) remains in prime beach season. The east coast is still under monsoon closure. And Thaipusam — the Hindu festival of spectacular devotion at Batu Caves — falls in either January or February.
 
 ## Weather & Conditions
 
@@ -22,7 +22,7 @@ February is Malaysia's most culturally charged month. Chinese New Year — obser
 
 **East Coast (Perhentian, Tioman, Redang):** Still closed. Monsoon seas persist until March.
 
-**Sabah (Borneo):** 24–30°C. Drier months. Kinabalu and wildlife accessible.
+**Sabah ([Borneo](/malaysia/borneo-guide)):** 24–30°C. Drier months. Kinabalu and wildlife accessible.
 
 ## What to Do
 

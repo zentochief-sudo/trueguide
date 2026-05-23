@@ -10,7 +10,7 @@ tags: [Osaka, nightlife, izakaya, bars, clubs, Dotonbori, Fukushima, nightlife g
 city: Osaka
 ---
 
-Osaka's reputation as Japan's most sociable city extends fully into the night. The izakaya culture is the most accessible in the country — friendly, affordable, and designed for groups. The bar scene in Fukushima and the Dotonbori streets is more neighborhood-local than Tokyo's equivalent. And the club culture in Amerika-mura, Shinsaibashi, and the Namba area continues past dawn on weekends. Here's the full night map.
+[Osaka](/japan/osaka-guide)'s reputation as Japan's most sociable city extends fully into the night. The izakaya culture is the most accessible in the country — friendly, affordable, and designed for groups. The bar scene in Fukushima and the Dotonbori streets is more neighborhood-local than [Tokyo](/japan/tokyo-guide)'s equivalent. And the club culture in Amerika-mura, Shinsaibashi, and the Namba area continues past dawn on weekends. Here's the full night map.
 
 ## The Izakaya Circuit
 
@@ -33,7 +33,7 @@ The izakaya (居酒屋) — Japanese pub — is the foundation of Osaka nightlif
 **Namba:** High density but more tourist-facing than Fukushima or Tenma. Still excellent options if you explore one block off the main Dotonbori drag.
 
 **Recommended izakayas:**
-- **Daruma-ya (Fukushima):** Classic Osaka izakaya — grilled offal, sake, local regulars
+- **Daruma-ya (Fukushima):** Classic [Osaka izakaya](/japan/osaka-izakaya-guide) — grilled offal, sake, local regulars
 - **Torisei (multiple locations):** Yakitori specialists — the skewers with Kansai-style sweet soy are excellent
 - **Kushikatsu Tanaka (chain, multiple locations):** Not strictly an izakaya but functions as one — the breaded skewers and beer in a neighborhood setting
 
@@ -41,7 +41,7 @@ The izakaya (居酒屋) — Japanese pub — is the foundation of Osaka nightlif
 
 Osaka's craft beer scene has grown significantly:
 
-**Minoh Beer (Nakatsu/Osaka):** Founded 1997 — Japan's craft beer pioneer. The Minoh Beer Pub in Nakatsu (north Osaka) is the primary tasting venue. The flagship W-IPA (double India Pale Ale) has won multiple international gold medals.
+**Minoh Beer (Nakatsu/Osaka):** Founded 1997 — Japan's craft beer pioneer. The Minoh Beer Pub in Nakatsu (north Osaka) is the primary tasting venue. The flagship W-IPA (double [India](/india) Pale Ale) has won multiple international gold medals.
 
 **Derailleur Brew Works (near Umeda):** One of the newer craft breweries with taproom — the rotating taps include experimental and seasonal brews.
 

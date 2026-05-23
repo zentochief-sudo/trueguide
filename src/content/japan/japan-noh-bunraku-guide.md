@@ -42,15 +42,15 @@ First-time Noh audiences frequently find the pace disorienting — nothing in We
 
 ### Where to See Noh
 
-**National Noh Theater (国立能楽堂), Tokyo (Sendagaya)**: The main government-operated venue. Programs most Saturdays; earphone guides in English available. Regular performances by major schools including Kanze and Hosho.
+**National Noh Theater (国立能楽堂), [Tokyo](/japan/tokyo-guide) (Sendagaya)**: The main government-operated venue. Programs most Saturdays; earphone guides in English available. Regular performances by major schools including Kanze and Hosho.
 
 **Kanze Noh Theater (観世能楽堂), Tokyo**: The Kanze school's own theater, now in Ginza's Ginza Six complex. Major performances by Kanze family actors.
 
 **Umewaka Noh Stage, Tokyo**: Another major school's venue; accessible for visitors.
 
-**Kongo Noh Stage, Kyoto**: The oldest continuously operating Noh theater in Japan (Kongo school). Performances on most Saturdays.
+**Kongo Noh Stage, [Kyoto](/japan/kyoto-guide)**: The oldest continuously operating Noh theater in Japan (Kongo school). Performances on most Saturdays.
 
-**Outdoor (Takigi Noh)**: Several famous outdoor Noh performances by firelight (*takigi noh*) take place at shrines and temples in May and June — at Nishi Honganji in Kyoto, Kofuku-ji in Nara, and Yasukuni Shrine in Tokyo. The outdoor atmosphere and firelight heighten the theatrical effect. Check local schedules.
+**Outdoor (Takigi Noh)**: Several famous outdoor Noh performances by firelight (*takigi noh*) take place at shrines and temples in May and June — at Nishi Honganji in Kyoto, Kofuku-ji in [Nara](/japan/nara-guide), and Yasukuni Shrine in Tokyo. The outdoor atmosphere and firelight heighten the theatrical effect. Check local schedules.
 
 **Tickets**: ¥2,000–10,000 depending on seat and program. Many performances are open to the public without advance booking.
 
@@ -60,7 +60,7 @@ First-time Noh audiences frequently find the pace disorienting — nothing in We
 
 ### What It Is
 
-Bunraku is Japan's classical puppet theater — large-scale puppets (approximately two-thirds human scale) manipulated by three operators each, with a narrator (*tayu*) and shamisen accompaniment. The combination of puppet manipulation, narrative chanting, and shamisen music developed in Osaka's entertainment districts in the 17th century.
+Bunraku is Japan's classical puppet theater — large-scale puppets (approximately two-thirds human scale) manipulated by three operators each, with a narrator (*tayu*) and shamisen accompaniment. The combination of puppet manipulation, narrative chanting, and shamisen music developed in [Osaka](/japan/osaka-guide)'s entertainment districts in the 17th century.
 
 ### The Puppets and Operators
 
@@ -77,7 +77,7 @@ The three operators must have trained together for years to achieve the coordina
 
 The tayu (narrator-singer) sits at stage right and narrates all characters' dialogue and the story's emotional content in a style called *gidayu bushi* — an extremely demanding vocal form combining narration, character voice, and emotional expression in a single performance. A full performance exhausts the tayu; major plays rotate multiple narrators.
 
-The shamisen player seated beside the tayu uses a specific thick-necked shamisen (*futozao*) whose thicker neck produces a heavier, more resonant sound than the lighter shamisen of geisha entertainment.
+The shamisen player seated beside the tayu uses a specific thick-necked shamisen (*futozao*) whose thicker neck produces a heavier, more resonant sound than the lighter shamisen of [geisha](/japan/geisha-guide) entertainment.
 
 ### Repertoire
 
@@ -94,6 +94,6 @@ Many Bunraku plays were later adapted for Kabuki — the puppet theater was the 
 
 **National Theater (国立劇場), Tokyo (Hanzomon)**: Hosts Bunraku programs several times per year — typically January, June, and November. The visiting Osaka troupe performs these runs.
 
-**Awaji Island Puppet Theater**: The island of Awaji in the Seto Inland Sea is the historical origin point of Bunraku puppetry. The *Awaji Ningyo-za* performs traditional puppet plays in a smaller venue at the island's northern tip — accessible from Kobe by bus or car via the Akashi Kaikyo Bridge.
+**Awaji Island Puppet Theater**: The island of Awaji in the Seto Inland Sea is the historical origin point of Bunraku puppetry. The *Awaji Ningyo-za* performs traditional puppet plays in a smaller venue at the island's northern tip — accessible from [Kobe](/japan/kobe-guide) by bus or car via the Akashi Kaikyo Bridge.
 
 **Tickets**: ¥1,800–6,400 at the National Bunraku Theater; earphone guides an additional ¥700. Programs run for 2–3 hours per session (morning and afternoon sessions for major productions).

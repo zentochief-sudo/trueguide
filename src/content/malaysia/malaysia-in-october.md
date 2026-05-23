@@ -10,7 +10,7 @@ tags: [Malaysia, October, Deepavali, Langkawi, Penang, west coast opens, Perhent
 city: national
 ---
 
-October is Malaysia's seasonal switchover month. The east coast's beach season is ending as the northeast monsoon approaches — the Perhentian Islands close in October or November. Meanwhile, the west coast (Langkawi, Penang) is opening for its finest season as the southwest monsoon departs. And Deepavali — the Hindu festival of lights — fills Kuala Lumpur's Brickfields neighborhood and Penang's Sri Mahamariamman Temple precinct with lamps, flowers, and celebration.
+October is [Malaysia](/malaysia)'s seasonal switchover month. The east coast's beach season is ending as the northeast monsoon approaches — the Perhentian Islands close in October or November. Meanwhile, the west coast ([Langkawi](/malaysia/langkawi-guide), [Penang](/malaysia/penang-travel-guide)) is opening for its finest season as the southwest monsoon departs. And Deepavali — the Hindu festival of lights — fills [Kuala Lumpur](/malaysia/kuala-lumpur-guide)'s Brickfields neighborhood and Penang's Sri Mahamariamman Temple precinct with lamps, flowers, and celebration.
 
 ## Weather & Conditions
 
@@ -26,15 +26,15 @@ October is Malaysia's seasonal switchover month. The east coast's beach season i
 
 ## What to Do
 
-**Deepavali in Little India (Brickfields, KL, and Penang):** The Festival of Lights is one of Malaysia's most visually beautiful celebrations. The streets of Brickfields in KL are strung with oil lamps and lights from weeks beforehand. The Sri Mahamariamman Temple on Jalan Travers is surrounded by flower garlands. Open house invitations are extended to all ethnicities. Penang's Indian community in Georgetown's Little India runs similar celebrations.
+**Deepavali in Little [India](/india) (Brickfields, KL, and Penang):** The Festival of Lights is one of Malaysia's most visually beautiful celebrations. The streets of Brickfields in KL are strung with oil lamps and lights from weeks beforehand. The Sri Mahamariamman Temple on Jalan Travers is surrounded by flower garlands. Open house invitations are extended to all ethnicities. Penang's Indian community in Georgetown's Little India runs similar celebrations.
 
 **Langkawi — season opening:** October's improving conditions make Langkawi accessible again. By late October, the beaches (Pantai Cenang, Pantai Kok) are clearing and the dive visibility at Pulau Payar Marine Park is improving. Hotels offer competitive rates in the opening weeks before peak November pricing.
 
-**George Town food culture (Penang):** The west coast's improving October weather makes Georgetown's walking food tour excellent. The Penang hawker centres — Gurney Drive Night Market, the Lorong Selamat char kway teow specialist, and the dim sum heritage of the Chinese quarter — are among Southeast Asia's finest.
+**[George Town](/malaysia/george-town-guide) food culture (Penang):** The west coast's improving October weather makes Georgetown's walking food tour excellent. The Penang hawker centres — Gurney Drive Night Market, the Lorong Selamat char kway teow specialist, and the dim sum heritage of the Chinese quarter — are among Southeast Asia's finest.
 
 **Kinabalu National Park, Sabah:** October is a good month for Kinabalu. The mountain's climate is independent of the coasts; October is within the drier period for highland Sabah. Book summit permits 2–3 months ahead.
 
-**Melaka and historical Malaysia:** The UNESCO World Heritage port city of Melaka is a year-round destination. October's manageable temperatures (30–32°C) make the heritage walk — Stadthuys, A Famosa, the Baba-Nyonya (Peranakan) heritage museum, the Jonker Street night market — comfortable.
+**[Melaka](/malaysia/melaka-guide) and historical Malaysia:** The UNESCO World Heritage port city of Melaka is a year-round destination. October's manageable temperatures (30–32°C) make the heritage walk — Stadthuys, A Famosa, the Baba-Nyonya (Peranakan) heritage museum, the Jonker Street night market — comfortable.
 
 ## Festivals & Events
 

@@ -10,9 +10,9 @@ tags: [Lisbon, Portugal, food, bacalhau, seafood, tasca, petiscos, Time Out Mark
 city: lisbon
 ---
 
-Portuguese cuisine is the most underrated in Western Europe — a serious food culture that has been overshadowed by its neighbors' PR machines. The Portuguese table is built on exceptional olive oil, Atlantic seafood, aged wines, and slow-cooked techniques inherited from centuries of navigational history: preserving and transforming ingredients for long voyages. The result is a cuisine that rewards patience and repetition — the bacalhau that appears in 365 preparations, the petiscos that function as Portugal's answer to tapas, and the caldo verde that is simultaneously humble and perfect.
+Portuguese cuisine is the most underrated in Western Europe — a serious food culture that has been overshadowed by its neighbors' PR machines. The Portuguese table is built on exceptional olive oil, Atlantic seafood, aged wines, and slow-cooked techniques inherited from centuries of navigational history: preserving and transforming ingredients for long voyages. The result is a cuisine that rewards patience and repetition — the bacalhau that appears in 365 preparations, the petiscos that function as [Portugal](/portugal)'s answer to tapas, and the caldo verde that is simultaneously humble and perfect.
 
-Lisbon has a functioning street food culture, a high-quality fine dining scene, and an accessible middle ground of tascas (small traditional restaurants) that represents the best value-to-quality ratio in any European capital.
+[Lisbon](/portugal/lisbon-guide) has a functioning street food culture, a high-quality fine dining scene, and an accessible middle ground of tascas (small traditional restaurants) that represents the best value-to-quality ratio in any European capital.
 
 ---
 
@@ -44,7 +44,7 @@ Portugal has the longest coastline of any mainland European country and uses it 
 
 **Sardinhas assadas (grilled sardines)**: June–September sardine season is marked by outdoor grills on almost every street corner in Alfama. The sardine season is a genuine seasonal event — locals track when the sardines are fat and in season with the seriousness of wine harvest.
 
-**Percebes (barnacles)**: The stalked barnacle harvested from the Atlantic rocks of the Algarve and the Alentejo coast — a luxury seafood eaten boiled with sea salt, twisted apart with the fingers. Available at upscale marisqueiras (seafood restaurants); €15–25 per portion.
+**Percebes (barnacles)**: The stalked barnacle harvested from the Atlantic rocks of the [Algarve](/portugal/algarve-guide) and the Alentejo coast — a luxury seafood eaten boiled with sea salt, twisted apart with the fingers. Available at upscale marisqueiras (seafood restaurants); €15–25 per portion.
 
 **Amêijoas à Bulhão Pato (clams)**: Small clams cooked in white wine, garlic, olive oil, and coriander — named after a 19th-century poet who allegedly invented the preparation. One of the best €12 dishes in the country.
 

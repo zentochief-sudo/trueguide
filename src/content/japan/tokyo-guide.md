@@ -44,7 +44,7 @@ Shinjuku has a serious identity disorder: east of the station is one city, west 
 
 **West Shinjuku** is Tokyo's Manhattan — glass towers, corporate headquarters, two observatory decks (the Metropolitan Government Building observation is free, open until 10:30pm on most nights). The contrast between this and the chaos 500 meters east is striking.
 
-**Shinjuku Gyoen** (¥500 entry) is the best park in central Tokyo — a former imperial garden with distinct Japanese, French, and English sections. In late March, the cherry blossom coverage here is exceptional. Go early morning on a weekday.
+**Shinjuku Gyoen** (¥500 entry) is the best park in central Tokyo — a former imperial garden with distinct Japanese, French, and English sections. In late March, the [cherry blossom](/japan/cherry-blossom-guide) coverage here is exceptional. Go early morning on a weekday.
 
 ### Harajuku and Omotesando
 
@@ -82,7 +82,7 @@ For manga and anime culture: **Mandarake** has multiple floors of secondhand man
 
 ### Ryogoku — The Sumo District
 
-Ryogoku is worth a half-day. The **Kokugikan** (national sumo stadium) is here, and the neighborhood around it has sumo stables where training occurs in the early mornings (the only way to see this is through arranged access or by standing outside the stable windows, which is technically allowed at some stables). The surrounding streets have chanko-nabe restaurants — the high-calorie hot pot that is the traditional meal of wrestlers.
+Ryogoku is worth a half-day. The **Kokugikan** (national [sumo](/japan/sumo-guide) stadium) is here, and the neighborhood around it has sumo stables where training occurs in the early mornings (the only way to see this is through arranged access or by standing outside the stable windows, which is technically allowed at some stables). The surrounding streets have chanko-nabe restaurants — the high-calorie hot pot that is the traditional meal of wrestlers.
 
 The **Edo-Tokyo Museum** next to the stadium is among the best city history museums in Japan, with scale models of the city across different eras and extensive coverage of the 1923 earthquake and 1945 firebombing reconstructions.
 
@@ -106,7 +106,7 @@ The **Edo-Tokyo Museum** next to the stadium is among the best city history muse
 
 Tokyo has the highest density of exceptional restaurants in the world. This is not hyperbole — the Michelin Guide gives the city more stars than any other.
 
-**Ramen**: The city has dozens of regional ramen styles. For Tokyo-style (shoyu broth, light, soy-based): **Fuunji** in Shinjuku, **Kagari** near Ginza. For Sapporo-style miso ramen in Tokyo: **Misoya** in Ikebukuro. Queues of 30–45 minutes are normal at the best shops; they move faster than you expect.
+**Ramen**: The city has dozens of regional ramen styles. For Tokyo-style (shoyu broth, light, soy-based): **Fuunji** in Shinjuku, **Kagari** near Ginza. For [Sapporo](/japan/sapporo-guide)-style miso ramen in Tokyo: **Misoya** in Ikebukuro. Queues of 30–45 minutes are normal at the best shops; they move faster than you expect.
 
 **Sushi**: For omakase at a proper counter (the real experience), expect ¥15,000–40,000 per person. This is not a budget meal — it's a considered choice. For genuinely good sushi without the ceremony, the standing sushi bars (tachi-gui sushi) around Tsukiji outer market charge ¥200–400 per piece and the fish is the same quality.
 
@@ -134,9 +134,9 @@ Tokyo has the highest density of exceptional restaurants in the world. This is n
 
 ## Day Trips from Tokyo
 
-- **Kamakura** (1 hour by JR Yokosuka Line): the Great Buddha, coastal temple circuit, sea views
-- **Nikko** (2 hours by Tobu Nikko line): elaborate Toshogu shrine complex in mountain forest
-- **Hakone** (90 minutes by Romancecar): Mt Fuji views, ryokan onsen, Hakone Open Air Museum
+- **[Kamakura](/japan/kamakura-guide)** (1 hour by JR Yokosuka Line): the Great Buddha, coastal temple circuit, sea views
+- **[Nikko](/japan/nikko-guide)** (2 hours by Tobu Nikko line): elaborate Toshogu shrine complex in mountain forest
+- **[Hakone](/japan/hakone-guide)** (90 minutes by Romancecar): Mt Fuji views, [ryokan](/japan/ryokan-guide) onsen, Hakone Open Air Museum
 - **Yokohama** (30 minutes by Minatomirai Line): Chinatown, harbor, contemporary art museum
 - **Enoshima** (1 hour by Odakyu Line): island shrine, caves, sea views back to Fuji on clear days
 

@@ -10,7 +10,7 @@ tags: [Ciudad de México, transporte, Metro, Metrobús, Uber, World Cup 2026, Az
 city: cdmx
 ---
 
-Mexico City has one of the largest and most complex public transport systems in the world — the Metro with 12 lines and more than 200 stations, the Metrobús with 7 corridors, the Tren Ligero, peseros (minibuses), the Ecobici bike-share system, and Uber. For World Cup visitors, the Metro and Tren Ligero cover most needs at $5 MXN per trip.
+[Mexico](/mexico) City has one of the largest and most complex public transport systems in the world — the Metro with 12 lines and more than 200 stations, the Metrobús with 7 corridors, the Tren Ligero, peseros (minibuses), the Ecobici bike-share system, and Uber. For World Cup visitors, the Metro and Tren Ligero cover most needs at $5 MXN per trip.
 
 ---
 
@@ -27,7 +27,7 @@ The Sistema de Transporte Colectivo Metro has 12 lines identified by number and 
 **The most useful lines for World Cup visitors**:
 
 - **Line 1 (pink)**: Observatorio — Pantitlán. Passes through Insurgentes (access to Roma/Condesa) and the international airport (connection at Pantitlán).
-- **Line 2 (blue)**: Cuatro Caminos — Tasqueña. Reaches Tasqueña, where you connect to the Tren Ligero toward Estadio Azteca.
+- **Line 2 (blue)**: Cuatro Caminos — Tasqueña. Reaches Tasqueña, where you connect to the Tren Ligero toward [Estadio Azteca](/mexico/estadio-azteca-guide).
 - **Line 3 (olive green)**: Indios Verdes — Universidad. Connects Polanco (Auditorio) with the Centro (Hidalgo) and the south (Universidad).
 - **Line 7 (orange)**: El Rosario — Barranca del Muerto. Useful for the Zona Rosa and Paseo de la Reforma.
 

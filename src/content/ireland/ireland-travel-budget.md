@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Ireland sits in the mid-to-high range for European travel costs. Dublin in particular is one of the pricier European capitals — but once you're outside the city, costs drop considerably. With smart choices, you can have an excellent trip without overspending.
+[Ireland](/ireland) sits in the mid-to-high range for European travel costs. [Dublin](/ireland/dublin-travel-guide) in particular is one of the pricier European capitals — but once you're outside the city, costs drop considerably. With smart choices, you can have an excellent trip without overspending.
 
 ## Quick Summary
 
@@ -30,7 +30,7 @@ Ireland sits in the mid-to-high range for European travel costs. Dublin in parti
 
 **B&Bs and guesthouses:** €80–130/night for two people. These are Ireland's sweet spot — typically include a full cooked Irish breakfast, and the quality is usually excellent.
 
-**Mid-range hotels:** €120–200/night. Boutique hotels in Galway, Kilkenny, or Killarney offer great value outside Dublin.
+**Mid-range hotels:** €120–200/night. Boutique hotels in [Galway](/ireland/galway-guide), Kilkenny, or [Killarney](/ireland/killarney-travel-guide) offer great value outside Dublin.
 
 **Dublin hotels:** Add a 20–30% premium. Expect to pay €150–250/night for a decent hotel in central Dublin.
 
@@ -53,7 +53,7 @@ Ireland sits in the mid-to-high range for European travel costs. Dublin in parti
 **Coffee:** €3.50–4.50 for a flat white or cappuccino.
 
 **Budget food tips:**
-- Markets like Dublin's English Market (Cork) and various farmers markets offer excellent cheap eats
+- Markets like Dublin's English Market ([Cork](/ireland/cork-guide)) and various farmers markets offer excellent cheap eats
 - Many gastropubs do early-bird menus (before 6:30pm) at 15–25% off
 - Supermarket meal deals (sandwich + drink + snack) run €4–6
 
@@ -65,7 +65,7 @@ Ireland sits in the mid-to-high range for European travel costs. Dublin in parti
 
 **Car rental:** €35–60/day for a small manual car, more for automatics. Book well in advance for peak season. Check that insurance (CDW) is included. Budget €250–400 for one week with insurance.
 
-**Fuel:** Around €1.70–1.90/litre (petrol). A full week driving the Ring of Kerry circuit and Wild Atlantic Way uses roughly €100–150 in fuel.
+**Fuel:** Around €1.70–1.90/litre (petrol). A full week driving the [Ring of Kerry](/ireland/ring-of-kerry-guide) circuit and [Wild Atlantic Way](/ireland/wild-atlantic-way-guide) uses roughly €100–150 in fuel.
 
 **Public transport (Dublin):** Single bus/tram fare €2.40–3.30. A Leap Card (reusable travel card) reduces fares to €1.80–2.40. A 7-day unlimited bus/tram/DART pass is €40.
 

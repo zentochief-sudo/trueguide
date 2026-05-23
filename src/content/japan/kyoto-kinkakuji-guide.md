@@ -10,7 +10,7 @@ tags: [Kinkakuji, Golden Pavilion, Kyoto, Japan, Rokuon-ji, Muromachi, gold leaf
 city: kyoto
 ---
 
-Kinkakuji (*Rokuon-ji*, Deer Garden Temple) stands at the northern edge of Kyoto in the Kinugasa district — a three-storey pavilion covered in gold leaf, each floor built in a different architectural style, reflected in the Kyoko-chi (Mirror Pond) before it. Ashikaga Yoshimitsu built the original structure in 1397 as his retirement villa; after his death it was converted to a Zen temple by his wishes.
+Kinkakuji (*Rokuon-ji*, Deer Garden Temple) stands at the northern edge of [Kyoto](/japan/kyoto-guide) in the Kinugasa district — a three-storey pavilion covered in gold leaf, each floor built in a different architectural style, reflected in the Kyoko-chi (Mirror Pond) before it. Ashikaga Yoshimitsu built the original structure in 1397 as his retirement villa; after his death it was converted to a Zen temple by his wishes.
 
 The current building is a 1955 reconstruction. The original was burned by a disturbed novice monk in 1950 — an act of destruction that Yukio Mishima famously novelized (*The Temple of the Golden Pavilion*, 1956, one of the essential Japanese novels of the 20th century) as an act of obsessive beauty-destruction. The reconstruction used higher-quality gold leaf than the original and is, paradoxically, more gold than Yoshimitsu's building was.
 

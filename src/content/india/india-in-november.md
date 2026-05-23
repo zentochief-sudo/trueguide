@@ -10,21 +10,21 @@ tags: [India, November, Diwali, Pushkar, Rajasthan, Kerala, ideal season]
 city: national
 ---
 
-November is the argument that India makes to every skeptic who says the country is "too much." In November, the heat is gone, the monsoon is over, the festival season is at its peak, and the iconic destinations — Taj Mahal, Jaipur's Amber Fort, Kerala's backwaters — are fully accessible in ideal conditions. Diwali (when it falls in November) makes the country luminous. The Pushkar Camel Fair brings the desert alive. November is the month India becomes undeniable.
+November is the argument that [India](/india) makes to every skeptic who says the country is "too much." In November, the heat is gone, the monsoon is over, the festival season is at its peak, and the iconic destinations — Taj Mahal, [Jaipur](/india/jaipur-guide)'s Amber Fort, [Kerala](/india/kerala-guide)'s backwaters — are fully accessible in ideal conditions. Diwali (when it falls in November) makes the country luminous. The Pushkar Camel Fair brings the desert alive. November is the month India becomes undeniable.
 
 ## Weather & Conditions
 
-**Delhi:** 14–26°C. Excellent. Some days are summery; evenings require a light jacket. The fog season hasn't started.
+**[Delhi](/india/delhi-guide):** 14–26°C. Excellent. Some days are summery; evenings require a light jacket. The fog season hasn't started.
 
-**Rajasthan:** 16–28°C. Perfect. Warm enough for short sleeves at noon, cool enough for a layer at night. The desert circuit at its best.
+**[Rajasthan](/india/rajasthan-guide):** 16–28°C. Perfect. Warm enough for short sleeves at noon, cool enough for a layer at night. The desert circuit at its best.
 
 **Agra (Taj Mahal):** 14–26°C. Clear sky, crisp light. The Taj in November morning light is the classic version.
 
 **Kerala:** 24–32°C. The northeast monsoon affects the Malabar coast but the rest of Kerala is clear. Excellent for the backwaters and hill stations.
 
-**Goa:** 24–32°C. Beach season fully operational. Water is clear, warm, and calm.
+**[Goa](/india/goa-guide):** 24–32°C. Beach season fully operational. Water is clear, warm, and calm.
 
-**Varanasi:** 14–24°C. Dev Deepawali (Diwali of the Gods) in November is one of India's most extraordinary events.
+**[Varanasi](/india/varanasi-guide):** 14–24°C. Dev Deepawali (Diwali of the Gods) in November is one of India's most extraordinary events.
 
 ## What to Do
 

@@ -16,7 +16,7 @@ Vancouver's defining characteristic for outdoor activity is proximity — the mo
 
 ## Stanley Park
 
-A 405-hectare forest peninsula on the western edge of downtown Vancouver — the largest urban park in Canada, the third largest in North America after Central Park and Griffith Park. The park contains old-growth Douglas fir and western red cedar, a network of trails through the forest interior, the seawall loop, beaches, and the most-photographed views in the city.
+A 405-hectare forest peninsula on the western edge of downtown Vancouver — the largest urban park in [Canada](/canada), the third largest in North America after Central Park and Griffith Park. The park contains old-growth Douglas fir and western red cedar, a network of trails through the forest interior, the seawall loop, beaches, and the most-photographed views in the city.
 
 **The Seawall** (10 km loop): The paved path circumnavigating the park — accessible to cyclists, rollerbladers, and pedestrians. The north side (past Prospect Point and the Lions Gate Bridge) has the most dramatic views of Burrard Inlet and the North Shore Mountains; the west side (Third Beach, Second Beach) faces the open Pacific and has the sunset views.
 

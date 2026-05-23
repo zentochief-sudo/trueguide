@@ -10,7 +10,7 @@ tags: [Italy, August, Ferragosto, Sardinia, Sicily, beach, Venice, Dolomites, su
 city: national
 ---
 
-August is Italy's paradox month. The cities — Rome, Milan, Florence — partially empty as Italians take their annual vacation (Ferragosto), creating a strange situation where the tourist destination empties of its own residents while filling with foreign visitors. Meanwhile, the coasts are at absolute maximum capacity, Ferragosto creates the most Italian week of the year (August 15 and surrounding days), and Sardinia's beaches are the most beautiful and expensive they'll be all year.
+August is [Italy](/italy)'s paradox month. The cities — [Rome](/italy/rome-guide), [Milan](/italy/milan-travel-guide), Florence — partially empty as Italians take their annual vacation (Ferragosto), creating a strange situation where the tourist destination empties of its own residents while filling with foreign visitors. Meanwhile, the coasts are at absolute maximum capacity, Ferragosto creates the most Italian week of the year (August 15 and surrounding days), and Sardinia's beaches are the most beautiful and expensive they'll be all year.
 
 ## Ferragosto — August 15
 

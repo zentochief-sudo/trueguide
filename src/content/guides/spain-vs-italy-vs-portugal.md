@@ -10,7 +10,7 @@ destinations: [spain, italy, portugal]
 tags: [Spain, Italy, Portugal, Europe, comparison, Mediterranean, travel]
 ---
 
-Southern Europe is the most over-romanticized region on earth, and also one of the few places where the reality regularly exceeds the expectation. The problem is that Spain, Italy, and Portugal each claim the title of "best country in Europe for food / beaches / culture / cost of living" — and none of them are entirely wrong.
+Southern Europe is the most over-romanticized region on earth, and also one of the few places where the reality regularly exceeds the expectation. The problem is that [Spain](/spain), [Italy](/italy), and [Portugal](/portugal) each claim the title of "best country in Europe for food / beaches / culture / cost of living" — and none of them are entirely wrong.
 
 This article exists to help you stop cycling between three browser tabs and make a decision.
 
@@ -28,7 +28,7 @@ This article exists to help you stop cycling between three browser tabs and make
 
 Spain has the best urban culture in Southern Europe. Barcelona and Madrid are genuinely world-class cities — not in the "great for a weekend" sense but in the "you could live here for years and not exhaust it" sense.
 
-**Food:** Pintxos in San Sebastián. Jamón ibérico anywhere. Paella in Valencia (not in Barcelona, where the paella is largely for tourists). The tapas culture of Sevilla, where the free bite with your drink is sometimes better than the main dish. Spain has more Michelin-starred restaurants per capita than France — a fact the Spanish mention with appropriate frequency.
+**Food:** Pintxos in San Sebastián. Jamón ibérico anywhere. Paella in Valencia (not in Barcelona, where the paella is largely for tourists). The tapas culture of Sevilla, where the free bite with your drink is sometimes better than the main dish. Spain has more Michelin-starred restaurants per capita than [France](/france) — a fact the Spanish mention with appropriate frequency.
 
 **Beaches:** The Costa Brava north of Barcelona, the Balearic Islands (Mallorca, Menorca — avoid Ibiza unless that's specifically what you're after), and the white villages of Andalucía above the coast of the Costa de la Luz.
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Portugal is one of Europe's most reliably sunny destinations — Lisbon gets about 2,800 hours of sunshine per year, more than Rome or Barcelona. But the character of each season varies significantly, especially between the coast and the interior.
+[Portugal](/portugal) is one of Europe's most reliably sunny destinations — [Lisbon](/portugal/lisbon-guide) gets about 2,800 hours of sunshine per year, more than Rome or Barcelona. But the character of each season varies significantly, especially between the coast and the interior.
 
 ## The Short Answer
 
@@ -24,10 +24,10 @@ Portugal is one of Europe's most reliably sunny destinations — Lisbon gets abo
 ## Month-by-Month
 
 ### January & February
-Cold (8–14°C in Lisbon), occasional rain. The interior (Alentejo) can be cold and foggy. The Algarve, however, is mild and remarkably uncrowded — locals visit in winter for a reason. Prices are at annual lows. The almond blossom in the Algarve (late January–February) is a unique spectacle.
+Cold (8–14°C in Lisbon), occasional rain. The interior (Alentejo) can be cold and foggy. The [Algarve](/portugal/algarve-guide), however, is mild and remarkably uncrowded — locals visit in winter for a reason. Prices are at annual lows. The almond blossom in the Algarve (late January–February) is a unique spectacle.
 
 ### March & April
-Spring arrives quickly. Flowers bloom across the Alentejo and Douro Valley. Rain is possible, especially in the north, but interspersed with warm, sunny days. Good time for Lisbon and Porto city breaks — the light is beautiful and crowds haven't built up. Easter week brings some festivity.
+Spring arrives quickly. Flowers bloom across the Alentejo and [Douro Valley](/portugal/douro-valley-guide). Rain is possible, especially in the north, but interspersed with warm, sunny days. Good time for Lisbon and [Porto](/portugal/porto-guide) city breaks — the light is beautiful and crowds haven't built up. Easter week brings some festivity.
 
 ### May ⭐ Excellent
 One of Portugal's best months. Temperatures 18–23°C in Lisbon, warm enough for beaches in the Algarve (20–22°C). Wildflowers carpeting Alentejo plains. The Douro Valley is green before the summer heat dries it out. Crowds are building but accommodation is still reasonable.
@@ -55,7 +55,7 @@ Rain increases, especially in Porto and the north. Lisbon and the Algarve remain
 **Porto and the north:** Rainier than Lisbon, greener and lusher. Best May–September.  
 **Alentejo:** Extremes — hot and dry summers, cold winters. Best in spring (April–May) and autumn (September–October).  
 **Algarve:** Southern coast, warmest part of Portugal. Good November–March for quieter beach walks; June–September for swimming.  
-**Azores:** Mild year-round (14–23°C). Can get wet at any time. Best July–September for hiking and whale watching.  
+**[Azores](/portugal/azores-guide):** Mild year-round (14–23°C). Can get wet at any time. Best July–September for hiking and whale watching.  
 **Madeira:** "Island of Eternal Spring" — 18–26°C all year. No bad time.
 
 ---

@@ -10,7 +10,7 @@ tags: [Khan el-Khalili, Cairo, bazaar, shopping, Egypt, Islamic Cairo]
 city: cairo
 ---
 
-Khan el-Khalili has been a commercial hub of Cairo since 1382, when the Mamluk emir Jarkas el-Khalili built a caravanserai on this site. For 640 years, the market has sold spices, gold, textiles, copperware, and just about everything else to a mix of local Egyptians and foreign visitors. Today it's the most visited bazaar in Egypt — chaotic, colorful, and still genuinely used by locals for specific goods (the gold market, the spice souk, and the perfume district all have active neighborhood clientele, not just tourist shops).
+Khan el-Khalili has been a commercial hub of [Cairo](/egypt/cairo-travel-guide) since 1382, when the Mamluk emir Jarkas el-Khalili built a caravanserai on this site. For 640 years, the market has sold spices, gold, textiles, copperware, and just about everything else to a mix of local Egyptians and foreign visitors. Today it's the most visited bazaar in [Egypt](/egypt) — chaotic, colorful, and still genuinely used by locals for specific goods (the gold market, the spice souk, and the perfume district all have active neighborhood clientele, not just tourist shops).
 
 ---
 

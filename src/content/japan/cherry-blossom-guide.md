@@ -13,7 +13,7 @@ etsy_template:
 city: national
 ---
 
-There's a version of cherry blossom season that's a nightmare. You booked six months out, flew 14 hours, arrived to peak bloom — and so did 400,000 other people. Ueno Park looks like a festival grounds. Maruyama Park in Kyoto has a line to enter. The photos you imagined are impossible to take without a stranger's elbow in frame.
+There's a version of cherry blossom season that's a nightmare. You booked six months out, flew 14 hours, arrived to peak bloom — and so did 400,000 other people. Ueno Park looks like a festival grounds. Maruyama Park in [Kyoto](/japan/kyoto-guide) has a line to enter. The photos you imagined are impossible to take without a stranger's elbow in frame.
 
 Then there's the version where you actually planned it right.
 
@@ -27,11 +27,11 @@ Cherry blossoms don't bloom on a fixed date. They bloom in response to winter co
 
 - **Tokyo** — late March to early April
 - **Kyoto** — late March to early April (2–3 days behind Tokyo)
-- **Osaka** — same window as Kyoto
-- **Hiroshima** — late March
-- **Sendai (Tohoku)** — mid-April
+- **[Osaka](/japan/osaka-guide)** — same window as Kyoto
+- **[Hiroshima](/japan/hiroshima-guide)** — late March
+- **Sendai ([Tohoku](/japan/tohoku-guide))** — mid-April
 - **Hirosaki (Aomori)** — late April to early May
-- **Sapporo (Hokkaido)** — late April to early May
+- **[Sapporo](/japan/sapporo-guide) ([Hokkaido](/japan/hokkaido-guide))** — late April to early May
 
 "Full bloom" (満開, *mankai*) lasts about a week. Before that is "70% bloom" which is actually the best time — the petals are open, the trees look their fullest, and crowds are slightly thinner. After full bloom, petals begin to fall in the wind (this is called *hanafubuki*, "cherry blossom blizzard") which is arguably more beautiful.
 
@@ -43,8 +43,8 @@ Flights and accommodation fill up six months in advance for peak sakura weeks. T
 
 **Book early:**
 - Hotels in Kyoto during the last week of March — these sell out faster than Tokyo
-- Ryokan in smaller towns (Yoshino, Hirosaki) — often limited to 10–20 rooms
-- Japan Rail Pass — no availability issues, but buy before you leave
+- [Ryokan](/japan/ryokan-guide) in smaller towns (Yoshino, Hirosaki) — often limited to 10–20 rooms
+- [Japan Rail Pass](/japan/japan-rail-pass-guide) — no availability issues, but buy before you leave
 
 **Don't panic-book:**
 - Day-trip logistics — trains run constantly, no advance purchase needed for most routes

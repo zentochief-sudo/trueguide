@@ -10,27 +10,27 @@ tags: []
 city: national
 ---
 
-Kazakhstan is one of the world's most underexplored destinations — an enormous country (the world's 9th largest) that combines extraordinary landscapes, a fascinating nomadic cultural heritage, unexpected cosmopolitanism, and some of the most dramatic terrain on earth. Most visitors arrive knowing almost nothing and leave wanting to return.
+[Kazakhstan](/kazakhstan) is one of the world's most underexplored destinations — an enormous country (the world's 9th largest) that combines extraordinary landscapes, a fascinating nomadic cultural heritage, unexpected cosmopolitanism, and some of the most dramatic terrain on earth. Most visitors arrive knowing almost nothing and leave wanting to return.
 
 ## The Basics
 
-**Capital:** Astana (also recently called Nur-Sultan; the name has changed multiple times)  
+**Capital:** [Astana](/kazakhstan/astana-guide) (also recently called Nur-Sultan; the name has changed multiple times)  
 **Currency:** Kazakhstani Tenge (KZT). €1 ≈ KZT 500.  
 **Language:** Kazakh (official), Russian (widely spoken in cities). English is improving but limited outside tourist areas.  
-**Time zone:** Two zones — ALMT (UTC+6) for Almaty; AQTT (UTC+5) for western Kazakhstan  
+**Time zone:** Two zones — ALMT (UTC+6) for [Almaty](/kazakhstan/almaty-travel-guide); AQTT (UTC+5) for western Kazakhstan  
 **Driving:** Right-hand side  
 **Plugs:** Type C and F (standard European round pins)  
-**Visa:** US, EU, UK, Canada, Australia — visa-free for 30 days. Some nationalities up to 90 days. Check current regulations.
+**Visa:** US, EU, UK, [Canada](/canada), Australia — visa-free for 30 days. Some nationalities up to 90 days. Check current regulations.
 
 ---
 
 ## The Three Kazakhstans
 
-**Southern Kazakhstan (Almaty and surroundings):** The most visited region — the cosmopolitan city of Almaty, the Tian Shan mountains, Charyn Canyon, and the Kolsai Lakes. Accessible, developed for tourism, and spectacularly beautiful.
+**Southern Kazakhstan (Almaty and surroundings):** The most visited region — the cosmopolitan city of Almaty, the Tian Shan mountains, [Charyn Canyon](/kazakhstan/charyn-canyon-guide), and the Kolsai Lakes. Accessible, developed for tourism, and spectacularly beautiful.
 
 **Central/Northern Kazakhstan (Astana and steppe):** The futuristic capital Astana rising from flat steppe. The Burabay national park. The vast, unfathomable scale of the Kazakh steppe — the world's largest continuous grassland.
 
-**Southern Silk Road (Shymkent and Turkestan):** The ancient Silk Road corridor, Uzbekistan-border food culture, and the extraordinary Mausoleum of Khoja Ahmed Yasawi.
+**Southern [Silk Road](/kazakhstan/silk-road-guide) ([Shymkent](/kazakhstan/shymkent-guide) and Turkestan):** The ancient Silk Road corridor, Uzbekistan-border food culture, and the extraordinary Mausoleum of Khoja Ahmed Yasawi.
 
 ---
 
@@ -98,6 +98,6 @@ Kazakh food is meat-centric, hearty, and reflects the nomadic heritage.
 
 - **Nauryz (March 21–23):** The Kazakh New Year — outdoor festival with traditional food, music, and horse games
 - **The Golden Man at the Central State Museum:** Kazakhstan's greatest archaeological treasure
-- **Big Almaty Lake:** A turquoise high-altitude lake that looks like it belongs in New Zealand
+- **[Big Almaty Lake](/kazakhstan/big-almaty-lake-guide):** A turquoise high-altitude lake that looks like it belongs in New Zealand
 - **Eagle hunting festival (autumn, Altai region):** One of the world's most extraordinary cultural spectacles
 - **A yurt night:** Stay overnight in a real yurt in a mountain pasture — the stars above the steppe are extraordinary

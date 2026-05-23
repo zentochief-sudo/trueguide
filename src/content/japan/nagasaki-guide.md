@@ -12,17 +12,17 @@ city: national
 
 Nagasaki sits in a deep harbor on the western coast of Kyushu, surrounded by hills so steep that the residential neighborhoods are connected by public elevators rather than streets in some sections. The topography contained the city's growth for centuries and gave it an intimacy — narrow lanes, hillside vistas, the harbor always visible below — that larger Japanese cities lack.
 
-During Japan's *sakoku* (closed country) period (1635–1853), Nagasaki was the single legal point of contact between Japan and the outside world. A small artificial island in the harbor called Dejima housed the Dutch East India Company trading post; a larger Chinese settlement occupied the Shinchi district. The result was two centuries of careful, controlled cultural exchange that left architectural traces, culinary hybrids, and a cosmopolitan history unlike anywhere else in Japan.
+During Japan's *sakoku* (closed country) period (1635–1853), Nagasaki was the single legal point of contact between Japan and the outside world. A small artificial island in the harbor called Dejima housed the Dutch East [India](/india) Company trading post; a larger Chinese settlement occupied the Shinchi district. The result was two centuries of careful, controlled cultural exchange that left architectural traces, culinary hybrids, and a cosmopolitan history unlike anywhere else in Japan.
 
-On August 9, 1945, a plutonium bomb nicknamed "Fat Man" was detonated 500 meters above Matsuyama district. The explosion and its effects killed 70,000–80,000 people. The city rebuilt, and the rebuilt city holds both histories simultaneously.
+On August 9, 1945, a plutonium bomb nicknamed "Fat Man" was detonated 500 meters above [Matsuyama](/japan/matsuyama-guide) district. The explosion and its effects killed 70,000–80,000 people. The city rebuilt, and the rebuilt city holds both histories simultaneously.
 
 ---
 
 ## Getting There
 
-**From Fukuoka**: 2 hours by Kamome limited express train (¥4,770). The most common access point.
-**From Osaka**: 3 hours by Shinkansen to Hakata + 2 hours by Kamome — total 5 hours (or 2 hours by flight).
-**From Tokyo**: 2 hours by flight to Nagasaki Airport.
+**From [Fukuoka](/japan/fukuoka-guide)**: 2 hours by Kamome limited express train (¥4,770). The most common access point.
+**From [Osaka](/japan/osaka-guide)**: 3 hours by Shinkansen to Hakata + 2 hours by Kamome — total 5 hours (or 2 hours by flight).
+**From [Tokyo](/japan/tokyo-guide)**: 2 hours by flight to Nagasaki Airport.
 
 The city center is accessible from Nagasaki Station by tram (streetcar, ¥140 per ride, IC card accepted). The tram network covers the main sightseeing areas.
 
@@ -30,7 +30,7 @@ The city center is accessible from Nagasaki Station by tram (streetcar, ¥140 pe
 
 ## The Atomic Bomb Memorial
 
-**Atomic Bomb Museum** (Nagasaki National Peace Memorial Hall) — the primary historical account of the bombing, in a building below a reflecting pool on the hillside above ground zero. The museum covers the political context of the war and the bomb decision, the physical and human consequences of the explosion, and the postwar nuclear disarmament argument. The objects on display (melted glass, charred clothing, structural fragments) are the same language as Hiroshima's — physical evidence as testimony.
+**Atomic Bomb Museum** (Nagasaki National Peace Memorial Hall) — the primary historical account of the bombing, in a building below a reflecting pool on the hillside above ground zero. The museum covers the political context of the war and the bomb decision, the physical and human consequences of the explosion, and the postwar nuclear disarmament argument. The objects on display (melted glass, charred clothing, structural fragments) are the same language as [Hiroshima](/japan/hiroshima-guide)'s — physical evidence as testimony.
 
 Admission ¥200. Allow 90 minutes.
 
@@ -62,7 +62,7 @@ The Shinchi Chinatown is the oldest Chinese district in Japan — the Chinese me
 
 **Sara udon** — a Nagasaki variant: crispy fried thin noodles topped with the same champon ingredients in a thick starchy sauce. The contrast between the crunchy noodle and the sauce is the dish.
 
-**Kakuni manju** — braised pork belly (similar to rafute in Okinawa or dong po rou in Hangzhou) inside a soft steamed bun. Sold at street stalls throughout the old town. The Chinese-Japanese synthesis in one dumpling.
+**Kakuni manju** — braised pork belly (similar to rafute in [Okinawa](/japan/okinawa-guide) or dong po rou in Hangzhou) inside a soft steamed bun. Sold at street stalls throughout the old town. The Chinese-Japanese synthesis in one dumpling.
 
 ---
 

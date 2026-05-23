@@ -10,19 +10,19 @@ tags: [Japan, February, winter, plum blossoms, Sapporo Snow Festival, skiing]
 city: national
 ---
 
-February has a reputation as Japan's off-season — and that reputation is mostly wrong. It's cold, yes. The cherry blossoms are weeks away. But February has three things no other month does: peak ski conditions, the Sapporo Snow Festival, and plum blossoms that arrive before the crowds.
+February has a reputation as Japan's off-season — and that reputation is mostly wrong. It's cold, yes. The cherry blossoms are weeks away. But February has three things no other month does: peak ski conditions, the [Sapporo](/japan/sapporo-guide) Snow Festival, and plum blossoms that arrive before the crowds.
 
 Experienced Japan travelers use February as a cheat code. The country is beautiful, quiet, and cheap.
 
 ## Weather in February
 
-**Tokyo / Kyoto:** Coldest month of the year. Tokyo averages 10°C high, 2°C low. Kyoto similar, with slightly colder nights. Clear, dry days are common. Snow in Tokyo happens 2–3 times per season — magical when it does.
+**Tokyo / [Kyoto](/japan/kyoto-guide):** Coldest month of the year. Tokyo averages 10°C high, 2°C low. Kyoto similar, with slightly colder nights. Clear, dry days are common. Snow in Tokyo happens 2–3 times per season — magical when it does.
 
-**Hokkaido:** -8 to -15°C average. Peak snowfall season. Sapporo is in full winter mode.
+**[Hokkaido](/japan/hokkaido-guide):** -8 to -15°C average. Peak snowfall season. Sapporo is in full winter mode.
 
-**Kyushu:** Noticeably milder than Honshu (14–16°C in Fukuoka). Plum blossoms arrive early here.
+**Kyushu:** Noticeably milder than Honshu (14–16°C in [Fukuoka](/japan/fukuoka-guide)). Plum blossoms arrive early here.
 
-**Okinawa:** 18–21°C. The closest Japan has to winter warmth.
+**[Okinawa](/japan/okinawa-guide):** 18–21°C. The closest Japan has to winter warmth.
 
 ## The Sapporo Snow Festival
 
@@ -71,7 +71,7 @@ February is the best month for Japanese powder. The snowpack is deep, the powder
 
 **Valentine's Day (February 14):** In Japan, Valentine's Day is observed by women giving chocolate to men (not the reverse — that comes on White Day, March 14). Confectionery shops produce extraordinary gift packaging. The ritual is specific to Japan in a charming way.
 
-**Kamakura Ice Festival (Yokote, Akita):** Small snow igloos (kamakura) with candles inside, lined along streets in a small city in Akita Prefecture. One of Japan's most atmospheric winter festivals. 4 hours from Tokyo, 2 hours from Sendai.
+**[Kamakura](/japan/kamakura-guide) Ice Festival (Yokote, Akita):** Small snow igloos (kamakura) with candles inside, lined along streets in a small city in Akita Prefecture. One of Japan's most atmospheric winter festivals. 4 hours from Tokyo, 2 hours from Sendai.
 
 ## Budget in February
 
@@ -81,7 +81,7 @@ One of the best-value months in Japan.
 |---|---|
 | Budget accommodation (non-Sapporo festival week) | $28–50/night |
 | Mid-range hotel | $85–150/night |
-| Ryokan (mid-week) | $120–250/person with meals |
+| [Ryokan](/japan/ryokan-guide) (mid-week) | $120–250/person with meals |
 | Ski accommodation (Niseko) | $150–350+/person |
 | 10-day trip budget | $1,600–2,800 |
 
@@ -91,7 +91,7 @@ One of the best-value months in Japan.
 
 **Best 2-week February itinerary:**
 1. **Tokyo** (3 nights) — winter illuminations ending, plum blossoms at Yushima, Shibuya and Shinjuku in cold-weather gear
-2. **Hakone** (2 nights) — onsen with Fuji views in clear winter weather
+2. **[Hakone](/japan/hakone-guide)** (2 nights) — onsen with Fuji views in clear winter weather
 3. **Kyoto** (3 nights) — quiet temples, Kitano Tenmangu plum festival, Fushimi Inari without crowds
 4. **Niseko or Hakuba** (4 nights) — peak powder
 

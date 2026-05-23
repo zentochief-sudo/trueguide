@@ -27,7 +27,7 @@ The view from **Shinjuku West Exit** looking toward the skyscraper cluster with 
 **Yanaka Ginza** in the early morning before 8am is Tokyo's most atmospheric photographic location for a certain kind of image: old Japan, low buildings, cats, slow life. The cemetery adjacent to it has tree-lined paths with lanterns and old gravestone markers that photograph well in soft light and near-silence.
 
 ### TeamLab Venues
-Legitimate art photography locations inside a building — the LED light installations at **teamLab Borderless** (now in Azabudai Hills) and **teamLab Planets** (Toyosu) allow personal photography. Long exposures with a small tripod (check venue policy) produce different images from the hand-held tourist photos; the reflection pools in particular reward deliberate exposure.
+Legitimate art photography locations inside a building — the LED light installations at **[teamLab](/japan/teamlab-guide) Borderless** (now in Azabudai Hills) and **teamLab Planets** (Toyosu) allow personal photography. Long exposures with a small tripod (check venue policy) produce different images from the hand-held tourist photos; the reflection pools in particular reward deliberate exposure.
 
 ### Shibuya Crossing from Above
 The crossing itself is less interesting photographically than the view from above. **Shibuya Sky** (¥2,000, rooftop) or the **Starbucks on the second floor of Qfront building** (free, with purchase) give slightly different perspectives on the crossing. The Starbucks angle is tighter and therefore stronger compositionally; the rooftop view shows the full scale. Both work at evening rush hour (5-7pm).
@@ -53,7 +53,7 @@ Early morning is also effective but the shop fronts are closed, which removes so
 The canal-side walk lined with cherry trees is Kyoto's most seasonal photographic location. Peak sakura (late March to early April) is the obvious timing. Less obvious: early November when the maples begin to turn produces images with the canal, the stone path, the fallen leaves, and the sense of a place taken seriously over time.
 
 ### Gion Hanamachi
-The streets around **Shirakawa-cho** in Gion are the closest remaining setting to traditional Kyoto. Photography here requires restraint: geisha and maiko have been harassed by photographers with some frequency, and the neighborhood has posted signs asking visitors not to photograph residents without permission. Landscape shots of the canal, willow trees, and stone-paved streets are unproblematic. People photography requires judgment.
+The streets around **Shirakawa-cho** in Gion are the closest remaining setting to traditional Kyoto. Photography here requires restraint: [geisha](/japan/geisha-guide) and maiko have been harassed by photographers with some frequency, and the neighborhood has posted signs asking visitors not to photograph residents without permission. Landscape shots of the canal, willow trees, and stone-paved streets are unproblematic. People photography requires judgment.
 
 ---
 
@@ -82,10 +82,10 @@ The A-Bomb Dome is Japan's most photographed monument for serious reasons. Photo
 
 | Month | What to Photograph |
 |---|---|
-| February | Snow in Hokkaido; plum blossoms in Tokyo/Kyoto; ice sculptures (Sapporo) |
-| Late March–April | Sakura — Tokyo parks, Kyoto canal, Hirosaki Castle in Tohoku |
+| February | Snow in [Hokkaido](/japan/hokkaido-guide); plum blossoms in Tokyo/Kyoto; ice sculptures ([Sapporo](/japan/sapporo-guide)) |
+| Late March–April | Sakura — Tokyo parks, Kyoto canal, Hirosaki Castle in [Tohoku](/japan/tohoku-guide) |
 | Late April–May | Wisteria (Ashikaga Flower Park); fresh green rice paddies |
-| June–July | Hydrangea — Kamakura's Meigetsu-in; Hakone's Hakoneyama |
+| June–July | Hydrangea — [Kamakura](/japan/kamakura-guide)'s Meigetsu-in; [Hakone](/japan/hakone-guide)'s Hakoneyama |
 | August | Fireworks (hanabi); Obon lantern festivals; sunflower fields in Hokkaido |
 | October–November | Autumn foliage — Kyoto, Nikko, Tohoku mountain parks |
 | December–January | City illuminations; snow landscapes; Shinjuku at Christmas |
@@ -100,4 +100,4 @@ The A-Bomb Dome is Japan's most photographed monument for serious reasons. Photo
 
 **Crowds and timing**: The rule applies across Japan — early morning and late evening are when the iconic locations are at their most photographic. The two hours after dawn and the hour before dusk are where the work happens.
 
-**Seasonal accommodation logic**: For cherry blossom photography, staying near Maruyama Park (Kyoto), Shinjuku Gyoen (Tokyo), or Hirosaki Castle (Tohoku) is worth the higher spring-season hotel prices — proximity means first access in the morning before the crowds arrive.
+**Seasonal accommodation logic**: For [cherry blossom](/japan/cherry-blossom-guide) photography, staying near Maruyama Park (Kyoto), Shinjuku Gyoen (Tokyo), or Hirosaki Castle (Tohoku) is worth the higher spring-season hotel prices — proximity means first access in the morning before the crowds arrive.

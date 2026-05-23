@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Peru is one of the world's great travel destinations — home to one of history's greatest civilisations, extraordinary food, and landscapes ranging from the Amazon jungle to high-altitude Andean mountains. Seven days covers the essential arc: Lima, Cusco, Sacred Valley, and Machu Picchu.
+[Peru](/peru) is one of the world's great travel destinations — home to one of history's greatest civilisations, extraordinary food, and landscapes ranging from the [Amazon](/peru/amazon-guide) jungle to high-altitude Andean mountains. Seven days covers the essential arc: [Lima](/peru/lima-guide), [Cusco](/peru/cusco-guide), [Sacred Valley](/peru/sacred-valley-guide), and [Machu Picchu](/peru/machu-picchu-guide).
 
 ## Day 1 – Lima: Arrival & Miraflores
 

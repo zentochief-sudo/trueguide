@@ -34,9 +34,9 @@ Universal Studios Japan (USJ) is genuinely excellent — not "good for a theme p
 
 ## Getting There
 
-**From Osaka:** JR Osaka Loop Line from Osaka Station (or Namba-adjacent stations) to Nishikujo, transfer to JR Yumesaki Line (Universal City line) to Universal City Station. Total: 18–25 minutes from central Osaka, ¥180.
+**From [Osaka](/japan/osaka-guide):** JR Osaka Loop Line from Osaka Station (or Namba-adjacent stations) to Nishikujo, transfer to JR Yumesaki Line (Universal City line) to Universal City Station. Total: 18–25 minutes from central Osaka, ¥180.
 
-**From Kyoto:** JR to Osaka Station, then as above. Total: 45–55 minutes.
+**From [Kyoto](/japan/kyoto-guide):** JR to Osaka Station, then as above. Total: 45–55 minutes.
 
 **Universal City Station to park gate:** 5-minute walk from the station through the CityWalk outdoor shopping area.
 

@@ -18,11 +18,11 @@ Matsuyama specifically has two things that make it a significant stop: Matsuyama
 
 ## Getting There
 
-**From Osaka**: 2.5 hours by Shinkansen to Okayama + 1.5 hours by JR Limited Express Shiokaze to Matsuyama (total ¥12,000). JR Pass valid for both.
+**From [Osaka](/japan/osaka-guide)**: 2.5 hours by Shinkansen to Okayama + 1.5 hours by JR Limited Express Shiokaze to Matsuyama (total ¥12,000). JR Pass valid for both.
 
-**From Hiroshima**: 1 hour by high-speed ferry across the Seto Inland Sea (¥6,700) — one of the more scenic ferry routes in Japan, passing between the islands of the Onomichi-Imabari Shimanami Kaido route.
+**From [Hiroshima](/japan/hiroshima-guide)**: 1 hour by high-speed ferry across the Seto Inland Sea (¥6,700) — one of the more scenic ferry routes in Japan, passing between the islands of the [Onomichi](/japan/onomichi-guide)-Imabari [Shimanami Kaido](/japan/shimanami-kaido-guide) route.
 
-**From Fukuoka**: 2 hours by bus to Matsuyama (highway bus, ¥4,200 one-way).
+**From [Fukuoka](/japan/fukuoka-guide)**: 2 hours by bus to Matsuyama (highway bus, ¥4,200 one-way).
 
 **Within Matsuyama**: A tram (streetcar) system operates on two lines through the city. The main line connects Matsuyama Station to Dogo Onsen. Fare: ¥180 per ride; 1-day pass ¥700.
 
@@ -34,7 +34,7 @@ The castle occupies the summit of Katsuyama hill (132m) in the center of the cit
 
 **Access**: By ropeway (¥510 round trip, 3-minute ride) or by hiking path (20 minutes each way). The ropeway terminus and the start of the hiking paths are both at the base of the hill, 15 minutes walk from central Matsuyama.
 
-The hilltop view takes in the city below, the Seto Inland Sea, and the surrounding mountains. In cherry blossom season (early April), the 200 trees on the castle hill make this one of the premier cherry blossom viewing spots in western Japan.
+The hilltop view takes in the city below, the Seto Inland Sea, and the surrounding mountains. In [cherry blossom](/japan/cherry-blossom-guide) season (early April), the 200 trees on the castle hill make this one of the premier cherry blossom viewing spots in western Japan.
 
 **Interior**: The castle interior shows the progressive design evolution through the three builds — the current three-story main tower is smaller than the original (destroyed in a lightning strike) and reflects the simplified, practical aesthetic of later Edo-period castle design. The wooden interior staircases are steep originals. Admission ¥520 (castle) + ¥510 (ropeway).
 
@@ -80,7 +80,7 @@ The cave complex behind the main temple buildings — a long winding passage cut
 
 **Matsuyama is walkable and tram-accessible**: The castle, central shopping, and Dogo Onsen are all connected by the tram network. The 1-day tram pass covers all necessary routes.
 
-**Accommodation**: Staying in the Dogo Onsen area puts you within walking distance of the bath and the shrine complex; staying near Matsuyama Station is more convenient for transport connections. Several ryokan in the Dogo area have private onsen fed by the same spring.
+**Accommodation**: Staying in the Dogo Onsen area puts you within walking distance of the bath and the shrine complex; staying near Matsuyama Station is more convenient for transport connections. Several [ryokan](/japan/ryokan-guide) in the Dogo area have private onsen fed by the same spring.
 
 **Mandarin oranges**: Ehime Prefecture produces more *mikan* (mandarin oranges) than any other prefecture in Japan. The juice at the Matsuyama airport and station is genuinely excellent; the fresh *mikan* from roadside stands in season (October–February) are worth buying.
 

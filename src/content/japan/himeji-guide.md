@@ -10,7 +10,7 @@ tags: [Himeji, Himeji Castle, Japan, castle, UNESCO, National Treasure, Hyogo, a
 city: national
 ---
 
-Of Japan's twelve surviving original castle keeps — the wooden, unreconstructed tower buildings that date from before the Meiji era — Himeji's is the largest, the most complex, and the most completely preserved. Where most famous Japanese castles are concrete reconstructions built in the 1950s–1970s (Osaka, Nagoya, Kumamoto), Himeji's seven main buildings are original 1609 construction: the white plaster, the wooden frames, the stone base, the defensive systems designed for actual military use.
+Of Japan's twelve surviving original castle keeps — the wooden, unreconstructed tower buildings that date from before the Meiji era — Himeji's is the largest, the most complex, and the most completely preserved. Where most famous Japanese castles are concrete reconstructions built in the 1950s–1970s ([Osaka](/japan/osaka-guide), [Nagoya](/japan/nagoya-guide), Kumamoto), Himeji's seven main buildings are original 1609 construction: the white plaster, the wooden frames, the stone base, the defensive systems designed for actual military use.
 
 The comparison between Himeji and a reconstructed castle is the difference between standing in a 400-year-old building and standing in a period-accurate building made last year. Both are visually similar. Only one has the quality of the original.
 
@@ -20,9 +20,9 @@ The comparison between Himeji and a reconstructed castle is the difference betwe
 
 **From Osaka (Shin-Osaka)**: JR Shinkansen (Hikari or Nozomi) to Himeji (40–50 minutes, ¥2,310). The most direct option.
 
-**From Kyoto**: Shinkansen to Himeji (60 minutes, ¥3,750), or JR Tokaido-Sanyo Line rapid (90 minutes, ¥1,520). JR Pass valid for both.
+**From [Kyoto](/japan/kyoto-guide)**: Shinkansen to Himeji (60 minutes, ¥3,750), or JR Tokaido-Sanyo Line rapid (90 minutes, ¥1,520). JR Pass valid for both.
 
-**From Hiroshima**: Shinkansen to Himeji (40 minutes, ¥3,580).
+**From [Hiroshima](/japan/hiroshima-guide)**: Shinkansen to Himeji (40 minutes, ¥3,580).
 
 **From Himeji Station**: The castle is directly visible from the station's north exit, 800 meters away on a straight boulevard. Walk 15 minutes or take a bus.
 
@@ -46,7 +46,7 @@ The *Ishi-beshi* (stone-dropping) platforms project from the lower levels of the
 
 ## Cherry Blossom Season
 
-Himeji Castle is one of Japan's most famous cherry blossom sites — the castle's white walls and the approximately 1,000 cherry trees in the castle grounds create the combination that appears on every sakura season promotion for Japan.
+Himeji Castle is one of Japan's most famous [cherry blossom](/japan/cherry-blossom-guide) sites — the castle's white walls and the approximately 1,000 cherry trees in the castle grounds create the combination that appears on every sakura season promotion for Japan.
 
 **When**: Late March to early April (varies by year; the standard Kyoto/Osaka bloom dates apply). The trees around the main approach (Himeji-jo Midori no Corridor) and the Sannomaru Plaza bloom simultaneously.
 

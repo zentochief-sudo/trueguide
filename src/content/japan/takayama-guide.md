@@ -18,13 +18,13 @@ The Sanmachi Suji district: three parallel streets of machiya townhouses, sake b
 
 ## Getting There
 
-**From Nagoya**: 2 hours 20 minutes by JR Hida limited express (¥5,340). JR Pass valid. The Hida express runs through mountain river gorges for most of the journey — one of the more scenic train rides in Japan.
+**From [Nagoya](/japan/nagoya-guide)**: 2 hours 20 minutes by JR Hida limited express (¥5,340). JR Pass valid. The Hida express runs through mountain river gorges for most of the journey — one of the more scenic train rides in Japan.
 
-**From Osaka/Kyoto**: Take the Shinkansen to Nagoya, then the Hida express. Total: 3.5 hours.
+**From [Osaka](/japan/osaka-guide)/[Kyoto](/japan/kyoto-guide)**: Take the Shinkansen to Nagoya, then the Hida express. Total: 3.5 hours.
 
-**From Tokyo**: By Shinkansen to Nagoya + Hida express: 3.5 hours total. Or by highway bus from Shinjuku (5 hours, ¥6,000–8,000) — cheaper but much slower.
+**From [Tokyo](/japan/tokyo-guide)**: By Shinkansen to Nagoya + Hida express: 3.5 hours total. Or by highway bus from Shinjuku (5 hours, ¥6,000–8,000) — cheaper but much slower.
 
-**Takayama as part of a route**: The standard circuit is Tokyo or Osaka → Takayama → Shirakawa-go (45 minutes by bus) → Kanazawa (1.5 hours from Shirakawa-go by bus). The Nohi Bus route covers Takayama → Shirakawa-go → Kanazawa with advance ticketing.
+**Takayama as part of a route**: The standard circuit is Tokyo or Osaka → Takayama → Shirakawa-go (45 minutes by bus) → [Kanazawa](/japan/kanazawa-guide) (1.5 hours from Shirakawa-go by bus). The Nohi Bus route covers Takayama → Shirakawa-go → Kanazawa with advance ticketing.
 
 ---
 
@@ -90,7 +90,7 @@ Takayama's two annual festivals are the most significant display of *yatai* (fes
 
 **Hoba miso**: Dried magnolia leaves (*hoba*) used as a cooking surface for miso paste mixed with mushrooms, green onions, and small pieces of Hida beef. The leaf is placed on a grill at the table; the miso cooks and caramelizes, developing a smoky sweet flavor. Eaten with rice. Standard at mid-range restaurants in Sanmachi.
 
-**Hida beef**: The local wagyu variety from Gifu Prefecture's Hida mountains, similar in marbling quality to Kobe and Matsusaka beef. Available as steak, tataki (lightly seared sashimi style), in sushi, or in hoba miso preparation.
+**Hida beef**: The local wagyu variety from Gifu Prefecture's Hida mountains, similar in marbling quality to [Kobe](/japan/kobe-guide) and Matsusaka beef. Available as steak, tataki (lightly seared sashimi style), in sushi, or in hoba miso preparation.
 
 **Mitarashi dango**: Grilled rice dumplings on a skewer with soy-mirin glaze. The mitarashi style specific to Takayama is simpler and less sweet than the Tokyo version. The vendors along Sanmachi sell them fresh.
 
@@ -100,9 +100,9 @@ Takayama's two annual festivals are the most significant display of *yatai* (fes
 
 **Walking the town**: The central area (Sanmachi, temple district, morning markets) covers about 2 km and is entirely walkable. The Folk Village requires a taxi or bus.
 
-**Accommodation**: Takayama has a good range of ryokan from budget (¥8,000–12,000) to mid-range (¥15,000–25,000) and some higher-end properties. Staying overnight allows the Sanmachi at dusk and early morning, which has a different character from the midday tourist peak.
+**Accommodation**: Takayama has a good range of [ryokan](/japan/ryokan-guide) from budget (¥8,000–12,000) to mid-range (¥15,000–25,000) and some higher-end properties. Staying overnight allows the Sanmachi at dusk and early morning, which has a different character from the midday tourist peak.
 
-**Spring/Autumn vs other seasons**: The festivals are April and October; cherry blossom typically mid-April; autumn foliage late October–early November. These periods are busy — book 2–3 months ahead. Off-season (January–February, June) is quieter with heavy snow possible in winter.
+**Spring/Autumn vs other seasons**: The festivals are April and October; [cherry blossom](/japan/cherry-blossom-guide) typically mid-April; autumn foliage late October–early November. These periods are busy — book 2–3 months ahead. Off-season (January–February, June) is quieter with heavy snow possible in winter.
 
 ---
 

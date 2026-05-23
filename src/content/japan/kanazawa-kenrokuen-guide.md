@@ -10,9 +10,9 @@ tags: [Kanazawa, Kenroku-en, Japan, garden, Higashi Chaya, samurai, Nishi Chaya,
 city: kanazawa
 ---
 
-Kanazawa was Japan's wealthiest domain outside of Edo during the Edo period. The Maeda clan — who governed this territory for 270 years from 1583 — spent their money on art, craft, theater, and gardens rather than military campaigns, because military campaigns would have attracted the attention of the shogunate in Tokyo. The result: a city with extraordinary cultural accumulation, preserved districts that Kyoto's postwar development largely destroyed, and crafts traditions (Kaga Yuzen silk dyeing, Wajima lacquerware, Kutani porcelain, gold leaf) that still operate today.
+[Kanazawa](/japan/kanazawa-guide) was Japan's wealthiest domain outside of Edo during the Edo period. The Maeda clan — who governed this territory for 270 years from 1583 — spent their money on art, craft, theater, and gardens rather than military campaigns, because military campaigns would have attracted the attention of the shogunate in [Tokyo](/japan/tokyo-guide). The result: a city with extraordinary cultural accumulation, preserved districts that [Kyoto](/japan/kyoto-guide)'s postwar development largely destroyed, and crafts traditions (Kaga Yuzen silk dyeing, Wajima lacquerware, Kutani porcelain, gold leaf) that still operate today.
 
-The bullet train from Tokyo reaches Kanazawa in 2.5 hours (Hokuriku Shinkansen). From Osaka or Kyoto, the Thunderbird limited express runs 2-2.5 hours. It is consistently undervisited by foreign tourists who make the Kyoto-Osaka circuit and stop there. This is their mistake.
+The bullet train from Tokyo reaches Kanazawa in 2.5 hours (Hokuriku Shinkansen). From [Osaka](/japan/osaka-guide) or Kyoto, the Thunderbird limited express runs 2-2.5 hours. It is consistently undervisited by foreign tourists who make the Kyoto-Osaka circuit and stop there. This is their mistake.
 
 ---
 
@@ -36,7 +36,7 @@ Admission: ¥320. The east gate entrance (closest to Higashi Chaya) is less crow
 
 ## Higashi Chaya — The Preserved Geisha District
 
-Kanazawa has three geisha districts (hanamachi), of which **Higashi Chaya** (East Tea House District) is the most intact. The main street — a single block of two-story lattice-windowed machiya houses — has been preserved largely unchanged since the early 19th century. Kanazawa's geisha tradition operates similarly to Kyoto's: teahouses (ochaya) where geisha perform and entertain private parties, accessible by introduction only.
+Kanazawa has three [geisha](/japan/geisha-guide) districts (hanamachi), of which **Higashi Chaya** (East Tea House District) is the most intact. The main street — a single block of two-story lattice-windowed machiya houses — has been preserved largely unchanged since the early 19th century. Kanazawa's geisha tradition operates similarly to Kyoto's: teahouses (ochaya) where geisha perform and entertain private parties, accessible by introduction only.
 
 The street itself is publicly walkable. Several of the historic ochaya are open as museums or cafes:
 

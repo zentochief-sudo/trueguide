@@ -10,7 +10,7 @@ tags: []
 city: Lisbon
 ---
 
-Lisbon moves at its own pace — unhurried, sun-soaked, and deeply human. The hills make it a city of perspectives: turn a corner and suddenly you're looking across terracotta rooftops to the glittering Tagus. Three days here doesn't feel rushed if you resist the urge to over-schedule.
+[Lisbon](/portugal/lisbon-guide) moves at its own pace — unhurried, sun-soaked, and deeply human. The hills make it a city of perspectives: turn a corner and suddenly you're looking across terracotta rooftops to the glittering Tagus. Three days here doesn't feel rushed if you resist the urge to over-schedule.
 
 ## Day 1 – Alfama & the Castle
 
@@ -28,7 +28,7 @@ Explore **Chiado** and **Bairro Alto** — the creative and bohemian neighbourho
 
 ## Day 2 – Belém & the Tagus
 
-**Morning:** Take the tram or Uber west to **Belém**, where Portugal's Age of Discovery unfolds in stone. The **Jerónimos Monastery** (Mosteiro dos Jerónimos) is the country's greatest monument — an extravagant example of Manueline architecture with twisted pillars, maritime carvings, and the tombs of Vasco da Gama and Luís de Camões. Go early; by 10am it gets crowded.
+**Morning:** Take the tram or Uber west to **Belém**, where [Portugal](/portugal)'s Age of Discovery unfolds in stone. The **Jerónimos Monastery** (Mosteiro dos Jerónimos) is the country's greatest monument — an extravagant example of Manueline architecture with twisted pillars, maritime carvings, and the tombs of Vasco da Gama and Luís de Camões. Go early; by 10am it gets crowded.
 
 Walk to the **Torre de Belém** on the riverbank — a symbol of Lisbon and a UNESCO World Heritage Site. The queues are long; either book online or admire from outside and photograph from the riverbank path.
 

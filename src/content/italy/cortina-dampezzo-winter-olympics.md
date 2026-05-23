@@ -10,7 +10,7 @@ tags: [Cortina d'Ampezzo, 2026 Winter Olympics, Dolomites, skiing, Italy, alpine
 city: cortina
 ---
 
-Cortina d'Ampezzo is the most famous ski resort in Italy — a town of 6,000 permanent residents in the Ampezzo basin of the Dolomites, ringed by vertical limestone walls that rise 2,000 meters above the valley floor. It hosted the 1956 Winter Olympics and returns as a co-host for 2026, sharing duties with Milan (urban venues) and Val di Fiemme (Nordic events).
+Cortina d'Ampezzo is the most famous ski resort in [Italy](/italy) — a town of 6,000 permanent residents in the Ampezzo basin of the Dolomites, ringed by vertical limestone walls that rise 2,000 meters above the valley floor. It hosted the 1956 Winter Olympics and returns as a co-host for 2026, sharing duties with [Milan](/italy/milan-travel-guide) (urban venues) and Val di Fiemme (Nordic events).
 
 The Dolomites were declared a UNESCO World Heritage Site in 2009 — the mountains here are geologically and visually unlike any other Alpine range in Europe.
 

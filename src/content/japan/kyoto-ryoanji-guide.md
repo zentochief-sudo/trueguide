@@ -40,7 +40,7 @@ The garden has 15 stones arranged in five groups on raked white gravel, within a
 
 ## The Rest of Ryoanji
 
-**Kyoyochi Pond (Mirror Pond)**: The large pond at the temple entrance predates the rock garden and was part of the original aristocratic estate. The pond is surrounded by cherry trees and maples — the temple is one of northwestern Kyoto's best hanami and momiji sites. The tea house (*Sekkatei*) on the north bank of the pond is a National Important Cultural Property.
+**Kyoyochi Pond (Mirror Pond)**: The large pond at the temple entrance predates the rock garden and was part of the original aristocratic estate. The pond is surrounded by cherry trees and maples — the temple is one of northwestern [Kyoto](/japan/kyoto-guide)'s best hanami and momiji sites. The tea house (*Sekkatei*) on the north bank of the pond is a National Important Cultural Property.
 
 **The *tsukubai* (stone water basin)**: In the hojo garden adjacent to the rock garden — a round stone basin with a square hole, inscribed with four characters that can be read as "I learn only to be contented." The inscription uses the central hole of the basin as the shared radical for all four characters — a visual pun in stone.
 

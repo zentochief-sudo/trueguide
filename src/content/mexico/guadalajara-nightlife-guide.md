@@ -48,7 +48,7 @@ The format: sit at a plaza table, order a bottle of a regional tequila brand, li
 
 ## The Club Zone
 
-The highest-capacity clubs in Guadalajara are in the Parque Industrial del Amor area (north of the city, in Zapopan, near Estadio Akron):
+The highest-capacity clubs in Guadalajara are in the Parque Industrial del Amor area (north of the city, in Zapopan, near [Estadio Akron](/[mexico](/mexico)/estadio-akron-guide)):
 
 **Distrito 90** and other clubs in the zone have capacity for several thousand people, electronic and reggaeton music, and are focused on the city's 20–30 age bracket. Fridays and Saturdays are the active nights. Uber from the Center: 120–180 MXN.
 

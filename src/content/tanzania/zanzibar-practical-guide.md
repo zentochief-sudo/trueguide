@@ -10,7 +10,7 @@ tags: [Zanzibar, Tanzania, practical, transport, ferry, Stone Town, beaches, bud
 city: zanzibar
 ---
 
-Zanzibar is a semi-autonomous archipelago — the main island (Unguja) plus the smaller Pemba Island and dozens of uninhabited islets, politically part of Tanzania but with its own president and considerable autonomy. Unguja is almost universally called "Zanzibar" by visitors and most Tanzanians.
+[Zanzibar](/tanzania/zanzibar-guide) is a semi-autonomous archipelago — the main island (Unguja) plus the smaller Pemba Island and dozens of uninhabited islets, politically part of [Tanzania](/tanzania) but with its own president and considerable autonomy. Unguja is almost universally called "Zanzibar" by visitors and most Tanzanians.
 
 The island is 85 km long by 40 km wide, with Stone Town as its historic capital in the west and a string of beach areas along the north and east coasts. Getting around requires using the two main transport systems (dala-dala shared minibus and boda-boda motorcycle taxi) or renting a vehicle.
 
@@ -18,7 +18,7 @@ The island is 85 km long by 40 km wide, with Stone Town as its historic capital 
 
 ## Getting to Zanzibar
 
-**By ferry from Dar es Salaam**: Fast catamaran ferries (Azam Marine, Kilimanjaro) cross in 1.5–2 hours. Fares: $35–50 one way. Multiple departures daily. The crossing can be rough December–March; book the earlier ferries (7 AM or 9 AM) when seas are typically calmer.
+**By ferry from [Dar es Salaam](/tanzania/dar-es-salaam-guide)**: Fast catamaran ferries (Azam Marine, [Kilimanjaro](/tanzania/kilimanjaro-guide)) cross in 1.5–2 hours. Fares: $35–50 one way. Multiple departures daily. The crossing can be rough December–March; book the earlier ferries (7 AM or 9 AM) when seas are typically calmer.
 
 **By ferry from Tanga or Pemba**: Less common but possible for travellers approaching from northern Tanzania or combining with Pemba Island.
 
@@ -26,7 +26,7 @@ The island is 85 km long by 40 km wide, with Stone Town as its historic capital 
 
 **By air from Nairobi**: Kenya Airways, Jambojet, and Fastjet fly Nairobi–Zanzibar directly (1.5 hours, $80–180 depending on season). Practical for combining a Kenya safari with a Zanzibar beach finish.
 
-**By air from Kilimanjaro/Arusha**: Coastal Aviation and ZanAir fly directly from the safari circuits to Zanzibar, making it simple to end a Tanzania safari with a beach segment.
+**By air from Kilimanjaro/[Arusha](/tanzania/arusha-guide)**: Coastal Aviation and ZanAir fly directly from the safari circuits to Zanzibar, making it simple to end a Tanzania safari with a beach segment.
 
 ---
 

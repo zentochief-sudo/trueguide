@@ -10,7 +10,7 @@ tags: [Gwangjang Market, Seoul, street food, bindaetteok, gimbap, yukhoe, sundae
 city: seoul
 ---
 
-Gwangjang Market (*광장시장*) was established in 1905, making it the oldest continuously operating market in Korea. The original purpose — and still a large part of the market today — was traditional fabrics: silk, linen, cotton, and the *hanbok* materials and ready-made clothing that vendors still sell in the upper sections. The market is covered by a long arcade roof on Jongno 5-ga, with a central aisle that became, gradually, one of the most important street food destinations in Asia.
+Gwangjang Market (*광장시장*) was established in 1905, making it the oldest continuously operating market in Korea. The original purpose — and still a large part of the market today — was traditional fabrics: silk, linen, cotton, and the *[hanbok](/korea/hanbok-guide)* materials and ready-made clothing that vendors still sell in the upper sections. The market is covered by a long arcade roof on Jongno 5-ga, with a central aisle that became, gradually, one of the most important street food destinations in Asia.
 
 The food section is the primary reason visitors come. The stalls in the central alley have been operating for decades under the same families, serving a menu that is specific and largely unchanged: *bindaetteok*, *mayak gimbap*, *yukhoe*, *eomuk*, *sundubu*, *tteokbokki*, and *sundae*. The communal seating — aluminum stools at long tables, vendors calling from every direction, the smell of mung bean pancakes on flat griddles — has a character that no curated food hall can replicate.
 
@@ -50,7 +50,7 @@ Pork intestine stuffed with glass noodles, blood, vegetables, and barley — ste
 
 ### 어묵 (Eomuk — Fish Cake)
 
-Skewered fish cake on sticks, simmered in a savory broth — a ubiquitous Korean street food that at Gwangjang reaches its natural context. The broth is offered free for drinking; this is the rule at good eomuk stalls everywhere in Korea.
+Skewered fish cake on sticks, simmered in a savory broth — a ubiquitous [Korean street food](/korea/korean-street-food-guide) that at Gwangjang reaches its natural context. The broth is offered free for drinking; this is the rule at good eomuk stalls everywhere in Korea.
 
 ---
 
@@ -88,4 +88,4 @@ Several dedicated makgeolli bars operate on the market's periphery, serving a wi
 
 **Cash**: Some stalls accept cards; many prefer cash. Carry ¥20,000–30,000 in cash to be safe.
 
-**Combination**: Gwangjang is 15 minutes on foot from Gyeongbokgung Palace and Insadong, and 5 minutes from the Cheonggyecheon stream — easy to combine into a single Jongno district day.
+**Combination**: Gwangjang is 15 minutes on foot from [Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide) and Insadong, and 5 minutes from the Cheonggyecheon stream — easy to combine into a single Jongno district day.

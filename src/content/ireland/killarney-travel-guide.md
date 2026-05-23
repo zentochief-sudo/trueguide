@@ -10,7 +10,7 @@ tags: [Killarney, Ireland, Ring of Kerry, Killarney National Park, Gap of Dunloe
 city: killarney
 ---
 
-Killarney is the gateway to what is arguably the finest landscape in Ireland — a combination of glacially carved lakes, oak and yew forests (among the oldest in the country), the Macgillycuddy's Reeks mountain range (the highest in Ireland, with Carrauntoohil at 1,038m), and the coastal drama of the Iveragh Peninsula (better known as the Ring of Kerry). The town itself is a service center for tourism — busy in summer, with a genuine Irish pub culture in the evenings — but the landscape it accesses is exceptional.
+Killarney is the gateway to what is arguably the finest landscape in [Ireland](/ireland) — a combination of glacially carved lakes, oak and yew forests (among the oldest in the country), the Macgillycuddy's Reeks mountain range (the highest in Ireland, with Carrauntoohil at 1,038m), and the coastal drama of the Iveragh Peninsula (better known as the [Ring of Kerry](/ireland/ring-of-kerry-guide)). The town itself is a service center for tourism — busy in summer, with a genuine Irish pub culture in the evenings — but the landscape it accesses is exceptional.
 
 ---
 
@@ -79,7 +79,7 @@ The 618 steps to the monastery are steep and without handrails in the upper sect
 
 ## Practical Notes
 
-**Getting to Killarney**: By rail from Cork (1.5 hours) or Dublin (3.5 hours via Cork or direct). Bus Éireann intercity services. By car from Cork Airport (1.5 hours on the N22).
+**Getting to Killarney**: By rail from [Cork](/ireland/cork-guide) (1.5 hours) or [Dublin](/ireland/dublin-travel-guide) (3.5 hours via Cork or direct). Bus Éireann intercity services. By car from Cork Airport (1.5 hours on the N22).
 
 **Getting around**: The national park is walkable from the town. The Ring of Kerry requires a car (rental available in Killarney). Bus Éireann runs a Ring of Kerry tour service in summer (seasonal).
 

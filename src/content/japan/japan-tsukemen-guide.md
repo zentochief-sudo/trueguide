@@ -10,7 +10,7 @@ tags: [tsukemen, dipping ramen, ramen Japan, Tokyo ramen, Japanese noodles, rame
 city: national
 ---
 
-Tsukemen (つけ麺) — "dipping noodles" — is a ramen format invented in the 1950s by Kazuo Yamagishi at a Tokyo noodle shop, in which noodles and broth are served separately. The diner dips bundles of noodles into a concentrated broth before eating. The result is a dish with fundamentally different balance from regular ramen: the noodles are eaten at a different temperature from the broth, the texture can be assessed independently, and the broth's intensity is higher because it doesn't have to be drinkable by the bowl.
+Tsukemen (つけ麺) — "dipping noodles" — is a ramen format invented in the 1950s by Kazuo Yamagishi at a [Tokyo](/japan/tokyo-guide) noodle shop, in which noodles and broth are served separately. The diner dips bundles of noodles into a concentrated broth before eating. The result is a dish with fundamentally different balance from regular ramen: the noodles are eaten at a different temperature from the broth, the texture can be assessed independently, and the broth's intensity is higher because it doesn't have to be drinkable by the bowl.
 
 The format has become one of the major ramen styles in Japan, with dedicated tsukemen specialists across the country and a devoted following that argues, with some justification, that the separated format produces a better noodle experience than regular ramen.
 
@@ -74,7 +74,7 @@ Outside central Tokyo but cited by enthusiasts as one of the finest in the city 
 **Menya Itto (麺屋一燈), multiple locations**
 A Tokyo-origin chain with branches in several cities; the *tori* (chicken)-based broth is a distinctive alternative to tonkotsu-gyokai.
 
-**Menya Musashi (麺屋武蔵), Tokyo/Kyoto**
+**Menya Musashi (麺屋武蔵), Tokyo/[Kyoto](/japan/kyoto-guide)**
 Multi-location shop with both regular ramen and tsukemen formats; reliable quality across locations.
 
 ---

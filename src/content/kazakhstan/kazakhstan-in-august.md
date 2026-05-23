@@ -10,7 +10,7 @@ tags: [Kazakhstan, August, Tian Shan, Almaty, apples, trekking, summer, steppe]
 city: national
 ---
 
-August is the last full month of Kazakhstan's summer. The Tian Shan mountain routes are operating at peak capacity — all huts staffed, all trails open, and the alpine meadows still in bloom before the first September frosts arrive at elevation. In Almaty, the apple orchards in the surrounding valleys are beginning their harvest — the city's name derives from the Kazakh for "father of apples," and August is when that etymology starts to mean something tangible. The steppe is hot and golden. And Independence Day on August 30 (Constitution Day) begins the national holiday sequence that continues into September.
+August is the last full month of [Kazakhstan](/kazakhstan)'s summer. The Tian Shan mountain routes are operating at peak capacity — all huts staffed, all trails open, and the alpine meadows still in bloom before the first September frosts arrive at elevation. In [Almaty](/kazakhstan/almaty-travel-guide), the apple orchards in the surrounding valleys are beginning their harvest — the city's name derives from the Kazakh for "father of apples," and August is when that etymology starts to mean something tangible. The steppe is hot and golden. And Independence Day on August 30 (Constitution Day) begins the national holiday sequence that continues into September.
 
 ## Weather & Conditions
 
@@ -18,15 +18,15 @@ August is the last full month of Kazakhstan's summer. The Tian Shan mountain rou
 
 **Tian Shan (high routes):** 8–18°C. Excellent trekking conditions. Snow possible above 3,500m at night.
 
-**Astana:** 18–28°C. Warm steppe summer, cooling toward September.
+**[Astana](/kazakhstan/astana-guide):** 18–28°C. Warm steppe summer, cooling toward September.
 
-**Charyn Canyon:** 24–34°C. Still hot. Morning visits essential.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 24–34°C. Still hot. Morning visits essential.
 
 **Steppe:** 18–30°C. Gold and expansive. The brown steppe in August has a particular austere beauty.
 
 ## What to Do
 
-**Tian Shan trekking — the peak window:** August is the finest trekking month in the Tian Shan. The Trans-Ili Alatau range above Almaty — accessible via Medeu and Shymbulak — offers routes ranging from day hikes to multi-day backcountry circuits. The Big Almaty Lake (Bolshoe Almatinskoye Ozero) sits at 2,511m in a glacial valley with extraordinary color in August light. The Turgen Gorge east of Almaty has seven waterfalls accessible on a day excursion. Operators like Kan Tengri and Dostyk Tour run guided August expeditions to the high peaks.
+**Tian Shan trekking — the peak window:** August is the finest trekking month in the Tian Shan. The Trans-Ili Alatau range above Almaty — accessible via Medeu and Shymbulak — offers routes ranging from day hikes to multi-day backcountry circuits. The [Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) (Bolshoe Almatinskoye Ozero) sits at 2,511m in a glacial valley with extraordinary color in August light. The Turgen Gorge east of Almaty has seven waterfalls accessible on a day excursion. Operators like Kan Tengri and Dostyk Tour run guided August expeditions to the high peaks.
 
 **Apple orchards, Ile-Alatau foothills:** The Aport apple — a large, sweet variety unique to the Almaty region — begins its harvest in August. The orchards in the villages of the Ile-Alatau foothills (Kaskelen, Talgar, Esik) open for visits. The Almaty Green Bazaar's apple selection in August is extraordinary — dozens of varieties at their peak. This is the single most distinctive local food experience in Kazakhstan.
 

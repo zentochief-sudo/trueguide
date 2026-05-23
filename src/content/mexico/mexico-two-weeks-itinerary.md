@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Mexico allows you to move beyond the capital and experience the country's extraordinary diversity — from the high-altitude Aztec metropolis of Mexico City to the Maya jungle ruins of the Yucatán, from Oaxaca's indigenous food culture to the Caribbean coast. This is Mexico properly explored.
+Two weeks in [Mexico](/mexico) allows you to move beyond the capital and experience the country's extraordinary diversity — from the high-altitude Aztec metropolis of Mexico City to the Maya jungle ruins of the Yucatán, from Oaxaca's indigenous food culture to the Caribbean coast. This is Mexico properly explored.
 
 ## Days 1–3 – Mexico City
 

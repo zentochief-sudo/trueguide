@@ -10,19 +10,19 @@ tags: [Peru, April, Holy Week, Semana Santa, Cusco, Machu Picchu, dry season beg
 city: national
 ---
 
-April is when Peru's highland dry season begins arriving — the rains of November–March taper significantly and the mountains transition from lush green to clear blue sky. Holy Week (Semana Santa) is the cultural event of the month — Cusco's processions are extraordinary, centuries-old, and accompanied by massive local and pilgrimage participation. April is an excellent transition month: the end of the low season and the beginning of the buildup toward June–August peak.
+April is when [Peru](/peru)'s highland dry season begins arriving — the rains of November–March taper significantly and the mountains transition from lush green to clear blue sky. Holy Week (Semana Santa) is the cultural event of the month — [Cusco](/peru/cusco-guide)'s processions are extraordinary, centuries-old, and accompanied by massive local and pilgrimage participation. April is an excellent transition month: the end of the low season and the beginning of the buildup toward June–August peak.
 
 ## Weather & Conditions
 
-**Cusco and the Sacred Valley:** 10–20°C. The rains ease significantly in April — mornings are increasingly clear, afternoon showers become the exception rather than the rule. The landscape remains green from winter rains.
+**Cusco and the [Sacred Valley](/peru/sacred-valley-guide):** 10–20°C. The rains ease significantly in April — mornings are increasingly clear, afternoon showers become the exception rather than the rule. The landscape remains green from winter rains.
 
-**Machu Picchu:** 14–22°C. Improving weather through April. Clear morning windows become more frequent. The citadel in April morning light — green from rain, air washed clean — can be spectacular.
+**[Machu Picchu](/peru/machu-picchu-guide):** 14–22°C. Improving weather through April. Clear morning windows become more frequent. The citadel in April morning light — green from rain, air washed clean — can be spectacular.
 
-**Lima:** 18–22°C. The coastal overcast (garúa) persists but the mornings begin to clear slightly. Not beach season yet.
+**[Lima](/peru/lima-guide):** 18–22°C. The coastal overcast (garúa) persists but the mornings begin to clear slightly. Not beach season yet.
 
-**Amazon:** Water levels receding as the rains ease. Amazon wildlife viewing shifts from flood-season to dry-season patterns.
+**[Amazon](/peru/amazon-guide):** Water levels receding as the rains ease. Amazon wildlife viewing shifts from flood-season to dry-season patterns.
 
-**Puno (Lake Titicaca):** 7–15°C. Rain tapering. The lake in April begins clearing toward its calm season.
+**Puno ([Lake Titicaca](/peru/lake-titicaca-guide)):** 7–15°C. Rain tapering. The lake in April begins clearing toward its calm season.
 
 ## What to Do
 
@@ -38,7 +38,7 @@ April is when Peru's highland dry season begins arriving — the rains of Novemb
 
 ## Festivals & Events
 
-**Semana Santa (Holy Week, variable March or April):** Cusco's Holy Week processions are the most elaborate in South America outside Seville, Spain. The Lord of Earthquakes procession on Good Friday is the centerpiece.
+**Semana Santa (Holy Week, variable March or April):** Cusco's Holy Week processions are the most elaborate in South America outside Seville, [Spain](/spain). The Lord of Earthquakes procession on Good Friday is the centerpiece.
 
 **Feast of the Lord of Earthquakes (Good Friday):** The Christ image paraded through Cusco streets — blackened by centuries of candle smoke — draws the entire city.
 

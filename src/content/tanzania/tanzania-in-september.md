@@ -10,7 +10,7 @@ tags: [Tanzania, September, Great Migration, Zanzibar, shoulder season, Ngorongo
 city: national
 ---
 
-September is Tanzania's hidden-value month. The Great Migration is still in the northern ecosystem, Mara crossings continue (with decreasing frequency), and Zanzibar's east coast opens for its finest beach season as the southeast monsoon eases. Prices begin dropping from August's peak. The landscape is still dry and excellent for game viewing. September offers much of what July–August delivers at slightly lower cost.
+September is [Tanzania](/tanzania)'s hidden-value month. The Great Migration is still in the northern ecosystem, Mara crossings continue (with decreasing frequency), and [Zanzibar](/tanzania/zanzibar-guide)'s east coast opens for its finest beach season as the southeast monsoon eases. Prices begin dropping from August's peak. The landscape is still dry and excellent for game viewing. September offers much of what July–August delivers at slightly lower cost.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ September is Tanzania's hidden-value month. The Great Migration is still in the 
 
 **Central and Southern Serengeti:** Dry and excellent. Resident wildlife in prime viewing condition.
 
-**Ngorongoro:** 15–23°C. Dry and clear. The crater in September is quieter than August and equally good.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 15–23°C. Dry and clear. The crater in September is quieter than August and equally good.
 
 **Zanzibar:** The southeast monsoon (kusi) eases significantly in September. The east coast (Paje, Jambiani) clears and improves. By mid-September, the east coast beaches are returning to good condition. September begins the best Zanzibar beach season that runs through November.
 
-**Mount Kilimanjaro:** Still excellent conditions. September is the end of the prime dry season climbing window.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Still excellent conditions. September is the end of the prime dry season climbing window.
 
 ## What to Do
 

@@ -16,7 +16,7 @@ It's not an easy month to travel. It's also unlike any other.
 
 ## The Heat: What to Expect
 
-**Tokyo / Osaka / Kyoto:** Average highs of 31–35°C, sometimes reaching 38°C during heat waves. Humidity 70–80%. Feels significantly hotter than the temperature suggests. The urban heat island effect in Tokyo is intense.
+**Tokyo / [Osaka](/japan/osaka-guide) / [Kyoto](/japan/kyoto-guide):** Average highs of 31–35°C, sometimes reaching 38°C during heat waves. Humidity 70–80%. Feels significantly hotter than the temperature suggests. The urban heat island effect in Tokyo is intense.
 
 This is not comfortable sightseeing weather. It is, however, manageable with the right approach:
 
@@ -24,7 +24,7 @@ This is not comfortable sightseeing weather. It is, however, manageable with the
 - **Air conditioning is everywhere.** Convenience stores, underground malls, every restaurant, department stores, museums, temples with interiors — Japan has some of the most aggressively cooled public spaces in the world.
 - **Hydrate constantly.** Pocari Sweat, water, cold green tea from konbini. Heat exhaustion is real.
 
-**Hokkaido** remains the escape valve — 24–28°C in August, much more comfortable. More domestic tourists in August than July, so accommodation books fast.
+**[Hokkaido](/japan/hokkaido-guide)** remains the escape valve — 24–28°C in August, much more comfortable. More domestic tourists in August than July, so accommodation books fast.
 
 ## Obon (August 13–16)
 
@@ -35,7 +35,7 @@ Obon is the Buddhist observance when spirits of ancestors are believed to return
 - Mid-August is the highest domestic travel peak of the year. Shinkansen and airports are at maximum capacity August 11–16 (Mountain Day creates a long weekend).
 - Book trains well ahead — shinkansen reserved seats for August 13–16 sell out within hours of the booking window opening.
 - Some businesses and restaurants close for 3–5 days around August 14–15.
-- Hotels in resort areas (Nikko, Hakone, Kyoto) see maximum pricing.
+- Hotels in resort areas ([Nikko](/japan/nikko-guide), [Hakone](/japan/hakone-guide), Kyoto) see maximum pricing.
 
 **What to see:**
 
@@ -43,7 +43,7 @@ Obon is the Buddhist observance when spirits of ancestors are believed to return
 
 **Daimonji Gozan Okuribi, Kyoto (August 16):** Five bonfires lit simultaneously on the mountains surrounding Kyoto, forming the characters 大 (dai, meaning "large"), 妙法 (myoho, meaning "wonderful dharma"), a boat, and two torii gates. The fires burn for 30 minutes, sending the ancestral spirits back. Visible from multiple points in Kyoto. One of Japan's most atmospheric annual events.
 
-**Toro Nagashi (lantern floating):** In many cities on August 16, paper lanterns are floated down rivers at dusk to guide spirits back. Hiroshima's version (on the Motoyasu River by the Peace Memorial) is particularly moving.
+**Toro Nagashi (lantern floating):** In many cities on August 16, paper lanterns are floated down rivers at dusk to guide spirits back. [Hiroshima](/japan/hiroshima-guide)'s version (on the Motoyasu River by the Peace Memorial) is particularly moving.
 
 ## Major August Festivals
 
@@ -57,7 +57,7 @@ Obon is the Buddhist observance when spirits of ancestors are believed to return
 
 ## Beaches in August
 
-Japan's beach season is August, full stop. Shonan (Kamakura area), the Izu Peninsula, and Boso Peninsula beaches near Tokyo fill to capacity on weekends. The Okinawa and Amami island beaches are at their warmest but also at peak domestic tourist pressure.
+Japan's beach season is August, full stop. Shonan ([Kamakura](/japan/kamakura-guide) area), the Izu Peninsula, and Boso Peninsula beaches near Tokyo fill to capacity on weekends. The [Okinawa](/japan/okinawa-guide) and Amami island beaches are at their warmest but also at peak domestic tourist pressure.
 
 For beach Japan in August: **Iriomote Island** or **Ishigaki** (Yaeyama Islands, southwest of Okinawa) offer snorkeling, mangrove kayaking, and clearer water than the main Okinawa island. More expensive to reach, significantly less crowded than Naha beach areas.
 

@@ -10,7 +10,7 @@ tags: [Papagayo, Costa Rica, Guanacaste, beaches, Pacific coast, wildlife, snork
 city: papagayo
 ---
 
-The Papagayo Peninsula juts into the Pacific in the northwestern corner of Costa Rica — a dry-forest finger of land protecting the calm waters of the Gulf of Papagayo and edged with a series of beaches that are, by any measure, among the finest in Central America. The peninsula is in Guanacaste province, which occupies the northwestern corner of Costa Rica, and its climate is defined by the dry season (December–April) — reliable sun, lower humidity, and lower seas compared to the rest of the country during its wet season.
+The Papagayo Peninsula juts into the Pacific in the northwestern corner of [Costa Rica](/costa-rica/costa-rica-travel-guide) — a dry-forest finger of land protecting the calm waters of the Gulf of Papagayo and edged with a series of beaches that are, by any measure, among the finest in Central America. The peninsula is in Guanacaste province, which occupies the northwestern corner of Costa Rica, and its climate is defined by the dry season (December–April) — reliable sun, lower humidity, and lower seas compared to the rest of the country during its wet season.
 
 This is where the luxury resort hotels of Costa Rica concentrate — Four Seasons, Andaz, Secrets. But the peninsula also contains accessible public beaches, wildlife corridors, snorkeling sites, and the authentic Guanacaste fishing village culture that exists alongside the resort zone.
 

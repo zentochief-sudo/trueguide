@@ -10,7 +10,7 @@ tags: [Seattle, neighborhoods, World Cup 2026, Capitol Hill, Ballard, Pike Place
 city: seattle
 ---
 
-Seattle organizes itself around neighborhoods with genuinely distinct characters — a function of the city's hills, water inlets (Lake Union, the Ship Canal, Puget Sound all fragment the geography), and history. For World Cup visitors, the practical question is whether to prioritize proximity to Lumen Field (SODO/Pioneer Square), access to Seattle's best food and nightlife (Capitol Hill, Ballard), or the waterfront experience (Belltown, Pike Place area).
+Seattle organizes itself around neighborhoods with genuinely distinct characters — a function of the city's hills, water inlets (Lake Union, the Ship Canal, Puget Sound all fragment the geography), and history. For World Cup visitors, the practical question is whether to prioritize proximity to [Lumen Field](/united-states/lumen-field-guide) (SODO/Pioneer Square), access to Seattle's best food and nightlife (Capitol Hill, Ballard), or the waterfront experience (Belltown, Pike Place area).
 
 ---
 
@@ -28,7 +28,7 @@ Downtown Seattle runs from the waterfront piers on the west to the I-5 freeway o
 
 ## Belltown
 
-Immediately north of downtown, Belltown is a dense neighborhood with the highest concentration of mid-range hotels, the beginning of the Seattle nightlife corridor, and easy access to the waterfront and the Market.
+Immediately north of downtown, Belltown is a dense neighborhood with the highest concentration of mid-range hotels, the beginning of the [Seattle nightlife](/united-states/seattle-nightlife-guide) corridor, and easy access to the waterfront and the Market.
 
 **What's here**: The Belltown bar corridor along 2nd Avenue (the densest concentration of bars in Seattle), the Belltown Pub, and several well-regarded restaurants. The **Museum of Pop Culture** (MoPOP) is 10 minutes north at Seattle Center.
 

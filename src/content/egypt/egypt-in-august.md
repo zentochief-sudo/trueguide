@@ -10,11 +10,11 @@ tags: [Egypt, August, summer, heat, Luxor, Aswan, low season, Red Sea]
 city: national
 ---
 
-August in Egypt combines the extreme heat of July with the Eid al-Adha holiday period — when Egyptian families travel domestically, filling sites like the Pyramids with local visitors rather than international tourists. For foreign visitors, this creates an interesting dynamic: the Valley of the Kings and Luxor Temple may be empty, while Giza has domestic crowds. The overall picture remains a heat-challenged month with significant value opportunities for prepared travelers.
+August in [Egypt](/egypt) combines the extreme heat of July with the Eid al-Adha holiday period — when Egyptian families travel domestically, filling sites like the Pyramids with local visitors rather than international tourists. For foreign visitors, this creates an interesting dynamic: the Valley of the Kings and Luxor Temple may be empty, while Giza has domestic crowds. The overall picture remains a heat-challenged month with significant value opportunities for prepared travelers.
 
 ## Weather & Conditions
 
-**Cairo:** 26–37°C. Consistent summer heat. Cairo is notably more humid than Upper Egypt due to the Delta proximity.
+**[Cairo](/egypt/cairo-travel-guide):** 26–37°C. Consistent summer heat. Cairo is notably more humid than Upper Egypt due to the Delta proximity.
 
 **Luxor:** 32–44°C. August is statistically marginally cooler than July but the difference is not meaningful at this temperature level.
 
@@ -34,7 +34,7 @@ August in Egypt combines the extreme heat of July with the Eid al-Adha holiday p
 
 **Abu Simbel overnight:** Most visitors do Abu Simbel as a day trip from Aswan. Staying overnight at the Seti Abu Simbel Lake Resort allows you to visit the temples in the late afternoon (when the tour buses have left) and again at 6am the next morning. The lake reflection in the early morning is extraordinary and the site in that light — alone — is memorable.
 
-**Grand Egyptian Museum (Cairo):** August afternoons are optimally spent at the GEM — massive, air-conditioned, and still relatively uncrowded compared to the January peak. The Tutankhamun galleries alone justify 3–4 hours.
+**[Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) (Cairo):** August afternoons are optimally spent at the GEM — massive, air-conditioned, and still relatively uncrowded compared to the January peak. The Tutankhamun galleries alone justify 3–4 hours.
 
 ## Festivals & Events
 

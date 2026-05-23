@@ -10,17 +10,17 @@ tags: [Italy, January, winter, low season, Rome, Venice, Dolomites, ski, travel 
 city: national
 ---
 
-January is Italy's reset month. Epiphany (January 6) closes the Christmas season, and the country transitions to its quietest state of the year. Tourist sites that are overwhelmed June through September operate at a fraction of capacity. Prices drop to annual lows. And for ski travelers, the Alps and Dolomites deliver the best conditions of the season.
+January is [Italy](/italy)'s reset month. Epiphany (January 6) closes the Christmas season, and the country transitions to its quietest state of the year. Tourist sites that are overwhelmed June through September operate at a fraction of capacity. Prices drop to annual lows. And for ski travelers, the Alps and Dolomites deliver the best conditions of the season.
 
 ## Weather in January
 
-**Rome:** 6°C to 14°C. Cool, occasionally rainy. Never cold enough to require heavy winter gear — a mid-weight coat is sufficient. The city is perfectly walkable.
+**[Rome](/italy/rome-guide):** 6°C to 14°C. Cool, occasionally rainy. Never cold enough to require heavy winter gear — a mid-weight coat is sufficient. The city is perfectly walkable.
 
 **Florence:** 4°C to 11°C. Colder than Rome. Fog is common in the Arno valley. Museums — which is what Florence is for — are ideal.
 
 **Venice:** 2°C to 9°C. Cold, occasionally foggy, sometimes experiencing *acqua alta* (high tide flooding in the lower parts of the city). The city in January mist is its most romantically atmospheric and least photographed version.
 
-**Milan:** 1°C to 8°C. Cold, foggy. The fashion and design capital has excellent museum culture and the best restaurant scene in Italy — none of which requires good weather.
+**[Milan](/italy/milan-travel-guide):** 1°C to 8°C. Cold, foggy. The fashion and design capital has excellent museum culture and the best restaurant scene in Italy — none of which requires good weather.
 
 **Naples/Southern Italy:** 8°C to 16°C. Milder than the north. Pompeii and the Amalfi Coast are quiet and completely accessible.
 
@@ -68,8 +68,8 @@ January is annual minimum pricing across Italy — except ski resorts, which are
 
 ## What to Skip in January
 
-- **Cinque Terre:** The hiking trails are often closed due to landslide risk in winter. The villages remain accessible but the point of Cinque Terre — outdoor hiking between villages — is largely unavailable.
-- **Lake Como/Garda:** The lakeside resort villages operate at minimal capacity; many restaurants and hotels close November–March.
+- **[Cinque Terre](/italy/cinque-terre-guide):** The hiking trails are often closed due to landslide risk in winter. The villages remain accessible but the point of Cinque Terre — outdoor hiking between villages — is largely unavailable.
+- **[Lake Como](/italy/lake-como-guide)/Garda:** The lakeside resort villages operate at minimal capacity; many restaurants and hotels close November–March.
 - **Sicily beach travel:** The island is beautiful in January for cultural tourism but not for beach holidays (15°C).
 
 ## Practical Notes

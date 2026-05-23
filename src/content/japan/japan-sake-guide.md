@@ -57,21 +57,21 @@ Historically the largest sake-producing region in Japan — the cold water of th
 
 ### Fushimi (Kyoto)
 
-Adjacent to Fushimi Inari shrine in southern Kyoto — the soft, sweet water of Fushimi (*fushimizu*) produces the *tanrei amakuchi* (light and sweet) Kyoto style. The most visited region for sake tourism in Japan: the brewery complex along the Fushimi canal, with white-walled *kura* (sake warehouses), sake tasting bars, and boat rides on the canal in spring. *Gekkeikan*, *Kizakura*, and *Tamanohikari* are the major Fushimi breweries; the **Gekkeikan Okura Sake Museum** in the original 1909 kura is the most complete sake museum in Japan.
+Adjacent to Fushimi Inari shrine in southern [Kyoto](/japan/kyoto-guide) — the soft, sweet water of Fushimi (*fushimizu*) produces the *tanrei amakuchi* (light and sweet) Kyoto style. The most visited region for sake tourism in Japan: the brewery complex along the Fushimi canal, with white-walled *kura* (sake warehouses), sake tasting bars, and boat rides on the canal in spring. *Gekkeikan*, *Kizakura*, and *Tamanohikari* are the major Fushimi breweries; the **Gekkeikan Okura Sake Museum** in the original 1909 kura is the most complete sake museum in Japan.
 
 ### Hiroshima
 
-The modern sake-making technique (*Soft Water Brewing*) was developed here by Senzaburo Miura in 1898 — adapting fermentation to the very soft local water, previously considered unsuitable for sake. Hiroshima sake is full-flavored and slightly sweet; the *Saijo* district of Higashi-Hiroshima is the most concentrated sake brewery area in western Japan.
+The modern sake-making technique (*Soft Water Brewing*) was developed here by Senzaburo Miura in 1898 — adapting fermentation to the very soft local water, previously considered unsuitable for sake. [Hiroshima](/japan/hiroshima-guide) sake is full-flavored and slightly sweet; the *Saijo* district of Higashi-Hiroshima is the most concentrated sake brewery area in western Japan.
 
 ### Akita (Tohoku)
 
-The snowbelt of Tohoku produces sake with a clean, cold-climate character — full-bodied but not heavy. *Dewatsuru* and *Kariho* are the accessible representative labels. The Akita *kura* are particularly atmospheric in winter, when the snowfall and the steam from the fermentation vats create the classic sake brewery image.
+The snowbelt of [Tohoku](/japan/tohoku-guide) produces sake with a clean, cold-climate character — full-bodied but not heavy. *Dewatsuru* and *Kariho* are the accessible representative labels. The Akita *kura* are particularly atmospheric in winter, when the snowfall and the steam from the fermentation vats create the classic sake brewery image.
 
 ---
 
 ## Where to Drink Sake
 
-**Sake specialist bars**: The new generation of sake bars (*sakebar*, *nihonshu-ya*) in Tokyo's Shimokitazawa, Koenji, and Shinjuku neighborhoods and in Kyoto's Nakagyo ward serve comprehensive selections by the glass (¥500–1,200), with staff who will guide selection. These are the best contexts for tasting multiple styles.
+**Sake specialist bars**: The new generation of sake bars (*sakebar*, *nihonshu-ya*) in [Tokyo](/japan/tokyo-guide)'s Shimokitazawa, Koenji, and Shinjuku neighborhoods and in Kyoto's Nakagyo ward serve comprehensive selections by the glass (¥500–1,200), with staff who will guide selection. These are the best contexts for tasting multiple styles.
 
 **Breweries**: Major kura in Nada, Fushimi, Saijo, and Niigata have public tasting facilities. The Fushimi brewery walk is the best combined sake culture and atmospheric visit; Niigata's Ponshukan is the most efficient tasting format.
 
@@ -89,7 +89,7 @@ The snowbelt of Tohoku produces sake with a clean, cold-climate character — fu
 
 **Warm sake** (kan): Fried foods, heavier meat dishes — the warmth cuts through fat similarly to sparkling wine.
 
-**Experimental pairing that works**: A5 wagyu with Niigata daiginjo (the fat and the delicacy balance each other); Kyoto *obanzai* with Fushimi junmai (regional match); Hokkaido snow crab with cold Hokkaido shio sake.
+**Experimental pairing that works**: A5 wagyu with Niigata daiginjo (the fat and the delicacy balance each other); Kyoto *obanzai* with Fushimi junmai (regional match); [Hokkaido](/japan/hokkaido-guide) snow crab with cold Hokkaido shio sake.
 
 ---
 

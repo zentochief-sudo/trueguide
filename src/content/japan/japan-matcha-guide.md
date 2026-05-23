@@ -12,7 +12,7 @@ city: national
 
 Matcha (*抹茶*) — shade-grown green tea ground to a fine powder — has been at the center of Japanese tea culture since Eisai brought tea seeds from Song Dynasty China in 1191. The development of *chado* (the tea ceremony) by Murata Juko and later Sen no Rikyu between the 15th and 16th centuries formalized matcha's position at the intersection of Zen Buddhism, aesthetics, and social ritual.
 
-In the last two decades, matcha crossed from ceremonial and traditional contexts into global culinary culture — matcha lattes, matcha ice cream, matcha croissants, matcha everything. This has created a two-speed matcha economy: the ¥200 matcha soft-serve at the highway rest stop is technically the same ingredient as the ¥5,000 bowl of ceremonial *koicha* at a Kyoto tea house, but the connection between them is nominal.
+In the last two decades, matcha crossed from ceremonial and traditional contexts into global culinary culture — matcha lattes, matcha ice cream, matcha croissants, matcha everything. This has created a two-speed matcha economy: the ¥200 matcha soft-serve at the highway rest stop is technically the same ingredient as the ¥5,000 bowl of ceremonial *koicha* at a [Kyoto](/japan/kyoto-guide) tea house, but the connection between them is nominal.
 
 ---
 
@@ -65,7 +65,7 @@ Price: ¥500–1,500 per 100g. Available at supermarkets and online.
 
 Japan's most celebrated tea-producing area, with over 1,000 years of continuous tea cultivation. The combination of the Uji River fog, the specific soil composition, and the accumulated expertise of Uji's tea farmers produces the benchmark matcha for ceremonial use.
 
-**Visiting Uji**: 20 minutes from Kyoto by JR Nara Line or Keihan Uji Line. The town has multiple tea merchant shops (*chaya*) with tasting and purchasing. The *Uji Tea Trail* connects major tea farms and merchants along a riverside path. Byodoin Temple (the temple on the ¥10 coin) is Uji's major historical attraction, easily combined with tea shopping.
+**Visiting Uji**: 20 minutes from Kyoto by JR [Nara](/japan/nara-guide) Line or Keihan Uji Line. The town has multiple tea merchant shops (*chaya*) with tasting and purchasing. The *Uji Tea Trail* connects major tea farms and merchants along a riverside path. Byodoin Temple (the temple on the ¥10 coin) is Uji's major historical attraction, easily combined with tea shopping.
 
 **Tsuji Ritei**: A Uji tea merchant with an English-friendly tea experience room where visitors can compare grades of matcha and learn to prepare it.
 
@@ -85,7 +85,7 @@ A less-traveled matcha region producing premium ceremonial grades, known particu
 
 ### Tea Ceremony
 
-The primary way to experience ceremonial matcha in its intended context. See the Japan Tea Ceremony guide for options in Kyoto and Tokyo.
+The primary way to experience ceremonial matcha in its intended context. See the [Japan Tea Ceremony](/japan/japan-tea-ceremony-guide) guide for options in Kyoto and [Tokyo](/japan/tokyo-guide).
 
 ### Matcha Soft-Serve
 

@@ -10,7 +10,7 @@ tags: [Kazakhstan, February, Shymbulak, skiing, Almaty, winter, extreme cold]
 city: national
 ---
 
-February is Kazakhstan's second coldest month and arguably the finest for skiing at Shymbulak. The snowpack is deep, the winter is fully established, and Almaty's mountain backdrop is at its most dramatic in February's clear winter light. For anyone drawn specifically to Central Asian ski culture or the winter landscapes of the Tian Shan, February is the month.
+February is [Kazakhstan](/kazakhstan)'s second coldest month and arguably the finest for skiing at Shymbulak. The snowpack is deep, the winter is fully established, and [Almaty](/kazakhstan/almaty-travel-guide)'s mountain backdrop is at its most dramatic in February's clear winter light. For anyone drawn specifically to Central Asian ski culture or the winter landscapes of the Tian Shan, February is the month.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ February is Kazakhstan's second coldest month and arguably the finest for skiing
 
 **Shymbulak ski resort:** -15 to -5°C at resort elevation. Good powder conditions. The peak ski period.
 
-**Astana:** -22 to -12°C. The capital at its coldest stretch.
+**[Astana](/kazakhstan/astana-guide):** -22 to -12°C. The capital at its coldest stretch.
 
 **Steppe (central Kazakhstan):** Extremely cold. -25 to -15°C. Blizzard conditions possible.
 

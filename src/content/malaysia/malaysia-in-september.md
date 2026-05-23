@@ -10,7 +10,7 @@ tags: [Malaysia, September, Malaysia Day, Langkawi, Perhentian closing, transiti
 city: national
 ---
 
-September is Malaysia's transition month. The east coast season is in its final weeks before the northeast monsoon arrives in November. The southwest monsoon easing on the west coast means Langkawi is improving. And Malaysia Day on September 16 — the formation of the federation joining the Peninsula, Sabah, and Sarawak — is a national celebration. September is a month of changeover.
+September is [Malaysia](/malaysia)'s transition month. The east coast season is in its final weeks before the northeast monsoon arrives in November. The southwest monsoon easing on the west coast means [Langkawi](/malaysia/langkawi-guide) is improving. And Malaysia Day on September 16 — the formation of the federation joining the Peninsula, Sabah, and Sarawak — is a national celebration. September is a month of changeover.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ September is Malaysia's transition month. The east coast season is in its final 
 
 **Langkawi (west coast):** Improving. The southwest monsoon is easing. Late September has increasingly clear days.
 
-**Kuala Lumpur:** 25–32°C. Hazy from Borneo fires (September haze season when burning is worst in some years).
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** 25–32°C. Hazy from [Borneo](/malaysia/borneo-guide) fires (September haze season when burning is worst in some years).
 
 **Sabah:** 24–30°C. September can be affected by haze from Sumatra/Borneo fires.
 

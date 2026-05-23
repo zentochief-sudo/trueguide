@@ -10,7 +10,7 @@ tags: [France, June, lavender, Provence, Normandy, D-Day, French Open, Roland Ga
 city: national
 ---
 
-June is France's last comfortable month before July-August peaks. The weather is excellent — warm and mostly dry across the south, pleasant in the north. Early lavender blooms in Provence. The French Open (Roland Garros) brings tennis's clay-court final to Paris. Normandy's D-Day commemorations on June 6 are among the most moving military memorials in the world. And the entire country is operating at near-peak beauty without yet reaching peak crowd and price. June rewards travelers who book a few weeks ahead but doesn't yet require the months-ahead planning of July.
+June is [France](/france)'s last comfortable month before July-August peaks. The weather is excellent — warm and mostly dry across the south, pleasant in the north. Early lavender blooms in [Provence](/france/provence-guide). The French Open (Roland Garros) brings tennis's clay-court final to [Paris](/france/paris-travel-guide). [Normandy](/france/normandy-guide)'s D-Day commemorations on June 6 are among the most moving military memorials in the world. And the entire country is operating at near-peak beauty without yet reaching peak crowd and price. June rewards travelers who book a few weeks ahead but doesn't yet require the months-ahead planning of July.
 
 ## Weather in June
 
@@ -20,7 +20,7 @@ June is France's last comfortable month before July-August peaks. The weather is
 
 **Normandy:** 14°C to 22°C. Pleasant summer weather. June 6 (D-Day Anniversary) brings significant organized ceremony to the beaches and memorials.
 
-**Bordeaux wine country:** 17°C to 28°C. The vineyards are green with new growth — not harvest season but ideal for visiting the chateaux for tastings.
+**[Bordeaux](/france/bordeaux-guide) wine country:** 17°C to 28°C. The vineyards are green with new growth — not harvest season but ideal for visiting the chateaux for tastings.
 
 **Brittany:** 14°C to 22°C. The Celtic coastal region is building toward its July-August peak but June remains manageable.
 

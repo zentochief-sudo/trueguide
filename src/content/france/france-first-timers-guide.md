@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-France is one of the world's most visited countries, and it earns every visit. But France also operates on its own cultural logic, and understanding that logic before you arrive transforms the experience. The French don't expect you to be French — but they do appreciate it when you try.
+[France](/france) is one of the world's most visited countries, and it earns every visit. But France also operates on its own cultural logic, and understanding that logic before you arrive transforms the experience. The French don't expect you to be French — but they do appreciate it when you try.
 
 ## The Basics
 
@@ -20,7 +20,7 @@ France is one of the world's most visited countries, and it earns every visit. B
 **Time zone:** CET/CEST (GMT+1/+2)  
 **Driving:** Right-hand side  
 **Plugs:** Type E/F (two round pins)  
-**Visa:** EU/EEA no visa; US, UK, Canada, Australia — visa-free 90 days (Schengen)
+**Visa:** EU/EEA no visa; US, UK, [Canada](/canada), Australia — visa-free 90 days (Schengen)
 
 ---
 
@@ -36,7 +36,7 @@ French service culture is not warm in the American or Australian sense. Your wai
 French restaurants serve lunch between 12–2pm and dinner between 7:30–10pm. Attempting to eat outside these windows in a proper restaurant will result in polite rejection. Plan your schedule around French meal times — it's worth it.
 
 ### Rushing through Paris and skipping France
-Paris is extraordinary, but France is much bigger than its capital. Brittany, Alsace, the Dordogne, Lyon, and the Basque Country offer experiences completely different from — and often superior to — the tourist trail.
+Paris is extraordinary, but France is much bigger than its capital. Brittany, [Alsace](/france/alsace-guide), the Dordogne, Lyon, and the Basque Country offer experiences completely different from — and often superior to — the tourist trail.
 
 ---
 
@@ -44,15 +44,15 @@ Paris is extraordinary, but France is much bigger than its capital. Brittany, Al
 
 **Paris (3–4 days):** The Eiffel Tower, the Louvre, Montmartre, and Le Marais. But also: neighbourhood cafés, the Seine at sunset, Sainte-Chapelle's stained glass.
 
-**Versailles (day trip from Paris):** The Palace and Gardens of the Sun King are genuinely staggering in scale and opulence.
+**[Versailles](/france/versailles-guide) (day trip from Paris):** The Palace and Gardens of the Sun King are genuinely staggering in scale and opulence.
 
-**Loire Valley:** Renaissance châteaux, wine, and the most beautiful river valley in France.
+**[Loire Valley](/france/loire-valley-guide):** Renaissance châteaux, wine, and the most beautiful river valley in France.
 
-**Provence:** Lavender, olive oil, Roman ruins, and hilltop villages. Avignon, Gordes, Les Baux.
+**[Provence](/france/provence-guide):** Lavender, olive oil, Roman ruins, and hilltop villages. Avignon, Gordes, Les Baux.
 
 **French Riviera:** Nice, Monaco, Antibes. The most glamorous coastline in Europe.
 
-**Normandy:** D-Day beaches, Mont Saint-Michel, and the dramatic cliff coastline at Étretat.
+**[Normandy](/france/normandy-guide):** D-Day beaches, Mont Saint-Michel, and the dramatic cliff coastline at Étretat.
 
 **Alsace:** Half-timbered villages, Riesling wine, and the best Christmas markets in Europe.
 
@@ -66,7 +66,7 @@ Paris is extraordinary, but France is much bigger than its capital. Brittany, Al
 
 **Baguette:** French law dictates that a traditional baguette must be made and sold in the same place. Get one still warm from a boulangerie. Eat it walking. This is allowed.
 
-**Wine:** France's wine regions — Bordeaux, Burgundy, Champagne, Alsace, Rhône, Loire — produce some of the world's greatest wines. French wine literacy is high; asking a sommelier or wine merchant for a recommendation by price and preference works beautifully.
+**Wine:** France's wine regions — [Bordeaux](/france/bordeaux-guide), Burgundy, Champagne, Alsace, Rhône, Loire — produce some of the world's greatest wines. French wine literacy is high; asking a sommelier or wine merchant for a recommendation by price and preference works beautifully.
 
 **Steak-frites:** The classic French brasserie dish. Order it *à point* (medium) or *saignant* (medium-rare). The French consider well-done an insult to good beef.
 

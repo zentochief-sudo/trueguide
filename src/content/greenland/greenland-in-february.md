@@ -10,17 +10,17 @@ tags: [Greenland, February, sun return, dog sledding, Arctic, aurora, Ilulissat,
 city: national
 ---
 
-February is when Greenland's winter turns a corner. In Ilulissat, the sun returns above the horizon after two months of polar night — the first sunrise is a community event, marked with coffee and celebration at the harbor. The days are still very short (4–5 hours of daylight by late February) but the light is back. Dog sledding is at its peak: the sea ice is thick, the trails are established, and the combination of light and snow conditions creates the finest dog sled conditions of the year. The Northern Lights remain visible on clear nights.
+February is when [Greenland](/greenland)'s winter turns a corner. In Ilulissat, the sun returns above the horizon after two months of polar night — the first sunrise is a community event, marked with coffee and celebration at the harbor. The days are still very short (4–5 hours of daylight by late February) but the light is back. [Dog sledding](/greenland/dog-sledding-guide) is at its peak: the sea ice is thick, the trails are established, and the combination of light and snow conditions creates the finest dog sled conditions of the year. The Northern Lights remain visible on clear nights.
 
 ## Weather & Conditions
 
 **Ilulissat (Disko Bay):** -12 to -22°C. Sun returns late January. Sea ice at maximum thickness.
 
-**Nuuk:** -5 to -13°C. Short days but daylight returning.
+**[Nuuk](/greenland/nuuk-travel-guide):** -5 to -13°C. Short days but daylight returning.
 
-**Sisimiut:** -10 to -20°C. Peak dog sled conditions.
+**[Sisimiut](/greenland/sisimiut-guide):** -10 to -20°C. Peak dog sled conditions.
 
-**East Greenland (Tasiilaq):** -15 to -28°C. Extreme. Very limited services.
+**[East Greenland](/greenland/east-greenland-guide) (Tasiilaq):** -15 to -28°C. Extreme. Very limited services.
 
 **Sea ice:** Maximum thickness — 1.5–2m in protected bays. Dog sled routes fully established.
 

@@ -10,11 +10,11 @@ tags: [Italy, June, summer, beach, Amalfi, Sicily, Venice, Cinque Terre, travel 
 city: national
 ---
 
-June is Italy's last transitional month before full summer commitment. Early June (1–15) still has spring-adjacent crowd levels and near-spring pricing. Late June (16–30) is effectively summer — beaches packed, accommodation tight, and the major sites approaching their most crowded. The split between these two halves determines whether June feels like an optimal month or an expensive disappointment.
+June is [Italy](/italy)'s last transitional month before full summer commitment. Early June (1–15) still has spring-adjacent crowd levels and near-spring pricing. Late June (16–30) is effectively summer — beaches packed, accommodation tight, and the major sites approaching their most crowded. The split between these two halves determines whether June feels like an optimal month or an expensive disappointment.
 
 ## Weather in June
 
-**Rome:** 18°C to 30°C. Hot by month end. The city's outdoor culture is at full summer operation — evening passeggiata, rooftop dining, late-night gelato.
+**[Rome](/italy/rome-guide):** 18°C to 30°C. Hot by month end. The city's outdoor culture is at full summer operation — evening passeggiata, rooftop dining, late-night gelato.
 
 **Florence:** 17°C to 32°C. The heat builds through June. The Uffizi and the Accademia provide air conditioning; the streets get hot by noon.
 
@@ -30,7 +30,7 @@ June is Italy's last transitional month before full summer commitment. Early Jun
 
 **Early June:** Closer to May than to July. Accommodation available with 1–2 weeks notice in most cities. Beach infrastructure open but not packed. The school holidays haven't started yet in most of Europe — family beach tourism hasn't begun.
 
-**Late June:** Italian schools finish in mid-June; European schools finishing shortly after. Coastal destinations shift to peak-season mode. Cinque Terre trails get crowded. Venice hits significant tourist density. Prices jump perceptibly.
+**Late June:** Italian schools finish in mid-June; European schools finishing shortly after. Coastal destinations shift to peak-season mode. [Cinque Terre](/italy/cinque-terre-guide) trails get crowded. Venice hits significant tourist density. Prices jump perceptibly.
 
 The optimal strategy: if visiting in June, arrive before June 15.
 

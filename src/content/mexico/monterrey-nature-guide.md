@@ -10,7 +10,7 @@ tags: [Monterrey, nature, La Huasteca, Cola de Caballo, Grutas de García, Sierr
 city: monterrey
 ---
 
-Monterrey's position at the edge of the Sierra Madre Oriental gives it immediate access to one of the most dramatic canyon and mountain landscapes in Mexico. La Huasteca canyon is 22 km from the city center; the Grutas de García caves are 40 km northwest. The contrast between the industrial urban environment and the limestone geology that begins where the city ends is Monterrey's defining geographic characteristic.
+Monterrey's position at the edge of the Sierra Madre Oriental gives it immediate access to one of the most dramatic canyon and mountain landscapes in [Mexico](/mexico). La Huasteca canyon is 22 km from the city center; the Grutas de García caves are 40 km northwest. The contrast between the industrial urban environment and the limestone geology that begins where the city ends is Monterrey's defining geographic characteristic.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [India, May, Himalayas, Ladakh, trekking, hill stations, pre-monsoon]
 city: national
 ---
 
-May in India is a tale of two countries: the plains and hills. In Delhi, Rajasthan, and the Gangetic plains, May temperatures regularly hit 42–46°C — genuinely dangerous for prolonged outdoor exposure. In the Himalayas, Ladakh, and the higher hill stations, May is the opening of one of the world's great adventure seasons. Leh-Ladakh becomes accessible. Trekking routes through Himachal Pradesh and Uttarakhand open after winter. Rohtang Pass unlocks. May is about knowing which India to be in.
+May in [India](/india) is a tale of two countries: the plains and hills. In [Delhi](/india/delhi-guide), [Rajasthan](/india/rajasthan-guide), and the Gangetic plains, May temperatures regularly hit 42–46°C — genuinely dangerous for prolonged outdoor exposure. In the Himalayas, Ladakh, and the higher hill stations, May is the opening of one of the world's great adventure seasons. Leh-Ladakh becomes accessible. Trekking routes through Himachal Pradesh and Uttarakhand open after winter. Rohtang Pass unlocks. May is about knowing which India to be in.
 
 ## Weather & Conditions
 
@@ -18,7 +18,7 @@ May in India is a tale of two countries: the plains and hills. In Delhi, Rajasth
 
 **Rajasthan:** 32–46°C. Some of the hottest cities in the world in May — Churu and Bikaner occasionally record 48–50°C. Not a month for the desert.
 
-**Mumbai:** 28–35°C, humid. The pre-monsoon mugginess arrives.
+**[Mumbai](/india/mumbai-guide):** 28–35°C, humid. The pre-monsoon mugginess arrives.
 
 **Leh, Ladakh:** 8–22°C. The high desert plateau is accessible again as the Manali-Leh Highway (over Rohtang and Baralacha La) opens. Ideal trekking temperatures.
 
@@ -26,7 +26,7 @@ May in India is a tale of two countries: the plains and hills. In Delhi, Rajasth
 
 **Darjeeling / Sikkim:** 15–22°C. Pre-monsoon season. Good trekking before June clouds arrive.
 
-**Kerala hills (Munnar, Wayanad):** 18–26°C. Comfortable.
+**[Kerala](/india/kerala-guide) hills (Munnar, Wayanad):** 18–26°C. Comfortable.
 
 ## What to Do
 
@@ -42,7 +42,7 @@ May in India is a tale of two countries: the plains and hills. In Delhi, Rajasth
 
 ## Festivals & Events
 
-**Buddha Purnima (Vesak, full moon of May):** India's significant Buddhist sites — Bodh Gaya (where the Buddha attained enlightenment), Sarnath (first sermon), Kushinagar (death) — celebrate with elaborate ceremonies. Bodh Gaya sees Buddhist pilgrims from Tibet, Sri Lanka, Thailand, and Japan converge around the Mahabodhi Temple.
+**Buddha Purnima (Vesak, full moon of May):** India's significant Buddhist sites — Bodh Gaya (where the Buddha attained enlightenment), Sarnath (first sermon), Kushinagar (death) — celebrate with elaborate ceremonies. Bodh Gaya sees Buddhist pilgrims from Tibet, Sri Lanka, [Thailand](/thailand), and Japan converge around the Mahabodhi Temple.
 
 **Saga Dawa (Ladakh/Sikkim, variable May or June):** The most important Buddhist festival in the Himalayan calendar, commemorating the Buddha's birth, enlightenment, and death. Monasteries in Ladakh hold elaborate thangka displays, puja ceremonies, and mask dances.
 

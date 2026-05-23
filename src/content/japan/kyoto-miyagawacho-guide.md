@@ -10,7 +10,7 @@ tags: [Miyagawacho, Kyoto hanamachi, geiko, maiko, Kyoto flower district, Miyako
 city: kyoto
 ---
 
-Miyagawacho (*宮川町*) runs for approximately 400 meters parallel to the Kamo River, south of Shijo-dori, between the Gion district to the east and the Fushimi sake district further south. It is one of Kyoto's five active *hanamachi* — districts maintaining the tradition of geiko and maiko entertainment — and the most atmospheric for walking without the tourist density of Gion Kobu.
+Miyagawacho (*宮川町*) runs for approximately 400 meters parallel to the Kamo River, south of Shijo-dori, between the Gion district to the east and the Fushimi sake district further south. It is one of [Kyoto](/japan/kyoto-guide)'s five active *hanamachi* — districts maintaining the tradition of geiko and maiko entertainment — and the most atmospheric for walking without the tourist density of Gion Kobu.
 
 ---
 

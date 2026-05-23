@@ -10,7 +10,7 @@ tags: [Lisbon, Portugal, neighborhoods, Alfama, Chiado, Príncipe Real, Mouraria
 city: lisbon
 ---
 
-Lisbon's neighborhoods are defined by their hills — the city is built on seven, and each hill has its own character, its own relationship to the Tagus, and its own history. The low-lying Baixa (downtown) was rebuilt in a grid after the 1755 earthquake; the hills around it preserved their medieval layout. The result is a city where a 10-minute walk can move you from wide 18th-century boulevards to lanes barely wide enough for two people to pass.
+[Lisbon](/portugal/lisbon-guide)'s neighborhoods are defined by their hills — the city is built on seven, and each hill has its own character, its own relationship to the Tagus, and its own history. The low-lying Baixa (downtown) was rebuilt in a grid after the 1755 earthquake; the hills around it preserved their medieval layout. The result is a city where a 10-minute walk can move you from wide 18th-century boulevards to lanes barely wide enough for two people to pass.
 
 ---
 

@@ -14,7 +14,7 @@ November is a month of two halves. The first two weeks are the final chapter of 
 
 ## Weather in November
 
-**Seoul:** 4°C to 15°C. Sharp temperature drops through the month — early November still comfortable in layers; late November genuinely cold. First frost typically mid-to-late November.
+**[Seoul](/south-korea/seoul-guide):** 4°C to 15°C. Sharp temperature drops through the month — early November still comfortable in layers; late November genuinely cold. First frost typically mid-to-late November.
 
 **Busan:** 8°C to 18°C. Warmer south coast through mid-November. Late November is cold but not Seoul-cold.
 

@@ -10,9 +10,9 @@ tags: [Miami, neighborhoods, World Cup 2026, where to stay, South Beach, Wynwood
 city: miami
 ---
 
-Miami is not one city but a collection of municipalities and neighborhoods spread across a peninsula between Biscayne Bay and the Atlantic Ocean. Miami Beach is a separate city on a barrier island. Coral Gables and Coconut Grove are distinct communities with their own character. Wynwood, Brickell, Little Havana, and the Design District sit within the City of Miami proper but feel entirely different from each other.
+Miami is not one city but a collection of municipalities and neighborhoods spread across a peninsula between Biscayne Bay and the Atlantic Ocean. [Miami Beach](/united-states/miami-beach-guide) is a separate city on a barrier island. Coral Gables and Coconut Grove are distinct communities with their own character. Wynwood, Brickell, Little Havana, and the Design District sit within the City of Miami proper but feel entirely different from each other.
 
-For World Cup visitors, the choice of neighborhood determines everything: your commute to Hard Rock Stadium, the food within walking distance, whether you can walk to the beach, and how much you pay for accommodation. There is no single best neighborhood — only the best neighborhood for your specific priorities.
+For World Cup visitors, the choice of neighborhood determines everything: your commute to [Hard Rock Stadium](/united-states/hard-rock-stadium-guide), the food within walking distance, whether you can walk to the beach, and how much you pay for accommodation. There is no single best neighborhood — only the best neighborhood for your specific priorities.
 
 ---
 

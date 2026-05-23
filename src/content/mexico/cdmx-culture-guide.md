@@ -10,7 +10,7 @@ tags: [Mexico City, museums, culture, murals, Frida Kahlo, Rivera, World Cup 202
 city: cdmx
 ---
 
-Mexico City has more museums per square kilometer than any other city in the Western Hemisphere — more than 150 museums in the metropolitan area. The combination of three thousand years of pre-Hispanic history, three centuries of Spanish colonialism, a muralist movement that reinvented public art in the 20th century, and a contemporary scene that has produced globally recognized artists makes CDMX the most culturally dense destination in Latin America.
+[Mexico](/mexico) City has more museums per square kilometer than any other city in the Western Hemisphere — more than 150 museums in the metropolitan area. The combination of three thousand years of pre-Hispanic history, three centuries of Spanish colonialism, a muralist movement that reinvented public art in the 20th century, and a contemporary scene that has produced globally recognized artists makes CDMX the most culturally dense destination in Latin America.
 
 ---
 
@@ -64,7 +64,7 @@ The house where Frida Kahlo was born (1907), lived, and died (1954). La Casa Azu
 
 **Plaza Carso, Polanco** | Monday–Sunday, 10:30–18:30 | **Free**
 
-The building designed by Fernando Romero (Carlos Slim's son-in-law) is an asymmetric structure covered with 16,000 aluminum hexagons — one of the most photographed contemporary architecture works in Mexico. The collection includes the largest concentration of Rodin works outside France, plus pieces by Dalí, Miró, Picasso, and collections of Mexican colonial art.
+The building designed by Fernando Romero (Carlos Slim's son-in-law) is an asymmetric structure covered with 16,000 aluminum hexagons — one of the most photographed contemporary architecture works in Mexico. The collection includes the largest concentration of Rodin works outside [France](/france), plus pieces by Dalí, Miró, Picasso, and collections of Mexican colonial art.
 
 Free admission — the combination of cutting-edge architecture and world-class collection at no cost makes it one of the city's best values.
 

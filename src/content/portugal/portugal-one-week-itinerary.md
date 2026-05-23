@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Portugal manages to pack extraordinary variety into a small country — cosmopolitan Lisbon, baroque Porto, medieval hilltop villages, dramatic Atlantic coastline, and some of Europe's best food and wine. Seven days gives you a taste of all of it.
+[Portugal](/portugal) manages to pack extraordinary variety into a small country — cosmopolitan [Lisbon](/portugal/lisbon-guide), baroque [Porto](/portugal/porto-guide), medieval hilltop villages, dramatic Atlantic coastline, and some of Europe's best food and wine. Seven days gives you a taste of all of it.
 
 ## Day 1 – Lisbon: Arrival & Alfama
 
@@ -32,7 +32,7 @@ Evening: dinner in **Chiado** or **Bairro Alto**, where restaurants spill onto t
 
 ## Day 3 – Sintra & Cascais
 
-Sintra is a 40-minute train ride from Lisbon's Rossio station. The UNESCO World Heritage town is dotted with fantastical palaces built by Portuguese royals and Romantic-era aristocrats. 
+[Sintra](/portugal/sintra-guide) is a 40-minute train ride from Lisbon's Rossio station. The UNESCO World Heritage town is dotted with fantastical palaces built by Portuguese royals and Romantic-era aristocrats. 
 
 The **Pena Palace** is unmissable — a fairy-tale castle painted in yellow and red, perched on a clifftop. The **Quinta da Regaleira** has mysterious underground initiation wells and gothic follies. The **Moorish Castle** offers the best views.
 
@@ -66,7 +66,7 @@ Evening: dinner in Porto's increasingly impressive restaurant scene — try **Ca
 
 Option A: Spend a final morning in Porto — visit the **São Bento Railway Station** (its azulejo tile panels depicting Portuguese history are among the finest in the country) and take a **river cruise** on the Douro.
 
-Option B: Drive or take a train into the **Douro Valley** — UNESCO-listed wine country with terraced vineyards climbing steep hillsides. Quinta de la Rosa, Quinta do Crasto, and dozens of other quintas (wine estates) offer tastings and tours with valley views.
+Option B: Drive or take a train into the **[Douro Valley](/portugal/douro-valley-guide)** — UNESCO-listed wine country with terraced vineyards climbing steep hillsides. Quinta de la Rosa, Quinta do Crasto, and dozens of other quintas (wine estates) offer tastings and tours with valley views.
 
 Return to Lisbon or Porto for departure.
 

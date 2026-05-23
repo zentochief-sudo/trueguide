@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Two weeks in Portugal is close to perfect. You get the cities, the coast, the wine country, the medieval interior, and enough time to sit in a café and simply absorb the light. This itinerary runs south to north, ending in Porto — a great finishing point if you're flying out from there.
+Two weeks in [Portugal](/portugal) is close to perfect. You get the cities, the coast, the wine country, the medieval interior, and enough time to sit in a café and simply absorb the light. This itinerary runs south to north, ending in [Porto](/portugal/porto-guide) — a great finishing point if you're flying out from there.
 
 ## Days 1–3 – Lisbon
 
-Three days in Lisbon covers everything properly. Day one: Alfama, Castelo de São Jorge, Tram 28, and an evening of fado. Day two: Jerónimos Monastery and Belém Tower, then downtown Baixa/Chiado and the Santa Justa Lift. Day three: rooftop bars (the Bairro Alto and LX Factory market on Sundays), the National Tile Museum (Museu do Azulejo), and evening in Mouraria — the old Moorish quarter with excellent cheap tascas (traditional restaurants).
+Three days in [Lisbon](/portugal/lisbon-guide) covers everything properly. Day one: Alfama, Castelo de São Jorge, Tram 28, and an evening of fado. Day two: Jerónimos Monastery and Belém Tower, then downtown Baixa/Chiado and the Santa Justa Lift. Day three: rooftop bars (the Bairro Alto and LX Factory market on Sundays), the National Tile Museum (Museu do Azulejo), and evening in Mouraria — the old Moorish quarter with excellent cheap tascas (traditional restaurants).
 
 ## Day 4 – Sintra
 
@@ -24,11 +24,11 @@ Day trip by train from Rossio Station. Pena Palace (book online, arrive early), 
 
 Hire a car and drive east to **Évora** — a UNESCO World Heritage medieval city with a Roman temple, gothic cathedral, and the remarkable Chapel of Bones. Spend the first night here.
 
-Day six, drive north through the Alentejo plains to **Monsaraz** — a tiny hilltop village with white walls and battlements overlooking the Alqueva reservoir. Continue to **Marvão**, arguably Portugal's most dramatic hilltop fortified village, perched on a rocky promontory at 862m with views into Spain.
+Day six, drive north through the Alentejo plains to **Monsaraz** — a tiny hilltop village with white walls and battlements overlooking the Alqueva reservoir. Continue to **Marvão**, arguably Portugal's most dramatic hilltop fortified village, perched on a rocky promontory at 862m with views into [Spain](/spain).
 
 ## Day 7 – Algarve
 
-Drive south to the **Algarve** coast. The west (around Sagres and Lagos) is wilder, more rugged, and windswept — sea-carved cliffs, hidden coves, and powerful Atlantic surf. The east (Tavira, Faro) is calmer, with long sandy beaches and a more relaxed atmosphere.
+Drive south to the **[Algarve](/portugal/algarve-guide)** coast. The west (around Sagres and Lagos) is wilder, more rugged, and windswept — sea-carved cliffs, hidden coves, and powerful Atlantic surf. The east (Tavira, Faro) is calmer, with long sandy beaches and a more relaxed atmosphere.
 
 **Sagres** is worth the drive for the moody feel of standing at Europe's southwest corner. The **Ponta de Sagres** fortress sits on a flat promontory above sheer cliffs where the Atlantic meets history.
 
@@ -48,7 +48,7 @@ Take the Alfa Pendular train from Lisbon to Porto (3 hours) or drive via the Dou
 
 ## Days 13–14 – Douro Valley
 
-Drive east along the river into the **Douro Valley** — the world's oldest demarcated wine region (since 1756). The road hugs the north bank of the Douro; terraced vineyards rise on every hillside, planted with over 250 grape varieties.
+Drive east along the river into the **[Douro Valley](/portugal/douro-valley-guide)** — the world's oldest demarcated wine region (since 1756). The road hugs the north bank of the Douro; terraced vineyards rise on every hillside, planted with over 250 grape varieties.
 
 Stop at **Pinhão** — a small town with a beautiful azulejo-tiled railway station — and take a river cruise to see the valley from the water. Most quintas (wine estates) offer tastings; **Quinta do Crasto**, **Ramos Pinto**, and **Quinta Nova** are particularly visitor-friendly.
 
@@ -56,7 +56,7 @@ Spend a night at a quinta with valley views — one of Portugal's most memorable
 
 ## Practical Notes
 
-**Transport:** Lisbon and Porto are excellent by public transport. Sintra, Alentejo, and Algarve require a rental car. Consider hiring one from Day 4 and dropping it back before taking the train to Porto.
+**Transport:** Lisbon and Porto are excellent by public transport. [Sintra](/portugal/sintra-guide), Alentejo, and Algarve require a rental car. Consider hiring one from Day 4 and dropping it back before taking the train to Porto.
 
 **Budget:** Two weeks costs roughly €1,500–2,500 per person mid-range, including flights.
 

@@ -10,7 +10,7 @@ tags: []
 city: Kuala Lumpur
 ---
 
-Kuala Lumpur is a city that defies expectations. Most visitors come for the Petronas Towers and leave surprised by how much else there is — extraordinary food, peaceful Islamic architecture, Hindu cave temples, colonial history, and a genuinely hospitable culture that reflects Malaysia's Chinese, Malay, and Indian mix.
+[Kuala Lumpur](/[malaysia](/malaysia)/kuala-lumpur-guide) is a city that defies expectations. Most visitors come for the Petronas Towers and leave surprised by how much else there is — extraordinary food, peaceful Islamic architecture, Hindu cave temples, colonial history, and a genuinely hospitable culture that reflects Malaysia's Chinese, Malay, and Indian mix.
 
 ## Day 1 – Twin Towers & Chinatown
 
@@ -38,7 +38,7 @@ Five minutes' walk: the **Islamic Arts Museum Malaysia** — one of Southeast As
 
 ## Day 3 – Hill Stations & Skyline
 
-**Morning:** Day trip to **Batu Ferringhi** (not actually in KL — this is Penang; consider skipping) OR the more local **Forest Research Institute Malaysia (FRIM)** — a 545-hectare research forest 16km from KL with a canopy walkway through tropical rainforest. Hornbills, monitor lizards, and extraordinary biodiversity 30 minutes from the city centre. €4 entry.
+**Morning:** Day trip to **Batu Ferringhi** (not actually in KL — this is [Penang](/malaysia/penang-travel-guide); consider skipping) OR the more local **Forest Research Institute Malaysia (FRIM)** — a 545-hectare research forest 16km from KL with a canopy walkway through tropical rainforest. Hornbills, monitor lizards, and extraordinary biodiversity 30 minutes from the city centre. €4 entry.
 
 Alternatively: **Putrajaya** (25km south) — Malaysia's purpose-built government capital with the stunning **Putra Mosque** (pink granite, reflects in the Putrajaya Lake), futuristic bridges, and the botanical gardens.
 

@@ -10,14 +10,14 @@ tags: [Almaty, Kazakhstan, food, beshbarmak, Green Bazaar, shashlik, Central Asi
 city: almaty
 ---
 
-Kazakh cuisine developed from the logic of nomadic life — high-calorie, meat-heavy, built for cold winters and long distances on horseback. The national dishes reflect this history: whole boiled sheep, fermented mare's milk, hand-rolled noodles. But Almaty, as the cosmopolitan former capital of a Soviet republic, layers Russian, Ukrainian, Korean, Uighur, and Uzbek cuisines on top of the Kazakh base. The result is one of the more interesting food cities in Central Asia, and the Green Bazaar is the physical center of all of it.
+Kazakh cuisine developed from the logic of nomadic life — high-calorie, meat-heavy, built for cold winters and long distances on horseback. The national dishes reflect this history: whole boiled sheep, fermented mare's milk, hand-rolled noodles. But [Almaty](/kazakhstan/almaty-travel-guide), as the cosmopolitan former capital of a Soviet republic, layers Russian, Ukrainian, Korean, Uighur, and Uzbek cuisines on top of the Kazakh base. The result is one of the more interesting food cities in Central Asia, and the Green Bazaar is the physical center of all of it.
 
 ---
 
 ## The National Dishes
 
 ### Beshbarmak
-The ceremonial dish of Kazakhstan — the name means "five fingers" (it was traditionally eaten by hand). Boiled mutton or horse meat served over wide, flat boiled noodles (*shal*) with onion sauce (*tuzdyk*) and broth served separately in bowls. Eaten at celebrations, weddings, funerals, and large family gatherings. The cut of meat served indicates honor: the head is for the most honored guest, the shoulder blade for sons-in-law, the thighs for elder women.
+The ceremonial dish of [Kazakhstan](/kazakhstan) — the name means "five fingers" (it was traditionally eaten by hand). Boiled mutton or horse meat served over wide, flat boiled noodles (*shal*) with onion sauce (*tuzdyk*) and broth served separately in bowls. Eaten at celebrations, weddings, funerals, and large family gatherings. The cut of meat served indicates honor: the head is for the most honored guest, the shoulder blade for sons-in-law, the thighs for elder women.
 
 The correct way to eat it in a traditional setting is to share from a common plate, pulling pieces with the fingers. At restaurants, it arrives in individual portions.
 

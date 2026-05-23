@@ -10,17 +10,17 @@ tags: [India, August, Independence Day, Onam, Ladakh, Kerala, monsoon, festival]
 city: national
 ---
 
-August is mid-monsoon India with some of the year's most significant cultural events. Independence Day on August 15 brings flag-hoisting ceremonies, patriotic events, and school parades across every city in the country. Kerala's Onam harvest festival transforms the state with snake boat races, elaborate floral carpets, and 10-day celebrations. Ladakh and the Himalayan rain shadow remain dry and excellent. The monsoon plains offer India's best accommodation prices.
+August is mid-monsoon [India](/india) with some of the year's most significant cultural events. Independence Day on August 15 brings flag-hoisting ceremonies, patriotic events, and school parades across every city in the country. [Kerala](/india/kerala-guide)'s Onam harvest festival transforms the state with snake boat races, elaborate floral carpets, and 10-day celebrations. Ladakh and the Himalayan rain shadow remain dry and excellent. The monsoon plains offer India's best accommodation prices.
 
 ## Weather & Conditions
 
-**Delhi / North India:** 28–35°C, continuous monsoon rain. Occasional flooding in low areas. Hot, humid, and wet — but functional. Independence Day is a public holiday.
+**[Delhi](/india/delhi-guide) / North India:** 28–35°C, continuous monsoon rain. Occasional flooding in low areas. Hot, humid, and wet — but functional. Independence Day is a public holiday.
 
-**Rajasthan:** 28–38°C, monsoon rainfall. The desert lakes — Pichola in Udaipur, Ana Sagar in Ajmer — are full and beautiful in August.
+**[Rajasthan](/india/rajasthan-guide):** 28–38°C, monsoon rainfall. The desert lakes — Pichola in Udaipur, Ana Sagar in Ajmer — are full and beautiful in August.
 
 **Kerala:** Intense monsoon rain. The waterways are full. Onam (late August to mid-September) fills the state with cultural celebrations.
 
-**Mumbai:** 26–30°C, very wet. The city operates under regular heavy rain.
+**[Mumbai](/india/mumbai-guide):** 26–30°C, very wet. The city operates under regular heavy rain.
 
 **Leh, Ladakh:** 16–28°C, sunny. Peak tourist season. The monasteries are active and accessible.
 
@@ -32,7 +32,7 @@ August is mid-monsoon India with some of the year's most significant cultural ev
 
 **Onam celebrations, Kerala:** Kerala's most important festival — a 10-day harvest celebration welcoming the mythic King Mahabali — features the extraordinary Pookalam (intricate flower carpets laid at every home entrance), Vallam Kali (snake boat races on the Punnamada Lake at Alleppey), Onasamallu (traditional harvest feast of 26+ dishes on banana leaf), and Kaikottikali (traditional women's dance). The Nehru Trophy Snake Boat Race (usually second Saturday of August) at Alleppey is the most spectacular and ticketed event.
 
-**Independence Day, August 15:** Across every Indian city, flag-hoisting ceremonies at 8am followed by school parades, patriotic events, and sweet distribution. The Prime Minister's address from the Red Fort in Delhi is the national event. Hotels, markets, and public spaces are decorated in saffron, white, and green. Varanasi ghats celebrations on the Ganges are particularly atmospheric.
+**Independence Day, August 15:** Across every Indian city, flag-hoisting ceremonies at 8am followed by school parades, patriotic events, and sweet distribution. The Prime Minister's address from the Red Fort in Delhi is the national event. Hotels, markets, and public spaces are decorated in saffron, white, and green. [Varanasi](/india/varanasi-guide) ghats celebrations on the Ganges are particularly atmospheric.
 
 **Ladakh Monastery Festival Circuit:** August sees several monastery festivals in Ladakh — Phyang Tsedup, Karsha, and Thiksey all hold their annual cham festivals in August. Check the precise Tibetan calendar dates as they shift annually. The mask dances (cham) at these festivals are extraordinary.
 

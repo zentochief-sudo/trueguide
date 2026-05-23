@@ -10,7 +10,7 @@ tags: [Canada, September, fall, foliage, larch, Banff, salmon, autumn]
 city: national
 ---
 
-September is the month experienced travelers quietly claim as their favorite for Canada. The crowds that defined August evaporate after Labour Day weekend. The weather stays warm — often warmer than August in Quebec and Ontario. And the landscape begins its most spectacular visual shift of the year. Larch trees in the Rockies turn gold. Maple forests in Quebec and Ontario begin their transformation. The salmon are in the rivers. September is excellent.
+September is the month experienced travelers quietly claim as their favorite for [Canada](/canada). The crowds that defined August evaporate after Labour Day weekend. The weather stays warm — often warmer than August in Quebec and Ontario. And the landscape begins its most spectacular visual shift of the year. Larch trees in the Rockies turn gold. Maple forests in Quebec and Ontario begin their transformation. The salmon are in the rivers. September is excellent.
 
 ## Weather & Conditions
 

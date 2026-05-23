@@ -22,7 +22,7 @@ Old City is the colonial-era neighborhood between the Delaware River and 6th Str
 
 **What's here beyond the history**: Old City has converted into a restaurant and gallery neighborhood. First Friday (the first Friday of each month, galleries open late) is the most active cultural event on the neighborhood calendar. The Market Street corridor has both historic and contemporary buildings.
 
-**For World Cup visitors**: A base here puts you 10 minutes on foot from most historical sites and within walking distance of the Market-Frankford Line (to connect to the Broad Street Line for Gillette... for Lincoln Financial Field). Hotels are boutique rather than chain.
+**For World Cup visitors**: A base here puts you 10 minutes on foot from most historical sites and within walking distance of the Market-Frankford Line (to connect to the Broad Street Line for Gillette... for [Lincoln Financial](/united-states/lincoln-financial-guide) Field). Hotels are boutique rather than chain.
 
 **Stay**: $170–290/night. The **Morris House Hotel** (225 S 8th Street) is the best small boutique hotel — a 1787 Federal townhouse with period details. The **Hotel Monaco** (433 Chestnut Street) is a more standard boutique.
 

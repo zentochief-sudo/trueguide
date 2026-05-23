@@ -10,7 +10,7 @@ tags: [Barcelona, nightlife, bars, clubs, El Born, Poble Sec, Gràcia, cocktails
 city: barcelona
 ---
 
-Barcelona nightlife operates on a timeline that surprises most visitors from northern Europe and North America. Bars fill up around 10–11 PM. Clubs don't open until midnight and don't fill until 2–3 AM. The night ends anywhere from 5–7 AM at the larger venues. If you arrive at a club at midnight, you'll be essentially alone.
+[Barcelona](/[spain](/spain)/barcelona-travel-guide) nightlife operates on a timeline that surprises most visitors from northern Europe and North America. Bars fill up around 10–11 PM. Clubs don't open until midnight and don't fill until 2–3 AM. The night ends anywhere from 5–7 AM at the larger venues. If you arrive at a club at midnight, you'll be essentially alone.
 
 Understanding this rhythm makes the difference between a frustrating night out and an excellent one.
 

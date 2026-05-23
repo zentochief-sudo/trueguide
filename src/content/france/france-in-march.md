@@ -10,7 +10,7 @@ tags: [France, March, spring, Paris, Loire Valley, Provence, ski, pre-season, tr
 city: national
 ---
 
-March is France's transition from winter to spring — and it's one of the better months to visit. The winter crowds (skiing aside) are minimal, prices remain near winter lows, and by late March the country is visibly warming. The Loire Valley châteaux are nearly empty. Provence begins its first blooms. Paris becomes gradually more pleasant day by day. The ski resorts run their final reliable weeks. March gives you France before it becomes the France everyone comes for — which means you get more of it.
+March is [France](/france)'s transition from winter to spring — and it's one of the better months to visit. The winter crowds (skiing aside) are minimal, prices remain near winter lows, and by late March the country is visibly warming. The [Loire Valley](/france/loire-valley-guide) châteaux are nearly empty. [Provence](/france/provence-guide) begins its first blooms. [Paris](/france/paris-travel-guide) becomes gradually more pleasant day by day. The ski resorts run their final reliable weeks. March gives you France before it becomes the France everyone comes for — which means you get more of it.
 
 ## Weather in March
 
@@ -20,7 +20,7 @@ March is France's transition from winter to spring — and it's one of the bette
 
 **Provence:** 8°C to 18°C. Spring arrives early in southern France. By mid-March, Provence's wildflowers and blossoms are beginning. The lavender fields are bare (that's June–July) but the almond and cherry blossoms appear in March.
 
-**Normandy:** 5°C to 13°C. Cool and possibly rainy — but the D-Day beaches and the Norman countryside in March are at their most unpeopled. The Normandy cattle farms and the Camembert country are in early-spring green.
+**[Normandy](/france/normandy-guide):** 5°C to 13°C. Cool and possibly rainy — but the D-Day beaches and the Norman countryside in March are at their most unpeopled. The Normandy cattle farms and the Camembert country are in early-spring green.
 
 **French Alps:** Last good skiing weeks. March snow can be excellent — warmer temperatures make the conditions more pleasant; night freezing maintains the snowpack. March 15 is roughly the last reliable date for quality conditions at lower altitude resorts; higher resorts (Tignes, Val d'Isère) run through April.
 
@@ -30,7 +30,7 @@ The Loire Valley — 42 royal châteaux along a 280km stretch of the Loire River
 
 **Château de Chambord:** The largest château in the Loire, built for Francis I. The iconic double-helix staircase (attributed to Leonardo da Vinci) in a largely empty building in March is profoundly different from the summer experience. Book tickets online but same-day availability is common.
 
-**Château de Chenonceau:** Built across the Cher River — the most photographed château in France after Versailles. March morning visits are among the best — the gardens are being prepared, the interior is accessible without queuing.
+**Château de Chenonceau:** Built across the Cher River — the most photographed château in France after [Versailles](/france/versailles-guide). March morning visits are among the best — the gardens are being prepared, the interior is accessible without queuing.
 
 **Château de Villandry:** Famous for its geometric French formal gardens — in March, the gardens are being prepared for the growing season. Not the June/September peak, but the bare geometric structure is visible in a way that full planting conceals.
 

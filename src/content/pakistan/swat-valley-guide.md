@@ -10,7 +10,7 @@ tags: [Pakistan, Swat Valley, Gandhara, Buddhist, Mingora, Khyber Pakhtunkhwa, m
 city: islamabad
 ---
 
-Swat Valley is one of Pakistan's most beautiful places — a 160-kilometer mountain valley in Khyber Pakhtunkhwa, carved by the Swat River from the Hindu Kush foothills in the south to the glaciated peaks near the Afghan border in the north. The valley floor at Mingora sits at 900 meters; the surrounding peaks exceed 5,000 meters. Fruit orchards, rice terraces, and alpine meadows occupy the valley sides in a landscape that 19th-century British colonial visitors compared to Switzerland.
+Swat Valley is one of [Pakistan](/pakistan)'s most beautiful places — a 160-kilometer mountain valley in Khyber Pakhtunkhwa, carved by the Swat River from the Hindu Kush foothills in the south to the glaciated peaks near the Afghan border in the north. The valley floor at Mingora sits at 900 meters; the surrounding peaks exceed 5,000 meters. Fruit orchards, rice terraces, and alpine meadows occupy the valley sides in a landscape that 19th-century British colonial visitors compared to Switzerland.
 
 The valley's other distinction is historical: Swat was the heart of the Gandhara civilization, one of the great centers of Buddhist art and learning from the 1st to 7th centuries CE. The ruins of stupas, monasteries, and rock carvings are scattered throughout the valley — a density of Buddhist heritage almost unmatched in the world, representing a culture where Greek, Persian, Indian, and Central Asian influences merged.
 
@@ -18,7 +18,7 @@ The valley's other distinction is historical: Swat was the heart of the Gandhara
 
 ## Getting There from Islamabad
 
-**By road**: 250 km northeast of Islamabad — 5 hours on the M1 motorway and then the Swat Motorway (a recently completed expressway that significantly reduced the journey time). Most visitors hire a car and driver in Islamabad or take a PTDC-organized tour.
+**By road**: 250 km northeast of [Islamabad](/pakistan/islamabad-guide) — 5 hours on the M1 motorway and then the Swat Motorway (a recently completed expressway that significantly reduced the journey time). Most visitors hire a car and driver in Islamabad or take a PTDC-organized tour.
 
 **By air**: Small airport at Saidu Sharif (near Mingora) with occasional connections to Islamabad and Peshawar — check current schedules as services are intermittent.
 

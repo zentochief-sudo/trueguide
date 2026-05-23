@@ -24,7 +24,7 @@ New York pizza is a distinct category. The style — large 18–20 inch pies wit
 
 **The essential places**:
 
-**Di Fara Pizza** (1424 Avenue J, Midwood, Brooklyn): Run by Domenico De Marco since 1965. He makes every pizza himself (slowly). The wait is 45–90 minutes. The pizza — a blend of three cheeses, San Marzano tomato, fresh basil snipped at the table — is worth every minute. Take the Q train to Avenue J.
+**Di Fara Pizza** (1424 Avenue J, Midwood, [Brooklyn](/united-states/brooklyn-guide)): Run by Domenico De Marco since 1965. He makes every pizza himself (slowly). The wait is 45–90 minutes. The pizza — a blend of three cheeses, San Marzano tomato, fresh basil snipped at the table — is worth every minute. Take the Q train to Avenue J.
 
 **L'industrie Pizzeria** (254 S. 2nd Street, Williamsburg): Neapolitan technique with New York scale. The burrata-prosciutto slice is the signature. No wait because they sell faster than they pile up. $5–7/slice.
 
@@ -102,7 +102,7 @@ Manhattan's Chinatown (south of Canal Street) is smaller than Flushing but more 
 
 **Jackson Heights, Queens**: The most ethnically diverse commercial strip in the world. 74th Street and the surrounding blocks have Bangladeshi restaurants serving curry and biryani at $12–15, Indian sweet shops, Nepali restaurants, Ecuadorian cevicherias. The 7 train makes it 25 minutes from Times Square.
 
-**Arthur Avenue, the Bronx** (also called the Real Little Italy): Butchers, cheese shops, pasta makers, and old-school Italian-American restaurants that haven't changed since the 1970s. The **Arthur Avenue Retail Market** is an indoor market with vendors selling bread, fresh pasta, and prepared foods. The surrounding restaurants — **Roberto's**, **Dominick's**, **Zero Otto Nove** — are the real thing. D train to Fordham Road plus a 15-minute walk or rideshare.
+**Arthur Avenue, the Bronx** (also called the Real Little [Italy](/italy)): Butchers, cheese shops, pasta makers, and old-school Italian-American restaurants that haven't changed since the 1970s. The **Arthur Avenue Retail Market** is an indoor market with vendors selling bread, fresh pasta, and prepared foods. The surrounding restaurants — **Roberto's**, **Dominick's**, **Zero Otto Nove** — are the real thing. D train to Fordham Road plus a 15-minute walk or rideshare.
 
 ---
 

@@ -49,11 +49,11 @@ Prices fluctuate — always verify current fees at egymonuments.gov.eg before vi
 
 ## Getting There
 
-**Uber/Careem from central Cairo**: 30–50 minutes, ~100–180 EGP (~$2–4). The most practical option.
+**Uber/Careem from central [Cairo](/egypt/cairo-travel-guide)**: 30–50 minutes, ~100–180 EGP (~$2–4). The most practical option.
 
 **Bus 997 from Tahrir Square**: Very cheap (a few EGP) but slow and indirect. Not recommended for first-time visitors.
 
-**Combining with the GEM**: The Grand Egyptian Museum is 2 km from the plateau. Many visitors see both in one day — GEM in the morning (cooler, quieter) and the Pyramids in the afternoon. Uber between the two: ~30–40 EGP.
+**Combining with the GEM**: The [Grand Egyptian Museum](/[egypt](/egypt)/grand-egyptian-museum-guide) is 2 km from the plateau. Many visitors see both in one day — GEM in the morning (cooler, quieter) and the Pyramids in the afternoon. Uber between the two: ~30–40 EGP.
 
 ---
 

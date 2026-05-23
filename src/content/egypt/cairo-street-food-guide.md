@@ -10,7 +10,7 @@ tags: [Cairo, street food, koshari, ta'ameya, sugarcane juice, Egypt, food]
 city: cairo
 ---
 
-Cairo's street food culture is one of the best in the world — not in the Instagram-glossy sense, but in the sense that matters: ancient dishes prepared from unchanged recipes, sold at prices that make them accessible to everyone, from the same street corners they've occupied for generations. A complete breakfast of ful medames, ta'ameya, and fresh-baked bread costs less than a dollar. Koshari — Egypt's national dish — costs 60 cents at the best restaurant in Cairo dedicated exclusively to making it.
+[Cairo](/egypt/cairo-travel-guide)'s street food culture is one of the best in the world — not in the Instagram-glossy sense, but in the sense that matters: ancient dishes prepared from unchanged recipes, sold at prices that make them accessible to everyone, from the same street corners they've occupied for generations. A complete breakfast of ful medames, ta'ameya, and fresh-baked bread costs less than a dollar. Koshari — [Egypt](/egypt)'s national dish — costs 60 cents at the best restaurant in Cairo dedicated exclusively to making it.
 
 ---
 

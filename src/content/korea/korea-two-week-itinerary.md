@@ -10,7 +10,7 @@ tags: [Korea itinerary, two weeks Korea, Seoul, Gyeongju, Busan, Jeju, DMZ, Kore
 city: national
 ---
 
-Two weeks is enough time to experience Seoul properly, reach Gyeongju and the south coast, and see Jeju without feeling rushed. It's not enough time to go deep on every region — that would take months — but it allows a genuine experience of the range: the old capital, the coastal city, the volcanic island, and the present-day capital.
+Two weeks is enough time to experience Seoul properly, reach [Gyeongju](/korea/gyeongju-guide) and the south coast, and see [Jeju](/korea/jeju-guide) without feeling rushed. It's not enough time to go deep on every region — that would take months — but it allows a genuine experience of the range: the old capital, the coastal city, the volcanic island, and the present-day capital.
 
 This itinerary is designed for first-time visitors to Korea with no specific interest in a single region above others. Those with more specific interests (temples, hiking, K-pop culture, food) should restructure around those priorities using the individual guides.
 
@@ -21,9 +21,9 @@ This itinerary is designed for first-time visitors to Korea with no specific int
 | Days | Location | Theme |
 |---|---|---|
 | 1–5 | Seoul | City foundation — palaces, neighborhoods, food, nightlife |
-| 6 | DMZ Day Trip | Historical understanding |
+| 6 | [DMZ](/korea/dmz-guide) Day Trip | Historical understanding |
 | 7–8 | Gyeongju | Ancient Silla capital |
-| 9–11 | Busan | Korea's second city and coast |
+| 9–11 | [Busan](/korea/busan-guide) | Korea's second city and coast |
 | 12–13 | Jeju Island | Volcanic island, beaches, nature |
 | 14 | Seoul (return) | Final evening and departure |
 
@@ -33,9 +33,9 @@ This itinerary is designed for first-time visitors to Korea with no specific int
 
 ## Days 1–2: Seoul — Old City and Palaces
 
-**Day 1**: Arrival. Get T-money card at Incheon Airport convenience store. AREX to Seoul Station or Hongdae (depending on accommodation). Evening: Myeongdong for dinner — *dakgalbi*, *tteokbokki*, street food circuit. First night orientation.
+**Day 1**: Arrival. Get T-money card at [Incheon](/korea/incheon-guide) Airport convenience store. AREX to Seoul Station or Hongdae (depending on accommodation). Evening: Myeongdong for dinner — *dakgalbi*, *tteokbokki*, street food circuit. First night orientation.
 
-**Day 2**: Start at **Gyeongbokgung Palace** (open 9am — arrive at 10am guard-changing ceremony). Walk through to **Bukchon Hanok Village** (traditional tiled-roof neighborhood, 15 minutes north of Gyeongbokgung east gate). Lunch in Insadong (traditional craft street adjacent to Bukchon — tea houses, craft shops, street food). Afternoon: **Gyeongbokgung National Folk Museum** within the palace grounds (free with palace ticket). Evening: **Gwangjang Market** for bindaetteok and mayak gimbap, then Euljiro bars if energy allows.
+**Day 2**: Start at **[Gyeongbokgung Palace](/korea/gyeongbokgung-palace-guide)** (open 9am — arrive at 10am guard-changing ceremony). Walk through to **Bukchon Hanok Village** (traditional tiled-roof neighborhood, 15 minutes north of Gyeongbokgung east gate). Lunch in Insadong (traditional craft street adjacent to Bukchon — tea houses, craft shops, street food). Afternoon: **Gyeongbokgung National Folk Museum** within the palace grounds (free with palace ticket). Evening: **[Gwangjang Market](/korea/gwangjang-market-guide)** for bindaetteok and mayak gimbap, then Euljiro bars if energy allows.
 
 ---
 
@@ -59,7 +59,7 @@ Morning: **Hongdae** — the creative district around Hongik University. Breakfa
 - *Shopping*: Myeongdong and Dongdaemun Design Plaza (DDP) for fashion/design
 - *Culture*: Leeum Samsung Museum of Art (Hannam-dong)
 - *K-pop*: HYBE Insight (BTS exhibition, Yongsan)
-- *Rest*: **Jjimjilbang** — a Korean bathhouse for an afternoon recovery
+- *Rest*: **[Jjimjilbang](/korea/jjimjilbang-guide)** — a Korean bathhouse for an afternoon recovery
 
 **Evening**: **Samgyeopsal dinner** in Mapo (best concentration of mid-range samgyeopsal restaurants in Seoul). *Soju* and *doenjang jjigae* side dishes.
 

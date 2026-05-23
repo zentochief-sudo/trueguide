@@ -10,7 +10,7 @@ tags: [Thailand, February, peak season, Chiang Mai, Phuket, Chinese New Year, be
 city: national
 ---
 
-February is the final month of Thailand's peak season — the weather is excellent, dry season continues across virtually the entire country, and the beaches are at their best. Chiang Mai's cool season is in its final weeks. Chinese New Year (usually falling in January or February) brings street celebrations to Bangkok and Phuket's Sino-Thai communities. February is marginally less crowded than January and represents one of the year's last windows before the pre-rainy season heat of March–May.
+February is the final month of [Thailand](/thailand)'s peak season — the weather is excellent, dry season continues across virtually the entire country, and the beaches are at their best. [Chiang Mai](/thailand/chiang-mai-guide)'s cool season is in its final weeks. Chinese New Year (usually falling in January or February) brings street celebrations to [Bangkok](/thailand/bangkok-guide) and [Phuket](/thailand/phuket-guide)'s Sino-Thai communities. February is marginally less crowded than January and represents one of the year's last windows before the pre-rainy season heat of March–May.
 
 ## Weather in February
 

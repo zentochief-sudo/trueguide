@@ -14,7 +14,7 @@ July splits cleanly in two. The first half is monsoon season — heavy daily rai
 
 ## Weather in July
 
-**Seoul:** 23°C to 31°C. Monsoon rainfall typically concentrated in the first two to three weeks (장마, jangma). After the rain clears, temperatures stay hot — humidity remains high (70–85%). UV index is extreme.
+**[Seoul](/south-korea/seoul-guide):** 23°C to 31°C. Monsoon rainfall typically concentrated in the first two to three weeks (장마, jangma). After the rain clears, temperatures stay hot — humidity remains high (70–85%). UV index is extreme.
 
 **Busan:** Similar monsoon pattern but often shorter. 25°C to 32°C. By late July, Haeundae Beach is at maximum summer capacity.
 

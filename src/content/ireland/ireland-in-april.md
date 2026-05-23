@@ -10,15 +10,15 @@ tags: [Ireland, April, spring, Easter, Wild Atlantic Way, green, shoulder season
 city: national
 ---
 
-April is the month Ireland earns its name. The island's famous green — impossible to describe adequately, the result of ten months of rain saturating every field, hillside, and ditch — reaches its peak intensity in April and May. The hedgerows are white with hawthorn. The fields are emerald. And the tourist crowds of summer haven't arrived. April is a genuinely excellent month to drive through Connemara, walk the Dingle Peninsula, or sit in a Kerry pub without the August density.
+April is the month [Ireland](/ireland) earns its name. The island's famous green — impossible to describe adequately, the result of ten months of rain saturating every field, hillside, and ditch — reaches its peak intensity in April and May. The hedgerows are white with hawthorn. The fields are emerald. And the tourist crowds of summer haven't arrived. April is a genuinely excellent month to drive through Connemara, walk the Dingle Peninsula, or sit in a Kerry pub without the August density.
 
 ## Weather & Conditions
 
-**Dublin:** 6–13°C. April showers are real — frequent, often brief, punctuated by genuine sunshine. 13 hours of daylight by month's end.
+**[Dublin](/ireland/dublin-travel-guide):** 6–13°C. April showers are real — frequent, often brief, punctuated by genuine sunshine. 13 hours of daylight by month's end.
 
 **West Coast:** 7–13°C. Atlantic rain is still the dominant weather pattern but spring sunshine appears regularly. Bluebell woods in sheltered valleys are stunning.
 
-**Kerry/Cork:** 8–15°C. Ireland's warmest corner. April can deliver genuinely warm days in Kerry — 15°C in full sun feels summery after winter.
+**Kerry/[Cork](/ireland/cork-guide):** 8–15°C. Ireland's warmest corner. April can deliver genuinely warm days in Kerry — 15°C in full sun feels summery after winter.
 
 **Wicklow:** 7–13°C. The mountains south of Dublin are at their best in April — green and relatively empty. The Wicklow Way in April is one of Ireland's best walks.
 
@@ -26,7 +26,7 @@ Easter Weekend causes a domestic travel surge — budget travelers avoid Easter 
 
 ## What to Do
 
-**Ring of Kerry drive:** The 179km ring road around the Iveragh Peninsula passes some of Ireland's most dramatic coastal scenery — Skellig Michael (the Star Wars island), Waterville, Cahersiveen, and the mountain passes above Killarney. April traffic is minimal; in July the road is bumper-to-bumper with rental cars. The Skellig Michael visitor boat trips begin in April (weather-dependent, book 3–4 months ahead through skelligexperience.com).
+**[Ring of Kerry](/ireland/ring-of-kerry-guide) drive:** The 179km ring road around the Iveragh Peninsula passes some of Ireland's most dramatic coastal scenery — Skellig Michael (the Star Wars island), Waterville, Cahersiveen, and the mountain passes above [Killarney](/ireland/killarney-travel-guide). April traffic is minimal; in July the road is bumper-to-bumper with rental cars. The Skellig Michael visitor boat trips begin in April (weather-dependent, book 3–4 months ahead through skelligexperience.com).
 
 **Connemara National Park:** The national park's bogland and Twelve Bens mountain range are genuinely spectacular in April. The Diamond Hill loop walk (7.5km) offers panoramic views west to the Atlantic and east to the mountains. The park visitor center opens for the season in April. Kylemore Abbey's walled garden re-opens.
 
@@ -38,7 +38,7 @@ Easter Weekend causes a domestic travel surge — budget travelers avoid Easter 
 
 ## Festivals & Events
 
-**Easter Weekend:** National holiday period. Irish families travel to coastal and country destinations. Accommodation in Kerry, Galway, and Wicklow fills up for Easter weekend. Book 4–6 weeks ahead.
+**Easter Weekend:** National holiday period. Irish families travel to coastal and country destinations. Accommodation in Kerry, [Galway](/ireland/galway-guide), and Wicklow fills up for Easter weekend. Book 4–6 weeks ahead.
 
 **Cuirt International Festival of Literature (Galway, late April):** One of Ireland's most respected literary festivals, held in Galway. Readings, discussions, and events featuring Irish and international authors. Galway's arts infrastructure makes it one of Europe's best small festival cities.
 

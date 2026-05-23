@@ -10,7 +10,7 @@ tags: [geisha, geiko, maiko, Gion, hanamachi, Kyoto culture, Pontocho, Miyagawac
 city: kyoto
 ---
 
-The word *geisha* is widely misunderstood internationally — the association with prostitution, derived from Western depictions of 19th-century Japan, does not reflect the actual institution. Geisha (*geiko* in Kyoto dialect) are professional female entertainers trained in classical Japanese arts — shamisen music, Japanese dance (*nihon buyo*), tea ceremony, calligraphy, and the art of conversation and game — who perform at private banquets (*ozashiki*) in traditional teahouses (*ochaya*).
+The word *[geisha](/japan/geisha-guide)* is widely misunderstood internationally — the association with prostitution, derived from Western depictions of 19th-century Japan, does not reflect the actual institution. Geisha (*geiko* in [Kyoto](/japan/kyoto-guide) dialect) are professional female entertainers trained in classical Japanese arts — shamisen music, Japanese dance (*nihon buyo*), tea ceremony, calligraphy, and the art of conversation and game — who perform at private banquets (*ozashiki*) in traditional teahouses (*ochaya*).
 
 The institution is ancient — the first official records date to the 1700s — and the training system, the social structure, and the aesthetic codes have remained largely intact. At its peak in the early 20th century, Japan had 80,000 geisha. Today there are approximately 1,000–2,000 active geiko and maiko in Japan, concentrated primarily in Kyoto.
 
@@ -26,7 +26,7 @@ The maiko is the more visually distinctive figure — the heavy ornaments, the b
 
 ### Geiko (芸妓)
 
-A full geiko (the Kyoto term; *geisha* is used in Tokyo and elsewhere) wears the upswept hair of the *shimada* style with a wig (not her own hair), the more restrained makeup of a professional, and the darker, more elegant kimono appropriate to her seniority. The difference between a geiko's presentation and a maiko's is deliberate — the geiko's aesthetic is understated by comparison, which is the point.
+A full geiko (the Kyoto term; *geisha* is used in [Tokyo](/japan/tokyo-guide) and elsewhere) wears the upswept hair of the *shimada* style with a wig (not her own hair), the more restrained makeup of a professional, and the darker, more elegant kimono appropriate to her seniority. The difference between a geiko's presentation and a maiko's is deliberate — the geiko's aesthetic is understated by comparison, which is the point.
 
 ---
 

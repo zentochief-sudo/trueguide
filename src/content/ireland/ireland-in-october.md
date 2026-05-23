@@ -10,11 +10,11 @@ tags: [Ireland, October, Halloween, Samhain, autumn, low season, Derry, Wicklow]
 city: national
 ---
 
-October is when Ireland reclaims its oldest festival: Samhain, the Celtic ancestor of Halloween, the night when the boundary between the living and the dead grows thin. The ancient tradition is Celtic and specifically Irish — and Derry/Londonderry runs Europe's best Halloween festival every year. Beyond the festival, October is autumn Ireland at its most honest: shorter days, turning leaves in the Wicklow Mountains, and coastal roads increasingly emptied of visitors.
+October is when [Ireland](/ireland) reclaims its oldest festival: Samhain, the Celtic ancestor of Halloween, the night when the boundary between the living and the dead grows thin. The ancient tradition is Celtic and specifically Irish — and Derry/Londonderry runs Europe's best Halloween festival every year. Beyond the festival, October is autumn Ireland at its most honest: shorter days, turning leaves in the Wicklow Mountains, and coastal roads increasingly emptied of visitors.
 
 ## Weather & Conditions
 
-**Dublin:** 8–13°C. Wet and autumnal. Rain is more frequent and sustained than summer. Days shorten to about 10 hours by month's end.
+**[Dublin](/ireland/dublin-travel-guide):** 8–13°C. Wet and autumnal. Rain is more frequent and sustained than summer. Days shorten to about 10 hours by month's end.
 
 **West Coast:** 8–13°C. Atlantic rain season returns in earnest in October. Wind picks up. The Cliffs of Moher in October storms have a dramatic quality entirely different from summer.
 
@@ -32,7 +32,7 @@ Pack a proper waterproof jacket, warm mid-layer, and accept that some days will 
 
 **Inishowen Peninsula, Donegal:** The most northerly point of Ireland — Malin Head — has an October atmosphere that's wild and specific. The route through the Five Fingers Strand, Mamore Gap, and Malin Head's headland is one of the country's most remote drives. Very few visitors in October.
 
-**City culture, Dublin and Cork:** October is when Dublin's autumn cultural season begins in earnest — new plays at the Abbey and Gate Theatres, gallery openings, and the Bram Stoker Festival (celebrating Dublin's most famous horror author around Halloween weekend). Cork's culture scene is equally active in autumn.
+**City culture, Dublin and [Cork](/ireland/cork-guide):** October is when Dublin's autumn cultural season begins in earnest — new plays at the Abbey and Gate Theatres, gallery openings, and the Bram Stoker Festival (celebrating Dublin's most famous horror author around Halloween weekend). Cork's culture scene is equally active in autumn.
 
 **Howth Cliff Walk, Dublin:** The cliffside walk around the Howth Head peninsula — a 45-minute DART ride from Dublin city center — is excellent in October. The combination of sea views, autumn heather, and near-empty paths is a genuinely accessible nature experience from Dublin.
 
@@ -42,7 +42,7 @@ Pack a proper waterproof jacket, warm mid-layer, and accept that some days will 
 
 **Derry Halloween Festival (late October):** Europe's largest Halloween event, in the city where the Samhain tradition has its deepest roots.
 
-**Bank Holiday Weekend (last Monday in October):** Ireland's October Bank Holiday. A domestic travel weekend — Kerry, Galway, and Wicklow fill with Irish families. Book accommodation 3–4 weeks ahead.
+**Bank Holiday Weekend (last Monday in October):** Ireland's October Bank Holiday. A domestic travel weekend — Kerry, [Galway](/ireland/galway-guide), and Wicklow fill with Irish families. Book accommodation 3–4 weeks ahead.
 
 ## Practical Tips
 

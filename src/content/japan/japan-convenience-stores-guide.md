@@ -12,7 +12,7 @@ city: national
 
 The Japanese convenience store — *conbini* (コンビニ) — is one of the most copied-but-never-quite-replicated institutions in the world. The format has spread to Korea, Taiwan, and Southeast Asia, but the Japanese original remains the reference: a 24-hour store the size of a small American living room that functions as a restaurant, bank, post office, printing service, ticketing agency, and daily shopping destination simultaneously.
 
-There are approximately 55,000 convenience stores in Japan. The three major chains — *7-Eleven* (the largest, ~21,000 stores), *FamilyMart* (~16,000 stores), and *Lawson* (~14,000 stores) — are found in every city, most train stations, and a significant percentage of rural towns. In Tokyo, there is a 7-Eleven visible from almost any street corner.
+There are approximately 55,000 convenience stores in Japan. The three major chains — *7-Eleven* (the largest, ~21,000 stores), *FamilyMart* (~16,000 stores), and *Lawson* (~14,000 stores) — are found in every city, most train stations, and a significant percentage of rural towns. In [Tokyo](/japan/tokyo-guide), there is a 7-Eleven visible from almost any street corner.
 
 ---
 
@@ -46,7 +46,7 @@ There are approximately 55,000 convenience stores in Japan. The three major chai
 
 **Printing and copying**: The multifunction machines in the corner of most convenience stores (by Fujifilm for 7-Eleven, by Sharp for FamilyMart/Lawson) print documents from USB or from a cloud upload (use the Netprint app for 7-Eleven). Also photo printing (¥30 per print for standard, ¥50–80 for larger formats). Scanning and faxing also available.
 
-**Package shipping (Takkyubin)**: Drop off packages for Yamato Transport delivery at any convenience store. Fill out the form at the register (staff can assist), pay, and your package is delivered nationwide next-day or same-day. The process for shipping luggage between hotels or to the airport — covered in detail in the Japan practical guide — starts here.
+**Package shipping (Takkyubin)**: Drop off packages for Yamato Transport delivery at any convenience store. Fill out the form at the register (staff can assist), pay, and your package is delivered nationwide next-day or same-day. The process for shipping luggage between hotels or to the airport — covered in detail in the [Japan practical](/japan/japan-practical-guide) guide — starts here.
 
 **Ticket purchase (Loppi/Famiport)**: FamilyMart's Famiport and Lawson's Loppi terminals sell tickets for concerts, amusement parks, sporting events, and Shinkansen reserved seats (some routes). Also issues confirmation numbers for internet-booked tickets. The touch-screen terminals have English-language menus for some services.
 
@@ -64,7 +64,7 @@ There are approximately 55,000 convenience stores in Japan. The three major chai
 
 **Lawson**: Known for the *kara-age kun* fried chicken, the *Machi no Pai* product line, and the *Premium Matcha Latte* seasonal items. Lawson also operates *Lawson Natural Lawson* (health-focused) and *Lawson 100* (¥100 items) sub-brands.
 
-**Mini Stop**: A smaller fourth chain (primarily in Aichi, Osaka, Kyushu) known for soft-serve ice cream at the register.
+**Mini Stop**: A smaller fourth chain (primarily in Aichi, [Osaka](/japan/osaka-guide), Kyushu) known for soft-serve ice cream at the register.
 
 ---
 

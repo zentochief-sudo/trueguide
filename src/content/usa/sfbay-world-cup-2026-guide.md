@@ -10,7 +10,7 @@ tags: [SF Bay Area, San Francisco, World Cup 2026, FIFA, Levi's Stadium, Santa C
 city: sfbay
 ---
 
-The SF Bay Area is the only World Cup host venue where the stadium is not in the primary city it's associated with. Levi's Stadium sits in Santa Clara — the heart of Silicon Valley, 45 miles south of San Francisco on the southern end of the Bay. FIFA lists this as a "San Francisco" venue, and most visitors will base themselves in San Francisco, but the actual match experience happens in an entirely different urban environment.
+The SF Bay Area is the only World Cup host venue where the stadium is not in the primary city it's associated with. Levi's Stadium sits in Santa Clara — the heart of Silicon Valley, 45 miles south of [San Francisco](/united-states/san-francisco-guide) on the southern end of the Bay. FIFA lists this as a "San Francisco" venue, and most visitors will base themselves in San Francisco, but the actual match experience happens in an entirely different urban environment.
 
 This creates an unusual trip structure: you base in San Francisco (one of the most interesting cities in the world), travel 45–60 minutes south for matches, and return to the city for everything else. Understanding this geography is the first requirement for planning.
 

@@ -10,7 +10,7 @@ tags: [Tanzania, December, Zanzibar, Christmas, Serengeti, peak season, calving 
 city: national
 ---
 
-December brings Tanzania's most glamorous safari and beach season. The northeast trade wind (kaskazi) is fully established on Zanzibar's east coast — warm, clear waters, blue skies, and the famous white sand beaches at their finest. The Serengeti is filling with wildebeest returning to the Southern Serengeti ahead of January calving. Christmas and New Year safaris attract high-end travelers paying premium rates for extraordinary experiences. Tanzania in December is both excellent and expensive.
+December brings [Tanzania](/tanzania)'s most glamorous safari and beach season. The northeast trade wind (kaskazi) is fully established on [Zanzibar](/tanzania/zanzibar-guide)'s east coast — warm, clear waters, blue skies, and the famous white sand beaches at their finest. The Serengeti is filling with wildebeest returning to the Southern Serengeti ahead of January calving. Christmas and New Year safaris attract high-end travelers paying premium rates for extraordinary experiences. Tanzania in December is both excellent and expensive.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ December brings Tanzania's most glamorous safari and beach season. The northeast
 
 **Serengeti general:** Dry December by the second half of the month. Good game viewing conditions.
 
-**Ngorongoro:** Clear and excellent.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** Clear and excellent.
 
 **Zanzibar:** Northeast trade wind (kaskazi) fully established. East coast (Paje, Jambiani, Michamvi) is in prime season. Water temperature 27–29°C. Minimal rain.
 
-**Mount Kilimanjaro:** December is actually a decent climbing month — the short rains ease and the mountain clears. Not as reliable as July–August but workable.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** December is actually a decent climbing month — the short rains ease and the mountain clears. Not as reliable as July–August but workable.
 
 ## What to Do
 
@@ -38,7 +38,7 @@ December brings Tanzania's most glamorous safari and beach season. The northeast
 
 ## Festivals & Events
 
-**Christmas (December 25):** Tanzania has a significant Christian population. Christmas services in Arusha, Moshi, and Dar es Salaam. Safari camps run Christmas dinner events.
+**Christmas (December 25):** Tanzania has a significant Christian population. Christmas services in [Arusha](/tanzania/arusha-guide), Moshi, and [Dar es Salaam](/tanzania/dar-es-salaam-guide). Safari camps run Christmas dinner events.
 
 **New Year's Eve:** Zanzibar Stonetown is the definitive Tanzania New Year's destination.
 

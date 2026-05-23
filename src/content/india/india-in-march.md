@@ -10,17 +10,17 @@ tags: [India, March, Holi, spring, Rajasthan, Kerala, Hampi, shoulder season]
 city: national
 ---
 
-March is when India's festivals peak and its comfortable weather window begins closing. Holi — the festival of colors — is the main event, usually falling in March. Temperatures in North India are warm but manageable. By late March the heat is building in Rajasthan and the plains, but the shoulder-season period creates a rare combination: major cultural events, acceptable temperatures, and slightly lower prices than peak January.
+March is when [India](/india)'s festivals peak and its comfortable weather window begins closing. Holi — the festival of colors — is the main event, usually falling in March. Temperatures in North India are warm but manageable. By late March the heat is building in [Rajasthan](/india/rajasthan-guide) and the plains, but the shoulder-season period creates a rare combination: major cultural events, acceptable temperatures, and slightly lower prices than peak January.
 
 ## Weather & Conditions
 
-**Delhi / North India:** 16–30°C. Warm afternoons. The last comfortable month for extended outdoor activity in the plains.
+**[Delhi](/india/delhi-guide) / North India:** 16–30°C. Warm afternoons. The last comfortable month for extended outdoor activity in the plains.
 
 **Rajasthan:** 18–32°C by late March. Warm. Still workable for temple and fort exploration in the morning hours.
 
-**Kerala / South India:** 25–34°C. Hot in the lowlands. The hill stations (Munnar, Coorg, Ooty) are pleasant alternatives.
+**[Kerala](/india/kerala-guide) / South India:** 25–34°C. Hot in the lowlands. The hill stations (Munnar, Coorg, Ooty) are pleasant alternatives.
 
-**Goa:** 26–35°C. Getting hot. Beach season begins winding down; the European visitors depart, leaving local and Indian tourists.
+**[Goa](/india/goa-guide):** 26–35°C. Getting hot. Beach season begins winding down; the European visitors depart, leaving local and Indian tourists.
 
 **Himalayas:** Snow melting at lower elevations but high passes remain closed. Dharamshala is accessible and pleasant in March.
 
@@ -42,9 +42,9 @@ March is when India's festivals peak and its comfortable weather window begins c
 
 **Holi (full moon in March/variable):** India's festival of spring and color. Officially one day; practically several days of celebration in the north. March Holi falls around March 13–14 in most years.
 
-**Shivratri (variable, February or March):** One of Hinduism's most important festivals, dedicated to Shiva. Major celebrations at temples across the country — particularly at Varanasi's Ghats and Pashupatinath in Nepal (easily accessible from Varanasi).
+**Shivratri (variable, February or March):** One of Hinduism's most important festivals, dedicated to Shiva. Major celebrations at temples across the country — particularly at [Varanasi](/india/varanasi-guide)'s Ghats and Pashupatinath in Nepal (easily accessible from Varanasi).
 
-**Elephant Festival, Jaipur (Holi day):** Jaipur runs an elephant festival on the day of Holi, with decorated elephants, traditional costumes, and cultural performances at the Chowgan grounds.
+**Elephant Festival, [Jaipur](/india/jaipur-guide) (Holi day):** Jaipur runs an elephant festival on the day of Holi, with decorated elephants, traditional costumes, and cultural performances at the Chowgan grounds.
 
 ## Practical Tips
 

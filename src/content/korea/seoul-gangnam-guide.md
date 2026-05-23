@@ -54,7 +54,7 @@ The uppermost register of Seoul retail — international luxury flagship stores 
 
 ## Korean BBQ in Gangnam
 
-The concentration of high-quality Korean BBQ restaurants in Gangnam — specifically in the area around Nonhyeon and Sinnonhyeon stations — is the best reason to spend an evening south of the river.
+The concentration of high-quality [Korean BBQ](/korea/korean-bbq-guide) restaurants in Gangnam — specifically in the area around Nonhyeon and Sinnonhyeon stations — is the best reason to spend an evening south of the river.
 
 **Mapo Galmaegi** (multiple locations, including Gangnam): The best galmaegi-sal (pork neck cutlets) in Seoul at reasonable prices for the quality.
 

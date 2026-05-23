@@ -10,7 +10,7 @@ tags: [Costa Rica, Osa Peninsula, Corcovado, Drake Bay, Puerto Jiménez, rainfor
 city: manuel-antonio
 ---
 
-The Osa Peninsula is the kind of place where the superlatives are accurate. National Geographic called Corcovado National Park "the most biologically intense place on Earth" — 2.5% of the world's biodiversity occupying 0.001% of the planet's surface area. The 424 km² park on the southern Osa Peninsula has the highest scarlet macaw population in Central America, all four Costa Rican monkey species, 40 snake species, Baird's tapirs wading in rivers, white-lipped peccary herds, and the largest jaguar population in Central America south of Mexico.
+The Osa Peninsula is the kind of place where the superlatives are accurate. National Geographic called Corcovado National Park "the most biologically intense place on Earth" — 2.5% of the world's biodiversity occupying 0.001% of the planet's surface area. The 424 km² park on the southern Osa Peninsula has the highest scarlet macaw population in Central America, all four Costa Rican monkey species, 40 snake species, Baird's tapirs wading in rivers, white-lipped peccary herds, and the largest jaguar population in Central America south of [Mexico](/mexico).
 
 Getting there is the point. The Osa is 7+ hours from San José by road and ferry, or 45 minutes by small plane. The access barrier keeps the visitor numbers low and the wilderness intact.
 
@@ -32,7 +32,7 @@ Corcovado is not a day-trip destination — it requires planning, physical fitne
 
 ## Wildlife Highlights
 
-**Scarlet macaws**: The most visually spectacular wildlife sighting in Costa Rica — flocks of 20–50 macaws overhead, in primary colors that seem implausibly vivid against green canopy. The Osa has the densest population; sightings are near-guaranteed.
+**Scarlet macaws**: The most visually spectacular wildlife sighting in [Costa Rica](/costa-rica/costa-rica-travel-guide) — flocks of 20–50 macaws overhead, in primary colors that seem implausibly vivid against green canopy. The Osa has the densest population; sightings are near-guaranteed.
 
 **Tapirs**: The largest land mammal in Costa Rica — Baird's tapir, resembling a prehistoric hybrid of pig and rhinoceros. Regularly seen wading in the rivers around Sirena and on the beach trail at dawn.
 

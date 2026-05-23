@@ -10,7 +10,7 @@ tags: [Provence, France, lavender, Luberon, Aix-en-Provence, Arles, Camargue, vi
 city: provence
 ---
 
-Provence is one of France's most-romanticized regions and, unlike most romanticized places, it largely delivers. The lavender fields are real, the rosé wine is exceptional, the village markets operate on schedules that haven't changed in decades, and the light — the quality of Mediterranean light that drew Van Gogh, Cézanne, and a generation of painters — is empirically different from the grey Atlantic light of northern France.
+Provence is one of [France](/france)'s most-romanticized regions and, unlike most romanticized places, it largely delivers. The lavender fields are real, the rosé wine is exceptional, the village markets operate on schedules that haven't changed in decades, and the light — the quality of Mediterranean light that drew Van Gogh, Cézanne, and a generation of painters — is empirically different from the grey Atlantic light of northern France.
 
 The region divides roughly into three zones: the Luberon and the hilltop villages in the east, the Rhône corridor (Avignon, Arles, Les Baux) in the center, and the Var and coastal Provence descending toward the Côte d'Azur in the west.
 

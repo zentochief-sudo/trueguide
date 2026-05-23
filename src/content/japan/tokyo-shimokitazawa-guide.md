@@ -10,7 +10,7 @@ tags: [Shimokitazawa, Tokyo, Japan, vintage, live music, theater, cafés, subcul
 city: tokyo
 ---
 
-Shimokitazawa — Shimokita to Tokyo residents — sits in Setagaya ward, three stops from Shibuya on the Keio Inokashira Line (4 minutes). Physically it is close to central Tokyo; culturally it operates at a different frequency. The neighborhood built its identity on bohemian resistance: small venues, independent retail, theater, and the specific street culture of people who came to Tokyo for something other than corporate life.
+Shimokitazawa — Shimokita to [Tokyo](/japan/tokyo-guide) residents — sits in Setagaya ward, three stops from Shibuya on the Keio Inokashira Line (4 minutes). Physically it is close to central Tokyo; culturally it operates at a different frequency. The neighborhood built its identity on bohemian resistance: small venues, independent retail, theater, and the specific street culture of people who came to Tokyo for something other than corporate life.
 
 The defining characteristic is scale. Shimokitazawa has no large buildings. The streets are narrow and irregular; the shotengai (covered shopping arcade) is only wide enough for two people to pass comfortably. This built environment — the result of incremental growth rather than urban planning — produced a neighborhood that feels genuinely walkable in a way that planned Tokyo districts do not.
 

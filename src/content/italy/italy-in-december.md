@@ -10,17 +10,17 @@ tags: [Italy, December, Christmas, New Year, Rome, Venice, Dolomites, ski, marke
 city: national
 ---
 
-December is Italy's Christmas month — and Italy does Christmas with centuries of artistic tradition behind it. The presepe (Nativity scene) here is not a decorative gesture but a serious art form: elaborate tableaux, mechanical figures, handmade figurines from Naples' San Gregorio Armeno. Christmas markets fill the historic piazzas. And from Christmas through New Year, the cities take on an intimate, festive quality that summer's tourist saturation never allows. December is Italy for people who want something other than beaches and ruins.
+December is [Italy](/italy)'s Christmas month — and Italy does Christmas with centuries of artistic tradition behind it. The presepe (Nativity scene) here is not a decorative gesture but a serious art form: elaborate tableaux, mechanical figures, handmade figurines from Naples' San Gregorio Armeno. Christmas markets fill the historic piazzas. And from Christmas through New Year, the cities take on an intimate, festive quality that summer's tourist saturation never allows. December is Italy for people who want something other than beaches and ruins.
 
 ## Weather in December
 
-**Rome:** 6°C to 14°C. Cold, occasionally rainy. Never extreme by northern European standards — a warm coat is sufficient. The city's outdoor culture adapts: outdoor dining shifts to heated terraces; the piazzas are beautiful decorated.
+**[Rome](/italy/rome-guide):** 6°C to 14°C. Cold, occasionally rainy. Never extreme by northern European standards — a warm coat is sufficient. The city's outdoor culture adapts: outdoor dining shifts to heated terraces; the piazzas are beautiful decorated.
 
 **Florence:** 4°C to 11°C. Cold, fog possible in the Arno valley. Museum season — the Uffizi, Accademia, and Bargello are best visited on December weekday mornings.
 
 **Venice:** 3°C to 9°C. Cold, often foggy. Acqua alta frequency continues through December. The city decorated for Christmas, largely tourism-free until the Christmas week itself, is extraordinarily atmospheric.
 
-**Milan:** 1°C to 8°C. The coldest major Italian city in December. The La Scala opera season opening (December 7, Feast of Sant'Ambrogio) is Milan's most significant cultural event of the year.
+**[Milan](/italy/milan-travel-guide):** 1°C to 8°C. The coldest major Italian city in December. The La Scala opera season opening (December 7, Feast of Sant'Ambrogio) is Milan's most significant cultural event of the year.
 
 **Naples:** 8°C to 15°C. Milder than the north. San Gregorio Armeno — the street of Nativity scene artisans — is at its absolute peak in December.
 

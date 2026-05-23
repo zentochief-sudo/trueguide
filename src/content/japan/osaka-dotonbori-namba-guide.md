@@ -12,7 +12,7 @@ city: osaka
 
 You will recognize Dotonbori before you can name it. The enormous Glico running man on the canal, the mechanical crab above the seafood restaurant, the stacked neon of signs advertising ramen, kushikatsu, and things you cannot yet identify. It is one of the most photographed places in Japan, which should be enough to put you on guard — but in this case the reality holds up. Dotonbori is genuinely vivid in a way that photographs don't fully capture.
 
-The canal runs roughly east-west for about 400 meters. The walking street that lines the south bank, Dotonbori-suji, is where the famous signs concentrate. The north bank, Tondabayashi, is quieter and better for actual dining. Between them, the Ebisubashi bridge is the convergence point of Osaka street life — vendors, tourists, locals on lunch break, and a constant low roar of activity.
+The canal runs roughly east-west for about 400 meters. The walking street that lines the south bank, Dotonbori-suji, is where the famous signs concentrate. The north bank, Tondabayashi, is quieter and better for actual dining. Between them, the Ebisubashi bridge is the convergence point of [Osaka](/japan/osaka-guide) street life — vendors, tourists, locals on lunch break, and a constant low roar of activity.
 
 ---
 
@@ -33,16 +33,16 @@ The canal walk itself is pleasant in the evening — boats do tourist circuits, 
 ## What to Eat on Dotonbori
 
 ### Takoyaki
-The octopus ball is the essential Osaka street food and Dotonbori has several of the most iconic vendors. **Aizuya** claims to have invented the modern form and has been here since 1933 — there's usually a queue that moves quickly. The balls should be molten inside and slightly crisp outside, served with mayo, bonito flakes, and a sweet-savory sauce.
+The octopus ball is the essential [Osaka street food](/japan/osaka-street-food-guide) and Dotonbori has several of the most iconic vendors. **Aizuya** claims to have invented the modern form and has been here since 1933 — there's usually a queue that moves quickly. The balls should be molten inside and slightly crisp outside, served with mayo, bonito flakes, and a sweet-savory sauce.
 
 ### Kushikatsu at Daruma
 **Daruma** is the chain that made kushikatsu (breaded, deep-fried skewers) famous outside Osaka, and the original Shinsekai branch is worth a pilgrimage, but the Dotonbori location is easier. Order several skewers — pork, shrimp, quail egg, lotus root — and remember the rule: no double-dipping in the communal sauce.
 
 ### Ramen at Kinryu
-The dragon decorating the exterior of **Kinryu Ramen** is another Dotonbori landmark. The ramen is tonkotsu-based, rich and porky, and the place is open until 4am. It serves the entire spectrum of Osaka nightlife — suited salarymen at 11pm, club-goers at 2am, and tourists confused by the time at all hours.
+The dragon decorating the exterior of **Kinryu Ramen** is another Dotonbori landmark. The ramen is tonkotsu-based, rich and porky, and the place is open until 4am. It serves the entire spectrum of [Osaka nightlife](/japan/osaka-nightlife-guide) — suited salarymen at 11pm, club-goers at 2am, and tourists confused by the time at all hours.
 
 ### Sushi at the Market
-Cross to the north side of the canal for **Kuromon Market** — one stop from Namba on foot, or a 10-minute walk east. This is where Osaka chefs still shop. Tuna, sea urchin, crab, pickled vegetables. Several stalls sell fresh sushi at lunch prices that would be impossible anywhere near Tokyo's tourist zones.
+Cross to the north side of the canal for **Kuromon Market** — one stop from Namba on foot, or a 10-minute walk east. This is where Osaka chefs still shop. Tuna, sea urchin, crab, pickled vegetables. Several stalls sell fresh sushi at lunch prices that would be impossible anywhere near [Tokyo](/japan/tokyo-guide)'s tourist zones.
 
 ---
 

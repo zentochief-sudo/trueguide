@@ -10,7 +10,7 @@ tags: [Mexico, May, shoulder season, Cinco de Mayo, Oaxaca, Yucatan, dry season,
 city: national
 ---
 
-May is Mexico's best-kept secret. The Semana Santa crowds have dispersed. International summer hasn't started. The rainy season is still weeks away. The result: a country at its least crowded, with excellent weather and some of the lowest prices of the year. The heat is real — especially in the Yucatán — but manageable with the right structure.
+May is [Mexico](/mexico)'s best-kept secret. The Semana Santa crowds have dispersed. International summer hasn't started. The rainy season is still weeks away. The result: a country at its least crowded, with excellent weather and some of the lowest prices of the year. The heat is real — especially in the Yucatán — but manageable with the right structure.
 
 ## Weather in May
 

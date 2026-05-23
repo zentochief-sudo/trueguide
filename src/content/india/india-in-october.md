@@ -10,19 +10,19 @@ tags: [India, October, Dussehra, Diwali, Rajasthan, Kerala, festival season]
 city: national
 ---
 
-October is when India's tourism season formally reopens. The monsoon has fully retreated from most regions. Temperatures across the north return to the comfortable range that makes Rajasthan's forts and Kerala's backwaters enjoyable without heat management. Dussehra — the festival celebrating the defeat of evil — burns 20-meter effigies of Ravana across the country. And Diwali, the festival of lights, is either in late October or early November, filling cities with diyas, fireworks, and sweet shops selling mithai in gift boxes.
+October is when [India](/india)'s tourism season formally reopens. The monsoon has fully retreated from most regions. Temperatures across the north return to the comfortable range that makes [Rajasthan](/india/rajasthan-guide)'s forts and [Kerala](/india/kerala-guide)'s backwaters enjoyable without heat management. Dussehra — the festival celebrating the defeat of evil — burns 20-meter effigies of Ravana across the country. And Diwali, the festival of lights, is either in late October or early November, filling cities with diyas, fireworks, and sweet shops selling mithai in gift boxes.
 
 ## Weather & Conditions
 
-**Delhi:** 18–28°C. Ideal. The post-monsoon clarity before winter fog arrives makes October Delhi genuinely pleasant.
+**[Delhi](/india/delhi-guide):** 18–28°C. Ideal. The post-monsoon clarity before winter fog arrives makes October Delhi genuinely pleasant.
 
 **Rajasthan:** 20–30°C. The tourist season opens in earnest. Conditions are excellent across the desert circuit.
 
 **Kerala:** 24–32°C. The northeast monsoon arrives on the Kerala coast in mid-October (different from the southwest monsoon — it brings focused rain to the Malabar coast but leaves most of Kerala functional). The backwaters remain excellent.
 
-**Mumbai:** 26–32°C. Comfortable. Post-monsoon weather is Mumbai's best.
+**[Mumbai](/india/mumbai-guide):** 26–32°C. Comfortable. Post-monsoon weather is Mumbai's best.
 
-**Goa:** 26–32°C. Beach season begins. The first international charter flights arrive.
+**[Goa](/india/goa-guide):** 26–32°C. Beach season begins. The first international charter flights arrive.
 
 **Himalayas:** 5–15°C. The high passes begin closing for winter by late October. October is the last trekking month.
 
@@ -32,7 +32,7 @@ October is when India's tourism season formally reopens. The monsoon has fully r
 
 **Pushkar Camel Fair, Rajasthan (October–November, depending on lunar calendar):** The world-famous Pushkar Camel Fair brings 50,000+ camels, horses, and cattle to the desert town of Pushkar in Rajasthan, along with acrobats, folk musicians, and traders. The lunar calendar date shifts annually — check the specific year's date. The town fills with travelers from everywhere; book accommodation 3–4 months ahead.
 
-**Diwali preparation and festival (late October or November):** In years when Diwali falls in October, the transformation is spectacular. Bazaars overflow with diyas, lights, sweets, and firecrackers. Jaipur, Udaipur, and Varanasi are extraordinary during Diwali — the cities light thousands of clay lamps along the ghats and forts. The evening of Diwali itself is a sensory overload of fireworks at every scale.
+**Diwali preparation and festival (late October or November):** In years when Diwali falls in October, the transformation is spectacular. Bazaars overflow with diyas, lights, sweets, and firecrackers. [Jaipur](/india/jaipur-guide), Udaipur, and [Varanasi](/india/varanasi-guide) are extraordinary during Diwali — the cities light thousands of clay lamps along the ghats and forts. The evening of Diwali itself is a sensory overload of fireworks at every scale.
 
 **Backwater houseboat, Kerala:** October is an excellent month for Kerala houseboat cruises — the monsoon has ended, the backwaters are full and clear, and the northeast monsoon affects only the far north coast. Alleppey-Kollam houseboat routes are at their best.
 

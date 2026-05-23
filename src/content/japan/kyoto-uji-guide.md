@@ -10,7 +10,7 @@ tags: [Uji, Kyoto, matcha, Byodoin, tea, Phoenix Hall, UNESCO, day trip, Genji, 
 city: kyoto
 ---
 
-Uji's two claims are directly connected: the same climate and soil that produces exceptional tea — the Uji River valley's morning mist, the elevation, the specific mineral composition of the water — also maintained the aristocratic estates where the Heian court retreated from Kyoto. The Byodoin was one of those estates, converted to a temple in 1052. The matcha trade developed around the tea fields that surrounded those estates for centuries.
+Uji's two claims are directly connected: the same climate and soil that produces exceptional tea — the Uji River valley's morning mist, the elevation, the specific mineral composition of the water — also maintained the aristocratic estates where the Heian court retreated from [Kyoto](/japan/kyoto-guide). The Byodoin was one of those estates, converted to a temple in 1052. The matcha trade developed around the tea fields that surrounded those estates for centuries.
 
 The result is a town where the main street smells of roasting tea leaf, every shop sells matcha in some form (soft-serve, soba, chocolate, cake, and the actual loose leaf), and 500 meters from the main bridge stands a 1,000-year-old pavilion that appears on the 10-yen coin.
 
@@ -18,9 +18,9 @@ The result is a town where the main street smells of roasting tea leaf, every sh
 
 ## Getting There
 
-**From Kyoto Station**: JR Nara Line, 18 minutes (¥240). Trains run every 15–20 minutes. Exit at Uji Station.
+**From Kyoto Station**: JR [Nara](/japan/nara-guide) Line, 18 minutes (¥240). Trains run every 15–20 minutes. Exit at Uji Station.
 
-**From Osaka (Namba)**: Kintetsu Kyoto Line to Kintetsu-Ujigawa Station (45 minutes, ¥640). Or JR from Osaka Station to Kyoto, then JR Nara Line.
+**From [Osaka](/japan/osaka-guide) (Namba)**: Kintetsu Kyoto Line to Kintetsu-Ujigawa Station (45 minutes, ¥640). Or JR from Osaka Station to Kyoto, then JR Nara Line.
 
 **On foot from the station**: The Byodoin is 10 minutes walk from Uji Station along the river. The tea shops and Uji Bridge are on the way.
 

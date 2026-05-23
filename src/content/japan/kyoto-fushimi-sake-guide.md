@@ -10,7 +10,7 @@ tags: [Fushimi, sake, Kyoto, Gekkeikan, sake brewery, Japanese sake, sake distri
 city: kyoto
 ---
 
-Fushimi-ku is the southernmost of Kyoto's 11 wards — a district that contains two entirely separate tourist attractions with almost no functional overlap: Fushimi Inari-taisha (the famous torii-gate shrine) in the east, and the sake brewing district (*Fushimi no sake dokoro*) in the west, along the Uji River canal.
+Fushimi-ku is the southernmost of [Kyoto](/japan/kyoto-guide)'s 11 wards — a district that contains two entirely separate tourist attractions with almost no functional overlap: Fushimi Inari-taisha (the famous torii-gate shrine) in the east, and the sake brewing district (*Fushimi no sake dokoro*) in the west, along the Uji River canal.
 
 Most visitors to Fushimi Inari never go to the sake district. This is a significant omission. The canal-and-warehouse area of Fushimi is one of Kyoto's more distinctive neighborhoods — old *kura* (sake storage warehouses) in traditional black-painted wood lining a willow-bordered canal, with the breweries still operating and accessible for tasting.
 
@@ -22,7 +22,7 @@ Sake production requires specific water. Fushimi's underground aquifer — the *
 
 The *tanreinbi* style is characterized by a lighter mouthfeel, slightly sweeter flavor profile, and delicate aroma. It pairs differently with food than Nada's yamahaikomi-style sake — more suited to the *kaiseki* cuisine of Kyoto, which is the point.
 
-**Historically**: The Fushimi breweries supplied sake to Osaka, transported down the Yodo River by boat — the same canal system that still exists in the district. In the Meiji period, Gekkeikan formalized the industrial scale of Fushimi brewing; today Gekkeikan remains one of Japan's largest sake producers while smaller craft breweries continue the artisan tradition.
+**Historically**: The Fushimi breweries supplied sake to [Osaka](/japan/osaka-guide), transported down the Yodo River by boat — the same canal system that still exists in the district. In the Meiji period, Gekkeikan formalized the industrial scale of Fushimi brewing; today Gekkeikan remains one of Japan's largest sake producers while smaller craft breweries continue the artisan tradition.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Gaudí, Barcelona, architecture, Casa Batlló, Park Güell, Casa Milà, M
 city: barcelona
 ---
 
-Antoni Gaudí (1852–1926) is the defining figure of Catalan Modernisme — an architectural style that drew from Gothic structure, Islamic ornament, and the organic forms of nature. Barcelona contains seven UNESCO World Heritage buildings designed by Gaudí. No other city in the world has a comparable concentration of work by a single architect.
+Antoni Gaudí (1852–1926) is the defining figure of Catalan Modernisme — an architectural style that drew from Gothic structure, Islamic ornament, and the organic forms of nature. [Barcelona](/[spain](/spain)/barcelona-travel-guide) contains seven UNESCO World Heritage buildings designed by Gaudí. No other city in the world has a comparable concentration of work by a single architect.
 
 This guide covers every major Gaudí building in Barcelona, organized by priority.
 

@@ -10,7 +10,7 @@ tags: [Japanese whisky, Suntory, Nikka, Yamazaki, Hakushu, Yoichi, Miyagikyo, wh
 city: national
 ---
 
-Japanese whisky was created in 1923 when Suntory founder Shinjiro Torii established the Yamazaki distillery south of Kyoto. Torii sent his assistant Masataka Taketsuru (who had learned distilling in Scotland) to choose the site — the confluence of three rivers and the specific humidity of the Yamazaki valley, Taketsuru argued, created conditions for aging comparable to the best Scottish sites.
+Japanese whisky was created in 1923 when Suntory founder Shinjiro Torii established the Yamazaki distillery south of [Kyoto](/japan/kyoto-guide). Torii sent his assistant Masataka Taketsuru (who had learned distilling in Scotland) to choose the site — the confluence of three rivers and the specific humidity of the Yamazaki valley, Taketsuru argued, created conditions for aging comparable to the best Scottish sites.
 
 For seventy years, Japanese whisky was primarily a domestic product, little known internationally. The 2001 Whisky Magazine international ranking that placed Nikka's Yoichi 10-year single malt above established Scottish expressions was the first international attention. By 2015, global demand had far outstripped supply; the major expressions from Yamazaki, Hakushu, Yoichi, and Miyagikyo were effectively impossible to find at retail prices.
 
@@ -24,7 +24,7 @@ The current situation: the supply crisis continues for rare aged expressions, bu
 
 The larger of Japan's two whisky giants, founded 1923.
 
-**Yamazaki Distillery** (山崎蒸溜所): The original — south of Kyoto in Yamazaki village, between the Arashiyama area and Osaka. The distillery has Japan's largest range of cask types, including rare Japanese *mizunara* oak (which imparts specific sandalwood and incense notes). The visitor center and distillery tour are among the best experiences in Japanese whisky.
+**Yamazaki Distillery** (山崎蒸溜所): The original — south of Kyoto in Yamazaki village, between the Arashiyama area and [Osaka](/japan/osaka-guide). The distillery has Japan's largest range of cask types, including rare Japanese *mizunara* oak (which imparts specific sandalwood and incense notes). The visitor center and distillery tour are among the best experiences in Japanese whisky.
 
 *Access*: Yamazaki Station (JR Kyoto Line), 5 minutes on foot. Tours from ¥3,000–5,000; reservation required (book 2–3 months in advance for peak periods).
 
@@ -42,11 +42,11 @@ The larger of Japan's two whisky giants, founded 1923.
 
 Founded by Masataka Taketsuru in 1934 after he left Suntory to pursue his own vision.
 
-**Yoichi Distillery** (余市蒸溜所): On Hokkaido's west coast near Otaru — a cold, northern climate that Taketsuru modeled on Campbeltown, Scotland. The coal-direct-fired pot stills are among the last operating in the world. Heavy, peated, complex.
+**Yoichi Distillery** (余市蒸溜所): On [Hokkaido](/japan/hokkaido-guide)'s west coast near [Otaru](/japan/otaru-guide) — a cold, northern climate that Taketsuru modeled on Campbeltown, Scotland. The coal-direct-fired pot stills are among the last operating in the world. Heavy, peated, complex.
 
 *Access*: JR Hakodate Main Line to Yoichi Station, 5 minutes on foot. Free admission to the museum; tours ¥2,000. No reservation required for self-guided visits.
 
-**Miyagikyo Distillery** (宮城峡蒸溜所): In Sendai, Tohoku — a greener, rounder style than Yoichi, using a pure mountain water source. The distillery valley setting is particularly beautiful.
+**Miyagikyo Distillery** (宮城峡蒸溜所): In Sendai, [Tohoku](/japan/tohoku-guide) — a greener, rounder style than Yoichi, using a pure mountain water source. The distillery valley setting is particularly beautiful.
 
 *Access*: From Sendai Station by bus (30 minutes) or taxi. Tours available.
 
@@ -62,13 +62,13 @@ Founded by Masataka Taketsuru in 1934 after he left Suntory to pursue his own vi
 
 A craft distillery boom accelerated from approximately 2015, producing new single malts from unusual locations:
 
-**Chichibu Distillery** (Ichiro's Malt): In Saitama Prefecture north of Tokyo, founded by Ichiro Akuto after he rescued casks from his family's closed distillery. The Ichiro's Malt card series is among the most collectible whisky in the world. Very limited availability; distillery visits require advance reservation and are not easy for casual visitors.
+**Chichibu Distillery** (Ichiro's Malt): In Saitama Prefecture north of [Tokyo](/japan/tokyo-guide), founded by Ichiro Akuto after he rescued casks from his family's closed distillery. The Ichiro's Malt card series is among the most collectible whisky in the world. Very limited availability; distillery visits require advance reservation and are not easy for casual visitors.
 
 **Mars Shinshu Distillery**: In Nagano Prefecture at 800m elevation — one of the highest distilleries in Japan, producing whisky with a mountain-influenced character.
 
 **Venture Whisky / Akkeshi Distillery (Hokkaido)**: The first Hokkaido distillery to use heavily peated malt in the Scottish tradition; the Peated expressions are gaining international attention.
 
-**Kanosuke Distillery (Kagoshima, Kyushu)**: Opened 2017 on the coast of Kagoshima, with ocean-facing aging warehouses. The coastal influence on the spirit is deliberate; the whisky is lighter and saltier than the mountain distilleries.
+**Kanosuke Distillery ([Kagoshima](/japan/kagoshima-guide), Kyushu)**: Opened 2017 on the coast of Kagoshima, with ocean-facing aging warehouses. The coastal influence on the spirit is deliberate; the whisky is lighter and saltier than the mountain distilleries.
 
 ---
 

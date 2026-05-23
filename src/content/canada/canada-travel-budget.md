@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Canada is an expensive country by global standards — comparable to the UK or Northern Europe. Accommodation and dining in cities like Vancouver and Toronto have risen sharply in recent years. That said, it's very manageable with planning, and the extraordinary national parks offer some of the world's greatest wilderness experiences at reasonable entry prices.
+[Canada](/canada) is an expensive country by global standards — comparable to the UK or Northern Europe. Accommodation and dining in cities like Vancouver and Toronto have risen sharply in recent years. That said, it's very manageable with planning, and the extraordinary national parks offer some of the world's greatest wilderness experiences at reasonable entry prices.
 
 ## The Numbers at a Glance
 

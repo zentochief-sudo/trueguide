@@ -10,7 +10,7 @@ tags: [Greenland, South Greenland, Narsarsuaq, Qaqortoq, Norse ruins, Hvalsey, f
 city: nuuk
 ---
 
-South Greenland is the part of the island that looks most like somewhere else — rolling green hills in summer, sheep farms, birch scrub, and the most approachable hiking terrain in the country. It is also where Greenland's Viking history is most visible: Erik the Red established his settlement at Brattahlid (now Qassiarsuk) around 985 CE, and the ruins of Norse farms, churches, and the episcopal seat at Gardar are scattered across the fjord landscape between Narsarsuaq and Qaqortoq.
+South [Greenland](/greenland) is the part of the island that looks most like somewhere else — rolling green hills in summer, sheep farms, birch scrub, and the most approachable hiking terrain in the country. It is also where Greenland's Viking history is most visible: Erik the Red established his settlement at Brattahlid (now Qassiarsuk) around 985 CE, and the ruins of Norse farms, churches, and the episcopal seat at Gardar are scattered across the fjord landscape between Narsarsuaq and Qaqortoq.
 
 The region is accessed via Narsarsuaq, where an international airport (built by the US military in WWII, still using the same single runway) receives Air Greenland flights from Copenhagen and Reykjavik. From Narsarsuaq, boat and ferry connections reach Qaqortoq, Narsaq, Igaliku, and Qassiarsuk.
 

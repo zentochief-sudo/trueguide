@@ -24,7 +24,7 @@ This is not a casual trek. It requires 3–4 weeks, physical fitness for sustain
 **Start and end**: Askole village (the last village before the glacier begins)
 
 ### Stage 1: Skardu to Askole (2 days)
-Skardu (2,438m) is the regional capital of Baltistan and the trekking hub for the Karakoram. The approach from Islamabad is by flight (weather-permitting) or the Karakoram Highway road route.
+Skardu (2,438m) is the regional capital of Baltistan and the trekking hub for the Karakoram. The approach from [Islamabad](/[pakistan](/pakistan)/islamabad-guide) is by flight (weather-permitting) or the [Karakoram Highway](/pakistan/karakoram-highway-guide) road route.
 
 **Skardu**: An appealing town with the Skardu Fort (Kharpocho) on a rock outcrop above the Indus River, the Satpara Lake (blue-green glacial lake, 15 km south), and the cold desert landscape of the Skardu valley. Allow 2 days in Skardu for permit logistics and acclimatization.
 

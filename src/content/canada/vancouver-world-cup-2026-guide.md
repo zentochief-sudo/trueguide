@@ -10,7 +10,7 @@ tags: [Vancouver, World Cup 2026, FIFA, BC Place, Canada, British Columbia]
 city: vancouver
 ---
 
-Vancouver is hosting World Cup 2026 matches at BC Place — a downtown stadium inside one of the most dramatically situated cities on Earth. The North Shore mountains rise directly from the city, the Pacific is to the west, and the Fraser River delta spreads south. In July, Vancouver is at its best: temperatures of 22–26°C, long evenings, and the outdoor culture (cycling, kayaking, hiking) that defines daily life here.
+Vancouver is hosting World Cup 2026 matches at [BC Place](/[canada](/canada)/bc-place-guide) — a downtown stadium inside one of the most dramatically situated cities on Earth. The North Shore mountains rise directly from the city, the Pacific is to the west, and the Fraser River delta spreads south. In July, Vancouver is at its best: temperatures of 22–26°C, long evenings, and the outdoor culture (cycling, kayaking, hiking) that defines daily life here.
 
 The city's character is defined by two things that coexist without contradiction: extraordinary natural access (Grouse Mountain, Whistler, and Squamish are within 2 hours) and a serious food culture built around Pacific seafood, the country's best Asian food outside Asia, and a farm-to-table scene supplied by the Fraser Valley and Vancouver Island.
 

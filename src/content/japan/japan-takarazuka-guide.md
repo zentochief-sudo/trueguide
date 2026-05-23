@@ -25,7 +25,7 @@ Takarazuka has five performing troupes:
 - **Hoshi-gumi (Star)**: Contemporary and pop-influenced productions
 - **Sora-gumi (Sky)**: The newest troupe; varied repertoire
 
-Each troupe performs at Takarazuka's Grand Theater for several months per year; they also perform at the Tokyo Takarazuka Theater in Hibiya when in the capital. Fans follow specific troupes and individual performers.
+Each troupe performs at Takarazuka's Grand Theater for several months per year; they also perform at the [Tokyo](/japan/tokyo-guide) Takarazuka Theater in Hibiya when in the capital. Fans follow specific troupes and individual performers.
 
 ---
 
@@ -57,7 +57,7 @@ The Takarazuka fan experience — going to a performance with devoted fans aroun
 
 ### At Takarazuka Grand Theater
 
-**Location**: Takarazuka city, Hyogo Prefecture, 40 minutes from Osaka Umeda on the Hankyu Takarazuka Line (¥620), 1 hour from Kobe.
+**Location**: Takarazuka city, Hyogo Prefecture, 40 minutes from [Osaka Umeda](/japan/[osaka](/japan/osaka-guide)-umeda-guide) on the Hankyu Takarazuka Line (¥620), 1 hour from [Kobe](/japan/kobe-guide).
 
 **Schedule**: Each troupe performs at the Grand Theater for approximately 45–50 days per cycle. Check the Takarazuka official website (kageki.hankyu.co.jp) for current schedules.
 

@@ -10,7 +10,7 @@ tags: [Iwakuni, Japan, Kintai Bridge, Kintaikyo, white snake, castle, Hiroshima,
 city: national
 ---
 
-Iwakuni sits on the Nishiki River where it meets the Seto Inland Sea coast — 40 minutes west of Hiroshima by JR. The city's historical center is concentrated around the five wooden arches of the Kintai-kyo bridge, the hillside castle above it, and the samurai district on the far bank.
+Iwakuni sits on the Nishiki River where it meets the Seto Inland Sea coast — 40 minutes west of [Hiroshima](/japan/hiroshima-guide) by JR. The city's historical center is concentrated around the five wooden arches of the Kintai-kyo bridge, the hillside castle above it, and the samurai district on the far bank.
 
 The bridge and the snakes are both genuinely unusual, and the combination of significant engineering history and specific natural phenomenon makes Iwakuni worth the detour from Hiroshima.
 
@@ -20,7 +20,7 @@ The bridge and the snakes are both genuinely unusual, and the combination of sig
 
 **From Hiroshima**: JR San'yo Line to Iwakuni Station (40 minutes, ¥510). Then bus to Kintaikyomae (15 minutes, ¥350).
 
-**From Hiroshima Airport**: Bus to Iwakuni is available for those arriving from Tokyo and continuing west.
+**From Hiroshima Airport**: Bus to Iwakuni is available for those arriving from [Tokyo](/japan/tokyo-guide) and continuing west.
 
 ---
 
@@ -32,7 +32,7 @@ The engineering logic produced an architectural form of exceptional beauty. The 
 
 **Walking the bridge**: Admission ¥320. The arch surface is stepped — you walk up and over each arch rather than on a flat surface. The five arch crossings at different heights give successive views of the river, the mountains behind, and the castle on the hill.
 
-**Cherry blossom season**: The Kikko Park area on the far bank from the castle has approximately 3,000 cherry trees; the combination of the wooden bridge, the castle visible above, and the cherry blossoms produces one of the most photographed spring images in western Honshu. Late March–early April; crowds during peak bloom.
+**[Cherry blossom](/japan/cherry-blossom-guide) season**: The Kikko Park area on the far bank from the castle has approximately 3,000 cherry trees; the combination of the wooden bridge, the castle visible above, and the cherry blossoms produces one of the most photographed spring images in western Honshu. Late March–early April; crowds during peak bloom.
 
 ---
 
@@ -70,7 +70,7 @@ The park on the far bank from the castle contains the samurai district, the Whit
 
 **Time needed**: 3–4 hours covers the bridge, castle, samurai district, and white snakes comfortably. A half-day from Hiroshima (train + site + return) is the standard approach.
 
-**Combine with**: Hiroshima (Peace Memorial Museum + Miyajima) and Iwakuni together form a coherent 2-day western Honshu circuit. The JR San'yo Line connects them at ¥510 per direction.
+**Combine with**: Hiroshima (Peace Memorial Museum + [Miyajima](/japan/miyajima-guide)) and Iwakuni together form a coherent 2-day western Honshu circuit. The JR San'yo Line connects them at ¥510 per direction.
 
 ---
 

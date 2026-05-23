@@ -10,7 +10,7 @@ tags: [Thailand, May, rainy season, green season, Ko Samui, Ko Tao, Bangkok, low
 city: national
 ---
 
-May is Thailand's green season switch — the southwest monsoon arrives on the Andaman coast (Phuket, Krabi, Ko Lanta) while the Gulf of Thailand coast (Ko Samui, Ko Phangan, Ko Tao) remains in dry season. This divide is the key to understanding May: the west coast gets wet; the east coast stays clear. Prices fall to annual lows across the board. Bangkok and Chiang Mai get hot and occasionally rainy. For budget-conscious travelers who understand the geography, May is one of the better value months.
+May is [Thailand](/thailand)'s green season switch — the southwest monsoon arrives on the Andaman coast ([Phuket](/thailand/phuket-guide), Krabi, Ko Lanta) while the Gulf of Thailand coast (Ko Samui, Ko Phangan, Ko Tao) remains in dry season. This divide is the key to understanding May: the west coast gets wet; the east coast stays clear. Prices fall to annual lows across the board. [Bangkok](/thailand/bangkok-guide) and [Chiang Mai](/thailand/chiang-mai-guide) get hot and occasionally rainy. For budget-conscious travelers who understand the geography, May is one of the better value months.
 
 ## The Thailand Coast Split
 

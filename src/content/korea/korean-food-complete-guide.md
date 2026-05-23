@@ -75,7 +75,7 @@ Jjigae is thicker and more intensely flavored than guk — a stew served in a bo
 
 Rice topped with individually seasoned vegetables, a protein (beef bulgogi, raw beef, or egg), and gochujang, mixed at the table. The components — carrot, spinach, bean sprouts, mushrooms, bracken fern — are each seasoned separately before assembly. The stone pot version (*dolsot bibimbap*) arrives in a sizzling stone bowl that crisps the bottom rice layer (*nurungji*).
 
-**Best versions**: Jeonju is the recognized capital of bibimbap — the city's version uses local rice, seasonal vegetables, and a specific *bibimbam gochujang* aged for three years.
+**Best versions**: [Jeonju](/korea/jeonju-guide) is the recognized capital of bibimbap — the city's version uses local rice, seasonal vegetables, and a specific *bibimbam gochujang* aged for three years.
 
 ### 삼겹살 (Samgyeopsal — Grilled Pork Belly)
 
@@ -91,7 +91,7 @@ Long buckwheat or sweet potato noodles in an icy beef broth, with cucumber, Kore
 
 Two varieties: *mul naengmyeon* (in cold broth) and *bibim naengmyeon* (mixed with spicy sauce, no broth).
 
-**Pyongyang naengmyeon**: Originating from the North Korean capital. The best versions in Seoul are at restaurants near the DMZ area and in Euljiro that specialize in the original form.
+**Pyongyang naengmyeon**: Originating from the North Korean capital. The best versions in Seoul are at restaurants near the [DMZ](/korea/dmz-guide) area and in Euljiro that specialize in the original form.
 
 ### 순두부찌개 (Sundubu Jjigae — Soft Tofu Stew)
 
@@ -109,7 +109,7 @@ Eaten traditionally on *sambok* (the three hottest days of summer, determined by
 
 ### 떡볶이 (Tteokbokki)
 
-Cylindrical rice cakes (*tteok*) in a sauce of *gochujang*, sugar, and soy, with fish cakes and sometimes boiled eggs. The definitive Korean street food — sold at pojangmacha and *bunsikjip* (snack shops) everywhere in Korea. The sauce is sticky, sweet, and spicy; the rice cakes are chewy and absorb the sauce.
+Cylindrical rice cakes (*tteok*) in a sauce of *gochujang*, sugar, and soy, with fish cakes and sometimes boiled eggs. The definitive [Korean street food](/korea/korean-street-food-guide) — sold at pojangmacha and *bunsikjip* (snack shops) everywhere in Korea. The sauce is sticky, sweet, and spicy; the rice cakes are chewy and absorb the sauce.
 
 **Modern variants**: Rosé tteokbokki (cream-based, milder), rabokki (tteokbokki with ramyeon noodles, popular at street stalls).
 
@@ -119,7 +119,7 @@ Cylindrical rice cakes (*tteok*) in a sauce of *gochujang*, sugar, and soy, with
 
 ### Seoul / Gyeonggi
 - *Gomtang* (ox bone soup): Milky white bone broth from long-simmered ox bones and ox tail. Simple and restorative.
-- *Yukgaejang* (spicy beef and vegetable soup): Shredded beef in a fiery broth with fernbrake fern, scallions, and egg. A hanbok staple during *chuseok* and historically eaten by royalty.
+- *Yukgaejang* (spicy beef and vegetable soup): Shredded beef in a fiery broth with fernbrake fern, scallions, and egg. A [hanbok](/korea/hanbok-guide) staple during *chuseok* and historically eaten by royalty.
 
 ### Jeolla (Jeonju, Gwangju)
 Jeolla Province is considered the culinary heartland of Korea — the most complex and varied regional cuisine, with the widest range of banchan.
@@ -128,12 +128,12 @@ Jeolla Province is considered the culinary heartland of Korea — the most compl
 - *Kkotgae tang* (blue crab stew): Spicy crab in a gochujang broth.
 
 ### Gyeongsang (Busan, Daegu)
-- *Dwaeji gukbap* (pork rice soup): Pork bone broth with sliced pork, rice, and *kkakdugi* kimchi. Busan's comfort food standard.
+- *Dwaeji gukbap* (pork rice soup): Pork bone broth with sliced pork, rice, and *kkakdugi* kimchi. [Busan](/korea/busan-guide)'s comfort food standard.
 - *Milmyeon* (wheat noodles in broth): Busan's distinct cold noodle, using wheat rather than buckwheat.
 - *Makchang* (grilled offal): Busan's distinctive BBQ choice — grilled beef large intestine, with a specific chew and flavor.
 
 ### Jeju
-- *Heuk dwaeji* (black pork): Jeju's heritage pig produces distinctly richer pork belly.
+- *Heuk dwaeji* (black pork): [Jeju](/korea/jeju-guide)'s heritage pig produces distinctly richer pork belly.
 - *Galchi jorim* (braised hairtail fish): The island's signature fish preparation.
 - *Seonji haejang guk* (blood soup): A Jeju-specific preparation using seonji (congealed cattle blood) in a spicy broth — the island's traditional morning restoration.
 

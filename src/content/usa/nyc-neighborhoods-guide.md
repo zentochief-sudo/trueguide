@@ -10,9 +10,9 @@ tags: [New York City, neighborhoods, World Cup 2026, where to stay, Brooklyn, Ma
 city: nyc
 ---
 
-New York City is five boroughs — Manhattan, Brooklyn, Queens, the Bronx, and Staten Island — with a collective population of 8.3 million. For World Cup visitors, the practical universe is primarily Manhattan and Brooklyn, with Queens offering some of the best food experiences and value accommodation in the metro area. Understanding the geography before you arrive determines whether you spend your trip comfortably or confused.
+New York City is five boroughs — Manhattan, [Brooklyn](/united-states/brooklyn-guide), Queens, the Bronx, and Staten Island — with a collective population of 8.3 million. For World Cup visitors, the practical universe is primarily Manhattan and Brooklyn, with Queens offering some of the best food experiences and value accommodation in the metro area. Understanding the geography before you arrive determines whether you spend your trip comfortably or confused.
 
-The organizing principle: MetLife Stadium is in New Jersey, connected by NJ Transit from Penn Station at 34th Street in Midtown Manhattan. Where you sleep should balance proximity to Penn Station with the kind of neighborhood experience you want.
+The organizing principle: [MetLife Stadium](/united-states/metlife-stadium-guide) is in New Jersey, connected by NJ Transit from Penn Station at 34th Street in Midtown Manhattan. Where you sleep should balance proximity to Penn Station with the kind of neighborhood experience you want.
 
 ---
 
@@ -56,7 +56,7 @@ The most photographed residential streets in Manhattan — low-brownstone blocks
 
 SoHo (South of Houston Street) is New York's shopping district — cast-iron architecture converted into retail, galleries that have become Nike stores, and the particular phenomenon of beautiful buildings full of things you don't need. Worth walking through for the architecture; don't expect local restaurants to be affordable.
 
-**Nolita** (North of Little Italy) is more interesting: a small grid of streets between SoHo and the Lower East Side with some of the best restaurants in the city. **Prince Street Pizza** (27 Prince Street) is the essential stop — the pepperoni pizza squares have a particular crispiness that justifies the queue. **Uncle Boons** for Thai food.
+**Nolita** (North of Little [Italy](/italy)) is more interesting: a small grid of streets between SoHo and the Lower East Side with some of the best restaurants in the city. **Prince Street Pizza** (27 Prince Street) is the essential stop — the pepperoni pizza squares have a particular crispiness that justifies the queue. **Uncle Boons** for Thai food.
 
 ---
 

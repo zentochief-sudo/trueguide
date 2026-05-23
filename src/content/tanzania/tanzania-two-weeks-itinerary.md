@@ -10,23 +10,23 @@ tags: []
 city: national
 ---
 
-Two weeks in Tanzania allows you to go beyond the Northern Circuit into Tanzania's extraordinary southern parks — wilder, less visited, and home to some of Africa's largest elephant and lion populations — before unwinding in Zanzibar.
+Two weeks in [Tanzania](/tanzania) allows you to go beyond the Northern Circuit into Tanzania's extraordinary southern parks — wilder, less visited, and home to some of Africa's largest elephant and lion populations — before unwinding in [Zanzibar](/tanzania/zanzibar-guide).
 
 ## Days 1–2 – Arusha & Kilimanjaro
 
-**Day 1:** Arrive at Kilimanjaro International Airport. Arusha briefings, cultural market, and the **Arusha National Park** (the smallest national park in Tanzania, but home to flamingos at Momella Lakes, colobus monkeys, and Kilimanjaro views on clear mornings) for an afternoon walk.
+**Day 1:** Arrive at [Kilimanjaro](/tanzania/kilimanjaro-guide) International Airport. [Arusha](/tanzania/arusha-guide) briefings, cultural market, and the **Arusha National Park** (the smallest national park in Tanzania, but home to flamingos at Momella Lakes, colobus monkeys, and Kilimanjaro views on clear mornings) for an afternoon walk.
 
 **Day 2:** Drive to **Materuni Village** on the slopes of Kilimanjaro for a half-day hike through coffee and banana plantations to the **Materuni Waterfall** — excellent views of the Kilimanjaro massif and an insight into how the Chagga people have farmed these slopes for centuries. Traditional lunch with a local family.
 
 ## Days 3–4 – Tarangire
 
-Two days in **Tarangire National Park** allows deeper exploration — the Tarangire River, the Silale Swamp (spectacular birdlife), and the baobab woodland. The second day can include a walking safari with an armed Maasai guide — the most intimate wildlife encounter available in Tanzania.
+Two days in **[Tarangire](/tanzania/tarangire-guide) National Park** allows deeper exploration — the Tarangire River, the Silale Swamp (spectacular birdlife), and the baobab woodland. The second day can include a walking safari with an armed Maasai guide — the most intimate wildlife encounter available in Tanzania.
 
 Night: luxury tented camp inside or adjacent to the park.
 
 ## Days 5–6 – Ngorongoro & Olmoti Crater
 
-**Day 5:** Full descent into the Ngorongoro Crater — game drive with focus on black rhino tracking (the best sustained rhino sightings anywhere in East Africa) and predator behaviour around the Gorigor Swamp.
+**Day 5:** Full descent into the [Ngorongoro](/tanzania/ngorongoro-guide) Crater — game drive with focus on black rhino tracking (the best sustained rhino sightings anywhere in East Africa) and predator behaviour around the Gorigor Swamp.
 
 **Day 6:** Less-visited **Olmoti Crater** (2 hours walk from the crater rim) — a smaller, less developed crater with a beautiful waterfall and excellent buffalo and reedbuck. Traditional Maasai village visit in the afternoon — the Maasai Boma encampments around the Ngorongoro Conservation Area are living communities, not tourist constructs.
 

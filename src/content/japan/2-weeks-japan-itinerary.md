@@ -22,7 +22,7 @@ This itinerary is the second kind. It keeps what's genuinely unmissable — beca
 **Quick facts for 2026:**
 - Japan has introduced tourist taxes in several prefectures — factor ¥500–¥1,000/person/day
 - The yen remains historically weak, making Japan exceptional value for USD and EUR holders
-- Cherry blossom season (late March–early April) and autumn foliage (November) mean higher prices and bigger crowds — plan accordingly
+- [Cherry blossom](/japan/cherry-blossom-guide) season (late March–early April) and autumn foliage (November) mean higher prices and bigger crowds — plan accordingly
 
 ---
 
@@ -30,7 +30,7 @@ This itinerary is the second kind. It keeps what's genuinely unmissable — beca
 
 Getting a few things right before you arrive will save you hours of frustration on the ground.
 
-**JR Pass** — If you're traveling between multiple cities, buy a 14-day JR Pass before leaving your country. As of 2026, it costs around ¥70,000 ($465). It covers the Shinkansen (bullet train) between Tokyo, Kyoto, Osaka, Hiroshima and more. Do the math for your specific route — it's worth it if you're making 3+ long-distance trips. (Full breakdown in our [Japan Rail Pass guide](/japan/japan-rail-pass-guide).)
+**JR Pass** — If you're traveling between multiple cities, buy a 14-day JR Pass before leaving your country. As of 2026, it costs around ¥70,000 ($465). It covers the Shinkansen (bullet train) between Tokyo, Kyoto, Osaka, [Hiroshima](/japan/hiroshima-guide) and more. Do the math for your specific route — it's worth it if you're making 3+ long-distance trips. (Full breakdown in our [Japan Rail Pass guide](/japan/japan-rail-pass-guide).)
 
 **IC Card (Suica or Pasmo)** — Load money onto one of these rechargeable transit cards at any airport. Use it for every train, bus, subway and vending machine in the country. Don't waste time buying individual tickets.
 
@@ -60,7 +60,7 @@ Walk the backstreets of **Yanaka** after. This is one of the few Tokyo neighborh
 
 In the afternoon, pass through **Akihabara** — even if you don't care about electronics or anime, it's a sensory experience unlike anywhere else on earth.
 
-Dinner: find a conveyor-belt sushi place (kaiten-zushi) for a low-pressure, delicious introduction to Japanese food culture.
+Dinner: find a conveyor-belt sushi place (kaiten-zushi) for a low-pressure, delicious introduction to [Japanese food](/japan/japanese-food-guide) culture.
 
 ### Day 3: West Tokyo — Harajuku, Shibuya, Shimokitazawa
 
@@ -80,7 +80,7 @@ Choose your vibe for Day 4:
 
 **Option A (culture):** Spend the morning at the **Tokyo National Museum** in Ueno — one of the world's great collections of Japanese art and history. Afternoon in **Nezu** or **Kagurazaka**, two neighborhoods that retain an older Tokyo character.
 
-**Option B (contemporary):** Book **teamLab Borderless** in advance — it sells out weeks ahead. It's a full-building immersive digital art experience that photographs badly and must be lived. Then explore **Odaiba** for the surreal experience of standing in front of a life-size Gundam robot by the bay.
+**Option B (contemporary):** Book **[teamLab](/japan/teamlab-guide) Borderless** in advance — it sells out weeks ahead. It's a full-building immersive digital art experience that photographs badly and must be lived. Then explore **Odaiba** for the surreal experience of standing in front of a life-size Gundam robot by the bay.
 
 ---
 
@@ -90,7 +90,7 @@ Most itineraries rush straight from Tokyo to Kyoto. Resist this. Japan's power i
 
 ### Option A: Hakone (2 nights) — Mountains, Onsen, Fuji Views
 
-Hakone sits in a volcanic caldera 90 minutes from Tokyo. From the right spot on a clear morning, you see Mount Fuji across the lake. When clouds cover the mountain — which is most of the time — you're surrounded by hot springs, cedar forests and ryokan breakfasts that make you rethink what breakfast can be.
+[Hakone](/japan/hakone-guide) sits in a volcanic caldera 90 minutes from Tokyo. From the right spot on a clear morning, you see [Mount Fuji](/japan/mount-fuji-guide) across the lake. When clouds cover the mountain — which is most of the time — you're surrounded by hot springs, cedar forests and ryokan breakfasts that make you rethink what breakfast can be.
 
 **How to do it right:**
 - Stay at a ryokan with a private onsen. Budget ¥20,000–¥35,000/night per person including dinner and breakfast — expensive, but the experience of eating a 12-course kaiseki dinner in your room then soaking in a private hot spring in the dark is one of those things you'll talk about forever.
@@ -113,7 +113,7 @@ The alternative: stay three nights, wake up early, walk slowly.
 
 ### What Kyoto Actually Is
 
-Kyoto was Japan's imperial capital for over a thousand years. There are 1,600 Buddhist temples and 400 Shinto shrines within the city limits. The Gion district preserves the architecture and culture of the old city. Geiko (Kyoto's term for geisha) still walk to appointments in the evening.
+Kyoto was Japan's imperial capital for over a thousand years. There are 1,600 Buddhist temples and 400 Shinto shrines within the city limits. The Gion district preserves the architecture and culture of the old city. Geiko (Kyoto's term for [geisha](/japan/geisha-guide)) still walk to appointments in the evening.
 
 It rewards patience. The third morning in Kyoto is better than the first.
 
@@ -155,7 +155,7 @@ Do Nara as a day trip from Kyoto. Arrive by 8am (the deer are most active in the
 
 ## Day 12–13: Kanazawa — The Discovery
 
-This is where most itineraries stop. Osaka is next on the standard route — and Osaka is great — but if you have two more days and want to understand why Japan is singular, go to **Kanazawa** instead.
+This is where most itineraries stop. Osaka is next on the standard route — and Osaka is great — but if you have two more days and want to understand why Japan is singular, go to **[Kanazawa](/japan/kanazawa-guide)** instead.
 
 On Japan's Sea of Japan coast, Kanazawa was one of Japan's richest feudal domains. It escaped bombing during WWII. As a result, it has something vanishingly rare in Japan: an intact old city. The samurai district, the geisha districts, the castle gardens — all of it still there, not reconstructed.
 

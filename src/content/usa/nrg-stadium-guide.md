@@ -83,7 +83,7 @@ NRG Stadium's food program reflects Houston's food culture more directly than mo
 
 **Texas barbecue**: Brisket sandwiches and plates from Houston-area barbecue vendors. Not at the Pecan Lodge level but legitimate Texas barbecue.
 
-**Vietnamese crawfish / Tex-Mex**: Some concession areas will reflect the Houston food landscape — expect bao, Vietnamese-influenced dishes, and proper Tex-Mex alongside standard stadium fare.
+**Vietnamese crawfish / Tex-Mex**: Some concession areas will reflect the [Houston food](/united-states/houston-food-guide) landscape — expect bao, Vietnamese-influenced dishes, and proper Tex-Mex alongside standard stadium fare.
 
 **Seafood**: Gulf shrimp and fish items reflecting Houston's proximity to the Gulf Coast.
 

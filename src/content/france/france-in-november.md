@@ -10,7 +10,7 @@ tags: [France, November, Beaujolais Nouveau, Burgundy, truffle, Paris, Alsace, l
 city: national
 ---
 
-November is France's quiet month — and its most gastronomic. Beaujolais Nouveau releases on the third Thursday of November (the most wine-specific national event in France). The Hospices de Beaune auction in Burgundy is the most prestigious wine charity auction in the world. The black truffle season begins in the Périgord and Provence. And Paris, stripped of its summer tourist layer, is running its own cultural life with gallery openings, new films, and the literary prize season. November France is for people who eat well.
+November is [France](/france)'s quiet month — and its most gastronomic. Beaujolais Nouveau releases on the third Thursday of November (the most wine-specific national event in France). The Hospices de Beaune auction in Burgundy is the most prestigious wine charity auction in the world. The black truffle season begins in the Périgord and [Provence](/france/provence-guide). And [Paris](/france/paris-travel-guide), stripped of its summer tourist layer, is running its own cultural life with gallery openings, new films, and the literary prize season. November France is for people who eat well.
 
 ## Weather in November
 
@@ -20,7 +20,7 @@ November is France's quiet month — and its most gastronomic. Beaujolais Nouvea
 
 **Périgord (Dordogne):** 6°C to 14°C. Cool and often misty. Truffle hunters are in the oak forests at dawn.
 
-**Alsace:** 3°C to 10°C. Cold — early November before the Christmas markets (which begin late November) is the quietest period in Alsace.
+**[Alsace](/france/alsace-guide):** 3°C to 10°C. Cold — early November before the Christmas markets (which begin late November) is the quietest period in Alsace.
 
 **Nice/Riviera:** 10°C to 18°C. The warmest option in France in November — comfortable for walking the Promenade des Anglais and old town without the summer crowds.
 

@@ -10,15 +10,15 @@ tags: []
 city: national
 ---
 
-Two weeks in Kazakhstan unlocks the country's full spectrum — from the mountains above Almaty to the ancient Silk Road city of Turkestan, the eerie Aral Sea disaster zone, the futuristic capital of Astana, and the vast steppe that shaped nomadic culture for millennia.
+Two weeks in [Kazakhstan](/kazakhstan) unlocks the country's full spectrum — from the mountains above [Almaty](/kazakhstan/almaty-travel-guide) to the ancient [Silk Road](/kazakhstan/silk-road-guide) city of Turkestan, the eerie Aral Sea disaster zone, the futuristic capital of [Astana](/kazakhstan/astana-guide), and the vast steppe that shaped [nomadic culture](/kazakhstan/nomadic-culture-guide) for millennia.
 
 ## Days 1–3 – Almaty
 
-Three full days in Kazakhstan's most liveable city. Day 1: Green Bazaar, Panfilov Park, Zenkov Cathedral, and an evening in the restaurant district. Day 2: Medeu and Shymbulak mountains, Big Almaty Lake at altitude, and a traditional Kazakh dinner. Day 3: Central State Museum (the Golden Man), Kasteyev Art Museum, and the **TSUM** Soviet-era department store turned market.
+Three full days in Kazakhstan's most liveable city. Day 1: Green Bazaar, Panfilov Park, Zenkov Cathedral, and an evening in the restaurant district. Day 2: Medeu and Shymbulak mountains, [Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) at altitude, and a traditional Kazakh dinner. Day 3: Central State Museum (the Golden Man), Kasteyev Art Museum, and the **TSUM** Soviet-era department store turned market.
 
 ## Day 4 – Charyn Canyon
 
-Day trip east (3.5h) to Charyn Canyon's Valley of Castles — one of Central Asia's most dramatic landscapes. Sunrise or sunset at the canyon rim turns the red rock formations extraordinary colours. Return to Almaty.
+Day trip east (3.5h) to [Charyn Canyon](/kazakhstan/charyn-canyon-guide)'s Valley of Castles — one of Central Asia's most dramatic landscapes. Sunrise or sunset at the canyon rim turns the red rock formations extraordinary colours. Return to Almaty.
 
 ## Days 5–6 – Kolsai Lakes & Kaindy Lake
 
@@ -30,7 +30,7 @@ Return to Almaty overnight.
 
 ## Day 7 – Fly to Shymkent: Silk Road Gateway
 
-Fly from Almaty to **Shymkent** (1.5 hours) — Kazakhstan's third city and the gateway to the southern Silk Road region. Shymkent itself has excellent food culture (closest to Uzbek cuisine of any Kazakh city) and a lively old bazaar.
+Fly from Almaty to **[Shymkent](/kazakhstan/shymkent-guide)** (1.5 hours) — Kazakhstan's third city and the gateway to the southern Silk Road region. Shymkent itself has excellent food culture (closest to Uzbek cuisine of any Kazakh city) and a lively old bazaar.
 
 Afternoon: Shymkent's **Old Bazaar** (Bazar) and the **Orda** cultural centre.
 

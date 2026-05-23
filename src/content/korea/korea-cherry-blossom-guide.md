@@ -12,7 +12,7 @@ city: national
 
 Korea and Japan's cherry blossom seasons overlap — both are driven by rising temperatures and the Yoshino cherry (Prunus yedoensis) — but Korea gets less international attention for its blossoms despite having some of the most concentrated and spectacular displays in Asia. The **Jinhae Cherry Blossom Festival** alone draws 3-4 million visitors over ten days; the **Yeouido Cherry Blossom Festival** in Seoul transforms the Han River island into one of the most densely photographed locations in the country.
 
-The Korean blossom season typically runs from **late March through early April in Seoul**, with Jeju Island peaking about a week earlier and the northern and higher-altitude areas blooming into mid-April.
+The Korean blossom season typically runs from **late March through early April in Seoul**, with [Jeju](/korea/jeju-guide) Island peaking about a week earlier and the northern and higher-altitude areas blooming into mid-April.
 
 ---
 
@@ -24,7 +24,7 @@ Cherry blossom timing varies by year depending on winter temperatures. The gener
 |---|---|
 | Jeju Island | March 20–28 |
 | Jinhae (Gyeongnam) | April 1–10 |
-| Gwangyang, Gyeongju | April 2–8 |
+| Gwangyang, [Gyeongju](/korea/gyeongju-guide) | April 2–8 |
 | Seoul (Yeouido, Namsan) | April 3–12 |
 | Bukhansan, higher altitudes | April 8–15 |
 
@@ -46,7 +46,7 @@ The **Korea Meteorological Administration** publishes annual blossom forecasts f
 
 ### Getting to Jinhae
 
-Jinhae is most accessible from **Busan** (30 minutes by intercity bus from Seobu Bus Terminal) or from **Changwon Central Station** (local bus connection). No direct train from Seoul to Jinhae; the typical route is KTX to Busan then bus.
+Jinhae is most accessible from **[Busan](/korea/busan-guide)** (30 minutes by intercity bus from Seobu Bus Terminal) or from **Changwon Central Station** (local bus connection). No direct train from Seoul to Jinhae; the typical route is KTX to Busan then bus.
 
 **Accommodation**: The small Jinhae accommodation options book out months in advance for festival dates. Staying in Busan and day-tripping is the practical alternative.
 

@@ -12,7 +12,7 @@ city: hunza
 
 Fairy Meadows (Joot in Urdu, Nanga Parbat Base Camp in climber's terminology) is a broad alpine meadow at 3,300 meters with an unobstructed, head-on view of the Raikot Face of Nanga Parbat (8,126m) — the mountain's northwest wall, rising 7,000 vertical meters from the Indus Valley floor to the summit in one of the largest single face rises in the world.
 
-The meadow is at the end of one of the world's most dangerous jeep tracks (9 km of cliff-edge road from Raikot Bridge) followed by a 3–4 hour uphill hike. The combination of access drama and arrival at the meadow with the mountain filling the sky makes the experience one of the most memorable in Pakistan.
+The meadow is at the end of one of the world's most dangerous jeep tracks (9 km of cliff-edge road from Raikot Bridge) followed by a 3–4 hour uphill hike. The combination of access drama and arrival at the meadow with the mountain filling the sky makes the experience one of the most memorable in [Pakistan](/pakistan).
 
 ---
 

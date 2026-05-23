@@ -10,17 +10,17 @@ tags: [Peru, practical, altitude, visa, transport, costs, Inca Trail, safety, bu
 city: lima
 ---
 
-Peru is an accessible country with well-developed tourism infrastructure around the key sites, but understanding the altitude situation, the permit system for the Inca Trail, and the transit logistics around Lima makes the difference between a smooth trip and a frustrating one. The country has become significantly more expensive over the past decade — it is no longer a ultra-budget destination, though it remains good value by European and North American standards.
+[Peru](/peru) is an accessible country with well-developed tourism infrastructure around the key sites, but understanding the altitude situation, the permit system for the Inca Trail, and the transit logistics around Lima makes the difference between a smooth trip and a frustrating one. The country has become significantly more expensive over the past decade — it is no longer a ultra-budget destination, though it remains good value by European and North American standards.
 
 ---
 
 ## Visas
 
-**Visa-free entry**: Citizens of the US, UK, EU, Canada, Australia, Japan, and most Latin American countries enter Peru visa-free for 90 days. A return ticket may be required as proof of onward travel.
+**Visa-free entry**: Citizens of the US, UK, EU, [Canada](/canada), Australia, Japan, and most Latin American countries enter Peru visa-free for 90 days. A return ticket may be required as proof of onward travel.
 
 **Passport validity**: Must be valid for at least 6 months from the entry date.
 
-**Extension**: Possible at the Peruvian immigration office (Migraciones) in Lima, Cusco, or other cities for an additional 90 days (one extension per year).
+**Extension**: Possible at the Peruvian immigration office (Migraciones) in Lima, [Cusco](/peru/cusco-guide), or other cities for an additional 90 days (one extension per year).
 
 ---
 
@@ -28,11 +28,11 @@ Peru is an accessible country with well-developed tourism infrastructure around 
 
 Peru's major tourist sites are at significant elevation:
 - **Lima**: Sea level
-- **Machu Picchu**: 2,430 m
-- **Sacred Valley**: 2,700–2,900 m
+- **[Machu Picchu](/peru/machu-picchu-guide)**: 2,430 m
+- **[Sacred Valley](/peru/sacred-valley-guide)**: 2,700–2,900 m
 - **Cusco**: 3,400 m
-- **Puno / Lake Titicaca**: 3,812 m
-- **Colca Canyon**: 4,900 m (highest point)
+- **Puno / [Lake Titicaca](/peru/lake-titicaca-guide)**: 3,812 m
+- **[Colca Canyon](/peru/colca-canyon-guide)**: 4,900 m (highest point)
 
 **Acclimatization strategy**: The recommended approach is to ascend gradually — spend 1–2 nights in the Sacred Valley (2,700 m) before moving to Cusco (3,400 m). Visit Machu Picchu (lower than Cusco) before ascending to Cusco. Puno and Lake Titicaca require an additional day of adjustment after Cusco.
 
@@ -94,6 +94,6 @@ Peru is moderately priced:
 
 ## When to Go
 
-- **May–October**: Dry season — the recommended window for Machu Picchu, the Inca Trail, Lake Titicaca, and the Amazon. June–August is peak season
+- **May–October**: Dry season — the recommended window for Machu Picchu, the Inca Trail, Lake Titicaca, and the [Amazon](/peru/amazon-guide). June–August is peak season
 - **November–April**: Rainy season — Machu Picchu terrace plants are green; fewer trekkers; some trails and roads are affected. The Amazon is navigable year-round but flooding season (December–April) offers flooded forest experiences
 - **Shoulder season (May, October)**: The best combination of good weather and manageable crowds

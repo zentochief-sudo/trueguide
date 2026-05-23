@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Peru opens up possibilities beyond the Golden Triangle of Lima–Cusco–Machu Picchu. Add the Amazon, Lake Titicaca, and the Nazca Lines and you have one of the world's great travel experiences — different ecosystems, ancient civilisations, and landscapes of extraordinary scale.
+Two weeks in [Peru](/peru) opens up possibilities beyond the Golden Triangle of [Lima](/peru/lima-guide)–[Cusco](/peru/cusco-guide)–[Machu Picchu](/peru/machu-picchu-guide). Add the [Amazon](/peru/amazon-guide), [Lake Titicaca](/peru/lake-titicaca-guide), and the [Nazca Lines](/peru/nazca-lines-guide) and you have one of the world's great travel experiences — different ecosystems, ancient civilisations, and landscapes of extraordinary scale.
 
 ## Days 1–2 – Lima
 

@@ -10,13 +10,13 @@ tags: [Spain, June, summer, Corpus Christi, San Juan, Barcelona, beach, Ibiza, t
 city: national
 ---
 
-June is Spain's transition month — warm enough for beaches, not yet overwhelmed by the August crowds, and still holding prices below the summer peak. The Mediterranean coast wakes up fully; the interior cities get hot by midday but remain comfortable in the morning and evening. It's the last month where you can move around Spain comfortably without booking everything months in advance.
+June is [Spain](/spain)'s transition month — warm enough for beaches, not yet overwhelmed by the August crowds, and still holding prices below the summer peak. The Mediterranean coast wakes up fully; the interior cities get hot by midday but remain comfortable in the morning and evening. It's the last month where you can move around Spain comfortably without booking everything months in advance.
 
 ## Weather in June
 
 **Madrid:** 17°C to 31°C. Getting hot, especially in the second half. Outdoor evening culture fully active — rooftop bars, outdoor restaurants, parks after 8 PM. Museums and galleries for midday.
 
-**Barcelona:** 20°C to 28°C. Beach weather — water temperature 22–24°C. The city starts filling with summer visitors; Barceloneta beach gets crowded on weekends.
+**[Barcelona](/spain/barcelona-travel-guide):** 20°C to 28°C. Beach weather — water temperature 22–24°C. The city starts filling with summer visitors; Barceloneta beach gets crowded on weekends.
 
 **Seville:** 22°C to 36°C. Hot in June — Seville's summer heat is serious. Midday outdoor activity is not advisable. Morning and evening are excellent.
 

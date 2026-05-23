@@ -10,7 +10,7 @@ tags: [Mexico, November, Día de los Muertos, Oaxaca, travel tips, dry season]
 city: national
 ---
 
-If you're asking a Mexico veteran when to go, November is the most common answer. The rains ended in October. December prices haven't kicked in. And the first two days of the month are Día de los Muertos — possibly the most visually extraordinary cultural tradition in the Americas.
+If you're asking a [Mexico](/mexico) veteran when to go, November is the most common answer. The rains ended in October. December prices haven't kicked in. And the first two days of the month are Día de los Muertos — possibly the most visually extraordinary cultural tradition in the Americas.
 
 This is the insider month.
 

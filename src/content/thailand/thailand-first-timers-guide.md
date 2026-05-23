@@ -10,16 +10,16 @@ tags: []
 city: national
 ---
 
-Thailand is the most visited country in Southeast Asia, and it earns every visitor. The food is extraordinary, the temples are beautiful, the islands are genuinely paradise-grade, and Thai hospitality is warm and genuine. But there are cultural rules, practical pitfalls, and things first-timers consistently get wrong.
+[Thailand](/thailand) is the most visited country in Southeast Asia, and it earns every visitor. The food is extraordinary, the temples are beautiful, the islands are genuinely paradise-grade, and Thai hospitality is warm and genuine. But there are cultural rules, practical pitfalls, and things first-timers consistently get wrong.
 
 ## The Basics
 
-**Capital:** Bangkok (Krung Thep Maha Nakhon)  
+**Capital:** [Bangkok](/thailand/bangkok-guide) (Krung Thep Maha Nakhon)  
 **Currency:** Thai Baht (฿). €1 ≈ ฿38–40.  
 **Language:** Thai. English is widely spoken in tourist areas, cities, and resorts. Less so in rural areas.  
 **Time zone:** ICT (GMT+7). No daylight saving.  
 **Driving:** Left-hand side  
-**Visa:** Most Western nationalities (US, EU, UK, Australia, Canada) receive a 60-day visa exemption on arrival (2024 change from 30 days). No application required.  
+**Visa:** Most Western nationalities (US, EU, UK, Australia, [Canada](/canada)) receive a 60-day visa exemption on arrival (2024 change from 30 days). No application required.  
 **Plugs:** Type A, B, and C — bring a universal adapter
 
 ---
@@ -54,7 +54,7 @@ Thai food is one of the world's great cuisines — complex, balanced, fragrant, 
 
 **Bangkok / Central Thai:** Pad thai, khao pad (fried rice), tom yum soup, som tum papaya salad, massaman curry.
 
-**Northern (Chiang Mai):** Khao soi (curry noodle soup — the must-eat of the north), sai ua (northern sausage), larb (spicy minced meat salad).
+**Northern ([Chiang Mai](/thailand/chiang-mai-guide)):** Khao soi (curry noodle soup — the must-eat of the north), sai ua (northern sausage), larb (spicy minced meat salad).
 
 **Southern Thai:** Spicier and more coconut-heavy. Massaman and Panang curries, fresh seafood.
 

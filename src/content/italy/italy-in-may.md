@@ -10,7 +10,7 @@ tags: [Italy, May, spring, Tuscany, poppies, Amalfi Coast, Venice, pre-summer, t
 city: national
 ---
 
-May is the last month before Italy becomes genuinely difficult to move around — before July's crushing crowds, June's warming heat, and the price spikes that accompany them. In May, the Tuscan fields are dotted with red poppies; the Amalfi Coast is warm but driveable; Venice has manageable visitor numbers; and Rome's archaeological sites are accessible without the summer frustration. May is Italy working at near-peak beauty with pre-peak logistics.
+May is the last month before [Italy](/italy) becomes genuinely difficult to move around — before July's crushing crowds, June's warming heat, and the price spikes that accompany them. In May, the Tuscan fields are dotted with red poppies; the Amalfi Coast is warm but driveable; Venice has manageable visitor numbers; and [Rome](/italy/rome-guide)'s archaeological sites are accessible without the summer frustration. May is Italy working at near-peak beauty with pre-peak logistics.
 
 ## Weather in May
 
@@ -77,7 +77,7 @@ Pre-peak pricing — higher than March but below June-August. The Amalfi Coast b
 ## Practical Notes
 
 - **Colosseum and Vatican in May:** Book 3–4 weeks minimum ahead; same-day slots disappear rapidly from mid-May onward.
-- **Cinque Terre in May:** The hiking trails between the five villages are open and beautiful — the best time to walk them before summer crowds. Book accommodation in Vernazza or Corniglia (smaller villages) rather than Monterosso (most developed).
+- **[Cinque Terre](/italy/cinque-terre-guide) in May:** The hiking trails between the five villages are open and beautiful — the best time to walk them before summer crowds. Book accommodation in Vernazza or Corniglia (smaller villages) rather than Monterosso (most developed).
 - **Driving the Amalfi Coast in May:** Still feasible in a normal-sized car. By June, the coach buses and volume of traffic make private car driving genuinely difficult; use buses or ferry instead.
 
 ## The Short Version

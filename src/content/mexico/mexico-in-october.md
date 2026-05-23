@@ -10,7 +10,7 @@ tags: [Mexico, October, Día de Muertos, rainy season, Oaxaca, Michoacán, whale
 city: national
 ---
 
-October is when Mexico starts transitioning back to its best season. The rains ease significantly in the first two weeks. Prices remain at near-September lows while conditions improve. And the entire country begins the slow build toward Día de Muertos — the late October/early November cultural event that draws visitors from around the world. October is arguably the smartest month to arrive if you want to see both the preparation and the event itself.
+October is when [Mexico](/mexico) starts transitioning back to its best season. The rains ease significantly in the first two weeks. Prices remain at near-September lows while conditions improve. And the entire country begins the slow build toward Día de Muertos — the late October/early November cultural event that draws visitors from around the world. October is arguably the smartest month to arrive if you want to see both the preparation and the event itself.
 
 ## Weather in October
 

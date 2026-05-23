@@ -10,7 +10,7 @@ tags: [kaiten sushi, conveyor belt sushi, sushi Japan, Sushiro, Kura Sushi, Hama
 city: national
 ---
 
-*Kaiten-sushi* (回転寿司) — rotating sushi, also called "conveyor belt sushi" — was invented in Osaka in 1958 by Yoshiaki Shiraishi, who was inspired by a beer bottle conveyor on a factory visit. The concept: sushi chefs place plates on a moving belt that circulates past seated customers, who take what they want. The price is typically per plate (color-coded by price tier). The customer eats at their own pace, pays for what they've consumed, and leaves.
+*Kaiten-sushi* (回転寿司) — rotating sushi, also called "conveyor belt sushi" — was invented in [Osaka](/japan/osaka-guide) in 1958 by Yoshiaki Shiraishi, who was inspired by a beer bottle conveyor on a factory visit. The concept: sushi chefs place plates on a moving belt that circulates past seated customers, who take what they want. The price is typically per plate (color-coded by price tier). The customer eats at their own pace, pays for what they've consumed, and leaves.
 
 The system democratized sushi — removing the barrier of the traditional counter, the price opacity, and the tasting-menu format that made high-end sushi restaurants inaccessible to most people. Contemporary kaiten-sushi chains in Japan serve genuine fresh sushi at ¥120–200 per plate, with seasonal specials, hot food menus, and digital ordering systems that have made them the most-visited restaurant category in the country.
 

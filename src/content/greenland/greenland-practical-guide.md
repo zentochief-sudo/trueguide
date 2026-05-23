@@ -10,9 +10,9 @@ tags: [Greenland, practical guide, Air Greenland, costs, budget, travel tips, Co
 city: nuuk
 ---
 
-Greenland is the world's largest island and one of the least visited countries — roughly 70,000 tourists annually, compared to Iceland's 2 million. The reasons are straightforward: it's expensive, logistically complex, and the infrastructure is designed for a population of 56,000 spread across a coastline as long as the US coast-to-coast. There are no roads between settlements. Almost all movement is by plane or boat.
+[Greenland](/greenland) is the world's largest island and one of the least visited countries — roughly 70,000 tourists annually, compared to Iceland's 2 million. The reasons are straightforward: it's expensive, logistically complex, and the infrastructure is designed for a population of 56,000 spread across a coastline as long as the US coast-to-coast. There are no roads between settlements. Almost all movement is by plane or boat.
 
-The result, for travelers who commit to understanding the logistics, is access to landscapes of genuinely extraordinary scale — the Greenland Ice Sheet, the Ilulissat Icefjord, the fjords of the south, and an Indigenous Inuit culture still actively practiced in ways that no other Arctic territory has preserved.
+The result, for travelers who commit to understanding the logistics, is access to landscapes of genuinely extraordinary scale — the Greenland Ice Sheet, the [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide), the fjords of the south, and an Indigenous Inuit culture still actively practiced in ways that no other Arctic territory has preserved.
 
 ---
 
@@ -20,7 +20,7 @@ The result, for travelers who commit to understanding the logistics, is access t
 
 ### From Europe (Denmark)
 
-**Copenhagen to Nuuk (Godthåb Airport, GOH)**: Air Greenland operates 3–4 flights per week on an Airbus A330. Journey: ~4.5 hours. New Airport Nuuk opened in November 2024, replacing the old short-runway airport and enabling direct transatlantic flights for the first time. This is the primary route for most European visitors.
+**Copenhagen to [Nuuk](/greenland/nuuk-travel-guide) (Godthåb Airport, GOH)**: Air Greenland operates 3–4 flights per week on an Airbus A330. Journey: ~4.5 hours. New Airport Nuuk opened in November 2024, replacing the old short-runway airport and enabling direct transatlantic flights for the first time. This is the primary route for most European visitors.
 
 **Copenhagen to Kangerlussuaq (SFJ)**: Air Greenland operates several times weekly. Kangerlussuaq is an inland airport (former US air base) with good connections throughout Greenland but no town of its own — it functions as a transit hub. Less useful now that Nuuk airport handles larger aircraft.
 
@@ -42,7 +42,7 @@ Greenland has no road network connecting settlements. Movement between towns is:
 
 **Arctic Umiaq Line ferry (Sarfaq Ittuk)**: The coastal ferry running the full west coast from Nuuk to Ilulissat and beyond in summer (May–January). Slow (Nuuk to Ilulissat: ~30 hours), cheaper than flying, and an experience in itself — the ferry carries locals, freight, and tourists, stopping at every settlement. Cabins available.
 
-**Boat charters and tours**: Within destination areas (particularly in south Greenland's fjords), local boat operators provide access to areas unreachable any other way.
+**Boat charters and tours**: Within destination areas (particularly in [south Greenland](/greenland/south-greenland-guide)'s fjords), local boat operators provide access to areas unreachable any other way.
 
 **Within towns**: Walking. Ilulissat and Nuuk are small enough to navigate entirely on foot.
 
@@ -105,6 +105,6 @@ A visitor prepared for genuine remoteness, extraordinary scale, Inuit cultural e
 
 **Language**: Greenlandic (Kalaallisut) is the official language. Danish is widely spoken (official until recently). English is spoken at hotels and tour operators in the main tourist areas; less so in smaller settlements.
 
-**Time zone**: West Greenland (Nuuk, Ilulissat): UTC−3 (UTC−2 in summer). East Greenland: UTC−1.
+**Time zone**: West Greenland (Nuuk, Ilulissat): UTC−3 (UTC−2 in summer). [East Greenland](/greenland/east-greenland-guide): UTC−1.
 
 **Packing**: Layering is the organizing principle. Even in July, temperatures can drop suddenly and wind increases the effective cold significantly. Waterproof outer layers are essential. Mosquitoes are surprisingly significant in inland and fjord areas in July — bring repellent.

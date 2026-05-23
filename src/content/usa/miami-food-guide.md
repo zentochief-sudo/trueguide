@@ -36,7 +36,7 @@ Cuban food is the foundation of Miami's food culture and the category that justi
 
 ## Peruvian Food
 
-Miami has the best Peruvian food outside of Peru and Lima's diaspora cities. The Peruvian community here has been established long enough to support serious restaurants, not just casual operations.
+Miami has the best Peruvian food outside of [Peru](/peru) and Lima's diaspora cities. The Peruvian community here has been established long enough to support serious restaurants, not just casual operations.
 
 **Ceviche**: The Peruvian version — raw fish cured in lime juice (leche de tigre) with red onion, cilantro, and ají amarillo — is the flagship dish. The leche de tigre (the citrus cure liquid drained from the fish) is served alongside the ceviche as a shot or soup. It has a reputation as a hangover cure that is largely accurate.
 
@@ -88,7 +88,7 @@ Miami has a significant Argentine community, particularly in Brickell and Coral 
 
 ## Seafood
 
-Miami's position at the junction of the Atlantic and the Gulf of Mexico means genuinely excellent local seafood.
+Miami's position at the junction of the Atlantic and the Gulf of [Mexico](/mexico) means genuinely excellent local seafood.
 
 **Stone crab**: Available October–May (the claws are harvested from live crabs and the crabs returned to the ocean — the season ends before the World Cup, so this is not a June–July option). Worth knowing about for early June matches near the season's end.
 

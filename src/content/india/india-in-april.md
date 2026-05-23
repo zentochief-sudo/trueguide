@@ -10,15 +10,15 @@ tags: [India, April, hill stations, Coorg, Darjeeling, Northeast India, shoulder
 city: national
 ---
 
-April is when India's geography starts doing the sorting. The Rajasthan and North India plains are already approaching 35–40°C — manageable with strategy, but not the setting for leisurely cultural exploration. The people who know India well head to the hills in April: Darjeeling for the first flush tea, Coorg for coffee estates and waterfalls, the Nilgiris for the cool Ooty plateau. Alternatively, South India's temple circuit remains accessible if visited early in the day. April rewards flexibility.
+April is when [India](/india)'s geography starts doing the sorting. The [Rajasthan](/india/rajasthan-guide) and North India plains are already approaching 35–40°C — manageable with strategy, but not the setting for leisurely cultural exploration. The people who know India well head to the hills in April: Darjeeling for the first flush tea, Coorg for coffee estates and waterfalls, the Nilgiris for the cool Ooty plateau. Alternatively, South India's temple circuit remains accessible if visited early in the day. April rewards flexibility.
 
 ## Weather & Conditions
 
-**Delhi / North India:** 22–38°C. Hot. The afternoons are genuinely challenging. Morning exploration is still viable, but the window is narrow.
+**[Delhi](/india/delhi-guide) / North India:** 22–38°C. Hot. The afternoons are genuinely challenging. Morning exploration is still viable, but the window is narrow.
 
 **Rajasthan:** 24–40°C by late April. Very hot. Not the optimal month for the desert circuit.
 
-**Kerala coast:** 28–36°C. Hot and humid. The hill stations inland are the better option.
+**[Kerala](/india/kerala-guide) coast:** 28–36°C. Hot and humid. The hill stations inland are the better option.
 
 **Coorg and Nilgiris (Karnataka/Tamil Nadu):** 18–26°C. The Western Ghats hill regions are at ideal temperature in April.
 
@@ -50,7 +50,7 @@ April is when India's geography starts doing the sorting. The Rajasthan and Nort
 
 ## Practical Tips
 
-April is the beginning of India's low season in the plains. Hotels in Delhi, Jaipur, and Agra offer their lowest rates of the year from April onward. The Taj Mahal in early April morning is far less crowded than January.
+April is the beginning of India's low season in the plains. Hotels in Delhi, [Jaipur](/india/jaipur-guide), and Agra offer their lowest rates of the year from April onward. The Taj Mahal in early April morning is far less crowded than January.
 
 Hill station accommodation fills up rapidly in April as domestic Indian travelers flee the plains heat. Coorg, Ooty, and Darjeeling require advance booking 3–4 weeks ahead on weekends.
 
@@ -58,4 +58,4 @@ The Taj Mahal in April: sunrise visits (entry from 6am) in 26–28°C are entire
 
 ## Who April Is For
 
-Experienced India travelers who know how to navigate the heat. Hill station lovers. Tea enthusiasts targeting the first flush window. Northeast India trekkers who want pre-monsoon green. And budget travelers who want India's most famous sites — Agra, Varanasi, even Delhi — without January's tourist density or price premium.
+Experienced India travelers who know how to navigate the heat. Hill station lovers. Tea enthusiasts targeting the first flush window. Northeast India trekkers who want pre-monsoon green. And budget travelers who want India's most famous sites — Agra, [Varanasi](/india/varanasi-guide), even Delhi — without January's tourist density or price premium.

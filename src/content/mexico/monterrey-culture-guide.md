@@ -10,7 +10,7 @@ tags: [Monterrey, culture, Parque Fundidora, MARCO, Barrio Antiguo, World Cup 20
 city: monterrey
 ---
 
-Monterrey's cultural identity is shaped by two forces in tension: the industrial heritage of Mexico's steel and glass capital, and the colonial Spanish history of Nuevo León. The city's most significant cultural projects — the Parque Fundidora conversion and the MARCO museum — are both responses to this tension: a steel mill turned into a park, a Macroplaza hosting a world-class contemporary art institution. Understanding this duality is understanding Monterrey.
+Monterrey's cultural identity is shaped by two forces in tension: the industrial heritage of [Mexico](/mexico)'s steel and glass capital, and the colonial Spanish history of Nuevo León. The city's most significant cultural projects — the Parque Fundidora conversion and the MARCO museum — are both responses to this tension: a steel mill turned into a park, a Macroplaza hosting a world-class contemporary art institution. Understanding this duality is understanding Monterrey.
 
 ---
 

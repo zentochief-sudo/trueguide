@@ -10,7 +10,7 @@ tags: [Nishiki Market, Kyoto, Japan, food market, tsukemono, yuba, mochi, street
 city: kyoto
 ---
 
-Nishiki Market (*Nishiki Ichiba*) has operated in the same location since the Muromachi period, with the covered arcade in its current form dating from the postwar reconstruction. The market runs east–west for approximately 400 meters, parallel to Shijo-dori, between Takakura-dori and Teramachi-dori. The arcade is narrow — two people passing each other with shopping bags requires coordination — and lined on both sides with the specialty food shops and prepared food vendors that give the market its "Kyoto's Kitchen" (*Kyoto no daidokoro*) designation.
+Nishiki Market (*Nishiki Ichiba*) has operated in the same location since the Muromachi period, with the covered arcade in its current form dating from the postwar reconstruction. The market runs east–west for approximately 400 meters, parallel to Shijo-dori, between Takakura-dori and Teramachi-dori. The arcade is narrow — two people passing each other with shopping bags requires coordination — and lined on both sides with the specialty food shops and prepared food vendors that give the market its "[Kyoto](/japan/kyoto-guide)'s Kitchen" (*Kyoto no daidokoro*) designation.
 
 ---
 

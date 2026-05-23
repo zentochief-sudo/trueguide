@@ -10,7 +10,7 @@ tags: [Greenland, June, midnight sun, National Day, Ilulissat, icebergs, Nuuk, h
 city: national
 ---
 
-June is Greenland at its most dramatic. The midnight sun arrives for the summer solstice — above the Arctic Circle, the sun circles the sky without setting. In Ilulissat (69°N), the midnight sun runs from late May through mid-July. The Ilulissat Icefjord reaches peak iceberg volume, with the largest icebergs of the year moving through Disko Bay. Greenland's National Day on June 21 (Ulloriarsuaq, "the great day") fills Nuuk with celebrations, traditional dress, and community events. June is when Greenland is fully open, at its most visually extraordinary, and still below the July tourist peak.
+June is [Greenland](/greenland) at its most dramatic. The midnight sun arrives for the summer solstice — above the Arctic Circle, the sun circles the sky without setting. In Ilulissat (69°N), the midnight sun runs from late May through mid-July. The [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) reaches peak iceberg volume, with the largest icebergs of the year moving through Disko Bay. Greenland's National Day on June 21 (Ulloriarsuaq, "the great day") fills [Nuuk](/greenland/nuuk-travel-guide) with celebrations, traditional dress, and community events. June is when Greenland is fully open, at its most visually extraordinary, and still below the July tourist peak.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ June is Greenland at its most dramatic. The midnight sun arrives for the summer 
 
 **Nuuk:** 6 to 12°C. Long days. National Day celebrations.
 
-**Sisimiut:** 5 to 10°C. Arctic Circle Trail in prime condition.
+**[Sisimiut](/greenland/sisimiut-guide):** 5 to 10°C. Arctic Circle Trail in prime condition.
 
-**South Greenland:** 8 to 15°C. Warmest in Greenland. Sheep grazing in full swing.
+**[South Greenland](/greenland/south-greenland-guide):** 8 to 15°C. Warmest in Greenland. Sheep grazing in full swing.
 
-**East Greenland (Tasiilaq):** 4 to 8°C. Sea ice still present in some fjords.
+**[East Greenland](/greenland/east-greenland-guide) (Tasiilaq):** 4 to 8°C. Sea ice still present in some fjords.
 
 ## What to Do
 

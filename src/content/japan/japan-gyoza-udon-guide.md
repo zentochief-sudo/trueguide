@@ -42,13 +42,13 @@ Crispy all over, rather than flat-bottomed. A snack format, often served with be
 
 ### Regional Gyoza Capitals
 
-**Utsunomiya (宇都宮)** — *Tochigi Prefecture, north of Tokyo*
+**Utsunomiya (宇都宮)** — *Tochigi Prefecture, north of [Tokyo](/japan/tokyo-guide)*
 
 The self-proclaimed gyoza capital of Japan, with more gyoza restaurants per capita than anywhere else in the country. The Utsunomiya style uses garlic-forward filling with a balance of pork and cabbage; the specific character is attributed to the city's postwar Manchuria returnee community.
 
 The central gyoza town square (*Gyoza Dori*) near Utsunomiya Station has the highest concentration of specialist gyoza-ya. The most famous addresses: *Masashi* (open since the 1940s) and *Minmin* (the most-visited chain).
 
-**Hamamatsu (浜松)** — *Shizuoka Prefecture, midway between Tokyo and Osaka*
+**Hamamatsu (浜松)** — *Shizuoka Prefecture, midway between Tokyo and [Osaka](/japan/osaka-guide)*
 
 The rival to Utsunomiya — Hamamatsu-style gyoza uses a round arrangement on the plate (circular formation, not a row), with a mound of moyashi (bean sprouts) in the center, and a slightly different filling ratio emphasizing cabbage over garlic. The Hamamatsu vs. Utsunomiya debate about which city is Japan's true gyoza capital is taken seriously.
 
@@ -111,7 +111,7 @@ Japan's most celebrated udon tradition. Kagawa Prefecture (historically Sanuki P
 
 Udon topped with a *kakiage* (mixed vegetable and seafood tempura disc) placed over the broth. The tempura slowly dissolves as it soaks, making the broth progressively richer.
 
-**きしめん (Kishimen)** — *Nagoya area, Aichi Prefecture*
+**きしめん (Kishimen)** — *[Nagoya](/japan/nagoya-guide) area, Aichi Prefecture*
 
 Flat, ribbon-shaped udon noodles — wider and flatter than cylindrical udon, with a more slippery texture. A Nagoya specialty that doesn't travel far but is considered a distinct noodle type in its own right. Available at stands within Nagoya Station.
 
@@ -123,4 +123,4 @@ Flat, ribbon-shaped udon noodles — wider and flatter than cylindrical udon, wi
 
 **Noise**: Slurping udon is standard and culturally appropriate — the sound indicates appreciation and cools the noodle as it enters the mouth.
 
-**Standing bars**: In Osaka, Kyoto, and Tokyo, *tachi-gui* (standing noodle bars) serve udon at counters for ¥350–600 per bowl — the quickest and most authentic everyday udon experience, often at train station platforms.
+**Standing bars**: In Osaka, [Kyoto](/japan/kyoto-guide), and Tokyo, *tachi-gui* (standing noodle bars) serve udon at counters for ¥350–600 per bowl — the quickest and most authentic everyday udon experience, often at train station platforms.

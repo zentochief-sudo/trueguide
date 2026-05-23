@@ -10,7 +10,7 @@ tags: [Paris, France, food, bistro, boulangerie, wine, markets, French cuisine, 
 city: paris
 ---
 
-Eating in Paris is less about finding a great restaurant and more about understanding the system. The French meal is structured, the service has its own pace, and the gap between a good bistro and a tourist trap is navigable once you know what to look for. The indicators: a handwritten menu (*ardoise*), a small number of choices (3 starters, 3 mains, 3 desserts), no photographs on the menu, and a proprietor who seems mildly annoyed that you're there.
+Eating in [Paris](/france/paris-travel-guide) is less about finding a great restaurant and more about understanding the system. The French meal is structured, the service has its own pace, and the gap between a good bistro and a tourist trap is navigable once you know what to look for. The indicators: a handwritten menu (*ardoise*), a small number of choices (3 starters, 3 mains, 3 desserts), no photographs on the menu, and a proprietor who seems mildly annoyed that you're there.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Kazakhstan, December, Shymbulak, skiing, Independence Day, winter, Almaty
 city: national
 ---
 
-December is Kazakhstan's winter beginning. Shymbulak — the ski resort in the Tian Shan above Almaty at 2,260m — opens for the ski season, typically by mid-December. Independence Day on December 16 marks the 1991 declaration of independence from the Soviet Union and is Kazakhstan's most significant national celebration. Astana settles into its winter regime: -20°C, fur hats, steam rising from manholes, and the bizarre spectacle of the city's futurist architecture against a white steppe horizon. For the right traveler, December in Kazakhstan is extraordinary.
+December is [Kazakhstan](/kazakhstan)'s winter beginning. Shymbulak — the ski resort in the Tian Shan above [Almaty](/kazakhstan/almaty-travel-guide) at 2,260m — opens for the ski season, typically by mid-December. Independence Day on December 16 marks the 1991 declaration of independence from the Soviet Union and is Kazakhstan's most significant national celebration. [Astana](/kazakhstan/astana-guide) settles into its winter regime: -20°C, fur hats, steam rising from manholes, and the bizarre spectacle of the city's futurist architecture against a white steppe horizon. For the right traveler, December in Kazakhstan is extraordinary.
 
 ## Weather & Conditions
 
@@ -20,7 +20,7 @@ December is Kazakhstan's winter beginning. Shymbulak — the ski resort in the T
 
 **Astana:** -12 to -25°C. Extreme cold. Full winter gear mandatory.
 
-**Charyn Canyon:** -2 to 8°C. Cold and empty. Accessible in daylight hours.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** -2 to 8°C. Cold and empty. Accessible in daylight hours.
 
 **Steppe:** -10 to -25°C. Frozen. Not a place for visitors.
 

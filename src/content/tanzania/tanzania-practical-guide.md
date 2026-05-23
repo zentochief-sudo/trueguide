@@ -10,7 +10,7 @@ tags: [Tanzania, practical, visa, malaria, safari, costs, Serengeti, Kilimanjaro
 city: arusha
 ---
 
-Tanzania is a straightforward destination logistically for most international travelers — a functioning e-visa system, good airport infrastructure at Kilimanjaro and Dar es Salaam, a well-established safari industry, and the Zanzibar archipelago accessible by a 20-minute flight from the mainland. The main practical considerations are health (malaria prophylaxis and yellow fever requirements), the seasonal variation that dramatically affects the Serengeti wildlife experience, and the significant cost range between budget camping safaris and luxury lodge experiences.
+[Tanzania](/tanzania) is a straightforward destination logistically for most international travelers — a functioning e-visa system, good airport infrastructure at [Kilimanjaro](/tanzania/kilimanjaro-guide) and [Dar es Salaam](/tanzania/dar-es-salaam-guide), a well-established safari industry, and the [Zanzibar](/tanzania/zanzibar-guide) archipelago accessible by a 20-minute flight from the mainland. The main practical considerations are health (malaria prophylaxis and yellow fever requirements), the seasonal variation that dramatically affects the Serengeti wildlife experience, and the significant cost range between budget camping safaris and luxury lodge experiences.
 
 ---
 
@@ -106,7 +106,7 @@ More affordable than mainland Tanzania:
 - Kilimanjaro (JRO) ↔ Zanzibar (ZNZ): 1 hour, $100–150
 - Dar es Salaam (DAR) ↔ Zanzibar (ZNZ): 20 minutes, $60–100
 - Dar es Salaam ↔ Kilimanjaro: 1.5 hours
-- Arusha (ARK, small airport) ↔ Serengeti (various airstrips): 45–90 minutes
+- [Arusha](/tanzania/arusha-guide) (ARK, small airport) ↔ Serengeti (various airstrips): 45–90 minutes
 
 **Precision Air, Coastal Aviation, Air Tanzania**: The main domestic carriers.
 
@@ -132,7 +132,7 @@ More affordable than mainland Tanzania:
 
 **The classic 2-week itinerary**:
 - Days 1–2: Arrive Kilimanjaro (JRO), settle in Arusha
-- Days 3–7: Northern circuit safari (Serengeti, Ngorongoro, Tarangire or Manyara)
+- Days 3–7: Northern circuit safari (Serengeti, [Ngorongoro](/tanzania/ngorongoro-guide), [Tarangire](/tanzania/tarangire-guide) or Manyara)
 - Days 8–11: Kilimanjaro climb (if included — requires separate planning and more days)
 - Days 12–15: Zanzibar (Stone Town + beach)
 - Fly home from Zanzibar (ZNZ)

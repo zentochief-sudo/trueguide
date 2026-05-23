@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-The Golden Triangle — Delhi, Agra, Jaipur — is India's most accessible introduction to the country's staggering depth of history, culture, and sensation. Seven days gives you time to absorb each city without rushing, and the distances are manageable by road or train.
+The Golden Triangle — [Delhi](/india/delhi-guide), Agra, [Jaipur](/[india](/india)/jaipur-guide) — is India's most accessible introduction to the country's staggering depth of history, culture, and sensation. Seven days gives you time to absorb each city without rushing, and the distances are manageable by road or train.
 
 ## Day 1 – Delhi: Old City
 
@@ -52,7 +52,7 @@ Drive west toward Jaipur (4 hours). Stop at **Abhaneri stepwell (Chand Baori)** 
 
 ## Day 5 – Jaipur: The Pink City
 
-Arrive in **Jaipur** — the capital of Rajasthan, known as the Pink City because all the old city buildings are painted terracotta pink. It's one of India's most planned and visually coherent old cities.
+Arrive in **Jaipur** — the capital of [Rajasthan](/india/rajasthan-guide), known as the Pink City because all the old city buildings are painted terracotta pink. It's one of India's most planned and visually coherent old cities.
 
 **Hawa Mahal** (Palace of Winds) — a five-storey honey-combed sandstone facade designed to allow royal women to observe street life without being seen. One of India's most photographed buildings.
 

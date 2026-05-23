@@ -10,7 +10,7 @@ tags: [Almaty, Kazakhstan, Tian Shan, Shymbulak, Big Almaty Lake, Medeu, Charyn 
 city: almaty
 ---
 
-Almaty sits in the foothills of the Zailiysky Alatau — the northern range of the Tian Shan system — and the mountains begin immediately at the city's southern boundary. From the central boulevard of Almaty (Prospekt Dostyk), you can see 4,000m peaks clearly on any day the smog cooperates. Within 30 minutes by car, you're at 2,000m elevation. Within 2 hours, at the edge of true alpine wilderness.
+[Almaty](/kazakhstan/almaty-travel-guide) sits in the foothills of the Zailiysky Alatau — the northern range of the Tian Shan system — and the mountains begin immediately at the city's southern boundary. From the central boulevard of Almaty (Prospekt Dostyk), you can see 4,000m peaks clearly on any day the smog cooperates. Within 30 minutes by car, you're at 2,000m elevation. Within 2 hours, at the edge of true alpine wilderness.
 
 This proximity of a 2-million-person city to serious mountain terrain is the defining characteristic of Almaty as a destination — it's a sophisticated Central Asian metropolis with glacier access before breakfast.
 
@@ -66,7 +66,7 @@ A canyon system on the Charyn River that cuts 150–300m into the Kazakh steppe 
 
 ## Hiking Near Almaty
 
-**The Tian Shan Astronomical Observatory Trail**: From the Big Almaty Lake dam gate, a marked trail climbs 600m to the observatory ridge (2,800m). 3–4 hours round trip. The trail is popular on weekends; weekday visits are quieter.
+**The Tian Shan Astronomical Observatory Trail**: From the [Big Almaty Lake](/[kazakhstan](/kazakhstan)/big-almaty-lake-guide) dam gate, a marked trail climbs 600m to the observatory ridge (2,800m). 3–4 hours round trip. The trail is popular on weekends; weekday visits are quieter.
 
 **Kumbel Pass Trek**: A multi-day route from Medeu through the mountain villages of the Talgar gorge to the Kumbel Pass (3,800m) and back via an alternative valley. 3–4 days, guesthouses and yurt camps available along the route.
 

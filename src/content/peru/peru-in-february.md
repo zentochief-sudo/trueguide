@@ -10,19 +10,19 @@ tags: [Peru, February, Candelaria, Puno, Amazon, rainy season, Inca Trail closed
 city: national
 ---
 
-February is Peru's most dramatic month for a specific reason: the Fiesta de la Candelaria in Puno. The most elaborate festival in South America fills Lake Titicaca's lakeside city with 200+ dance groups, extraordinary costumes, and ten days of celebration that make Carnaval in Brazil look understated by comparison. For the highlands and Machu Picchu, February is the wettest month of the year — and the Inca Trail is closed entirely. The choice is clear: go to Puno, or wait until May.
+February is [Peru](/peru)'s most dramatic month for a specific reason: the Fiesta de la Candelaria in Puno. The most elaborate festival in South America fills [Lake Titicaca](/peru/lake-titicaca-guide)'s lakeside city with 200+ dance groups, extraordinary costumes, and ten days of celebration that make Carnaval in Brazil look understated by comparison. For the highlands and [Machu Picchu](/peru/machu-picchu-guide), February is the wettest month of the year — and the Inca Trail is closed entirely. The choice is clear: go to Puno, or wait until May.
 
 ## Weather & Conditions
 
 **Puno (Lake Titicaca):** 8–17°C. Rain is frequent — February is Puno's wettest month. But the festival runs regardless.
 
-**Cusco and the Sacred Valley:** 11–20°C. Wettest month. Morning clearing is possible but rain is the dominant pattern.
+**[Cusco](/peru/cusco-guide) and the [Sacred Valley](/peru/sacred-valley-guide):** 11–20°C. Wettest month. Morning clearing is possible but rain is the dominant pattern.
 
 **Machu Picchu:** 15–22°C, heavy rain and persistent cloud. Still visitable but the Inca Trail closure means access is by train only.
 
-**Lima:** 18–24°C. Overcast coast, functional city.
+**[Lima](/peru/lima-guide):** 18–24°C. Overcast coast, functional city.
 
-**Amazon:** 28–34°C, full flood season. Pink dolphins visible in flooded forests.
+**[Amazon](/peru/amazon-guide):** 28–34°C, full flood season. Pink dolphins visible in flooded forests.
 
 ## What to Do
 
@@ -32,7 +32,7 @@ February is Peru's most dramatic month for a specific reason: the Fiesta de la C
 
 **Amazon Pacaya-Samiria (Iquitos):** February is the deep flood season — boats navigate at canopy level through the Pacaya-Samiria. Piranha fishing from small motorized boats, night caiman spotting by headlamp, and giant lily pads (Victoria amazonica) at maximum size. Stays at floating lodges in the floodplain are available from Iquitos.
 
-**Colca Canyon (Arequipa region):** The Colca Canyon — twice the depth of the Grand Canyon — is accessible from Arequipa year-round. February brings green canyon walls from rain. The condor watching at Cruz del Condor viewpoint is the main event — condors rise on morning thermals and are visible daily in good weather.
+**[Colca Canyon](/peru/colca-canyon-guide) (Arequipa region):** The Colca Canyon — twice the depth of the Grand Canyon — is accessible from Arequipa year-round. February brings green canyon walls from rain. The condor watching at Cruz del Condor viewpoint is the main event — condors rise on morning thermals and are visible daily in good weather.
 
 **Arequipa itself:** The "White City" — built from white volcanic sillar stone — is one of Peru's finest colonial cities. The Santa Catalina Monastery (a city within a city, 3 hectares of 16th-century religious architecture) and the central market are excellent in any weather.
 

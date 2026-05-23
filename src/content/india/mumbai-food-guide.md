@@ -10,7 +10,7 @@ tags: [Mumbai, India, food, vada pav, Parsi, Irani café, street food, chaat, se
 city: mumbai
 ---
 
-Mumbai's food culture reflects its history as a port city built on trade, migration, and ambition — Parsi Zoroastrians from Persia, Gujarati Jain merchants, Goan Catholics, Baghdadi Jews, and the Koli fishing communities who were here before all of them. Each community brought a distinct culinary tradition; the city layered them without homogenizing them. The result is a food landscape with more distinct culinary identities per square kilometer than almost any other city.
+[Mumbai](/[india](/india)/mumbai-guide)'s food culture reflects its history as a port city built on trade, migration, and ambition — Parsi Zoroastrians from Persia, Gujarati Jain merchants, Goan Catholics, Baghdadi Jews, and the Koli fishing communities who were here before all of them. Each community brought a distinct culinary tradition; the city layered them without homogenizing them. The result is a food landscape with more distinct culinary identities per square kilometer than almost any other city.
 
 ---
 

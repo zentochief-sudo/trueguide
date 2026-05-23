@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Ireland gives you the space to slow down, go deeper, and discover the places most visitors miss. This itinerary takes you from Dublin through the southeast, down to Kerry, up the Wild Atlantic Way, across Connemara, and into the dramatic landscapes of the north — a full loop of the island's greatest hits with room to breathe.
+Two weeks in [Ireland](/ireland) gives you the space to slow down, go deeper, and discover the places most visitors miss. This itinerary takes you from [Dublin](/ireland/dublin-travel-guide) through the southeast, down to Kerry, up the [Wild Atlantic Way](/ireland/wild-atlantic-way-guide), across Connemara, and into the dramatic landscapes of the north — a full loop of the island's greatest hits with room to breathe.
 
 ## Days 1–2 – Dublin
 
@@ -26,7 +26,7 @@ Drive south into the Wicklow Mountains for the day. Visit Powerscourt Estate (ma
 
 Head to **Kilkenny** — Ireland's best-preserved medieval city. Spend the morning at the castle, walk the Medieval Mile, and stop at St Canice's Cathedral. In the afternoon, drive to **Wexford** and explore the Irish National Heritage Park at Ferrycarrig, which reconstructs 9,000 years of Irish history.
 
-Day five, visit the **Hook Peninsula** — home to Hook Lighthouse, one of the oldest operational lighthouses in the world — then drive southwest toward Cork.
+Day five, visit the **Hook Peninsula** — home to Hook Lighthouse, one of the oldest operational lighthouses in the world — then drive southwest toward [Cork](/ireland/cork-guide).
 
 ## Day 6 – Cork & Blarney
 
@@ -36,7 +36,7 @@ Afternoon: drive to **Blarney Castle** to kiss the famous stone (if you don't mi
 
 ## Day 7 – Ring of Kerry
 
-Drive west to **Killarney** and tackle the **Ring of Kerry** — the 179km coastal circuit with views over Skellig Michael (inspiration for the Star Wars island), mountain passes, and colourful village stops. Allow the full day for the drive with proper stops.
+Drive west to **[Killarney](/ireland/killarney-travel-guide)** and tackle the **[Ring of Kerry](/ireland/ring-of-kerry-guide)** — the 179km coastal circuit with views over Skellig Michael (inspiration for the Star Wars island), mountain passes, and colourful village stops. Allow the full day for the drive with proper stops.
 
 ## Day 8 – Dingle Peninsula
 
@@ -48,7 +48,7 @@ Drive north through County Limerick (stop at the **King John's Castle** in Limer
 
 ## Days 10–11 – Galway & Connemara
 
-**Galway** is one of Ireland's most vibrant cities — compact, colourful, and full of music. Spend an evening on Shop Street and in the Latin Quarter.
+**[Galway](/ireland/galway-guide)** is one of Ireland's most vibrant cities — compact, colourful, and full of music. Spend an evening on Shop Street and in the Latin Quarter.
 
 Day eleven, drive into **Connemara**: vast boglands, the Twelve Bens mountain range, and glacial loughs reflecting grey skies. Visit **Kylemore Abbey**, beautifully set against a lake and mountain. Continue to **Clifden**, the "Capital of Connemara," for the night.
 

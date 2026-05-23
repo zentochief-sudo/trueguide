@@ -10,7 +10,7 @@ tags: [Osaka, Shinsekai, Tennoji, Japan, kushikatsu, showa, Tsutenkaku, Billiken
 city: osaka
 ---
 
-Shinsekai was designed in 1912 as a vision of a modern future. The northern half was modelled on Paris, the southern half on Coney Island. By the mid-twentieth century, the Coney Island half had outlasted its ambitions and become something much more interesting: a dense, low-rent neighborhood of kushikatsu restaurants, fugu (blowfish) shops, mahjong parlors, and old men playing shogi in front of vending machines. It is now one of the most authentic neighborhoods in Osaka — if by authentic you mean genuinely inhabited by people with no interest in performing their city for tourists.
+Shinsekai was designed in 1912 as a vision of a modern future. The northern half was modelled on Paris, the southern half on Coney Island. By the mid-twentieth century, the Coney Island half had outlasted its ambitions and become something much more interesting: a dense, low-rent neighborhood of kushikatsu restaurants, fugu (blowfish) shops, mahjong parlors, and old men playing shogi in front of vending machines. It is now one of the most authentic neighborhoods in [Osaka](/japan/osaka-guide) — if by authentic you mean genuinely inhabited by people with no interest in performing their city for tourists.
 
 The tower at the center, **Tsutenkaku**, was rebuilt in 1956 and still serves as the area's symbol. It's 103 meters tall, deliberately retro in design, and has an observation deck that gives you a view over the low-rise density of south Osaka.
 
@@ -48,9 +48,9 @@ A 5-minute walk southeast from Shinsekai leads to Tennoji, which contains:
 
 **Tennoji Zoo** — One of Japan's oldest zoos, opened 1915. Unfashionable, slightly shabby, genuinely charming in the way that old institutions are. Not world-class by modern standards; worth an hour if you have children or an affection for the anachronistic.
 
-**Tennoji Park** — The green space connecting the zoo to **Osaka City Museum of Fine Arts**, which holds an important collection of Japanese and East Asian art spanning premodern to modern. The permanent collection includes lacquerware, ceramics, and ink painting. Less visited than the national museums in Tokyo or Kyoto, which means you can actually stand in front of works without crowds.
+**Tennoji Park** — The green space connecting the zoo to **Osaka City Museum of Fine Arts**, which holds an important collection of Japanese and East Asian art spanning premodern to modern. The permanent collection includes lacquerware, ceramics, and ink painting. Less visited than the national museums in [Tokyo](/japan/tokyo-guide) or [Kyoto](/japan/kyoto-guide), which means you can actually stand in front of works without crowds.
 
-**Abeno Harukas** — The 300-meter skyscraper that towers over the Tennoji end of the district contains the **Harukas 300** observation deck — the highest in Japan. The view on a clear day reaches Kyoto, Kobe, and in ideal conditions, Awaji Island.
+**Abeno Harukas** — The 300-meter skyscraper that towers over the Tennoji end of the district contains the **Harukas 300** observation deck — the highest in Japan. The view on a clear day reaches Kyoto, [Kobe](/japan/kobe-guide), and in ideal conditions, Awaji Island.
 
 ---
 

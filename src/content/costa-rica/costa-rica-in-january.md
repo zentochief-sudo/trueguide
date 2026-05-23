@@ -10,13 +10,13 @@ tags: [Costa Rica, January, dry season, Guanacaste, beaches, Pacific, Arenal, wi
 city: national
 ---
 
-January is Costa Rica's finest month and, as a result, its most crowded. The dry season is in full operation across the Pacific side — Guanacaste's beaches are sunny every day, the roads are dry, and wildlife is beginning to concentrate around water sources as the vegetation dries out. Arenal Volcano has clear mornings before the afternoon cloud cover. The Osa Peninsula and Caribbean coast have their own weather patterns (the Caribbean gets some rain year-round), but the Pacific is reliably excellent. January is when Costa Rica delivers the experience it's sold for.
+January is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s finest month and, as a result, its most crowded. The dry season is in full operation across the Pacific side — Guanacaste's beaches are sunny every day, the roads are dry, and wildlife is beginning to concentrate around water sources as the vegetation dries out. [Arenal](/costa-rica/arenal-guide) Volcano has clear mornings before the afternoon cloud cover. The [Osa Peninsula](/costa-rica/osa-peninsula-guide) and Caribbean coast have their own weather patterns (the Caribbean gets some rain year-round), but the Pacific is reliably excellent. January is when Costa Rica delivers the experience it's sold for.
 
 ## Weather & Conditions
 
 **Guanacaste (northwest Pacific):** 25–35°C. Dry and sunny. Zero rain expected.
 
-**Manuel Antonio / Central Pacific:** 25–32°C. Mostly dry. Occasional brief showers.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide) / Central Pacific:** 25–32°C. Mostly dry. Occasional brief showers.
 
 **Arenal:** 22–28°C. Clear mornings. Afternoon cloud and sometimes rain.
 
@@ -30,7 +30,7 @@ January is Costa Rica's finest month and, as a result, its most crowded. The dry
 
 **Arenal Volcano and hot springs:** Arenal last erupted visibly in 2010; the lava activity has subsided but the volcanic heat remains. The hot springs around La Fortuna — Tabacón (the most commercial, with a full resort), Baldi (good value), and the free public springs downstream — are operational year-round. January mornings are the best time for volcano views before cloud builds by noon.
 
-**Monteverde cloud forest:** January is one of the better months for Monteverde despite its year-round cloud. The iconic suspension bridges and canopy walkways of Monteverde Cloud Forest Reserve are accessible, and the dry season means less mud on the trails. Quetzal sightings (the resplendent quetzal is present year-round but more visible March–April during nesting) are possible in January. The Monteverde Cheese Factory, operating since 1953 when Quaker settlers established dairy farming in the cloud forest, is worth a stop.
+**[Monteverde](/costa-rica/monteverde-guide) cloud forest:** January is one of the better months for Monteverde despite its year-round cloud. The iconic suspension bridges and canopy walkways of Monteverde Cloud Forest Reserve are accessible, and the dry season means less mud on the trails. Quetzal sightings (the resplendent quetzal is present year-round but more visible March–April during nesting) are possible in January. The Monteverde Cheese Factory, operating since 1953 when Quaker settlers established dairy farming in the cloud forest, is worth a stop.
 
 **Wildlife viewing, Corcovado National Park:** January is a prime month for Corcovado — the most biodiverse national park in Costa Rica, home to all four monkey species, tapirs, pumas, and scarlet macaws. The dry conditions make trails more manageable. The park requires advance booking for rangers; access is through Las Corcovado, San Pedrillo, or La Leona stations. Overnight stays inside the park give the best wildlife odds.
 

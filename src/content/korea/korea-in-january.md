@@ -10,7 +10,7 @@ tags: [South Korea, January, winter, skiing, ice festival, Seoul, travel tips]
 city: national
 ---
 
-January in Korea is the deep freeze — temperatures well below zero in Seoul, ice on everything, and a country that has built an entire culture around embracing winter rather than hiding from it. If you come prepared, it's one of the most rewarding months to visit.
+January in Korea is the deep freeze — temperatures well below zero in [Seoul](/south-korea/seoul-guide), ice on everything, and a country that has built an entire culture around embracing winter rather than hiding from it. If you come prepared, it's one of the most rewarding months to visit.
 
 ## Weather in January
 

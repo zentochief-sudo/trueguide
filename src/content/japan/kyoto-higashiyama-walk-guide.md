@@ -10,7 +10,7 @@ tags: [Higashiyama, Kyoto, Japan, Sannenzaka, Ninenzaka, Kiyomizudera, machiya, 
 city: kyoto
 ---
 
-Higashiyama (*Eastern Mountains*) is the generic name for the foothills district along Kyoto's eastern edge — specifically, for the preserved historic commercial streets that run between the Gion district in the south and Kiyomizudera in the north. The district was designated a traditional landscape preservation area in 1979, and the restrictions on new construction have kept the low-rise wooden machiya character largely intact.
+Higashiyama (*Eastern Mountains*) is the generic name for the foothills district along [Kyoto](/japan/kyoto-guide)'s eastern edge — specifically, for the preserved historic commercial streets that run between the Gion district in the south and Kiyomizudera in the north. The district was designated a traditional landscape preservation area in 1979, and the restrictions on new construction have kept the low-rise wooden machiya character largely intact.
 
 The preservation is imperfect — some buildings are reconstructions, some have modern interiors behind traditional facades, and the tourist pressure is high enough that the commercial character has shifted significantly from neighborhood shops to tourist-focused retail. But the physical streetscape — the scale, the materials, the stone paving, the pine and maple trees visible above the rooflines — is the most complete remaining example of Edo-period commercial Kyoto outside of carefully managed temple interiors.
 

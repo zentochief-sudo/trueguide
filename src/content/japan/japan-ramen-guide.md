@@ -10,15 +10,15 @@ tags: [ramen, Japan, food, Sapporo, Hakata, Tokyo, Kyoto, tonkotsu, shoyu, miso,
 city: national
 ---
 
-Ramen arrived in Japan from China in the late 19th century — the Chinese noodle soup (*lamian*) adapted through Japanese ingredients, regional preferences, and post-WWII protein needs into a dish that became one of the defining foods of 20th-century Japanese culture. The word "ramen" covers an enormous range: from the instant noodles that fed a generation to the 18-hour tonkotsu broths of Fukuoka to the delicate shio bowls of Hakodate. Understanding the categories is the starting point.
+Ramen arrived in Japan from China in the late 19th century — the Chinese noodle soup (*lamian*) adapted through Japanese ingredients, regional preferences, and post-WWII protein needs into a dish that became one of the defining foods of 20th-century Japanese culture. The word "ramen" covers an enormous range: from the instant noodles that fed a generation to the 18-hour tonkotsu broths of [Fukuoka](/japan/fukuoka-guide) to the delicate shio bowls of Hakodate. Understanding the categories is the starting point.
 
 ---
 
 ## The Four Classic Soup Bases
 
-**Shoyu (Soy Sauce)**: The original Tokyo ramen — a clear brown broth made from chicken or dashi with a soy sauce tare (seasoning concentrate). The flavor is savory and slightly sweet; the broth is typically lighter than tonkotsu but more complex than shio. Classic toppings: *chashu* (braised pork), *menma* (fermented bamboo shoots), *nori* (dried seaweed), a soft-boiled egg (*ajitsuke tamago*).
+**Shoyu (Soy Sauce)**: The original [Tokyo](/japan/tokyo-guide) ramen — a clear brown broth made from chicken or dashi with a soy sauce tare (seasoning concentrate). The flavor is savory and slightly sweet; the broth is typically lighter than tonkotsu but more complex than shio. Classic toppings: *chashu* (braised pork), *menma* (fermented bamboo shoots), *nori* (dried seaweed), a soft-boiled egg (*ajitsuke tamago*).
 
-**Miso**: Originating in Sapporo (Hokkaido), miso ramen uses a pork or chicken broth seasoned with fermented soybean paste. The flavor is rich and slightly funky; the broth is opaque. The Sapporo style includes corn, butter, and sometimes bean sprouts — ingredients designed for the northern climate and caloric density needs. Miso ramen paired with a pat of butter melting in the hot broth is the defining Hokkaido food image.
+**Miso**: Originating in [Sapporo](/japan/sapporo-guide) ([Hokkaido](/japan/hokkaido-guide)), miso ramen uses a pork or chicken broth seasoned with fermented soybean paste. The flavor is rich and slightly funky; the broth is opaque. The Sapporo style includes corn, butter, and sometimes bean sprouts — ingredients designed for the northern climate and caloric density needs. Miso ramen paired with a pat of butter melting in the hot broth is the defining Hokkaido food image.
 
 **Tonkotsu (Pork Bone)**: From Hakata (Fukuoka) and southern Kyushu. The broth is made by boiling pork bones at high heat for 12–18 hours until the marrow and collagen emulsify into a milky white, intensely flavored broth. The noodles are thin, firm, and straight; the toppings are simple — chashu, *kiku-nori* (thin-sliced wood ear mushroom), sesame seeds, and red pickled ginger (*beni shoga*). The texture is simultaneously fatty and clean.
 
@@ -41,7 +41,7 @@ Tonkotsu at its most concentrated and most iconic. The Hakata ramen culture incl
 Shoyu ramen in several substyles: the classic chicken-soy clear broth of the traditional *yatai* (food cart) era; the newer "double soup" style combining chicken and seafood dashi with soy; and the *niboshi* (dried sardine) shoyu that is currently the most discussed Tokyo style among ramen enthusiasts. The bowl shops in Shimokitazawa and Shinjuku's east exit represent the full range.
 
 ### Kyoto
-Kyoto ramen has a specific character: thick, rich shoyu broth with a large amount of white chicken fat (*seabura*) floating on the surface. The oil slick keeps the broth hot and adds a richness that contrasts with the elegant minimalism of Kyoto cuisine. Kyoto ramen is assertive in a city where most food is the opposite.
+[Kyoto](/japan/kyoto-guide) ramen has a specific character: thick, rich shoyu broth with a large amount of white chicken fat (*seabura*) floating on the surface. The oil slick keeps the broth hot and adds a richness that contrasts with the elegant minimalism of Kyoto cuisine. Kyoto ramen is assertive in a city where most food is the opposite.
 
 ### Wakayama
 A shoyu-tonkotsu hybrid (combining pork bone broth with soy seasoning) that has its own regional identity. Thick, dark, and powerful. Often served with a rice ball on the side.

@@ -10,7 +10,7 @@ tags: [New York City, subway, transport, MetLife Stadium, World Cup 2026, gettin
 city: nyc
 ---
 
-New York City has the most comprehensive public transit system in North America. The subway runs 24 hours, the bus network covers every neighborhood, and the ferry system offers scenic alternatives along the waterfront. For World Cup visitors, two transit systems matter most: the NYC Subway for moving around the five boroughs, and NJ Transit for reaching MetLife Stadium in New Jersey.
+New York City has the most comprehensive public transit system in North America. The subway runs 24 hours, the bus network covers every neighborhood, and the ferry system offers scenic alternatives along the waterfront. For World Cup visitors, two transit systems matter most: the NYC Subway for moving around the five boroughs, and NJ Transit for reaching [MetLife Stadium](/united-states/metlife-stadium-guide) in New Jersey.
 
 Understanding how they work — and where they fail — will save you significant time and money.
 
@@ -32,7 +32,7 @@ Alternatively, buy a **MetroCard** at any station vending machine. A 7-day unlim
 |------|-------|-------------|
 | 1/2/3 | Red | Penn Station (34th), Times Square, 14th St, Chambers St |
 | A/C/E | Blue | JFK (A train), Penn Station, Times Square, World Trade Center |
-| N/Q/R/W | Yellow | Times Square, Rockefeller Ctr, 14th St Union Sq, Atlantic Ave Brooklyn |
+| N/Q/R/W | Yellow | Times Square, Rockefeller Ctr, 14th St Union Sq, Atlantic Ave [Brooklyn](/united-states/brooklyn-guide) |
 | 4/5/6 | Green | Grand Central, Union Square, Brooklyn Bridge, Bronx |
 | L | Grey | Williamsburg (Bedford Ave) to Union Square (14th St) |
 | 7 | Purple | Queens (Flushing, Jackson Heights) to Times Square |

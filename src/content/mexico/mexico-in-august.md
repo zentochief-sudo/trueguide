@@ -10,7 +10,7 @@ tags: [Mexico, August, rainy season, Cancún, Puerto Vallarta, Oaxaca, summer tr
 city: national
 ---
 
-August is Mexico's dual-personality month. The Caribbean coast — especially Cancún — fills with US and Canadian families on summer vacation, driving prices up despite the hurricane risk and daily rain. Meanwhile, Pacific resorts, highland cities, and Oaxaca offer green-season pricing with morning sunshine and afternoon rain. Knowing which Mexico you're visiting determines whether August is expensive and crowded or exceptional value.
+August is [Mexico](/mexico)'s dual-personality month. The Caribbean coast — especially Cancún — fills with US and Canadian families on summer vacation, driving prices up despite the hurricane risk and daily rain. Meanwhile, Pacific resorts, highland cities, and Oaxaca offer green-season pricing with morning sunshine and afternoon rain. Knowing which Mexico you're visiting determines whether August is expensive and crowded or exceptional value.
 
 ## Weather in August
 
@@ -26,7 +26,7 @@ August is Mexico's dual-personality month. The Caribbean coast — especially Ca
 
 ## The Caribbean Cancún Equation
 
-Cancún in August is peak season for North American families. School hasn't started yet in the US and Canada; beach resorts are at maximum capacity. The result:
+Cancún in August is peak season for North American families. School hasn't started yet in the US and [Canada](/canada); beach resorts are at maximum capacity. The result:
 - **Higher prices** than June–July despite the rainy season
 - **More crowded** beaches and resorts
 - **More amenities operational** — kids' clubs, evening entertainment, all-inclusive options

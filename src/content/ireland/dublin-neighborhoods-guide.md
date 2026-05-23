@@ -10,7 +10,7 @@ tags: [Dublin, Ireland, neighborhoods, Liberties, Docklands, Temple Bar, Georgia
 city: dublin
 ---
 
-Dublin is a compact capital — the city center is walkable within 30 minutes in any direction — but the character shifts significantly between neighborhoods. The Georgian south side, the historic Liberties, the over-touristed cobbles of Temple Bar, and the DART-connected coastal villages each offer distinct experiences. Understanding the city's geography makes the difference between a Dublin that feels flat and one that has actual depth.
+[Dublin](/ireland/dublin-travel-guide) is a compact capital — the city center is walkable within 30 minutes in any direction — but the character shifts significantly between neighborhoods. The Georgian south side, the historic Liberties, the over-touristed cobbles of Temple Bar, and the DART-connected coastal villages each offer distinct experiences. Understanding the city's geography makes the difference between a Dublin that feels flat and one that has actual depth.
 
 ---
 
@@ -28,7 +28,7 @@ The oldest continuously inhabited part of Dublin — the area southwest of the h
 
 The 18th-century planned development that gives Dublin its most recognizable visual identity — the terraced red and brown brick townhouses with their famous painted doors and brass knockers, organized around private garden squares.
 
-**Merrion Square**: The finest of the Georgian squares — a large enclosed park surrounded by intact Georgian terraces. Oscar Wilde's family home is on the north side (marked by his flamboyant statue in the corner of the park). The National Gallery of Ireland, the Natural History Museum, and the Government Buildings all face onto or near the square.
+**Merrion Square**: The finest of the Georgian squares — a large enclosed park surrounded by intact Georgian terraces. Oscar Wilde's family home is on the north side (marked by his flamboyant statue in the corner of the park). The National Gallery of [Ireland](/ireland), the Natural History Museum, and the Government Buildings all face onto or near the square.
 
 **Fitzwilliam Street Lower**: The longest unbroken Georgian streetscape in Dublin — approximately 500 meters of intact Georgian terracing. A property developer demolished one section in 1965 to build an office block; the public outcry eventually produced stronger conservation legislation.
 

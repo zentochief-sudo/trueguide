@@ -10,7 +10,7 @@ tags: [South Korea, August, summer, beach, Busan, Liberation Day, travel tips]
 city: national
 ---
 
-August is summer's peak in Korea — the monsoon is finished, the heat is at maximum, and the entire country seems to relocate to the coast. Domestic tourism is at its annual high, beaches are over capacity, and the city heat index in Seoul regularly pushes into "feels like 38°C" territory. If you can manage the heat, August delivers an intensity that's uniquely Korean.
+August is summer's peak in Korea — the monsoon is finished, the heat is at maximum, and the entire country seems to relocate to the coast. Domestic tourism is at its annual high, beaches are over capacity, and the city heat index in [Seoul](/south-korea/seoul-guide) regularly pushes into "feels like 38°C" territory. If you can manage the heat, August delivers an intensity that's uniquely Korean.
 
 ## Weather in August
 

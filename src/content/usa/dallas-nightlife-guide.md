@@ -70,7 +70,7 @@ For post-match celebrations, Deep Ellum is the natural destination — the stree
 
 **Specifically for football watching**: **The Libertine Bar** (2101 Greenville Avenue) shows international matches and has a football-aware crowd. **The Londoner** (15th and Greenville) is the British-style pub for match viewing.
 
-For a major Latin American team match — Brazil vs. Argentina, Colombia, Mexico — Deep Ellum's outdoor bar areas will have spontaneous street celebrations visible from the sidewalk that don't require entering any specific venue.
+For a major Latin American team match — Brazil vs. Argentina, Colombia, [Mexico](/mexico) — Deep Ellum's outdoor bar areas will have spontaneous street celebrations visible from the sidewalk that don't require entering any specific venue.
 
 ---
 

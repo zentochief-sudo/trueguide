@@ -48,7 +48,7 @@ The park's access route requires a walk through forest:
 
 **From Nagano City**: Nagano Dentetsu to Yudanaka (45 minutes, ¥1,350), then the above route.
 
-**From Tokyo**: Shinkansen to Nagano (80 minutes from Tokyo Station), then Nagano Dentetsu and bus. Total from Tokyo: 2.5–3 hours.
+**From [Tokyo](/japan/tokyo-guide)**: Shinkansen to Nagano (80 minutes from Tokyo Station), then Nagano Dentetsu and bus. Total from Tokyo: 2.5–3 hours.
 
 **From Hakuba or Nozawa Onsen**: A 1–1.5 hour drive or bus connection. If you're already in the Nagano ski area, Jigokudani is a viable half-day trip.
 
@@ -72,7 +72,7 @@ The park's access route requires a walk through forest:
 
 The small onsen town of Shibu Onsen (*渋温泉*) near Yudanaka is worth a stay for its own character: a preserved hot spring street with nine *soto-yu* (external public baths) accessible to guests of Shibu Onsen hotels. The town is old, small, and typically quiet — the contrast between the ski resort culture of Shiga Kogen above and the traditional onsen street below is significant.
 
-A stay at a Shibu Onsen ryokan, with access to the nine public baths, provides both the snow monkey day trip and a genuine onsen town experience.
+A stay at a Shibu Onsen [ryokan](/japan/ryokan-guide), with access to the nine public baths, provides both the snow monkey day trip and a genuine onsen town experience.
 
 ---
 

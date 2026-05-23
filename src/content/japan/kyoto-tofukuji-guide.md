@@ -10,7 +10,7 @@ tags: [Tofukuji, Kyoto, autumn foliage, maple, Zen temple, Tsutenkyo Bridge, Hoj
 city: kyoto
 ---
 
-Tofukuji (*東福寺*) was founded in 1236 by Fujiwara Michiie and named to evoke the two great Nara temples — *To* from Tōdai-ji and *fuku* from Kōfuku-ji. It became one of the five great Rinzai Zen temples of Kyoto (the *Kyoto Gozan*), and the complex that survives today — the largest Zen temple precinct in Kyoto — contains the oldest Zen main gate (*sanmon*) in Japan and gardens that represent two extremes of Japanese garden design: the 14th-century south garden and the boldly modernist gardens designed by Mirei Shigemori in 1939.
+Tofukuji (*東福寺*) was founded in 1236 by Fujiwara Michiie and named to evoke the two great [Nara](/japan/nara-guide) temples — *To* from Tōdai-ji and *fuku* from Kōfuku-ji. It became one of the five great Rinzai Zen temples of [Kyoto](/japan/kyoto-guide) (the *Kyoto Gozan*), and the complex that survives today — the largest Zen temple precinct in Kyoto — contains the oldest Zen main gate (*sanmon*) in Japan and gardens that represent two extremes of Japanese garden design: the 14th-century south garden and the boldly modernist gardens designed by Mirei Shigemori in 1939.
 
 But what most visitors come for is the ravine. The Tsūtenkyo Bridge crosses a gorge planted with 2,000 maple trees in the Meiji period — and in November, when those maples turn, Tofukuji becomes the most photographed autumn foliage location in Kyoto.
 

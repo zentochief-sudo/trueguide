@@ -10,7 +10,7 @@ tags: [Tokyo Tower, Tokyo landmark, Tokyo observation deck, Minato Tokyo, Tokyo 
 city: tokyo
 ---
 
-Tokyo Tower (*東京タワー*), completed in December 1958, is a 333-meter communications and observation tower modeled loosely on the Eiffel Tower, painted in international orange and white to comply with aviation safety regulations. At completion it was the tallest structure in the world outside North America; it served as Japan's primary television broadcast tower until the Tokyo Sky Tree took over that role in 2013.
+[Tokyo](/japan/tokyo-guide) Tower (*東京タワー*), completed in December 1958, is a 333-meter communications and observation tower modeled loosely on the Eiffel Tower, painted in international orange and white to comply with aviation safety regulations. At completion it was the tallest structure in the world outside North America; it served as Japan's primary television broadcast tower until the Tokyo Sky Tree took over that role in 2013.
 
 The tower remains fully operational as an observation platform, and its visual prominence across the Tokyo skyline — particularly from the south, where Zojo-ji temple provides a foreground — keeps it among the city's most visited landmarks.
 
@@ -18,7 +18,7 @@ The tower remains fully operational as an observation platform, and its visual p
 
 ## Observation Decks
 
-**Main Deck (150m)**: The primary observation floor, accessible by elevator. Panoramic views across Tokyo Bay to the east, toward Shinjuku and the western hills, and — on clear days — to Mount Fuji. The glass floor panels visible at this level allow downward views along the tower's legs.
+**Main Deck (150m)**: The primary observation floor, accessible by elevator. Panoramic views across Tokyo Bay to the east, toward Shinjuku and the western hills, and — on clear days — to [Mount Fuji](/japan/mount-fuji-guide). The glass floor panels visible at this level allow downward views along the tower's legs.
 
 **Top Deck (250m)**: The higher observation level, recently renovated (2018) with floor-to-ceiling glass on three sides. The views of Tokyo's density from this height, particularly at dusk as city lights come on, are the best argument for visiting at this time of day.
 
@@ -32,7 +32,7 @@ The tower remains fully operational as an observation platform, and its visual p
 
 The tower's aesthetic impact from outside exceeds the view from inside — this is often true of landmark towers.
 
-**Zojo-ji Temple (增上寺)**: The historic Buddhist temple 200m south of the tower provides the most iconic foreground composition. The main gate (*Sangedatsumon*, 1622) in the foreground with the tower rising behind it is one of Tokyo's most photographed images. Best in late afternoon light; cherry blossom season (late March–early April) adds a third element.
+**Zojo-ji Temple (增上寺)**: The historic Buddhist temple 200m south of the tower provides the most iconic foreground composition. The main gate (*Sangedatsumon*, 1622) in the foreground with the tower rising behind it is one of Tokyo's most photographed images. Best in late afternoon light; [cherry blossom](/japan/cherry-blossom-guide) season (late March–early April) adds a third element.
 
 **Shiba Park**: The park surrounding Zojo-ji offers multiple angles on the tower. The south park area (Shiba Daijingu shrine vicinity) gives a slightly elevated view.
 

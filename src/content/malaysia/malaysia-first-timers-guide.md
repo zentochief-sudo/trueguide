@@ -10,17 +10,17 @@ tags: []
 city: national
 ---
 
-Malaysia consistently surprises first-time visitors. They arrive expecting a mid-tier Southeast Asian stopover and discover world-class food, extraordinary natural diversity, fascinating multicultural history, and a warmth that reflects a society built from Malay, Chinese, Indian, and indigenous Bornean cultures.
+[Malaysia](/malaysia) consistently surprises first-time visitors. They arrive expecting a mid-tier Southeast Asian stopover and discover world-class food, extraordinary natural diversity, fascinating multicultural history, and a warmth that reflects a society built from Malay, Chinese, Indian, and indigenous Bornean cultures.
 
 ## The Basics
 
-**Capital:** Kuala Lumpur  
+**Capital:** [Kuala Lumpur](/malaysia/kuala-lumpur-guide)  
 **Currency:** Malaysian Ringgit (MYR). €1 ≈ MYR 5.  
 **Language:** Bahasa Malaysia (official). English is widely spoken throughout the country.  
 **Time zone:** MYT (GMT+8)  
 **Driving:** Left-hand side  
 **Plugs:** Type G (UK-style three-pin) — bring an adapter  
-**Visa:** US, EU, UK, Australia, Canada — visa-free for 90 days (2023 extended)
+**Visa:** US, EU, UK, Australia, [Canada](/canada) — visa-free for 90 days (2023 extended)
 
 ---
 
@@ -28,9 +28,9 @@ Malaysia consistently surprises first-time visitors. They arrive expecting a mid
 
 Understanding that Malaysia is effectively three distinct places helps enormously:
 
-**West Malaysia (Peninsular):** Kuala Lumpur, Penang, Melaka, the Cameron Highlands, and the popular beaches of Langkawi. This is where most first-timers spend most of their time.
+**West Malaysia (Peninsular):** Kuala Lumpur, [Penang](/malaysia/penang-travel-guide), [Melaka](/malaysia/melaka-guide), the [Cameron Highlands](/malaysia/cameron-highlands-guide), and the popular beaches of [Langkawi](/malaysia/langkawi-guide). This is where most first-timers spend most of their time.
 
-**East Malaysia — Sarawak:** The larger Borneo state, with the capital Kuching, extraordinary rainforest, indigenous longhouse cultures, and some of the world's best wildlife encounters (orangutans, proboscis monkeys, hornbills).
+**East Malaysia — Sarawak:** The larger [Borneo](/malaysia/borneo-guide) state, with the capital Kuching, extraordinary rainforest, indigenous longhouse cultures, and some of the world's best wildlife encounters (orangutans, proboscis monkeys, hornbills).
 
 **East Malaysia — Sabah:** The smaller, wilder Borneo state, home to Mount Kinabalu (Southeast Asia's highest peak), Sipadan Island (world-famous diving), and the orangutans of the Sepilok centre.
 

@@ -28,7 +28,7 @@ May sits in a golden window for Canadian travel. The country has genuinely woken
 
 ## What to Do
 
-**Canadian Tulip Festival, Ottawa:** The world-famous tulip festival — a Dutch gift to Canada in thanks for wartime refuge — runs through May. Over a million tulips at Commissioners Park on Dow's Lake, Majors Hill Park, and throughout the city. The evening light on the Commissioners Park beds is exceptional. Free access to most areas; some ticketed evening events.
+**Canadian Tulip Festival, Ottawa:** The world-famous tulip festival — a Dutch gift to [Canada](/canada) in thanks for wartime refuge — runs through May. Over a million tulips at Commissioners Park on Dow's Lake, Majors Hill Park, and throughout the city. The evening light on the Commissioners Park beds is exceptional. Free access to most areas; some ticketed evening events.
 
 **Whale watching off Vancouver Island:** May marks the beginning of the prime whale-watching season off Vancouver Island. Orca (resident and transient pods), humpback whales, gray whales on their northward migration, and Dall's porpoises are all reliably seen from Victoria and Telegraph Cove. Operators include Prince of Whales and Eagle Wing Tours out of Victoria.
 

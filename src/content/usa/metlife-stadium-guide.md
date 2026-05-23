@@ -102,7 +102,7 @@ MetLife Stadium has improved its food program substantially since opening, thoug
 
 ## Weather at MetLife
 
-MetLife Stadium is open-air, and the New Jersey summer climate is meaningfully different from SoFi Stadium in LA or Hard Rock in Miami.
+MetLife Stadium is open-air, and the New Jersey summer climate is meaningfully different from [SoFi Stadium](/united-states/sofi-stadium-guide) in LA or Hard Rock in Miami.
 
 **June**: 23–28°C, humidity 60–70%, afternoon thunderstorm probability 20–30%. Thunderstorms at MetLife can cause match delays — FIFA has protocols for lightning within 8 miles of the stadium (a 30-minute hold). Bring a compact rain jacket.
 

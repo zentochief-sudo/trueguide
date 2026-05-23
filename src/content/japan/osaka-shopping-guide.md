@@ -10,7 +10,7 @@ tags: [Osaka, shopping, Shinsaibashi, Amerika-mura, depachika, souvenirs, vintag
 city: Osaka
 ---
 
-Osaka's shopping culture is part of its identity — the merchant city history (Osaka was Japan's commercial capital for centuries) means trade runs deep. The Shinsaibashi covered arcade is the longest shopping street in the Kansai region. The department store basement food halls (depachika) are world-class food destinations in their own right. Amerika-mura has Japan's best vintage streetwear culture outside Tokyo. And the traditional craft shops of the Tanimachi corridor sell the lacquerware, ceramics, and Buddhist goods that have defined Osaka commerce since the Edo period.
+[Osaka](/japan/osaka-guide)'s shopping culture is part of its identity — the merchant city history (Osaka was Japan's commercial capital for centuries) means trade runs deep. The Shinsaibashi covered arcade is the longest shopping street in the Kansai region. The department store basement food halls (depachika) are world-class food destinations in their own right. Amerika-mura has Japan's best vintage streetwear culture outside [Tokyo](/japan/tokyo-guide). And the traditional craft shops of the Tanimachi corridor sell the lacquerware, ceramics, and Buddhist goods that have defined Osaka commerce since the Edo period.
 
 ## The Major Shopping Districts
 
@@ -46,7 +46,7 @@ The youth culture district west of Shinsaibashi — defined by vintage clothing,
 
 Northern Osaka's commercial hub — more mainstream and department-store focused:
 
-**Hankyu Department Store (Umeda):** One of Japan's finest department stores — 15 floors with the basement depachika (food hall) as the primary draw. The sweets section, prepared foods, and the produce and seafood levels represent the pinnacle of Japanese food retail.
+**Hankyu Department Store (Umeda):** One of Japan's finest department stores — 15 floors with the basement depachika (food hall) as the primary draw. The sweets section, prepared foods, and the produce and seafood levels represent the pinnacle of [Japanese food](/japan/japanese-food-guide) retail.
 
 **Isetan (JR Osaka Isetan, within Osaka Station):** The national Isetan department store chain's Osaka branch — fashion-forward, excellent cosmetics floor.
 
@@ -83,7 +83,7 @@ The basement food halls of Japanese department stores are genuinely world-class 
 The "Osaka Kitchen" — the 580-meter covered market of 170 vendors:
 
 **For shopping (not just eating):**
-- **Dashi and seasonings:** High-quality kombu (kelp), katsuobushi (bonito flakes), and prepared dashi packets — the best Osaka food gifts
+- **Dashi and seasonings:** High-quality kombu (kelp), katsuobushi (bonito flakes), and prepared dashi packets — the best [Osaka food](/japan/osaka-food-guide) gifts
 - **Local food products:** Packaged okonomiyaki sauce, takoyaki batter mixes, regional soy sauce
 - **Fresh seafood for hotel room cooking (if applicable):** The market has some of the freshest fish in Osaka at near-wholesale prices
 
@@ -95,7 +95,7 @@ The "Osaka Kitchen" — the 580-meter covered market of 170 vendors:
 
 **Food gifts (omiyage):**
 - **Dorayaki from Mon Cher or equivalent** — red bean pancake sandwiches
-- **Shiroi Koibito (normally Hokkaido but available in Osaka)** — the famous butter cookie with white chocolate
+- **Shiroi Koibito (normally [Hokkaido](/japan/hokkaido-guide) but available in Osaka)** — the famous butter cookie with white chocolate
 - **Osaka-specific:** Okonomiyaki sauce, takoyaki batter mix, packaged kushikatsu sauce
 - **Osaka rock candy (Naniwa-ame):** Traditional hard candy in regional flavors
 

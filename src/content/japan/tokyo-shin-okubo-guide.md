@@ -10,7 +10,7 @@ tags: [Shin-Okubo, Tokyo, Koreatown, Korean food, K-pop, Japan, Shinjuku, Korean
 city: tokyo
 ---
 
-Shin-Okubo Station sits on the JR Yamanote Line between Shinjuku and Takadanobaba — a single stop that takes under three minutes from Shinjuku but arrives in a completely different Tokyo. The commercial streets around the station have been a Korean community center since the mid-20th century; the current character — Korean restaurants three floors high, K-pop merchandise windows, Korean beauty product shops, and the sound of Korean pop music from storefronts — is the result of decades of community building plus a specific surge of Korean cultural exports that began in the early 2000s and has accelerated significantly since 2012.
+Shin-Okubo Station sits on the JR Yamanote Line between Shinjuku and Takadanobaba — a single stop that takes under three minutes from Shinjuku but arrives in a completely different [Tokyo](/japan/tokyo-guide). The commercial streets around the station have been a Korean community center since the mid-20th century; the current character — Korean restaurants three floors high, K-pop merchandise windows, Korean beauty product shops, and the sound of Korean pop music from storefronts — is the result of decades of community building plus a specific surge of Korean cultural exports that began in the early 2000s and has accelerated significantly since 2012.
 
 It is also, on weekends, extremely crowded with Japanese visitors who come specifically for the food and K-pop shopping — making it simultaneously a genuine ethnic neighborhood and one of the most visited food districts in Tokyo.
 

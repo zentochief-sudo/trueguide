@@ -10,7 +10,7 @@ tags: [Barcelona, budget travel, cheap, free, menú del día, free museums, Spai
 city: barcelona
 ---
 
-Barcelona has a reputation as an expensive city — and in some categories (central hotels, tourist restaurant traps on Las Ramblas, club entry), that reputation is deserved. But the underlying city is surprisingly accessible: the menú del día system means a three-course lunch with wine costs €12–15. The metro T-Casual card gets you 10 trips for €12.15. Several of Barcelona's best experiences cost nothing.
+[Barcelona](/[spain](/spain)/barcelona-travel-guide) has a reputation as an expensive city — and in some categories (central hotels, tourist restaurant traps on Las Ramblas, club entry), that reputation is deserved. But the underlying city is surprisingly accessible: the menú del día system means a three-course lunch with wine costs €12–15. The metro T-Casual card gets you 10 trips for €12.15. Several of Barcelona's best experiences cost nothing.
 
 A realistic daily budget for a solo traveler staying in a hostel or budget hotel: **€70–90**. With a private room: **€110–140**.
 

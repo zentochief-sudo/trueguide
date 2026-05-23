@@ -22,7 +22,7 @@ To visit Japan without engaging with this culture is to ignore a significant par
 
 **Anime** is the animation adaptation, though many original anime exist without source manga. Quality ranges from weekly TV series with limited animation budgets to theatrical features from major studios with years of production time.
 
-**Otaku** (おたく) is the term for deeply invested fans of any media — originally slightly pejorative, now largely neutral or self-applied. Akihabara and Ikebukuro are the physical centers of this culture in Tokyo.
+**Otaku** (おたく) is the term for deeply invested fans of any media — originally slightly pejorative, now largely neutral or self-applied. Akihabara and Ikebukuro are the physical centers of this culture in [Tokyo](/japan/tokyo-guide).
 
 ---
 
@@ -51,15 +51,15 @@ Ikebukuro's manga culture is weighted toward *josei* and *boys' love* (BL) manga
 
 **Studio Ghibli** is Japan's most internationally recognized animation studio, responsible for *Spirited Away*, *My Neighbor Totoro*, *Princess Mononoke*, and approximately 20 other films. The studio's work is Japan's best argument for animation as serious art.
 
-**Ghibli Museum** (Mitaka, Tokyo): A small museum designed by director Hayao Miyazaki with permanent rooms displaying original animation cells, storyboards, and the creative process behind the films. Admission is limited and ticketed in advance; seats are released one month before visit date at 10am Japan time through the Lawson convenience store ticketing system or through designated overseas ticket agents. **You cannot walk in.** Planning ahead by at least a month is necessary.
+**[Ghibli Museum](/japan/ghibli-museum-guide)** (Mitaka, Tokyo): A small museum designed by director Hayao Miyazaki with permanent rooms displaying original animation cells, storyboards, and the creative process behind the films. Admission is limited and ticketed in advance; seats are released one month before visit date at 10am Japan time through the Lawson convenience store ticketing system or through designated overseas ticket agents. **You cannot walk in.** Planning ahead by at least a month is necessary.
 
-**Ghibli Park** (near Nagoya, opened 2022): A large outdoor park built around Ghibli-world environments. Five themed areas including the Valley of Witches (from *Kiki's Delivery Service*) and the Hill of Youth (from *The Cat Returns*). More theatrical than the Mitaka museum; better for families. Tickets through the official Ghibli Park app, also competitive.
+**Ghibli Park** (near [Nagoya](/japan/nagoya-guide), opened 2022): A large outdoor park built around Ghibli-world environments. Five themed areas including the Valley of Witches (from *Kiki's Delivery Service*) and the Hill of Youth (from *The Cat Returns*). More theatrical than the Mitaka museum; better for families. Tickets through the official Ghibli Park app, also competitive.
 
 ---
 
 ## Kyoto International Manga Museum
 
-One of the best manga-focused museums in Japan and consistently undervisited by tourists focused on Kyoto's temples. The **Kyoto International Manga Museum** (Karasuma Oike station) occupies a converted elementary school and houses 300,000 volumes in its "Wall of Manga" — manga arranged by era and genre in open stacks that visitors can read on site.
+One of the best manga-focused museums in Japan and consistently undervisited by tourists focused on [Kyoto](/japan/kyoto-guide)'s temples. The **Kyoto International Manga Museum** (Karasuma Oike station) occupies a converted elementary school and houses 300,000 volumes in its "Wall of Manga" — manga arranged by era and genre in open stacks that visitors can read on site.
 
 The reading experience is the point: you can pull any volume from the wall and read it in the courtyard, the reading rooms, or the lawn outside. The collection spans from early Osamu Tezuka to contemporary publications; there's a significant international section.
 
@@ -71,11 +71,11 @@ The research library and exhibitions change regularly. Admission ¥900. Open dai
 
 Japanese fans practice *seichi junrei* — sacred place pilgrimage — visiting the real locations that inspired settings in anime and manga. Several have become significant tourist destinations:
 
-**Conan Town (Hokuei, Tottori)**: Gosho Aoyama, creator of *Detective Conan*, is from Hokuei. The entire town has been transformed with statues, museums, and themed everything. The Gosho Aoyama Manga Factory museum is the center of it.
+**Conan Town (Hokuei, [Tottori](/japan/tottori-guide))**: Gosho Aoyama, creator of *Detective Conan*, is from Hokuei. The entire town has been transformed with statues, museums, and themed everything. The Gosho Aoyama Manga Factory museum is the center of it.
 
-**Onomichi (Hiroshima Prefecture)**: Inspired multiple anime including *Onomichi no Zassou* and appears in many manga. The hill town with its maze of stone paths and temple walks has genuine aesthetic qualities beyond its fiction connection.
+**[Onomichi](/japan/onomichi-guide) ([Hiroshima](/japan/hiroshima-guide) Prefecture)**: Inspired multiple anime including *Onomichi no Zassou* and appears in many manga. The hill town with its maze of stone paths and temple walks has genuine aesthetic qualities beyond its fiction connection.
 
-**Waseda (Tokyo)**: *Slam Dunk* creator Takehiko Inoue attended Waseda; the crossroads depicted in the manga's famous opening scene at Kamakura has become one of Japan's most visited manga pilgrimage points.
+**Waseda (Tokyo)**: *Slam Dunk* creator Takehiko Inoue attended Waseda; the crossroads depicted in the manga's famous opening scene at [Kamakura](/japan/kamakura-guide) has become one of Japan's most visited manga pilgrimage points.
 
 **Chichibu (Saitama)**: Setting for *Ano Hi Mita Hana* (AnoHana) and *Kokosake-bu*; train lines, parks, and bridges from the series are visited by fans who come from across Japan.
 

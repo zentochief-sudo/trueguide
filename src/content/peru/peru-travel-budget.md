@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Peru occupies an interesting position in global travel costs — basic travel is very affordable, but the country's headline experiences (Machu Picchu entry, the Inca Trail, Lima's best restaurants) can cost as much as Europe. Planning around this spectrum is the key to a great trip at the right budget.
+[Peru](/peru) occupies an interesting position in global travel costs — basic travel is very affordable, but the country's headline experiences ([Machu Picchu](/peru/machu-picchu-guide) entry, the Inca Trail, [Lima](/peru/lima-guide)'s best restaurants) can cost as much as Europe. Planning around this spectrum is the key to a great trip at the right budget.
 
 ## Quick Summary
 
@@ -24,15 +24,15 @@ Peru occupies an interesting position in global travel costs — basic travel is
 
 ## Accommodation
 
-**Hostels:** €8–18/night in dorms; €25–50 for private rooms. Lima (Miraflores, Barranco), Cusco, and Aguas Calientes all have good hostel options.
+**Hostels:** €8–18/night in dorms; €25–50 for private rooms. Lima (Miraflores, Barranco), [Cusco](/peru/cusco-guide), and Aguas Calientes all have good hostel options.
 
 **Guesthouses:** €25–55/night for a double. Cusco's San Blas neighbourhood has excellent family-run guesthouses in colonial buildings.
 
-**Mid-range hotels:** €60–120/night. Comfortable hotels in Cusco, Lima's Miraflores, and the Sacred Valley.
+**Mid-range hotels:** €60–120/night. Comfortable hotels in Cusco, Lima's Miraflores, and the [Sacred Valley](/peru/sacred-valley-guide).
 
 **Boutique/luxury:** €150–350/night. Cusco has genuinely excellent boutique hotels in restored Inca-walled colonial buildings. Aguas Calientes (base for Machu Picchu) is more expensive due to captive location — budget €80–200/night.
 
-**Amazon lodges:** €80–300/night all-inclusive (including meals, guides, and boat transfers). The better lodges (Tambopata Research Center, Inkaterra Reserva Amazónica) are expensive but extraordinary.
+**[Amazon](/peru/amazon-guide) lodges:** €80–300/night all-inclusive (including meals, guides, and boat transfers). The better lodges (Tambopata Research Center, Inkaterra Reserva Amazónica) are expensive but extraordinary.
 
 ---
 
@@ -84,7 +84,7 @@ Peru occupies an interesting position in global travel costs — basic travel is
 | MATE Museum (Lima) | €8 |
 | Huaca Pucllana (Lima) | €6 |
 | Ballestas Islands boat | €15–20 |
-| Nazca Lines overflight | €80–150 depending on operator |
+| [Nazca Lines](/peru/nazca-lines-guide) overflight | €80–150 depending on operator |
 | Uros Floating Islands (Titicaca) | €10–15 |
 
 ---

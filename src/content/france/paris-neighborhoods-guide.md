@@ -10,7 +10,7 @@ tags: [Paris, France, neighborhoods, Belleville, Oberkampf, covered passages, Pi
 city: paris
 ---
 
-Paris has 20 arrondissements and most visitors see four of them. The tourist circuit — 1st, 4th, 6th, 18th — captures the postcard version of the city accurately but incompletely. The Paris that Parisians inhabit for daily life, nightlife, and weekend markets is concentrated in the 10th, 11th, 18th (beyond the Sacré-Cœur), 19th, and 20th arrondissements.
+[Paris](/france/paris-travel-guide) has 20 arrondissements and most visitors see four of them. The tourist circuit — 1st, 4th, 6th, 18th — captures the postcard version of the city accurately but incompletely. The Paris that Parisians inhabit for daily life, nightlife, and weekend markets is concentrated in the 10th, 11th, 18th (beyond the Sacré-Cœur), 19th, and 20th arrondissements.
 
 ---
 

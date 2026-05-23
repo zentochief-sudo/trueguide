@@ -10,7 +10,7 @@ tags: [Mexico, March, monarch butterflies, spring break, Michoacán, travel tips
 city: national
 ---
 
-March is the last month of Mexico's comfortable dry season before temperatures start climbing toward April's heat. It's also when two events pull travelers in different directions: US spring break fills the beach resorts, while inland Mexico — quieter and more atmospheric — offers the tail end of monarch butterfly season.
+March is the last month of [Mexico](/mexico)'s comfortable dry season before temperatures start climbing toward April's heat. It's also when two events pull travelers in different directions: US spring break fills the beach resorts, while inland Mexico — quieter and more atmospheric — offers the tail end of monarch butterfly season.
 
 ## Weather in March
 

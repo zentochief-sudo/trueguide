@@ -24,7 +24,7 @@ The floats parade each evening from 7–9pm through central Aomori city, accompa
 
 ### The Scale
 
-The Aomori Nebuta Matsuri draws approximately 3.1 million visitors over its run — one of the most-attended festivals in Tohoku. The floats are the result of year-round construction by professional artisans; the largest and most elaborate are masterworks of paper and light sculpture. The competition between float-making teams for the prize is serious and the quality difference between ordinary floats and prize-winning examples is visible.
+The Aomori Nebuta Matsuri draws approximately 3.1 million visitors over its run — one of the most-attended festivals in [Tohoku](/japan/tohoku-guide). The floats are the result of year-round construction by professional artisans; the largest and most elaborate are masterworks of paper and light sculpture. The competition between float-making teams for the prize is serious and the quality difference between ordinary floats and prize-winning examples is visible.
 
 The combination of the illuminated floats moving through streets at night, the crowds of dancing haneto, the drum beat carrying across the city, and the fireworks finale on the last night (August 7, over Aomori Bay) is specifically spectacular.
 
@@ -40,11 +40,11 @@ Each float is built to represent a scene from Japanese mythology, literature, or
 
 ### Practical Notes
 
-**Access**: By shinkansen (Tohoku Shinkansen to Shin-Aomori, then local connection) from Tokyo in approximately 3h30m. Direct limited express trains from Sendai. The festival runs August 2–7; evenings are the main events.
+**Access**: By shinkansen (Tohoku Shinkansen to Shin-Aomori, then local connection) from [Tokyo](/japan/tokyo-guide) in approximately 3h30m. Direct limited express trains from Sendai. The festival runs August 2–7; evenings are the main events.
 
 **Accommodation**: Aomori's hotels book out months in advance for festival week. The Aomori city tourist website lists official accommodation options; some visitors base in Hirosaki (45 minutes by local train) where accommodation is easier.
 
-**Weather**: Early August in Aomori is warm but considerably less humid than Tokyo or Osaka — festival evenings are often comfortable. Rain occurs; the festival proceeds regardless.
+**Weather**: Early August in Aomori is warm but considerably less humid than Tokyo or [Osaka](/japan/osaka-guide) — festival evenings are often comfortable. Rain occurs; the festival proceeds regardless.
 
 ---
 
@@ -64,7 +64,7 @@ The dance itself is the *Awa Odori* — a specific processional style performed 
 
 **Venues**: The dancing happens across multiple routes through Tokushima city — formal paid venues (*演舞場, enbujō*) with bleacher seating where top professional troupes perform structured shows, and informal street routes where any ren can walk and the crowds follow.
 
-**The famous saying**: The festival's associated phrase — *odoru aho ni miru aho, onaji aho nara odorana son sa* (those who dance are fools, those who watch are fools — if you're going to be a fool, better to dance) — captures the spirit of participation that defines Awa Odori above other festivals.
+**The famous saying**: The festival's associated phrase — *odoru aho ni miru aho, onaji aho [nara](/japan/nara-guide) odorana son sa* (those who dance are fools, those who watch are fools — if you're going to be a fool, better to dance) — captures the spirit of participation that defines Awa Odori above other festivals.
 
 ### Women's and Men's Dance Styles
 
@@ -103,4 +103,4 @@ Both styles have professional-level exemplars in the top eiren that are worth wa
 | Access from Tokyo | 3h30m shinkansen | Flight or overnight |
 | Combined itinerary | Tohoku trip | Shikoku or Kansai trip |
 
-Both festivals are worth attending if the opportunity arises. If you can only choose one and are based in Tokyo: Nebuta is easier logistically. From Osaka or Kyoto: Awa Odori is a straightforward extension.
+Both festivals are worth attending if the opportunity arises. If you can only choose one and are based in Tokyo: Nebuta is easier logistically. From Osaka or [Kyoto](/japan/kyoto-guide): Awa Odori is a straightforward extension.

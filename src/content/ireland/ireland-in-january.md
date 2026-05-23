@@ -10,15 +10,15 @@ tags: [Ireland, January, winter, budget, pubs, Cliffs of Moher, low season]
 city: national
 ---
 
-January is Ireland without the performance. The tourist infrastructure has largely gone home for winter, the pubs return to being local gathering places rather than guided experiences, and the landscapes — cliffs, bogs, and coastal headlands — have a raw January quality that the soft summer light doesn't offer. The trade-off is genuine: short days (dark by 4:30pm), frequent rain, and cold temperatures. For the right traveler, this is the point.
+January is [Ireland](/ireland) without the performance. The tourist infrastructure has largely gone home for winter, the pubs return to being local gathering places rather than guided experiences, and the landscapes — cliffs, bogs, and coastal headlands — have a raw January quality that the soft summer light doesn't offer. The trade-off is genuine: short days (dark by 4:30pm), frequent rain, and cold temperatures. For the right traveler, this is the point.
 
 ## Weather & Conditions
 
-**Dublin and the East:** 3–8°C. Wet and grey, with occasional clear days that have a particular low winter light quality. Rain is frequent but rarely torrential. Wind is more of an issue than temperature.
+**[Dublin](/ireland/dublin-travel-guide) and the East:** 3–8°C. Wet and grey, with occasional clear days that have a particular low winter light quality. Rain is frequent but rarely torrential. Wind is more of an issue than temperature.
 
-**West Coast (Galway, Connemara, County Clare):** 4–9°C. The Atlantic faces west Ireland directly. Wind and rain are constants. The Cliffs of Moher in cloud and storm spray are a different and arguably more honest experience than in summer.
+**West Coast ([Galway](/ireland/galway-guide), Connemara, County Clare):** 4–9°C. The Atlantic faces west Ireland directly. Wind and rain are constants. The Cliffs of Moher in cloud and storm spray are a different and arguably more honest experience than in summer.
 
-**Southwest (Kerry, Cork):** 5–10°C. Slightly milder due to the Gulf Stream influence. Kerry can have surprisingly clear and mild January days between the wet periods.
+**Southwest (Kerry, [Cork](/ireland/cork-guide)):** 5–10°C. Slightly milder due to the Gulf Stream influence. Kerry can have surprisingly clear and mild January days between the wet periods.
 
 **Northern Ireland (Belfast, the Antrim Coast):** 3–7°C. Cold, wet, and dark. Not a tourism month for the coast; Belfast city tourism continues.
 

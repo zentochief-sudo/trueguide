@@ -12,13 +12,13 @@ city: tokyo
 
 Ueno's identity was established in the Meiji period, when the government converted the former Tokugawa family temple grounds into Japan's first Western-style public park and built the country's first national museums here. The result is a park of unusual cultural density: five major museums, a zoo, a shrine, a concert hall, and Shinobazu Pond clustered on a raised plateau above the Yanesen neighborhood, with Ameyoko market running along the railway embankment to the south.
 
-It is also the entry point for many visitors arriving from Narita by the Narita Express or Keisei Skyliner — the first Tokyo neighborhood they see. Ueno rewards more time than the transit connection suggests.
+It is also the entry point for many visitors arriving from Narita by the Narita Express or Keisei Skyliner — the first [Tokyo](/japan/tokyo-guide) neighborhood they see. Ueno rewards more time than the transit connection suggests.
 
 ---
 
 ## Ueno Park
 
-The 530,000 square meter park occupies a plateau above the surrounding city. The main approach from the station runs north along a wide boulevard flanked by street vendors (food, balloons, festival goods on weekends); the cherry blossom season transforms this avenue into one of the most photographed spaces in Japan.
+The 530,000 square meter park occupies a plateau above the surrounding city. The main approach from the station runs north along a wide boulevard flanked by street vendors (food, balloons, festival goods on weekends); the [cherry blossom](/japan/cherry-blossom-guide) season transforms this avenue into one of the most photographed spaces in Japan.
 
 **Cherry blossoms**: Ueno is Tokyo's most famous hanami (cherry blossom viewing) site — the main avenue and the areas around Shinobazu Pond have over 1,000 cherry trees, most of them somei yoshino. During peak bloom (typically late March to early April), the park fills with blue tarps, office parties, and hanami crowds from morning to night. The atmosphere is festive and specifically Japanese — the custom of reserving spots from early morning, the food and beer vendors, the illuminated trees after dark. The crowds are genuine; arrive before 10am or after 7pm for any semblance of space.
 
@@ -28,7 +28,7 @@ The 530,000 square meter park occupies a plateau above the surrounding city. The
 
 **Tokyo National Museum** (東京国立博物館, TNM): The largest museum in Japan and the primary repository of Japanese art and archaeology. The main Hon-kan building (1938) houses the permanent collection: archaeological objects from Japan's prehistoric periods, Buddhist sculpture, samurai armor and swords, ink painting, lacquerware, ceramics, and calligraphy. The Toyokan building covers Asian art from across the continent. Admission ¥1,000; special exhibitions extra.
 
-The TNM's strongest rooms are the Japanese sword collection (the quality and variety of medieval blades is unmatched), the Buddhist sculpture gallery (particularly the Heian and Kamakura period wood carvings), and the seasonally rotating display of national treasures.
+The TNM's strongest rooms are the Japanese sword collection (the quality and variety of medieval blades is unmatched), the Buddhist sculpture gallery (particularly the Heian and [Kamakura](/japan/kamakura-guide) period wood carvings), and the seasonally rotating display of national treasures.
 
 **National Museum of Nature and Science** (国立科学博物館): Japan Hall and Global Hall — the Japan Hall covers the natural and cultural history of the Japanese archipelago; the Global Hall covers earth sciences, evolution, and space. One of the finest natural history museums in Asia. The blue whale skeleton in the entrance and the life-size replica of the Antarctic expedition ship are the signature pieces. Admission ¥630.
 
@@ -78,7 +78,7 @@ The outdoor market running along the JR Yamanote Line railway embankment between
 
 ## Practical Notes
 
-**Getting there**: JR Yamanote Line, Keihin-Tohoku Line, or Tokyo Metro Hibiya/Ginza lines to Ueno Station. The park entrance is immediately adjacent to the Park Exit.
+**Getting there**: JR Yamanote Line, Keihin-[Tohoku](/japan/tohoku-guide) Line, or Tokyo Metro Hibiya/Ginza lines to Ueno Station. The park entrance is immediately adjacent to the Park Exit.
 
 **How long**: Half day for the park, one museum, and Ameyoko. Full day to cover multiple museums properly.
 

@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-France is so varied that two weeks barely scratches it — but it's enough to experience the full contrast between the grand architecture of Paris, the châteaux and vineyards of the countryside, the lavender and olive oil of Provence, and the Mediterranean light of the Côte d'Azur.
+[France](/france) is so varied that two weeks barely scratches it — but it's enough to experience the full contrast between the grand architecture of [Paris](/france/paris-travel-guide), the châteaux and vineyards of the countryside, the lavender and olive oil of [Provence](/france/provence-guide), and the Mediterranean light of the Côte d'Azur.
 
 ## Days 1–4 – Paris
 
@@ -20,25 +20,25 @@ Four days in Paris is the right amount for a first visit — enough to go deep r
 
 **Day 2:** The Louvre (book online, arrive early — allow 4 hours minimum for the highlights). Afternoon in Le Marais: Place des Vosges, Musée Picasso, and the neighbourhood's Sunday morning flea market at Marché des Enfants Rouges.
 
-**Day 3:** Montmartre (Sacré-Cœur, Place du Tertre, the Moulin Rouge exterior) in the morning. Afternoon: Versailles (RER C, 45 min — book timed entry online). The Hall of Mirrors and gardens are extraordinary.
+**Day 3:** Montmartre (Sacré-Cœur, Place du Tertre, the Moulin Rouge exterior) in the morning. Afternoon: [Versailles](/france/versailles-guide) (RER C, 45 min — book timed entry online). The Hall of Mirrors and gardens are extraordinary.
 
 **Day 4:** Day for what you've missed — Musée Rodin (sculpture museum in a beautiful garden), Sainte-Chapelle (the finest medieval stained-glass in Paris), or Père Lachaise Cemetery (where Oscar Wilde, Edith Piaf, and Jim Morrison are buried). Evening: dinner in Oberkampf or République — Paris's most local-feeling neighbourhoods.
 
 ## Day 5 – Loire Valley
 
-Rent a car and drive southwest (2.5 hours from Paris). The Loire Valley is France's garden — a river valley of Renaissance châteaux, vineyards, and cave-dwelling troglodytes.
+Rent a car and drive southwest (2.5 hours from Paris). The [Loire Valley](/france/loire-valley-guide) is France's garden — a river valley of Renaissance châteaux, vineyards, and cave-dwelling troglodytes.
 
 Must-see: **Chambord** (the largest château — 440 rooms, Leonardo da Vinci's double-helix staircase) and **Chenonceau** (spanning the Cher River — the most romantic château in France). Stay overnight in **Amboise** — a town with its own château and the Clos Lucé, where Leonardo da Vinci spent his final years.
 
 ## Day 6 – Bordeaux
 
-Drive south to **Bordeaux** (3 hours). France's wine capital has had a remarkable transformation — the UNESCO-listed city centre is now beautifully restored, with the **Place de la Bourse** reflecting in the Miroir d'Eau (the world's largest reflecting pool, built in 2006). The **Cité du Vin** wine museum is excellent; the **Cap Sciences** waterfront walk is beautiful.
+Drive south to **[Bordeaux](/france/bordeaux-guide)** (3 hours). France's wine capital has had a remarkable transformation — the UNESCO-listed city centre is now beautifully restored, with the **Place de la Bourse** reflecting in the Miroir d'Eau (the world's largest reflecting pool, built in 2006). The **Cité du Vin** wine museum is excellent; the **Cap Sciences** waterfront walk is beautiful.
 
 Stay for an evening of food and wine — Bordeaux's restaurant scene has finally caught up with the wine.
 
 ## Days 7–8 – Basque Country
 
-Drive south to the **Basque Country** — a distinct culture straddling France and Spain, with its own language, cuisine, and identity. **Biarritz** is France's surf capital — Belle Époque villas, cliff walks, and surf schools along a dramatic Atlantic coast. **Saint-Jean-de-Luz** is a beautiful Basque fishing town with a harbour, striped beach tents, and superb local cuisine.
+Drive south to the **Basque Country** — a distinct culture straddling France and [Spain](/spain), with its own language, cuisine, and identity. **Biarritz** is France's surf capital — Belle Époque villas, cliff walks, and surf schools along a dramatic Atlantic coast. **Saint-Jean-de-Luz** is a beautiful Basque fishing town with a harbour, striped beach tents, and superb local cuisine.
 
 Cross into Spain to **San Sebastián** (40 min drive) for the world-famous pintxos bars — even a quick evening trip justifies the crossing.
 

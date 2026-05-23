@@ -10,9 +10,9 @@ tags: [Pontocho, Kyoto, restaurants, dining, geiko, lanterns, kawadoko, Kamo Riv
 city: kyoto
 ---
 
-Pontocho (*先斗町*) is a pedestrian alley 500m long and roughly 2m wide, running parallel to the Kamo River between Sanjo-dori and Shijo-dori. It is the most compressed and atmospheric dining corridor in Kyoto — possibly in Japan. The alley is stone-paved, lantern-lit, and lined with restaurants and bars operating from traditional machiya townhouses whose second floors extend over the alley on narrow wooden brackets.
+Pontocho (*先斗町*) is a pedestrian alley 500m long and roughly 2m wide, running parallel to the Kamo River between Sanjo-dori and Shijo-dori. It is the most compressed and atmospheric dining corridor in [Kyoto](/japan/kyoto-guide) — possibly in Japan. The alley is stone-paved, lantern-lit, and lined with restaurants and bars operating from traditional machiya townhouses whose second floors extend over the alley on narrow wooden brackets.
 
-In summer, those second floors open as *kawadoko* — outdoor dining platforms cantilevered over the Kamo River, providing river views and the cooler air coming off the water. In winter, the alley is enclosed and intimate. Year-round, the stone surface and the lantern glow at dusk, with the occasional appearance of *geiko* (Kyoto geisha) moving between appointments, give Pontocho a concentrated Kyoto atmosphere that survives despite the tourist awareness of it.
+In summer, those second floors open as *kawadoko* — outdoor dining platforms cantilevered over the Kamo River, providing river views and the cooler air coming off the water. In winter, the alley is enclosed and intimate. Year-round, the stone surface and the lantern glow at dusk, with the occasional appearance of *geiko* (Kyoto [geisha](/japan/geisha-guide)) moving between appointments, give Pontocho a concentrated Kyoto atmosphere that survives despite the tourist awareness of it.
 
 ---
 

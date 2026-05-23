@@ -16,7 +16,7 @@ Seattle is the northernmost World Cup host city in the United States and, for ma
 
 ## The Basics
 
-**Stadium**: Lumen Field, 800 Occidental Ave S, Seattle, WA  
+**Stadium**: [Lumen Field](/united-states/lumen-field-guide), 800 Occidental Ave S, Seattle, WA  
 **Capacity**: 68,740  
 **Matches**: 6 World Cup matches  
 **Team**: Lumen Field is the home of the Seattle Sounders (MLS) and the Seattle Seahawks (NFL)
@@ -35,7 +35,7 @@ The qualification: Seattle's weather can shift — a week of rain is possible in
 
 ## What Seattle Offers World Cup Visitors
 
-**Coffee**: Seattle invented the contemporary coffee shop format. Starbucks was founded here in 1971 at Pike Place Market; the independent coffee culture that followed created Victrola, Espresso Vivace, Caffe Vita, and dozens more operations that treat coffee with the seriousness that San Francisco applies to wine. Walking Seattle and drinking coffee is the core activity that doesn't sound like an activity but is.
+**Coffee**: Seattle invented the contemporary coffee shop format. Starbucks was founded here in 1971 at Pike Place Market; the independent coffee culture that followed created Victrola, Espresso Vivace, Caffe Vita, and dozens more operations that treat coffee with the seriousness that [San Francisco](/united-states/san-francisco-guide) applies to wine. Walking Seattle and drinking coffee is the core activity that doesn't sound like an activity but is.
 
 **Pacific seafood**: Dungeness crab, Pacific salmon (five species, all wild-caught in Alaskan and Pacific waters), oysters from the Puget Sound and Hood Canal, Dungeness razor clams. The fish market at Pike Place is the most active daily seafood market in the country. Seattle's seafood quality is comparable only to coastal Japan in terms of daily freshness.
 

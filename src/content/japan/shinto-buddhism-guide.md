@@ -40,7 +40,7 @@ The most important practical distinction:
 
 Shinto has no founder, no sacred text, and no formal theology in the Western sense. It is a system of practice — ritual, seasonal, place-based — organized around the concept of *kami*: spirits or presences that inhabit natural and extraordinary things (mountains, rivers, large rocks, ancient trees, weather phenomena) and that can be invoked, appeased, and communicated with through ritual.
 
-**What kami are**: Not gods in the monotheistic sense — kami are not omnipotent, not moral judges, not universal. They are specific presences associated with specific places and phenomena. Japan has 8 million kami by one traditional count. Amaterasu (the sun goddess, enshrined at Ise Jingu) is the most important; Inari (the kami of rice, business, and foxes) has over 30,000 shrines nationwide.
+**What kami are**: Not gods in the monotheistic sense — kami are not omnipotent, not moral judges, not universal. They are specific presences associated with specific places and phenomena. Japan has 8 million kami by one traditional count. Amaterasu (the sun goddess, enshrined at [Ise Jingu](/japan/ise-jingu-guide)) is the most important; Inari (the kami of rice, business, and foxes) has over 30,000 shrines nationwide.
 
 **The function of Shinto practice**: Maintaining *musubi* — the connection between the human world and the kami world through ritual purity and action. This includes purification (*harae*), offerings (*shinsen*), prayer (*norito*), and seasonal festivals (*matsuri*). The emphasis is on this-world concerns: good harvest, safe travel, healthy children, business success, protection from disasters.
 
@@ -56,9 +56,9 @@ Buddhism arrived in Japan from Korea and China in the 6th century and underwent 
 
 **Pure Land Buddhism** (*Jodo-shu*, *Jodo Shinshu*): The largest school in Japan by adherents. Centers on devotion to Amida Buddha and the practice of *nembutsu* (chanting "Namu Amida Butsu" — "I take refuge in Amida Buddha"). The promise of rebirth in Amida's Pure Land (a paradise) through faith and practice. Strongly associated with funerary ritual and the ancestor veneration that shapes Japanese family religious practice.
 
-**Shingon Buddhism**: Esoteric Buddhism founded in Japan by Kukai (Kobo Daishi) after his training in Tang China. Centers on mandalas, mantras, and ritual fire ceremonies (*goma*). Associated with Koyasan and mountain pilgrimage traditions.
+**Shingon Buddhism**: Esoteric Buddhism founded in Japan by Kukai (Kobo Daishi) after his training in Tang China. Centers on mandalas, mantras, and ritual fire ceremonies (*goma*). Associated with [Koyasan](/japan/koyasan-guide) and mountain pilgrimage traditions.
 
-**Tendai Buddhism**: The eclectic school that preceded Shingon and from which Zen and Pure Land schools emerged. Center is Enryaku-ji on Mount Hiei above Kyoto.
+**Tendai Buddhism**: The eclectic school that preceded Shingon and from which Zen and Pure Land schools emerged. Center is Enryaku-ji on Mount Hiei above [Kyoto](/japan/kyoto-guide).
 
 ---
 
@@ -110,7 +110,7 @@ Buddhism arrived in Japan from Korea and China in the 6th century and underwent 
 
 ## The Syncretism
 
-For most of Japan's history, these two traditions were not separate. Buddhist priests managed Shinto shrines; Shinto kami were considered to be Buddha natures in disguise (*honji suijaku* theory). The great pilgrimage routes — Kumano Kodo, Dewa Sanzan, Shikoku 88 temples — all combine Shinto and Buddhist sacred sites.
+For most of Japan's history, these two traditions were not separate. Buddhist priests managed Shinto shrines; Shinto kami were considered to be Buddha natures in disguise (*honji suijaku* theory). The great pilgrimage routes — [Kumano Kodo](/japan/kumano-kodo-guide), Dewa Sanzan, Shikoku 88 temples — all combine Shinto and Buddhist sacred sites.
 
 The Meiji government's forced separation (*shinbutsu bunri*, 1868) artificially divided what had been integrated. Many Buddhist temples adjacent to shrines were demolished; Buddhist objects were removed from shrine complexes. The landscape you walk through today is partly the result of that separation and partly the result of its incomplete execution — many sites still show the layered syncretism.
 

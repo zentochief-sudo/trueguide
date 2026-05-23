@@ -10,7 +10,7 @@ tags: []
 city: Paris
 ---
 
-Paris is one of the most written-about cities in the world, and yet it still surprises. The beauty of the Haussmann boulevards at dusk, a perfect croissant at 8am, the scale of the Louvre — none of it quite prepares you. Three days gives you the iconic anchors plus enough time to discover the Paris that belongs to the people who actually live here.
+[Paris](/france/paris-travel-guide) is one of the most written-about cities in the world, and yet it still surprises. The beauty of the Haussmann boulevards at dusk, a perfect croissant at 8am, the scale of the Louvre — none of it quite prepares you. Three days gives you the iconic anchors plus enough time to discover the Paris that belongs to the people who actually live here.
 
 ## Day 1 – The Left Bank & The Icons
 
@@ -18,7 +18,7 @@ Paris is one of the most written-about cities in the world, and yet it still sur
 
 Walk east along the **Trocadéro** gardens and across the Pont d'Iéna for the most photographed angle of the tower, then walk east along the Seine past the **Musée du quai Branly** (non-European art in a living green-wall building) to the **Musée d'Orsay**. The Orsay is the world's finest collection of Impressionist art — Monet, Renoir, Degas, Seurat, Van Gogh — housed in a converted 1900 railway station. Allow 2–3 hours.
 
-**Afternoon:** Cross the river to **Saint-Germain-des-Prés** — the intellectual left bank. The cafés on Boulevard Saint-Germain (**Café de Flore**, **Les Deux Magots**) are expensive and touristy but historically significant. Walk south into the **Luxembourg Gardens** for a sit-down, then explore the streets around **Rue Mouffetard** (one of Paris's oldest market streets) and the **Panthéon** (France's secular mausoleum — Voltaire, Rousseau, Marie Curie, Simone Veil are entombed here).
+**Afternoon:** Cross the river to **Saint-Germain-des-Prés** — the intellectual left bank. The cafés on Boulevard Saint-Germain (**Café de Flore**, **Les Deux Magots**) are expensive and touristy but historically significant. Walk south into the **Luxembourg Gardens** for a sit-down, then explore the streets around **Rue Mouffetard** (one of Paris's oldest market streets) and the **Panthéon** ([France](/france)'s secular mausoleum — Voltaire, Rousseau, Marie Curie, Simone Veil are entombed here).
 
 **Evening:** Back in Saint-Germain for dinner. **Allard**, **Le Comptoir du Relais**, or **Polidor** (open since 1845) for classic French bistro cooking.
 
@@ -28,7 +28,7 @@ Walk east along the **Trocadéro** gardens and across the Pont d'Iéna for the m
 
 Walk through the **Tuileries Garden** to the **Place de la Concorde** (where Louis XVI and Marie Antoinette were guillotined) and up the **Champs-Élysées** to the **Arc de Triomphe**. Climb to the top for the view (free for under-26 EU residents).
 
-**Afternoon:** Take the RER C to **Versailles** (45 min, €7.50 transport + entry). Pre-book timed entry online. The Hall of Mirrors is Paris's most spectacular room — 73 metres of arched windows and gilded mirrors reflecting the gardens. The formal gardens stretch 800 metres toward the horizon.
+**Afternoon:** Take the RER C to **[Versailles](/france/versailles-guide)** (45 min, €7.50 transport + entry). Pre-book timed entry online. The Hall of Mirrors is Paris's most spectacular room — 73 metres of arched windows and gilded mirrors reflecting the gardens. The formal gardens stretch 800 metres toward the horizon.
 
 **Evening:** Return to Paris and explore **Le Marais** at night — the **Rue de Bretagne** area, the bars around **Rue Oberkampf**, or the sophisticated cocktail bars of **Rue de Bretagne**. The Marais is Paris's most vibrant neighbourhood after dark.
 

@@ -10,7 +10,7 @@ tags: [Wild Atlantic Way, Ireland, Cliffs of Moher, Dingle, Connemara, Slieve Le
 city: galway
 ---
 
-The Wild Atlantic Way is a 2,500 km marked driving route along Ireland's entire Atlantic coast, from Malin Head in County Donegal (the most northerly point of mainland Ireland) to Mizen Head in County Cork (the most southerly). Launched by Tourism Ireland in 2014, it functions less as a single route and more as a framework for accessing one of Europe's most dramatic coastlines — a succession of sea cliffs, headlands, peninsulas, and offshore islands beaten by the full force of the North Atlantic.
+The Wild Atlantic Way is a 2,500 km marked driving route along [Ireland](/ireland)'s entire Atlantic coast, from Malin Head in County Donegal (the most northerly point of mainland Ireland) to Mizen Head in County [Cork](/ireland/cork-guide) (the most southerly). Launched by Tourism Ireland in 2014, it functions less as a single route and more as a framework for accessing one of Europe's most dramatic coastlines — a succession of sea cliffs, headlands, peninsulas, and offshore islands beaten by the full force of the North Atlantic.
 
 No visitor drives the entire route in one trip. The most visited sections, roughly organized by region, are covered here.
 
@@ -42,7 +42,7 @@ The Burren in May is the best time botanically — mountain avens, gentians, orc
 
 ## Connemara (County Galway)
 
-**West of Galway city, on the N59**
+**West of [Galway](/ireland/galway-guide) city, on the N59**
 
 The defining Wild Atlantic Way landscape — blanket bog, quartzite mountains, island-studded coastline, and the Gaeltacht (Irish-speaking) culture that survives most actively here. The drive from Galway through Clifden to Leenane and on to Westport covers the best of it.
 
@@ -56,7 +56,7 @@ The defining Wild Atlantic Way landscape — blanket bog, quartzite mountains, i
 
 ## The Dingle Peninsula (County Kerry)
 
-**Southwest of Tralee | Most spectacular tip of the Ring of Kerry extension**
+**Southwest of Tralee | Most spectacular tip of the [Ring of Kerry](/ireland/ring-of-kerry-guide) extension**
 
 Fifteen km west of the Ring of Kerry road, the Dingle Peninsula juts into the Atlantic on a scale that produces the most dramatic western headlands in Ireland. The Slea Head Drive (50 km loop from Dingle town) is the standard route.
 
@@ -86,7 +86,7 @@ The highest sea cliffs in Ireland and among the highest in Europe — 601m from 
 **Time required**: A full northern-to-southern traversal requires 2–3 weeks to do justice to the main stops. Most visitors focus on a section:
 - **Donegal only**: 4–5 days
 - **Galway/Clare/Connemara**: 4–5 days from Galway
-- **Kerry/Dingle/Ring of Kerry**: 3–4 days from Killarney
+- **Kerry/Dingle/Ring of Kerry**: 3–4 days from [Killarney](/ireland/killarney-travel-guide)
 - **Kerry + Clare**: 6–7 days combining both
 
 **The car is essential**: There is no meaningful public transport along most of the route. A rental car is the only practical option.

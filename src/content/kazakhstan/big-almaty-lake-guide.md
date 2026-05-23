@@ -10,7 +10,7 @@ tags: [Kazakhstan, Big Almaty Lake, Almaty, Tian Shan, hiking, mountains, day tr
 city: almaty
 ---
 
-Big Almaty Lake (Bolshoe Almatinskoe Ozero) sits at 2,511 meters in the Zailiyskiy Alatau range — a 30-kilometer drive south of downtown Almaty, up a mountain road that climbs from the city's southern edge into a different world. The lake is glacially fed, color-dependent on season (milky turquoise in melt season, deep green-blue in autumn), and surrounded by peaks reaching 4,000+ meters. The observatory complex on the ridge above the lake (the Tian Shan Astronomical Observatory) adds an unexpected architectural element to the mountain landscape.
+Big [Almaty](/kazakhstan/almaty-travel-guide) Lake (Bolshoe Almatinskoe Ozero) sits at 2,511 meters in the Zailiyskiy Alatau range — a 30-kilometer drive south of downtown Almaty, up a mountain road that climbs from the city's southern edge into a different world. The lake is glacially fed, color-dependent on season (milky turquoise in melt season, deep green-blue in autumn), and surrounded by peaks reaching 4,000+ meters. The observatory complex on the ridge above the lake (the Tian Shan Astronomical Observatory) adds an unexpected architectural element to the mountain landscape.
 
 It is the most accessible alpine lake in Central Asia relative to a major city — the fact that 2 million people live 30 kilometers downhill, in steppe heat, makes the arrival at 2,500 meters feel particularly abrupt.
 

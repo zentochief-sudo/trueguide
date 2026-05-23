@@ -10,7 +10,7 @@ tags: [Papagayo, Guanacaste, Costa Rica, beaches, Playa Hermosa, Conchal, dry se
 city: papagayo
 ---
 
-The Papagayo Peninsula and the broader Guanacaste coast make up Costa Rica's premier beach destination — the Pacific northwest region that gets the country's driest and sunniest weather from December through April, when the rest of Costa Rica is receiving regular afternoon rain. The bay of Papagayo itself (also called Culebra Bay) is sheltered by the peninsula, producing calm, clear water that makes it the best swimming and water sports location on the Pacific coast.
+The [Papagayo Peninsula](/costa-rica/papagayo-peninsula-guide) and the broader Guanacaste coast make up [Costa Rica](/costa-rica/costa-rica-travel-guide)'s premier beach destination — the Pacific northwest region that gets the country's driest and sunniest weather from December through April, when the rest of Costa Rica is receiving regular afternoon rain. The bay of Papagayo itself (also called Culebra Bay) is sheltered by the peninsula, producing calm, clear water that makes it the best swimming and water sports location on the Pacific coast.
 
 The beaches here range from the heavily developed (Playa del Coco, with bars and dive shops serving sport fishing boats) to the exclusive resort hideaways (the Four Seasons and Andaz on Papagayo Bay) to the genuinely beautiful and relatively undeveloped (Playa Conchal, Playa Danta). A car unlocks all of them; staying at a resort without one limits you significantly.
 

@@ -22,7 +22,7 @@ The free streetcar runs 2.2 miles on Main Street from River Market (north) to Un
 
 **What it connects**: River Market → City Market → Power & Light District → Crown Center → Union Station. The line passes through most of the visitor-relevant downtown area.
 
-**What it doesn't connect**: The streetcar does not reach Crossroads (a 5-minute walk from the southern stops), Westport (15-minute Uber), Country Club Plaza (2 miles further south), Arrowhead Stadium (9 miles southeast), or the airport.
+**What it doesn't connect**: The streetcar does not reach Crossroads (a 5-minute walk from the southern stops), Westport (15-minute Uber), Country Club Plaza (2 miles further south), [Arrowhead Stadium](/usa/arrowhead-stadium-guide) (9 miles southeast), or the airport.
 
 A **streetcar extension** to the University of Missouri-Kansas City campus through the Crossroads and Westport was in progress — check current status for 2026 service.
 

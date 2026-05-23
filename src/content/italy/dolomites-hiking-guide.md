@@ -10,7 +10,7 @@ tags: [Dolomites, hiking, Cortina, Tre Cime, Alta Via, via ferrata, Italy, mount
 city: cortina
 ---
 
-The Dolomites — the UNESCO World Heritage mountain range of northeastern Italy — offer a hiking experience fundamentally different from the Alps. The rock is pale limestone that turns pink and gold at dawn and dusk (the *enrosadira*, or "rose of the Dolomites"); the vertical walls rise almost directly from relatively flat valleys; and the network of mountain huts (*rifugi*) enables multi-day hiking without tents, luggage transportation services, and traditional Tyrolean meals at altitude.
+The Dolomites — the UNESCO World Heritage mountain range of northeastern [Italy](/italy) — offer a hiking experience fundamentally different from the Alps. The rock is pale limestone that turns pink and gold at dawn and dusk (the *enrosadira*, or "rose of the Dolomites"); the vertical walls rise almost directly from relatively flat valleys; and the network of mountain huts (*rifugi*) enables multi-day hiking without tents, luggage transportation services, and traditional Tyrolean meals at altitude.
 
 The range is accessible from Cortina d'Ampezzo, Bolzano/Bozen, Ortisei, and dozens of smaller villages.
 

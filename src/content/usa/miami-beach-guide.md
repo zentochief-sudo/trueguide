@@ -55,7 +55,7 @@ Above the 63rd Street divide, Miami Beach becomes a series of smaller communitie
 
 ## Miami Beach for World Cup Atmosphere
 
-During matches involving Brazil, Argentina, Colombia, Mexico, or any other major Latin American team, South Beach will function as a giant outdoor watch party. The bars and restaurants along Ocean Drive and Collins Avenue will have screens outside; Lincoln Road will have FIFA-organized viewing areas; Lummus Park (the green strip between Ocean Drive and the beach, 5th–14th Streets) will have informal gatherings that grow spontaneously.
+During matches involving Brazil, Argentina, Colombia, [Mexico](/mexico), or any other major Latin American team, South Beach will function as a giant outdoor watch party. The bars and restaurants along Ocean Drive and Collins Avenue will have screens outside; Lincoln Road will have FIFA-organized viewing areas; Lummus Park (the green strip between Ocean Drive and the beach, 5th–14th Streets) will have informal gatherings that grow spontaneously.
 
 **The timing advantage**: The World Cup schedule of afternoon and evening kickoffs means most matches finish before midnight. South Beach at midnight in July, with fans celebrating a major result, is one of the most kinetic public spaces anywhere in the world. Plan to be somewhere on or near Ocean Drive after a match involving the teams Miami's Latin population supports.
 

@@ -19,7 +19,7 @@ The feel of Obon is specific: summer heat, yukata-clad crowds, the sound of taik
 ## The Timeline
 
 Obon dates vary by region:
-- **Early Obon (Shichigatsu Bon)**: July 13–16, primarily in Tokyo and some urban areas
+- **Early Obon (Shichigatsu Bon)**: July 13–16, primarily in [Tokyo](/japan/tokyo-guide) and some urban areas
 - **Main Obon (Hachigatsu Bon)**: August 13–16 — the dominant national observation
 - **Old calendar Obon**: Late August in some mountain and rural areas
 
@@ -31,7 +31,7 @@ The August 13–16 period sees the largest domestic travel movement in Japan aft
 
 **August 13–15**: The spirits are present. Home altars (*butsudan*) are decorated with flowers, offerings of favorite foods, incense, and lanterns. Families visit graves to clean and decorate them.
 
-**August 16 (Okuribi — "sending fire")**: The spirits are sent back. The most dramatic ceremonies happen on this night — bonfires, floating lanterns, and the most famous Obon event: Kyoto's Daimonji.
+**August 16 (Okuribi — "sending fire")**: The spirits are sent back. The most dramatic ceremonies happen on this night — bonfires, floating lanterns, and the most famous Obon event: [Kyoto](/japan/kyoto-guide)'s Daimonji.
 
 ---
 
@@ -81,9 +81,9 @@ The fires burn for approximately 30 minutes each. The *Daimonji* fire is the lar
 The ceremony of sending lanterns down rivers on the last night of Obon — *toro nagashi* (灯籠流し) — is observed at river locations across Japan. Paper lanterns with candles are placed on water and float downstream, carrying the spirits of the dead back to the other world.
 
 **Major events**:
-- **Hiroshima**: The August 6th Peace Memorial overlaps with Obon; paper lanterns are floated on the Motoyasu River (flowing past the A-bomb Dome) each year on both August 6th and August 15th
+- **[Hiroshima](/japan/hiroshima-guide)**: The August 6th Peace Memorial overlaps with Obon; paper lanterns are floated on the Motoyasu River (flowing past the A-bomb Dome) each year on both August 6th and August 15th
 - **Kyoto**: Toro nagashi on the Oi River at Arashiyama (August 16)
-- **Nara**: Floating lanterns at Ukimido pavilion on Sarusawa Pond (August 15)
+- **[Nara](/japan/nara-guide)**: Floating lanterns at Ukimido pavilion on Sarusawa Pond (August 15)
 - **Various onsen towns and coastal areas**: The image of lanterns on water is repeated at river and sea locations nationwide
 
 ---
@@ -94,7 +94,7 @@ The ceremony of sending lanterns down rivers on the last night of Obon — *toro
 
 **What's closed vs. open**: Obon is simultaneously a festival period (much to see) and a holiday during which many small restaurants, shops, and businesses close. Department stores and major tourist infrastructure remain open; family-run restaurants may close for the week.
 
-**Accommodation**: Ryokan in popular destinations (Kyoto, onsen towns) are booked months ahead for Obon. Hotels have more availability but prices increase.
+**Accommodation**: [Ryokan](/japan/ryokan-guide) in popular destinations (Kyoto, onsen towns) are booked months ahead for Obon. Hotels have more availability but prices increase.
 
 **Yukata opportunity**: Obon festivals are the most appropriate context for renting a yukata — the combination of summer heat, folk dancing, and festival atmosphere is exactly when the yukata is culturally correct.
 

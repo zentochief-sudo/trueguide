@@ -10,7 +10,7 @@ tags: [BMO Field, Toronto, World Cup 2026, FIFA, stadium guide, Exhibition Place
 city: toronto
 ---
 
-BMO Field opened in 2007 as the home of Toronto FC — the first MLS franchise in Canada. The stadium sits on the western waterfront at Exhibition Place, with Lake Ontario immediately south and the Rogers Centre and downtown skyline visible to the east. For World Cup 2026, BMO Field receives temporary seating to bring capacity to approximately 45,000 — expanded from its standard 30,000 but still the smallest permanent-base venue in the tournament.
+BMO Field opened in 2007 as the home of Toronto FC — the first MLS franchise in [Canada](/canada). The stadium sits on the western waterfront at Exhibition Place, with Lake Ontario immediately south and the Rogers Centre and downtown skyline visible to the east. For World Cup 2026, BMO Field receives temporary seating to bring capacity to approximately 45,000 — expanded from its standard 30,000 but still the smallest permanent-base venue in the tournament.
 
 The stadium's identity is soccer-specific (unlike the NFL/multi-purpose venues at most other US World Cup sites), and Toronto FC's fervent supporter culture has built a match-day atmosphere that belies the stadium's size.
 
@@ -78,7 +78,7 @@ The grounds are pleasant in July — the lake breeze moderates the heat, and the
 
 **Harbourfront**: The waterfront strip east of Exhibition Place along Queens Quay West has restaurants and bars with lake views. Pre-match options are better here than in the immediate stadium area.
 
-**Little Portugal / King West**: A 15-minute walk or short streetcar ride east — the restaurant and bar area on King Street West (Ossington, Dundas, Queen) has more pre-match dining options than any other World Cup stadium vicinity in Canada.
+**Little [Portugal](/portugal) / King West**: A 15-minute walk or short streetcar ride east — the restaurant and bar area on King Street West (Ossington, Dundas, Queen) has more pre-match dining options than any other World Cup stadium vicinity in Canada.
 
 **The Waterfront Trail**: Walking west from BMO Field along the lake reaches Humber Bay, with Lake Ontario views and parkland. Worth exploring on non-match days.
 

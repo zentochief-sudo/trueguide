@@ -26,7 +26,7 @@ The ritual of the meal — the wrapping, the condiments, the communal grilling �
 
 **Bulgogi (불고기)**: The marinated beef most familiar to non-Koreans — thin strips marinated in soy sauce, sugar, sesame oil, garlic, and Korean pear (which tenderizes the protein). At a BBQ restaurant, bulgogi arrives thinly sliced and cooks very quickly. In non-BBQ restaurants, bulgogi is sometimes served as a stir-fry.
 
-**Deungsim (등심) / Chadol**: Sirloin or ribeye beef, sold as premium options at higher-end Korean BBQ restaurants. Marbled Hanwoo (Korean native cattle) beef is the domestic premium; Jeju black cattle and specific Hanwoo grades drive the top-tier restaurants.
+**Deungsim (등심) / Chadol**: Sirloin or ribeye beef, sold as premium options at higher-end Korean BBQ restaurants. Marbled Hanwoo (Korean native cattle) beef is the domestic premium; [Jeju](/korea/jeju-guide) black cattle and specific Hanwoo grades drive the top-tier restaurants.
 
 **Moksal (목살)**: Pork neck — more fat and connective tissue than pork belly, giving a stronger flavor when grilled. Common as a less expensive alternative to samgyeopsal.
 

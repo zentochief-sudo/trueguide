@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in India is both too much and nowhere near enough. This itinerary covers the classic north (Delhi, Agra, Rajasthan) and adds the profound cultural contrast of Kerala in the south — giving you the full breadth of what India means as a civilisation.
+Two weeks in [India](/india) is both too much and nowhere near enough. This itinerary covers the classic north ([Delhi](/india/delhi-guide), Agra, [Rajasthan](/india/rajasthan-guide)) and adds the profound cultural contrast of [Kerala](/india/kerala-guide) in the south — giving you the full breadth of what India means as a civilisation.
 
 ## Days 1–2 – Delhi
 
@@ -24,7 +24,7 @@ Gatimaan Express (2h) to Agra. Taj Mahal in the afternoon light, Agra Fort befor
 
 ## Day 4 – Taj at Sunrise & Onward to Jaipur
 
-Return to the Taj at 6am for sunrise. Drive west to Jaipur via Fatehpur Sikri (the abandoned Mughal ghost city) and Abhaneri stepwell.
+Return to the Taj at 6am for sunrise. Drive west to [Jaipur](/india/jaipur-guide) via Fatehpur Sikri (the abandoned Mughal ghost city) and Abhaneri stepwell.
 
 ## Days 5–6 – Jaipur
 
@@ -56,7 +56,7 @@ A lake boat tour at sunset on Lake Pichola for the best view of the City Palace 
 
 ## Day 11 – Fly to Kerala
 
-Fly from Udaipur (via Mumbai) to **Kochi (Cochin)** in Kerala — the gateway to South India's most distinctive state. The contrast with Rajasthan is dramatic: lush green tropical vegetation, a Christian, Hindu, and Jewish cultural mix, and a completely different cuisine.
+Fly from Udaipur (via [Mumbai](/india/mumbai-guide)) to **Kochi (Cochin)** in Kerala — the gateway to South India's most distinctive state. The contrast with Rajasthan is dramatic: lush green tropical vegetation, a Christian, Hindu, and Jewish cultural mix, and a completely different cuisine.
 
 **Fort Kochi** is a charming colonial enclave — Chinese fishing nets along the waterfront, the oldest European church in India (St Francis Church, 1503), Jewish Quarter and Paradesi Synagogue, and the colonial-era streets. An evening performance of **Kathakali** (Kerala's classical dance-drama) is extraordinary.
 

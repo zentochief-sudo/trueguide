@@ -10,7 +10,7 @@ tags: [Coptic Cairo, Hanging Church, Ben Ezra Synagogue, Egypt, Christian, Copti
 city: cairo
 ---
 
-Coptic Cairo is one of the most concentrated historic religious neighborhoods in the world — an area of roughly two city blocks containing churches from the 3rd and 5th centuries, a synagogue from the 9th century, and a mosque from the 7th century, all within walking distance of each other. Egypt's Coptic Christian community is the largest in the Middle East, accounting for approximately 10–15% of Egypt's population, and this compact neighborhood is the heart of their historical identity.
+Coptic [Cairo](/egypt/cairo-travel-guide) is one of the most concentrated historic religious neighborhoods in the world — an area of roughly two city blocks containing churches from the 3rd and 5th centuries, a synagogue from the 9th century, and a mosque from the 7th century, all within walking distance of each other. [Egypt](/egypt)'s Coptic Christian community is the largest in the Middle East, accounting for approximately 10–15% of Egypt's population, and this compact neighborhood is the heart of their historical identity.
 
 The area is also where tradition holds that the Holy Family — Mary, Joseph, and the infant Jesus — sheltered during their flight from Herod into Egypt. Whether this is history or faith, the combination of ancient churches, the excavated Roman fortress, and the densely atmospheric lanes makes Coptic Cairo one of the most evocative neighborhoods in the city.
 

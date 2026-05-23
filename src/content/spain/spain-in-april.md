@@ -10,13 +10,13 @@ tags: [Spain, April, Semana Santa, Holy Week, Feria de Abril, Seville, spring, t
 city: national
 ---
 
-April may be Spain's best month. The weather is near-perfect across the country — warm but not hot, clear skies, spring green on every hillside. And the cultural calendar is extraordinary: Semana Santa delivers the most visually dramatic religious processions in the world, and Feria de Abril in Seville — the April Fair — follows a fortnight later with flamenco, horses, and sherry until dawn. This is when Spain performs at its highest level.
+April may be [Spain](/spain)'s best month. The weather is near-perfect across the country — warm but not hot, clear skies, spring green on every hillside. And the cultural calendar is extraordinary: Semana Santa delivers the most visually dramatic religious processions in the world, and Feria de Abril in Seville — the April Fair — follows a fortnight later with flamenco, horses, and sherry until dawn. This is when Spain performs at its highest level.
 
 ## Weather in April
 
 **Madrid:** 10°C to 20°C. Ideal sightseeing weather. Some rain, but the city is beautiful in spring. Retiro Park in full bloom.
 
-**Barcelona:** 14°C to 22°C. Warm spring days; outdoor café culture in full swing. Beach weather approaching (water still cold for swimming). The city before summer crowds.
+**[Barcelona](/spain/barcelona-travel-guide):** 14°C to 22°C. Warm spring days; outdoor café culture in full swing. Beach weather approaching (water still cold for swimming). The city before summer crowds.
 
 **Seville:** 16°C to 25°C. The best version of Seville — orange blossom scent everywhere, warm days, outdoor festivals. The city at its peak.
 

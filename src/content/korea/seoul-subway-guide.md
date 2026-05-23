@@ -10,7 +10,7 @@ tags: [Seoul, subway, metro, South Korea, transport, T-Money, Line 2, navigation
 city: seoul
 ---
 
-The Seoul Metropolitan Subway is one of the world's great transit systems. Nine million passengers per day, 23 lines, 927 stations (as of 2024), fares that start at ₩1,400, and an average on-time performance that embarrasses most Western transit agencies. It reaches every major neighborhood, connects to the national KTX network, and extends to Incheon Airport via the Airport Railroad Express (AREX).
+The Seoul Metropolitan Subway is one of the world's great transit systems. Nine million passengers per day, 23 lines, 927 stations (as of 2024), fares that start at ₩1,400, and an average on-time performance that embarrasses most Western transit agencies. It reaches every major neighborhood, connects to the national KTX network, and extends to [Incheon](/korea/incheon-guide) Airport via the Airport Railroad Express (AREX).
 
 Learning to use it takes about thirty minutes. This guide covers everything you need.
 

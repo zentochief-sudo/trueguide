@@ -10,7 +10,7 @@ tags: [Réunion, Indian Ocean, volcano, Piton de la Fournaise, Mafate, Cilaos, C
 city: saint-denis
 ---
 
-Réunion is a French overseas département in the Indian Ocean — administratively part of France, using the euro, with French infrastructure and a French public health system — but geographically an island 800 km east of Madagascar and 170 km southwest of Mauritius. It is one of the most geologically young and actively volcanic places on earth, and the combination of that volcanic energy with 3,000-meter peaks, three spectacular caldera cirques, and a warm-ocean coastline creates an island with no real equivalent.
+Réunion is a French overseas département in the Indian Ocean — administratively part of [France](/france), using the euro, with French infrastructure and a French public health system — but geographically an island 800 km east of Madagascar and 170 km southwest of Mauritius. It is one of the most geologically young and actively volcanic places on earth, and the combination of that volcanic energy with 3,000-meter peaks, three spectacular caldera cirques, and a warm-ocean coastline creates an island with no real equivalent.
 
 The population is a Creole mix of French, African, Malagasy, Indian, and Chinese heritage, producing a culture and cuisine that is genuinely distinct from mainland France and from any neighboring island.
 
@@ -18,9 +18,9 @@ The population is a Creole mix of French, African, Malagasy, Indian, and Chinese
 
 ## What Makes Réunion Unusual
 
-**Active volcano**: Piton de la Fournaise erupts on average every 9 months. The eastern side of the island has been continuously reshaped by lava flows for tens of thousands of years. Visitors can walk into the volcanic caldera (when open), approach lava flows during active eruptions by helicopter, and see geological processes that normally take millions of years happening in real time.
+**Active volcano**: [Piton de la Fournaise](/reunion/piton-de-la-fournaise-guide) erupts on average every 9 months. The eastern side of the island has been continuously reshaped by lava flows for tens of thousands of years. Visitors can walk into the volcanic caldera (when open), approach lava flows during active eruptions by helicopter, and see geological processes that normally take millions of years happening in real time.
 
-**The cirques**: Three enormous natural amphitheaters carved by erosion into the volcanic interior — Mafate (accessible only on foot, no roads), Cilaos, and Salazie. The vertical caldera walls rise 1,500m from the floor; the villages inside are cooler, more remote, and culturally distinct from the coastal settlements.
+**The cirques**: Three enormous natural amphitheaters carved by erosion into the volcanic interior — Mafate (accessible only on foot, no roads), [Cilaos](/reunion/cilaos-guide), and Salazie. The vertical caldera walls rise 1,500m from the floor; the villages inside are cooler, more remote, and culturally distinct from the coastal settlements.
 
 **Hiking density**: Réunion has 1,000 km of marked hiking trails and two long-distance routes (GR R1 and GR R2) that traverse the entire island through the cirques and over the high plateau. The hiking quality is exceptional — the scenery changes from tropical forest to alpine meadow to lunar lava field within a single multi-day route.
 
@@ -34,7 +34,7 @@ The population is a Creole mix of French, African, Malagasy, Indian, and Chinese
 
 **Saint-Gilles-les-Bains** (west coast): The main beach and tourist resort area — the lagoon is protected by a reef, the water calm and clear, the beach infrastructure well-developed. The coral reef snorkeling from the beach is accessible. More like a conventional beach resort than the rest of the island.
 
-**Cilaos** (central cirque): A village at 1,200m inside the Cilaos cirque — hot springs, wine, lentils, and the starting point for the Piton des Neiges ascent. The 400-hairpin access road is a destination in itself.
+**Cilaos** (central cirque): A village at 1,200m inside the Cilaos cirque — hot springs, wine, lentils, and the starting point for the [Piton des Neiges](/reunion/piton-des-neiges-guide) ascent. The 400-hairpin access road is a destination in itself.
 
 **Saint-Pierre** (south coast): The second city — a livelier mix of young local population, restaurants, and access to the volcano routes. The starting point for the Plaine des Sables road to the volcano.
 

@@ -10,7 +10,7 @@ tags: [Canada, January, winter, skiing, Whistler, Quebec, northern lights]
 city: national
 ---
 
-January is when Canada stops apologizing for its weather. The country leans into the cold: ice hotels are fully assembled, ski resorts are at peak operation, and cities like Quebec host some of the world's best winter festivals. If you're coming from a warmer climate, this is an extreme choice. If winter is the point, January is the payoff.
+January is when [Canada](/canada) stops apologizing for its weather. The country leans into the cold: ice hotels are fully assembled, ski resorts are at peak operation, and cities like Quebec host some of the world's best winter festivals. If you're coming from a warmer climate, this is an extreme choice. If winter is the point, January is the payoff.
 
 ## Weather & Conditions
 

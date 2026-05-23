@@ -10,7 +10,7 @@ tags: [France, January, Paris, winter, ski, Alps, low season, soldes, travel tip
 city: national
 ---
 
-January is France's reset month — the holiday crowds have cleared, the country returns to its own rhythm, and the combination of low tourism, winter sales, and excellent ski conditions makes it one of the most efficient months to visit. Paris in January is the most local version of the city: the queues at the Louvre are short, the café terraces are heated and occupied by Parisians rather than tourists, and the city has the grey, intimate quality that its literature has always described better than its postcards.
+January is [France](/france)'s reset month — the holiday crowds have cleared, the country returns to its own rhythm, and the combination of low tourism, winter sales, and excellent ski conditions makes it one of the most efficient months to visit. [Paris](/france/paris-travel-guide) in January is the most local version of the city: the queues at the Louvre are short, the café terraces are heated and occupied by Parisians rather than tourists, and the city has the grey, intimate quality that its literature has always described better than its postcards.
 
 ## Weather in January
 
@@ -18,7 +18,7 @@ January is France's reset month — the holiday crowds have cleared, the country
 
 **Lyon:** 1°C to 7°C. Colder than Paris. Fog common in the Rhône valley. The city's indoor bouchon (traditional restaurant) culture is ideal for winter.
 
-**Bordeaux:** 4°C to 11°C. Milder than inland France. The wine region is dormant but the city is excellent for winter tourism.
+**[Bordeaux](/france/bordeaux-guide):** 4°C to 11°C. Milder than inland France. The wine region is dormant but the city is excellent for winter tourism.
 
 **Nice/French Riviera:** 8°C to 14°C. The warmest part of mainland France in January — comfortable walking weather, no beach swimming, but the Promenade des Anglais and the old town (Vieux-Nice) are pleasant without summer crowds.
 

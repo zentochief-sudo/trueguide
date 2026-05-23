@@ -10,7 +10,7 @@ tags: [Kamishichiken, Kyoto hanamachi, geiko, maiko, Kitano Tenmangu, Kitano Odo
 city: kyoto
 ---
 
-Kamishichiken (*上七軒* — "seven upper houses") is the oldest of Kyoto's five *hanamachi* (flower districts) — the geiko districts that maintain the city's tradition of professional female entertainers trained in classical arts. While Gion Kobu is the most prestigious and most visited, Kamishichiken is the most traditional, the least tourist-facing, and the most unchanged.
+Kamishichiken (*上七軒* — "seven upper houses") is the oldest of [Kyoto](/japan/kyoto-guide)'s five *hanamachi* (flower districts) — the geiko districts that maintain the city's tradition of professional female entertainers trained in classical arts. While Gion Kobu is the most prestigious and most visited, Kamishichiken is the most traditional, the least tourist-facing, and the most unchanged.
 
 The name refers to seven teahouses said to have been established in the 15th century using timber from the reconstruction of Kitano Tenmangu shrine following a fire. The same street of wooden ochaya (teahouses) still stands northwest of the shrine — a preserved block of traditional architecture where geiko walk between appointments in the early evening just as they did in the Edo period.
 

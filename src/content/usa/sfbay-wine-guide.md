@@ -10,7 +10,7 @@ tags: [Napa Valley, Sonoma, wine, day trip, San Francisco, World Cup 2026, Calif
 city: sfbay
 ---
 
-California wine country is one of the most compelling reasons to spend extra days in the SF Bay Area around World Cup matches. Napa Valley and Sonoma County are both within 60–90 minutes of San Francisco, both at peak season in July (the vines are full, temperatures are warm, harvest is approaching), and both offer experiences that don't exist anywhere else in proximity to a World Cup venue.
+California wine country is one of the most compelling reasons to spend extra days in the SF Bay Area around World Cup matches. Napa Valley and Sonoma County are both within 60–90 minutes of [San Francisco](/united-states/san-francisco-guide), both at peak season in July (the vines are full, temperatures are warm, harvest is approaching), and both offer experiences that don't exist anywhere else in proximity to a World Cup venue.
 
 The two regions have different characters: Napa is more formal, more expensive, and more focused on Cabernet Sauvignon; Sonoma is larger, more casual, more diverse in varietals, and more accessible for visitors without wine expertise. Both are worth the trip.
 

@@ -10,19 +10,19 @@ tags: [Portugal, August, summer, Algarve, Lisbon, Madeira, festivals, heat, trav
 city: national
 ---
 
-August is Portugal's most intense month — the country at the highest point of the tourist cycle. The Algarve is fully committed to beach tourism. Lisbon's locals have largely fled to the coast or Alentejo, replaced by visitors from across Europe. The heat inland is serious — Évora and the Alentejo plains can exceed 40°C. And yet August has its own logic: the best beaches in Europe are here, the festival program continues, and managing the peak is simply a matter of planning correctly.
+August is [Portugal](/portugal)'s most intense month — the country at the highest point of the tourist cycle. The [Algarve](/portugal/algarve-guide) is fully committed to beach tourism. [Lisbon](/portugal/lisbon-guide)'s locals have largely fled to the coast or Alentejo, replaced by visitors from across Europe. The heat inland is serious — Évora and the Alentejo plains can exceed 40°C. And yet August has its own logic: the best beaches in Europe are here, the festival program continues, and managing the peak is simply a matter of planning correctly.
 
 ## Weather in August
 
 **Lisbon:** 20°C to 32°C. Hot, dry. The afternoon nortada (Atlantic northerly wind) provides relief. August evenings are warm enough for outdoor dining until midnight.
 
-**Porto:** 18°C to 28°C. Warm and pleasant — Porto has the most manageable August climate of any major Portuguese city.
+**[Porto](/portugal/porto-guide):** 18°C to 28°C. Warm and pleasant — Porto has the most manageable August climate of any major Portuguese city.
 
 **Algarve:** 23°C to 33°C. Peak summer. Sea temperature 24–25°C. Maximum sunshine hours. Minimum rain probability.
 
 **Alentejo:** 22°C to 40°C. The interior plains in August are serious heat — the medieval towns are worth visiting for early morning and late evening only.
 
-**Douro Valley:** 22°C to 38°C. The valley in August traps heat. Vineyard activity continues — the grapes are ripening toward harvest. Not the optimal visiting month.
+**[Douro Valley](/portugal/douro-valley-guide):** 22°C to 38°C. The valley in August traps heat. Vineyard activity continues — the grapes are ripening toward harvest. Not the optimal visiting month.
 
 ## Algarve in August
 
@@ -89,7 +89,7 @@ August = annual price maximum for most of Portugal. Accommodation peaks in the A
 
 ## Practical Notes
 
-- **Water safety:** The Atlantic coast (Cascais, Costa Vicentina, Sintra coast) has powerful currents in summer. Swim only on flagged beaches. The sheltered Algarve and Arrábida are safer for non-strong swimmers.
+- **Water safety:** The Atlantic coast (Cascais, Costa Vicentina, [Sintra](/portugal/sintra-guide) coast) has powerful currents in summer. Swim only on flagged beaches. The sheltered Algarve and Arrábida are safer for non-strong swimmers.
 - **August 15:** Assumption of Mary — national public holiday in Portugal. Businesses close; beach destinations are at maximum domestic tourist density this weekend.
 - **Car rental in August:** Book 2–3 months ahead and expect premium pricing. Lisbon airport rental queues can be 60+ minutes.
 - **Restaurant reservations:** August dinner reservations in Lisbon, Porto, and Algarve coastal towns — book the same week at minimum, 2 weeks ahead for well-reviewed spots.

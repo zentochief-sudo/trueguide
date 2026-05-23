@@ -10,7 +10,7 @@ tags: [Canada, December, winter, Christmas, skiing, Whistler, Quebec City]
 city: national
 ---
 
-December gives Canada a quality it lacks in warmer months: the sense that winter is not an obstacle but the whole point. The cities install their lights and markets. Quebec City looks like a fairy tale under fresh snow. The Rocky Mountain ski resorts are fully open. And the aurora burns over the Yukon while dog sled season starts. It's expensive, it's cold, and for the right traveler it's extraordinary.
+December gives [Canada](/canada) a quality it lacks in warmer months: the sense that winter is not an obstacle but the whole point. The cities install their lights and markets. Quebec City looks like a fairy tale under fresh snow. The Rocky Mountain ski resorts are fully open. And the aurora burns over the Yukon while dog sled season starts. It's expensive, it's cold, and for the right traveler it's extraordinary.
 
 ## Weather & Conditions
 

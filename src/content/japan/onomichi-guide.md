@@ -12,15 +12,15 @@ city: national
 
 Onomichi climbs a hill. The train station sits at sea level, the Seto Inland Sea in front; behind the station the hill rises steeply, and the town — its temples, its narrow paths, its machiya townhouses — is arranged on that slope. The cable car (ropeway) provides access to the hillside; the *Sando* (temple walk path) threads through 25 Buddhist temples and Shinto shrines along the slope.
 
-The city appears repeatedly in Japanese cinema. Yasujiro Ozu used Onomichi for the opening and closing sequences of *Tokyo Story* (1953) — the elderly parents' hometown, where the film begins and returns for the funeral. Nobuhiro Suwa, Shinji Somai, and others followed. The accumulated cinematic presence gave Onomichi a specific melancholy quality in cultural consciousness; actual Onomichi is less melancholy and more quietly alive.
+The city appears repeatedly in Japanese cinema. Yasujiro Ozu used Onomichi for the opening and closing sequences of *[Tokyo](/japan/tokyo-guide) Story* (1953) — the elderly parents' hometown, where the film begins and returns for the funeral. Nobuhiro Suwa, Shinji Somai, and others followed. The accumulated cinematic presence gave Onomichi a specific melancholy quality in cultural consciousness; actual Onomichi is less melancholy and more quietly alive.
 
 ---
 
 ## Getting There
 
-**From Hiroshima**: JR San'yo Line to Onomichi (75 minutes, ¥1,340). JR Pass valid. The San'yo Line runs along the coast; the approach from the west on the inland sea side gives sea views.
+**From [Hiroshima](/japan/hiroshima-guide)**: JR San'yo Line to Onomichi (75 minutes, ¥1,340). JR Pass valid. The San'yo Line runs along the coast; the approach from the west on the inland sea side gives sea views.
 
-**From Fukuyama**: JR to Onomichi (22 minutes, ¥330). Fukuyama is on the Shinkansen route from Tokyo/Osaka.
+**From Fukuyama**: JR to Onomichi (22 minutes, ¥330). Fukuyama is on the Shinkansen route from Tokyo/[Osaka](/japan/osaka-guide).
 
 **From Osaka**: Shinkansen to Fukuyama (90 minutes), then JR to Onomichi (22 minutes).
 
@@ -36,7 +36,7 @@ The official Onomichi Temple Walk links 25 temples and shrines on the hillside i
 
 *Saikoku-ji*: The largest temple in the walk — the approach through a long stone staircase flanked by stone lanterns leads to the main hall and the hillside area behind it. A three-story pagoda visible from the approach road is one of Onomichi's landmark silhouettes.
 
-*Jodo-ji*: Near the upper end of the walk; the most visually intact of the temple buildings, with original Kamakura-period structures.
+*Jodo-ji*: Near the upper end of the walk; the most visually intact of the temple buildings, with original [Kamakura](/japan/kamakura-guide)-period structures.
 
 *Fukuzen-ji Tachibanadai*: The temple with the best view over the Seto Inland Sea — from the elevated garden, the view of the water, the islands, and the fishing boat traffic is what Ozu used as the film's establishing landscape.
 
@@ -78,7 +78,7 @@ The cats in Onomichi are a result of the geography (the hillside keeps them rela
 
 ## Innoshima and Ikuchijima
 
-The first islands of the Shimanami Kaido are accessible from Onomichi by ferry — a 20-minute crossing to Mukaishima, then bridges onward. The ferry system operates independently of the cycling route; passengers can ride without bikes.
+The first islands of the [Shimanami Kaido](/japan/shimanami-kaido-guide) are accessible from Onomichi by ferry — a 20-minute crossing to Mukaishima, then bridges onward. The ferry system operates independently of the cycling route; passengers can ride without bikes.
 
 **Ferry from Onomichi**: Onomichi → Mukaishima (5 minutes, ¥110); Onomichi → Setoda/Ikuchijima (70 minutes, ¥1,200). The longer ferry route to Setoda is the scenic option — the full inland sea crossing past multiple islands.
 

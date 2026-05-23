@@ -10,7 +10,7 @@ tags: [Korean street food, South Korea, tteokbokki, hotteok, pajeon, bungeoppang
 city: national
 ---
 
-Korean street food operates through a distributed network of vendors, markets, and *pojangmacha* (tent bars/eateries) that appear with consistency across every Korean city. Some items are universal — you'll find tteokbokki from Seoul to Busan. Others are regional or seasonal. Together they represent one of the most versatile and well-developed street food cultures in Asia.
+Korean street food operates through a distributed network of vendors, markets, and *pojangmacha* (tent bars/eateries) that appear with consistency across every Korean city. Some items are universal — you'll find tteokbokki from Seoul to [Busan](/korea/busan-guide). Others are regional or seasonal. Together they represent one of the most versatile and well-developed street food cultures in Asia.
 
 The social logic is important: Korean street food is not eaten quickly out of necessity. It's eaten while standing with friends at a vendor stall, shared in the middle of a market, or ordered as late-night snacks from a pojangmacha at 11pm. The food is both fuel and occasion.
 
@@ -21,7 +21,7 @@ The social logic is important: Korean street food is not eaten quickly out of ne
 ### Tteokbokki (떡볶이)
 Chewy cylindrical rice cakes cooked in a sauce of gochujang (red pepper paste), gochugaru (red pepper flakes), soy sauce, sugar, and fish stock. The sauce level ranges from mild to alarming depending on the vendor. Everything else that goes in the pan is bonus material: fish cakes (eomuk), boiled eggs, ramen noodles, cheese, mandu (dumplings), rice rolls (kimbap cut into pieces).
 
-**Where to find the best**: Traditional market versions are spicier and more complex than the chain versions. **Sindang Tteokbokki Town** in Seoul is a full corridor of vendors who have been competing on this one dish for decades. Gwangjang Market.
+**Where to find the best**: Traditional market versions are spicier and more complex than the chain versions. **Sindang Tteokbokki Town** in Seoul is a full corridor of vendors who have been competing on this one dish for decades. [Gwangjang Market](/korea/gwangjang-market-guide).
 
 **Eating it**: The sauce goes everywhere. Paper cup provided by vendors is your main defense.
 
@@ -110,11 +110,11 @@ The atmosphere is specific and worth finding. Look for the clusters of plastic c
 
 **Busan**: Raw oysters and sea snails at Jagalchi Fish Market; ssiat hotteok at BIFF Square; milmyeon (wheat flour cold noodles specific to Busan) at any noodle shop near the port.
 
-**Jeonju**: All jeon (savory pancakes) culture; makgeolli with hanamari (drinking snack spread); late-night kongnamul gukbap (soybean sprout soup with rice).
+**[Jeonju](/korea/jeonju-guide)**: All jeon (savory pancakes) culture; makgeolli with hanamari (drinking snack spread); late-night kongnamul gukbap (soybean sprout soup with rice).
 
-**Andong**: Andong jjimdak (braised chicken with glass noodles and vegetables in soy-sesame sauce) — technically a restaurant dish but eaten casually; Heotjesabap (simple ancestral offerings rice).
+**[Andong](/korea/andong-guide)**: Andong jjimdak (braised chicken with glass noodles and vegetables in soy-sesame sauce) — technically a restaurant dish but eaten casually; Heotjesabap (simple ancestral offerings rice).
 
-**Jeju**: Black pork (heukdwaeji) — the island's Berkshire-descendent pigs produce pork with more fat and flavor than standard Korean pork. Haenyeo (female divers) seafood: raw abalone, sea urchin, and turban shell.
+**[Jeju](/korea/jeju-guide)**: Black pork (heukdwaeji) — the island's Berkshire-descendent pigs produce pork with more fat and flavor than standard Korean pork. Haenyeo (female divers) seafood: raw abalone, sea urchin, and turban shell.
 
 ---
 

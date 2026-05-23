@@ -18,7 +18,7 @@ Beyond the history, Philadelphia has the most underrated food scene of any World
 
 ## The Basics
 
-**Stadium**: Lincoln Financial Field, One Lincoln Financial Field Way, Philadelphia, PA  
+**Stadium**: [Lincoln Financial](/united-states/lincoln-financial-guide) Field, One Lincoln Financial Field Way, Philadelphia, PA  
 **Capacity**: 69,176  
 **Matches**: 6 World Cup matches including a semifinal  
 **Base city**: Philadelphia (complete base)  

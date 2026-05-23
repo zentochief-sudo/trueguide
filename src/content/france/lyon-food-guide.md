@@ -10,9 +10,9 @@ tags: [Lyon, France, food, bouchon, Paul Bocuse, Halles de Lyon, Croix-Rousse, F
 city: lyon
 ---
 
-Lyon's claim to be the gastronomic capital of France is not humble or uncertain — it is the confident assertion of a city that has been feeding itself exceptionally well for 500 years. The bouchon tradition (small restaurants serving Lyonnais bistro food), the Halles de Lyon Paul Bocuse (the covered market bearing France's most famous chef's name), the Croix-Rousse morning market, and the concentration of one- and two-star Michelin restaurants per capita all support the claim.
+Lyon's claim to be the gastronomic capital of [France](/france) is not humble or uncertain — it is the confident assertion of a city that has been feeding itself exceptionally well for 500 years. The bouchon tradition (small restaurants serving Lyonnais bistro food), the Halles de Lyon Paul Bocuse (the covered market bearing France's most famous chef's name), the Croix-Rousse morning market, and the concentration of one- and two-star Michelin restaurants per capita all support the claim.
 
-The argument against Paris is straightforward: Paris is where French cuisine is *performed* for international audiences; Lyon is where it lives.
+The argument against [Paris](/france/paris-travel-guide) is straightforward: Paris is where French cuisine is *performed* for international audiences; Lyon is where it lives.
 
 ---
 

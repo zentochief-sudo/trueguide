@@ -10,7 +10,7 @@ tags: [Italy, September, harvest, Tuscany, wine, Sardinia, Venice, autumn, shoul
 city: national
 ---
 
-If Italy has one optimal month, September is the answer. The summer crowds clear after the first week. The Mediterranean stays warm enough for excellent swimming through the entire month (sea temperature 25–26°C). The Tuscan and Piedmontese harvest festivals begin. Prices drop 20–40% below August across coastal destinations. And the cultural cities — Rome, Florence, Venice — return to something approaching functional. September is the traveler's Italy.
+If [Italy](/italy) has one optimal month, September is the answer. The summer crowds clear after the first week. The Mediterranean stays warm enough for excellent swimming through the entire month (sea temperature 25–26°C). The Tuscan and Piedmontese harvest festivals begin. Prices drop 20–40% below August across coastal destinations. And the cultural cities — [Rome](/italy/rome-guide), Florence, Venice — return to something approaching functional. September is the traveler's Italy.
 
 ## Weather in September
 

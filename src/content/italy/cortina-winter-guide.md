@@ -10,7 +10,7 @@ tags: [Cortina, Italy, skiing, 2026 Winter Olympics, Dolomiti Superski, Dolomite
 city: cortina
 ---
 
-Cortina d'Ampezzo has been Italy's most glamorous ski resort since the 1920s, when it became fashionable among the European aristocracy and literary set. Hemingway wrote parts of *A Farewell to Arms* in the town. The 1956 Winter Olympics put it on the global map. The fashion brands on Corso Italia (the pedestrian main street) and the aperitivo scene at the historic Tofane bar are as much part of the Cortina experience as the skiing.
+Cortina d'Ampezzo has been [Italy](/italy)'s most glamorous ski resort since the 1920s, when it became fashionable among the European aristocracy and literary set. Hemingway wrote parts of *A Farewell to Arms* in the town. The 1956 Winter Olympics put it on the global map. The fashion brands on Corso Italia (the pedestrian main street) and the aperitivo scene at the historic Tofane bar are as much part of the Cortina experience as the skiing.
 
 The 2026 Winter Olympics return Cortina to the global spotlight — the alpine skiing events (downhill, super-G, and slalom) will be held on the Olympia delle Tofane and the historic Staunies downhill course. The infrastructure investment has already upgraded lifts and trails throughout the area.
 
@@ -78,7 +78,7 @@ The pedestrian main street — the Milanese fashion brands (Prada, Fendi, Max Ma
 
 **From Venice airport (VCE)**: The standard arrival point. 3 hours by car (A27 motorway to Belluno, then mountain roads). Organized transfers available from Venice (€70–100/person shared, €250+ private).
 
-**From Milan**: 4 hours by car. Alternatively, train to Calalzo di Cadore (3 hours from Milan) and bus connection to Cortina (1 hour).
+**From [Milan](/italy/milan-travel-guide)**: 4 hours by car. Alternatively, train to Calalzo di Cadore (3 hours from Milan) and bus connection to Cortina (1 hour).
 
 **New Cortina Airport**: A small airfield at Fiames, 5 km from town, primarily for private aviation.
 

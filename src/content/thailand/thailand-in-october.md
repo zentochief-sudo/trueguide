@@ -10,13 +10,13 @@ tags: [Thailand, October, Vegetarian Festival, Phuket, Ok Phansa, transition, An
 city: national
 ---
 
-October is Thailand's transition month — the Andaman coast begins its long dry-out from monsoon, the Gulf coast's northeast monsoon arrives and starts affecting Ko Samui, and the two great October events (the Vegetarian Festival and Ok Phansa) make this one of the most culturally rich months in the Thai calendar. Prices begin rising from September's annual minimum. October rewards travelers who plan around the events and understand the shifting coast dynamics.
+October is [Thailand](/thailand)'s transition month — the Andaman coast begins its long dry-out from monsoon, the Gulf coast's northeast monsoon arrives and starts affecting Ko Samui, and the two great October events (the Vegetarian Festival and Ok Phansa) make this one of the most culturally rich months in the Thai calendar. Prices begin rising from September's annual minimum. October rewards travelers who plan around the events and understand the shifting coast dynamics.
 
 ## The Thailand Coast Split in October
 
 October marks the inversion point:
 
-**Andaman Coast (Phuket/Krabi):** The monsoon is ending — the last heavy rains are in October, tapering toward the dry season that arrives fully in November. Late October sees improving conditions; some dive operators start returning to offshore sites.
+**Andaman Coast ([Phuket](/thailand/phuket-guide)/Krabi):** The monsoon is ending — the last heavy rains are in October, tapering toward the dry season that arrives fully in November. Late October sees improving conditions; some dive operators start returning to offshore sites.
 
 **Gulf Coast (Ko Samui/Ko Phangan):** The northeast monsoon arrives — October brings increasing rain and rough seas to Ko Samui and Ko Phangan. This is when the Gulf coast's rainy season begins, which runs through January.
 
@@ -42,7 +42,7 @@ Ok Phansa falls on the full moon of the 11th lunar month (late October or early 
 
 - **Tak Bat Thewo** ceremony — locals offer food and alms to monks filing from their temples
 - **Loi Ruea Fai (Boat Float Festival):** Illuminated boats are floated on rivers and canals throughout Thailand
-- **Thod Kathin:** The post-Ok Phansa period (one month) is the Kathin season — the ceremony where new robes are offered to monks by laypeople and temple sponsors. The most elaborate Kathin ceremonies in Bangkok involve royal barges on the Chao Phraya.
+- **Thod Kathin:** The post-Ok Phansa period (one month) is the Kathin season — the ceremony where new robes are offered to monks by laypeople and temple sponsors. The most elaborate Kathin ceremonies in [Bangkok](/thailand/bangkok-guide) involve royal barges on the Chao Phraya.
 
 **Royal Kathin in Bangkok:** In the Ok Phansa season, the Royal Barge Procession on the Chao Phraya — 52 barges including the ornate Suphannahong royal barge — transports the King's Kathin offering to riverside temples. This only happens a few times a decade for the full royal ceremony; the annual royal Kathin is a smaller version but still extraordinary.
 

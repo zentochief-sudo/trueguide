@@ -10,7 +10,7 @@ tags: [India, December, peak season, Goa, Rajasthan, Kerala, Christmas, Delhi]
 city: national
 ---
 
-December is India's busiest and most expensive month. The combination of post-Christmas Northern Hemisphere travelers, ideal temperatures across most of the country, and the festive atmosphere of the holiday season creates maximum demand. Goa at Christmas is a genuine phenomenon. Rajasthan is at its most polished. Kerala's backwaters are perfect. The downside: prices are at their annual peak, and the Delhi fog that begins in earnest in December can disrupt travel logistics.
+December is [India](/india)'s busiest and most expensive month. The combination of post-Christmas Northern Hemisphere travelers, ideal temperatures across most of the country, and the festive atmosphere of the holiday season creates maximum demand. [Goa](/india/goa-guide) at Christmas is a genuine phenomenon. [Rajasthan](/india/rajasthan-guide) is at its most polished. [Kerala](/india/kerala-guide)'s backwaters are perfect. The downside: prices are at their annual peak, and the [Delhi](/india/delhi-guide) fog that begins in earnest in December can disrupt travel logistics.
 
 ## Weather & Conditions
 
@@ -24,19 +24,19 @@ December is India's busiest and most expensive month. The combination of post-Ch
 
 **Goa:** 22–30°C. The peak beach season. Christmas and New Year transform the beach towns.
 
-**Mumbai:** 18–28°C. Mumbai's best weather. The city is active and comfortable.
+**[Mumbai](/india/mumbai-guide):** 18–28°C. Mumbai's best weather. The city is active and comfortable.
 
 ## What to Do
 
 **Goa Christmas and New Year:** Goa's 16th-century Portuguese Catholic heritage makes Christmas genuinely observed — midnight mass at Old Goa's Basilica of Bom Jesus or Se Cathedral, carol singing in the church squares, and the beach shacks strung with lights. New Year's on the Goa beaches (Vagator, Palolem, Anjuna) is crowded and celebratory. Restaurants and beach clubs run countdown events. Book Goa accommodation 4–6 months ahead for the Christmas–New Year week.
 
-**Complete Rajasthan circuit, December:** The heritage hotels are in full operation. The desert nights are cold but the days are the best of the year. Jaisalmer in December — the fort lit at night, the dunes cold and clear — is the definitive version. Udaipur's Lake Palace (floating on Pichola Lake) and the Taj Rambagh Palace in Jaipur are both peak-priced and peak-beautiful.
+**Complete Rajasthan circuit, December:** The heritage hotels are in full operation. The desert nights are cold but the days are the best of the year. Jaisalmer in December — the fort lit at night, the dunes cold and clear — is the definitive version. Udaipur's Lake Palace (floating on Pichola Lake) and the Taj Rambagh Palace in [Jaipur](/india/jaipur-guide) are both peak-priced and peak-beautiful.
 
 **Taj Mahal at sunrise:** December's early starts (sunrise around 7am) and clear mid-month air make for the classic Taj photographs. December is actually one of the better Taj months — slightly less crowded than January, similarly clear conditions.
 
 **Munnar, Kerala:** December in the Munnar tea estates is the clearest month — misty mornings, bright afternoons, and the tea estate landscape in full working mode. The Eravikulam National Park (home of the Nilgiri tahr) is open and accessible.
 
-**Varanasi in winter:** The Ganges in December is cold and atmospheric. The ghats are active from 5am — boat rides past the cremation ghats, the morning Aarti, and the labyrinthine old city lanes are all excellent in winter temperatures.
+**[Varanasi](/india/varanasi-guide) in winter:** The Ganges in December is cold and atmospheric. The ghats are active from 5am — boat rides past the cremation ghats, the morning Aarti, and the labyrinthine old city lanes are all excellent in winter temperatures.
 
 ## Festivals & Events
 

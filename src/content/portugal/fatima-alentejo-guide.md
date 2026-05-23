@@ -10,7 +10,7 @@ tags: [Fátima, Évora, Alentejo, Portugal, pilgrimage, Roman temple, megalith, 
 city: lisbon
 ---
 
-The interior of Portugal — the Alentejo plateau, the Serra da Estrela, and the pilgrimage routes of the Ribatejo — is the least visited and most characterful part of the country. The Alentejo (the region "beyond the Tagus") is a vast, flat landscape of cork oak and olive groves, whitewashed villages with blue-bordered doorways, and a food culture (black pork, Alentejo wine, açorda bread soups) that is distinct from the coast. Évora, the Alentejo capital, is a UNESCO World Heritage city. Fátima is one of the most visited Catholic pilgrimage sites in the world.
+The interior of [Portugal](/portugal) — the Alentejo plateau, the Serra da Estrela, and the pilgrimage routes of the Ribatejo — is the least visited and most characterful part of the country. The Alentejo (the region "beyond the Tagus") is a vast, flat landscape of cork oak and olive groves, whitewashed villages with blue-bordered doorways, and a food culture (black pork, Alentejo wine, açorda bread soups) that is distinct from the coast. Évora, the Alentejo capital, is a UNESCO World Heritage city. Fátima is one of the most visited Catholic pilgrimage sites in the world.
 
 ---
 
@@ -22,7 +22,7 @@ The Sanctuary of Our Lady of Fátima is now one of the largest religious complex
 
 **For non-religious visitors**: The site is architecturally and sociologically fascinating — the flow of pilgrims, many completing the final approach on their knees (a penitential practice), the votives and candles, and the contrast between the intimate 16th-century Capelinha das Aparições (Chapel of the Apparitions, marking the exact site of the visions) and the vast modern basilicas.
 
-**Getting there**: 2 hours from Lisbon by bus (Rede Expressos, €12) or 1.5 hours by car.
+**Getting there**: 2 hours from [Lisbon](/portugal/lisbon-guide) by bus (Rede Expressos, €12) or 1.5 hours by car.
 
 ---
 

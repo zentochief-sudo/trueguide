@@ -10,7 +10,7 @@ tags: [Shimanami Kaido, cycling, Seto Inland Sea, Onomichi, Imabari, Shikoku, br
 city: national
 ---
 
-The idea behind the Shimanami Kaido was road infrastructure — a second fixed link between Honshu and Shikoku to supplement the existing rail and ferry connections. Six bridges were built across six islands between 1999 and 2006, carrying Route 317 from Onomichi to Imabari across 70 km of island-studded sea.
+The idea behind the Shimanami Kaido was road infrastructure — a second fixed link between Honshu and Shikoku to supplement the existing rail and ferry connections. Six bridges were built across six islands between 1999 and 2006, carrying Route 317 from [Onomichi](/japan/onomichi-guide) to Imabari across 70 km of island-studded sea.
 
 What nobody fully anticipated was the cycling dimension. The bridges were built with separate cycling and pedestrian lanes on their sides, the islands between them have quiet rural roads with minimal traffic, and the combination of ocean views, island villages, citrus orchards, and the specific light of the Seto Inland Sea in the morning or late afternoon produces a cycling experience that has attracted international attention. This is now one of the routes — alongside the Great Ocean Road and Tuscany — that cycling-inclined travelers plan trips specifically to ride.
 
@@ -18,9 +18,9 @@ What nobody fully anticipated was the cycling dimension. The bridges were built 
 
 ## The Route
 
-**Honshu end**: Onomichi, Hiroshima Prefecture — a compact hillside port city with an extraordinary density of temples, a cat-populated hillside, and a film and literary tradition (several Yasujiro Ozu films were set here; Onomichi appears repeatedly in postwar Japanese cinema). The first segment requires a ferry from Onomichi to Mukaishima island (¥110, 5 minutes).
+**Honshu end**: Onomichi, [Hiroshima](/japan/hiroshima-guide) Prefecture — a compact hillside port city with an extraordinary density of temples, a cat-populated hillside, and a film and literary tradition (several Yasujiro Ozu films were set here; Onomichi appears repeatedly in postwar Japanese cinema). The first segment requires a ferry from Onomichi to Mukaishima island (¥110, 5 minutes).
 
-**Shikoku end**: Imabari, Ehime Prefecture — a working city without the character of Onomichi, but with the Imabari Castle and the access point for the Shikoku island proper. The Dogo Onsen in Matsuyama is 40 minutes by JR from Imabari.
+**Shikoku end**: Imabari, Ehime Prefecture — a working city without the character of Onomichi, but with the Imabari Castle and the access point for the Shikoku island proper. The Dogo Onsen in [Matsuyama](/japan/matsuyama-guide) is 40 minutes by JR from Imabari.
 
 **Direction**: Either direction works. Most cyclists do Onomichi → Imabari because Onomichi is more interesting to arrive in (and easier to access from Hiroshima); Imabari is easier to leave from. The prevailing wind typically comes from the west, slightly favoring Onomichi → Imabari.
 
@@ -32,7 +32,7 @@ What nobody fully anticipated was the cycling dimension. The bridges were built 
 
 **Innoshima**: Larger island with a history of piracy (the Murakami Kaizoku, the dominant naval power of the Seto Inland Sea in the 16th century, based their western fleet here). The Innoshima Suigun Castle is a small hilltop museum on piracy history.
 
-**Ikuchijima (Setoda)**: The island with the most to see. Kosanji Temple — a temple built by a local businessman in the 1950s–80s as an homage to the most famous temples in Japan, with replicas of Nikko's Yomeimon gate and other famous architectural elements assembled in one place. Strange and genuine simultaneously. The *Hill of Hope* sculpture park adjacent to the temple has panoramic views across the sea.
+**Ikuchijima (Setoda)**: The island with the most to see. Kosanji Temple — a temple built by a local businessman in the 1950s–80s as an homage to the most famous temples in Japan, with replicas of [Nikko](/japan/nikko-guide)'s Yomeimon gate and other famous architectural elements assembled in one place. Strange and genuine simultaneously. The *Hill of Hope* sculpture park adjacent to the temple has panoramic views across the sea.
 
 **Omishima**: The most important island historically. Oyamazumi Jinja — one of the most significant Shinto shrines in Japan, dedicated to the god of mountains and sea. The shrine's treasure hall contains one of the largest collections of ancient armor and swords in Japan, including pieces from the 8th–12th centuries. 80% of all designated national treasure armor in Japan is stored here. The ancient camphor trees on the shrine grounds (over 2,600 years old by legend) are among the largest trees in Japan.
 
@@ -57,11 +57,11 @@ What nobody fully anticipated was the cycling dimension. The bridges were built 
 **Full route (70 km)**: 1 long day (8–10 hours cycling + breaks) or 2 relaxed days.
 
 **2-day structure** (recommended):
-*Day 1*: Onomichi → Ikuchijima (Setoda). 38 km. Ferry from Onomichi, two bridges, arrival at Ikuchijima by early afternoon. Visit Kosanji, swim at Sunset Beach (summer), stay at Setoda's ryokan or guesthouse.
+*Day 1*: Onomichi → Ikuchijima (Setoda). 38 km. Ferry from Onomichi, two bridges, arrival at Ikuchijima by early afternoon. Visit Kosanji, swim at Sunset Beach (summer), stay at Setoda's [ryokan](/japan/ryokan-guide) or guesthouse.
 
 *Day 2*: Ikuchijima → Imabari. 33 km. Morning start, Omishima shrine visit, Kurushima Kaikyo bridge crossing, arrive Imabari by early afternoon.
 
-**One-way considerations**: Shinkansen connections from Imabari (via JR to Matsuyama, then Shinkansen from Matsuyama toward Osaka) or bus from Imabari back to Onomichi (2 hours, ¥3,000) cover the return.
+**One-way considerations**: Shinkansen connections from Imabari (via JR to Matsuyama, then Shinkansen from Matsuyama toward [Osaka](/japan/osaka-guide)) or bus from Imabari back to Onomichi (2 hours, ¥3,000) cover the return.
 
 ---
 
@@ -83,7 +83,7 @@ Onomichi deserves time independent of the cycling route. The city climbs a hills
 
 **Cat Alley (Neko no Hosomichi)**: The specific narrow passage through the hillside temple district where the colony lives. Cats on stone walls, cats on torii, cats on temple steps.
 
-**Literary Onomichi**: The city appears in Yasujiro Ozu's *Tokyo Story* (the Onomichi scenes at the film's beginning and end); in Nobuhiro Suwa's work; and in multiple novels. For travelers interested in Japanese cinema, arriving by train, walking the harbor, and then leaving toward the islands has a specific resonance.
+**Literary Onomichi**: The city appears in Yasujiro Ozu's *[Tokyo](/japan/tokyo-guide) Story* (the Onomichi scenes at the film's beginning and end); in Nobuhiro Suwa's work; and in multiple novels. For travelers interested in Japanese cinema, arriving by train, walking the harbor, and then leaving toward the islands has a specific resonance.
 
 ---
 

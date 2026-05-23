@@ -10,7 +10,7 @@ tags: [Barcelona, itinerary, one week, Spain, travel planning, Gaudí, Sagrada F
 city: barcelona
 ---
 
-Seven days in Barcelona is the right amount of time — enough to cover the major architectural sites without rushing, include two day trips, and explore the neighborhoods at a real pace. This itinerary front-loads the most demanding days (Sagrada Família, Park Güell) and builds in a lighter mid-week day to recover.
+Seven days in [Barcelona](/[spain](/spain)/barcelona-travel-guide) is the right amount of time — enough to cover the major architectural sites without rushing, include two day trips, and explore the neighborhoods at a real pace. This itinerary front-loads the most demanding days (Sagrada Família, Park Güell) and builds in a lighter mid-week day to recover.
 
 **Base**: Eixample is the most practical neighborhood — central access to everything, closest to the major Gaudí buildings, excellent restaurant density, and well-connected metro.
 

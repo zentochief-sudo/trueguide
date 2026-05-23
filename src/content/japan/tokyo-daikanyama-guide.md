@@ -12,7 +12,7 @@ city: tokyo
 
 Daikanyama sits on a low hill between Shibuya and Nakameguro — one stop on the Tokyu Toyoko Line from Shibuya, or a 15-minute walk downhill. The neighborhood was residential through most of the 20th century, with the Hillside Terrace development (1969–1992, by architect Fumihiko Maki) establishing the first cluster of design-conscious commercial buildings that defined the neighborhood's future direction.
 
-The architectural character is low-rise and tree-lined — no towers, few chain stores, the absence of the visual noise that characterizes most commercial Tokyo. The result is a neighborhood that feels curated without being sterile: the design is present but the life is real.
+The architectural character is low-rise and tree-lined — no towers, few chain stores, the absence of the visual noise that characterizes most commercial [Tokyo](/japan/tokyo-guide). The result is a neighborhood that feels curated without being sterile: the design is present but the life is real.
 
 ---
 
@@ -20,7 +20,7 @@ The architectural character is low-rise and tree-lined — no towers, few chain 
 
 The center of Daikanyama's cultural life: three interconnected white lattice buildings by Klein Dytham Architecture (2011), housing the best bookshop in Tokyo and one of the finest in Japan.
 
-**The bookshop**: Unlike standard Tsutaya stores (primarily selling DVDs and consumer electronics), T-Site is a destination for serious reading. The organization is by lifestyle category rather than genre — travel is shelved with travel photography, design books, and the specific equipment guides relevant to serious travelers; cooking is shelved with food culture, the best Japanese food photography books, and the adjacent kitchen goods. The selection in architecture, design, photography, and art is exceptional.
+**The bookshop**: Unlike standard Tsutaya stores (primarily selling DVDs and consumer electronics), T-Site is a destination for serious reading. The organization is by lifestyle category rather than genre — travel is shelved with travel photography, design books, and the specific equipment guides relevant to serious travelers; cooking is shelved with food culture, the best [Japanese food](/japan/japanese-food-guide) photography books, and the adjacent kitchen goods. The selection in architecture, design, photography, and art is exceptional.
 
 **The foreign language section**: Genuinely good selection of English-language books — not the typical token shelf. The travel section in English is one of the better ones in Tokyo.
 

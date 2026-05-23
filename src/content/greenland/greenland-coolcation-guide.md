@@ -10,9 +10,9 @@ tags: [Greenland, coolcation, Arctic summer, midnight sun, whale watching, hikin
 city: nuuk
 ---
 
-The summer of 2025 recorded the hottest temperatures ever measured in several European cities. Travelers who booked beach holidays in Mediterranean destinations reported heat that made outdoor activity between 10 AM and 5 PM effectively impossible. Meanwhile, visitors to Nuuk, Ilulissat, and the Greenlandic coast spent July in 8–12°C temperatures under 20+ hours of daylight, hiking fjord ridges, watching humpback whales breach from boat decks, and sleeping — or failing to sleep — in the never-dark midnight sun.
+The summer of 2025 recorded the hottest temperatures ever measured in several European cities. Travelers who booked beach holidays in Mediterranean destinations reported heat that made outdoor activity between 10 AM and 5 PM effectively impossible. Meanwhile, visitors to [Nuuk](/greenland/nuuk-travel-guide), Ilulissat, and the Greenlandic coast spent July in 8–12°C temperatures under 20+ hours of daylight, hiking fjord ridges, watching humpback whales breach from boat decks, and sleeping — or failing to sleep — in the never-dark midnight sun.
 
-This is the **coolcation**: choosing a cold-climate destination during traditionally warm-season travel. And Greenland is the most extreme version of it available.
+This is the **coolcation**: choosing a cold-climate destination during traditionally warm-season travel. And [Greenland](/greenland) is the most extreme version of it available.
 
 ---
 
@@ -37,7 +37,7 @@ The Nuuk and Ilulissat areas have developed trail networks for summer hiking. No
 - **Ukkusissat**: Coastal headland walk with fjord views, 1.5 hours.
 
 **Ilulissat**:
-- **Icefjord boardwalk**: A flat, accessible walk along the edge of the Ilulissat Icefjord to viewing platforms overlooking the icebergs. The Kangia viewpoint at the end of the main trail offers the closest view of icebergs directly at the fjord edge.
+- **Icefjord boardwalk**: A flat, accessible walk along the edge of the [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) to viewing platforms overlooking the icebergs. The Kangia viewpoint at the end of the main trail offers the closest view of icebergs directly at the fjord edge.
 - **Sermermiut**: The ruins of a Thule (ancestral Inuit) settlement at the edge of the icefjord. Archaeological site with information boards; the location against the iceberg backdrop is remarkable.
 
 ### Whale Watching

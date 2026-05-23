@@ -10,7 +10,7 @@ tags: [Haeundae, Centum City, Busan, beach, Shinsegae, BIFF, Gwangalli, Marine C
 city: national
 ---
 
-Eastern Busan operates in a different register from the city's historical core around Jagalchi Market, Gamcheon Culture Village, and Gukje Market. The eastern districts — Haeundae-gu and Suyeong-gu — are newer, wealthier, and more tourist-infrastructure-developed. The beach is the anchor; around it have gathered the Marine City high-rise cluster, the BIFF cinema complex, luxury hotels, and Centum City's shopping district.
+Eastern [Busan](/korea/busan-guide) operates in a different register from the city's historical core around Jagalchi Market, Gamcheon Culture Village, and Gukje Market. The eastern districts — Haeundae-gu and Suyeong-gu — are newer, wealthier, and more tourist-infrastructure-developed. The beach is the anchor; around it have gathered the Marine City high-rise cluster, the BIFF cinema complex, luxury hotels, and Centum City's shopping district.
 
 For visitors, the east offers specific things the old city doesn't: a functional beach, international hotel standards, better English-language signage, and the largest retail complex in the world. For a complete Busan experience, both the old city and the east are necessary.
 

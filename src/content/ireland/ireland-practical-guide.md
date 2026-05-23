@@ -10,17 +10,17 @@ tags: [Ireland, practical, travel tips, budget, driving, transport, when to visi
 city: dublin
 ---
 
-Ireland is straightforward to travel independently — English-speaking, well-signposted, with a functioning public transport network between cities and a rental car culture for the rural areas that contain most of the best landscapes. The main practical considerations are the weather (unpredictable at all seasons), the driving (left-side, narrow country roads), and the cost (higher than most European countries, particularly accommodation and dining).
+[Ireland](/ireland) is straightforward to travel independently — English-speaking, well-signposted, with a functioning public transport network between cities and a rental car culture for the rural areas that contain most of the best landscapes. The main practical considerations are the weather (unpredictable at all seasons), the driving (left-side, narrow country roads), and the cost (higher than most European countries, particularly accommodation and dining).
 
 ---
 
 ## Getting There
 
-**Dublin Airport (DUB)**: The main international gateway — direct transatlantic routes from New York (JFK, EWR), Boston, Chicago, and Toronto; direct European routes from most major cities. Ryanair and Aer Lingus both base major operations here.
+**[Dublin](/ireland/dublin-travel-guide) Airport (DUB)**: The main international gateway — direct transatlantic routes from New York (JFK, EWR), Boston, Chicago, and Toronto; direct European routes from most major cities. Ryanair and Aer Lingus both base major operations here.
 
-**Shannon Airport (SNN)**: The alternative for the west of Ireland — transatlantic routes from New York and Boston, fewer European connections. Better positioned for Galway, Limerick, and the Wild Atlantic Way without the Dublin detour.
+**Shannon Airport (SNN)**: The alternative for the west of Ireland — transatlantic routes from New York and Boston, fewer European connections. Better positioned for [Galway](/ireland/galway-guide), Limerick, and the [Wild Atlantic Way](/ireland/wild-atlantic-way-guide) without the Dublin detour.
 
-**Cork Airport (ORK)**: Serves the south; Ryanair and Aer Lingus routes to the UK and Europe. Useful for starting in the south and moving north.
+**[Cork](/ireland/cork-guide) Airport (ORK)**: Serves the south; Ryanair and Aer Lingus routes to the UK and Europe. Useful for starting in the south and moving north.
 
 **From the UK**: Ferry services from Holyhead (Wales) to Dublin (2.5 hours, Irish Ferries/Stena Line) and Fishguard/Pembroke to Rosslare (4 hours) are practical with a car.
 
@@ -29,7 +29,7 @@ Ireland is straightforward to travel independently — English-speaking, well-si
 ## Getting Around
 
 ### Rental Car
-The essential tool for experiencing Ireland outside Dublin and the main cities. Most of rural Ireland — the Ring of Kerry, the Wild Atlantic Way, the Causeway Coast, the Wicklow Mountains — is inaccessible by public transport at meaningful frequency.
+The essential tool for experiencing Ireland outside Dublin and the main cities. Most of rural Ireland — the [Ring of Kerry](/ireland/ring-of-kerry-guide), the Wild Atlantic Way, the Causeway Coast, the Wicklow Mountains — is inaccessible by public transport at meaningful frequency.
 
 **Left-side driving**: Ireland drives on the left. For visitors from right-side countries, the adjustment is real. The narrowness of Irish country roads compounds the challenge — passing places on single-track roads require one car to reverse.
 
@@ -45,7 +45,7 @@ The essential tool for experiencing Ireland outside Dublin and the main cities. 
 
 ### Public Transport
 
-**Rail (Irish Rail/Iarnród Éireann)**: Dublin to Cork (2.5 hours), Dublin to Galway (2.5 hours via Athlone), Dublin to Limerick (2 hours), Dublin to Belfast (2 hours). Coverage is limited — there is no rail service to Killarney, Westport, Sligo, or most of the west coast.
+**Rail (Irish Rail/Iarnród Éireann)**: Dublin to Cork (2.5 hours), Dublin to Galway (2.5 hours via Athlone), Dublin to Limerick (2 hours), Dublin to Belfast (2 hours). Coverage is limited — there is no rail service to [Killarney](/ireland/killarney-travel-guide), Westport, Sligo, or most of the west coast.
 
 **Bus (Bus Éireann + private operators)**: More comprehensive coverage than rail, reaching most towns. GoBus and Citylink operate Dublin–Galway and Dublin–Cork with newer vehicles and competitive prices. Journey times are longer than rail.
 

@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-No country on earth prepares you for India. It arrives all at once — the colours, the noise, the smells, the chaos, the beauty, the contradiction. First-time visitors often find the first two days overwhelming; by day four, most don't want to leave. Understanding what to expect makes a profound difference.
+No country on earth prepares you for [India](/india). It arrives all at once — the colours, the noise, the smells, the chaos, the beauty, the contradiction. First-time visitors often find the first two days overwhelming; by day four, most don't want to leave. Understanding what to expect makes a profound difference.
 
 ## The Basics
 
-**Capital:** New Delhi  
+**Capital:** New [Delhi](/india/delhi-guide)  
 **Currency:** Indian Rupee (₹). €1 ≈ ₹90–95.  
 **Language:** Hindi and English are official nationally. 22 constitutionally recognised languages, hundreds of regional ones. English is widely spoken in cities and tourist areas.  
 **Time zone:** IST (GMT+5:30) — India has a single time zone for the entire subcontinent  
@@ -27,7 +27,7 @@ No country on earth prepares you for India. It arrives all at once — the colou
 ## What Will Shock You (And How to Handle It)
 
 ### The sensory overload
-India hits harder than anywhere else. The traffic noise, the density of people, the smells (spices, incense, dust, diesel), and the sheer pace of activity in Old Delhi or Mumbai is unlike anything in the developed world. This fades. By day three, it becomes invigorating rather than overwhelming.
+India hits harder than anywhere else. The traffic noise, the density of people, the smells (spices, incense, dust, diesel), and the sheer pace of activity in Old Delhi or [Mumbai](/india/mumbai-guide) is unlike anything in the developed world. This fades. By day three, it becomes invigorating rather than overwhelming.
 
 **How to handle it:** Don't fight it. Book your first hotel in a calm neighbourhood (Delhi's Lodhi Estate or Khan Market area rather than Paharganj). Give yourself a day to adjust before plunging into Old Delhi.
 
@@ -48,13 +48,13 @@ Indian road traffic appears to have no rules and is terrifying at first. There a
 
 ## Where to Start
 
-**The Golden Triangle** (Delhi–Agra–Jaipur) is the standard first-timer route — accessible, well-developed for tourism, and showcasing India's Mughal and Rajput history at its most spectacular. The Taj Mahal alone justifies the journey.
+**The Golden Triangle** (Delhi–Agra–[Jaipur](/india/jaipur-guide)) is the standard first-timer route — accessible, well-developed for tourism, and showcasing India's Mughal and Rajput history at its most spectacular. The Taj Mahal alone justifies the journey.
 
-**Goa** is India's most accessible beach destination — good infrastructure, English widely spoken, safe for solo travellers.
+**[Goa](/india/goa-guide)** is India's most accessible beach destination — good infrastructure, English widely spoken, safe for solo travellers.
 
-**Kerala** in the south offers a gentler introduction — beautiful backwaters, excellent food, and significantly more organised tourism infrastructure than the north.
+**[Kerala](/india/kerala-guide)** in the south offers a gentler introduction — beautiful backwaters, excellent food, and significantly more organised tourism infrastructure than the north.
 
-**Avoid for first trips:** Varanasi (extraordinary but very intense — better as a second trip), Kolkata (fascinating but exhausting), and the northeast (brilliant but logistically complex).
+**Avoid for first trips:** [Varanasi](/india/varanasi-guide) (extraordinary but very intense — better as a second trip), Kolkata (fascinating but exhausting), and the northeast (brilliant but logistically complex).
 
 ---
 

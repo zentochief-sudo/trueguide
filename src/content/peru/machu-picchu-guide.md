@@ -18,7 +18,7 @@ The photographs that circulate worldwide show the site from the Sun Gate or from
 
 ## Getting There
 
-**By Train**: The most common approach — from Cusco to Aguas Calientes (the town below the site), then bus or hike up to the entrance.
+**By Train**: The most common approach — from [Cusco](/[peru](/peru)/cusco-guide) to Aguas Calientes (the town below the site), then bus or hike up to the entrance.
 
 - **Cusco to Ollantaytambo**: 1.5 hours by road or shared van (S/10–15); trains depart from Poroy station (30 min from Cusco)
 - **Ollantaytambo to Aguas Calientes**: By train — Inca Rail or Peru Rail, 1.5–2 hours, $35–60 each way. Multiple daily departures. Book at **incarail.com** or **perurail.com** well in advance (weeks–months in peak season)

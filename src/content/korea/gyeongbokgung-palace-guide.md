@@ -82,7 +82,7 @@ Adjacent to the palace (to the south, separate entrance, free), the **National P
 
 ## Wearing Hanbok
 
-Visitors in *hanbok* (traditional Korean clothing) receive free entry to Gyeongbokgung. Hanbok rental shops are concentrated in the streets immediately south and east of the palace. Rental typically runs 1-4 hours and includes dressing assistance; women's hanbok includes a petticoat, several layers, and a jacket (*jeogori*). Men's hanbok is simpler (trousers, jacket, optional overcoat).
+Visitors in *[hanbok](/korea/hanbok-guide)* (traditional Korean clothing) receive free entry to Gyeongbokgung. Hanbok rental shops are concentrated in the streets immediately south and east of the palace. Rental typically runs 1-4 hours and includes dressing assistance; women's hanbok includes a petticoat, several layers, and a jacket (*jeogori*). Men's hanbok is simpler (trousers, jacket, optional overcoat).
 
 The practice of renting hanbok for palace visits has become extremely popular — on weekends and holidays, a significant portion of palace visitors are in rental hanbok. The visual coherence of the setting (traditional architecture, traditional dress) makes the experience more than costume photography; it connects visitors to the spatial logic the palace was designed around.
 

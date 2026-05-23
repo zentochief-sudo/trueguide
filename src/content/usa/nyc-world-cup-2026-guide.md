@@ -10,7 +10,7 @@ tags: [New York City, FIFA World Cup 2026, MetLife Stadium, NYC travel, USA]
 city: nyc
 ---
 
-New York City is hosting FIFA World Cup 2026 matches at MetLife Stadium in East Rutherford, New Jersey — seven miles west of Midtown Manhattan across the Hudson River. The stadium is technically in a different state, but New York City functions as the hub: it has the hotels, the airports, the restaurants, the nightlife, and the particular energy that makes hosting a World Cup in this city different from hosting it anywhere else on earth.
+New York City is hosting FIFA World Cup 2026 matches at [MetLife Stadium](/united-states/metlife-stadium-guide) in East Rutherford, New Jersey — seven miles west of Midtown Manhattan across the Hudson River. The stadium is technically in a different state, but New York City functions as the hub: it has the hotels, the airports, the restaurants, the nightlife, and the particular energy that makes hosting a World Cup in this city different from hosting it anywhere else on earth.
 
 The city is dense, loud, expensive, and endlessly varied. Its neighborhoods are distinct enough to feel like separate cities. Its subway runs 24 hours. The pizza is better than it has any right to be and the bagels are unreasonably superior to those made anywhere else. This is where the World Cup's American chapter gets written.
 
@@ -58,7 +58,7 @@ New York City's neighborhoods function as distinct sub-cities. Your choice deter
 
 **Chelsea and the West Village**: A bus or short subway to Penn Station. Better neighborhoods for food and street life than Midtown. Hotels $250–420/night.
 
-**Brooklyn (Williamsburg, DUMBO, Park Slope)**: 20–30 minutes to Penn Station by L train or F train. $30–100 cheaper per night than equivalent Manhattan hotels. Excellent food neighborhoods. Increasingly where savvy World Cup visitors will stay.
+**[Brooklyn](/united-states/brooklyn-guide) (Williamsburg, DUMBO, Park Slope)**: 20–30 minutes to Penn Station by L train or F train. $30–100 cheaper per night than equivalent Manhattan hotels. Excellent food neighborhoods. Increasingly where savvy World Cup visitors will stay.
 
 **Long Island City (Queens)**: 15 minutes to Midtown by 7 train. Some of the best hotel value in the metropolitan area at $160–250/night. Less tourist infrastructure but good food options.
 

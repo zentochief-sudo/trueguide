@@ -10,17 +10,17 @@ tags: [Costa Rica, December, dry season, Christmas, leatherback turtles, Guanaca
 city: national
 ---
 
-December returns Costa Rica to peak season. The dry season is fully established across the Pacific by December — Guanacaste's beaches are reliably sunny, the Nicoya Peninsula road network is dry and accessible, and the country's tourism infrastructure is operating at maximum. Christmas brings international visitors alongside Costa Rican families celebrating the holiday, creating the year's second-busiest period (after January). The leatherback turtle nesting season at Playa Grande reaches its numerical peak in December and January. Prices match January levels. Book everything well in advance.
+December returns [Costa Rica](/costa-rica/costa-rica-travel-guide) to peak season. The dry season is fully established across the Pacific by December — Guanacaste's beaches are reliably sunny, the Nicoya Peninsula road network is dry and accessible, and the country's tourism infrastructure is operating at maximum. Christmas brings international visitors alongside Costa Rican families celebrating the holiday, creating the year's second-busiest period (after January). The leatherback turtle nesting season at Playa Grande reaches its numerical peak in December and January. Prices match January levels. Book everything well in advance.
 
 ## Weather & Conditions
 
 **Guanacaste:** 24–34°C. Dry season fully established. Sunny and reliable.
 
-**Manuel Antonio:** 25–32°C. Dry season. Excellent beach conditions.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 25–32°C. Dry season. Excellent beach conditions.
 
-**Arenal:** 21–27°C. Drier than the rainy season. Some cloud but much better than June–October.
+**[Arenal](/costa-rica/arenal-guide):** 21–27°C. Drier than the rainy season. Some cloud but much better than June–October.
 
-**Osa Peninsula:** 24–32°C. Drying. The best December conditions in years begin appearing.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 24–32°C. Drying. The best December conditions in years begin appearing.
 
 **Caribbean:** 23–28°C. Still in wet season pattern. Different from Pacific.
 

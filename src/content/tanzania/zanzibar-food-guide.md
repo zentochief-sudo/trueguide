@@ -10,7 +10,7 @@ tags: [Zanzibar, Tanzania, Swahili food, Forodhani, urojo, octopus curry, spices
 city: zanzibar
 ---
 
-Zanzibar's food culture reflects its position at the center of the Indian Ocean spice trade for centuries — Arab, Indian, African, and Portuguese culinary traditions layered over each other in a small archipelago that once controlled the global supply of cloves. The result is a cuisine unlike any on the African mainland: coconut-rich curries, spiced rice dishes, the urojo (Zanzibari mix) street soup that shouldn't work but does, and the seafood that arrives from the surrounding ocean daily.
+[Zanzibar](/tanzania/zanzibar-guide)'s food culture reflects its position at the center of the Indian Ocean spice trade for centuries — Arab, Indian, African, and Portuguese culinary traditions layered over each other in a small archipelago that once controlled the global supply of cloves. The result is a cuisine unlike any on the African mainland: coconut-rich curries, spiced rice dishes, the urojo (Zanzibari mix) street soup that shouldn't work but does, and the seafood that arrives from the surrounding ocean daily.
 
 The Forodhani Gardens night market in Stone Town is the most accessible introduction; the real depth is found in the small restaurants and households of the old city.
 
@@ -35,7 +35,7 @@ The most important rice dish — long-grain rice cooked with whole spices (clove
 Plain rice cooked in coconut milk — the standard accompaniment to most fish and curry dishes. The coconut flavor is subtle; the texture is slightly sticky. The baseline starch of Swahili coastal cooking.
 
 ### Fish Curry
-The daily staple — whatever fish arrived at the market that morning (snapper, kingfish, tuna, grouper) cooked in coconut milk curry with tomatoes and spices. The cooking technique is similar to the Malabar fish curry of southern India — brought through the Omani-Indian Ocean trade networks.
+The daily staple — whatever fish arrived at the market that morning (snapper, kingfish, tuna, grouper) cooked in coconut milk curry with tomatoes and spices. The cooking technique is similar to the Malabar fish curry of southern [India](/india) — brought through the Omani-Indian Ocean trade networks.
 
 ### Biryani
 The Zanzibari biryani reflects the Arab and Indian influence — whole-spiced, with saffron or tumeric coloring, meat cooked separately and layered with the rice. More aromatic and spiced than mainland East African biryani. Available at the Darajani Market restaurants for lunch.
@@ -88,7 +88,7 @@ A spice tour (see the main Zanzibar guide) visits working spice farms 10–15 km
 
 ## Practical Notes
 
-**Alcohol**: Available in most tourist restaurants and beach hotels; not available in the Stone Town residential areas (Muslim-majority) without a permit. Prices are higher than mainland Tanzania.
+**Alcohol**: Available in most tourist restaurants and beach hotels; not available in the Stone Town residential areas (Muslim-majority) without a permit. Prices are higher than mainland [Tanzania](/tanzania).
 
 **Vegetarian**: More accessible than most East African destinations — coconut rice, lentil preparations, vegetable curries, and the urojo without meat additions provide genuine options.
 

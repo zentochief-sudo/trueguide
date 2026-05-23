@@ -28,7 +28,7 @@ The mountains are accessible. Over 20 national parks protect the best terrain, m
 - **Time**: 3-4 hours return
 - **Difficulty**: Moderate to strenuous. The final approach to the summit involves steel cables bolted into granite — not technical climbing but requiring hands.
 
-The view from the summit over Seoul is the best urban mountain view in Asia. The city extends in every direction; on clear days Incheon's port is visible to the west and the mountains of Gyeonggi Province to the north.
+The view from the summit over Seoul is the best urban mountain view in Asia. The city extends in every direction; on clear days [Incheon](/korea/incheon-guide)'s port is visible to the west and the mountains of Gyeonggi Province to the north.
 
 **Insubong (Rock Climbing)**: The granite dome of Insubong is Korea's most important traditional climbing destination. The routes (hundreds of them, graded on Korean and UIAA systems) range from beginner multi-pitch to serious technical lines. **Korea Alpine Club** runs weekend beginner sessions; equipment rental available at the trailhead.
 
@@ -52,7 +52,7 @@ A 7km circuit following sections of the ancient mountain fortress walls, with ga
 - **Time**: 10-12 hours for the summit and return
 - **Difficulty**: Strenuous. Requires a full day and early start.
 
-Daecheongbong (1,708m) is the highest peak in South Korea outside Jeju. The trail crosses several secondary peaks and valleys; the views from the summit ridge on clear days are the best in the Korean mainland mountains.
+Daecheongbong (1,708m) is the highest peak in South Korea outside [Jeju](/korea/jeju-guide). The trail crosses several secondary peaks and valleys; the views from the summit ridge on clear days are the best in the Korean mainland mountains.
 
 **Inner Seorak (Outer vs. Inner routes)**: The park is divided into Outer Seorak (the peaks and approaches from Sokcho) and Inner Seorak (the Baekdam Valley from Inje). The Inner Seorak valley trail is less crowded, more remote, and more beautiful for its combination of stream gorge and forest. The **Baekdamsa Temple** at the valley head is accessible in a 6km walk from the Inner Seorak entrance.
 

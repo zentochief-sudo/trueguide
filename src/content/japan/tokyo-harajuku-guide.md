@@ -10,7 +10,7 @@ tags: [Harajuku, Omotesando, Tokyo, Japan, fashion, Takeshita Street, Meiji Jing
 city: tokyo
 ---
 
-Harajuku Station is one stop from Shibuya on the Yamanote Line. Exiting on the west side puts you in the path leading to Meiji Jingu; exiting on the east side deposits you at the entrance of Takeshita Street. The contrast between these two adjacent destinations — the forest shrine and the teen fashion bazaar — is the most concentrated version of the Tokyo contradiction available in a five-minute walk.
+Harajuku Station is one stop from Shibuya on the Yamanote Line. Exiting on the west side puts you in the path leading to Meiji Jingu; exiting on the east side deposits you at the entrance of Takeshita Street. The contrast between these two adjacent destinations — the forest shrine and the teen fashion bazaar — is the most concentrated version of the [Tokyo](/japan/tokyo-guide) contradiction available in a five-minute walk.
 
 ---
 

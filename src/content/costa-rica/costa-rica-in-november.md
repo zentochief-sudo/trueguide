@@ -10,15 +10,15 @@ tags: [Costa Rica, November, dry season beginning, Guanacaste, value, leatherbac
 city: national
 ---
 
-November is Costa Rica's best-kept secret. The dry season returns to Guanacaste — the Pacific beaches clear, the skies become predictably blue, and the landscape (still green from the rainy season) looks nothing like the desiccated brown of late dry season March. But prices have not yet caught up to the returning good weather; November is the last month before December's Christmas pricing kicks in. The leatherback turtle season at Playa Grande continues from October's opening. This combination — returning beach conditions at green season prices in a still-green landscape — makes November one of the finest travel months in Costa Rica.
+November is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s best-kept secret. The dry season returns to Guanacaste — the Pacific beaches clear, the skies become predictably blue, and the landscape (still green from the rainy season) looks nothing like the desiccated brown of late dry season March. But prices have not yet caught up to the returning good weather; November is the last month before December's Christmas pricing kicks in. The leatherback turtle season at Playa Grande continues from October's opening. This combination — returning beach conditions at green season prices in a still-green landscape — makes November one of the finest travel months in Costa Rica.
 
 ## Weather & Conditions
 
 **Guanacaste:** 24–33°C. Dry season fully established by mid-November. Excellent beach conditions.
 
-**Manuel Antonio:** 24–31°C. Still some rain in the central and southern Pacific, but improving.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–31°C. Still some rain in the central and southern Pacific, but improving.
 
-**Arenal:** 21–27°C. Less rain than October. Still some afternoon cloud.
+**[Arenal](/costa-rica/arenal-guide):** 21–27°C. Less rain than October. Still some afternoon cloud.
 
 **Caribbean:** 23–28°C. Rainy season on the Caribbean (which runs through December).
 

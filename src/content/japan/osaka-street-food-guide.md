@@ -10,7 +10,7 @@ tags: [Osaka, Japan, street food, takoyaki, okonomiyaki, kushikatsu, food, eatin
 city: osaka
 ---
 
-Osaka has a word for itself: *kuidaore*. Roughly translated it means "eat until you drop," but the implication is more severe — to ruin yourself financially through food, to spend everything on eating. It's presented as a civic flaw and celebrated as a civic identity. The city's food culture is not refined in the way Kyoto's is. It's compulsive, democratic, and entirely unconcerned with elegance.
+[Osaka](/japan/osaka-guide) has a word for itself: *kuidaore*. Roughly translated it means "eat until you drop," but the implication is more severe — to ruin yourself financially through food, to spend everything on eating. It's presented as a civic flaw and celebrated as a civic identity. The city's food culture is not refined in the way [Kyoto](/japan/kyoto-guide)'s is. It's compulsive, democratic, and entirely unconcerned with elegance.
 
 This is where takoyaki was invented, where okonomiyaki is practiced with religious commitment, where the best market in western Japan operates out of a covered arcade, and where a cheap lunch at a standing sushi counter is a more serious experience than a restaurant with tablecloths.
 
@@ -28,7 +28,7 @@ Eating them fresh is mandatory. They will burn your mouth. Eat them anyway.
 **Price:** ¥500–700 for 6–8 balls.
 
 ### Okonomiyaki
-Called "Japanese pancake" by guidebooks who are technically correct but miss the spirit. Okonomiyaki is a batter base (flour, dashi, egg, shredded cabbage) with your choice of additions — pork, shrimp, squid, kimchi, cheese, mochi — cooked on a griddle. Osaka-style (hon-yaki) mixes everything together before cooking; Hiroshima-style layers the ingredients. The sauce-mayo-bonito combination mirrors takoyaki and is correct.
+Called "Japanese pancake" by guidebooks who are technically correct but miss the spirit. Okonomiyaki is a batter base (flour, dashi, egg, shredded cabbage) with your choice of additions — pork, shrimp, squid, kimchi, cheese, mochi — cooked on a griddle. Osaka-style (hon-yaki) mixes everything together before cooking; [Hiroshima](/japan/hiroshima-guide)-style layers the ingredients. The sauce-mayo-bonito combination mirrors takoyaki and is correct.
 
 The key is the Worcestershire-based okonomiyaki sauce. **Bull-Dog** and **Otafuku** are the standard brands. Apply generously. Do not use ketchup.
 
@@ -42,7 +42,7 @@ Breaded, deep-fried skewers of anything. Pork belly, shrimp, quail egg, lotus ro
 Kushikatsu is most correctly eaten in **Shinsekai**, where it was invented and where ¥120 per skewer is standard. Dotonbori's versions cost more and serve tourists adequately; Shinsekai's versions exist for people who eat it every week.
 
 ### Udon — Osaka version
-Osaka udon is softer and dashi-forward in a way that differs from the chewier Sanuki udon of Kagawa. **Niku udon** (beef udon, with thin-sliced sweet beef on top) is the local form. The broth here is lighter in color (shiro-dashi rather than dark soy) and more delicate than Tokyo versions.
+Osaka udon is softer and dashi-forward in a way that differs from the chewier Sanuki udon of Kagawa. **Niku udon** (beef udon, with thin-sliced sweet beef on top) is the local form. The broth here is lighter in color (shiro-dashi rather than dark soy) and more delicate than [Tokyo](/japan/tokyo-guide) versions.
 
 **Where:** Mimiu (Honmachi, established 1844), Yudetaro (cheap, reliable, city-wide), or any shop with a handwritten sign near a covered arcade.
 
@@ -74,7 +74,7 @@ Osaka has a strong **tachi-gui** (standing food) culture. Standing sushi counter
 
 **Kara-age** (Japanese fried chicken): Osaka versions tend toward a garlic-soy marinade and a slightly thicker crust than the lighter Miyazaki style. Ubiquitous, excellent, never the wrong choice.
 
-**Taco-rice** is technically from Okinawa but found widely in Osaka's younger food scene — rice topped with ground beef taco filling, shredded cheese, salsa. Ridiculous; effective.
+**Taco-rice** is technically from [Okinawa](/japan/okinawa-guide) but found widely in Osaka's younger food scene — rice topped with ground beef taco filling, shredded cheese, salsa. Ridiculous; effective.
 
 **Osaka-style pressed sushi (oshizushi)**: Unlike nigiri, oshizushi is packed into a wooden mold and pressed into a block, then cut into rectangles. The most famous is **battera** — mackerel in vinegar sauce pressed with thinly-shaved kombu. Available at department store food halls and in the covered arcades.
 

@@ -18,7 +18,7 @@ Japan is one of the easiest countries in the world to navigate independently —
 
 ### Visa-Free Countries
 
-Citizens of approximately 70 countries — including the US, UK, EU member states, Canada, Australia, and most of Latin America — can enter Japan visa-free for stays of up to 90 days (or 15 days in some cases; check your specific nationality). This visa-free entry covers tourism and visiting friends/family but not work.
+Citizens of approximately 70 countries — including the US, UK, EU member states, [Canada](/canada), Australia, and most of Latin America — can enter Japan visa-free for stays of up to 90 days (or 15 days in some cases; check your specific nationality). This visa-free entry covers tourism and visiting friends/family but not work.
 
 Verify your specific nationality's current status at the Japanese Ministry of Foreign Affairs website before travel. Conditions can change.
 
@@ -80,7 +80,7 @@ Japan operates substantially on cash. The following types of establishment and s
 - Temple and shrine admissions
 - Street food and market stalls
 - Taxis (some accept cards; many don't)
-- Ryokan and traditional guesthouses (some cash-only)
+- [Ryokan](/japan/ryokan-guide) and traditional guesthouses (some cash-only)
 - Craft shops and small retailers
 
 **Withdraw from 7-Eleven ATMs**: 7-Eleven convenience store ATMs (operated by Seven Bank) accept international Visa, Mastercard, and most foreign cards reliably, in English. Japan Post ATMs (green machines) also accept international cards. Most other ATMs do not reliably accept foreign cards.
@@ -95,7 +95,7 @@ Accepted at: large hotels, major department stores and shopping malls, most chai
 
 ### IC Card as Wallet
 
-The Suica or Pasmo IC card (available at JR East, Tokyo Metro, and other major station machines) functions as a transport prepaid card but also works at:
+The Suica or Pasmo IC card (available at JR East, [Tokyo](/japan/tokyo-guide) Metro, and other major station machines) functions as a transport prepaid card but also works at:
 - All convenience stores (7-Eleven, FamilyMart, Lawson)
 - Many vending machines
 - Some restaurants and retail
@@ -120,7 +120,7 @@ Alternatively: **Apple Pay Suica** or **Google Pay Suica** can be set up before 
 **Yamato Transport** and **Sagawa Express** offer same-day or next-day luggage forwarding services throughout Japan. Cost: ¥1,500–3,000 per bag depending on size and distance.
 
 **Practical uses**:
-- Send luggage ahead from Tokyo to Kyoto while you travel with a day pack
+- Send luggage ahead from Tokyo to [Kyoto](/japan/kyoto-guide) while you travel with a day pack
 - Send bags from your hotel to the airport before checking out
 - Ship souvenirs home from convenience stores (international shipping available)
 

@@ -10,15 +10,15 @@ tags: [Pakistan, April, Karakoram Highway, Hunza, trekking, spring, northern are
 city: national
 ---
 
-April is Pakistan's mountain-opening month. The Karakoram Highway — one of the world's great engineering achievements, connecting China's Xinjiang province to Pakistan through the highest mountain ranges on Earth — fully opens for the season as snow melts from the passes. Trekkers and mountaineers begin arriving to prepare for the June–September summit windows on K2, Nanga Parbat, and the Karakoram giants. The northern valleys are vivid with spring foliage.
+April is [Pakistan](/pakistan)'s mountain-opening month. The [Karakoram Highway](/pakistan/karakoram-highway-guide) — one of the world's great engineering achievements, connecting China's Xinjiang province to Pakistan through the highest mountain ranges on Earth — fully opens for the season as snow melts from the passes. Trekkers and mountaineers begin arriving to prepare for the June–September summit windows on K2, Nanga Parbat, and the Karakoram giants. The northern valleys are vivid with spring foliage.
 
 ## Weather & Conditions
 
-**Lahore:** 22–32°C. Warming rapidly. The comfortable window closes by May.
+**[Lahore](/pakistan/lahore-guide):** 22–32°C. Warming rapidly. The comfortable window closes by May.
 
-**Islamabad:** 18–28°C. Still pleasant but warming.
+**[Islamabad](/pakistan/islamabad-guide):** 18–28°C. Still pleasant but warming.
 
-**Hunza Valley:** 8–20°C. Spring foliage. The apple and apricot orchards are leafing out after blossom season.
+**[Hunza Valley](/pakistan/hunza-valley-guide):** 8–20°C. Spring foliage. The apple and apricot orchards are leafing out after blossom season.
 
 **Gilgit and northern areas:** 10–22°C. Mountain passes clearing. The Karakoram Highway is opening.
 
@@ -30,7 +30,7 @@ April is Pakistan's mountain-opening month. The Karakoram Highway — one of the
 
 **Karakoram Highway (KKH) drive:** The 1,300km highway from Islamabad through the Indus Valley, Kohistan, Karakoram range, and into China's Xinjiang is one of the world's most dramatic road journeys. April sees the southern and middle sections open with improved conditions. The Attabad Lake section (a new lake created by a 2010 landslide, now navigated by tunnel) is an extraordinary landscape. The highway passes through Chilas, Gilgit, Hunza, and to the Chinese border at Khunjerab Pass.
 
-**Fairy Meadows (base of Nanga Parbat):** Accessible by a notoriously rough jeep road from Raikot Bridge followed by a 3-hour walk, the Fairy Meadows gives extraordinary views of Nanga Parbat (9th highest mountain, 8,126m). April sees the meadows free of snow and the wildflowers beginning. Camping and basic guesthouses available.
+**[Fairy Meadows](/pakistan/fairy-meadows-guide) (base of Nanga Parbat):** Accessible by a notoriously rough jeep road from Raikot Bridge followed by a 3-hour walk, the Fairy Meadows gives extraordinary views of Nanga Parbat (9th highest mountain, 8,126m). April sees the meadows free of snow and the wildflowers beginning. Camping and basic guesthouses available.
 
 **Skardu and K2 Base Camp preparations:** Trekking operators in Skardu are receiving their first expedition groups in April for the summer K2 season. The town itself is surrounded by extraordinary desert mountain scenery. Shangrila Resort (Hotel) on the lake is one of Pakistan's most photographed locations.
 

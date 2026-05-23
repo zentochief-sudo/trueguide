@@ -10,7 +10,7 @@ tags: [Chiang Mai, Thailand, temples, Doi Inthanon, elephant sanctuary, cooking 
 city: chiang-mai
 ---
 
-Chiang Mai was the capital of the Lanna Kingdom from 1296 until annexation by Siam in 1558, and its culture, cuisine, and architecture remain distinctly northern Thai — different from Bangkok in dialect, in food (more fermented, more pungent, less sweet), in the form of its temples (Burmese and Lanna influence rather than Central Thai), and in temperament. The city of 200,000 functions at a different pace than Bangkok; it has become the remote-work capital of Southeast Asia and a major center for Buddhist meditation retreats, cooking schools, and ethical elephant tourism.
+Chiang Mai was the capital of the Lanna Kingdom from 1296 until annexation by Siam in 1558, and its culture, cuisine, and architecture remain distinctly northern Thai — different from [Bangkok](/thailand/bangkok-guide) in dialect, in food (more fermented, more pungent, less sweet), in the form of its temples (Burmese and Lanna influence rather than Central Thai), and in temperament. The city of 200,000 functions at a different pace than Bangkok; it has become the remote-work capital of Southeast Asia and a major center for Buddhist meditation retreats, cooking schools, and ethical elephant tourism.
 
 Chiang Mai is 1 hour by domestic flight from Bangkok (฿600–1,200) or 12–14 hours by overnight sleeper train (฿500–1,200, the scenic route through the central plains).
 
@@ -42,7 +42,7 @@ The square moat of the old city encloses Chiang Mai's medieval core — 18 km² 
 
 ## Doi Inthanon National Park
 
-80 km south of Chiang Mai — Thailand's highest peak (2,565 m), twin royal chedis built to honor the King and Queen, cloud forest with over 360 bird species, and Karen hill tribe villages. The summit is cold enough for frost in December–January; bring layers.
+80 km south of Chiang Mai — [Thailand](/thailand)'s highest peak (2,565 m), twin royal chedis built to honor the King and Queen, cloud forest with over 360 bird species, and Karen hill tribe villages. The summit is cold enough for frost in December–January; bring layers.
 
 The park is best as a full-day trip by car or motorbike — the royal chedis (Naphamethanidon and Naphaphonphumisiri) at 2,100 m have the best mountain views in Thailand and remarkable formal gardens. The park entrance fee is ฿300 for foreigners.
 

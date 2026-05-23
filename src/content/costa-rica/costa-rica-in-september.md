@@ -10,19 +10,19 @@ tags: [Costa Rica, September, low season, cheapest, humpback whales, Tortuguero,
 city: national
 ---
 
-September is Costa Rica's quietest month and its cheapest. The Pacific side is in the heaviest weeks of the rainy season — many Guanacaste resorts reduce services or close entirely, roads to remote beaches can become impassable, and the Pacific beach experience is genuinely compromised. But this framing misses what September actually offers: the Southern Hemisphere humpback whales are in Pacific waters in peak numbers, Tortuguero's turtle season is still fully active, and Corcovado's wildlife in the heaviest rain is extraordinary for those prepared for it. September rewards travelers who have done their homework.
+September is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s quietest month and its cheapest. The Pacific side is in the heaviest weeks of the rainy season — many Guanacaste resorts reduce services or close entirely, roads to remote beaches can become impassable, and the Pacific beach experience is genuinely compromised. But this framing misses what September actually offers: the Southern Hemisphere humpback whales are in Pacific waters in peak numbers, Tortuguero's turtle season is still fully active, and Corcovado's wildlife in the heaviest rain is extraordinary for those prepared for it. September rewards travelers who have done their homework.
 
 ## Weather & Conditions
 
 **Guanacaste:** 22–30°C. Heaviest rain of the year. Some resorts reduce operations.
 
-**Manuel Antonio:** 23–28°C. Heavy rain. Some days of continuous downpour.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 23–28°C. Heavy rain. Some days of continuous downpour.
 
-**Arenal:** 19–25°C. Heavy and sustained rain. Cloudy.
+**[Arenal](/costa-rica/arenal-guide):** 19–25°C. Heavy and sustained rain. Cloudy.
 
 **Caribbean (Tortuguero):** 23–28°C. Rainy. Turtle nesting continuing.
 
-**Osa Peninsula (Corcovado):** 22–29°C. Heaviest rain. Challenging. Wildlife exceptional.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide) (Corcovado):** 22–29°C. Heaviest rain. Challenging. Wildlife exceptional.
 
 ## What to Do
 
@@ -38,7 +38,7 @@ September is Costa Rica's quietest month and its cheapest. The Pacific side is i
 
 ## Festivals & Events
 
-**Independence Day (September 15):** Costa Rica's Independence Day from Spain in 1821. A significant national celebration with lantern processions the night before (September 14 — students carry lanterns representing the arrival of independence news by horseback), parades, and school celebrations across the country.
+**Independence Day (September 15):** Costa Rica's Independence Day from [Spain](/spain) in 1821. A significant national celebration with lantern processions the night before (September 14 — students carry lanterns representing the arrival of independence news by horseback), parades, and school celebrations across the country.
 
 **Limón Carnival (Carnaval de Limón, variable October but sometimes September):** The Caribbean port city of Puerto Limón celebrates its version of carnival — with Afro-Caribbean cultural roots, steel drums, reggae, and a different cultural character from anywhere else in Costa Rica.
 

@@ -10,13 +10,13 @@ tags: [Thailand, practical, visa, transport, costs, budget, culture, tips, trave
 city: bangkok
 ---
 
-Thailand is one of the most visited countries in Southeast Asia and has adapted its infrastructure considerably for international tourism — but still requires understanding the basics to avoid the standard mistakes: overpaying for transport, getting redirected by "helpful" strangers to commission-paying shops, or unknowingly committing religious offenses.
+[Thailand](/thailand) is one of the most visited countries in Southeast Asia and has adapted its infrastructure considerably for international tourism — but still requires understanding the basics to avoid the standard mistakes: overpaying for transport, getting redirected by "helpful" strangers to commission-paying shops, or unknowingly committing religious offenses.
 
 ---
 
 ## Visas
 
-**Visa exemption**: Citizens of most European countries, the US, UK, Australia, Canada, Japan, and Korea receive a 60-day visa exemption on arrival (as of 2024 extension to 60 days from the previous 30). Passport must be valid for 6+ months.
+**Visa exemption**: Citizens of most European countries, the US, UK, Australia, [Canada](/canada), Japan, and Korea receive a 60-day visa exemption on arrival (as of 2024 extension to 60 days from the previous 30). Passport must be valid for 6+ months.
 
 **Thailand e-Visa**: The online visa application for longer stays (90 days) or specific visa categories. Apply at thaievisa.go.th before departure. Processing takes 2–5 business days.
 
@@ -27,7 +27,7 @@ Thailand is one of the most visited countries in Southeast Asia and has adapted 
 ## Getting Around
 
 ### Domestic Flights
-Bangkok has two airports: **Suvarnabhumi** (international and some domestic) and **Don Mueang** (budget domestic and some international). They are 30 km apart — confirm which airport your flight uses. **Thai AirAsia**, **Nok Air**, and **Bangkok Airways** connect Bangkok to Chiang Mai, Phuket, Krabi, Koh Samui, and Chiang Rai for ฿500–1,500 if booked in advance.
+[Bangkok](/thailand/bangkok-guide) has two airports: **Suvarnabhumi** (international and some domestic) and **Don Mueang** (budget domestic and some international). They are 30 km apart — confirm which airport your flight uses. **Thai AirAsia**, **Nok Air**, and **Bangkok Airways** connect Bangkok to [Chiang Mai](/thailand/chiang-mai-guide), [Phuket](/thailand/phuket-guide), Krabi, Koh Samui, and Chiang Rai for ฿500–1,500 if booked in advance.
 
 ### Overnight Trains
 Thailand's rail network covers the main corridors with comfortable overnight sleeper services:

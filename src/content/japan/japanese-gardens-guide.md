@@ -14,7 +14,7 @@ Japanese garden design developed over 1,400 years from Chinese influence through
 
 Three broad styles exist, often combined:
 
-**Karesansui** (dry landscape): Raked gravel representing water, rocks placed to suggest mountains or islands. No actual water. Found primarily in Zen temples; most concentrated in Kyoto.
+**Karesansui** (dry landscape): Raked gravel representing water, rocks placed to suggest mountains or islands. No actual water. Found primarily in Zen temples; most concentrated in [Kyoto](/japan/kyoto-guide).
 
 **Chisen-kaiyu** (pond-and-strolling): A large central pond with a path circling it, revealing different views as you walk. The genre of most famous "traditional" Japanese gardens. Designed to be experienced through movement, not from a single viewpoint.
 
@@ -29,7 +29,7 @@ Japan's tourist authorities designated three gardens as the nation's greatest in
 ### Kenroku-en (Kanazawa)
 The most elaborate and historically dense of the three. The name derives from six attributes that Chinese garden theory held to be essential: spaciousness, seclusion, artifice, antiquity, water features, and views. Kenroku-en has all six because it was built over 170 years by the Maeda clan, successive lords who kept adding until it reached its current form in 1874.
 
-Highlights include the **Kotoji-toro** lantern (its two-legged stone lantern is the garden's symbol), the **Kasumigaike** pond, and the **Karasaki-no-matsu** — a pine tree over 200 years old whose branches are supported by a system of posts (yukitsuri) that also protects them from snow. The yukitsuri ropes strung from a central pole are an Kanazawa winter aesthetic unto themselves.
+Highlights include the **Kotoji-toro** lantern (its two-legged stone lantern is the garden's symbol), the **Kasumigaike** pond, and the **Karasaki-no-matsu** — a pine tree over 200 years old whose branches are supported by a system of posts (yukitsuri) that also protects them from snow. The yukitsuri ropes strung from a central pole are an [Kanazawa](/japan/kanazawa-guide) winter aesthetic unto themselves.
 
 Best time to visit: Winter for the yukitsuri; spring for plum blossoms (February-March) and cherry blossoms (April); autumn for maples.
 
@@ -68,11 +68,11 @@ Access is trickier than any other garden on this list: you must apply in advance
 The application effort separates this from casual tourism and is part of the point. The garden rewards it.
 
 ### Shinjuku Gyoen (Tokyo)
-The most accessible great garden in Tokyo — technically a national garden rather than a temple garden. Three distinct styles: French formal, English landscape, and Japanese traditional, coexisting on 58 hectares. The Japanese garden section has a traditional teahouse overlooking a pond.
+The most accessible great garden in [Tokyo](/japan/tokyo-guide) — technically a national garden rather than a temple garden. Three distinct styles: French formal, English landscape, and Japanese traditional, coexisting on 58 hectares. The Japanese garden section has a traditional teahouse overlooking a pond.
 
 Primarily famous for cherry blossoms — Shinjuku Gyoen has over 1,000 cherry trees of 65 varieties, flowering from late March to mid-April. The different varieties extend the bloom season beyond the typical single week.
 
-The park is alcohol-free (unusual in Japan, where cherry blossom viewing parties traditionally involve significant drinking). This changes the atmosphere.
+The park is alcohol-free (unusual in Japan, where [cherry blossom](/japan/cherry-blossom-guide) viewing parties traditionally involve significant drinking). This changes the atmosphere.
 
 ---
 

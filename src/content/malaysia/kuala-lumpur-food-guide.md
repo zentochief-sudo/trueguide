@@ -10,7 +10,7 @@ tags: [Malaysia, Kuala Lumpur, food, hawker, nasi lemak, kopitiams, street food,
 city: kuala-lumpur
 ---
 
-Kuala Lumpur is one of Asia's great food cities — the product of three major culinary traditions (Malay, Chinese, Indian) that have coexisted for over a century in a city built on immigration, trade, and an almost religious attitude toward eating. The combination produces dishes that don't exist anywhere else: Hainanese chicken rice adapted by Chinese immigrants for local ingredients, mamak Indian-Malay hybrid cooking perfected over generations, and a breakfast culture in the kopitiam (coffee shop) that is simultaneously Chinese, British colonial, and entirely its own thing.
+[Kuala Lumpur](/[malaysia](/malaysia)/kuala-lumpur-guide) is one of Asia's great food cities — the product of three major culinary traditions (Malay, Chinese, Indian) that have coexisted for over a century in a city built on immigration, trade, and an almost religious attitude toward eating. The combination produces dishes that don't exist anywhere else: Hainanese chicken rice adapted by Chinese immigrants for local ingredients, mamak Indian-Malay hybrid cooking perfected over generations, and a breakfast culture in the kopitiam (coffee shop) that is simultaneously Chinese, British colonial, and entirely its own thing.
 
 ---
 
@@ -24,10 +24,10 @@ Where to eat it: Nasi lemak stalls are everywhere. The most acclaimed version in
 ### Roti Canai
 Flaky, layered flatbread of Indian-Malay origin — cooked on a flat iron griddle, served with *dhal* (lentil curry) and either *curry ayam* (chicken curry) or just the dhal. The skill is in the preparation: the dough is repeatedly folded and stretched to create the layered, almost pastry-like texture. Eaten with your hands, tearing sections and dipping.
 
-Where to eat it: Any mamak restaurant. The 24-hour mamak is a KL institution — Restoran Sahara Tent (Masjid India area) and Raju's Banana Leaf are known for quality.
+Where to eat it: Any mamak restaurant. The 24-hour mamak is a KL institution — Restoran Sahara Tent (Masjid [India](/india) area) and Raju's Banana Leaf are known for quality.
 
 ### Char Kway Teow
-Flat rice noodles stir-fried in lard over very high heat with prawns, cockles, egg, bean sprouts, and chili. The wok hei — the breath of the wok, the smoky charred flavor from sustained high heat — is what separates great char kway teow from adequate versions. A dish of Chinese Penang origin that spread throughout Malaysia; KL's versions differ from Penang's in their heavier, saucier character.
+Flat rice noodles stir-fried in lard over very high heat with prawns, cockles, egg, bean sprouts, and chili. The wok hei — the breath of the wok, the smoky charred flavor from sustained high heat — is what separates great char kway teow from adequate versions. A dish of Chinese [Penang](/malaysia/penang-travel-guide) origin that spread throughout Malaysia; KL's versions differ from Penang's in their heavier, saucier character.
 
 Where to eat it: Pudu, Old Klang Road. Restoran Lai Foong (Masjid India) for a city-center option.
 

@@ -10,13 +10,13 @@ tags: [Spain, March, Las Fallas, Valencia, spring, Semana Santa, travel tips]
 city: national
 ---
 
-March is Spain's awakening month. The country transitions from winter quiet to spring energy — temperatures rise, café terraces fill, and the first major tourist wave of the year begins. The centerpiece is Las Fallas in Valencia: five days of pyrotechnics, enormous papier-mâché sculptures, and street celebrations that are among the loudest, most chaotic, and most exhilarating experiences in European travel.
+March is [Spain](/spain)'s awakening month. The country transitions from winter quiet to spring energy — temperatures rise, café terraces fill, and the first major tourist wave of the year begins. The centerpiece is Las Fallas in Valencia: five days of pyrotechnics, enormous papier-mâché sculptures, and street celebrations that are among the loudest, most chaotic, and most exhilarating experiences in European travel.
 
 ## Weather in March
 
 **Madrid:** 7°C to 16°C. Noticeably warmer than February. Spring arrives definitively by late March — outdoor café season begins. Rain possible but not dominant.
 
-**Barcelona:** 11°C to 18°C. Warming toward spring; the terraces fill by mid-March on sunny afternoons. The beach is still too cold for swimming but pleasant for walking.
+**[Barcelona](/spain/barcelona-travel-guide):** 11°C to 18°C. Warming toward spring; the terraces fill by mid-March on sunny afternoons. The beach is still too cold for swimming but pleasant for walking.
 
 **Valencia:** 12°C to 20°C. Perfect for Las Fallas — warm enough for outdoor festivals without the summer heat.
 

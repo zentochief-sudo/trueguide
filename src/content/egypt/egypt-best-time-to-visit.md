@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Egypt has one of the most predictable climates in the world — almost no rain, year-round sunshine, and temperatures that range from pleasantly warm to dangerously hot. The timing of your visit matters enormously, particularly for Luxor and Aswan where summer temperatures routinely exceed 45°C.
+[Egypt](/egypt) has one of the most predictable climates in the world — almost no rain, year-round sunshine, and temperatures that range from pleasantly warm to dangerously hot. The timing of your visit matters enormously, particularly for Luxor and Aswan where summer temperatures routinely exceed 45°C.
 
 ## The Short Answer
 
@@ -19,7 +19,7 @@ Egypt has one of the most predictable climates in the world — almost no rain, 
 **Best for Luxor and Aswan:** November–February  
 **Best for Alexandria (Mediterranean):** May–October  
 **Avoid Luxor/Aswan:** June–August (extreme heat — not safe for extended outdoor time)  
-**Avoid Cairo:** August (very hot, plus many Cairenes leave for the coast)
+**Avoid [Cairo](/egypt/cairo-travel-guide):** August (very hot, plus many Cairenes leave for the coast)
 
 ---
 
@@ -127,4 +127,4 @@ Christmas visitors. Cairo's coolest month (15–22°C). Karnak and Luxor Temple 
 | April 25 | Sinai Liberation Day |
 | October 22 | Abu Simbel sun alignment |
 | November 4 | Anniversary of Tutankhamun's tomb discovery (1922) |
-| Various | Sufi festival nights at mosques in Islamic Cairo |
+| Various | Sufi festival nights at mosques in [Islamic Cairo](/egypt/islamic-cairo-guide) |

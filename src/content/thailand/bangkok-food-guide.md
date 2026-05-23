@@ -10,7 +10,7 @@ tags: [Bangkok, Thailand, street food, Thai cuisine, pad thai, som tam, Yaowarat
 city: bangkok
 ---
 
-Bangkok has more Michelin-starred street food stalls than any city outside of Asia — including Jay Fai (฿1,200+ per person, famous for the crab omelette and drunken noodles), which received a Michelin star in 2018 and has had a queue policy ever since. The city's food culture operates at every price point, from ฿45 bowls of boat noodles to multi-course tasting menus, and the gap in quality between street level and fine dining is smaller than in almost any other major city.
+[Bangkok](/thailand/bangkok-guide) has more Michelin-starred street food stalls than any city outside of Asia — including Jay Fai (฿1,200+ per person, famous for the crab omelette and drunken noodles), which received a Michelin star in 2018 and has had a queue policy ever since. The city's food culture operates at every price point, from ฿45 bowls of boat noodles to multi-course tasting menus, and the gap in quality between street level and fine dining is smaller than in almost any other major city.
 
 The key insight for eating in Bangkok: what's on the Khao San Road tourist menus is a simplified, sweetened version of Thai food adjusted for foreign palates. The real canon is nearby but requires a brief detour.
 
@@ -30,7 +30,7 @@ The key insight for eating in Bangkok: what's on the Khao San Road tourist menus
 
 ## Dishes Beyond the Tourist Menu
 
-**Som tam (green papaya salad)**: Shredded unripe papaya pounded with chili, garlic, lime, fish sauce, palm sugar, and tomatoes. The Isaan version (from northeastern Thailand) uses fermented fish sauce and crab — more pungent than the tourist-menu version. Found at street stalls throughout the city, particularly in the Udomsuk and On Nut areas.
+**Som tam (green papaya salad)**: Shredded unripe papaya pounded with chili, garlic, lime, fish sauce, palm sugar, and tomatoes. The Isaan version (from northeastern [Thailand](/thailand)) uses fermented fish sauce and crab — more pungent than the tourist-menu version. Found at street stalls throughout the city, particularly in the Udomsuk and On Nut areas.
 
 **Larb**: A minced meat salad with herbs, toasted rice powder, fish sauce, and lime — most commonly pork or chicken, but duck and beef versions exist. Isaan origin; served with sticky rice.
 

@@ -20,7 +20,7 @@ The city is organized in 20 arrondissements spiraling outward from the Île de l
 
 The best-preserved medieval neighborhood in Paris — narrow streets, Renaissance hôtels particuliers (townhouses), the Place des Vosges (the oldest planned square in Paris, built 1612), and the highest concentration of contemporary art galleries in the city. The Marais is also the historic center of Parisian Jewish life (the rue des Rosiers area) and the LGBTQ+ social center.
 
-**What to do**: The Musée Picasso (hôtel Salé, 5 floors of Picasso's collection), the Centre Pompidou (modern art, architecture as event, the view from the terrace), and the Musée Carnavalet (the history of Paris, free entry). Walk the rue de Bretagne to the Marché des Enfants Rouges (the oldest covered market in Paris, 1615 — still functioning, with food stalls from Morocco, Italy, and France). The Place des Vosges arcades in the late afternoon.
+**What to do**: The Musée Picasso (hôtel Salé, 5 floors of Picasso's collection), the Centre Pompidou (modern art, architecture as event, the view from the terrace), and the Musée Carnavalet (the history of Paris, free entry). Walk the rue de Bretagne to the Marché des Enfants Rouges (the oldest covered market in Paris, 1615 — still functioning, with food stalls from Morocco, [Italy](/italy), and [France](/france)). The Place des Vosges arcades in the late afternoon.
 
 ---
 

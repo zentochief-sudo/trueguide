@@ -10,7 +10,7 @@ tags: [Tohoku, Matsushima, Yamadera, Sendai, Dewa Sanzan, Japan, northeast, pilg
 city: national
 ---
 
-Tohoku sits between Tokyo and Hokkaido in distance but far outside the standard Japan itinerary. The Tohoku Shinkansen connects Tokyo to Sendai in 90 minutes, and from Sendai most of the region's key sites are within a few hours. The combination of dramatic mountain terrain, deep winter snow culture, intact pilgrimage traditions, and excellent local cuisine (wagyu beef, sake, seafood from the Pacific coast) makes Tohoku one of Japan's strongest cases for extending a standard itinerary.
+Tohoku sits between [Tokyo](/japan/tokyo-guide) and [Hokkaido](/japan/hokkaido-guide) in distance but far outside the standard Japan itinerary. The Tohoku Shinkansen connects Tokyo to Sendai in 90 minutes, and from Sendai most of the region's key sites are within a few hours. The combination of dramatic mountain terrain, deep winter snow culture, intact pilgrimage traditions, and excellent local cuisine (wagyu beef, sake, seafood from the Pacific coast) makes Tohoku one of Japan's strongest cases for extending a standard itinerary.
 
 The region was severely affected by the March 2011 earthquake and tsunami, particularly the Pacific coastal areas of Iwate, Miyagi, and Fukushima. Reconstruction is substantially complete; the memorial sites along the coast are now part of the landscape visitors encounter, and understanding the scale of what happened there adds context to the region.
 
@@ -68,7 +68,7 @@ The three sacred mountains of Yamagata Prefecture — Haguro-san, Gas-san, and Y
 
 **The circuit**: Most visitors do Haguro-san as a day trip (accessible by bus from the Tsuruoka JR station). The full three-mountain circuit requires 2–3 days and is best approached from Tsuruoka city.
 
-**Sokushinbutsu**: The Yamagata mountain temple tradition includes the *sokushinbutsu* — the mummified Buddhist monks preserved in certain mountain temples. The most significant collection is at Nangaku-ji and Dainichi-bo temples near Haguro-san. These are monks who undertook a specific ascetic practice over years, resulting in self-mummification, and whose preserved bodies are displayed as objects of veneration. The practice ended in the 19th century (the Meiji government prohibited it); the mummies are still venerated. This is genuine rather than macabre — they are considered to be in eternal meditation, similar to the belief about Kobo Daishi at Koyasan.
+**Sokushinbutsu**: The Yamagata mountain temple tradition includes the *sokushinbutsu* — the mummified Buddhist monks preserved in certain mountain temples. The most significant collection is at Nangaku-ji and Dainichi-bo temples near Haguro-san. These are monks who undertook a specific ascetic practice over years, resulting in self-mummification, and whose preserved bodies are displayed as objects of veneration. The practice ended in the 19th century (the Meiji government prohibited it); the mummies are still venerated. This is genuine rather than macabre — they are considered to be in eternal meditation, similar to the belief about Kobo Daishi at [Koyasan](/japan/koyasan-guide).
 
 ---
 
@@ -92,4 +92,4 @@ Tohoku's largest city and the regional base. Practical rather than beautiful —
 
 ---
 
-Tohoku is the Japan where the population is thinner, the mountains are older, and the religious traditions run deeper. It is not the Japan of Kyoto's managed aesthetics or Tokyo's sensory density; it is a different country using the same language. Getting there is easy. The difficulty is allocating enough time, which is a problem Tohoku rewards solving.
+Tohoku is the Japan where the population is thinner, the mountains are older, and the religious traditions run deeper. It is not the Japan of [Kyoto](/japan/kyoto-guide)'s managed aesthetics or Tokyo's sensory density; it is a different country using the same language. Getting there is easy. The difficulty is allocating enough time, which is a problem Tohoku rewards solving.

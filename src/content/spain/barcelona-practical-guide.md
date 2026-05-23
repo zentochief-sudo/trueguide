@@ -12,7 +12,7 @@ city: barcelona
 
 ## Getting to Barcelona
 
-**By air**: Barcelona–El Prat Airport (BCN) — 12 km southwest of the city.
+**By air**: [Barcelona](/[spain](/spain)/barcelona-travel-guide)–El Prat Airport (BCN) — 12 km southwest of the city.
 
 **Airport → city**:
 - **Aerobus** (~35 min, €6.75 single / €10.70 return): Runs every 5–10 minutes to Plaça Catalunya (center). The most convenient option. Buy at machines outside arrivals or via the Aerobus app. Card accepted.

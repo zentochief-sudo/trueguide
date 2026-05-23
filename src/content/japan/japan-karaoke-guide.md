@@ -10,7 +10,7 @@ tags: [karaoke, Japan, Tokyo, Osaka, norebang comparison, private karaoke, Karao
 city: national
 ---
 
-Karaoke was invented in Japan — the *karaoke* machine was patented in Kobe in 1971. The Japanese form, in its private room (*karaoke BOX*) format, is entirely different from the public stage karaoke common in Western countries and Korea. In Japan, you rent a private room with your group, close the door, and sing without any audience outside your friends. The social mechanism is the same as any group activity; the absence of public performance anxiety is the feature that makes it accessible to everyone.
+Karaoke was invented in Japan — the *karaoke* machine was patented in [Kobe](/japan/kobe-guide) in 1971. The Japanese form, in its private room (*karaoke BOX*) format, is entirely different from the public stage karaoke common in Western countries and Korea. In Japan, you rent a private room with your group, close the door, and sing without any audience outside your friends. The social mechanism is the same as any group activity; the absence of public performance anxiety is the feature that makes it accessible to everyone.
 
 ---
 
@@ -102,7 +102,7 @@ A karaoke session mixed with Japanese friends typically involves:
 
 ## Practical Notes
 
-**Finding a venue**: Every major entertainment district (Shinjuku, Shibuya, Ikebukuro, Namba, Gion Shijo) has multiple karaoke chains within walking distance. The major chains have English-language reception at Tokyo locations; pointing and phone translation work universally elsewhere.
+**Finding a venue**: Every major entertainment district (Shinjuku, Shibuya, Ikebukuro, Namba, Gion Shijo) has multiple karaoke chains within walking distance. The major chains have English-language reception at [Tokyo](/japan/tokyo-guide) locations; pointing and phone translation work universally elsewhere.
 
 **Recommended Tokyo locations**:
 - Shinjuku: Big Echo on Kabukicho; multiple Joysound locations

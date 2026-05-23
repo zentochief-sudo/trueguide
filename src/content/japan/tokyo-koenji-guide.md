@@ -10,7 +10,7 @@ tags: [Koenji, Tokyo, Japan, antiques, vintage, shotengai, subculture, live musi
 city: tokyo
 ---
 
-Koenji is 15 minutes from Shinjuku on the JR Chuo Line — far enough that the commercial pressure that flattened Nakameguro and Daikanyama has not yet arrived in full force. The neighborhood retains the street life of a working-class Tokyo district that has accumulated subculture for 50 years: the leftist politics, the antique dealers, the record shops, the punk venues, and the festival that shuts down the main streets every August for the Awa Odori dance celebration.
+Koenji is 15 minutes from Shinjuku on the JR Chuo Line — far enough that the commercial pressure that flattened Nakameguro and Daikanyama has not yet arrived in full force. The neighborhood retains the street life of a working-class [Tokyo](/japan/tokyo-guide) district that has accumulated subculture for 50 years: the leftist politics, the antique dealers, the record shops, the punk venues, and the festival that shuts down the main streets every August for the Awa Odori dance celebration.
 
 The Koenji that visitors experience is primarily the streets north and south of the station — the covered shopping arcades, the antique market streets, the live houses. The residential neighborhoods behind these commercial streets are the more authentic picture of how people actually live in this part of Tokyo.
 

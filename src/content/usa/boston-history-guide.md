@@ -68,4 +68,4 @@ Cambridge's universities are accessible to the public and historically significa
 
 **306 Congress Street, Seaport** | $30
 
-A re-creation of the two ships from which colonists dumped 342 chests of British East India Company tea into Boston Harbor on December 16, 1773. The museum uses first-person actor narration and participatory elements. More theatrical than a conventional museum but effective at conveying the sequence of events that made the Tea Party a historical turning point.
+A re-creation of the two ships from which colonists dumped 342 chests of British East [India](/india) Company tea into Boston Harbor on December 16, 1773. The museum uses first-person actor narration and participatory elements. More theatrical than a conventional museum but effective at conveying the sequence of events that made the Tea Party a historical turning point.

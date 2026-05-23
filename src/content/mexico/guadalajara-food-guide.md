@@ -10,7 +10,7 @@ tags: [Guadalajara, food, birria, torta ahogada, tequila, World Cup 2026, Jalisc
 city: guadalajara
 ---
 
-Guadalajara's food is one of the most specific in Mexico — Jaliscan cuisine with ingredients and techniques that don't replicate anywhere else in the country. Birria, torta ahogada, red pozole, tamales de rajas con queso, and caldo michi (carp soup in tomato broth) exist in their most authentic form here. For the international World Cup visitor, Guadalajara is an introduction to regional Mexican cooking beyond the al pastor tacos of CDMX.
+Guadalajara's food is one of the most specific in [Mexico](/mexico) — Jaliscan cuisine with ingredients and techniques that don't replicate anywhere else in the country. Birria, torta ahogada, red pozole, tamales de rajas con queso, and caldo michi (carp soup in tomato broth) exist in their most authentic form here. For the international World Cup visitor, Guadalajara is an introduction to regional Mexican cooking beyond the al pastor tacos of CDMX.
 
 ---
 

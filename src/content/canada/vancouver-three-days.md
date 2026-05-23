@@ -20,7 +20,7 @@ Key stops on the Seawall: **Prospect Point** (the narrow passage under the Lions
 
 Inside the park, away from the Seawall: **Beaver Lake** (wild beaver population in an urban park), and towering Douglas firs and western red cedars that are 500–700 years old.
 
-**Lunch:** **Granville Island** — cross False Creek via the Granville Bridge or take the distinctive small Aquabus ferry from the West End waterfront (€3 each way). The **Granville Island Public Market** is one of Canada's finest food markets: fresh Pacific salmon (wild and farmed), Dungeness and Dungeness crab, local cheeses, berries, prepared foods, and some of the best lunch counters in the city. Eat lunch here — the **salmon chowder** or fresh oysters from the seafood stands are particular recommendations.
+**Lunch:** **Granville Island** — cross False Creek via the Granville Bridge or take the distinctive small Aquabus ferry from the West End waterfront (€3 each way). The **Granville Island Public Market** is one of [Canada](/canada)'s finest food markets: fresh Pacific salmon (wild and farmed), Dungeness and Dungeness crab, local cheeses, berries, prepared foods, and some of the best lunch counters in the city. Eat lunch here — the **salmon chowder** or fresh oysters from the seafood stands are particular recommendations.
 
 **Afternoon:** Walk the **Granville Island arts district** — studios, galleries, and workshops around the market, including the Emily Carr University of Art and Design (Canada's leading art school).
 

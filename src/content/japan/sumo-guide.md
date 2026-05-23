@@ -22,12 +22,12 @@ Professional sumo holds six tournaments (basho) per year, each lasting 15 days:
 
 | Tournament | Location | Dates |
 |---|---|---|
-| Hatsu Basho | Tokyo (Kokugikan) | January |
-| Haru Basho | Osaka (Edion Arena) | March |
+| Hatsu Basho | [Tokyo](/japan/tokyo-guide) (Kokugikan) | January |
+| Haru Basho | [Osaka](/japan/osaka-guide) (Edion Arena) | March |
 | Natsu Basho | Tokyo (Kokugikan) | May |
-| Nagoya Basho | Nagoya (Dolphins Arena) | July |
+| [Nagoya](/japan/nagoya-guide) Basho | Nagoya (Dolphins Arena) | July |
 | Aki Basho | Tokyo (Kokugikan) | September |
-| Kyushu Basho | Fukuoka (Fukuoka Convention Center) | November |
+| Kyushu Basho | [Fukuoka](/japan/fukuoka-guide) (Fukuoka Convention Center) | November |
 
 If your Japan trip aligns with any of these dates, going to a tournament is one of the best single-day cultural experiences available.
 

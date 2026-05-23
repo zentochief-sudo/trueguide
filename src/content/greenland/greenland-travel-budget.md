@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Greenland is one of the most expensive destinations on earth. There are no roads between settlements — everything moves by plane or boat, all goods are imported, and the logistics of running a functioning society in the Arctic are reflected directly in prices. Budget accordingly and don't expect bargains.
+[Greenland](/greenland) is one of the most expensive destinations on earth. There are no roads between settlements — everything moves by plane or boat, all goods are imported, and the logistics of running a functioning society in the Arctic are reflected directly in prices. Budget accordingly and don't expect bargains.
 
 ## The Numbers at a Glance
 
@@ -26,7 +26,7 @@ A 7-day trip to Greenland typically costs **€2,500–5,000 per person** includ
 
 ## Flights
 
-**From Copenhagen (CPH) to Nuuk (GOH) or Ilulissat (JAV):**
+**From Copenhagen (CPH) to [Nuuk](/greenland/nuuk-travel-guide) (GOH) or Ilulissat (JAV):**
 - Low season: €500–800 return
 - High season (summer/dog sled): €700–1,200 return
 - Book with **Air Greenland** — the only carrier on most routes
@@ -88,7 +88,7 @@ Greenland imports nearly all food. Prices reflect this.
 
 **Greenland National Museum (Nuuk):** €15 — extraordinary value for what it contains.
 
-**Free activities:** Hiking the trails above Nuuk, walking the Ilulissat icefjord boardwalk, walking the Old Town, watching icebergs from shore.
+**Free activities:** Hiking the trails above Nuuk, walking the [Ilulissat icefjord](/greenland/ilulissat-icefjord-guide) boardwalk, walking the Old Town, watching icebergs from shore.
 
 ---
 

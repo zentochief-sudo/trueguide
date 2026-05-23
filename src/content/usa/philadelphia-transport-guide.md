@@ -10,7 +10,7 @@ tags: [Philadelphia, transport, SEPTA, Broad Street Line, World Cup 2026, gettin
 city: philadelphia
 ---
 
-Philadelphia has a functional transit system built for a city that was more transit-dependent in the 20th century than it is today. For World Cup visitors, the essential systems are two: the **Broad Street Line** (direct subway to Lincoln Financial Field) and the **Market-Frankford Line** (east-west line connecting Old City, Center City, and University City). Together, these cover the primary visitor areas and stadium access.
+Philadelphia has a functional transit system built for a city that was more transit-dependent in the 20th century than it is today. For World Cup visitors, the essential systems are two: the **Broad Street Line** (direct subway to [Lincoln Financial](/united-states/lincoln-financial-guide) Field) and the **Market-Frankford Line** (east-west line connecting Old City, Center City, and University City). Together, these cover the primary visitor areas and stadium access.
 
 ---
 

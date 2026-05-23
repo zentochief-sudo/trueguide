@@ -10,7 +10,7 @@ tags: [Nijō Castle, Kyoto, Tokugawa, shogun, Ninomaru Palace, Edo period, garde
 city: kyoto
 ---
 
-Nijō Castle was built in 1603 on the orders of Tokugawa Ieyasu, the newly unified ruler of Japan, as his official Kyoto residence — the seat of shogunal authority in the imperial capital. It served the Tokugawa shogunate for 265 years, until 1867 when the last shogun, Yoshinobu, formally announced the restoration of imperial rule from within its walls. It is one of the few places in Japan where you can stand in the room where a historical era ended.
+Nijō Castle was built in 1603 on the orders of Tokugawa Ieyasu, the newly unified ruler of Japan, as his official [Kyoto](/japan/kyoto-guide) residence — the seat of shogunal authority in the imperial capital. It served the Tokugawa shogunate for 265 years, until 1867 when the last shogun, Yoshinobu, formally announced the restoration of imperial rule from within its walls. It is one of the few places in Japan where you can stand in the room where a historical era ended.
 
 The complex was designated a UNESCO World Heritage Site in 1994 as part of the Historic Monuments of Ancient Kyoto.
 
@@ -36,7 +36,7 @@ The garden surrounding the Ninomaru Palace was designed by the tea master and ga
 
 Three islands in the pond, connected by stone bridges and stepping stones, represent the Taoist paradise islands of Hōrai, Kamejima (turtle), and Tsurujima (crane) — symbols of longevity standard in Japanese garden symbolism of the period. The composition is considered one of the finest surviving examples of early Edo garden design.
 
-In cherry blossom season (late March–early April), the garden is exceptional, though crowds are proportionally heavy.
+In [cherry blossom](/japan/cherry-blossom-guide) season (late March–early April), the garden is exceptional, though crowds are proportionally heavy.
 
 ### Honmaru Palace
 

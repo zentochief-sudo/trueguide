@@ -18,10 +18,10 @@ If you want Japan without the noise, this is your month.
 
 January is Japan's coldest month.
 
-- **Tokyo:** Average high 10°C, low 2°C. Clear blue skies are common (Tokyo gets some of its clearest days in January). Snow in Tokyo is rare but not impossible — once or twice a year.
-- **Kyoto / Osaka:** Similar to Tokyo, but Kyoto's basin geography makes it colder at night (sometimes -2 to 0°C). Occasional light snowfall, beautiful when it happens.
-- **Hokkaido:** -5 to -10°C average. Heavy snow. This is ski country, not city touring.
-- **Okinawa:** 16–20°C. Mild. Minimal tourism. Excellent.
+- **[Tokyo](/japan/tokyo-guide):** Average high 10°C, low 2°C. Clear blue skies are common (Tokyo gets some of its clearest days in January). Snow in Tokyo is rare but not impossible — once or twice a year.
+- **[Kyoto](/japan/kyoto-guide) / [Osaka](/japan/osaka-guide):** Similar to Tokyo, but Kyoto's basin geography makes it colder at night (sometimes -2 to 0°C). Occasional light snowfall, beautiful when it happens.
+- **[Hokkaido](/japan/hokkaido-guide):** -5 to -10°C average. Heavy snow. This is ski country, not city touring.
+- **[Okinawa](/japan/okinawa-guide):** 16–20°C. Mild. Minimal tourism. Excellent.
 
 Pack properly: thermal base layer, fleece or wool mid-layer, waterproof outer jacket. Gloves and a hat are non-negotiable anywhere except Okinawa.
 
@@ -29,11 +29,11 @@ Pack properly: thermal base layer, fleece or wool mid-layer, waterproof outer ja
 
 **The temples are quiet.** Fushimi Inari on a clear January morning at 8am feels like a private experience in a way it simply cannot in April. The famous sites — Arashiyama, Kinkaku-ji, Nara's deer park — lose the shoulder-to-shoulder crowds.
 
-**Accommodation is affordable.** January (post-New Year's) is the lowest season for most of Japan. Ryokan prices drop 20–30%. Mid-range hotels in Kyoto and Tokyo are at their most affordable.
+**Accommodation is affordable.** January (post-New Year's) is the lowest season for most of Japan. [Ryokan](/japan/ryokan-guide) prices drop 20–30%. Mid-range hotels in Kyoto and Tokyo are at their most affordable.
 
-**Hot springs make complete sense.** The onsen (hot spring bath) culture is year-round, but sitting in an outdoor rotenburo in January — snow falling, steam rising — is the definitive version. The mountain onsen towns (Hakone, Kinosaki Onsen, Yufuin, Noboribetsu) are all excellent in January.
+**Hot springs make complete sense.** The onsen (hot spring bath) culture is year-round, but sitting in an outdoor rotenburo in January — snow falling, steam rising — is the definitive version. The mountain onsen towns ([Hakone](/japan/hakone-guide), Kinosaki Onsen, Yufuin, Noboribetsu) are all excellent in January.
 
-**Clear skies = Mount Fuji views.** January is the most reliably clear month for seeing Fuji from a distance. Hakone, the Fuji Five Lakes, and even Tokyo's western windows on clear days offer extraordinary views.
+**Clear skies = [Mount Fuji](/japan/mount-fuji-guide) views.** January is the most reliably clear month for seeing Fuji from a distance. Hakone, the Fuji Five Lakes, and even Tokyo's western windows on clear days offer extraordinary views.
 
 ## Hatsumode: New Year's Shrine Visits
 

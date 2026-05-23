@@ -10,19 +10,19 @@ tags: [Costa Rica, April, green season, transition, value, Guanacaste, Arenal, w
 city: national
 ---
 
-April is Costa Rica's value pivot point. The green season rains typically begin arriving in the second half of April — afternoon showers appearing first in Guanacaste, building toward the sustained rainy season that peaks June–September. The country responds: prices drop 20–40% across accommodation and tours, the Pacific crowds thin dramatically, and the landscape begins the transformation from dry-season brown to the extraordinary green that Costa Rica is actually named for. April is the month when experienced travelers recognize the value opportunity.
+April is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s value pivot point. The green season rains typically begin arriving in the second half of April — afternoon showers appearing first in Guanacaste, building toward the sustained rainy season that peaks June–September. The country responds: prices drop 20–40% across accommodation and tours, the Pacific crowds thin dramatically, and the landscape begins the transformation from dry-season brown to the extraordinary green that Costa Rica is actually named for. April is the month when experienced travelers recognize the value opportunity.
 
 ## Weather & Conditions
 
 **Guanacaste:** 26–36°C. Dry mornings transitioning to afternoon showers by late April.
 
-**Manuel Antonio:** 25–32°C. More variable. Rain arriving more consistently than Guanacaste.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 25–32°C. More variable. Rain arriving more consistently than Guanacaste.
 
-**Arenal:** 22–28°C. Increasing rain. Mornings often clear.
+**[Arenal](/costa-rica/arenal-guide):** 22–28°C. Increasing rain. Mornings often clear.
 
 **Caribbean coast:** 24–30°C. This is the Caribbean's drier period (February–April are the least rainy months on the Caribbean side).
 
-**Osa Peninsula:** 24–32°C. Rain beginning to arrive.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 24–32°C. Rain beginning to arrive.
 
 ## What to Do
 

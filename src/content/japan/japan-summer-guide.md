@@ -10,7 +10,7 @@ tags: [Japan, summer, matsuri, festivals, fireworks, Obon, Kyoto, Gion Matsuri, 
 city: national
 ---
 
-Japan's summer is genuinely hot. Tokyo in August averages 32°C with humidity that makes that temperature feel more like 38°C. Kyoto is famous among Japanese travelers for being even worse — it sits in a basin that traps heat and moisture. Osaka, similarly. These are the realities before the advantages.
+Japan's summer is genuinely hot. [Tokyo](/japan/tokyo-guide) in August averages 32°C with humidity that makes that temperature feel more like 38°C. [Kyoto](/japan/kyoto-guide) is famous among Japanese travelers for being even worse — it sits in a basin that traps heat and moisture. [Osaka](/japan/osaka-guide), similarly. These are the realities before the advantages.
 
 The advantages: Japan in summer is the festival season. The country has been celebrating summer through elaborate *matsuri* since at least the Heian period. The Gion Matsuri in Kyoto, Awa Odori in Tokushima, Nebuta Matsuri in Aomori, and hundreds of smaller neighborhood festivals happen in July and August. **Hanabi** (fireworks displays) happen hundreds of times across the country, with major ones drawing half a million spectators. **Obon** — the Buddhist festival of the dead in mid-August — sends the country home to ancestral graves and generates a week of dance, ceremony, and travel that Western tourists mostly miss.
 
@@ -21,7 +21,7 @@ Understanding summer Japan is understanding a country celebrating its own cultur
 ## The Major Festivals
 
 ### Gion Matsuri (Kyoto, July)
-The Gion Matsuri is Japan's most famous festival, running the entire month of July and culminating in two elaborate processions of *yamaboko* floats (July 17 and 24) that date back over a thousand years. The floats — some three stories tall, decorated with tapestries from 16th-century Europe traded through Nagasaki — are assembled by the neighborhood guilds responsible for them in a process that begins two weeks before the procession.
+The Gion Matsuri is Japan's most famous festival, running the entire month of July and culminating in two elaborate processions of *yamaboko* floats (July 17 and 24) that date back over a thousand years. The floats — some three stories tall, decorated with tapestries from 16th-century Europe traded through [Nagasaki](/japan/nagasaki-guide) — are assembled by the neighborhood guilds responsible for them in a process that begins two weeks before the procession.
 
 The evenings of July 14-16 (Yoiyama and Yoiyama Eve) are the most atmospheric: the streets close to traffic, the float neighborhoods open their historic machiya houses to the public, and lanterns illuminate the floats from below while the city fills with people in *yukata* (summer kimono). Hotels in Kyoto during Gion Matsuri book out months in advance.
 
@@ -65,23 +65,23 @@ Obon week creates Japan's largest domestic travel movement (alongside New Year).
 
 **Shade strategy**: Plan outdoor sightseeing for morning (before 10am) and late afternoon (after 4pm). The period between 11am and 3pm at peak summer is genuinely dangerous in an outdoor stone temple complex with no trees.
 
-**Cooling spots**: Each konbini (convenience store) is an air-conditioned rest stop available at any point. Japanese department stores are aggressively air-conditioned and free to enter. Underground mall networks in Tokyo, Osaka, and Nagoya allow significant movement without outdoor exposure.
+**Cooling spots**: Each konbini (convenience store) is an air-conditioned rest stop available at any point. Japanese department stores are aggressively air-conditioned and free to enter. Underground mall networks in Tokyo, Osaka, and [Nagoya](/japan/nagoya-guide) allow significant movement without outdoor exposure.
 
 **Yukata rental**: Wearing a *yukata* (light summer cotton kimono) at a matsuri is appropriate and comfortable — the light cotton breathes better than Western summer clothes and is functionally cooler in still-air conditions. Rental services operate near major festivals for ¥3,000-5,000 including dressing assistance.
 
-**Hotels**: Check that your hotel room has air conditioning before booking. This is standard in Japan but not universal in budget accommodations and some traditional ryokan.
+**Hotels**: Check that your hotel room has air conditioning before booking. This is standard in Japan but not universal in budget accommodations and some traditional [ryokan](/japan/ryokan-guide).
 
 ---
 
 ## Okinawa: Japan's Southern Islands
 
-Okinawa and the Ryukyu island chain are a separate weather zone — subtropical, with year-round warmth. The main island (Naha) and the outer islands (Miyakojima, Ishigaki, Zamami) offer:
+[Okinawa](/japan/okinawa-guide) and the Ryukyu island chain are a separate weather zone — subtropical, with year-round warmth. The main island (Naha) and the outer islands (Miyakojima, Ishigaki, Zamami) offer:
 
 **Beaches**: Clear water, coral reef, visibility that approaches Southeast Asian standards in the outer islands. Miyakojima's **Maehama Beach** and Ishigaki's **Kabira Bay** are among the most photographed in Japan.
 
 **Diving**: The coral walls around Ishigaki, particularly **Manta Scramble** — a cleaning station where manta rays aggregate in numbers — are a legitimate reason to travel from any distance.
 
-**Ryukyuan culture**: Okinawa was an independent kingdom until 1879 and retains distinct food, music, and architecture. **Shuri Castle** (Naha) — a Chinese-influenced palace destroyed in WWII and reconstructed — represents a different aesthetic from mainland Japanese castles. Ryukyuan cuisine (champuru stir-fries, goya (bitter melon), Okinawa soba, awamori spirit) is distinct from Japanese food.
+**Ryukyuan culture**: Okinawa was an independent kingdom until 1879 and retains distinct food, music, and architecture. **Shuri Castle** (Naha) — a Chinese-influenced palace destroyed in WWII and reconstructed — represents a different aesthetic from mainland Japanese castles. Ryukyuan cuisine (champuru stir-fries, goya (bitter melon), Okinawa soba, awamori spirit) is distinct from [Japanese food](/japan/japanese-food-guide).
 
 **Timing**: The best season is May-June, after typhoon season hasn't fully started and before the main summer crowds. July-August is peak beach season and also peak typhoon risk.
 

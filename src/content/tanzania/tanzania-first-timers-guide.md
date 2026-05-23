@@ -10,11 +10,11 @@ tags: []
 city: national
 ---
 
-Tanzania offers two of the world's most extraordinary travel experiences: the Great Migration (the largest animal movement on earth) and Zanzibar (an Indian Ocean island of coral reefs, spices, and centuries of Swahili culture). First-timers often don't know how to combine them or how to prepare.
+[Tanzania](/tanzania) offers two of the world's most extraordinary travel experiences: the Great Migration (the largest animal movement on earth) and [Zanzibar](/tanzania/zanzibar-guide) (an Indian Ocean island of coral reefs, spices, and centuries of Swahili culture). First-timers often don't know how to combine them or how to prepare.
 
 ## The Basics
 
-**Capital:** Dodoma (administrative); Dar es Salaam (commercial)  
+**Capital:** Dodoma (administrative); [Dar es Salaam](/tanzania/dar-es-salaam-guide) (commercial)  
 **Currency:** Tanzanian Shilling (TZS). USD accepted widely for tourist services. €1 ≈ TZS 2,700.  
 **Language:** Swahili (official), English (widely spoken in tourist areas)  
 **Time zone:** EAT (GMT+3)  
@@ -28,7 +28,7 @@ Tanzania offers two of the world's most extraordinary travel experiences: the Gr
 
 **Yellow fever vaccine:** Required certificate if arriving from a country where yellow fever is endemic (most of sub-Saharan Africa, parts of South America). Even if your country isn't listed, carry the certificate — it may be checked at entry.
 
-**Malaria:** Present throughout Tanzania at low altitude (not on Kilimanjaro above 1,800m). Prophylaxis is strongly recommended — consult a travel doctor. Options include Malarone (atovaquone-proguanil), doxycycline, and mefloquine.
+**Malaria:** Present throughout Tanzania at low altitude (not on [Kilimanjaro](/tanzania/kilimanjaro-guide) above 1,800m). Prophylaxis is strongly recommended — consult a travel doctor. Options include Malarone (atovaquone-proguanil), doxycycline, and mefloquine.
 
 **Other vaccinations:** Hepatitis A, typhoid, and tetanus are commonly recommended. Rabies for longer stays or wildlife work.
 
@@ -38,7 +38,7 @@ Tanzania offers two of the world's most extraordinary travel experiences: the Gr
 
 ## The Safari Circuit
 
-The **Northern Circuit** is what most first-timers visit: Arusha–Tarangire–Ngorongoro–Serengeti. This circuit covers:
+The **Northern Circuit** is what most first-timers visit: [Arusha](/tanzania/arusha-guide)–[Tarangire](/tanzania/tarangire-guide)–[Ngorongoro](/tanzania/ngorongoro-guide)–Serengeti. This circuit covers:
 - The world's largest intact volcanic caldera (Ngorongoro)
 - The Serengeti (name means "endless plain" in Maasai)
 - Extraordinary elephant concentrations (Tarangire)

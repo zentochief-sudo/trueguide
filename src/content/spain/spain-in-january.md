@@ -10,13 +10,13 @@ tags: [Spain, January, winter, low season, Three Kings, Andalusia, Sierra Nevada
 city: national
 ---
 
-January is Spain's reset month. The Christmas and New Year crowds are gone. The Three Kings parade on January 5–6 marks the final burst of holiday energy, and then the country returns to its quietest, most affordable state of the year. For independent travelers, it's one of the most efficient months to visit — major sites nearly empty, prices at annual lows, and the southern coast warm enough for pleasant outdoor life.
+January is [Spain](/spain)'s reset month. The Christmas and New Year crowds are gone. The Three Kings parade on January 5–6 marks the final burst of holiday energy, and then the country returns to its quietest, most affordable state of the year. For independent travelers, it's one of the most efficient months to visit — major sites nearly empty, prices at annual lows, and the southern coast warm enough for pleasant outdoor life.
 
 ## Weather in January
 
 **Madrid:** 2°C to 10°C. Cold, occasionally wet, sometimes snowy (though snow in central Madrid is rare). Wind from the sierra cuts through the city. Museums and galleries are ideal.
 
-**Barcelona:** 8°C to 15°C. Mild by northern European standards but cool enough to require a coat. Occasional rain. The beach is out of season but the city is excellent.
+**[Barcelona](/spain/barcelona-travel-guide):** 8°C to 15°C. Mild by northern European standards but cool enough to require a coat. Occasional rain. The beach is out of season but the city is excellent.
 
 **Seville/Córdoba/Granada (Andalusia):** 8°C to 16°C. Comfortably mild days — outdoor café culture continues year-round here. Cold nights.
 

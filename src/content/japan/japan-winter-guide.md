@@ -10,7 +10,7 @@ tags: [Japan, winter, snow, onsen, Hokkaido, Sapporo, Shirakawa-go, illumination
 city: national
 ---
 
-December through February is Japan's least crowded travel season outside the narrow windows of Christmas-New Year and Golden Week. The weather is cold — Tokyo averages 5°C in January, Hokkaido sees -10°C and below — but the country does not slow down. It adjusts. Onsen become the primary activity. Snow landscapes appear in places that look ordinary in summer. City illumination festivals run from November through February and transform commercial districts into something more interesting than they are the rest of the year.
+December through February is Japan's least crowded travel season outside the narrow windows of Christmas-New Year and Golden Week. The weather is cold — Tokyo averages 5°C in January, [Hokkaido](/japan/hokkaido-guide) sees -10°C and below — but the country does not slow down. It adjusts. Onsen become the primary activity. Snow landscapes appear in places that look ordinary in summer. City illumination festivals run from November through February and transform commercial districts into something more interesting than they are the rest of the year.
 
 The practical advantages are significant: hotel prices fall by 20-40% from autumn peak, popular sites like Kyoto's Fushimi Inari run at 30% of their spring capacity, and the social infrastructure for cold-weather comfort is extraordinary.
 
@@ -22,11 +22,11 @@ The practical advantages are significant: hotel prices fall by 20-40% from autum
 
 **January (New Year excluded)**: The post-hatsumode period. The first week is the busiest of winter as Japanese families travel for *hatsumode* (first shrine visit of the year) and family gatherings. By January 8th, domestic crowds thin significantly. This is one of the best weeks to be in Japan.
 
-**February**: Sapporo Snow Festival brings 2 million visitors to Hokkaido; the rest of Japan is at its quietest. The best value weeks of the year are mid-to-late February. Plum blossoms begin at the end of the month.
+**February**: [Sapporo](/japan/sapporo-guide) Snow Festival brings 2 million visitors to Hokkaido; the rest of Japan is at its quietest. The best value weeks of the year are mid-to-late February. Plum blossoms begin at the end of the month.
 
 **Temperatures by region:**
 - Hokkaido: -5°C to -15°C
-- Tohoku (northern Honshu): -2°C to -8°C
+- [Tohoku](/japan/tohoku-guide) (northern Honshu): -2°C to -8°C
 - Tokyo: 2°C to 9°C
 - Kyoto/Osaka: 3°C to 10°C
 - Kyushu: 5°C to 13°C (mild enough for comfortable winter travel)
@@ -60,7 +60,7 @@ The UNESCO-listed gassho-zukuri farmhouses of **Shirakawa-go** (Gifu) and **Goka
 
 **Non-light-up winter visits**: Still beautiful, substantially less crowded. The daytime snow village is arguably more moving than the illuminated version — the silence, the smoke from inhabited farmhouses, the scale of the roofs under white.
 
-Access: Shirakawa-go is reached by highway bus from Kanazawa (75 minutes) or Takayama (50 minutes). There's no train station.
+Access: Shirakawa-go is reached by highway bus from [Kanazawa](/japan/kanazawa-guide) (75 minutes) or [Takayama](/japan/takayama-guide) (50 minutes). There's no train station.
 
 ---
 
@@ -72,9 +72,9 @@ The combination of cold air and hot water is the peak onsen experience. An outdo
 
 **Zao Onsen (Yamagata)**: Combined ski resort and onsen town at altitude. The **juhyo** (ice trees) — pine trees coated in ice by wind-driven snow — are a unique winter phenomenon viewable from gondola. The slopes are good; the town's milky-white sulfurous onsen are the best reason to be here.
 
-**Nyuto Onsen (Akita)**: Seven distinct ryokan-operated onsen in a mountain valley, each with different water chemistry and outdoor baths. Deep in Tohoku, accessible from Tazawako station. **Tsurunoyu** is the most famous — a 17th-century bath with milky sulfur water and a thatched roof outdoor bath that fills with snow in winter.
+**Nyuto Onsen (Akita)**: Seven distinct [ryokan](/japan/ryokan-guide)-operated onsen in a mountain valley, each with different water chemistry and outdoor baths. Deep in Tohoku, accessible from Tazawako station. **Tsurunoyu** is the most famous — a 17th-century bath with milky sulfur water and a thatched roof outdoor bath that fills with snow in winter.
 
-**Gero Onsen (Gifu)**: One of Japan's three great hot spring towns (alongside Arima and Kusatsu), easily accessible from Nagoya and Takayama. Alkaline water, multiple public baths, and a riverfront rotenburo.
+**Gero Onsen (Gifu)**: One of Japan's three great hot spring towns (alongside Arima and Kusatsu), easily accessible from [Nagoya](/japan/nagoya-guide) and Takayama. Alkaline water, multiple public baths, and a riverfront rotenburo.
 
 **Yufuin (Oita)**: Compared to the crowded Beppu next door, Yufuin is refined and pastoral. The morning mist over the valley makes it a different place than summer; winter visits have the added stillness of smaller crowds.
 
@@ -111,7 +111,7 @@ Layering is essential:
 
 ## Budget Advantage
 
-Winter (outside Christmas week and New Year) is the cheapest time to visit Japan. A Kyoto ryokan that costs ¥25,000 per person in autumn cherry blossom season costs ¥15,000 in January. Business hotels in Tokyo drop 30-40%. Domestic flights are less competitive for winter dates, but Shinkansen remains unchanged.
+Winter (outside Christmas week and New Year) is the cheapest time to visit Japan. A Kyoto ryokan that costs ¥25,000 per person in autumn [cherry blossom](/japan/cherry-blossom-guide) season costs ¥15,000 in January. Business hotels in Tokyo drop 30-40%. Domestic flights are less competitive for winter dates, but Shinkansen remains unchanged.
 
 The overall winter travel budget for Japan runs 20-30% lower than spring or autumn equivalent travel. For visitors with flexibility on timing, this alone justifies winter travel.
 

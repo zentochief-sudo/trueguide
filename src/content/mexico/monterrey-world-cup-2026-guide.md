@@ -10,9 +10,9 @@ tags: [Monterrey, World Cup 2026, Mexico, Estadio BBVA, Nuevo León]
 city: monterrey
 ---
 
-Monterrey is Mexico's third-largest city and its industrial capital — a city of 5 million people in a mountain basin surrounded by the Sierra Madre Oriental. For the World Cup, it's the most affordable host city in Mexico and one of the most affordable in the entire tournament, with lower accommodation costs than CDMX or Guadalajara and an extraordinary food culture built around cabrito, carne asada, and machaca.
+Monterrey is [Mexico](/mexico)'s third-largest city and its industrial capital — a city of 5 million people in a mountain basin surrounded by the Sierra Madre Oriental. For the World Cup, it's the most affordable host city in Mexico and one of the most affordable in the entire tournament, with lower accommodation costs than CDMX or Guadalajara and an extraordinary food culture built around cabrito, carne asada, and machaca.
 
-The city has hosted major international events before — the 1986 World Cup, Copa América 2001, and the Club World Cup. The infrastructure is prepared: Estadio BBVA (capacity 53,500) is one of the best stadiums in Latin America, and the Metro connects the center with the stadium zone.
+The city has hosted major international events before — the 1986 World Cup, Copa América 2001, and the Club World Cup. The infrastructure is prepared: [Estadio BBVA](/mexico/estadio-bbva-guide) (capacity 53,500) is one of the best stadiums in Latin America, and the Metro connects the center with the stadium zone.
 
 ---
 

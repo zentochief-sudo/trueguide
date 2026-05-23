@@ -10,17 +10,17 @@ tags: [Italy, November, olive harvest, low season, Rome, Venice, Piedmont, truff
 city: national
 ---
 
-November is Italy's quiet. The harvest is finishing, the skies are greyer, and the country turns toward winter. Tourist numbers reach their annual minimum. Prices follow. The major sites — the Colosseum, the Uffizi, the Vatican — operate with ghost-town crowd levels by November standards. For travelers who want Italy on their own terms, November is the answer, with the understanding that some rural tourism infrastructure closes and the weather requires preparation.
+November is [Italy](/italy)'s quiet. The harvest is finishing, the skies are greyer, and the country turns toward winter. Tourist numbers reach their annual minimum. Prices follow. The major sites — the Colosseum, the Uffizi, the Vatican — operate with ghost-town crowd levels by November standards. For travelers who want Italy on their own terms, November is the answer, with the understanding that some rural tourism infrastructure closes and the weather requires preparation.
 
 ## Weather in November
 
-**Rome:** 9°C to 18°C. Mild, frequently rainy. Not cold — a medium coat is sufficient. The city remains entirely functional and outdoor culture continues on clear days.
+**[Rome](/italy/rome-guide):** 9°C to 18°C. Mild, frequently rainy. Not cold — a medium coat is sufficient. The city remains entirely functional and outdoor culture continues on clear days.
 
 **Florence:** 7°C to 15°C. Cooler, grey and damp possible. The Uffizi and Accademia are ideal — the art museums are what Florence is for, and they're essentially empty.
 
 **Venice:** 7°C to 14°C. Acqua alta season at increasing frequency. Cold, sometimes foggy. The city in November mist is at its most romantic and mysterious. Carry rubber boots.
 
-**Milan:** 6°C to 13°C. Grey and cold. The city's interior culture — the Duomo, the Pinacoteca di Brera, the excellent restaurant scene — doesn't require sunshine.
+**[Milan](/italy/milan-travel-guide):** 6°C to 13°C. Grey and cold. The city's interior culture — the Duomo, the Pinacoteca di Brera, the excellent restaurant scene — doesn't require sunshine.
 
 **Naples:** 11°C to 18°C. Milder than the north. Pompeii and the Campanian archaeological sites in November are nearly empty — better than at any other time of year.
 
@@ -77,7 +77,7 @@ November is near-minimum pricing for Italy. Hotel availability is excellent; neg
 
 ## What Closes in November
 
-- Some coastal resort restaurants and accommodation (Cinque Terre, Amalfi, Positano) close for November–March
+- Some coastal resort restaurants and accommodation ([Cinque Terre](/italy/cinque-terre-guide), Amalfi, Positano) close for November–March
 - Most outdoor markets reduce to weekend-only operations
 - Some lake district (Como, Garda) villa gardens close
 - Smaller museum sites may have reduced winter hours — verify before visiting

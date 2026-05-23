@@ -10,7 +10,7 @@ tags: [Canada, August, summer, hiking, salmon, fringe festival, Pacific, Atlanti
 city: national
 ---
 
-August delivers Canada's warmest temperatures across the widest range of regions. The Rocky Mountain wildflowers are peaking. Atlantic Canada beaches reach their warmest. The Pacific and northern rivers begin to fill with returning salmon. Civic Holiday weekend triggers a mass exodus from Toronto and other cities toward the lakes. If you're coming in August, you're joining most of the country in heading outdoors — plan accordingly.
+August delivers [Canada](/canada)'s warmest temperatures across the widest range of regions. The Rocky Mountain wildflowers are peaking. Atlantic Canada beaches reach their warmest. The Pacific and northern rivers begin to fill with returning salmon. Civic Holiday weekend triggers a mass exodus from Toronto and other cities toward the lakes. If you're coming in August, you're joining most of the country in heading outdoors — plan accordingly.
 
 ## Weather & Conditions
 

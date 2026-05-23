@@ -22,7 +22,7 @@ The phrase *Pura Vida* ("pure life") is both a greeting and a genuine cultural s
 
 **Adventure travelers**: Zip-lining (Costa Rica invented modern commercial zip-lining in 1993), white-water rafting, surf, canyoning, ATV, horseback riding — a full menu of guided adventure activities available at every destination.
 
-**Beach travelers**: The Pacific coast (particularly Guanacaste in the dry season, Manuel Antonio year-round) offers excellent beach quality. The Caribbean coast (Cahuita, Puerto Viejo) is rawer, cheaper, and culturally distinct.
+**Beach travelers**: The Pacific coast (particularly Guanacaste in the dry season, [Manuel Antonio](/costa-rica/manuel-antonio-guide) year-round) offers excellent beach quality. The Caribbean coast (Cahuita, Puerto Viejo) is rawer, cheaper, and culturally distinct.
 
 **Eco-conscious travelers**: Costa Rica has built more of its economy on sustainable tourism than any other country in its income bracket. The certification programs, the protected areas, and the carbon-neutral commitments are substantive.
 
@@ -31,7 +31,7 @@ The phrase *Pura Vida* ("pure life") is both a greeting and a genuine cultural s
 ## The Main Destinations
 
 ### Arenal Volcano and La Fortuna
-The most visited interior destination — an active stratovolcano (dormant since 2010 but seismically active) with a perfectly conical shape visible from the town of La Fortuna and the surrounding Lake Arenal. Hot springs fed by geothermal energy are the primary leisure activity: Tabacón, Baldi, and several free springs along the river.
+The most visited interior destination — an active stratovolcano (dormant since 2010 but seismically active) with a perfectly conical shape visible from the town of La Fortuna and the surrounding Lake [Arenal](/costa-rica/arenal-guide). Hot springs fed by geothermal energy are the primary leisure activity: Tabacón, Baldi, and several free springs along the river.
 
 **Activities**: Hiking the Arenal National Park lava flows (guided, 2–4 hours), hot springs, white-water rafting on the Río Sarapiquí (2–3 hours), Lake Arenal kayaking, horseback riding to Río Celeste (turquoise-colored river, one of the most unusual colors in nature — produced by silica particles at a specific volcanic mineral composition).
 
@@ -40,7 +40,7 @@ The most visited interior destination — an active stratovolcano (dormant since
 ### Monteverde and Santa Elena
 The cloud forest reserve in the mountains above the Nicoya Peninsula — at 1,400–1,800m elevation, the forest is perpetually in cloud, producing a specific ecosystem of orchids, bromeliads, quetzals, and the biodiversity associated with the convergence of dry Pacific and wet Caribbean air masses.
 
-**The Monteverde Cloud Forest Biological Reserve**: Walking trails through old-growth cloud forest. The *quetzal* — a bird considered sacred by the Maya, with a 1-meter tail in males — is present from February to April in breeding plumage. Guides dramatically increase the chances of quetzal and wildlife sightings.
+**The [Monteverde](/costa-rica/monteverde-guide) Cloud Forest Biological Reserve**: Walking trails through old-growth cloud forest. The *quetzal* — a bird considered sacred by the Maya, with a 1-meter tail in males — is present from February to April in breeding plumage. Guides dramatically increase the chances of quetzal and wildlife sightings.
 
 **Zip-lining**: The Original Canopy Tour (1997) was the first commercial zip-line experience in the world and is still operational. Several competitors now offer longer and more extreme options; the Extremo Park "Tarzan Swing" and free-fall are popular additions.
 

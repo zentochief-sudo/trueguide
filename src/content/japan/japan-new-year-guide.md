@@ -22,7 +22,7 @@ For visitors, the New Year period offers one of Japan's most authentic cultural 
 
 The last day of the year. Japanese families spend it cleaning the house (the tradition of *ōsōji*, or "great cleaning," removes the old year's dirt), preparing *osechi* (New Year food), and gathering.
 
-**Joya no Kane (除夜の鐘)**: At Buddhist temples across Japan, the temple bell is rung 108 times beginning just before midnight. The 108 rings correspond to the 108 worldly desires in Buddhist teaching — each ring purifies one of them. The most famous ringing is at Chion-in in Kyoto (the largest temple bell in Japan, requiring 17 monks to ring) and at Tōdai-ji in Nara.
+**Joya no Kane (除夜の鐘)**: At Buddhist temples across Japan, the temple bell is rung 108 times beginning just before midnight. The 108 rings correspond to the 108 worldly desires in Buddhist teaching — each ring purifies one of them. The most famous ringing is at Chion-in in [Kyoto](/japan/kyoto-guide) (the largest temple bell in Japan, requiring 17 monks to ring) and at Tōdai-ji in [Nara](/japan/nara-guide).
 
 **Toshikoshi Soba (年越しそば)**: "Year-crossing noodles" — a bowl of soba eaten on New Year's Eve, a tradition meaning to cross from one year to the next. The long noodles represent longevity; eating them symbolizes the hope for a long life in the new year. Served in a simple broth, typically with *kamaboko* (fish cake) and scallion.
 
@@ -30,9 +30,9 @@ The last day of the year. Japanese families spend it cleaning the house (the tra
 
 ### January 1 — Gantan (元旦)
 
-The first dawn of the new year. The *hatsuhinode* (first sunrise) is watched from high points, coastal cliffs, and the summits of mountains by those who made the effort. Mount Fuji's first sunrise is the most celebrated.
+The first dawn of the new year. The *hatsuhinode* (first sunrise) is watched from high points, coastal cliffs, and the summits of mountains by those who made the effort. [Mount Fuji](/japan/mount-fuji-guide)'s first sunrise is the most celebrated.
 
-**Ozōni (お雑煮)**: New Year's morning soup — a warm broth with *mochi* (pounded rice cakes) in different preparations depending on region. The Tokyo style uses a clear chicken-dashi broth with flat mochi; the Kyoto style uses white miso broth with round mochi; the regional variations are as numerous as the country's local traditions.
+**Ozōni (お雑煮)**: New Year's morning soup — a warm broth with *mochi* (pounded rice cakes) in different preparations depending on region. The [Tokyo](/japan/tokyo-guide) style uses a clear chicken-dashi broth with flat mochi; the Kyoto style uses white miso broth with round mochi; the regional variations are as numerous as the country's local traditions.
 
 **Osechi Ryōri (おせち料理)**: The New Year food — lacquered box sets of preserved foods, each with symbolic meaning, prepared in advance to last through the holiday without cooking. The boxes contain *kazunoko* (herring roe — symbolizing fertility), *kuromame* (sweet black beans — industry and good health), *datemaki* (sweet rolled omelette), *kobumaki* (kombu seaweed rolls — joy), *gomame* (sweet dried sardines — agricultural abundance), and dozens of other items varying by family and region.
 
@@ -47,7 +47,7 @@ The tradition of visiting a shrine or temple in the first three days of the new 
 - **Naritasan Shinshōji (成田山新勝寺), Chiba**: The most popular Buddhist temple for Hatsumōde, with 3+ million visitors. Accessible from Narita Airport — an obvious combination for arriving New Year visitors.
 - **Naritasan Kawasaki Daishi (川崎大師), Kanagawa**: Another major pilgrimage site.
 - **Fushimi Inari (伏見稲荷), Kyoto**: Open 24 hours — the famous torii-gate mountain gets its own Hatsumōde crowds; the pre-dawn first-of-year walk through the tunnels has a specific spiritual atmosphere.
-- **Atsuta Jingū (熱田神宮), Nagoya**: One of Japan's most important shrines; 2+ million Hatsumōde visitors.
+- **Atsuta Jingū (熱田神宮), [Nagoya](/japan/nagoya-guide)**: One of Japan's most important shrines; 2+ million Hatsumōde visitors.
 
 **What happens at Hatsumōde**:
 1. Purify hands at the *temizuya* water basin
@@ -79,7 +79,7 @@ Japan's transport network operates through New Year, but:
 
 ### Accommodation
 
-Hotels are heavily booked in the major cities; ryokan particularly expensive and full through December 30 – January 3. Book 3–4 months in advance if visiting during this period.
+Hotels are heavily booked in the major cities; [ryokan](/japan/ryokan-guide) particularly expensive and full through December 30 – January 3. Book 3–4 months in advance if visiting during this period.
 
 ### Weather
 

@@ -10,7 +10,7 @@ tags: [Cairo, budget, costs, Egypt, travel costs, money]
 city: cairo
 ---
 
-Cairo is one of the most affordable major destinations in the world for international visitors — particularly those arriving with euros, dollars, or pounds sterling. The Egyptian pound's exchange rate makes accommodation, food, and transport dramatically cheaper than their quality would suggest. A mid-range traveler can eat well, stay comfortably, and see everything for $60–90 USD per day, excluding attraction entry fees.
+[Cairo](/egypt/cairo-travel-guide) is one of the most affordable major destinations in the world for international visitors — particularly those arriving with euros, dollars, or pounds sterling. The Egyptian pound's exchange rate makes accommodation, food, and transport dramatically cheaper than their quality would suggest. A mid-range traveler can eat well, stay comfortably, and see everything for $60–90 USD per day, excluding attraction entry fees.
 
 All prices below in Egyptian Pounds (EGP) and USD equivalent at ~50 EGP = $1 USD. Verify the current rate before travel.
 
@@ -59,7 +59,7 @@ All prices below in Egyptian Pounds (EGP) and USD equivalent at ~50 EGP = $1 USD
 
 **Uber/Careem**:
 - Short trip (Zamalek to Downtown): 40–70 EGP ($0.80–1.40)
-- Medium trip (Downtown to Islamic Cairo): 60–100 EGP ($1.20–2)
+- Medium trip (Downtown to [Islamic Cairo](/[egypt](/egypt)/islamic-cairo-guide)): 60–100 EGP ($1.20–2)
 - Long trip (Downtown to Pyramids): 100–180 EGP ($2–3.60)
 
 **Airport (CAI) to city**: 150–250 EGP by Uber ($3–5)
@@ -72,11 +72,11 @@ All prices below in Egyptian Pounds (EGP) and USD equivalent at ~50 EGP = $1 USD
 |---|---|
 | Giza Plateau (Pyramids + Sphinx) | ~700 EGP (~$14) |
 | Great Pyramid interior | +1,500 EGP (+$30) |
-| Grand Egyptian Museum | 1,450 EGP (~$29) |
-| Egyptian Museum (Tahrir) | ~550–600 EGP (~$11) |
+| [Grand Egyptian Museum](/egypt/grand-egyptian-museum-guide) | 1,450 EGP (~$29) |
+| [Egyptian Museum](/egypt/egyptian-museum-guide) (Tahrir) | ~550–600 EGP (~$11) |
 | Cairo Citadel | ~550 EGP (~$11) |
 | Sultan Hassan Mosque | 80 EGP (~$1.60) |
-| Hanging Church / Coptic Cairo | Free |
+| Hanging Church / [Coptic Cairo](/egypt/coptic-cairo-guide) | Free |
 | Ben Ezra Synagogue | Free |
 | Bibliotheca Alexandrina (Alex.) | 70 EGP (~$1.40) |
 | Wadi El Hitan (Valley of Whales) | Included in guided tour |

@@ -20,7 +20,7 @@ Toronto has a legitimate claim to being the most diverse restaurant city in the 
 
 **Smoke's Poutinerie** (multiple locations): The Toronto poutine chain that has expanded nationally. The classic poutine is $10–13 CAD; available until 4am on weekends.
 
-**Poutini's House of Poutine** (1111 Queen St W, Little Portugal): Widely considered the best poutine in Toronto — classic version with real fresh cheese curds from Quebec. $11–14 CAD.
+**Poutini's House of Poutine** (1111 Queen St W, Little [Portugal](/portugal)): Widely considered the best poutine in Toronto — classic version with real fresh cheese curds from Quebec. $11–14 CAD.
 
 ---
 
@@ -30,7 +30,7 @@ Toronto has a legitimate claim to being the most diverse restaurant city in the 
 
 **Chinatown dim sum**: The Chinatown and Scarborough areas have the largest Hakka Chinese and Cantonese populations outside China and Hong Kong. Weekend dim sum at **Ambassador Chinese Cuisine** (350 Hwy 7 E) or **Casa Imperial** in Scarborough is the authentic format — push-cart service, crowded, loud, and genuine.
 
-**Gerrard India Bazaar** (Gerrard Street E, between Coxwell and Woodfield): The largest South Asian commercial district outside of South Asia in Toronto — Indian, Pakistani, and Sri Lankan restaurants, sweet shops, and sari stores. The dosa at **Udupi Palace** (1460 Gerrard St E) is the specific dish to order.
+**Gerrard [India](/india) Bazaar** (Gerrard Street E, between Coxwell and Woodfield): The largest South Asian commercial district outside of South Asia in Toronto — Indian, Pakistani, and Sri Lankan restaurants, sweet shops, and sari stores. The dosa at **Udupi Palace** (1460 Gerrard St E) is the specific dish to order.
 
 **West Indian Roti**: Toronto has a large Caribbean community (Trinidad, Jamaica, Guyana), and the roti shops on Eglinton Avenue West and in the Lawrence Heights/Little Jamaica area serve the best Caribbean food outside the Caribbean. **Roti Hut** (720 Bathurst) does doubles (a Trinidadian chickpea sandwich on bara bread) that are the cheapest delicious food in the city ($2–3 CAD each).
 

@@ -14,7 +14,7 @@ September is when Korea exhales. The summer's humidity breaks, the first mountai
 
 ## Weather in September
 
-**Early September:** Still warm and occasionally humid. Seoul averages 25–29°C with some lingering monsoon-tail rain in the first two weeks.
+**Early September:** Still warm and occasionally humid. [Seoul](/south-korea/seoul-guide) averages 25–29°C with some lingering monsoon-tail rain in the first two weeks.
 
 **Mid-to-late September:** The shift. Temperatures drop to a comfortable 20–25°C, humidity falls, and clear blue days dominate. This is when September becomes excellent.
 
@@ -62,7 +62,7 @@ The Gapyeong area (north of Seoul on the way to the DMZ) has several destination
 
 **Garden of Morning Calm (Achim-go-yo):** A private garden with seasonal gardens in full late-summer flower in September, transitioning to autumn color by month end.
 
-**Petite France and the Italian Village:** Two theme parks on a hillside over Cheongpyeong Lake. Tourist-y but photogenic in September light.
+**Petite [France](/france) and the Italian Village:** Two theme parks on a hillside over Cheongpyeong Lake. Tourist-y but photogenic in September light.
 
 ## Budget in September
 

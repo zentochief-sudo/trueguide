@@ -37,7 +37,7 @@ The book itself is an accordion-fold construction (*orihon* format) — not boun
 
 **Sizes**: Standard size (approximately A6) is most common. Larger *dai-size* books allow more ambitious calligraphers more room to work. Smaller travel-size books exist but limit the calligrapher.
 
-**Covers**: Goshuincho covers range from plain fabric in traditional colors to illustrated designs specific to particular temples or regions. Ise Jingu sells goshuincho with specific shrine iconography; Kinkaku-ji (Golden Pavilion) has its own design. Many people buy a book at the first significant shrine they visit and use that location's design throughout.
+**Covers**: Goshuincho covers range from plain fabric in traditional colors to illustrated designs specific to particular temples or regions. [Ise Jingu](/japan/ise-jingu-guide) sells goshuincho with specific shrine iconography; Kinkaku-ji (Golden Pavilion) has its own design. Many people buy a book at the first significant shrine they visit and use that location's design throughout.
 
 **Price**: ¥1,000–3,000 for the blank book; ¥300–500 per goshuin stamp.
 
@@ -58,7 +58,7 @@ The book itself is an accordion-fold construction (*orihon* format) — not boun
 
 ## Special and Seasonal Goshuin
 
-Many shrines and temples offer limited-edition goshuin — seasonal designs issued only during cherry blossom season, autumn foliage, specific festivals, or major events. These often involve additional artistic elements: printed background designs, seasonal imagery, or colored ink alongside the standard black calligraphy.
+Many shrines and temples offer limited-edition goshuin — seasonal designs issued only during [cherry blossom](/japan/cherry-blossom-guide) season, autumn foliage, specific festivals, or major events. These often involve additional artistic elements: printed background designs, seasonal imagery, or colored ink alongside the standard black calligraphy.
 
 **Goshuin-cho paper slips (*kakidashi-type*)**: Some temples now offer pre-written goshuin on separate paper slips, intended to be glued into the goshuincho later. This system emerged when specific famous temples became overwhelmed with stamp-seekers during peak tourist seasons, creating hour-long queues. Some purists prefer not to glue slips; for practical purposes the pre-written slips allow access to popular temples' goshuin without waiting.
 
@@ -68,13 +68,13 @@ Many shrines and temples offer limited-edition goshuin — seasonal designs issu
 
 *Kumano Hongu Taisha (Wakayama)* — One of the most sought-after goshuin in Japan, the combination of the Oyunohara giant torii stamp and the Hongu seal is considered among the best compositions.
 
-*Kinkaku-ji (Kyoto)* — Heavy tourist volume means the goshuin is sometimes pre-stamped and handed out rather than written live, but the design is excellent.
+*Kinkaku-ji ([Kyoto](/japan/kyoto-guide))* — Heavy tourist volume means the goshuin is sometimes pre-stamped and handed out rather than written live, but the design is excellent.
 
-*Senso-ji (Tokyo)* — Available at the Senso-ji stamp office; the combination of the main hall seal and date calligraphy is clear and well-executed.
+*Senso-ji ([Tokyo](/japan/tokyo-guide))* — Available at the Senso-ji stamp office; the combination of the main hall seal and date calligraphy is clear and well-executed.
 
 *Fushimi Inari Taisha (Kyoto)* — The vermilion Inari seal is immediately recognizable; the calligraphy here tends toward the bold.
 
-*Kotoku-in / Great Buddha (Kamakura)* — The Amida Buddha stamp is one of the more graphically striking.
+*Kotoku-in / Great Buddha ([Kamakura](/japan/kamakura-guide))* — The Amida Buddha stamp is one of the more graphically striking.
 
 ---
 
@@ -92,7 +92,7 @@ Both Shinto shrines (*jinja*) and Buddhist temples (*tera*/*ji*) issue goshuin. 
 
 The collecting practice has roots in the Edo period, when pilgrims completing the 88-temple *Shikoku Henro* circuit or the *Saikoku Kannon* pilgrimage collected stamps as physical proof of completion. The modern goshuincho broadens this — any significant shrine or temple visit can be recorded, and there is no required sequence.
 
-The result, over the course of a Japan trip or multiple trips, is an irreproducible record. The goshuincho of someone who has visited Ise, Koyasan, the Kumano Kodo shrines, Nikko, Izumo Taisha, and a dozen other sites contains a specific visual and calligraphic history that no photograph album replicates — not because photographs are inadequate, but because the goshuin is handmade, dated, and produced in the presence of the place.
+The result, over the course of a Japan trip or multiple trips, is an irreproducible record. The goshuincho of someone who has visited Ise, [Koyasan](/japan/koyasan-guide), the [Kumano Kodo](/japan/kumano-kodo-guide) shrines, [Nikko](/japan/nikko-guide), Izumo Taisha, and a dozen other sites contains a specific visual and calligraphic history that no photograph album replicates — not because photographs are inadequate, but because the goshuin is handmade, dated, and produced in the presence of the place.
 
 ---
 

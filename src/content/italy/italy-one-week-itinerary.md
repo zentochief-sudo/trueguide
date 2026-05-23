@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Italy is one of the world's great travel destinations, and the classic north-south route — Rome, Florence, Venice — remains one of the most rewarding travel experiences on earth. Seven days gives you three cities and a lifetime of memories.
+[Italy](/italy) is one of the world's great travel destinations, and the classic north-south route — [Rome](/italy/rome-guide), Florence, Venice — remains one of the most rewarding travel experiences on earth. Seven days gives you three cities and a lifetime of memories.
 
 ## Days 1–2 – Rome
 

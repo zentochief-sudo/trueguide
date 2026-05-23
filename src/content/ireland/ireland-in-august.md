@@ -10,15 +10,15 @@ tags: [Ireland, August, summer, Fleadh Cheoil, Puck Fair, festivals, peak season
 city: national
 ---
 
-August is when Ireland sells out. Every B&B on the Wild Atlantic Way, every guesthouse in Dingle and Clifden, every festival accommodation within 50km — all of it is taken. Ireland's domestic holiday season and international tourism peak simultaneously. The upside: everything is running, the days are still long, and the traditional music culture reaches a fever pitch at the Fleadh Cheoil. The downside: you've booked it all six months ago, or you're improvising.
+August is when [Ireland](/ireland) sells out. Every B&B on the [Wild Atlantic Way](/ireland/wild-atlantic-way-guide), every guesthouse in Dingle and Clifden, every festival accommodation within 50km — all of it is taken. Ireland's domestic holiday season and international tourism peak simultaneously. The upside: everything is running, the days are still long, and the traditional music culture reaches a fever pitch at the Fleadh Cheoil. The downside: you've booked it all six months ago, or you're improvising.
 
 ## Weather & Conditions
 
-**Dublin:** 13–20°C. Similar to July. August can produce warm, sunny stretches but also grey and wet weeks. Ireland's weather doesn't follow a predictable script.
+**[Dublin](/ireland/dublin-travel-guide):** 13–20°C. Similar to July. August can produce warm, sunny stretches but also grey and wet weeks. Ireland's weather doesn't follow a predictable script.
 
 **West Coast:** 12–18°C. The Atlantic coast delivers its full summer character. Connemara in August sun is extraordinary; in rain it's still beautiful but wetter.
 
-**Kerry:** 14–20°C. The Ring of Kerry is at maximum visitor volume. Killarney National Park is packed on weekends.
+**Kerry:** 14–20°C. The [Ring of Kerry](/ireland/ring-of-kerry-guide) is at maximum visitor volume. [Killarney](/ireland/killarney-travel-guide) National Park is packed on weekends.
 
 **Donegal:** 12–17°C. Ireland's most remote county has its highest visitor numbers of the year in August. Still far less crowded than Kerry by scale.
 
@@ -42,7 +42,7 @@ Summer pack: waterproof layer plus warm layer. August sunburn is possible but so
 
 **Puck Fair (August 10–12, Killorglin, Kerry):** Three days of ancient fair.
 
-**Baboró International Arts Festival for Children (Galway, October — but summer bookings open in August):** Worth planning ahead.
+**Baboró International Arts Festival for Children ([Galway](/ireland/galway-guide), October — but summer bookings open in August):** Worth planning ahead.
 
 **Oul' Lammas Fair (Ballycastle, late August):** Northern Ireland's oldest fair, held in Ballycastle on the last Monday and Tuesday of August since 1606. The traditional foods — dulse (dried seaweed) and yellowman (a honeycomb toffee) — are specific to this event.
 

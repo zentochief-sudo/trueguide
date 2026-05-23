@@ -10,7 +10,7 @@ tags: [France, February, Nice Carnival, Paris, Alps, ski, Riviera, winter, trave
 city: national
 ---
 
-February is France's Carnival month and ski peak. The Nice Carnival — one of the largest in the world — runs for two weeks on the Côte d'Azur with elaborate flower parades and Battle of Flowers. The Alps are in their prime snow conditions. Paris is still in its quiet winter mode, with the Louvre and Orsay accessible without summer difficulty. February represents the last of the low season before spring tourists arrive in March.
+February is [France](/france)'s Carnival month and ski peak. The Nice Carnival — one of the largest in the world — runs for two weeks on the Côte d'Azur with elaborate flower parades and Battle of Flowers. The Alps are in their prime snow conditions. [Paris](/france/paris-travel-guide) is still in its quiet winter mode, with the Louvre and Orsay accessible without summer difficulty. February represents the last of the low season before spring tourists arrive in March.
 
 ## Weather in February
 
@@ -20,9 +20,9 @@ February is France's Carnival month and ski peak. The Nice Carnival — one of t
 
 **French Alps:** Peak ski season — February school holidays (vacances de février) are the busiest ski period of the year. Snowpack typically at maximum. Book resorts months ahead.
 
-**Bordeaux:** 5°C to 13°C. Still winter, but the wine chateaux of the Médoc and Saint-Émilion are accessible for visits.
+**[Bordeaux](/france/bordeaux-guide):** 5°C to 13°C. Still winter, but the wine chateaux of the Médoc and Saint-Émilion are accessible for visits.
 
-**Alsace:** 0°C to 8°C. The Christmas market atmosphere is gone, but the half-timbered villages (Colmar, Riquewihr, Kaysersberg) are extraordinarily beautiful in winter — without the December crowds.
+**[Alsace](/france/alsace-guide):** 0°C to 8°C. The Christmas market atmosphere is gone, but the half-timbered villages (Colmar, Riquewihr, Kaysersberg) are extraordinarily beautiful in winter — without the December crowds.
 
 ## Nice Carnival (Carnaval de Nice)
 

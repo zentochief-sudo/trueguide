@@ -10,7 +10,7 @@ tags: [Malaysia, March, Perhentian Islands, Tioman, east coast opens, diving, Re
 city: national
 ---
 
-March is the month Malaysia's east coast reopens. The northeast monsoon that closed the Perhentian Islands, Tioman, and the Terengganu coast from November through February ends in March — typically mid-month. The first boats resume operations. The coral reefs that sat undisturbed for four months are at their most pristine. And the first travelers of the season arrive to find clear water and beach resorts without the summer crowds. March east coast Malaysia is excellent.
+March is the month [Malaysia](/malaysia)'s east coast reopens. The northeast monsoon that closed the Perhentian Islands, Tioman, and the Terengganu coast from November through February ends in March — typically mid-month. The first boats resume operations. The coral reefs that sat undisturbed for four months are at their most pristine. And the first travelers of the season arrive to find clear water and beach resorts without the summer crowds. March east coast Malaysia is excellent.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ March is the month Malaysia's east coast reopens. The northeast monsoon that clo
 
 **Tioman Island:** Similar to Perhentians. Reopens mid-March. The first ferries from Mersing resume.
 
-**Langkawi:** The transition month — the west coast dry season is ending but conditions remain good.
+**[Langkawi](/malaysia/langkawi-guide):** The transition month — the west coast dry season is ending but conditions remain good.
 
-**Kuala Lumpur:** 25–32°C year-round. No seasonal change.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** 25–32°C year-round. No seasonal change.
 
-**Sabah (Borneo):** 24–32°C. March is a good Borneo month.
+**Sabah ([Borneo](/malaysia/borneo-guide)):** 24–32°C. March is a good Borneo month.
 
 ## What to Do
 

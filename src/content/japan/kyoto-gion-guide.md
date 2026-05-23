@@ -10,13 +10,13 @@ tags: [Gion, Kyoto, geisha, maiko, hanamachi, Hanamikoji, Shirakawa, Gion Matsur
 city: kyoto
 ---
 
-Gion is not a museum district. The ochaya teahouses are active businesses; the okiya geisha houses are working residences; the Minamiza kabuki theater still hosts performances. The preservation here is the result of active use, which is what makes it different from restored historical sites. Walk Hanamikoji Street in the early evening and you may see a maiko — a geisha apprentice — in full kimono and geta sandals moving quickly between engagements. The city has had to install signs in multiple languages asking tourists not to grab or photograph her without consent, which tells you how frequently this happens and how real the encounters are.
+Gion is not a museum district. The ochaya teahouses are active businesses; the okiya [geisha](/japan/geisha-guide) houses are working residences; the Minamiza kabuki theater still hosts performances. The preservation here is the result of active use, which is what makes it different from restored historical sites. Walk Hanamikoji Street in the early evening and you may see a maiko — a geisha apprentice — in full kimono and geta sandals moving quickly between engagements. The city has had to install signs in multiple languages asking tourists not to grab or photograph her without consent, which tells you how frequently this happens and how real the encounters are.
 
 ---
 
 ## Understanding the Hanamachi
 
-Kyoto has five *hanamachi* (flower towns) — the traditional entertainment districts where the geisha world operates: Gion Kobu (the largest and most famous), Gion Higashi, Pontocho, Miyagawacho, and Kamishichiken.
+[Kyoto](/japan/kyoto-guide) has five *hanamachi* (flower towns) — the traditional entertainment districts where the geisha world operates: Gion Kobu (the largest and most famous), Gion Higashi, Pontocho, Miyagawacho, and Kamishichiken.
 
 **Geiko and Maiko**: In Kyoto dialect, a fully trained geisha is a *geiko* rather than geisha. An apprentice is a *maiko*, in training for typically 3–5 years before debuting as a geiko. The distinction is visible in dress: the maiko wears the dangling *hanhaba* obi with long trailing *obi-age* sash, the elaborate *ohashori* hair set with long decorative pins (*kanzashi*), and the distinctive white face makeup with red lips. The geiko wears a simpler hairstyle (often a wig) and more restrained coloring.
 
@@ -50,7 +50,7 @@ East of Hanamikoji, the Shirakawa canal runs through a narrow tree-lined corrido
 
 At the south end of Hanamikoji: Kyoto's oldest Zen temple, founded in 1202. The temple grounds contain the original dry garden (*karesansui*), a painted ceiling of two dragons in the main hall (Souzan Koike's modern interpretation), and the Koku-an and Cho-on-tei sub-gardens.
 
-Kennin-ji is the antidote to the tourist density of the Hanamikoji approach — once you enter the temple grounds, the Gion crowds fall away. The dry landscape garden and the sound garden (with raked gravel and arranged stones) are excellent examples of Kamakura–Muromachi period Zen garden aesthetics. Admission ¥600.
+Kennin-ji is the antidote to the tourist density of the Hanamikoji approach — once you enter the temple grounds, the Gion crowds fall away. The dry landscape garden and the sound garden (with raked gravel and arranged stones) are excellent examples of [Kamakura](/japan/kamakura-guide)–Muromachi period Zen garden aesthetics. Admission ¥600.
 
 ---
 
@@ -58,7 +58,7 @@ Kennin-ji is the antidote to the tourist density of the Hanamikoji approach — 
 
 At the east end of Shijo-dori where Gion meets the mountains: the landmark Shinto shrine with its distinctive vermilion *romon* gate, the main hall facing the city. The shrine is the origin point of the Gion Matsuri festival (July). The grounds are freely accessible at all hours; the stone lanterns around the main compound are lit in the evening.
 
-**Maruyama Park** behind Yasaka Jinja: Kyoto's central public park, most famous for the enormous *shidarezakura* (weeping cherry tree) at its center — illuminated at night during cherry blossom season. In non-cherry-blossom periods the park is a pleasant walk-through to Chion-in and Shoren-in temples on the hillside.
+**Maruyama Park** behind Yasaka Jinja: Kyoto's central public park, most famous for the enormous *shidarezakura* (weeping cherry tree) at its center — illuminated at night during [cherry blossom](/japan/cherry-blossom-guide) season. In non-cherry-blossom periods the park is a pleasant walk-through to Chion-in and Shoren-in temples on the hillside.
 
 ---
 

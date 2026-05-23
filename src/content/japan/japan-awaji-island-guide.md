@@ -16,11 +16,11 @@ Awaji Island (*淡路島*) is the largest island in the Seto Inland Sea, a 592km
 
 ## Getting There
 
-**From Kobe/Osaka**: Highway bus from Sannomiya Bus Terminal (Kobe) or Osaka Umeda across the Akashi Kaikyo Bridge — 30–40 minutes to the northern tip of Awaji. Frequent services throughout the day.
+**From [Kobe](/japan/kobe-guide)/[Osaka](/japan/osaka-guide)**: Highway bus from Sannomiya Bus Terminal (Kobe) or [Osaka Umeda](/japan/osaka-umeda-guide) across the Akashi Kaikyo Bridge — 30–40 minutes to the northern tip of Awaji. Frequent services throughout the day.
 
 **By car**: The Kobe-Awaji-Naruto Expressway connects across the two bridges. A rental car from Kobe makes the island far more navigable; public transport on the island is limited.
 
-**Ferry from Akashi**: A short ferry service (13 minutes, ¥550) from Akashi city to Iwaya port on Awaji's northern tip — more atmospheric than the bridge bus and connects the island to the JR Kobe-Himeji train line.
+**Ferry from Akashi**: A short ferry service (13 minutes, ¥550) from Akashi city to Iwaya port on Awaji's northern tip — more atmospheric than the bridge bus and connects the island to the JR Kobe-[Himeji](/japan/himeji-guide) train line.
 
 ---
 
@@ -36,7 +36,7 @@ Awaji produces approximately 50,000 tons of onions annually — the most prized 
 
 ### Sea Urchin (Uni)
 
-The Seto Inland Sea produces the *Murasaki uni* (purple sea urchin) preferred in western Japan cuisine — a different species and flavor profile from the Hokkaido Bafun uni familiar in Tokyo sushi. The Awaji version is sweeter and less briny; June–August is peak season.
+The Seto Inland Sea produces the *Murasaki uni* (purple sea urchin) preferred in western Japan cuisine — a different species and flavor profile from the [Hokkaido](/japan/hokkaido-guide) Bafun uni familiar in [Tokyo](/japan/tokyo-guide) sushi. The Awaji version is sweeter and less briny; June–August is peak season.
 
 **Uni-don** (sea urchin on rice) at harbor restaurants in Fukura port and the southern coast: ¥2,500–4,000 for a good quality bowl during season.
 
@@ -95,6 +95,6 @@ Not a traditional temple retreat — Zenbo Sekkei is explicitly contemporary in 
 
 **Day trip from Osaka/Kobe**: The northern half of the island (bridge approach, onion restaurants, puppet theater) is comfortable as a day trip by bus.
 
-**Overnight**: A night at a beachfront resort or traditional inn on the west coast allows the southern attractions (Naruto whirlpools, Fukura harbor) to be combined with the north. The island's ryokan and hotel options are reasonable; book ahead for summer weekends.
+**Overnight**: A night at a beachfront resort or traditional inn on the west coast allows the southern attractions (Naruto whirlpools, Fukura harbor) to be combined with the north. The island's [ryokan](/japan/ryokan-guide) and hotel options are reasonable; book ahead for summer weekends.
 
 **Car rental**: One-day rental from Kobe or Sannomiya (major car rental companies have outlets near Sannomiya Station) allows free exploration of the whole island. The coastal drive around the perimeter takes about 3–4 hours.

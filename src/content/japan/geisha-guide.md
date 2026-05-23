@@ -22,7 +22,7 @@ Understanding what the profession actually is makes encountering it considerably
 
 The geisha world is organized around *hanamachi* (花街, "flower districts") — neighborhoods where the ochaya teahouses operate and where geisha live in their okiya (boarding houses). Each hanamachi has its own geisha union (kenban) that manages schedules, registers practitioners, and organizes public performances.
 
-Japan has roughly 20 active hanamachi with geisha, concentrated in Kyoto, Tokyo, Kanazawa, and Niigata. The Kyoto districts are the most established and most visited.
+Japan has roughly 20 active hanamachi with geisha, concentrated in [Kyoto](/japan/kyoto-guide), [Tokyo](/japan/tokyo-guide), [Kanazawa](/japan/kanazawa-guide), and Niigata. The Kyoto districts are the most established and most visited.
 
 ### Kyoto's Five Hanamachi
 
@@ -96,7 +96,7 @@ Each of Kyoto's hanamachi stages public performances annually. These are the mos
 
 **Gion Odori** (Gion Higashi) — November, Gion Kaikan Theater.
 
-Book tickets in advance; the Miyako Odori in particular sells out for prime dates. Hotel concierges in Kyoto can assist; ticket booking through the Gion Hatanaka ryokan or similar is another option.
+Book tickets in advance; the Miyako Odori in particular sells out for prime dates. Hotel concierges in Kyoto can assist; ticket booking through the Gion Hatanaka [ryokan](/japan/ryokan-guide) or similar is another option.
 
 ---
 

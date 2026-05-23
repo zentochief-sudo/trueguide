@@ -10,19 +10,19 @@ tags: [Portugal, July, summer, Algarve, Lisbon, surf, Nazaré, Comporta, travel 
 city: national
 ---
 
-July is Portugal's peak summer — the country fully committed to beach, heat, and outdoor life. The Algarve is at maximum capacity. Lisbon is a mix of tourists and locals fleeing to the coast. The Atlantic surf picks up on the western coast. And the Alentejo interior reaches temperatures that make early mornings and late evenings the only comfortable time for movement. July is Portugal at its most intense — maximum crowds, maximum prices, and for the beach-focused traveler, maximum conditions.
+July is [Portugal](/portugal)'s peak summer — the country fully committed to beach, heat, and outdoor life. The [Algarve](/portugal/algarve-guide) is at maximum capacity. [Lisbon](/portugal/lisbon-guide) is a mix of tourists and locals fleeing to the coast. The Atlantic surf picks up on the western coast. And the Alentejo interior reaches temperatures that make early mornings and late evenings the only comfortable time for movement. July is Portugal at its most intense — maximum crowds, maximum prices, and for the beach-focused traveler, maximum conditions.
 
 ## Weather in July
 
 **Lisbon:** 19°C to 30°C. Hot, dry, and consistently sunny. The famous Lisbon nortada (northerly Atlantic wind) keeps the city more bearable than inland — the wind arrives by afternoon.
 
-**Porto:** 17°C to 26°C. Warm but rarely oppressive — Porto's northern position and Atlantic exposure keeps July manageable.
+**[Porto](/portugal/porto-guide):** 17°C to 26°C. Warm but rarely oppressive — Porto's northern position and Atlantic exposure keeps July manageable.
 
 **Algarve:** 22°C to 32°C. Full Mediterranean summer. Sea temperature 23–24°C. Sunset after 9 PM.
 
 **Alentejo:** 20°C to 38°C. The Alentejo summer is serious heat — the cork oak plains in July midday can reach 40°C. Medieval towns (Évora, Monsaraz) cool rapidly at night.
 
-**Douro Valley:** 20°C to 36°C. Hot — summer in the gorge concentrates heat. Early morning and evening the time for vineyard activities.
+**[Douro Valley](/portugal/douro-valley-guide):** 20°C to 36°C. Hot — summer in the gorge concentrates heat. Early morning and evening the time for vineyard activities.
 
 ## Algarve in July
 
@@ -71,7 +71,7 @@ The summer swells are smaller than winter, but the surf coast north of Lisbon re
 
 **Nazaré:** The famous big wave break is dormant in summer (the massive winter swells require autumn/winter Atlantic storms). But the town and its beaches are excellent in July — the upper town (Sítio) and the cliffside views are worth visiting independent of surf.
 
-**Ericeira:** The world surfing reserve north of Sintra — seven classified surf breaks in a compact stretch of coast. July brings consistent summer swell and a lively surf town atmosphere.
+**Ericeira:** The world surfing reserve north of [Sintra](/portugal/sintra-guide) — seven classified surf breaks in a compact stretch of coast. July brings consistent summer swell and a lively surf town atmosphere.
 
 ## Budget in July
 

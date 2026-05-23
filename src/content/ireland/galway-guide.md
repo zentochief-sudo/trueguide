@@ -10,7 +10,7 @@ tags: [Galway, Ireland, Latin Quarter, Aran Islands, Connemara, Wild Atlantic Wa
 city: galway
 ---
 
-Galway is Ireland's third city and its most culturally alive — a university town at the edge of Connemara with a compact medieval core (the Latin Quarter), an extraordinary traditional music pub scene, and the Atlantic Ocean visible at the end of every westward street. Where Dublin is polished and slightly self-conscious about its literary reputation, Galway is genuinely spontaneous — the buskers on Shop Street are genuinely good, the sessions in Tigh Coilí and Monroe's start without announcement and continue past midnight, and the transition from the city to the wild bogland of Connemara takes 15 minutes by car.
+Galway is [Ireland](/ireland)'s third city and its most culturally alive — a university town at the edge of Connemara with a compact medieval core (the Latin Quarter), an extraordinary traditional music pub scene, and the Atlantic Ocean visible at the end of every westward street. Where [Dublin](/ireland/dublin-travel-guide) is polished and slightly self-conscious about its literary reputation, Galway is genuinely spontaneous — the buskers on Shop Street are genuinely good, the sessions in Tigh Coilí and Monroe's start without announcement and continue past midnight, and the transition from the city to the wild bogland of Connemara takes 15 minutes by car.
 
 The city was designated the European Capital of Culture in 2020 (the year the pandemic prevented it functioning as planned), which accelerated investment in cultural infrastructure. What remains is a city that punches well above its population of 80,000.
 
@@ -22,7 +22,7 @@ The medieval core of Galway — a network of narrow lanes between Shop Street an
 
 **Shop Street and Quay Street**: The main pedestrian streets — the highest concentration of activity at all hours. Outdoor seating, buskers, market stalls on weekends. The atmosphere on a summer evening when the city is full is exceptional.
 
-**The Spanish Arch**: A remnant of the 16th-century city wall where Spanish trading ships unloaded wine — the Galway-Spain wine trade (exchange of Connemara salted fish for Spanish wine) was the economic basis of medieval Galway. The arch now overlooks a riverside space used as a gathering point. The Galway City Museum is adjacent (free entry).
+**The Spanish Arch**: A remnant of the 16th-century city wall where Spanish trading ships unloaded wine — the Galway-[Spain](/spain) wine trade (exchange of Connemara salted fish for Spanish wine) was the economic basis of medieval Galway. The arch now overlooks a riverside space used as a gathering point. The Galway City Museum is adjacent (free entry).
 
 **Lynch's Castle**: On Shop Street — a 15th-century merchant townhouse, now a bank (AIB). The finest surviving example of medieval merchant architecture in Galway, with carved stone gargoyles on the exterior that survived subsequent centuries because the building remained in continuous use.
 

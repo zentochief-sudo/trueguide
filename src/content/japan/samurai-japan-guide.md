@@ -28,11 +28,11 @@ The common Western image of the samurai — stoic warrior, code of honor, ritual
 
 ## Kanazawa — The Best-Preserved Samurai City
 
-Kanazawa's samurai districts survived the Edo period intact because the Maeda clan — the wealthiest domain lords outside the Tokugawa shogunate — deliberately kept the city's military infrastructure undamaged, and survived the 20th century because the city was never firebombed.
+[Kanazawa](/japan/kanazawa-guide)'s samurai districts survived the Edo period intact because the Maeda clan — the wealthiest domain lords outside the Tokugawa shogunate — deliberately kept the city's military infrastructure undamaged, and survived the 20th century because the city was never firebombed.
 
 **Nagamachi Samurai District**: The preserved residential district of mid-ranking samurai, with earthen walls (*dobei*), stone-paved lanes, and machiya townhouses. The Nomura Samurai House (admission ¥550) preserves the interior layout of a samurai residence: the reception rooms with *tokonoma* (scroll alcove) and *shoin* (study), the garden facing the reception room, the weapons storage area, and the division between public and private space.
 
-**The Maeda clan's aesthetic legacy**: Under Maeda clan patronage, Kanazawa became Japan's center for several traditional arts — *Kaga Yuzen* kimono dyeing, *Kenroku-en* garden (considered one of Japan's top three gardens), Kenroku-en's original role as the domain lord's private garden, and *kintsugi* lacquerware. The arts that the samurai class supported and refined are more visible in Kanazawa than anywhere except Kyoto.
+**The Maeda clan's aesthetic legacy**: Under Maeda clan patronage, Kanazawa became Japan's center for several traditional arts — *Kaga Yuzen* kimono dyeing, *Kenroku-en* garden (considered one of Japan's top three gardens), Kenroku-en's original role as the domain lord's private garden, and *kintsugi* lacquerware. The arts that the samurai class supported and refined are more visible in Kanazawa than anywhere except [Kyoto](/japan/kyoto-guide).
 
 ---
 
@@ -46,7 +46,7 @@ The Matsue samurai district (*Shiomachi Kaido*) runs along the northern moat of 
 
 Aizu (in present-day Fukushima Prefecture) was the domain of the Matsudaira clan, hereditary allies of the Tokugawa shogunate. When the Meiji Restoration came in 1868, Aizu refused to submit and fought a prolonged and ultimately disastrous last battle against the new imperial government.
 
-**Tsurugajo Castle**: The castle of Aizu, rebuilt as a concrete reconstruction in 1965 but significant for what it represents. The *Byakkotai* — the "White Tiger Corps" of teenage samurai warriors (16–17 years old) — were formed as a last-ditch defense unit. When the Battle of Aizu went badly, 20 of them climbed the hillside of Iimori-yama and committed ritual suicide (*seppuku*) believing the castle had fallen. The castle was still standing. Their graves on Iimori-yama are among the most visited historical sites in Tohoku; the story became emblematic of samurai loyalty in Meiji and prewar propaganda.
+**Tsurugajo Castle**: The castle of Aizu, rebuilt as a concrete reconstruction in 1965 but significant for what it represents. The *Byakkotai* — the "White Tiger Corps" of teenage samurai warriors (16–17 years old) — were formed as a last-ditch defense unit. When the Battle of Aizu went badly, 20 of them climbed the hillside of Iimori-yama and committed ritual suicide (*seppuku*) believing the castle had fallen. The castle was still standing. Their graves on Iimori-yama are among the most visited historical sites in [Tohoku](/japan/tohoku-guide); the story became emblematic of samurai loyalty in Meiji and prewar propaganda.
 
 **Nisshinkan Domain School**: The school where samurai children from age 6 were educated in martial arts, Chinese classics, mathematics, and ethics. The reconstructed buildings show the comprehensive educational system the samurai class maintained.
 
@@ -54,21 +54,21 @@ Aizu (in present-day Fukushima Prefecture) was the domain of the Matsudaira clan
 
 ## Himeji — The Definitive Castle
 
-Himeji Castle is the most complete surviving feudal castle in Japan — a National Treasure, a UNESCO World Heritage Site, and the primary reference point for what Japanese castle architecture actually looked like at its peak. Unlike the concrete reconstructions that house most famous castles, Himeji's original white-plastered wooden tower complex (seven buildings, including the main keep) dates primarily to 1609.
+[Himeji](/japan/himeji-guide) Castle is the most complete surviving feudal castle in Japan — a National Treasure, a UNESCO World Heritage Site, and the primary reference point for what Japanese castle architecture actually looked like at its peak. Unlike the concrete reconstructions that house most famous castles, Himeji's original white-plastered wooden tower complex (seven buildings, including the main keep) dates primarily to 1609.
 
 **The architecture**: The white plaster (*shikkui*) coating the walls and the curved *hishi* gable windows are the defining features of Himeji's visual identity. The complex has 83 rooms, multiple defensive systems (drop slots for boiling water, concealed rooms, labyrinthine approach paths designed to confuse attackers), and a functional layout for military occupation.
 
 **Scale**: The main keep (five-story exterior, seven-story interior) rises 46 meters. From the top, the view encompasses the city grid spreading from the castle base in all directions — the domain castle-town organization still visible in the street layout.
 
-**Practical**: 40 minutes by Shinkansen from Osaka/Kobe (¥2,310 from Shin-Osaka). Himeji Station exit opens onto the boulevard leading directly to the castle. Admission ¥1,000. Allow 2–3 hours for the castle and garden (*Koko-en*).
+**Practical**: 40 minutes by Shinkansen from [Osaka](/japan/osaka-guide)/Kobe (¥2,310 from Shin-Osaka). Himeji Station exit opens onto the boulevard leading directly to the castle. Admission ¥1,000. Allow 2–3 hours for the castle and garden (*Koko-en*).
 
 ---
 
 ## Nikko — Tokugawa Power Aesthetics
 
-The Toshogu shrine complex at Nikko is not samurai culture in the strict sense — it is the apotheosis of the Tokugawa shogunate's power as expressed in religious architecture. The mausoleum of the first Tokugawa shogun, Ieyasu, was built with deliberate excess to demonstrate the dynasty's wealth and authority: gilded carvings, lacquered surfaces, polychrome gates, and the famous sleeping cat (*Nemuri-neko*) above the gateway to the inner sanctuary.
+The Toshogu shrine complex at [Nikko](/japan/nikko-guide) is not samurai culture in the strict sense — it is the apotheosis of the Tokugawa shogunate's power as expressed in religious architecture. The mausoleum of the first Tokugawa shogun, Ieyasu, was built with deliberate excess to demonstrate the dynasty's wealth and authority: gilded carvings, lacquered surfaces, polychrome gates, and the famous sleeping cat (*Nemuri-neko*) above the gateway to the inner sanctuary.
 
-The contrast with Ise Jingu — where absolute simplicity is the principle — makes Nikko the opposite pole of Japanese sacred architecture aesthetics. The Tokugawa aesthetic is maximalist; every surface carries carved or painted decoration. Understanding both poles gives you the full range.
+The contrast with [Ise Jingu](/japan/ise-jingu-guide) — where absolute simplicity is the principle — makes Nikko the opposite pole of Japanese sacred architecture aesthetics. The Tokugawa aesthetic is maximalist; every surface carries carved or painted decoration. Understanding both poles gives you the full range.
 
 ---
 
@@ -76,7 +76,7 @@ The contrast with Ise Jingu — where absolute simplicity is the principle — m
 
 **Kendo (swordsmanship)**: Several *dojo* in Kyoto, Tokyo, and Osaka offer introductory kendo sessions for visitors. A proper 90-minute introduction (including equipment, basic stance, and cutting technique) costs ¥4,000–8,000. Contact the Japan Kendo Federation or dojo directly.
 
-**Sword exhibitions**: The National Museum's sword collection in Tokyo (Tokyo National Museum, Ueno) includes designated National Treasure blades from the 12th–16th centuries. The armor collection at Oyamazumi Jinja in Omishima (Shimanami Kaido) houses 80% of all designated national treasure armor in Japan — more significant than any museum for the breadth of surviving material.
+**Sword exhibitions**: The National Museum's sword collection in Tokyo (Tokyo National Museum, Ueno) includes designated National Treasure blades from the 12th–16th centuries. The armor collection at Oyamazumi Jinja in Omishima ([Shimanami Kaido](/japan/shimanami-kaido-guide)) houses 80% of all designated national treasure armor in Japan — more significant than any museum for the breadth of surviving material.
 
 **Iaido and archery (*kyudo*)**: More contemplative than competitive; both martial arts are still actively practiced in dojos throughout Japan as Zen-influenced disciplines. Observation of training is usually permitted with advance contact.
 

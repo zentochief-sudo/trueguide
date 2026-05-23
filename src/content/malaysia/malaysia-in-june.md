@@ -10,15 +10,15 @@ tags: [Malaysia, June, Perhentian, Redang, turtles, nesting, Borneo, Kinabalu]
 city: national
 ---
 
-June is Malaysia's east coast summer peak. The Perhentian Islands are at maximum capacity. On Redang and Perhentian beaches, green and hawksbill turtles begin coming ashore at night to lay eggs — a nightly spectacle rangers coordinate for responsible viewing. The diving is excellent. Borneo's national parks — Kinabalu, Mulu, Kinabatangan — are in prime season. June is when Malaysia delivers on its beach and nature promises most fully.
+June is [Malaysia](/malaysia)'s east coast summer peak. The Perhentian Islands are at maximum capacity. On Redang and Perhentian beaches, green and hawksbill turtles begin coming ashore at night to lay eggs — a nightly spectacle rangers coordinate for responsible viewing. The diving is excellent. [Borneo](/malaysia/borneo-guide)'s national parks — Kinabalu, Mulu, Kinabatangan — are in prime season. June is when Malaysia delivers on its beach and nature promises most fully.
 
 ## Weather & Conditions
 
 **East Coast (Perhentian, Redang, Tioman):** 27–33°C. Excellent conditions throughout. This is peak season at its best.
 
-**West Coast (Langkawi, Penang):** Southwest monsoon in operation. Rain is frequent. Not the beach season.
+**West Coast ([Langkawi](/malaysia/langkawi-guide), [Penang](/malaysia/penang-travel-guide)):** Southwest monsoon in operation. Rain is frequent. Not the beach season.
 
-**Kuala Lumpur:** 25–32°C. Humid. Some afternoon showers.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** 25–32°C. Humid. Some afternoon showers.
 
 **Sabah:** 24–32°C. Relatively dry. Best month for Mount Kinabalu and the Kinabatangan.
 

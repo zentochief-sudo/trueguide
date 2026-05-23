@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Two weeks in Malaysia rewards with extraordinary diversity — from a world-class modern capital to a UNESCO colonial island city, cool mountain tea estates, ancient Borneo rainforest, and some of Southeast Asia's finest food at every turn.
+Two weeks in [Malaysia](/malaysia) rewards with extraordinary diversity — from a world-class modern capital to a UNESCO colonial island city, cool mountain tea estates, ancient [Borneo](/malaysia/borneo-guide) rainforest, and some of Southeast Asia's finest food at every turn.
 
 ## Days 1–3 – Kuala Lumpur
 
@@ -22,7 +22,7 @@ Two weeks in Malaysia rewards with extraordinary diversity — from a world-clas
 
 ## Days 4–5 – Cameron Highlands
 
-Bus north from KL (3.5 hours) to the **Cameron Highlands** — a British colonial hill station at 1,500m, with tea estates carpeting the hillsides and the temperature dropping to a remarkable 18–22°C. For Malaysia, this cool is extraordinary.
+Bus north from KL (3.5 hours) to the **[Cameron Highlands](/malaysia/cameron-highlands-guide)** — a British colonial hill station at 1,500m, with tea estates carpeting the hillsides and the temperature dropping to a remarkable 18–22°C. For Malaysia, this cool is extraordinary.
 
 **Day 4:** Walk or drive through the **Boh Tea Estate** — the largest tea plantation in Malaysia, with a glass-walled café cantilevered over the valley. Tour the processing factory (free), drink fresh-picked tea overlooking the green terraced slopes.
 
@@ -30,7 +30,7 @@ Bus north from KL (3.5 hours) to the **Cameron Highlands** — a British colonia
 
 ## Day 6 – Ipoh
 
-**Ipoh** is Malaysia's most underrated city — a former tin-mining town with gorgeous colonial-era architecture, cave temples, and the best food outside Penang. **Kong Heng Square** and **Old Town** for breakfast kopitiam (coffee shop) culture; **Sam Poh Tong** cave temple for Buddhist statues inside a limestone cavern; **Concubine Lane** for the murals and old shophouses.
+**Ipoh** is Malaysia's most underrated city — a former tin-mining town with gorgeous colonial-era architecture, cave temples, and the best food outside [Penang](/malaysia/penang-travel-guide). **Kong Heng Square** and **Old Town** for breakfast kopitiam (coffee shop) culture; **Sam Poh Tong** cave temple for Buddhist statues inside a limestone cavern; **Concubine Lane** for the murals and old shophouses.
 
 The food: Ipoh white coffee, Ipoh bean sprout chicken with flat noodles (bean sprouts grown in mineral-rich Ipoh water taste different to everywhere else), and dim sum at a 1930s kopitiam.
 
@@ -46,7 +46,7 @@ Bus or train to Penang (2 hours). Three days in Malaysia's food and heritage cap
 
 ## Day 10 – Melaka
 
-Bus south (3 hours) or train via KL to **Melaka** — Malaysia's historic port city, UNESCO World Heritage listed for its extraordinary Portuguese-Dutch-British-Chinese-Malay layered history. The **Jonker Street** area has antique shops, Peranakan restaurants, and the Jonker Street Night Market (Fridays and Saturdays). The **Dutch Square** with its red Christ Church and Stadthuys is the most Instagrammed view. **St Paul's Hill** has ruins of the Portuguese St Paul's Church (1521).
+Bus south (3 hours) or train via KL to **[Melaka](/malaysia/melaka-guide)** — Malaysia's historic port city, UNESCO World Heritage listed for its extraordinary Portuguese-Dutch-British-Chinese-Malay layered history. The **Jonker Street** area has antique shops, Peranakan restaurants, and the Jonker Street Night Market (Fridays and Saturdays). The **Dutch Square** with its red Christ Church and Stadthuys is the most Instagrammed view. **St Paul's Hill** has ruins of the Portuguese St Paul's Church (1521).
 
 ## Days 11–14 – Borneo (Sarawak or Sabah)
 

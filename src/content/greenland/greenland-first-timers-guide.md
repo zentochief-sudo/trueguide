@@ -10,18 +10,18 @@ tags: []
 city: national
 ---
 
-Greenland is the world's largest island, the world's most sparsely populated country, and one of the most logistically demanding destinations you'll ever visit. It rewards those who prepare — and humbles those who don't.
+[Greenland](/greenland) is the world's largest island, the world's most sparsely populated country, and one of the most logistically demanding destinations you'll ever visit. It rewards those who prepare — and humbles those who don't.
 
 ## The Basics
 
 **Official name:** Kalaallit Nunaat (Greenland in Greenlandic)  
 **Status:** Autonomous territory of Denmark  
 **Population:** ~57,000 people across 2.17 million km² (smaller population than most small towns)  
-**Capital:** Nuuk (population ~18,000)  
+**Capital:** [Nuuk](/greenland/nuuk-travel-guide) (population ~18,000)  
 **Currency:** Danish Krone (DKK). €1 ≈ DKK 7.5  
 **Language:** Kalaallisut (Greenlandic) is the official language; Danish widely spoken; English in tourist services  
 **Time zone:** WGT (UTC-3) for most of Greenland  
-**Visa:** No visa required for EU, US, UK, Canada, Australia (same as Denmark)  
+**Visa:** No visa required for EU, US, UK, [Canada](/canada), Australia (same as Denmark)  
 **Entry:** Via Copenhagen (most flights) or Reykjavik
 
 ---
@@ -54,10 +54,10 @@ Greenland's indigenous Inuit people — the Kalaallit — have inhabited the isl
 Air Greenland operates flights from Copenhagen to Nuuk (GOH) and Ilulissat (JAV). Flight time: ~4 hours to Nuuk.
 
 **Secondary gateway: Reykjavik (RKV)**
-Icelandair and Air Greenland connect Reykjavik to Nuuk and Kulusuk (East Greenland entry). Useful if combining with Iceland.
+Icelandair and Air Greenland connect Reykjavik to Nuuk and Kulusuk ([East Greenland](/greenland/east-greenland-guide) entry). Useful if combining with Iceland.
 
 **Domestic flights:**
-All inter-settlement travel within Greenland uses small propeller aircraft or helicopters operated by Air Greenland. Routes connect Nuuk to Ilulissat, Sisimiut, Kangerlussuaq, Narsarsuaq, and smaller settlements. Book early — seats are limited.
+All inter-settlement travel within Greenland uses small propeller aircraft or helicopters operated by Air Greenland. Routes connect Nuuk to Ilulissat, [Sisimiut](/greenland/sisimiut-guide), Kangerlussuaq, Narsarsuaq, and smaller settlements. Book early — seats are limited.
 
 ---
 
@@ -73,7 +73,7 @@ Greenland's weather is highly variable and doesn't follow simple rules.
 **Winter (October–May):**
 - West coast: -15 to -5°C. Wind chill is significant.
 - East coast: colder and drier
-- January/February: coldest, darkest, most stable for dog sledding
+- January/February: coldest, darkest, most stable for [dog sledding](/greenland/dog-sledding-guide)
 - September/October: transitional — unstable weather, high cancellation risk
 
 **What to pack regardless of season:**
@@ -152,6 +152,6 @@ Greenlandic food is dominated by Arctic game and seafood — much of it genuinel
 
 ## The One Thing People Don't Expect
 
-The scale. You know intellectually that Greenland is enormous, that 80% is covered by an ice sheet, that the fjords are vast. But standing at the edge of the Ilulissat Icefjord watching a berg the size of a city block rotate slowly in still water — or flying in a small Dash-7 plane over 400km of white ice and seeing nothing below but ice and more ice — creates a visceral understanding of scale that no amount of map-reading prepares you for.
+The scale. You know intellectually that Greenland is enormous, that 80% is covered by an ice sheet, that the fjords are vast. But standing at the edge of the [Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) watching a berg the size of a city block rotate slowly in still water — or flying in a small Dash-7 plane over 400km of white ice and seeing nothing below but ice and more ice — creates a visceral understanding of scale that no amount of map-reading prepares you for.
 
 First-time visitors to Greenland frequently describe the same experience: a profound recalibration of what "big" means. That's the real reason people come back.

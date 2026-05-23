@@ -10,13 +10,13 @@ tags: []
 city: national
 ---
 
-Costa Rica's two coasts operate on opposite weather patterns — when the Pacific is dry, the Caribbean is getting more rain, and vice versa. Understanding this split is the key to planning a great trip.
+[Costa Rica](/costa-rica/costa-rica-travel-guide)'s two coasts operate on opposite weather patterns — when the Pacific is dry, the Caribbean is getting more rain, and vice versa. Understanding this split is the key to planning a great trip.
 
 ## The Short Answer
 
 **Best for Pacific Coast:** December–April (dry season)  
 **Best for Caribbean Coast:** March–September (drier on this side)  
-**Best for Monteverde Cloud Forest:** January–May  
+**Best for [Monteverde](/costa-rica/monteverde-guide) Cloud Forest:** January–May  
 **Best for Turtle Watching (Tortuguero):** July–October (green turtles)  
 **Best value:** May–June and September–November (green/shoulder season)  
 **Avoid:** September–October (wettest on Pacific coast)
@@ -43,7 +43,7 @@ Prices are 20–40% lower. Fewer tourists. The authentic Costa Rica that locals 
 Peak season beginning on the Pacific. Schools out worldwide — Christmas and New Year are the most expensive 2 weeks. Book months ahead. Weather excellent on the Pacific. Caribbean has its short dry season (December–January can be relatively dry).
 
 ### January ⭐⭐ (Pacific)
-Excellent dry season weather on the Pacific. Prices slightly lower than December after the holiday peak. Good time for Guanacaste beaches, Manuel Antonio, and Osa Peninsula.
+Excellent dry season weather on the Pacific. Prices slightly lower than December after the holiday peak. Good time for Guanacaste beaches, [Manuel Antonio](/costa-rica/manuel-antonio-guide), and [Osa Peninsula](/costa-rica/osa-peninsula-guide).
 
 ### February ⭐⭐ (Pacific)
 Height of dry season — consistently clear. **Monteverde's** cloud forest is at its best for quetzal sightings (February–May). Sea turtle season beginning at Ostional (olive ridley turtles). Very popular; book ahead.

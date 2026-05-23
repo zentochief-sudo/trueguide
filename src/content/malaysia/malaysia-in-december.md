@@ -10,7 +10,7 @@ tags: [Malaysia, December, Langkawi, Christmas, KL, west coast peak, Penang]
 city: national
 ---
 
-December is when Malaysia's west coast peaks and the country celebrates its most cosmopolitan holiday season. Langkawi is in prime dry season. Penang's Georgetown is at its most comfortable. Kuala Lumpur's shopping malls — among the world's largest and most elaborately decorated for Christmas — are in full festive operation. The east coast remains under monsoon. December is west coast Malaysia at its best.
+December is when [Malaysia](/malaysia)'s west coast peaks and the country celebrates its most cosmopolitan holiday season. [Langkawi](/malaysia/langkawi-guide) is in prime dry season. [Penang](/malaysia/penang-travel-guide)'s Georgetown is at its most comfortable. [Kuala Lumpur](/malaysia/kuala-lumpur-guide)'s shopping malls — among the world's largest and most elaborately decorated for Christmas — are in full festive operation. The east coast remains under monsoon. December is west coast Malaysia at its best.
 
 ## Weather & Conditions
 
@@ -32,7 +32,7 @@ December is when Malaysia's west coast peaks and the country celebrates its most
 
 **KL Christmas malls:** The Pavilion KL, Suria KLCC at the Petronas Towers base, and the Gardens Mall compete annually for the most elaborate Christmas decorations in Southeast Asia. The Suria KLCC decorations in particular are frequently extraordinary. Christmas shopping in KL offers branded goods at prices often lower than departure countries.
 
-**Sabah wildlife — Christmas dive:** Sipadan's Christmas dive boats are booked out but the surrounding waters of Mabul and Kapalai Islands offer excellent diving year-round. Borneo's coral triangle location means December diving is consistently excellent.
+**Sabah wildlife — Christmas dive:** Sipadan's Christmas dive boats are booked out but the surrounding waters of Mabul and Kapalai Islands offer excellent diving year-round. [Borneo](/malaysia/borneo-guide)'s coral triangle location means December diving is consistently excellent.
 
 **New Year's Eve, Kuala Lumpur:** The Petronas Towers fireworks at midnight are one of Southeast Asia's finest. Dataran Merdeka (Independence Square) runs a public countdown. Skybar and Helipad bar at Traders Hotel (which faces the Towers directly) are the premium vantage points.
 

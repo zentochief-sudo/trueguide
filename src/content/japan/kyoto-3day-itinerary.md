@@ -10,7 +10,7 @@ tags: [Kyoto, Japan, itinerary, 3 days, Fushimi Inari, Arashiyama, Ginkakuji, Ki
 city: kyoto
 ---
 
-Kyoto's neighborhoods cluster by compass direction. The great temple sites of the east are in Higashiyama; the gold and rock garden temples are to the northwest; the forest district of Arashiyama is due west; the Philosopher's Path runs north-south through the eastern foothills. Structuring a three-day visit by direction eliminates the wasted transit time of crossing the city repeatedly.
+[Kyoto](/japan/kyoto-guide)'s neighborhoods cluster by compass direction. The great temple sites of the east are in Higashiyama; the gold and rock garden temples are to the northwest; the forest district of Arashiyama is due west; the Philosopher's Path runs north-south through the eastern foothills. Structuring a three-day visit by direction eliminates the wasted transit time of crossing the city repeatedly.
 
 This itinerary assumes three full days, arriving the evening before Day 1. It is organized by geography, not by site fame — the goal is coherent movement through Kyoto's neighborhoods rather than a checklist of "top" attractions.
 
@@ -24,7 +24,7 @@ The most important decision in a Kyoto visit: whether to commit to the pre-dawn 
 
 The argument for it: the gate tunnels in near-darkness and first light, with almost no other visitors, accompanied by the sound of the forest and the crow calls that wake the mountain, is one of the most singular sensory experiences in Japan. The argument against: it is 4:45am.
 
-Set the alarm. Take the first JR Nara Line from Kyoto Station (first train approximately 5am to Fushimi Inari Station, ¥150). Walk the Senbon Torii at dawn. Continue up the mountain to Yotsutsuji viewpoint for sunrise over the Kyoto basin (approximately 6–6:30am in spring). Descend, eat the *inari-zushi* and *suzume* from the market vendors at the base (opening from 7am), and take the train back to Kyoto Station for the accommodation breakfast.
+Set the alarm. Take the first JR [Nara](/japan/nara-guide) Line from Kyoto Station (first train approximately 5am to Fushimi Inari Station, ¥150). Walk the Senbon Torii at dawn. Continue up the mountain to Yotsutsuji viewpoint for sunrise over the Kyoto basin (approximately 6–6:30am in spring). Descend, eat the *inari-zushi* and *suzume* from the market vendors at the base (opening from 7am), and take the train back to Kyoto Station for the accommodation breakfast.
 
 **Morning — Kyoto Station base (8:30am)**
 
@@ -40,11 +40,11 @@ At Kiyomizudera: the veranda view, the Otowa waterfall, the Jishu Shrine love st
 
 **Afternoon — Gion and Maruyama Park (2pm–6pm)**
 
-**Maruyama Park**: Kyoto's most famous cherry blossom park (weeping cherry, *shidare-zakura*, at its center); in non-cherry seasons a pleasant strolling park with pond and small food stalls.
+**Maruyama Park**: Kyoto's most famous [cherry blossom](/japan/cherry-blossom-guide) park (weeping cherry, *shidare-zakura*, at its center); in non-cherry seasons a pleasant strolling park with pond and small food stalls.
 
 **Yasaka Shrine**: The shrine at the east end of Shijo-dori — the site of the Gion Matsuri (July). The main gate, the lantern-lit approach, and the small sub-shrines are worth 20 minutes.
 
-**Gion walk**: The stone-paved lane of **Ishibe-koji** (between Shijo and Maruyama Park), then north on **Hanamikoji-dori** through the geisha district — the most intact machiya streetscape in Kyoto. The late afternoon (4–6pm) is the best time to walk Hanamikoji for the possibility of seeing geiko or maiko moving between their ochaya appointments.
+**Gion walk**: The stone-paved lane of **Ishibe-koji** (between Shijo and Maruyama Park), then north on **Hanamikoji-dori** through the [geisha](/japan/geisha-guide) district — the most intact machiya streetscape in Kyoto. The late afternoon (4–6pm) is the best time to walk Hanamikoji for the possibility of seeing geiko or maiko moving between their ochaya appointments.
 
 **Evening**: Dinner in Gion — the kaiseki restaurants on Hanamikoji (book well in advance; expensive), the more accessible yakitori and izakaya on the cross streets, or the street food around the Yasaka Shrine torii gate.
 

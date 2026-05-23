@@ -10,7 +10,7 @@ tags: [Osaka, transport, subway, IC card, Osaka Amazing Pass, getting around, Ja
 city: Osaka
 ---
 
-Osaka's public transport network is excellent — the subway covers every major tourist district, the IC card makes payment seamless, and the Osaka Amazing Pass can make financial sense for day-intensive sightseeing. The biggest mistake travelers make is overcomplicating it: for most Osaka itineraries, a Suica or ICOCA IC card loaded at the airport and a subway map on your phone covers 90% of getting around.
+[Osaka](/japan/osaka-guide)'s public transport network is excellent — the subway covers every major tourist district, the IC card makes payment seamless, and the Osaka Amazing Pass can make financial sense for day-intensive sightseeing. The biggest mistake travelers make is overcomplicating it: for most Osaka itineraries, a Suica or ICOCA IC card loaded at the airport and a subway map on your phone covers 90% of getting around.
 
 ## The IC Card System
 
@@ -44,7 +44,7 @@ Osaka Metro is the primary transport network — 9 lines covering the entire cit
 - **Tennoji** (M23) — Shinsekai, Abeno, and the Osaka Zoo
 
 **Tanimachi Line (Purple — T):** Useful secondary line:
-- **Tanimachi 4-chome** — Osaka Castle access
+- **Tanimachi 4-chome** — [Osaka Castle](/japan/osaka-castle-guide) access
 - **Tanimachi 6-chome** — traditional craft and merchant district
 
 **Sennichimae Line (Pink — S):** Runs east-west through Namba
@@ -110,13 +110,13 @@ JR (Japan Railways) operates several lines within Osaka — distinct from the su
 
 Several private railways serve Osaka — important for regional connections:
 
-**Hankyu Railways:** Umeda → Kyoto (50 min, ¥410), Umeda → Kobe (30 min, ¥330), Umeda → Arashiyama (70 min, ¥490). The Hankyu-Kyoto line is one of the best-value connections to Kyoto. IC cards accepted.
+**Hankyu Railways:** Umeda → [Kyoto](/japan/kyoto-guide) (50 min, ¥410), Umeda → [Kobe](/japan/kobe-guide) (30 min, ¥330), Umeda → Arashiyama (70 min, ¥490). The Hankyu-Kyoto line is one of the best-value connections to Kyoto. IC cards accepted.
 
 **Hanshin Electric Railway:** Umeda → Kobe Sannomiya (30 min, ¥330). IC cards accepted.
 
-**Kintetsu Railways:** Namba → Nara (35 min Limited Express, ¥1,110, or 50 min express, ¥760). The fastest connection between Osaka and Nara.
+**Kintetsu Railways:** Namba → [Nara](/japan/nara-guide) (35 min Limited Express, ¥1,110, or 50 min express, ¥760). The fastest connection between Osaka and Nara.
 
-**Nankai Electric Railway:** Namba → Kansai Airport (38 min Rapi:t express, ¥1,450). Also serves Wakayama and Koyasan.
+**Nankai Electric Railway:** Namba → Kansai Airport (38 min Rapi:t express, ¥1,450). Also serves Wakayama and [Koyasan](/japan/koyasan-guide).
 
 ## Taxis and Ride-Share
 
@@ -124,7 +124,7 @@ Several private railways serve Osaka — important for regional connections:
 
 **GO (app):** Japan's primary taxi-hailing app — download before arrival. Japanese-friendly interface.
 
-**Uber:** Operating in Osaka but limited relative to Tokyo. GO is more reliable.
+**Uber:** Operating in Osaka but limited relative to [Tokyo](/japan/tokyo-guide). GO is more reliable.
 
 ## Cycling in Osaka
 

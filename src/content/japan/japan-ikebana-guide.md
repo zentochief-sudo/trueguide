@@ -18,7 +18,7 @@ A properly executed ikebana arrangement directs attention to the cut stem as muc
 
 ## History and Philosophy
 
-The practice is attributed to the priest Ikenobo Senkei, who is said to have arranged flowers at Rokkaku-do temple in Kyoto in the mid-15th century. His successors codified the rules into the *Ikenobo* school's formal system; over subsequent centuries, dozens of additional schools developed with different philosophies of arrangement.
+The practice is attributed to the priest Ikenobo Senkei, who is said to have arranged flowers at Rokkaku-do temple in [Kyoto](/japan/kyoto-guide) in the mid-15th century. His successors codified the rules into the *Ikenobo* school's formal system; over subsequent centuries, dozens of additional schools developed with different philosophies of arrangement.
 
 The philosophical foundation rests on several concepts:
 
@@ -46,7 +46,7 @@ Founded in the early 20th century by Ohara Unshin, who introduced *moribana* (pi
 
 More accessible to beginners than Ikenobo; the moribana style is easier to start with than rikka.
 
-**Tokyo headquarters**: Minami-Aoyama; regular workshops in English.
+**[Tokyo](/japan/tokyo-guide) headquarters**: Minami-Aoyama; regular workshops in English.
 
 ### Sogetsu (草月)
 Founded in 1927 by Teshigahara Sofu, who broke from classical schools to create what he called a "free style" — ikebana that could be created by anyone, anywhere, with any material. Sogetsu is the most contemporary of the major schools; works can incorporate metal, stone, industrial materials, and non-floral elements.

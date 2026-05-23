@@ -10,9 +10,9 @@ tags: [Ireland, food, Irish stew, seafood chowder, soda bread, farmers market, C
 city: dublin
 ---
 
-Irish food has undergone a genuine transformation in the past 20 years. The country that was mocked for its boiled vegetables and beige plates now has a food culture built on exceptional raw ingredients — the Atlantic seafood, the grass-fed beef and lamb, the farmhouse cheeses, and the wild produce from a wet climate — interpreted by a generation of chefs who left Ireland to train and came back to work with what's local.
+Irish food has undergone a genuine transformation in the past 20 years. The country that was mocked for its boiled vegetables and beige plates now has a food culture built on exceptional raw ingredients — the Atlantic seafood, the grass-fed beef and lamb, the farmhouse cheeses, and the wild produce from a wet climate — interpreted by a generation of chefs who left [Ireland](/ireland) to train and came back to work with what's local.
 
-The best Irish food is found at the source: the oyster beds of Galway and Clare, the fishing ports of the Wild Atlantic Way, the farmers' markets in Cork and Dingle, and the farmhouse cheese producers scattered throughout the country. Urban restaurants in Dublin, Cork, and Galway increasingly connect their menus to these producers.
+The best Irish food is found at the source: the oyster beds of [Galway](/ireland/galway-guide) and Clare, the fishing ports of the [Wild Atlantic Way](/ireland/wild-atlantic-way-guide), the farmers' markets in [Cork](/ireland/cork-guide) and Dingle, and the farmhouse cheese producers scattered throughout the country. Urban restaurants in [Dublin](/ireland/dublin-travel-guide), Cork, and Galway increasingly connect their menus to these producers.
 
 ---
 

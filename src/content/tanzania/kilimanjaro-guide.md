@@ -63,7 +63,7 @@ The critical factor determining success or failure. Acute Mountain Sickness (AMS
 
 **The "climb high, sleep low" principle**: The best routes build in acclimatization days where you hike to higher elevation during the day and return to sleep at a lower camp. Machame and Lemosho both incorporate this; Marangu does not.
 
-**Diamox (Acetazolamide)**: The standard prescription medication for altitude prevention. Taken 1–2 days before the ascent begins, it speeds acclimatization and reduces AMS symptoms. Requires consultation with a doctor before the trek; available in Moshi and Arusha if not brought. Common side effects: increased urination, tingling in extremities.
+**Diamox (Acetazolamide)**: The standard prescription medication for altitude prevention. Taken 1–2 days before the ascent begins, it speeds acclimatization and reduces AMS symptoms. Requires consultation with a doctor before the trek; available in Moshi and [Arusha](/tanzania/arusha-guide) if not brought. Common side effects: increased urination, tingling in extremities.
 
 **Pace**: "Pole pole" (Swahili: slowly slowly) is the Kilimanjaro mantra. The instinct to walk faster when feeling good at lower elevations is the most common cause of problems higher up.
 
@@ -90,7 +90,7 @@ All Kilimanjaro climbs must be done with a registered operator and licensed guid
 - Mid-range operators: $2,500–3,500
 - Premium operators: $4,000–6,000+
 
-**What budget operators cut**: Usually porter wages and conditions, equipment quality, and guide experience. Tanzania's porter welfare standards require a minimum wage and maximum load; not all operators comply. The Kilimanjaro Porters Assistance Project (KPAP) certifies operators who treat porters fairly — worth checking at kilimanjaroparks.com.
+**What budget operators cut**: Usually porter wages and conditions, equipment quality, and guide experience. [Tanzania](/tanzania)'s porter welfare standards require a minimum wage and maximum load; not all operators comply. The Kilimanjaro Porters Assistance Project (KPAP) certifies operators who treat porters fairly — worth checking at kilimanjaroparks.com.
 
 **Tipping**: Expected and important. Standard guidance: $20–25/day for the lead guide, $15/day for assistant guides, $5–8/day for porters. Budget this separately from the operator fee.
 
@@ -118,4 +118,4 @@ Almost all Kilimanjaro climbs begin and end in Arusha (or Moshi, 80 km from the 
 
 **Booking**: For the January–March and June–October seasons, book at least 2–3 months in advance. Last-minute permits are possible but limit operator choice.
 
-**The combination trip**: Most Tanzania visitors combine a northern circuit safari (Serengeti, Ngorongoro, Tarangire) with Kilimanjaro — doing the safari first, then the climb, then Zanzibar beach recovery. The standard 2-week Tanzania itinerary covers all three.
+**The combination trip**: Most Tanzania visitors combine a northern circuit safari (Serengeti, [Ngorongoro](/tanzania/ngorongoro-guide), [Tarangire](/tanzania/tarangire-guide)) with Kilimanjaro — doing the safari first, then the climb, then [Zanzibar](/tanzania/zanzibar-guide) beach recovery. The standard 2-week Tanzania itinerary covers all three.

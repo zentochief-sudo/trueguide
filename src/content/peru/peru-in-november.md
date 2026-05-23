@@ -10,15 +10,15 @@ tags: [Peru, November, rainy season, Dia de los Muertos, Amazon, low season, Mac
 city: national
 ---
 
-November brings the beginning of Peru's wet season in earnest. Cusco has regular afternoon rain. The mountains are beginning their return to green. The Inca Trail is now reliably wet. And in the Amazon, the rains are flooding the forest again — the wildlife dispersal and flooding that makes January–March the Amazon's most active period begins. The cultural event of the month is powerful: Andean Dia de los Muertos on November 1–2 fills highland cemeteries with flowers, food, and family.
+November brings the beginning of [Peru](/peru)'s wet season in earnest. [Cusco](/peru/cusco-guide) has regular afternoon rain. The mountains are beginning their return to green. The Inca Trail is now reliably wet. And in the [Amazon](/peru/amazon-guide), the rains are flooding the forest again — the wildlife dispersal and flooding that makes January–March the Amazon's most active period begins. The cultural event of the month is powerful: Andean Dia de los Muertos on November 1–2 fills highland cemeteries with flowers, food, and family.
 
 ## Weather & Conditions
 
 **Cusco:** 10–21°C. Afternoon rain becomes the norm rather than the exception. Mornings are still often clear but the wet season is genuinely here.
 
-**Machu Picchu:** 14–22°C. Cloud and rain are more frequent. The citadel in November mist can be atmospheric; it can also be entirely cloud-covered.
+**[Machu Picchu](/peru/machu-picchu-guide):** 14–22°C. Cloud and rain are more frequent. The citadel in November mist can be atmospheric; it can also be entirely cloud-covered.
 
-**Lima:** 16–22°C. The spring sun is fully established on the coast. Lima in November–April is its clearest and most pleasant.
+**[Lima](/peru/lima-guide):** 16–22°C. The spring sun is fully established on the coast. Lima in November–April is its clearest and most pleasant.
 
 **Amazon:** The rains are arriving and water levels beginning to rise. November Amazon transitions toward the flood season.
 
@@ -26,7 +26,7 @@ November brings the beginning of Peru's wet season in earnest. Cusco has regular
 
 ## What to Do
 
-**Dia de los Muertos, Highland Peru (November 1–2):** Peru's Andean interpretation of the Day of the Dead is specific and extraordinary. In Quechua communities around Cusco — particularly in Pisac, Chinchero, and the villages of the Sacred Valley — families spend the day and night in the cemetery with their deceased relatives. Flower carpets on graves, favorite foods and drinks left for the dead, music played through the night. It's not macabre — it's familial, joyful, and genuinely moving. Visitors who approach respectfully are welcomed.
+**Dia de los Muertos, Highland Peru (November 1–2):** Peru's Andean interpretation of the Day of the Dead is specific and extraordinary. In Quechua communities around Cusco — particularly in Pisac, Chinchero, and the villages of the [Sacred Valley](/peru/sacred-valley-guide) — families spend the day and night in the cemetery with their deceased relatives. Flower carpets on graves, favorite foods and drinks left for the dead, music played through the night. It's not macabre — it's familial, joyful, and genuinely moving. Visitors who approach respectfully are welcomed.
 
 **Lima coastal season (November–April best):** November is the start of Lima's sunny season. The Miraflores seafront, the Barranco beach bars, and the Larcomar mall clifftop above the Pacific are excellent in Lima's warm spring. The Larco Museum and the Pachacamac complex south of the city are both excellent.
 
@@ -34,13 +34,13 @@ November brings the beginning of Peru's wet season in earnest. Cusco has regular
 
 **Amazon rising waters:** November's rising waters begin the flooded forest season. Some operators offer transitional-season tours that capture both the dry season's open river wildlife and the beginning flood season's forest water access.
 
-**Colca Canyon:** The dry, clear Arequipa region makes November an excellent Colca Canyon month. The condors at Cruz del Condor are as reliable as ever.
+**[Colca Canyon](/peru/colca-canyon-guide):** The dry, clear Arequipa region makes November an excellent Colca Canyon month. The condors at Cruz del Condor are as reliable as ever.
 
 ## Festivals & Events
 
 **Dia de los Muertos (November 1–2):** All Saints' Day and All Souls' Day. Peru's highland communities observe with cemetery visits, offerings, and family gatherings.
 
-**Puno Day (November 5):** The founding anniversary of Puno is celebrated with parades, music, and folk dances. A good excuse to visit Lake Titicaca.
+**Puno Day (November 5):** The founding anniversary of Puno is celebrated with parades, music, and folk dances. A good excuse to visit [Lake Titicaca](/peru/lake-titicaca-guide).
 
 ## Practical Tips
 

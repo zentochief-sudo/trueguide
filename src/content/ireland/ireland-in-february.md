@@ -10,15 +10,15 @@ tags: [Ireland, February, winter, St. Brigid, Imbolc, budget, pubs, quiet season
 city: national
 ---
 
-February is when Ireland is entirely itself. No tourist buses, no shamrock merchandise, no queues at the Book of Kells. The country is going about its winter business — school terms, farming, community — and a traveler willing to join that life rather than observe it from outside finds something genuinely distinctive. February 1 marks Imbolc and St. Brigid's Day, the ancient Celtic marker of spring's first stirring. The snowdrops prove it right.
+February is when [Ireland](/ireland) is entirely itself. No tourist buses, no shamrock merchandise, no queues at the Book of Kells. The country is going about its winter business — school terms, farming, community — and a traveler willing to join that life rather than observe it from outside finds something genuinely distinctive. February 1 marks Imbolc and St. Brigid's Day, the ancient Celtic marker of spring's first stirring. The snowdrops prove it right.
 
 ## Weather & Conditions
 
-**Dublin:** 3–8°C. Often rainy with brief bright intervals. The daylight is slowly returning — 9 hours by month's end compared to 7.5 at the start.
+**[Dublin](/ireland/dublin-travel-guide):** 3–8°C. Often rainy with brief bright intervals. The daylight is slowly returning — 9 hours by month's end compared to 7.5 at the start.
 
-**West Coast (Galway, Clare, Mayo):** 4–9°C. Wind and Atlantic rain are dominant. Occasional beautiful clear days with low winter light across the bogs and sea.
+**West Coast ([Galway](/ireland/galway-guide), Clare, Mayo):** 4–9°C. Wind and Atlantic rain are dominant. Occasional beautiful clear days with low winter light across the bogs and sea.
 
-**Kerry/Cork:** 5–10°C. Ireland's mildest region. Snowdrops and early spring bulbs appear in sheltered gardens.
+**Kerry/[Cork](/ireland/cork-guide):** 5–10°C. Ireland's mildest region. Snowdrops and early spring bulbs appear in sheltered gardens.
 
 **Northern Ireland:** 2–7°C. Cold and wet. Belfast's indoor cultural life (the Ulster Museum, the Titanic Belfast, the Victoria Square) is an adequate retreat.
 

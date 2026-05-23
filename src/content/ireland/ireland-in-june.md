@@ -10,11 +10,11 @@ tags: [Ireland, June, summer, solstice, festivals, music, Wild Atlantic Way, lon
 city: national
 ---
 
-June is when Ireland's summer formally begins and the country's long-day culture takes hold. The June solstice brings nearly 11 hours of direct daylight — plus the extended twilight that lingers until almost midnight in the clear northern sky. Festivals start. The Wild Atlantic Way is at full summer operation. Accommodation prices climb toward their July–August peak but haven't quite arrived. June is the last good-value summer month.
+June is when [Ireland](/ireland)'s summer formally begins and the country's long-day culture takes hold. The June solstice brings nearly 11 hours of direct daylight — plus the extended twilight that lingers until almost midnight in the clear northern sky. Festivals start. The [Wild Atlantic Way](/ireland/wild-atlantic-way-guide) is at full summer operation. Accommodation prices climb toward their July–August peak but haven't quite arrived. June is the last good-value summer month.
 
 ## Weather & Conditions
 
-**Dublin:** 11–18°C. June is statistically one of Ireland's drier months. Warm enough for outdoor dining on good days. Rain is intermittent rather than constant.
+**[Dublin](/ireland/dublin-travel-guide):** 11–18°C. June is statistically one of Ireland's drier months. Warm enough for outdoor dining on good days. Rain is intermittent rather than constant.
 
 **West Coast:** 11–17°C. The Atlantic wind is summer-warm by June. The Connemara bog roads and Clare cliffs are at their best in the long late-afternoon light.
 
@@ -28,7 +28,7 @@ June is when Ireland's summer formally begins and the country's long-day culture
 
 **Summer Solstice, Hill of Tara or Loughcrew:** Ireland's ancient passage tombs are aligned with the summer solstice sunrise. Loughcrew Cairns (Loch Craobh, County Meath) — less famous than Newgrange but accessible without the winter solstice lottery — catch the solstice light through their passage entrance around June 21 at dawn. Small gatherings, no tickets required. The Hill of Tara at midsummer has an ancient resonance even without a specific alignment event.
 
-**West Cork food and culture:** West Cork — the coastline from Kinsale to the Beara Peninsula — is one of Ireland's best food regions. The towns of Skibbereen, Castletownbere, and Baltimore have independent restaurants, farmers markets, and a culture of quality food that's distinctive in Ireland. Driving the Mizen Head Peninsula in June evening light is beautiful.
+**West [Cork](/ireland/cork-guide) food and culture:** West Cork — the coastline from Kinsale to the Beara Peninsula — is one of Ireland's best food regions. The towns of Skibbereen, Castletownbere, and Baltimore have independent restaurants, farmers markets, and a culture of quality food that's distinctive in Ireland. Driving the Mizen Head Peninsula in June evening light is beautiful.
 
 **Surfing at Lahinch and Bundoran:** Ireland's west coast surf spots — Lahinch (Co. Clare) and Bundoran (Co. Donegal) — offer consistent Atlantic swells. June is a good surf month with manageable water temperatures (around 13–15°C, wetsuit essential). Surf schools operate at both towns.
 

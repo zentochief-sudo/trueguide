@@ -10,7 +10,7 @@ tags: [Kazakhstan, Shymkent, Silk Road, southern Kazakhstan, bazaar, Turkestan, 
 city: shymkent
 ---
 
-Shymkent is Kazakhstan's third-largest city and the one that feels most different from Almaty and Astana — warmer, louder, more Uzbek in cultural character, with a bazaar culture that belongs to the southern Silk Road tradition rather than the northern steppe. The city has 1.2 million people, a compact old quarter built around the Baydibek bazaar, a sprawl of Soviet-era residential districts, and the most accessible climate in Kazakhstan (snow is rare; summers are long and hot).
+Shymkent is [Kazakhstan](/kazakhstan)'s third-largest city and the one that feels most different from [Almaty](/kazakhstan/almaty-travel-guide) and [Astana](/kazakhstan/astana-guide) — warmer, louder, more Uzbek in cultural character, with a bazaar culture that belongs to the southern [Silk Road](/kazakhstan/silk-road-guide) tradition rather than the northern steppe. The city has 1.2 million people, a compact old quarter built around the Baydibek bazaar, a sprawl of Soviet-era residential districts, and the most accessible climate in Kazakhstan (snow is rare; summers are long and hot).
 
 Its most important role for visitors is as the gateway to the Turkestan region — 160 km north, where the Yasawi Mausoleum and the archaeological remains of Otrar are the most significant Silk Road monuments in the country.
 

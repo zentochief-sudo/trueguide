@@ -10,19 +10,19 @@ tags: [Tanzania, March, long rains, green season, Serengeti, Zanzibar, budget sa
 city: national
 ---
 
-March is Tanzania's honest shoulder month. The long rains typically begin in March, ending the dry season that's made January and February so accessible. Some safari camps close for maintenance. Wildlife disperses as water sources become more widespread. And prices drop significantly. For experienced safari travelers who understand what the rains bring — extraordinary green scenery, dramatic skies, and wildlife behavior around newborn animals — March is a genuine value opportunity.
+March is [Tanzania](/tanzania)'s honest shoulder month. The long rains typically begin in March, ending the dry season that's made January and February so accessible. Some safari camps close for maintenance. Wildlife disperses as water sources become more widespread. And prices drop significantly. For experienced safari travelers who understand what the rains bring — extraordinary green scenery, dramatic skies, and wildlife behavior around newborn animals — March is a genuine value opportunity.
 
 ## Weather & Conditions
 
 **Serengeti:** Rains begin in March — typically intermittent afternoon showers at first, building through April. Morning game drives are often dry and clear; afternoons bring rain.
 
-**Ngorongoro:** Rain arrives but the crater remains accessible. Afternoon cloud dramatically lowers visibility on the crater rim.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** Rain arrives but the crater remains accessible. Afternoon cloud dramatically lowers visibility on the crater rim.
 
-**Arusha:** 18–28°C with increasing afternoon rain.
+**[Arusha](/tanzania/arusha-guide):** 18–28°C with increasing afternoon rain.
 
-**Zanzibar:** The northeast monsoon (kaskazi) ends in March. The transition period — called the "small rains" (masika) — brings variable weather. March can be unpredictable: some weeks beautiful, others rainy. East coast conditions decline; the west coast (Stonetown) is more stable.
+**[Zanzibar](/tanzania/zanzibar-guide):** The northeast monsoon (kaskazi) ends in March. The transition period — called the "small rains" (masika) — brings variable weather. March can be unpredictable: some weeks beautiful, others rainy. East coast conditions decline; the west coast (Stonetown) is more stable.
 
-**Mount Kilimanjaro:** Cloud increases in March. Summit visibility decreases. Still climbable but conditions are less reliable than January–February.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Cloud increases in March. Summit visibility decreases. Still climbable but conditions are less reliable than January–February.
 
 ## What to Do
 
@@ -40,7 +40,7 @@ March is Tanzania's honest shoulder month. The long rains typically begin in Mar
 
 **Mwaka Kogwa (Zanzibar New Year, variable):** The Shirazi Persian New Year celebration in Makunduchi village on Zanzibar's south coast — a traditional festival featuring symbolic male combat (sticks are used ritually, not viciously), boat burning, and community celebration. Usually in late July, but worth checking the year's calendar.
 
-**Easter preparations (variable):** March or April, Easter is a significant occasion in Tanzania's Christian communities. Good Friday processions in Arusha and Dar es Salaam.
+**Easter preparations (variable):** March or April, Easter is a significant occasion in Tanzania's Christian communities. Good Friday processions in Arusha and [Dar es Salaam](/tanzania/dar-es-salaam-guide).
 
 ## Practical Tips
 

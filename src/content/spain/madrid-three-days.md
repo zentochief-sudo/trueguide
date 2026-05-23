@@ -10,7 +10,7 @@ tags: []
 city: Madrid
 ---
 
-Madrid doesn't get the same romantic reputation as Barcelona, but those who spend real time here often leave preferring it. It's a city built for living — late dinners, long lunches, art on every corner, and a warmth in its people that's entirely genuine.
+Madrid doesn't get the same romantic reputation as [Barcelona](/[spain](/spain)/barcelona-travel-guide), but those who spend real time here often leave preferring it. It's a city built for living — late dinners, long lunches, art on every corner, and a warmth in its people that's entirely genuine.
 
 ## Day 1 – The Golden Triangle of Art
 

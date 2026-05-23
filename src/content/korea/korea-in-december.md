@@ -10,7 +10,7 @@ tags: [South Korea, December, winter, Christmas, ski, snow, Seoul, travel tips]
 city: national
 ---
 
-December is cold Korea, undiluted — temperatures in Seoul regularly below 0°C, snow arriving in earnest mid-month, and a city that responds with hot food, heated spaces, and surprisingly beautiful winter lighting. International visitors are at their annual low (outside of Korean diaspora returning for the holidays), which means the palaces, museums, and markets are yours to move through without the summer and autumn crowds.
+December is cold Korea, undiluted — temperatures in [Seoul](/south-korea/seoul-guide) regularly below 0°C, snow arriving in earnest mid-month, and a city that responds with hot food, heated spaces, and surprisingly beautiful winter lighting. International visitors are at their annual low (outside of Korean diaspora returning for the holidays), which means the palaces, museums, and markets are yours to move through without the summer and autumn crowds.
 
 ## Weather in December
 

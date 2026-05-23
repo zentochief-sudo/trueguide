@@ -10,7 +10,7 @@ tags: [Boston, transport, MBTA, T, World Cup 2026, Gillette Stadium, commuter ra
 city: boston
 ---
 
-Boston has the oldest subway system in the United States (opened 1897) and one of the most walkable downtown cores of any World Cup host city. The T (MBTA) handles most visitor needs; the Logan Airport Blue Line connection ($2.90) makes the airport transit one of the most straightforward in the country. The one complexity is the 28-mile commute to Gillette Stadium, which requires the commuter rail.
+Boston has the oldest subway system in the United States (opened 1897) and one of the most walkable downtown cores of any World Cup host city. The T (MBTA) handles most visitor needs; the Logan Airport Blue Line connection ($2.90) makes the airport transit one of the most straightforward in the country. The one complexity is the 28-mile commute to [Gillette Stadium](/united-states/gillette-stadium-guide), which requires the commuter rail.
 
 ---
 

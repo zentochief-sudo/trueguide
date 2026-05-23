@@ -10,7 +10,7 @@ tags: [Kibune, Kurama, Kyoto day trip, kawadoko, river dining, mountain hiking, 
 city: kyoto
 ---
 
-The Kibune-Kurama ridge is the defining geography of northern Kyoto's mountain culture. The two villages — Kibune on the west slope, Kurama on the east — sit in narrow river valleys, accessible from Kyoto by the Eizan Electric Railway (a single-track mountain line from Demachiyanagi in north Kyoto). They're 4km apart over the ridge, connected by a hiking trail that crosses at 510m elevation through old cedar forest.
+The Kibune-Kurama ridge is the defining geography of northern [Kyoto](/japan/kyoto-guide)'s mountain culture. The two villages — Kibune on the west slope, Kurama on the east — sit in narrow river valleys, accessible from Kyoto by the Eizan Electric Railway (a single-track mountain line from Demachiyanagi in north Kyoto). They're 4km apart over the ridge, connected by a hiking trail that crosses at 510m elevation through old cedar forest.
 
 The combination makes a natural route: take the train to Kibune, hike over the ridge to Kurama-dera temple and down through Kurama village, soak in the onsen, and take the train back. The full circuit takes 4–5 hours.
 
@@ -99,7 +99,7 @@ An outdoor hot spring bath at the base of the mountain, 10 minutes' walk from Ku
 
 **Winter**: The Kibune snow lantern path (when snowfall occurs, typically December–February) is one of Kyoto's most atmospheric images. The onsen in Kurama in winter cold is particularly appealing.
 
-**Spring (March–April)**: Cherry blossom and fresh mountain green; less visited than autumn.
+**Spring (March–April)**: [Cherry blossom](/japan/cherry-blossom-guide) and fresh mountain green; less visited than autumn.
 
 ---
 

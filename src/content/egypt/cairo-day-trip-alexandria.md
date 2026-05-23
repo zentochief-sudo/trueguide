@@ -10,7 +10,7 @@ tags: [Alexandria, day trip, Cairo, Egypt, Bibliotheca Alexandrina, Mediterranea
 city: cairo
 ---
 
-Alexandria sits on Egypt's Mediterranean coast, 220 km northwest of Cairo — two hours by express train and a city that feels like a different country from the Nile Valley capital. Founded by Alexander the Great in 331 BC, it was one of the ancient world's great cities: home to the legendary Library of Alexandria (the largest collection of knowledge in the ancient world), the Lighthouse of Pharos (one of the Seven Wonders), and the intellectual hub of Greek, Jewish, and Egyptian culture for seven centuries.
+Alexandria sits on [Egypt](/egypt)'s Mediterranean coast, 220 km northwest of [Cairo](/egypt/cairo-travel-guide) — two hours by express train and a city that feels like a different country from the Nile Valley capital. Founded by Alexander the Great in 331 BC, it was one of the ancient world's great cities: home to the legendary Library of Alexandria (the largest collection of knowledge in the ancient world), the Lighthouse of Pharos (one of the Seven Wonders), and the intellectual hub of Greek, Jewish, and Egyptian culture for seven centuries.
 
 Today's Alexandria is a working Mediterranean port city of 5 million people, with a sweeping corniche, excellent seafood, and several significant historical sites. A day trip from Cairo is entirely feasible — it's the most accessible major city excursion from the capital.
 

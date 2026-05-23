@@ -16,11 +16,11 @@ The caveat: typhoon season peaks in September. You need to know what that means.
 
 ## Weather in September
 
-**Early September (1st–15th):** Still warm in Tokyo and Kyoto — highs of 28–32°C, with humidity starting to drop from August peaks. Typhoon risk is highest in this period.
+**Early September (1st–15th):** Still warm in Tokyo and [Kyoto](/japan/kyoto-guide) — highs of 28–32°C, with humidity starting to drop from August peaks. Typhoon risk is highest in this period.
 
 **Late September (16th–30th):** The shift is perceptible. Temperatures drop to 22–27°C. The humidity recedes. Clear, dry days start appearing. This is when September becomes genuinely excellent.
 
-**Hokkaido:** Already cooling fast. Sapporo in mid-September: 18–22°C. The first hints of autumn color appear on the mountains around Daisetsuzan by late September.
+**[Hokkaido](/japan/hokkaido-guide):** Already cooling fast. [Sapporo](/japan/sapporo-guide) in mid-September: 18–22°C. The first hints of autumn color appear on the mountains around Daisetsuzan by late September.
 
 ## Typhoon Season: The Real Talk
 
@@ -40,9 +40,9 @@ The probability of a typhoon directly disrupting your specific trip is relativel
 
 ## Why September Is Worth It
 
-**Crowds at annual minimum.** September is the quietest month at major tourist sites outside of Okinawa. Fushimi Inari, Arashiyama, Kinkaku-ji — all at their lowest visitor levels of the year. The experience of these sites in September is incomparably better than April.
+**Crowds at annual minimum.** September is the quietest month at major tourist sites outside of [Okinawa](/japan/okinawa-guide). Fushimi Inari, Arashiyama, Kinkaku-ji — all at their lowest visitor levels of the year. The experience of these sites in September is incomparably better than April.
 
-**Accommodation at low-season prices.** Kyoto in September: ryokan prices near their June lows. Hotels in Tokyo accessible at 20–30% below April pricing.
+**Accommodation at low-season prices.** Kyoto in September: [ryokan](/japan/ryokan-guide) prices near their June lows. Hotels in Tokyo accessible at 20–30% below April pricing.
 
 **Silver Week (mid-September long weekend):** Every year, Respect for the Aged Day (third Monday of September) and Autumnal Equinox Day (around September 23) create a 3–5 day holiday stretch. This is Japan's mid-year domestic travel surge. Avoid major tourist destinations specifically on these dates, or book well ahead.
 
@@ -52,9 +52,9 @@ The probability of a typhoon directly disrupting your specific trip is relativel
 
 **Kyoto:** September is a genuinely excellent time. The Philosopher's Path and Higashiyama old town in the warm September sun, without April crowds. Temple gardens accessible at a walking pace. The afternoon light in late September has a quality the summer doesn't.
 
-**Hiroshima and Miyajima:** September is consistently excellent. The Itsukushima Shrine's floating torii, accessible by low-tide walk in September, is less crowded than summer. The inland sea is calm and scenic.
+**[Hiroshima](/japan/hiroshima-guide) and [Miyajima](/japan/miyajima-guide):** September is consistently excellent. The Itsukushima Shrine's floating torii, accessible by low-tide walk in September, is less crowded than summer. The inland sea is calm and scenic.
 
-**Kumano Kodo Pilgrimage (Wakayama):** The ancient UNESCO-listed pilgrimage trail through mountainous Kii Peninsula is best walked in spring or autumn. Early October is more famous, but late September — after the worst summer heat but before heavy autumn leaf-viewing crowds — is the best-kept window.
+**[Kumano Kodo](/japan/kumano-kodo-guide) Pilgrimage (Wakayama):** The ancient UNESCO-listed pilgrimage trail through mountainous Kii Peninsula is best walked in spring or autumn. Early October is more famous, but late September — after the worst summer heat but before heavy autumn leaf-viewing crowds — is the best-kept window.
 
 **Nikko in late September:** The mountain forests above Nikko begin their color change in late September. The approach road and the area around Chuzenji Lake are beautiful. The main temple complex is always worth it; September lets you actually contemplate it.
 

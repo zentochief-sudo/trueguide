@@ -10,11 +10,11 @@ tags: [Egypt, November, autumn, value, Luxor, Nile cruise, Alexandria, Red Sea]
 city: national
 ---
 
-November is arguably Egypt's single best month for value travel. The oppressive heat is thoroughly gone. The January and February package tour peak hasn't arrived. Temperatures across the country are in the ideal exploration range — warm and sunny with cool evenings. And while October was slightly more pressure-free, November has the advantage of the full winter tourism infrastructure running (boats, guides, sites fully staffed) without the overcrowding.
+November is arguably [Egypt](/egypt)'s single best month for value travel. The oppressive heat is thoroughly gone. The January and February package tour peak hasn't arrived. Temperatures across the country are in the ideal exploration range — warm and sunny with cool evenings. And while October was slightly more pressure-free, November has the advantage of the full winter tourism infrastructure running (boats, guides, sites fully staffed) without the overcrowding.
 
 ## Weather & Conditions
 
-**Cairo:** 16–24°C. Comfortable for extended walking. Evenings cool to 12–14°C; a light jacket is needed after dark.
+**[Cairo](/egypt/cairo-travel-guide):** 16–24°C. Comfortable for extended walking. Evenings cool to 12–14°C; a light jacket is needed after dark.
 
 **Luxor:** 18–28°C. Ideal. The afternoon sun is warm but not punishing. Full-day outdoor exploration is comfortable.
 
@@ -32,7 +32,7 @@ November is arguably Egypt's single best month for value travel. The oppressive 
 
 **Nile dahabiya cruise:** November is the peak window for traditional wooden dahabiya sailboat cruises. These boats carry 8–16 passengers and sail slowly between Luxor and Aswan over 4–8 days, stopping at small villages and lesser-known temples that the large floating hotels bypass. Esna, Edfu, Kom Ombo, and the communities of the Nile Valley are all included. The autumn pace — sun setting over palm trees, warm evenings on deck — is exceptional.
 
-**Cairo walking exploration:** November temperatures make Cairo walkable in ways the summer months simply don't allow. Walk Islamic Cairo from Al-Hussein Mosque through the Khan el-Khalili bazaar to the Citadel, including the Ibn Tulun Mosque and the Gayer-Anderson House (an early 20th-century collector's house that preserves the aesthetic of a wealthy Cairo household). Allow a full day.
+**Cairo walking exploration:** November temperatures make Cairo walkable in ways the summer months simply don't allow. Walk [Islamic Cairo](/egypt/islamic-cairo-guide) from Al-Hussein Mosque through the Khan el-Khalili bazaar to the Citadel, including the Ibn Tulun Mosque and the Gayer-Anderson House (an early 20th-century collector's house that preserves the aesthetic of a wealthy Cairo household). Allow a full day.
 
 **Wadi el-Natrun Coptic Monasteries:** The four desert monasteries of the Natrun Valley are accessible as a day trip from Cairo. November's cool temperatures make the desert drive and monastery walk pleasant. The monasteries remain active religious communities; dress modestly and respect the monastic atmosphere.
 

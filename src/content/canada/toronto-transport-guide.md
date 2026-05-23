@@ -10,7 +10,7 @@ tags: [Toronto, transport, TTC, GO Transit, Union Pearson Express, World Cup 202
 city: toronto
 ---
 
-Toronto's transit network is the most extensive of any Canadian city — the TTC (Toronto Transit Commission) operates the subway, streetcar, and bus network within the city, while GO Transit connects Toronto to the surrounding region. For World Cup visitors, the combination of the TTC for daily movement and the 509 Harbourfront streetcar for BMO Field access covers most practical needs.
+Toronto's transit network is the most extensive of any Canadian city — the TTC (Toronto Transit Commission) operates the subway, streetcar, and bus network within the city, while GO Transit connects Toronto to the surrounding region. For World Cup visitors, the combination of the TTC for daily movement and the 509 Harbourfront streetcar for [BMO Field](/[canada](/canada)/bmo-field-guide) access covers most practical needs.
 
 ---
 

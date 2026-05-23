@@ -16,7 +16,7 @@ The first three weeks of June are quiet, affordable, and perfectly comfortable.
 
 ## Weather in June
 
-**Early June (1st–20th):** Warm and dry. Seoul reaches 23–28°C with low humidity. Comfortable walking weather, some cloud cover, almost no rain. This is the window.
+**Early June (1st–20th):** Warm and dry. [Seoul](/south-korea/seoul-guide) reaches 23–28°C with low humidity. Comfortable walking weather, some cloud cover, almost no rain. This is the window.
 
 **Late June (21st–30th):** Jangma (monsoon season) begins. Seoul gets regular afternoon rain and rising humidity. Still manageable, but umbrella-mandatory.
 

@@ -10,7 +10,7 @@ tags: [Ciudad de México, gastronomía, tacos, mole, mercados, World Cup 2026, r
 city: cdmx
 ---
 
-Mexican cuisine is UNESCO Intangible Cultural Heritage — and Mexico City is where that cuisine is experienced at its greatest diversity. CDMX concentrates the culinary traditions of all 31 states of the country, has markets operating since dawn, and over the last 15 years has developed a fine dining scene that keeps restaurant Pujol consistently among the world's best.
+Mexican cuisine is UNESCO Intangible Cultural Heritage — and [Mexico](/mexico) City is where that cuisine is experienced at its greatest diversity. CDMX concentrates the culinary traditions of all 31 states of the country, has markets operating since dawn, and over the last 15 years has developed a fine dining scene that keeps restaurant Pujol consistently among the world's best.
 
 For World Cup visitors, the food guide to CDMX doesn't start at recognized restaurants — it starts on the street.
 

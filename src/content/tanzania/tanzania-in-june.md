@@ -10,19 +10,19 @@ tags: [Tanzania, June, dry season, Great Migration, Serengeti, Grumeti, Zanzibar
 city: national
 ---
 
-June is when Tanzania's dry season properly begins and the country's safari infrastructure returns to full operation. The long rains have ended. The grass is shortening, concentrating wildlife around permanent water. The Great Migration herd — 1.5 million wildebeest plus hundreds of thousands of zebra — has moved north from the calving grounds and is crossing into the Western Corridor and Grumeti ecosystem. The East Africa safari season is open.
+June is when [Tanzania](/tanzania)'s dry season properly begins and the country's safari infrastructure returns to full operation. The long rains have ended. The grass is shortening, concentrating wildlife around permanent water. The Great Migration herd — 1.5 million wildebeest plus hundreds of thousands of zebra — has moved north from the calving grounds and is crossing into the Western Corridor and Grumeti ecosystem. The East Africa safari season is open.
 
 ## Weather & Conditions
 
 **Serengeti (Western Corridor and Central):** 18–28°C. Dry and clear. Increasingly shorter grass through the month. Excellent wildlife visibility.
 
-**Ngorongoro:** 15–22°C. Cool crater rim mornings. The crater is clear and wildlife-rich.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 15–22°C. Cool crater rim mornings. The crater is clear and wildlife-rich.
 
-**Arusha:** Dry season. Comfortable temperatures. The starting point for most Northern Circuit safaris.
+**[Arusha](/tanzania/arusha-guide):** Dry season. Comfortable temperatures. The starting point for most Northern Circuit safaris.
 
-**Zanzibar:** The southeast monsoon (kusi) is in force. The east coast (Paje, Jambiani) has wind but can be good for kite surfing. The north coast (Nungwi, Kendwa) is calmer. June is a reasonable month for Zanzibar beach.
+**[Zanzibar](/tanzania/zanzibar-guide):** The southeast monsoon (kusi) is in force. The east coast (Paje, Jambiani) has wind but can be good for kite surfing. The north coast (Nungwi, Kendwa) is calmer. June is a reasonable month for Zanzibar beach.
 
-**Mount Kilimanjaro:** June is one of the better months for Kilimanjaro — dry conditions, clear summits. The beginning of the dry season creates good summit weather.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** June is one of the better months for Kilimanjaro — dry conditions, clear summits. The beginning of the dry season creates good summit weather.
 
 ## What to Do
 
@@ -38,7 +38,7 @@ June is when Tanzania's dry season properly begins and the country's safari infr
 
 ## Festivals & Events
 
-**Saba Saba (July 7, but lead-up events in June):** Tanzania's Trade and Industries Fair at the Dar es Salaam International Trade Fair grounds begins late June. A significant national economic event.
+**Saba Saba (July 7, but lead-up events in June):** Tanzania's Trade and Industries Fair at the [Dar es Salaam](/tanzania/dar-es-salaam-guide) International Trade Fair grounds begins late June. A significant national economic event.
 
 **Zanzibar Film Festival (ZIFF, variable June or July):** The Zanzibar International Film Festival is one of East Africa's most important, held in Stonetown with screenings and events across the Old Fort and surrounding venues.
 

@@ -10,7 +10,7 @@ tags: [Ohara, Kyoto, Sanzen-in, Jakkoin, Shorinko, day trip Kyoto, moss garden, 
 city: kyoto
 ---
 
-Ohara (*大原*) sits in a valley between low mountains 25km north of central Kyoto — close enough to reach in an hour, remote enough to feel like a different world. The valley has been a place of Buddhist retreat since the 9th century. Kuuya Shonin taught nembutsu (the invocation of Amida Buddha) here; Jien wrote poetry here; Kenreimon-in, the Heian imperial consort who survived the Genpei War that destroyed her family, spent her final years here at Jakkō-in.
+Ohara (*大原*) sits in a valley between low mountains 25km north of central [Kyoto](/japan/kyoto-guide) — close enough to reach in an hour, remote enough to feel like a different world. The valley has been a place of Buddhist retreat since the 9th century. Kuuya Shonin taught nembutsu (the invocation of Amida Buddha) here; Jien wrote poetry here; Kenreimon-in, the Heian imperial consort who survived the Genpei War that destroyed her family, spent her final years here at Jakkō-in.
 
 The contemporary Ohara is a small agricultural settlement — *shiso* (perilla), vegetables, and the moss gardens under old cedar trees. It is visited heavily in autumn and spring by Kyoto tourists; outside those seasons, it's quiet enough to hear the Takano River running beside the path.
 
@@ -18,7 +18,7 @@ The contemporary Ohara is a small agricultural settlement — *shiso* (perilla),
 
 ## Getting to Ohara
 
-**Kyoto Bus #17 or #18** from Kyoto Station (north exit), or from Sanjo or Demachiyanagi: approximately 1 hour. ¥620. Buses run every 30 minutes; the last return from Ohara is around 6pm (check seasonal schedule). The bus terminal at Ohara is the starting point for the main sites.
+**[Kyoto Bus](/japan/kyoto-bus-guide) #17 or #18** from Kyoto Station (north exit), or from Sanjo or Demachiyanagi: approximately 1 hour. ¥620. Buses run every 30 minutes; the last return from Ohara is around 6pm (check seasonal schedule). The bus terminal at Ohara is the starting point for the main sites.
 
 **No train service**: Ohara is bus-only. The journey from Demachiyanagi Station (Eizan Line terminal, north Kyoto) is approximately 45 minutes on the direct bus.
 
@@ -62,7 +62,7 @@ The walk from Sanzen-in to Jakkō-in takes the visitor through the village prope
 
 ## Seasonal Ohara
 
-**Spring (April–May)**: The fresh green of the moss under new maple leaves; cherry blossom in the rice paddies east of the village. Relatively uncrowded.
+**Spring (April–May)**: The fresh green of the moss under new maple leaves; [cherry blossom](/japan/cherry-blossom-guide) in the rice paddies east of the village. Relatively uncrowded.
 
 **Summer (June–August)**: The moss at its most intense, especially in rain. The valley is markedly cooler than Kyoto city. *Shiso* harvest in August; the purple and green perilla fields are photographically excellent.
 

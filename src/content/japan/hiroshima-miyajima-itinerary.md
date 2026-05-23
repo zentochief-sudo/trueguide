@@ -10,7 +10,7 @@ tags: [Hiroshima, Miyajima, Japan, Peace Memorial, Itsukushima, A-Bomb Dome, iti
 city: hiroshima
 ---
 
-Few places in Japan carry as much historical and emotional weight as Hiroshima. The Peace Memorial Museum is one of the most serious museums you can visit anywhere. And Miyajima, 30 minutes away by ferry, is among the most beautiful sites in the country.
+Few places in Japan carry as much historical and emotional weight as [Hiroshima](/japan/hiroshima-guide). The Peace Memorial Museum is one of the most serious museums you can visit anywhere. And [Miyajima](/japan/miyajima-guide), 30 minutes away by ferry, is among the most beautiful sites in the country.
 
 The combination — historical gravity in the morning, natural beauty in the afternoon — works as a two-day structure that most visitors find more balanced and less exhausting than spending two full days in either location separately.
 
@@ -18,9 +18,9 @@ The combination — historical gravity in the morning, natural beauty in the aft
 
 ## Getting to Hiroshima
 
-**From Osaka or Kyoto**: Shinkansen (Nozomi, not JR Pass covered): Osaka to Hiroshima 50 minutes, ¥8,340; Kyoto to Hiroshima 1 hour, ¥9,350. Shinkansen (Hikari/Sakura, JR Pass covered): Osaka to Hiroshima ~80 minutes.
+**From [Osaka](/japan/osaka-guide) or [Kyoto](/japan/kyoto-guide)**: Shinkansen (Nozomi, not JR Pass covered): Osaka to Hiroshima 50 minutes, ¥8,340; Kyoto to Hiroshima 1 hour, ¥9,350. Shinkansen (Hikari/Sakura, JR Pass covered): Osaka to Hiroshima ~80 minutes.
 
-**From Tokyo**: Nozomi Shinkansen: 4 hours, ¥18,040. Hikari (JR Pass): ~5 hours.
+**From [Tokyo](/japan/tokyo-guide)**: Nozomi Shinkansen: 4 hours, ¥18,040. Hikari (JR Pass): ~5 hours.
 
 The JR Pass consideration: the pass covers all Shinkansen except Nozomi and Mizuho — the fastest services. For Hiroshima specifically, the Hikari and Sakura services run frequently enough that the speed difference is rarely more than 30-40 minutes, making the pass viable for this route.
 
@@ -96,7 +96,7 @@ The island has western shores and mountain paths that see a fraction of the main
 
 **Accommodation**: Stay in Hiroshima for both nights. Reasonable mid-range business hotels near the station (Comfort Hotel Hiroshima, APA Hotel Hiroshima) run ¥8,000-12,000. The Peace Park area hotels (Rihga Royal Hiroshima) are more expensive and convenient for evening walks to the park.
 
-**Alternatively**: Stay one night on Miyajima at a ryokan. The island after day-trippers leave (after 5pm) is dramatically quieter. Iwaso Ryokan (est. 1854) starts around ¥30,000 per person with dinner. Momijiya is slightly less expensive.
+**Alternatively**: Stay one night on Miyajima at a [ryokan](/japan/ryokan-guide). The island after day-trippers leave (after 5pm) is dramatically quieter. Iwaso Ryokan (est. 1854) starts around ¥30,000 per person with dinner. Momijiya is slightly less expensive.
 
 **Transport pass**: An **Hiroshima Wide Area Pass** (¥7,000, 3 days) covers all JR trains, the Hiroshima tram, ferry to Miyajima, and some bus routes. Efficient for the full two-day circuit.
 
@@ -104,6 +104,6 @@ The island has western shores and mountain paths that see a fraction of the main
 
 ## Extending the Trip
 
-**Onomichi** (45 minutes east by JR): A hill town with a cable car, a temple walk, and a waterfront that has been photographed by Japanese directors (Ozu, Oshima) and used as anime settings. Quieter and more personal than Hiroshima or Miyajima; worth a half-day addition.
+**[Onomichi](/japan/onomichi-guide)** (45 minutes east by JR): A hill town with a cable car, a temple walk, and a waterfront that has been photographed by Japanese directors (Ozu, Oshima) and used as anime settings. Quieter and more personal than Hiroshima or Miyajima; worth a half-day addition.
 
-**Shimanami Kaido**: The cycling route from Onomichi to Shikoku across six islands via the Seto Inland Sea bridges. Japan's most famous cycling road. Rentals available in Onomichi.
+**[Shimanami Kaido](/japan/shimanami-kaido-guide)**: The cycling route from Onomichi to Shikoku across six islands via the Seto Inland Sea bridges. Japan's most famous cycling road. Rentals available in Onomichi.

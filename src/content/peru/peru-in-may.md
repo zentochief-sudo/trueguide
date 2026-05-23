@@ -10,19 +10,19 @@ tags: [Peru, May, dry season, Inca Trail, Machu Picchu, pre-peak, shoulder seaso
 city: national
 ---
 
-May is the final quiet month before Peru's tourism peak. The dry season is established — clear blue skies over the Andes, Machu Picchu visible in morning sun, and the Inca Trail dry and accessible. Tourist numbers are building but haven't yet reached the June–August peak. Prices are still at pre-peak levels. May is the last month to experience Peru's iconic destinations with relative calm before the high season engages.
+May is the final quiet month before [Peru](/peru)'s tourism peak. The dry season is established — clear blue skies over the Andes, [Machu Picchu](/peru/machu-picchu-guide) visible in morning sun, and the Inca Trail dry and accessible. Tourist numbers are building but haven't yet reached the June–August peak. Prices are still at pre-peak levels. May is the last month to experience Peru's iconic destinations with relative calm before the high season engages.
 
 ## Weather & Conditions
 
-**Cusco and the Sacred Valley:** 8–20°C. Dry and clear. Cold nights (below 5°C) require warm layers. Days are warm and sunny.
+**[Cusco](/peru/cusco-guide) and the [Sacred Valley](/peru/sacred-valley-guide):** 8–20°C. Dry and clear. Cold nights (below 5°C) require warm layers. Days are warm and sunny.
 
 **Machu Picchu:** 12–22°C. Clear mornings are the norm. The Sun Gate (Inti Punku) view of the citadel at sunrise is one of Peru's iconic images — best achieved on the Inca Trail or the 2-day Inca Trail option.
 
-**Lima:** 18–22°C. The coast begins to clear as autumn arrives. Lima's museum circuit (Larco Museum, MALI) is excellent.
+**[Lima](/peru/lima-guide):** 18–22°C. The coast begins to clear as autumn arrives. Lima's museum circuit (Larco Museum, MALI) is excellent.
 
-**Amazon:** Water levels receding toward the dry season. Wildlife concentrates around remaining water sources.
+**[Amazon](/peru/amazon-guide):** Water levels receding toward the dry season. Wildlife concentrates around remaining water sources.
 
-**Puno (Lake Titicaca):** 6–16°C. Cool and dry. The lake is calm and clear.
+**Puno ([Lake Titicaca](/peru/lake-titicaca-guide)):** 6–16°C. Cool and dry. The lake is calm and clear.
 
 **Paracas / Nazca:** Dry year-round. May is excellent for the coast.
 
@@ -34,7 +34,7 @@ May is the final quiet month before Peru's tourism peak. The dry season is estab
 
 **Machu Picchu early mornings:** May's clear skies make the Machu Picchu morning window extraordinary. The first bus from Aguas Calientes arrives at 5:30am; the first circuit entry is 6am. The citadel in early morning mist-free clarity, before the day's tourists arrive, is the optimal experience. Combine with Huayna Picchu mountain climb (limited permits, book separately at ticket purchase) for views down into the citadel.
 
-**Nazca Lines overflight:** The Nazca geoglyphs — enormous figures drawn into the desert floor by the pre-Inca Nazca culture — are only comprehensible from the air. 30-minute overflight tours from Nasca's aerodrome depart throughout the day. May's dry, clear conditions are ideal. The panamerican highway town of Nasca is accessible by bus from Lima (8 hours) or by small plane.
+**[Nazca Lines](/peru/nazca-lines-guide) overflight:** The Nazca geoglyphs — enormous figures drawn into the desert floor by the pre-Inca Nazca culture — are only comprehensible from the air. 30-minute overflight tours from Nasca's aerodrome depart throughout the day. May's dry, clear conditions are ideal. The panamerican highway town of Nasca is accessible by bus from Lima (8 hours) or by small plane.
 
 **Cusco city:** The city at 3,400m is excellent in May. The Cathedral on the main Plaza de Armas, the Qorikancha (Inca Sun Temple, with a colonial Dominican church built on its foundations), the San Blas artisan quarter, and the Mercado San Pedro are all accessible. Cusco's restaurant scene has developed significantly — Cicciolina, Chicha, and MAP Café are consistently excellent.
 

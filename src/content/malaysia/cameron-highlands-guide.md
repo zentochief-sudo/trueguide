@@ -12,7 +12,7 @@ city: kuala-lumpur
 
 Cameron Highlands sits at 1,500–1,800 meters in the Titiwangsa mountain range — the main spine of the Malaysian Peninsula — and was developed as a British hill station in the 1920s and 30s. The British colonial planners brought tea cultivation to the highlands, and the landscape is now dominated by the geometric green terracing of working tea estates. The temperature drops to 15–25°C at elevation; the perpetual mist and cool air represent a genuinely different climate from the lowland Malaysian heat.
 
-It is one of Malaysia's most popular domestic destinations — weekend traffic from KL can be heavy. Midweek in the dry season (February–April) offers the best combination of clear weather and manageable crowds.
+It is one of [Malaysia](/malaysia)'s most popular domestic destinations — weekend traffic from KL can be heavy. Midweek in the dry season (February–April) offers the best combination of clear weather and manageable crowds.
 
 ---
 
@@ -68,9 +68,9 @@ The highlands also produce most of Malaysia's temperate vegetables — Chinese c
 
 ## Getting There
 
-**From Kuala Lumpur**: Bus from TBS (Terminal Bersepadu Selatan) — 4 hours to Tanah Rata, multiple operators (Transnasional, Unititi Express), RM25–40. No train to Cameron Highlands; nearest rail is Ipoh, then connecting bus.
+**From [Kuala Lumpur](/malaysia/kuala-lumpur-guide)**: Bus from TBS (Terminal Bersepadu Selatan) — 4 hours to Tanah Rata, multiple operators (Transnasional, Unititi Express), RM25–40. No train to Cameron Highlands; nearest rail is Ipoh, then connecting bus.
 
-**From Penang**: Bus from Butterworth or Penang Sentral to Tanah Rata — 3.5 hours, RM25–35. Direct services several times daily.
+**From [Penang](/malaysia/penang-travel-guide)**: Bus from Butterworth or Penang Sentral to Tanah Rata — 3.5 hours, RM25–35. Direct services several times daily.
 
 **By car**: 200 km from KL (3 hours) via Simpang Pulai or Tapah. The mountain road from Tapah has hairpin sections; standard vehicle handles it fine.
 

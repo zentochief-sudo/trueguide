@@ -10,11 +10,11 @@ tags: [Ring of Kerry, Ireland, Killarney, Kerry, driving route, Skellig Michael,
 city: killarney
 ---
 
-The Ring of Kerry is a 179 km loop road circling the Iveragh Peninsula in County Kerry — Ireland's most driven scenic route, and one of the most impressive in Europe when the weather cooperates. The combination of Atlantic coast, mountain passes, medieval ruins, and the most westerly point of mainland Europe creates a route that rewards a full day's unhurried driving.
+The Ring of Kerry is a 179 km loop road circling the Iveragh Peninsula in County Kerry — [Ireland](/ireland)'s most driven scenic route, and one of the most impressive in Europe when the weather cooperates. The combination of Atlantic coast, mountain passes, medieval ruins, and the most westerly point of mainland Europe creates a route that rewards a full day's unhurried driving.
 
 **The clockwise rule**: Tour buses are instructed to drive counterclockwise (starting at Kenmare and heading west). Driving clockwise (starting at Killorglin, heading southwest) keeps you going in the opposite direction from the buses on the narrow sections, making passing much easier.
 
-**Timing**: Start from Killarney by 8:30–9 AM to complete the full circuit (including stops) without rushing, returning by 7–8 PM.
+**Timing**: Start from [Killarney](/ireland/killarney-travel-guide) by 8:30–9 AM to complete the full circuit (including stops) without rushing, returning by 7–8 PM.
 
 ---
 

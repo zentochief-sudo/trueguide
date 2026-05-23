@@ -50,7 +50,7 @@ The two Trianon palaces are 15 minutes on foot (or golf cart, rented at the Gran
 
 ## Getting There
 
-**RER C** from Paris (Gare d'Austerlitz, Saint-Michel, Musée d'Orsay, Invalides, Pont de l'Alma) to **Versailles Château-Rive Gauche** — 35–45 minutes, €7.50 return. The station is a 5-minute walk from the palace entrance.
+**RER C** from [Paris](/france/paris-travel-guide) (Gare d'Austerlitz, Saint-Michel, Musée d'Orsay, Invalides, Pont de l'Alma) to **Versailles Château-Rive Gauche** — 35–45 minutes, €7.50 return. The station is a 5-minute walk from the palace entrance.
 
 **By car**: 20 km from Paris, 30–45 minutes. Large parking areas adjacent to the palace (€6/day).
 

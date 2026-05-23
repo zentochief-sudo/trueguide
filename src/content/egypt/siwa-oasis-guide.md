@@ -10,9 +10,9 @@ tags: [Siwa, oasis, Egypt, Sahara, Alexander the Great, desert, Berber]
 city: cairo
 ---
 
-Siwa Oasis sits 740 km west of Cairo in the Libyan Desert, 50 km from the Libyan border — one of the most remote inhabited places in North Africa, accessible only by a desert highway that crosses 560 km of empty plateau. The oasis itself is 80 km long, sitting in a depression 18 meters below sea level, fed by hundreds of freshwater springs.
+Siwa Oasis sits 740 km west of [Cairo](/egypt/cairo-travel-guide) in the Libyan Desert, 50 km from the Libyan border — one of the most remote inhabited places in North Africa, accessible only by a desert highway that crosses 560 km of empty plateau. The oasis itself is 80 km long, sitting in a depression 18 meters below sea level, fed by hundreds of freshwater springs.
 
-Siwa is worth the journey for three reasons: the Oracle Temple where Alexander the Great received confirmation of his divine status in 331 BC; the otherworldly landscape of salt lakes, sand dunes, and date palm groves that looks unlike anywhere else in Egypt; and the Siwan Amazigh (Berber) culture — a distinct people with their own language, architecture, and traditions separate from Arab Egyptian culture.
+Siwa is worth the journey for three reasons: the Oracle Temple where Alexander the Great received confirmation of his divine status in 331 BC; the otherworldly landscape of salt lakes, sand dunes, and date palm groves that looks unlike anywhere else in [Egypt](/egypt); and the Siwan Amazigh (Berber) culture — a distinct people with their own language, architecture, and traditions separate from Arab Egyptian culture.
 
 The trip requires minimum 2–3 nights to justify the distance.
 
@@ -23,7 +23,7 @@ The trip requires minimum 2–3 nights to justify the distance.
 ### Overnight Bus from Cairo
 The most affordable option — **West Delta Bus Co.** (and other operators) runs overnight buses from Cairo to Siwa.
 
-- Departure: ~10 PM from Cairo (terminal behind the Egyptian Museum)
+- Departure: ~10 PM from Cairo (terminal behind the [Egyptian Museum](/egypt/egyptian-museum-guide))
 - Arrival: ~7–8 AM in Siwa
 - Duration: 9–10 hours
 - Price: ~$15–20 USD one-way

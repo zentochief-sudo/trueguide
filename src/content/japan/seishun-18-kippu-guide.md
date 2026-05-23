@@ -21,7 +21,7 @@ The math: ¥12,050 ÷ 5 days = ¥2,410 per day of unlimited JR local train trave
 **Included**:
 - All JR local trains (*futsu*) nationwide
 - JR rapid trains (*kaisoku*)
-- JR ferry services (Miyajima ferry, Seikan tunnel ferry alternative)
+- JR ferry services ([Miyajima](/japan/miyajima-guide) ferry, Seikan tunnel ferry alternative)
 - Some JR buses (limited routes)
 
 **Not included**:
@@ -74,7 +74,7 @@ The ticket is a single paper document with 5 spaces that get stamped or signed a
 
 This is the classic 18 Kippu demonstration journey. Total travel time: approximately 8 hours 30 minutes.
 
-**Route**: Tokyo Station → Atami (JR Tokaido Line) → Shizuoka (Tokaido) → Hamamatsu (Tokaido) → Toyohashi (Tokaido) → Nagoya (Tokaido) → Maibara (Tokaido) → Kyoto
+**Route**: Tokyo Station → Atami (JR Tokaido Line) → Shizuoka (Tokaido) → Hamamatsu (Tokaido) → Toyohashi (Tokaido) → [Nagoya](/japan/nagoya-guide) (Tokaido) → Maibara (Tokaido) → Kyoto
 
 **Notes**: You'll need to change trains 3–5 times. The connections are planned — Google Maps and Hyperdia show the local train connections with exact platforms and wait times. Platform waits are typically 10–30 minutes.
 
@@ -84,15 +84,15 @@ This is the classic 18 Kippu demonstration journey. Total travel time: approxima
 
 ## Best Routes for 18 Kippu
 
-**Tokyo to Matsumoto** (Chuo Line): 3–4 hours through the Kanto mountains and into the Japanese Alps. The Chuo Line passes through dramatic valley scenery and arrives at the castle town of Matsumoto (which connects to Takayama by direct JR bus, not covered).
+**Tokyo to Matsumoto** (Chuo Line): 3–4 hours through the Kanto mountains and into the Japanese Alps. The Chuo Line passes through dramatic valley scenery and arrives at the castle town of Matsumoto (which connects to [Takayama](/japan/takayama-guide) by direct JR bus, not covered).
 
-**Osaka to Hiroshima** (San'yo Line coastal route): 3 hours along the Seto Inland Sea coast, through Himeji (castle visible from the train), Okayama, and into Hiroshima. Views of the inland sea between Onomichi and Mihara.
+**Osaka to [Hiroshima](/japan/hiroshima-guide)** (San'yo Line coastal route): 3 hours along the Seto Inland Sea coast, through [Himeji](/japan/himeji-guide) (castle visible from the train), Okayama, and into Hiroshima. Views of the inland sea between [Onomichi](/japan/onomichi-guide) and Mihara.
 
 **Hiroshima to Shimonoseki** (San'yo Line western end): Follows the coast along the Seto Sea toward Kyushu. The Kanmon Strait crossing to Mojiko (Kyushu) involves the JR ferry (also covered by 18 Kippu).
 
 **Osaka to Kinosaki Onsen** (Sanin Line): 2 hours 30 minutes north through Kyoto and into the Tango Peninsula to reach Kinosaki — the classic small onsen town with seven public bathhouses on a canal.
 
-**Toyama to Kanazawa to Kyoto** (Hokuriku Line): Along the Sea of Japan coast; connects the Toyama/Tateyama area back to Kyoto via Kanazawa. 3 hours. This particular route connects well with the Tateyama-Kurobe Alpine Route (buses not covered by 18 Kippu but the rail sections are).
+**Toyama to [Kanazawa](/japan/kanazawa-guide) to Kyoto** (Hokuriku Line): Along the Sea of Japan coast; connects the Toyama/Tateyama area back to Kyoto via Kanazawa. 3 hours. This particular route connects well with the Tateyama-Kurobe Alpine Route (buses not covered by 18 Kippu but the rail sections are).
 
 ---
 
@@ -115,7 +115,7 @@ The 18 Kippu can be shared between multiple people on the same day, using one st
 The 18 Kippu doesn't make sense for every itinerary:
 
 - **If you're short on time**: An 8-hour local train journey versus a 2.5-hour Shinkansen is only worthwhile if you have days to spend
-- **If your route requires express trains**: Some regions (Hokkaido, rural Shikoku) have poor local train coverage; the Shinkansen or limited express is the practical option
+- **If your route requires express trains**: Some regions ([Hokkaido](/japan/hokkaido-guide), rural Shikoku) have poor local train coverage; the Shinkansen or limited express is the practical option
 - **If you're routing through Hokkaido**: Local train coverage in Hokkaido is sparse and services have been cut significantly. Many Hokkaido routes that existed in 2010 no longer run.
 
 **When it makes perfect sense**: Budget travel across Honshu during summer or spring with time to spare; rural branch line exploration; anyone who wants to see the country at local train pace rather than Shinkansen pace.

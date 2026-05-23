@@ -10,7 +10,7 @@ tags: [Pakistan, July, Shandur polo, K2, monsoon, Karakoram, Gilgit-Baltistan]
 city: national
 ---
 
-July is Pakistan's peak mountain month and the month of its most extraordinary sporting event. The Shandur Polo Festival at the world's highest polo ground brings thousands of spectators to a remote Himalayan plain at 3,700m. K2's climbing season reaches its intensity. The Baltoro Glacier and Concordia are at their most accessible. Meanwhile, in the south, the monsoon arrives in Sindh and parts of Punjab.
+July is [Pakistan](/pakistan)'s peak mountain month and the month of its most extraordinary sporting event. The Shandur Polo Festival at the world's highest polo ground brings thousands of spectators to a remote Himalayan plain at 3,700m. K2's climbing season reaches its intensity. The Baltoro Glacier and Concordia are at their most accessible. Meanwhile, in the south, the monsoon arrives in Sindh and parts of Punjab.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ July is Pakistan's peak mountain month and the month of its most extraordinary s
 
 **Shandur Pass:** 8–18°C. Cold nights but warm days at 3,700m altitude.
 
-**Lahore and Punjab:** 34–40°C with increasing monsoon humidity. Hot and wet by second half of July.
+**[Lahore](/pakistan/lahore-guide) and Punjab:** 34–40°C with increasing monsoon humidity. Hot and wet by second half of July.
 
 **Karachi:** 28–34°C with monsoon. Rain is heavy — July is Karachi's wettest month.
 
-**Islamabad:** 26–35°C with some monsoon rain. Hot.
+**[Islamabad](/pakistan/islamabad-guide):** 26–35°C with some monsoon rain. Hot.
 
 ## What to Do
 

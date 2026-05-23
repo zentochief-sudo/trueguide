@@ -18,7 +18,7 @@ Toronto is the most expensive of the three Canadian World Cup host cities — si
 
 Accommodation is the primary cost variable in Toronto. Match days will drive hotel prices significantly above baseline.
 
-**Budget (hostels/Airbnb rooms)**: $60–100 CAD/night. Limited hostel inventory; Airbnb private rooms in neighborhoods like the Annex, Kensington Market, and Little Italy offer the best value. Shared accommodations available from $40–55 CAD/night.
+**Budget (hostels/Airbnb rooms)**: $60–100 CAD/night. Limited hostel inventory; Airbnb private rooms in neighborhoods like the Annex, Kensington Market, and Little [Italy](/italy) offer the best value. Shared accommodations available from $40–55 CAD/night.
 
 **Mid-range (hotels/Airbnb entire units)**: $180–300 CAD/night for a hotel room; $130–220 CAD/night for an Airbnb entire apartment. The spread between Airbnb and hotel narrows during World Cup match weeks due to demand.
 
@@ -42,7 +42,7 @@ Transit in Toronto is affordable relative to the city's accommodation costs.
 | PRESTO day pass | $13.50 CAD |
 | PRESTO weekly pass | ~$43 CAD |
 | Airport (UPX from Pearson) | $12.35 CAD each way |
-| BMO Field (509 streetcar from Union) | $3.30 CAD each way |
+| [BMO Field](/[canada](/canada)/bmo-field-guide) (509 streetcar from Union) | $3.30 CAD each way |
 | GO Transit match day train (Union–Exhibition) | $3–5 CAD each way |
 
 **7-day transit estimate**: $45–80 CAD (PRESTO weekly pass plus airport transfers)

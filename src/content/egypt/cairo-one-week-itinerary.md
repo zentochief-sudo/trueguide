@@ -10,7 +10,7 @@ tags: [Cairo, itinerary, one week, Egypt, travel planning, Pyramids, GEM]
 city: cairo
 ---
 
-Seven days in Cairo is the right amount of time — enough to cover the major sites without rushing, with space for a day trip to Alexandria and some decompression time in Zamalek. The itinerary below is organized to front-load the most demanding days (Pyramids + GEM) when energy is highest, and to mix intense historic sites with neighborhood exploration.
+Seven days in [Cairo](/egypt/cairo-travel-guide) is the right amount of time — enough to cover the major sites without rushing, with space for a day trip to Alexandria and some decompression time in Zamalek. The itinerary below is organized to front-load the most demanding days (Pyramids + GEM) when energy is highest, and to mix intense historic sites with neighborhood exploration.
 
 **Base**: Zamalek provides the best combination of restaurant access, Nile views, and central position for Uber travel. Downtown near Tahrir is the budget-conscious alternative with Metro access.
 
@@ -34,7 +34,7 @@ The biggest day — book GEM tickets at **tickets.gem.eg** well in advance (sele
 
 **7:30 AM**: Uber from Zamalek to GEM (~40 minutes, 150–200 EGP).
 
-**9:00 AM – 12:30 PM**: Grand Egyptian Museum — start with the Tutankhamun galleries (2 hours minimum), then the Solar Boat, then the main collection halls. Have lunch at the GEM's internal café.
+**9:00 AM – 12:30 PM**: [Grand Egyptian Museum](/[egypt](/egypt)/grand-egyptian-museum-guide) — start with the Tutankhamun galleries (2 hours minimum), then the Solar Boat, then the main collection halls. Have lunch at the GEM's internal café.
 
 **1:30 PM**: Uber from GEM to Giza Plateau (~10 minutes, 30–50 EGP).
 
@@ -68,11 +68,11 @@ The biggest day — book GEM tickets at **tickets.gem.eg** well in advance (sele
 
 **9:00 AM**: Metro from Sadat Station (Tahrir) to Mar Girgis Station (Line 1, ~15 minutes, 8–10 EGP).
 
-**9:30 AM – 12:30 PM**: Coptic Cairo — Hanging Church, Church of Abu Serga, Ben Ezra Synagogue, Coptic Museum. The full neighborhood takes 3–3.5 hours.
+**9:30 AM – 12:30 PM**: [Coptic Cairo](/egypt/coptic-cairo-guide) — Hanging Church, Church of Abu Serga, Ben Ezra Synagogue, Coptic Museum. The full neighborhood takes 3–3.5 hours.
 
 **1:00 PM**: Uber or Metro back to Tahrir. Lunch at Koshary Abou Tarek (10-minute walk from Tahrir) — your first proper koshari.
 
-**2:30 – 5:30 PM**: Egyptian Museum (Tahrir Square) — the 1902 building with 120,000 artifacts. Priority: the monumental statuary rooms, the late-period jewelry, and whatever Tutankhamun items remain after the GEM transfer.
+**2:30 – 5:30 PM**: [Egyptian Museum](/egypt/egyptian-museum-guide) (Tahrir Square) — the 1902 building with 120,000 artifacts. Priority: the monumental statuary rooms, the late-period jewelry, and whatever Tutankhamun items remain after the GEM transfer.
 
 **Evening**: Felucca ride from the Zamalek Corniche at sunset (200–400 EGP for the boat). Dinner at Sequoia (Nile-side terrace, reserve in advance).
 
@@ -128,6 +128,6 @@ Depending on flight time:
 - Felucca: walk-in, no booking needed.
 - Abou El Sid and Sequoia: call or book online 1–2 days ahead for dinner.
 
-**What this itinerary omits**: Siwa Oasis (requires 3+ days minimum from Cairo), Luxor and Aswan (require 3+ days). These are worth additional time if your schedule allows.
+**What this itinerary omits**: [Siwa Oasis](/egypt/siwa-oasis-guide) (requires 3+ days minimum from Cairo), Luxor and Aswan (require 3+ days). These are worth additional time if your schedule allows.
 
-**Energy management**: Days 2 (GEM + Pyramids) and 3 (full Islamic Cairo) are the most physically demanding. Day 6 is deliberately lighter — use it to recover.
+**Energy management**: Days 2 (GEM + Pyramids) and 3 (full [Islamic Cairo](/egypt/islamic-cairo-guide)) are the most physically demanding. Day 6 is deliberately lighter — use it to recover.

@@ -10,7 +10,7 @@ destinations: [canada, usa]
 tags: [FIFA World Cup 2026, Canada, USA, soccer, World Cup travel, North America]
 ---
 
-The 2026 FIFA World Cup is the largest in the tournament's history — 48 teams, 104 matches, 16 host cities across the United States, Canada, and Mexico. If you're planning a trip around the matches, the first question isn't which games to see. It's which country to base yourself in.
+The 2026 FIFA World Cup is the largest in the tournament's history — 48 teams, 104 matches, 16 host cities across the United States, [Canada](/canada), and [Mexico](/mexico). If you're planning a trip around the matches, the first question isn't which games to see. It's which country to base yourself in.
 
 This guide focuses on Canada vs USA as host destinations — the cities, the fan experience, the logistics, and why each is worth visiting beyond the football itself.
 
@@ -49,7 +49,7 @@ What to do beyond the matches: kayaking in Indian Arm, day trips to Whistler (2 
 
 ### Toronto
 
-Toronto is the most underrated major city in North America among international travelers. It's diverse in a way that's structural rather than performative — over 200 languages spoken, every cuisine on earth available at restaurant quality, neighborhoods (Kensington Market, Little Portugal, Greektown, the Junction) that feel like distinct cities within the city.
+Toronto is the most underrated major city in North America among international travelers. It's diverse in a way that's structural rather than performative — over 200 languages spoken, every cuisine on earth available at restaurant quality, neighborhoods (Kensington Market, Little [Portugal](/portugal), Greektown, the Junction) that feel like distinct cities within the city.
 
 BMO Field is in Exhibition Place, accessible by streetcar from downtown. The capacity expansion for 2026 means the stadium experience will be better than the club version.
 

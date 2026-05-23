@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-France is one of the world's most diverse countries geographically and climatically. Paris gets its own seasons. Provence bakes in summer. The Alps fill with snow in winter. The Loire Valley blooms in spring. Choosing when to go depends entirely on what France you're after.
+[France](/france) is one of the world's most diverse countries geographically and climatically. [Paris](/france/paris-travel-guide) gets its own seasons. [Provence](/france/provence-guide) bakes in summer. The Alps fill with snow in winter. The [Loire Valley](/france/loire-valley-guide) blooms in spring. Choosing when to go depends entirely on what France you're after.
 
 ## The Short Answer
 
@@ -29,7 +29,7 @@ France is one of the world's most diverse countries geographically and climatica
 Cold in Paris (3–8°C) and the north. The Alps are in full ski season — Chamonix, Courchevel, Méribel. The Côte d'Azur is mild (10–14°C) and almost empty. Museums and restaurants in Paris have no queues. Hotel prices at their lowest.
 
 ### March & April
-Spring arrives. Paris in April is genuinely wonderful — the city is at its most beautiful with cherry blossoms and light. Easter can bring some closures. Temperatures 10–17°C. Normandy's Calvados orchards bloom in April. Provence warms up. The Loire Valley is magical in early spring.
+Spring arrives. Paris in April is genuinely wonderful — the city is at its most beautiful with cherry blossoms and light. Easter can bring some closures. Temperatures 10–17°C. [Normandy](/france/normandy-guide)'s Calvados orchards bloom in April. Provence warms up. The Loire Valley is magical in early spring.
 
 ### May ⭐ Excellent
 One of the best months for France. Warm (18–23°C in Paris), wildflowers across Provence, the Riviera pleasant without crowds, and Paris at its most lively. The **Cannes Film Festival** (usually mid-May) makes the Riviera buzz. Multiple public holidays.
@@ -43,7 +43,7 @@ France's summer. The Riviera is packed (and gloriously hedonistic). Brittany and
 The **Tour de France** takes place in late June–July. The **Bastille Day** celebrations (14 July) across France — fireworks, military parade on the Champs-Élysées — are spectacular.
 
 ### September ⭐ Best month
-Summer crowds retreat, the weather remains excellent (21–26°C in the south, 15–20°C in Paris). Grape harvest across Burgundy, Bordeaux, and Alsace. Paris wakes up in September — fashion week (late September), cultural openings, and the city at its most alive. Highly recommended.
+Summer crowds retreat, the weather remains excellent (21–26°C in the south, 15–20°C in Paris). Grape harvest across Burgundy, [Bordeaux](/france/bordeaux-guide), and [Alsace](/france/alsace-guide). Paris wakes up in September — fashion week (late September), cultural openings, and the city at its most alive. Highly recommended.
 
 ### October
 Autumn colours are superb — particularly in Alsace (vineyards + half-timbered villages), the Loire Valley, and the Dordogne. Temperatures dropping but still comfortable in the south. Truffle season in Périgord.

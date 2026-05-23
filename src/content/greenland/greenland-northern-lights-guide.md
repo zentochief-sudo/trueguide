@@ -10,7 +10,7 @@ tags: [northern lights, aurora borealis, Greenland, Nuuk, Ilulissat, winter, Kan
 city: nuuk
 ---
 
-Greenland sits directly within the **auroral oval** — the ring-shaped zone around the magnetic poles where the northern lights (aurora borealis) are most frequently and most intensely visible. On a clear night between September and March with adequate solar activity, the aurora is not a distant shimmer on the horizon but an overhead phenomenon: green curtains rippling across the entire sky, sometimes with red, purple, and white bands moving faster than seems possible.
+[Greenland](/greenland) sits directly within the **auroral oval** — the ring-shaped zone around the magnetic poles where the northern lights (aurora borealis) are most frequently and most intensely visible. On a clear night between September and March with adequate solar activity, the aurora is not a distant shimmer on the horizon but an overhead phenomenon: green curtains rippling across the entire sky, sometimes with red, purple, and white bands moving faster than seems possible.
 
 This is one of the top three northern lights destinations in the world, alongside northern Norway and Iceland — but with far fewer visitors and significantly more dramatic surrounding landscapes.
 
@@ -27,7 +27,7 @@ This is one of the top three northern lights destinations in the world, alongsid
 
 **September**: First dark nights after the midnight sun season. Temperatures still manageable (-5 to +5°C at night). Fjords may still have some iceberg fragments.
 
-**January–February**: Coldest period but reliably dark (18+ hours of darkness per day). The aurora is overhead and vivid. Dog sledding season.
+**January–February**: Coldest period but reliably dark (18+ hours of darkness per day). The aurora is overhead and vivid. [Dog sledding](/greenland/dog-sledding-guide) season.
 
 ---
 
@@ -38,7 +38,7 @@ The inland airport town (former US military base) 25 km from the edge of the Gre
 
 **The Ice Sheet viewpoint**: A 25 km drive from Kangerlussuaq brings you to the edge of the Ice Sheet — a 1,700 km wide frozen plateau. Watching the aurora from the Ice Sheet edge, with the vast white plain lit green overhead, is a genuinely extraordinary experience.
 
-Kangerlussuaq is accessible by Air Greenland from Copenhagen (often as a connecting hub for onward Nuuk flights).
+Kangerlussuaq is accessible by Air Greenland from Copenhagen (often as a connecting hub for onward [Nuuk](/greenland/nuuk-travel-guide) flights).
 
 ### Nuuk and the Nuuk Fjord
 Greenland's capital has good aurora visibility on clear nights. The harbor area, hillsides above the city, and the fjord viewpoints all offer dark skies within 15–20 minutes of the town center.
@@ -46,7 +46,7 @@ Greenland's capital has good aurora visibility on clear nights. The harbor area,
 **Advantage**: Combines aurora watching with cultural activities, restaurants, and the National Museum. A boat trip to the outer fjord on a clear evening puts you completely outside the city's light cone.
 
 ### Ilulissat (Disco Bay)
-The village of 4,500 people north of the Arctic Circle, famous for the **Ilulissat Icefjord** — a UNESCO World Heritage Site where the Sermeq Kujalleq glacier calves icebergs into the fjord at the fastest rate of any glacier in the Northern Hemisphere. Watching the aurora reflect in the dark water around huge blue-white icebergs is the definitive Greenland image.
+The village of 4,500 people north of the Arctic Circle, famous for the **[Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide)** — a UNESCO World Heritage Site where the Sermeq Kujalleq glacier calves icebergs into the fjord at the fastest rate of any glacier in the Northern Hemisphere. Watching the aurora reflect in the dark water around huge blue-white icebergs is the definitive Greenland image.
 
 Access: Air Greenland from Nuuk (1 hour) or Kangerlussuaq.
 

@@ -10,9 +10,9 @@ tags: [Nagoya, Japan, Ghibli Park, Nagoya Castle, food, miso katsu, hitsumabushi
 city: national
 ---
 
-Nagoya is the capital of Aichi Prefecture, home to Toyota's global headquarters, and the city most Japanese people don't think of as a travel destination until they've been. International visitors almost entirely skip it — it sits between Osaka and Tokyo on the Shinkansen line, which means it gets passed through rather than stopped at.
+Nagoya is the capital of Aichi Prefecture, home to Toyota's global headquarters, and the city most Japanese people don't think of as a travel destination until they've been. International visitors almost entirely skip it — it sits between [Osaka](/japan/osaka-guide) and [Tokyo](/japan/tokyo-guide) on the Shinkansen line, which means it gets passed through rather than stopped at.
 
-This is a mistake. Nagoya has a castle with original 17th-century donjon towers (Kyoto's were destroyed; Osaka's and Tokyo's are modern concrete reconstructions), a genuinely distinct food culture, excellent day trip access to the surrounding region, and since 2022, the only Ghibli Park in existence.
+This is a mistake. Nagoya has a castle with original 17th-century donjon towers ([Kyoto](/japan/kyoto-guide)'s were destroyed; Osaka's and Tokyo's are modern concrete reconstructions), a genuinely distinct food culture, excellent day trip access to the surrounding region, and since 2022, the only Ghibli Park in existence.
 
 One to two days. Easily combined with Kyoto (35 minutes) or Tokyo (90 minutes) on the Shinkansen.
 
@@ -22,7 +22,7 @@ One to two days. Easily combined with Kyoto (35 minutes) or Tokyo (90 minutes) o
 
 **From Tokyo**: 1 hour 40 minutes by Shinkansen Nozomi (¥11,090). JR Pass valid.
 **From Osaka/Kyoto**: 50 minutes from Shin-Osaka, 35 minutes from Kyoto (¥6,680). JR Pass valid.
-**From Kanazawa**: 2 hours by Thunderbird + transfer or by highway bus.
+**From [Kanazawa](/japan/kanazawa-guide)**: 2 hours by Thunderbird + transfer or by highway bus.
 
 Nagoya Station is a major transport hub — the Shinkansen, JR lines, Meitetsu private railway, Kintetsu lines, and the city subway all converge here.
 
@@ -42,7 +42,7 @@ Admission ¥500. Open 9am–4:30pm.
 
 ## Nagoya Food Culture
 
-Nagoya has the most distinct regional food culture of any Japanese city outside Osaka and Fukuoka — and it is almost entirely unknown internationally.
+Nagoya has the most distinct regional food culture of any Japanese city outside Osaka and [Fukuoka](/japan/fukuoka-guide) — and it is almost entirely unknown internationally.
 
 The through-line is **red miso** (hatcho miso): fermented soybean paste aged for three years minimum in large cedar vats in Okazaki (30 minutes from Nagoya). It is darker, richer, and more intensely savory than the lighter miso used in Tokyo or Kyoto.
 
@@ -90,7 +90,7 @@ This is the only Ghibli Park in the world, and it operates on a fundamentally di
 
 **Okazaki**: 30 minutes east by Meitetsu or JR. The birthplace of Tokugawa Ieyasu and home to the Hatcho Miso brewery, where the miso aging vats (each holding 6 tons) can be toured. The tour is free and the tasting at the end explains why Nagoya food tastes the way it does.
 
-**Ise Jingu**: 90 minutes by Kintetsu limited express from Nagoya. Japan's most sacred Shinto shrine complex — the Grand Shrine of the sun goddess Amaterasu, rebuilt every 20 years in the same form. The surrounding pilgrim town (Okage Yokocho) and the forest approach are the experience.
+**[Ise Jingu](/japan/ise-jingu-guide)**: 90 minutes by Kintetsu limited express from Nagoya. Japan's most sacred Shinto shrine complex — the Grand Shrine of the sun goddess Amaterasu, rebuilt every 20 years in the same form. The surrounding pilgrim town (Okage Yokocho) and the forest approach are the experience.
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Tanzania, Tarangire, elephants, safari, baobab, wildlife, northern circui
 city: arusha
 ---
 
-Tarangire is the most underrated park on the northern Tanzania circuit. It gets approximately one-tenth the visitors of the Serengeti, costs less to access, and in the dry season (July–October) concentrates wildlife at the Tarangire River with a density that rivals anything the Serengeti offers. The distinguishing visual feature is the baobab landscape — ancient trees with trunks 10 meters in diameter scattered across the savanna, some several thousand years old — that gives the park a different aesthetic character from the grass plains of the Serengeti or the enclosed caldera of Ngorongoro.
+Tarangire is the most underrated park on the northern [Tanzania](/tanzania) circuit. It gets approximately one-tenth the visitors of the Serengeti, costs less to access, and in the dry season (July–October) concentrates wildlife at the Tarangire River with a density that rivals anything the Serengeti offers. The distinguishing visual feature is the baobab landscape — ancient trees with trunks 10 meters in diameter scattered across the savanna, some several thousand years old — that gives the park a different aesthetic character from the grass plains of the Serengeti or the enclosed caldera of [Ngorongoro](/tanzania/ngorongoro-guide).
 
 The elephant population is the highest concentration in northern Tanzania: herds of 200–300 elephants are visible in the dry season, moving between the river and the alkaline Lake Burunge to the north.
 
@@ -40,7 +40,7 @@ The elephant population is the highest concentration in northern Tanzania: herds
 
 ## Getting There from Arusha
 
-**By road**: 120 km south of Arusha on the Dodoma highway — 2 hours by 4WD safari vehicle (the park gate is 7 km off the main road). Most visitors arrive in safari vehicle from Arusha or in combination with the Ngorongoro Crater and Serengeti.
+**By road**: 120 km south of [Arusha](/tanzania/arusha-guide) on the Dodoma highway — 2 hours by 4WD safari vehicle (the park gate is 7 km off the main road). Most visitors arrive in safari vehicle from Arusha or in combination with the Ngorongoro Crater and Serengeti.
 
 **Combined itinerary**: A 4–5 day northern circuit typically runs Tarangire (day 1–2) → Lake Manyara (afternoon day 2) → Ngorongoro (day 3) → Serengeti (days 3–5). Tarangire starts the circuit because it's closest to Arusha and can absorb a half-day afternoon arrival.
 

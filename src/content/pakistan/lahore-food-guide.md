@@ -10,7 +10,7 @@ tags: [Lahore, Pakistan, food, nihari, karahi, biryani, street food, Gawalmandi,
 city: lahore
 ---
 
-Lahore is Pakistan's culinary capital — a city with a food culture more complex, diverse, and historically rooted than anywhere else in the country. The cuisine here is Punjabi at its core: meat-heavy, richly spiced, oil-generous, cooked in the large round wok (*karahi*) or slow-simmered in heavy pots overnight. But Lahore also carries the layered culinary history of Mughal emperors, Sikh maharajas, and the mixing of North Indian and Central Asian influences that the Lahori elite maintained across every political upheaval of the last 400 years.
+[Lahore](/pakistan/lahore-guide) is [Pakistan](/pakistan)'s culinary capital — a city with a food culture more complex, diverse, and historically rooted than anywhere else in the country. The cuisine here is Punjabi at its core: meat-heavy, richly spiced, oil-generous, cooked in the large round wok (*karahi*) or slow-simmered in heavy pots overnight. But Lahore also carries the layered culinary history of Mughal emperors, Sikh maharajas, and the mixing of North Indian and Central Asian influences that the Lahori elite maintained across every political upheaval of the last 400 years.
 
 Eating in Lahore is best done at places that specialize in a single dish — a *nihari* house serves nihari and nothing else; a *karahi* restaurant perfects one or two karahi preparations. The culture is anti-menu in the best possible way.
 

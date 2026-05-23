@@ -10,7 +10,7 @@ tags: [Canada, July, summer, Canada Day, hiking, Banff, Vancouver]
 city: national
 ---
 
-July is peak Canada. The national parks are crowded and worth it. The cities are warm and alive with summer festivals. Canada Day on July 1st brings fireworks to every city in the country. And the wilderness — from the Rockies to the Laurentians to the Pacific coast — is at its most accessible and most beautiful. The price for all this is high demand: book everything 3–4 months ahead.
+July is peak [Canada](/canada). The national parks are crowded and worth it. The cities are warm and alive with summer festivals. Canada Day on July 1st brings fireworks to every city in the country. And the wilderness — from the Rockies to the Laurentians to the Pacific coast — is at its most accessible and most beautiful. The price for all this is high demand: book everything 3–4 months ahead.
 
 ## Weather & Conditions
 

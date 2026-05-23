@@ -10,9 +10,9 @@ tags: [Kumano Kodo, Japan, pilgrimage, hiking, Kii Peninsula, Wakayama, shrines,
 city: national
 ---
 
-The Kumano Kodo is a system of pilgrimage trails crossing the Kii Peninsula — the mountainous coastal peninsula south of Osaka and Nara — leading to the Kumano Sanzan: three ancient grand shrines. Kumano Hongu Taisha (inland forest), Kumano Hayatama Taisha (coastal), and Kumano Nachi Taisha (above Japan's highest waterfall) have been pilgrimage destinations since the 9th century. Emperors, retired emperors, and eventually commoners walked here across a thousand years of continuous religious practice.
+The Kumano Kodo is a system of pilgrimage trails crossing the Kii Peninsula — the mountainous coastal peninsula south of [Osaka](/japan/osaka-guide) and [Nara](/japan/nara-guide) — leading to the Kumano Sanzan: three ancient grand shrines. Kumano Hongu Taisha (inland forest), Kumano Hayatama Taisha (coastal), and Kumano Nachi Taisha (above Japan's highest waterfall) have been pilgrimage destinations since the 9th century. Emperors, retired emperors, and eventually commoners walked here across a thousand years of continuous religious practice.
 
-In 2004, the Kumano Kodo trail network was jointly designated a UNESCO World Heritage Site with the Camino de Santiago in Spain — the only two pilgrimage routes in the world to share the designation.
+In 2004, the Kumano Kodo trail network was jointly designated a UNESCO World Heritage Site with the Camino de Santiago in [Spain](/spain) — the only two pilgrimage routes in the world to share the designation.
 
 ---
 
@@ -22,11 +22,11 @@ The Kumano Kodo is not a single trail but a network of routes approaching from d
 
 **Nakahechi** — the "middle route," starting from Tanabe on the coast and heading inland through mountain villages to Hongu Taisha. The most walked section by modern pilgrims, with the best trail infrastructure (guesthouses, oji subsidiary shrines along the path, clear signage in English and Japanese). The traditional route covers approximately 65 km over 3–4 days.
 
-**Kohechi** — the "high ridge route" connecting Koyasan to the Kumano shrines across the mountain spine. More demanding and less trafficked than Nakahechi; spectacular mountain scenery. 70 km, 4–5 days.
+**Kohechi** — the "high ridge route" connecting [Koyasan](/japan/koyasan-guide) to the Kumano shrines across the mountain spine. More demanding and less trafficked than Nakahechi; spectacular mountain scenery. 70 km, 4–5 days.
 
 **Ohechi** — the coastal route from Tanabe around the tip of the peninsula to Nachi. Easier terrain but longer. Partially follows modern roads.
 
-**Iseji** — the eastern route from Ise Jingu to the Kumano shrines, connecting Japan's two most sacred locations. 160 km, 7–10 days.
+**Iseji** — the eastern route from [Ise Jingu](/japan/ise-jingu-guide) to the Kumano shrines, connecting Japan's two most sacred locations. 160 km, 7–10 days.
 
 **Most visitors walk 2–3 days of the Nakahechi route** — this is the accessible and satisfying version for travelers without a full week.
 
@@ -50,7 +50,7 @@ Overnight: Chikatsuyu-oji or Tsugizakura area. Small guesthouses (*minshuku*) se
 
 ## What Makes the Kumano Kodo Different from Other Hiking
 
-The trails are old in a specific and visible way. The stone-paved sections were laid during the Heian and Kamakura periods to provide footing for the imperial pilgrimages; the flat stones are worn smooth by centuries of passage. The *oji* subsidiary shrines every few kilometers along the route marked the pilgrim's progress — there are 99 oji along the main Nakahechi route, and stopping at each to pray was part of the ritual.
+The trails are old in a specific and visible way. The stone-paved sections were laid during the Heian and [Kamakura](/japan/kamakura-guide) periods to provide footing for the imperial pilgrimages; the flat stones are worn smooth by centuries of passage. The *oji* subsidiary shrines every few kilometers along the route marked the pilgrim's progress — there are 99 oji along the main Nakahechi route, and stopping at each to pray was part of the ritual.
 
 The forest through which the trail passes is *satoyama* — the managed secondary forest traditionally maintained by village communities for timber and fuel. The cryptomeria plantings are deliberate; the occasional patches of old-growth broadleaf forest show what the forest looked like before the Edo-period timber industry. The transition between plantation forest and old-growth sections is immediately visible: the plantation sections are dark and uniform; the old-growth sections have varied canopy, more undergrowth, and the quality of light changes.
 
@@ -62,7 +62,7 @@ The experience of walking the Kumano Kodo is specifically of being in a landscap
 
 **Kumano Hongu Taisha** — the primary shrine of the three, associated with the god Ketsumimiko no Kami (a deity of travel and passage). The rebuilt shrine complex (moved to current location after the 1889 flood) occupies a forested hilltop. The *honden* (main hall) structures are Gongen-zukuri style — a specifically Kumano architectural synthesis of Shinto and Buddhist forms. The *goshuin* (ritual stamp) available here, at the world's largest Torii at Oyunohara, is among the most sought in Japan by pilgrimage stamp collectors.
 
-**Kumano Hayatama Taisha** — the coastal shrine in Shingu, at the confluence of the Kumano River with the sea. Associated with the god Hayatama no Kami. The shrine complex contains an ancient *nagi* tree (Nageia nagi, a podocarpus species) believed to be 1,000 years old. The coastal town of Shingu has ryokan and the train connection to Osaka via the Kii Peninsula line.
+**Kumano Hayatama Taisha** — the coastal shrine in Shingu, at the confluence of the Kumano River with the sea. Associated with the god Hayatama no Kami. The shrine complex contains an ancient *nagi* tree (Nageia nagi, a podocarpus species) believed to be 1,000 years old. The coastal town of Shingu has [ryokan](/japan/ryokan-guide) and the train connection to Osaka via the Kii Peninsula line.
 
 **Kumano Nachi Taisha** — see above. The combination of the waterfall, the pagoda, and the sacred fire-making ceremony at Nachi-no-Hi-matsuri (July 14) is the visually richest expression of Kumano religious aesthetics.
 
@@ -74,7 +74,7 @@ The experience of walking the Kumano Kodo is specifically of being in a landscap
 
 **Luggage forwarding (Takkyubin)**: Trail guesthouses participate in luggage forwarding services — your bag moves to your next night's guesthouse by delivery truck while you walk with a day pack. Essential for comfort; arrange through the Tourism Bureau or directly with guesthouses.
 
-**Guesthouses (Minshuku)**: The trail guesthouses are small and personal — typically 5–15 rooms, dinner and breakfast included (¥8,000–12,000 per person). Book in advance, especially for peak season (late October foliage, early April cherry blossom, Golden Week). The guesthouses serve traditional home cooking using local mountain vegetables, river fish, and umeboshi (Wakayama is Japan's primary plum producing region).
+**Guesthouses (Minshuku)**: The trail guesthouses are small and personal — typically 5–15 rooms, dinner and breakfast included (¥8,000–12,000 per person). Book in advance, especially for peak season (late October foliage, early April [cherry blossom](/japan/cherry-blossom-guide), Golden Week). The guesthouses serve traditional home cooking using local mountain vegetables, river fish, and umeboshi (Wakayama is Japan's primary plum producing region).
 
 **Getting to Tanabe**: From Osaka: 2 hours by Kuroshio limited express (¥3,650). JR Pass valid.
 **Getting to Kii-Tanabe Station**: Main access point; taxi or bus 30 minutes to Takijiri-oji trailhead.

@@ -10,7 +10,7 @@ tags: [Mexico, July, Guelaguetza, Oaxaca, rainy season, green season, summer, tr
 city: national
 ---
 
-July is defined by the Guelaguetza — Oaxaca's massive indigenous festival that draws visitors from across Mexico and the world. Beyond that, it's Mexico's green season at its most intense: waterfalls running high, mountain views vivid, and the afternoon rains that drive down prices while leaving mornings clear. For travelers with cultural interests, July in Mexico is outstanding.
+July is defined by the Guelaguetza — Oaxaca's massive indigenous festival that draws visitors from across [Mexico](/mexico) and the world. Beyond that, it's Mexico's green season at its most intense: waterfalls running high, mountain views vivid, and the afternoon rains that drive down prices while leaving mornings clear. For travelers with cultural interests, July in Mexico is outstanding.
 
 ## Weather in July
 

@@ -10,7 +10,7 @@ tags: [Japan, May, spring, travel tips, best time to visit, after Golden Week]
 city: national
 ---
 
-May sits in a peculiar position in the Japan travel calendar. Cherry blossom season is over. Golden Week (late April–early May) has just passed. Rainy season (tsuyu) is coming in June. And the period in between — roughly May 8 through May 31 — is one of the least discussed and best times to visit.
+May sits in a peculiar position in the Japan travel calendar. [Cherry blossom](/japan/cherry-blossom-guide) season is over. Golden Week (late April–early May) has just passed. Rainy season (tsuyu) is coming in June. And the period in between — roughly May 8 through May 31 — is one of the least discussed and best times to visit.
 
 The weather is warm without being humid. The crowds are a fraction of April levels. And Japan is dressed in fresh green, which is its own kind of beauty.
 
@@ -26,9 +26,9 @@ Once Golden Week ends, crowds drop sharply. Hotels return to normal pricing. The
 
 **Tokyo / Osaka / Kyoto:** Warm and dry. Temperatures reach 22–27°C by late May, with pleasant evenings around 15–18°C. No need for a coat after the first week. Sunscreen and light layers are the packing.
 
-**Hokkaido:** Late spring arrives in May — cherry blossoms peak in Sapporo (late April–early May), and the countryside turns green. Temperatures around 15–20°C by late May. One of the best months for Hokkaido.
+**[Hokkaido](/japan/hokkaido-guide):** Late spring arrives in May — cherry blossoms peak in [Sapporo](/japan/sapporo-guide) (late April–early May), and the countryside turns green. Temperatures around 15–20°C by late May. One of the best months for Hokkaido.
 
-**Okinawa:** Rainy season begins in Okinawa in May (typically around May 10), so the island switches to humid and occasionally rainy. The beach season starts here before the mainland.
+**[Okinawa](/japan/okinawa-guide):** Rainy season begins in Okinawa in May (typically around May 10), so the island switches to humid and occasionally rainy. The beach season starts here before the mainland.
 
 ## What's Happening: Late Cherry Blossoms and New Green
 
@@ -36,7 +36,7 @@ Once Golden Week ends, crowds drop sharply. Hotels return to normal pricing. The
 
 **Wisteria (fujl):** Late April through May is wisteria season. Ashikaga Flower Park (Tochigi, 2 hours from Tokyo) has one of the most photographed wisteria displays in Japan — a 150-year-old giant wisteria that covers an entire garden in purple curtains. Book entry tickets in advance.
 
-**Fresh green (shinryoku):** Japanese aesthetic appreciation for fresh spring green (the vivid new growth of May) is genuine and worth experiencing. The bamboo groves of Arashiyama are greener in May than any other time. Mountain hiking areas (Nikko, Hakone, the Alps) are covered in fresh growth.
+**Fresh green (shinryoku):** Japanese aesthetic appreciation for fresh spring green (the vivid new growth of May) is genuine and worth experiencing. The bamboo groves of Arashiyama are greener in May than any other time. Mountain hiking areas (Nikko, [Hakone](/japan/hakone-guide), the Alps) are covered in fresh growth.
 
 ## Best Places in May
 
@@ -52,8 +52,8 @@ Wisteria viewing at one of Japan's most remarkable garden displays. The season r
 **Hokkaido's lavender prep:**
 The famous lavender fields of Furano don't bloom until July, but May is when Hokkaido is gorgeous in its own spring way — tulips at Hokkaido Garden (Shikisai no Oka), farm landscapes opening up, and the least-visited window before summer tourism.
 
-**Hiroshima and the Seto Inland Sea:**
-Cycling the Shimanami Kaido (the sea-spanning cycling route between Honshu and Shikoku across island bridges) is ideal in May — mild temperatures, no rain, long daylight hours.
+**[Hiroshima](/japan/hiroshima-guide) and the Seto Inland Sea:**
+Cycling the [Shimanami Kaido](/japan/shimanami-kaido-guide) (the sea-spanning cycling route between Honshu and Shikoku across island bridges) is ideal in May — mild temperatures, no rain, long daylight hours.
 
 ## Crowds and Booking
 
@@ -71,7 +71,7 @@ Pricing returns to mid-season levels.
 |---|---|
 | Budget accommodation | $35–55/night |
 | Mid-range hotel | $95–170/night |
-| Ryokan | $130–300/person with meals |
+| [Ryokan](/japan/ryokan-guide) | $130–300/person with meals |
 | 10-day trip budget | $1,900–3,000 |
 
 **Note:** Golden Week itself (May 1–7) has peak pricing equivalent to cherry blossom season. Budget for it separately if those dates overlap.

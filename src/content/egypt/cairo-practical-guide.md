@@ -10,7 +10,7 @@ tags: [Cairo, Egypt, practical tips, visa, currency, safety, dress code]
 city: cairo
 ---
 
-Cairo rewards visitors who arrive with a clear set of practical expectations. The city is genuinely overwhelming — 23 million people, chaotic traffic, persistent touts at tourist sites — but it is also safe, remarkably affordable, and profoundly interesting. The practical notes below address the specific situations that cause visitors the most friction.
+[Cairo](/egypt/cairo-travel-guide) rewards visitors who arrive with a clear set of practical expectations. The city is genuinely overwhelming — 23 million people, chaotic traffic, persistent touts at tourist sites — but it is also safe, remarkably affordable, and profoundly interesting. The practical notes below address the specific situations that cause visitors the most friction.
 
 ---
 
@@ -65,13 +65,13 @@ Cairo is generally safe for tourists. The Egyptian government maintains a visibl
 
 **Overpriced taxis**: Traditional taxis without agreed prices result in disputes at destination. Uber eliminates this entirely.
 
-**Market scams**: Common pattern — a friendly offer of tea in a shop, followed to a high-pressure sale. Accepting tea creates no obligation; simply say no and leave. The "papyrus museum" scam (a shop that calls itself a museum) is common near Islamic Cairo.
+**Market scams**: Common pattern — a friendly offer of tea in a shop, followed to a high-pressure sale. Accepting tea creates no obligation; simply say no and leave. The "papyrus museum" scam (a shop that calls itself a museum) is common near [Islamic Cairo](/[egypt](/egypt)/islamic-cairo-guide).
 
 **Pickpocketing**: In Khan el-Khalili and other crowded markets, keep valuables in a front pocket or a bag that closes securely. Not a major problem relative to major European tourist cities, but worth awareness.
 
 **Demonstrations**: Avoid political gatherings.
 
-**Neighborhoods that are safe for tourists**: Zamalek, Downtown, Giza plateau area, Maadi, Islamic Cairo/Khan el-Khalili (during the day and early evening), Coptic Cairo, Heliopolis. Standard big-city vigilance applies.
+**Neighborhoods that are safe for tourists**: Zamalek, Downtown, Giza plateau area, Maadi, Islamic Cairo/Khan el-Khalili (during the day and early evening), [Coptic Cairo](/egypt/coptic-cairo-guide), Heliopolis. Standard big-city vigilance applies.
 
 ---
 
@@ -102,7 +102,7 @@ Egypt is a predominantly Muslim country and conservative dress is expected and a
 
 **March–May and September–October**: Shoulder seasons with fewer crowds and acceptable temperatures (20–30°C). Good for visiting in March–April before the heat builds.
 
-**June–August**: Genuinely hot (35–42°C, occasionally higher). Not recommended for outdoor-heavy itineraries. Indoor sites (GEM, Egyptian Museum) are still comfortable.
+**June–August**: Genuinely hot (35–42°C, occasionally higher). Not recommended for outdoor-heavy itineraries. Indoor sites (GEM, [Egyptian Museum](/egypt/egyptian-museum-guide)) are still comfortable.
 
 **Ramadan** (dates change annually): A unique experience — the city transforms at night with iftar gatherings and festive atmosphere. Some sites have reduced daytime hours. The evening energy in neighborhoods like Islamic Cairo during Ramadan is one of the most memorable things you can experience in Cairo.
 

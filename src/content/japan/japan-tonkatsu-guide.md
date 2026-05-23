@@ -60,9 +60,9 @@ The standard tonkatsu set (*tonkatsu teishoku*): one cutlet, shredded cabbage, a
 
 ### Specialist Tonkatsu Restaurants
 
-The dedicated *tonkatsu-ya* is a category unto itself. These establishments breed or source specific pigs (Kurobuta black pig from Kagoshima is the premium variety — higher fat marbling, deeper flavor than standard white pig), control every variable of preparation, and typically have been in business for decades.
+The dedicated *tonkatsu-ya* is a category unto itself. These establishments breed or source specific pigs (Kurobuta black pig from [Kagoshima](/japan/kagoshima-guide) is the premium variety — higher fat marbling, deeper flavor than standard white pig), control every variable of preparation, and typically have been in business for decades.
 
-**Maisen** (*まい泉*, Tokyo): The most famous tonkatsu brand in Japan, originating in Omotesando. The main restaurant is in a converted bathhouse; the queues are long. The signature *atsugiri hire katsu* (thick-cut tenderloin) is the item. ¥2,000–3,500 for lunch.
+**Maisen** (*まい泉*, [Tokyo](/japan/tokyo-guide)): The most famous tonkatsu brand in Japan, originating in Omotesando. The main restaurant is in a converted bathhouse; the queues are long. The signature *atsugiri hire katsu* (thick-cut tenderloin) is the item. ¥2,000–3,500 for lunch.
 
 **Butagumi** (*豚組*, Roppongi): A specialist in Kurobuta pork, with explicit sourcing notes for each day's pigs on the menu. The counter seats 12; the pork is exceptional. ¥4,000–6,000.
 
@@ -104,6 +104,6 @@ The pork cutlet sandwich: thickly cut tonkatsu on square milk bread (crustless),
 
 **Tokyo**: The highest concentration of specialist tonkatsu restaurants in Japan. Maisen (Omotesando), Katsuzen (Nihonbashi), Tonki (Meguro) — an institution since 1939 — are the standard references.
 
-**Nagoya**: Home to *misokatsu* — tonkatsu topped with Nagoya's thick, sweet *hatcho miso* sauce, a regional variation with a significantly stronger, sweeter flavor profile.
+**[Nagoya](/japan/nagoya-guide)**: Home to *misokatsu* — tonkatsu topped with Nagoya's thick, sweet *hatcho miso* sauce, a regional variation with a significantly stronger, sweeter flavor profile.
 
-**Osaka**: Tonkatsu culture exists but doesn't dominate the way it does in Tokyo; Osaka food energy goes into kushikatsu (battered and fried on skewers) instead, which is a related but distinctly different experience.
+**[Osaka](/japan/osaka-guide)**: Tonkatsu culture exists but doesn't dominate the way it does in Tokyo; [Osaka food](/japan/osaka-food-guide) energy goes into kushikatsu (battered and fried on skewers) instead, which is a related but distinctly different experience.

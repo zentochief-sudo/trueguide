@@ -40,7 +40,7 @@ The bell is housed in a glass pavilion with Independence Hall visible directly b
 
 Benjamin Franklin (1706–1790) lived in a house at this location from 1763 until his death. The house no longer exists; the National Park Service built a ghostly steel frame ("ghost structure") indicating the dimensions of the original house. Underground, the Franklin museum examines his life as printer, inventor, scientist, diplomat, and political thinker.
 
-Franklin's specific inventions: the lightning rod (which he refused to patent), bifocal glasses, the Franklin stove. His political role: Pennsylvania's representative to London in the years before the Revolution; ambassador to France during the Revolution (where he secured French military support that was essential to the American victory); delegate to the Constitutional Convention.
+Franklin's specific inventions: the lightning rod (which he refused to patent), bifocal glasses, the Franklin stove. His political role: Pennsylvania's representative to London in the years before the Revolution; ambassador to [France](/france) during the Revolution (where he secured French military support that was essential to the American victory); delegate to the Constitutional Convention.
 
 **Carpenters' Hall** (320 Chestnut Street)
 

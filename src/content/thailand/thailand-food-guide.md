@@ -17,7 +17,7 @@ Thai cuisine is not a single tradition — it is four distinct regional cooking 
 ## The Four Regional Traditions
 
 ### Central Thai
-The standard international version of Thai food — dishes from the Bangkok and Central Plains tradition:
+The standard international version of Thai food — dishes from the [Bangkok](/thailand/bangkok-guide) and Central Plains tradition:
 
 **Gaeng keow wan (green curry)**: Coconut milk curry with green chili paste, Thai eggplant, kaffir lime leaves, and basil. The quality indicator is the type of eggplant — small round Thai varieties, not Western eggplant. ฿60–120 at Thai restaurants.
 
@@ -28,7 +28,7 @@ The standard international version of Thai food — dishes from the Bangkok and 
 **Pad kra pao (stir-fried basil and chili)**: Minced pork, chicken, or seafood with holy basil (not sweet basil), dried chilies, and oyster sauce, served over rice with a fried egg. The Thai working lunch — order it at any shophouse restaurant for ฿60–80. The holy basil is essential; many places substitute sweet basil.
 
 ### Northern Thai (Lanna)
-**Khao soi**: A coconut milk curry soup with egg noodles, served with crispy fried noodles on top, pickled mustard greens, shallots, and lime on the side. The defining dish of Chiang Mai — available everywhere in the north. The best versions have a complex curry paste with dried chilies, turmeric, and coriander. ฿50–80 at Chiang Mai shophouses.
+**Khao soi**: A coconut milk curry soup with egg noodles, served with crispy fried noodles on top, pickled mustard greens, shallots, and lime on the side. The defining dish of [Chiang Mai](/[thailand](/thailand)/chiang-mai-guide) — available everywhere in the north. The best versions have a complex curry paste with dried chilies, turmeric, and coriander. ฿50–80 at Chiang Mai shophouses.
 
 **Sai oua (Northern Thai sausage)**: A fresh pork sausage with lemongrass, galangal, kaffir lime leaf, and dried chilies — grilled over charcoal and sold by the meter. Different from the spicier Isaan sausage; more aromatic. Available at all northern markets.
 
@@ -48,7 +48,7 @@ The hottest, most intensely flavored regional cuisine — influenced by Malay an
 
 **Gaeng tai pla (fish stomach curry)**: A dark, complex, intensely spicy curry using fermented fish stomach as the base — the most confrontational dish in the Thai canon. Worth trying once in the south.
 
-**Khao mok gai (Thai-Muslim chicken biryani)**: A southern rice dish with Malay-influenced spicing — turmeric, cumin, cardamom. Common in Phuket, Hat Yai, and the Muslim south.
+**Khao mok gai (Thai-Muslim chicken biryani)**: A southern rice dish with Malay-influenced spicing — turmeric, cumin, cardamom. Common in [Phuket](/thailand/phuket-guide), Hat Yai, and the Muslim south.
 
 **Khua kling (dry southern curry)**: Minced pork or beef dry-fried with a southern curry paste (turmeric, fresh chilies, lemongrass, galangal) — no coconut milk, intensely hot.
 

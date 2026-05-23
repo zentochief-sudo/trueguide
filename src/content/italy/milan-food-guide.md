@@ -10,7 +10,7 @@ tags: [Milan, Italy, food, aperitivo, risotto, cotoletta, Navigli, restaurants, 
 city: milan
 ---
 
-Milan's food identity is misunderstood by most visitors — who expect Italian food generically and find a city with a specific northern Italian cuisine quite different from Rome or Naples. No pizza margherita as the default here; instead, risotto (particularly *risotto alla Milanese*, saffron-gold and stirred to a creamy loose consistency), braised meats, polenta, and the *cotoletta* — the Milanese breaded veal cutlet that predates the Wiener Schnitzel by at least two centuries.
+[Milan](/italy/milan-travel-guide)'s food identity is misunderstood by most visitors — who expect Italian food generically and find a city with a specific northern Italian cuisine quite different from [Rome](/italy/rome-guide) or Naples. No pizza margherita as the default here; instead, risotto (particularly *risotto alla Milanese*, saffron-gold and stirred to a creamy loose consistency), braised meats, polenta, and the *cotoletta* — the Milanese breaded veal cutlet that predates the Wiener Schnitzel by at least two centuries.
 
 And then there's aperitivo — the early-evening drinking-and-eating custom that is, in its Milanese form, one of the better food institutions in Europe.
 
@@ -49,7 +49,7 @@ Veal cutlet, bone-in, pounded thin, breaded in egg and breadcrumbs, fried in cla
 Braised veal shank — the cut includes the bone with marrow, which is scooped out and eaten as the final piece of the dish. Served with *gremolata* (parsley, lemon zest, garlic) and traditionally accompanied by risotto alla Milanese. Slow-braised: the meat should fall off the bone; the marrow should be soft and spreadable.
 
 ### Panettone
-The sweet enriched bread of Christmas — traditionally Milanese, now produced industrially throughout Italy. The genuine artisanal versions (Cova, Marchesi, Pasticceria Martesana) are substantially different from industrial production: lighter, more buttery, with better-quality candied fruit and a longer fermentation process (48+ hours). Worth buying one from a proper pasticceria if visiting near the Christmas season.
+The sweet enriched bread of Christmas — traditionally Milanese, now produced industrially throughout [Italy](/italy). The genuine artisanal versions (Cova, Marchesi, Pasticceria Martesana) are substantially different from industrial production: lighter, more buttery, with better-quality candied fruit and a longer fermentation process (48+ hours). Worth buying one from a proper pasticceria if visiting near the Christmas season.
 
 ---
 

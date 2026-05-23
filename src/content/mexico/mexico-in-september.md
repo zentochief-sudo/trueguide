@@ -10,7 +10,7 @@ tags: [Mexico, September, Independence Day, low season, budget travel, Oaxaca, C
 city: national
 ---
 
-September is Mexico's price floor. It's also hurricane peak season on both coasts. The combination drives away almost every tourist, leaving behind an extraordinary situation: Independence Day celebrations without crowds, prices at their annual minimum, and a country running at its normal, non-tourist rhythm. For independent travelers willing to plan around the weather and the hurricane risk, September delivers more Mexico per dollar than any other month.
+September is [Mexico](/mexico)'s price floor. It's also hurricane peak season on both coasts. The combination drives away almost every tourist, leaving behind an extraordinary situation: Independence Day celebrations without crowds, prices at their annual minimum, and a country running at its normal, non-tourist rhythm. For independent travelers willing to plan around the weather and the hurricane risk, September delivers more Mexico per dollar than any other month.
 
 ## Weather in September
 

@@ -10,7 +10,7 @@ tags: [Almaty, Kazakhstan, Tian Shan, Medeu, Shymbulak, Central Asia, mountains,
 city: almaty
 ---
 
-Almaty is the largest city in Kazakhstan and, until 1997, the country's capital — a city of 2 million in the foothills of the Tian Shan range where the Russian-built grid of wide, tree-lined boulevards ends abruptly at mountain walls that rise 4,000 meters above the city. The combination of a functioning, sophisticated Central Asian metropolis with immediate access to glaciers, high-altitude lakes, and ski terrain makes Almaty one of the most geographically dramatic cities in the world.
+Almaty is the largest city in [Kazakhstan](/kazakhstan) and, until 1997, the country's capital — a city of 2 million in the foothills of the Tian Shan range where the Russian-built grid of wide, tree-lined boulevards ends abruptly at mountain walls that rise 4,000 meters above the city. The combination of a functioning, sophisticated Central Asian metropolis with immediate access to glaciers, high-altitude lakes, and ski terrain makes Almaty one of the most geographically dramatic cities in the world.
 
 It remains largely undiscovered by Western travelers, which means prices are moderate, the major sites are accessible without crowds, and encounters with the genuinely distinct Kazakh culture — a nomadic tradition that survived Soviet collectivization and has reasserted itself in the post-independence period — are available just outside the city.
 
@@ -62,7 +62,7 @@ The best introduction to Kazakh culture and history — nomadic artifacts (felt 
 **The original Golden Man** (*Zolotoy Chelovek*) is at the Presidential Palace; the museum exhibits a full replica alongside original grave goods from the same burial.
 
 ### Green Bazaar (Zelyony Bazar)
-The main covered market of Almaty — a Soviet-era market building selling fresh produce, spices, dried fruits and nuts, Kazakh dairy products (kurt, qymyz, shubat), and meat. The dried fruit and nut section is a Silk Road market in miniature: dried apricots, figs, walnuts, pistachios, and dozens of spice preparations.
+The main covered market of Almaty — a Soviet-era market building selling fresh produce, spices, dried fruits and nuts, Kazakh dairy products (kurt, qymyz, shubat), and meat. The dried fruit and nut section is a [Silk Road](/kazakhstan/silk-road-guide) market in miniature: dried apricots, figs, walnuts, pistachios, and dozens of spice preparations.
 
 **What to buy**: Dried apricots (*kurai*), Kazakh kurt (hard dried yogurt balls — an ancient preservation method), and fresh-ground spice mixes.
 
@@ -82,7 +82,7 @@ The main covered market of Almaty — a Soviet-era market building selling fresh
 
 ## Practical Notes
 
-**Getting there**: Almaty International Airport (ALA) — direct flights from London, Frankfurt, Istanbul, Dubai, Moscow, Beijing, and major regional hubs. Air Astana is the national carrier.
+**Getting there**: Almaty International Airport (ALA) — direct flights from London, Frankfurt, Istanbul, Dubai, Moscow, Beijing, and major regional hubs. Air [Astana](/kazakhstan/astana-guide) is the national carrier.
 
 **Currency**: Kazakhstani Tenge (KZT). ~€1 = 480 KZT (2025 approximate). Cards accepted in restaurants and shops; cash useful for markets and taxis.
 

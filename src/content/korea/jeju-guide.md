@@ -20,7 +20,7 @@ The result is a landscape that looks unlike the Korean mainland: black lava rock
 
 **From Seoul (Gimpo Airport)**: 50-minute flight to Jeju International Airport (JJN). Flights operate every 15–30 minutes on a major route (Korean Air, Asiana, Jeju Air, Jin Air). Price: ₩40,000–100,000 depending on advance booking.
 
-**From Busan, Daegu, and other cities**: Direct flights to Jeju from most Korean cities; the route is one of the busiest domestic air corridors in the world (Seoul–Jeju is consistently the world's highest-traffic single domestic air route).
+**From [Busan](/korea/busan-guide), Daegu, and other cities**: Direct flights to Jeju from most Korean cities; the route is one of the busiest domestic air corridors in the world (Seoul–Jeju is consistently the world's highest-traffic single domestic air route).
 
 **Ferry**: Ferries from Mokpo, Wando, and Jeju Port connect to the mainland (4–11 hours depending on port and vessel). Practical for bringing vehicles; slower than flying for most itineraries.
 

@@ -10,7 +10,7 @@ tags: [Spain, September, La Mercè, Barcelona, autumn, beach, Rioja wine harvest
 city: national
 ---
 
-September is Spain's best month for most travelers. The last week of August empties the beaches as European families return to school; from September 1, the crowds thin noticeably while the Mediterranean stays warm (water temperature 25–26°C through the entire month), hotel prices drop 20–40%, and the cities — particularly Barcelona and Madrid — return to something approaching normal function. The cultural calendar adds La Mercè in Barcelona and the grape harvest in Rioja. September is the unlock.
+September is [Spain](/spain)'s best month for most travelers. The last week of August empties the beaches as European families return to school; from September 1, the crowds thin noticeably while the Mediterranean stays warm (water temperature 25–26°C through the entire month), hotel prices drop 20–40%, and the cities — particularly [Barcelona](/spain/barcelona-travel-guide) and Madrid — return to something approaching normal function. The cultural calendar adds La Mercè in Barcelona and the grape harvest in Rioja. September is the unlock.
 
 ## Weather in September
 

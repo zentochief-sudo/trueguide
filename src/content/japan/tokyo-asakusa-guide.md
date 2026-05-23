@@ -10,7 +10,7 @@ tags: [Asakusa, Tokyo, Japan, Senso-ji, temple, traditional, Kappabashi, craft, 
 city: tokyo
 ---
 
-Asakusa is *shitamachi* — the low city, the working-class eastern Tokyo that predates the industrial district and the corporate towers. The neighborhood survived the 1923 earthquake poorly (it was a low wooden building district next to a river; fires burned for days) and the 1945 firebombing severely, but the commercial and cultural structure rebuilt quickly and maintained its identity through the postwar period. The result is the most continuous approximation of prewar Tokyo available.
+Asakusa is *shitamachi* — the low city, the working-class eastern [Tokyo](/japan/tokyo-guide) that predates the industrial district and the corporate towers. The neighborhood survived the 1923 earthquake poorly (it was a low wooden building district next to a river; fires burned for days) and the 1945 firebombing severely, but the commercial and cultural structure rebuilt quickly and maintained its identity through the postwar period. The result is the most continuous approximation of prewar Tokyo available.
 
 Senso-ji is the dominant monument — the most visited temple in Japan, receiving 30 million visitors per year. The temple is worth seeing. The streets around it reward staying longer.
 
@@ -50,7 +50,7 @@ The covered arcades immediately east and west of Nakamise are older than the mai
 
 **What's sold**: Professional-grade chopsticks, knives (Japanese kitchen knives are available here at prices significantly below retail elsewhere), rice cookers, serving dishes, lacquer trays, uniforms, signage — everything a restaurant needs. You do not need to run a restaurant to buy here; the shops sell to individuals at the same prices.
 
-**Plastic food samples (sampuru)**: The hyper-realistic plastic food displays seen in restaurant windows throughout Japan — originating in Osaka in the 1930s and now a significant craft industry — are sold here. The production process (painting, detailing, assembly) is skilled artisanal work; the objects are genuinely difficult to distinguish from real food at close range. Purchasing a plastic tempura prawn or a replica ramen bowl is a legitimate souvenir choice.
+**Plastic food samples (sampuru)**: The hyper-realistic plastic food displays seen in restaurant windows throughout Japan — originating in [Osaka](/japan/osaka-guide) in the 1930s and now a significant craft industry — are sold here. The production process (painting, detailing, assembly) is skilled artisanal work; the objects are genuinely difficult to distinguish from real food at close range. Purchasing a plastic tempura prawn or a replica ramen bowl is a legitimate souvenir choice.
 
 **Kitchen knives**: The knife shops in Kappabashi carry both the functional carbon steel (*hagane*) knives used in professional kitchens and the stainless clad knives for general use. The *deba* (fish cleaving), *yanagiba* (sashimi slicing), and *usuba* (vegetable) knives represent specialized forms developed for specific Japanese cutting techniques. Budget ¥3,000–15,000 for a good mid-range knife; serious hand-forged knives run ¥30,000+.
 
@@ -58,7 +58,7 @@ The covered arcades immediately east and west of Nakamise are older than the mai
 
 ## Sumida River and Surroundings
 
-**Sumida River walk**: The riverside path from Asakusa Bridge (Azumabashi) south to Hamarikyu Garden runs 3km along the east bank. The Sumida-gawa is wide here; the view from the bridge takes in the Tokyo Skytree to the northeast and the central city in the distance. Flat, pleasant, good in the evening.
+**Sumida River walk**: The riverside path from Asakusa Bridge (Azumabashi) south to Hamarikyu Garden runs 3km along the east bank. The Sumida-gawa is wide here; the view from the bridge takes in the [Tokyo Skytree](/japan/tokyo-skytree-guide) to the northeast and the central city in the distance. Flat, pleasant, good in the evening.
 
 **Tokyo Skytree** (10 minutes walk from Senso-ji): The 634-meter broadcasting and observation tower opened in 2012, now the tallest structure in Japan. The two observation decks (350m and 450m) have clear views in all directions. Admission ¥2,100–3,100 depending on floor. The tower is visually dominant from Asakusa; whether the view from inside justifies the cost depends on your tolerance for observation deck queues. The Skytree Town complex at its base has shopping, restaurants, and an aquarium.
 
@@ -84,7 +84,7 @@ The covered arcades immediately east and west of Nakamise are older than the mai
 
 **Rickshaws (jinrikisha)**: Human-pulled rickshaws operated by young men in happi coats offer tours of the Asakusa area. The prices are high (¥4,000–8,000 for a short circuit) but the view from the rickshaw of the temple approach is specific.
 
-**Sumida Park**: The park running along the west bank of the Sumida River between Asakusa Bridge and Sakurabashi is Asakusa's best cherry blossom spot — 400 trees, well-maintained path, river views, fewer crowds than Ueno's cherry blossom (15 minutes walk north).
+**Sumida Park**: The park running along the west bank of the Sumida River between Asakusa Bridge and Sakurabashi is Asakusa's best [cherry blossom](/japan/cherry-blossom-guide) spot — 400 trees, well-maintained path, river views, fewer crowds than Ueno's cherry blossom (15 minutes walk north).
 
 ---
 

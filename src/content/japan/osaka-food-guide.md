@@ -10,7 +10,7 @@ tags: [Osaka, food, takoyaki, kushikatsu, ramen, okonomiyaki, kaiseki, restauran
 city: Osaka
 ---
 
-Osaka has a phrase for itself: *kuidaore* — "eat until you drop." The city's identity is built on food in a way that no other Japanese city matches. Tokyo has more Michelin stars; Kyoto has more refined kaiseki. But Osaka eats with more pleasure, more variety, and less ceremony than anywhere in Japan. This is the complete guide to what Osaka eats and where.
+[Osaka](/japan/osaka-guide) has a phrase for itself: *kuidaore* — "eat until you drop." The city's identity is built on food in a way that no other Japanese city matches. [Tokyo](/japan/tokyo-guide) has more Michelin stars; [Kyoto](/japan/kyoto-guide) has more refined kaiseki. But Osaka eats with more pleasure, more variety, and less ceremony than anywhere in Japan. This is the complete guide to what Osaka eats and where.
 
 ## The Osaka Food Canon
 
@@ -41,7 +41,7 @@ The Shinsekai original — ingredients breaded and deep-fried on skewers, dipped
 
 ### Okonomiyaki (Osaka Style)
 
-The savory pancake — Osaka-style (Osaka-yaki or Kansai-style) is different from Hiroshima-style. The ingredients (cabbage, pork belly, green onions, sometimes seafood) are all mixed together into the batter and cooked as a single pancake. Topped with okonomiyaki sauce, mayonnaise, bonito flakes, and aonori.
+The savory pancake — Osaka-style (Osaka-yaki or Kansai-style) is different from [Hiroshima](/japan/hiroshima-guide)-style. The ingredients (cabbage, pork belly, green onions, sometimes seafood) are all mixed together into the batter and cooked as a single pancake. Topped with okonomiyaki sauce, mayonnaise, bonito flakes, and aonori.
 
 **What makes Osaka's version distinct:** The mixed (not layered) method — everything combines into a single pancake with a crispy exterior. Hiroshima-style layers the ingredients; Osaka-style folds them in.
 
@@ -54,7 +54,7 @@ The savory pancake — Osaka-style (Osaka-yaki or Kansai-style) is different fro
 
 Osaka's ramen scene is significant — the city's preference runs toward:
 
-**Shio (salt) broth:** Light, clear chicken or pork bone broth — the traditional Osaka style. Less heavy than Fukuoka's tonkotsu or Tokyo's rich soy broth.
+**Shio (salt) broth:** Light, clear chicken or pork bone broth — the traditional Osaka style. Less heavy than [Fukuoka](/japan/fukuoka-guide)'s tonkotsu or Tokyo's rich soy broth.
 
 **Asahi ramen (Osaka style):** A specific Osaka preparation using chicken carcass broth with a clean, almost sweet finish. Uncommon outside the city.
 

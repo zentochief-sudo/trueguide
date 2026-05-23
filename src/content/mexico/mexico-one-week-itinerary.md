@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Mexico is one of the world's great travel destinations — a country of extraordinary depth, where ancient civilisations, Spanish colonial architecture, extraordinary cuisine, and some of the world's most vibrant cities all coexist. Seven days is enough to understand why people become obsessed with Mexico. It's enough to fall in love with it.
+[Mexico](/mexico) is one of the world's great travel destinations — a country of extraordinary depth, where ancient civilisations, Spanish colonial architecture, extraordinary cuisine, and some of the world's most vibrant cities all coexist. Seven days is enough to understand why people become obsessed with Mexico. It's enough to fall in love with it.
 
 ## Days 1–3 – Mexico City (CDMX)
 

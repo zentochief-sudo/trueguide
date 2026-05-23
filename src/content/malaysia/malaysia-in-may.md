@@ -10,7 +10,7 @@ tags: [Malaysia, May, Perhentian, east coast, Borneo, Sabah, prime season]
 city: national
 ---
 
-May is when Malaysia's east coast beaches reach full capacity for the season. The Perhentian Islands are operating at maximum visitor flow — beautiful, crowded, and fully equipped. Tioman and Redang are in prime condition. In Borneo, Sabah's wildlife corridors are in good season. And Langkawi, on the west coast, begins its wet season as the southwest monsoon arrives. The geographic split is reversed from January: east coast excellent, west coast getting wetter.
+May is when [Malaysia](/malaysia)'s east coast beaches reach full capacity for the season. The Perhentian Islands are operating at maximum visitor flow — beautiful, crowded, and fully equipped. Tioman and Redang are in prime condition. In [Borneo](/malaysia/borneo-guide), Sabah's wildlife corridors are in good season. And [Langkawi](/malaysia/langkawi-guide), on the west coast, begins its wet season as the southwest monsoon arrives. The geographic split is reversed from January: east coast excellent, west coast getting wetter.
 
 ## Weather & Conditions
 
@@ -22,9 +22,9 @@ May is when Malaysia's east coast beaches reach full capacity for the season. Th
 
 **Langkawi:** Southwest monsoon begins in May. Rain increases through the month. Still workable but not the beach season.
 
-**Penang:** Getting wetter. The west coast is transitioning to its monsoon.
+**[Penang](/malaysia/penang-travel-guide):** Getting wetter. The west coast is transitioning to its monsoon.
 
-**Kuala Lumpur:** Hot and humid year-round. Some rain.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** Hot and humid year-round. Some rain.
 
 **Sabah:** 24–30°C. Kinabatangan River wildlife is excellent.
 

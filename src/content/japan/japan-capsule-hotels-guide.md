@@ -10,7 +10,7 @@ tags: [capsule hotels, Japan, accommodation, budget, Tokyo, osaka, hostel, pod h
 city: national
 ---
 
-The capsule hotel (*kapuseru hoteru*) was invented in Osaka in 1979, designed initially as overnight accommodation for businessmen who had missed the last train or didn't want to pay for a full hotel room after a night of drinking. The format — individual pods approximately 2m × 1m × 1.2m, stacked two-high in rows, with shared bathrooms and locker storage — spread nationally and developed over 40 years into a distinct accommodation category.
+The capsule hotel (*kapuseru hoteru*) was invented in [Osaka](/japan/osaka-guide) in 1979, designed initially as overnight accommodation for businessmen who had missed the last train or didn't want to pay for a full hotel room after a night of drinking. The format — individual pods approximately 2m × 1m × 1.2m, stacked two-high in rows, with shared bathrooms and locker storage — spread nationally and developed over 40 years into a distinct accommodation category.
 
 The current market has two distinct tiers: the old-school capsule hotels (concrete pods, functional bathrooms, primarily male clientele, located near train stations in entertainment districts) and the new generation (architect-designed pods with premium materials, co-ed or women-only floors, café and work areas, often in converted historic buildings). Both work; the choice depends on your priorities.
 
@@ -20,7 +20,7 @@ The current market has two distinct tiers: the old-school capsule hotels (concre
 
 **Practical cases**:
 - Solo travelers who spend most of their time out and need a clean, comfortable place to sleep without paying for unused floor space
-- Late arrivals after the last train — the central Tokyo and Osaka locations are specifically designed for this
+- Late arrivals after the last train — the central [Tokyo](/japan/tokyo-guide) and Osaka locations are specifically designed for this
 - One-night stops in a transit city before an early flight or bullet train
 - Budget-conscious travelers who want a private sleeping space but are comfortable with shared bathrooms
 
@@ -64,7 +64,7 @@ Characteristics:
 - Added amenities: café, work zones, communal kitchen, premium bath facilities
 - Often in converted historic buildings or purpose-designed properties
 - Price: ¥4,500–8,000/night
-- Representative examples: **The Millennials Shibuya** (Tokyo), **Nine Hours** (Tokyo, Osaka, Kyoto), **Nadeshiko Hotel** (Tokyo — women-only, Mt Fuji view)
+- Representative examples: **The Millennials Shibuya** (Tokyo), **Nine Hours** (Tokyo, Osaka, [Kyoto](/japan/kyoto-guide)), **Nadeshiko Hotel** (Tokyo — women-only, Mt Fuji view)
 
 ---
 

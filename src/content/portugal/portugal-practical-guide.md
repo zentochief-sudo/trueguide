@@ -10,7 +10,7 @@ tags: [Portugal, practical, transport, costs, tips, travel guide, budget, cultur
 city: lisbon
 ---
 
-Portugal has one of the most accessible tourism infrastructures in Europe — English is widely spoken, prices are lower than Western European averages, the transport network is functional if not high-speed, and the country is small enough that end-to-end travel from Minho to the Algarve takes a morning by car. It rewards visitors who go beyond Lisbon and Porto more than most countries of its size.
+[Portugal](/portugal) has one of the most accessible tourism infrastructures in Europe — English is widely spoken, prices are lower than Western European averages, the transport network is functional if not high-speed, and the country is small enough that end-to-end travel from Minho to the [Algarve](/portugal/algarve-guide) takes a morning by car. It rewards visitors who go beyond [Lisbon](/portugal/lisbon-guide) and [Porto](/portugal/porto-guide) more than most countries of its size.
 
 ---
 
@@ -23,7 +23,7 @@ Key routes:
 - **Lisbon–Porto**: Alfa Pendular (3 hours, €19–45 booked in advance) or Intercidades (3.5 hours, €18–30). Departs from Lisboa Oriente or Santa Apolónia
 - **Lisbon–Faro (Algarve)**: Alfa Pendular (2h45, €20–38)
 - **Porto–Pinhão (Douro)**: Regional train (3 hours, €14–20)
-- **Lisbon–Sintra**: Suburban line from Rossio (40 min, €2.35)
+- **Lisbon–[Sintra](/portugal/sintra-guide)**: Suburban line from Rossio (40 min, €2.35)
 
 ### Driving
 Portugal has an excellent motorway (*auto-estrada*, marked A) network with electronic tolls. Most are on the Via Verde system — rental cars are typically already registered, and tolls are charged to the rental company (+ processing fee).
@@ -41,7 +41,7 @@ The national bus network covers routes not served by train — particularly to s
 
 ## Costs
 
-Portugal is 20–30% cheaper than Spain or France:
+Portugal is 20–30% cheaper than [Spain](/spain) or [France](/france):
 
 - **Espresso (bica)**: €0.80–1.20 at a café counter; €1.50–2 at a table
 - **Pastel de nata**: €1.10–1.60

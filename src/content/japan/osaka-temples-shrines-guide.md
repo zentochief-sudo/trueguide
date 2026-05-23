@@ -10,7 +10,7 @@ tags: [Osaka, temples, shrines, Shitenno-ji, Sumiyoshi Taisha, culture, history,
 city: Osaka
 ---
 
-Osaka's religious heritage is substantial but often underappreciated — visitors focus on the food culture and Osaka Castle while the city's ancient temples and shrines receive a fraction of the attention given to Kyoto's equivalent sites. This is an advantage: the sites are genuinely significant, and you'll see them with a fraction of the crowds. Shitenno-ji, founded in 593 AD, predates much of Kyoto. Sumiyoshi Taisha is one of the oldest and most important shrines in Japan. Here's the guide.
+[Osaka](/japan/osaka-guide)'s religious heritage is substantial but often underappreciated — visitors focus on the food culture and [Osaka Castle](/japan/osaka-castle-guide) while the city's ancient temples and shrines receive a fraction of the attention given to [Kyoto](/japan/kyoto-guide)'s equivalent sites. This is an advantage: the sites are genuinely significant, and you'll see them with a fraction of the crowds. Shitenno-ji, founded in 593 AD, predates much of Kyoto. Sumiyoshi Taisha is one of the oldest and most important shrines in Japan. Here's the guide.
 
 ## Shitenno-ji Temple
 
@@ -117,4 +117,4 @@ Osaka's religious heritage is substantial but often underappreciated — visitor
 - At the main hall: place a coin in the offering box (¥5 — the five-yen coin is auspicious because "go-en" means "five yen" and also sounds like "good fortune/connection"), bow, and pray
 - Omamori (amulets): specific purpose amulets available at both temples and shrines — for study success, safe travel, health, love, business
 
-**Goshuincho (御朱印帳 — stamp books):** The practice of collecting unique ink stamps from temples and shrines — each temple/shrine has its own stamp, and collecting them in a special book is a popular devotional practice. Purchase a goshuincho (stamp book) at any major temple or shrine for ¥1,000–¥2,000, then collect stamps (¥300–¥500 each) throughout Japan. All five major Osaka sites above participate.
+**[Goshuincho](/japan/goshuincho-guide) (御朱印帳 — stamp books):** The practice of collecting unique ink stamps from temples and shrines — each temple/shrine has its own stamp, and collecting them in a special book is a popular devotional practice. Purchase a goshuincho (stamp book) at any major temple or shrine for ¥1,000–¥2,000, then collect stamps (¥300–¥500 each) throughout Japan. All five major Osaka sites above participate.

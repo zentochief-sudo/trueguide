@@ -10,7 +10,7 @@ tags: [Luxor, Aswan, Valley of the Kings, Karnak, Nile cruise, Egypt]
 city: cairo
 ---
 
-Upper Egypt — the ancient heartland 500–900 km south of Cairo along the Nile — contains the highest concentration of monumental ancient sites in the world. Luxor (ancient Thebes, capital of the New Kingdom pharaohs) and Aswan (the ancient southern border of Egypt) together represent a second essential Egypt experience, distinct from the Pyramids and Cairo.
+Upper [Egypt](/egypt) — the ancient heartland 500–900 km south of [Cairo](/egypt/cairo-travel-guide) along the Nile — contains the highest concentration of monumental ancient sites in the world. Luxor (ancient Thebes, capital of the New Kingdom pharaohs) and Aswan (the ancient southern border of Egypt) together represent a second essential Egypt experience, distinct from the Pyramids and Cairo.
 
 The Valley of the Kings alone contains 63 royal tombs. Karnak Temple is the largest religious complex ever built. The temples of Abu Simbel, carved directly into a Nubian cliff by Ramses II, were relocated block by block in the 1960s to save them from the rising waters of Lake Nasser. None of this is reachable as a day trip from Cairo — but 2–3 days in the south transforms a Cairo visit into a complete Egypt experience.
 

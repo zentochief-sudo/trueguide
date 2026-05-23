@@ -10,11 +10,11 @@ tags: []
 city: Bangkok
 ---
 
-Bangkok is one of those cities that takes a day to understand and a lifetime to fully know. It's simultaneously ancient and futuristic, devout and hedonistic, overwhelming and addictive. Three days gives you the essential Bangkok — enough to fall completely in love.
+[Bangkok](/thailand/bangkok-guide) is one of those cities that takes a day to understand and a lifetime to fully know. It's simultaneously ancient and futuristic, devout and hedonistic, overwhelming and addictive. Three days gives you the essential Bangkok — enough to fall completely in love.
 
 ## Day 1 – Royal Bangkok & the River
 
-**Morning:** Start at the **Grand Palace and Wat Phra Kaew** — arrive before 9am to beat the crowds. The Grand Palace complex is Thailand's most visited site, and for good reason: a dazzling cluster of gilded spires, mythological murals, and the revered Emerald Buddha (a 66cm jade statue clothed in gold and kept in the most elaborately decorated building in Thailand). Allow 2 hours. Dress code: cover shoulders and knees (wrap skirts available to borrow).
+**Morning:** Start at the **Grand Palace and Wat Phra Kaew** — arrive before 9am to beat the crowds. The Grand Palace complex is [Thailand](/thailand)'s most visited site, and for good reason: a dazzling cluster of gilded spires, mythological murals, and the revered Emerald Buddha (a 66cm jade statue clothed in gold and kept in the most elaborately decorated building in Thailand). Allow 2 hours. Dress code: cover shoulders and knees (wrap skirts available to borrow).
 
 Walk 10 minutes to **Wat Pho** — the largest temple complex in Bangkok, home to the famous **reclining Buddha** (46 metres long, entirely covered in gold leaf) and the original Thai massage school. Get a traditional Thai massage here — it's one of Bangkok's genuine pleasures (60 min for about €6).
 
@@ -30,7 +30,7 @@ Walk north along the river to **Tha Tien Market** for a late afternoon snack (pa
 
 On weekdays: the **Maeklong Railway Market** (90 min by train from Wongwian Yai station) — a market built along an active railway line; vendors fold away their awnings as a train passes through, then immediately reset when it's gone. Surreal and wonderful.
 
-**Afternoon:** **Jim Thompson House** (near National Stadium BTS) — the restored traditional Thai house-complex of American businessman Jim Thompson, who disappeared mysteriously in Malaysia in 1967. The collection of Cambodian and Thai art, and the architecture itself, are extraordinary. Guided tour takes 45 minutes.
+**Afternoon:** **Jim Thompson House** (near National Stadium BTS) — the restored traditional Thai house-complex of American businessman Jim Thompson, who disappeared mysteriously in [Malaysia](/malaysia) in 1967. The collection of Cambodian and Thai art, and the architecture itself, are extraordinary. Guided tour takes 45 minutes.
 
 Explore **Siam Square** — Bangkok's teen fashion heartland, full of street food carts, bubble tea, and Thai street fashion culture completely different from anything designed for tourists.
 
@@ -38,7 +38,7 @@ Explore **Siam Square** — Bangkok's teen fashion heartland, full of street foo
 
 ## Day 3 – Ancient Cities & Canal Life
 
-**Morning:** Take the Skytrain and train to **Ayutthaya** (90 min from Hualamphong station) — the ancient capital of Thailand, founded in 1350 and sacked by the Burmese in 1767. The ruins of enormous prang towers, seated Buddhas, and temple complexes spread across a small island city. The iconic image: a stone Buddha head grown into the roots of a banyan tree.
+**Morning:** Take the Skytrain and train to **[Ayutthaya](/thailand/ayutthaya-guide)** (90 min from Hualamphong station) — the ancient capital of Thailand, founded in 1350 and sacked by the Burmese in 1767. The ruins of enormous prang towers, seated Buddhas, and temple complexes spread across a small island city. The iconic image: a stone Buddha head grown into the roots of a banyan tree.
 
 Rent a bicycle in Ayutthaya to cover the spread-out ruins (€1/day). Return to Bangkok by mid-afternoon.
 

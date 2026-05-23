@@ -10,13 +10,13 @@ tags: [Portugal, March, spring, Douro Valley, Alentejo, wildflowers, Lisbon, Alg
 city: national
 ---
 
-March is Portugal's spring arrival — earlier than most of Europe, thanks to the Atlantic climate. The Alentejo plains turn green with wildflowers. The Douro Valley's almond and cherry blossoms give way to new vine growth. The Algarve has beach weather for the first time. And Lisbon, warming rapidly from February, begins to show the energy that made it famous. Crowds are building but haven't arrived; prices are beginning to rise from winter lows. March is the last window of genuine value before the April-June surge.
+March is [Portugal](/portugal)'s spring arrival — earlier than most of Europe, thanks to the Atlantic climate. The Alentejo plains turn green with wildflowers. The [Douro Valley](/portugal/douro-valley-guide)'s almond and cherry blossoms give way to new vine growth. The [Algarve](/portugal/algarve-guide) has beach weather for the first time. And [Lisbon](/portugal/lisbon-guide), warming rapidly from February, begins to show the energy that made it famous. Crowds are building but haven't arrived; prices are beginning to rise from winter lows. March is the last window of genuine value before the April-June surge.
 
 ## Weather in March
 
 **Lisbon:** 12°C to 18°C. Noticeably warmer than February. Spring flowers in the parks and along the avenues. The city's outdoor café culture reviving.
 
-**Porto:** 9°C to 16°C. Warming. The Douro valley produces warm, still days in late March with extraordinary light.
+**[Porto](/portugal/porto-guide):** 9°C to 16°C. Warming. The Douro valley produces warm, still days in late March with extraordinary light.
 
 **Algarve:** 14°C to 20°C. Beach weather — not for swimming (water 17°C) but warm enough for outdoor all-day activity. The cliff walks and beach hiking are at optimal conditions.
 
@@ -47,7 +47,7 @@ The Douro Valley — Portugal's most dramatic wine-growing landscape — begins 
 March Lisbon is the last week of affordable access before spring tourism builds:
 
 - **Museu Nacional do Azulejo:** The national tile museum in a former convent — the most complete collection of Portuguese azulejo (decorative tile) in existence. March has minimal queuing.
-- **Palácio Nacional de Sintra:** The 30-minute train from Lisbon to the fairy-tale palace town of Sintra — the Moorish castle on the hill, the Pena Palace (colorful Romantic pastiche on the summit), and the Quinta da Regaleira (with its initiatic well). March mornings before 10 AM: near-empty.
+- **Palácio Nacional de [Sintra](/portugal/sintra-guide):** The 30-minute train from Lisbon to the fairy-tale palace town of Sintra — the Moorish castle on the hill, the Pena Palace (colorful Romantic pastiche on the summit), and the Quinta da Regaleira (with its initiatic well). March mornings before 10 AM: near-empty.
 - **LX Factory:** The repurposed textile factory complex under the Alcântara viaduct — Sunday market, independent restaurants, bookshop, and creative businesses. March Sundays without August crowds.
 
 ## Semana Santa (Holy Week) in March/April

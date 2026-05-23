@@ -10,7 +10,7 @@ tags: [Guadalajara, day trips, Tequila, Lake Chapala, Mazamitla, World Cup 2026]
 city: guadalajara
 ---
 
-Guadalajara's position in west-central Mexico makes it an excellent base for day trips — the town of Tequila is 60 km away, Lake Chapala is 45 km, and the state of Jalisco has enough geographic variety (mountains, lake, and coast) to fill a week.
+Guadalajara's position in west-central [Mexico](/mexico) makes it an excellent base for day trips — the town of Tequila is 60 km away, Lake Chapala is 45 km, and the state of Jalisco has enough geographic variety (mountains, lake, and coast) to fill a week.
 
 ---
 

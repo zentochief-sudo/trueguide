@@ -10,7 +10,7 @@ tags: [Tanzania, February, calving season, Serengeti, Sauti za Busara, Zanzibar,
 city: national
 ---
 
-February is the peak month for one of the most dramatic wildlife events on Earth: the wildebeest calving season on the Southern Serengeti's Ndutu plains. The birthing is concentrated because all the animals ovulate at roughly the same time — a survival strategy that overwhelms predators with more calves than they can consume. Simultaneously, Zanzibar's Sauti za Busara festival brings Stonetown alive with East African music and culture. February is an exceptional month to be in Tanzania.
+February is the peak month for one of the most dramatic wildlife events on Earth: the wildebeest calving season on the Southern Serengeti's Ndutu plains. The birthing is concentrated because all the animals ovulate at roughly the same time — a survival strategy that overwhelms predators with more calves than they can consume. Simultaneously, [Zanzibar](/tanzania/zanzibar-guide)'s Sauti za Busara festival brings Stonetown alive with East African music and culture. February is an exceptional month to be in [Tanzania](/tanzania).
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ February is the peak month for one of the most dramatic wildlife events on Earth
 
 **Central/Northern Serengeti:** 22–28°C. The main herd is concentrated in the south. The northern Serengeti is quiet in February.
 
-**Ngorongoro:** 18–24°C. Excellent and green.
+**[Ngorongoro](/tanzania/ngorongoro-guide):** 18–24°C. Excellent and green.
 
 **Zanzibar:** 26–31°C. The best beach weather of the year — northeast trade winds keeping things dry and comfortable. February is prime Zanzibar season.
 
-**Mount Kilimanjaro:** Dry conditions continue. Excellent summit conditions. February is among the best months for the upper mountain.
+**Mount [Kilimanjaro](/tanzania/kilimanjaro-guide):** Dry conditions continue. Excellent summit conditions. February is among the best months for the upper mountain.
 
 ## What to Do
 

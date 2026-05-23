@@ -10,7 +10,7 @@ tags: [Ciudad de México, vida nocturna, bares, cantinas, World Cup 2026, coctel
 city: cdmx
 ---
 
-Mexico City doesn't close. At 3am, the Mercado de Jamaica is still selling flowers; the all-night taquerías have lines; the clubs in Condesa are still going. The city has one of the longest nights in the world — not by exaggeration but because its size (22 million in the metropolitan area) guarantees that at any moment there are enough people awake to sustain any kind of establishment.
+[Mexico](/mexico) City doesn't close. At 3am, the Mercado de Jamaica is still selling flowers; the all-night taquerías have lines; the clubs in Condesa are still going. The city has one of the longest nights in the world — not by exaggeration but because its size (22 million in the metropolitan area) guarantees that at any moment there are enough people awake to sustain any kind of establishment.
 
 For World Cup visitors, a night in CDMX is one of the most distinct experiences in the tournament.
 

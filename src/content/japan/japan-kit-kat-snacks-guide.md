@@ -12,7 +12,7 @@ city: national
 
 Japan's Kit Kat culture is a genuine phenomenon, not a marketing gimmick. The brand launched in Japan in 1973; the name's phonetic similarity to *kitto katsu* (きっと勝つ — "surely win") made Kit Kats popular as good luck gifts for university entrance exams. Nestlé Japan began developing regional flavors in 2000, and the program has since produced over 300 varieties including matcha, sake, wasabi, purple sweet potato, and — at the Premium Kit Kat boutiques — single-origin cacao and Japanese whisky infusions.
 
-The broader omiyage (souvenir gift) snack culture means that every region of Japan has developed specific confectionery tied to local ingredients: Hokkaido for dairy, Kyoto for matcha, Okinawa for shikuwasa citrus and black sugar, Nagoya for red miso. Navigating this intelligently produces genuinely excellent things to bring home.
+The broader omiyage (souvenir gift) snack culture means that every region of Japan has developed specific confectionery tied to local ingredients: [Hokkaido](/japan/hokkaido-guide) for dairy, [Kyoto](/japan/kyoto-guide) for matcha, [Okinawa](/japan/okinawa-guide) for shikuwasa citrus and black sugar, [Nagoya](/japan/nagoya-guide) for red miso. Navigating this intelligently produces genuinely excellent things to bring home.
 
 ---
 
@@ -55,7 +55,7 @@ The Kit Kat Chocolatory boutiques (Ginza flagship, Seibu Shibuya, Isetan Shinjuk
 ## Regional Snacks by Destination
 
 ### Hokkaido
-**Shiroi Koibito** (白い恋人): Thin butter cookie sandwiching white or dark chocolate — the most famous Hokkaido souvenir, produced exclusively by Ishiya. Only authentic in Hokkaido (the factory is a tourist destination in Sapporo; the gift shops at the airport are reliable).
+**Shiroi Koibito** (白い恋人): Thin butter cookie sandwiching white or dark chocolate — the most famous Hokkaido souvenir, produced exclusively by Ishiya. Only authentic in Hokkaido (the factory is a tourist destination in [Sapporo](/japan/sapporo-guide); the gift shops at the airport are reliable).
 
 **Rokkatei confectionery**: Multiple Hokkaido-regional pastry items; the *baikado* (plum butter cookie) is their signature.
 
@@ -72,12 +72,12 @@ The Kit Kat Chocolatory boutiques (Ginza flagship, Seibu Shibuya, Isetan Shinjuk
 **Ningyo-yaki**: Small molded cakes filled with red bean paste in festival figure shapes — sold at Asakusa; a traditional and excellent omiyage.
 
 ### Osaka
-**Baumkuchen**: Not specifically Osaka but the Japanese baumkuchen (layered cake) tradition is particularly strong in Kansai. Oven-baked, soft, honey-fragrant versions sold in department store basements.
+**Baumkuchen**: Not specifically [Osaka](/japan/osaka-guide) but the Japanese baumkuchen (layered cake) tradition is particularly strong in Kansai. Oven-baked, soft, honey-fragrant versions sold in department store basements.
 
 **Pocky regional flavors**: Some Osaka versions of Glico products are regionally specific; worth checking.
 
 ### Hiroshima
-**Momiji Manju** (もみじ饅頭): Maple-leaf-shaped steamed cakes filled with red bean, matcha, custard, or cream cheese. Named for autumn maple leaves (*momiji*); the most common souvenir from Miyajima and Hiroshima city.
+**Momiji Manju** (もみじ饅頭): Maple-leaf-shaped steamed cakes filled with red bean, matcha, custard, or cream cheese. Named for autumn maple leaves (*momiji*); the most common souvenir from [Miyajima](/japan/miyajima-guide) and [Hiroshima](/japan/hiroshima-guide) city.
 
 ### Okinawa
 **ちんすこう (Chinsukou)**: A lard-based shortbread cookie with various flavors; the most traditional Okinawan sweet.

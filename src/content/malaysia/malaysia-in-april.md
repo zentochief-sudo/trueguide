@@ -10,7 +10,7 @@ tags: [Malaysia, April, Perhentian, Tioman, whale sharks, Hari Raya, east coast]
 city: national
 ---
 
-April is one of Malaysia's finest months for the east coast. The Perhentian Islands are fully open with excellent visibility. Tioman's underwater world is in prime condition — and in some years, whale sharks visit the island's channels in April. Hari Raya Aidilfitri (if it falls in April — it rotates through the Islamic calendar) transforms Malaysia with the most important Malaysian celebration: an open-house culture where every family invites neighbors of all ethnicities to share food.
+April is one of [Malaysia](/malaysia)'s finest months for the east coast. The Perhentian Islands are fully open with excellent visibility. Tioman's underwater world is in prime condition — and in some years, whale sharks visit the island's channels in April. Hari Raya Aidilfitri (if it falls in April — it rotates through the Islamic calendar) transforms Malaysia with the most important Malaysian celebration: an open-house culture where every family invites neighbors of all ethnicities to share food.
 
 ## Weather & Conditions
 
@@ -18,13 +18,13 @@ April is one of Malaysia's finest months for the east coast. The Perhentian Isla
 
 **Tioman Island:** 27–32°C. Good diving conditions. April is within the whale shark visiting window.
 
-**Langkawi:** Getting wetter as the southwest monsoon approaches (arrives May–October). Still reasonable.
+**[Langkawi](/malaysia/langkawi-guide):** Getting wetter as the southwest monsoon approaches (arrives May–October). Still reasonable.
 
-**Kuala Lumpur:** 25–32°C. Humid and hot. Some afternoon rain.
+**[Kuala Lumpur](/malaysia/kuala-lumpur-guide):** 25–32°C. Humid and hot. Some afternoon rain.
 
 **Sabah:** 24–30°C. Generally good.
 
-**Cameron Highlands:** 18–24°C. The hill station in central Pahang is cool and green year-round. April tea harvest season.
+**[Cameron Highlands](/malaysia/cameron-highlands-guide):** 18–24°C. The hill station in central Pahang is cool and green year-round. April tea harvest season.
 
 ## What to Do
 
@@ -36,7 +36,7 @@ April is one of Malaysia's finest months for the east coast. The Perhentian Isla
 
 **Hari Raya Aidilfitri (when in April):** The celebration ending Ramadan is Malaysia's biggest cultural event. The country empties to family homes for the first two days (roads jammed the days before). Open house culture — Malay families invite neighbors of any religion to visit, eat traditional raya food (rendang, ketupat rice cakes, kuih cookies), and celebrate — is one of Malaysia's finest social traditions. If you're in Malaysia during Hari Raya, accepting any open house invitation is the correct response.
 
-**Kuching, Sarawak:** Sarawak's capital is an excellent April destination — the Sarawak Museum (excellent indigenous Borneo collection), the riverfront cafes, and the kuching (cat) statues that give the city its name are all accessible. The adjacent Semenggoh Wildlife Centre has semi-wild orangutans that return for feeding in the morning.
+**Kuching, Sarawak:** Sarawak's capital is an excellent April destination — the Sarawak Museum (excellent indigenous [Borneo](/malaysia/borneo-guide) collection), the riverfront cafes, and the kuching (cat) statues that give the city its name are all accessible. The adjacent Semenggoh Wildlife Centre has semi-wild orangutans that return for feeding in the morning.
 
 ## Festivals & Events
 

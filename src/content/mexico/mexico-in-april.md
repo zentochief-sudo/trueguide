@@ -10,7 +10,7 @@ tags: [Mexico, April, Semana Santa, Holy Week, dry season, Oaxaca, Yucatan, trav
 city: national
 ---
 
-April is Mexico's busiest domestic travel month. Semana Santa — Holy Week — sends millions of Mexicans to the beach, to their hometown, and to religious celebrations. For foreign visitors, it means exceptional cultural programming and significant crowds at tourist hubs simultaneously. The dry season is still running, the weather is excellent, and prices spike sharply around Holy Week.
+April is [Mexico](/mexico)'s busiest domestic travel month. Semana Santa — Holy Week — sends millions of Mexicans to the beach, to their hometown, and to religious celebrations. For foreign visitors, it means exceptional cultural programming and significant crowds at tourist hubs simultaneously. The dry season is still running, the weather is excellent, and prices spike sharply around Holy Week.
 
 ## Weather in April
 

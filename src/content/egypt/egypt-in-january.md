@@ -10,7 +10,7 @@ tags: [Egypt, January, winter, Pyramids, Luxor, Nile, Aswan]
 city: national
 ---
 
-January is the month Egypt finally cooperates with the idea of exploring ancient monuments for hours on end. Cairo is cool and manageable. Luxor's Valley of the Kings can be walked without requiring emergency shade-seeking. The Nile is calm. January is peak travel season, which means prices are higher and the organized tour groups are out in force — but the alternative (summer) makes those crowds look small.
+January is the month [Egypt](/egypt) finally cooperates with the idea of exploring ancient monuments for hours on end. [Cairo](/egypt/cairo-travel-guide) is cool and manageable. Luxor's Valley of the Kings can be walked without requiring emergency shade-seeking. The Nile is calm. January is peak travel season, which means prices are higher and the organized tour groups are out in force — but the alternative (summer) makes those crowds look small.
 
 ## Weather & Conditions
 
@@ -40,7 +40,7 @@ Pack layers for mornings and evenings. Daytime at the temples is comfortable in 
 
 ## Festivals & Events
 
-**Coptic Christmas (January 7):** Egypt's substantial Coptic Christian community celebrates Christmas on January 7. Church services are elaborate and observed across the country. Coptic Cairo (the old southern district) has remarkable early Christian churches — the Hanging Church (St. Virgin Mary), the Church of St. Sergius — worth visiting during this period.
+**Coptic Christmas (January 7):** Egypt's substantial Coptic Christian community celebrates Christmas on January 7. Church services are elaborate and observed across the country. [Coptic Cairo](/egypt/coptic-cairo-guide) (the old southern district) has remarkable early Christian churches — the Hanging Church (St. Virgin Mary), the Church of St. Sergius — worth visiting during this period.
 
 **Nile Floods and Agricultural Calendar:** January sees the Nile Valley at its most agricultural. The fields between Luxor and Aswan are green and productive — a striking visual contrast with the desert beyond the irrigation reach. Felucca rides in January offer this green-brown-desert landscape at its most vivid.
 

@@ -10,7 +10,7 @@ tags: [India, food, Indian cuisine, street food, chaat, dosa, biryani, thali, re
 city: delhi
 ---
 
-Indian cuisine is not a single cuisine — it is a continent of cooking traditions, with as much difference between Bengali fish curries and Rajasthani lal maas as between French and Thai cooking. The single most important fact about eating in India: what appears on international "Indian restaurant" menus is a narrow slice of north Indian (largely Punjabi) cooking — the tandoor, the tikka masala, the naan. The real range is dramatically more diverse.
+Indian cuisine is not a single cuisine — it is a continent of cooking traditions, with as much difference between Bengali fish curries and Rajasthani lal maas as between French and Thai cooking. The single most important fact about eating in [India](/india): what appears on international "Indian restaurant" menus is a narrow slice of north Indian (largely Punjabi) cooking — the tandoor, the tikka masala, the naan. The real range is dramatically more diverse.
 
 ---
 
@@ -19,7 +19,7 @@ Indian cuisine is not a single cuisine — it is a continent of cooking traditio
 ### North India (Punjab, Uttar Pradesh, Delhi)
 The tandoor-based tradition of the Mughal courts — naan, roti, and paratha from the clay oven; rich curries thickened with onion, tomato, and cream.
 
-**Dal makhani**: Black lentils slow-cooked for 12–24 hours with butter and cream — the most time-intensive of the dal varieties. The original is from Moti Mahal restaurant in Delhi.
+**Dal makhani**: Black lentils slow-cooked for 12–24 hours with butter and cream — the most time-intensive of the dal varieties. The original is from Moti Mahal restaurant in [Delhi](/india/delhi-guide).
 
 **Butter chicken (murgh makhani)**: Also a Moti Mahal innovation (1950s) — tandoor-cooked chicken in a tomato-cream sauce. Genuinely Indian; the international version is a reasonable approximation.
 
@@ -39,7 +39,7 @@ Rice, coconut, tamarind, curry leaves — a fundamentally different flavor profi
 
 **Misal pav**: Maharashtra street food — a spiced moth bean sprout curry with farsan (fried chickpea noodles) and a white bread roll. The Kolhapur version (the spiciest) is eaten across Maharashtra.
 
-**Lal maas**: Rajasthan's red meat curry — mutton slow-cooked in a Mathania chili paste, characterized by intense heat and a dark red color. A hunter's dish from the desert tradition.
+**Lal maas**: [Rajasthan](/india/rajasthan-guide)'s red meat curry — mutton slow-cooked in a Mathania chili paste, characterized by intense heat and a dark red color. A hunter's dish from the desert tradition.
 
 ### East India (West Bengal, Odisha)
 Bengali cooking is the most distinct regional cuisine in India — mustard oil, panch phoron (five-spice), fish, and an exceptional sweetmeat tradition.
@@ -52,7 +52,7 @@ Bengali cooking is the most distinct regional cuisine in India — mustard oil, 
 
 ## Street Food
 
-**Chaat**: The family of savory snacks centered on the combination of crispy, tangy, sweet, and spicy — pani puri (small hollow crispy balls filled with spiced water), bhel puri (puffed rice with tamarind and green chutney), sev puri, and papdi chaat. The best chaat is in Delhi and Mumbai; the Chandni Chowk market and the stalls of Mumbai's Chowpatty Beach are the standard references.
+**Chaat**: The family of savory snacks centered on the combination of crispy, tangy, sweet, and spicy — pani puri (small hollow crispy balls filled with spiced water), bhel puri (puffed rice with tamarind and green chutney), sev puri, and papdi chaat. The best chaat is in Delhi and [Mumbai](/india/mumbai-guide); the Chandni Chowk market and the stalls of Mumbai's Chowpatty Beach are the standard references.
 
 **Kathi rolls (Kolkata)**: A flat bread (paratha) rolled around a filling of egg, chicken, mutton, or paneer — the original roll format, from Kolkata's Nizam's restaurant (1932). Now found nationwide but best at its source.
 

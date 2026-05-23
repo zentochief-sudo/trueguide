@@ -19,17 +19,17 @@ Pakistani food is a serious subject. The country spans a continent's worth of ag
 ### Nihari
 A slow-cooked beef or lamb shank stew, simmered overnight with spices including ginger, coriander, and a complex spice blend (*nihari masala*) — the dish takes its name from the Arabic for "daytime," as it was traditionally eaten at dawn after the overnight Fajr prayer. The broth is thick, heavily spiced, and served with naan, fried shallots, sliced ginger, lime, and green chili. One of the most complex and deeply flavored meat dishes in South Asian cuisine.
 
-Where to eat it: Lahore — the Walled City area has nihari specialists that have operated for 50+ years. **Waris Nihari** (near the Delhi Gate, Lahore) is one of the most venerated. In Karachi: **Waheed Nihari** and **Pehlwan Nihari** in the old city.
+Where to eat it: [Lahore](/pakistan/lahore-guide) — the Walled City area has nihari specialists that have operated for 50+ years. **Waris Nihari** (near the Delhi Gate, Lahore) is one of the most venerated. In Karachi: **Waheed Nihari** and **Pehlwan Nihari** in the old city.
 
 ### Karahi
 Meat (chicken, mutton, or beef) cooked in a wok (*karahi*) over high heat with tomatoes, ginger, garlic, green chili, and spices — the Pakistani equivalent of a stir-fry in technique but firmly South Asian in flavor. Less liquid than a curry; the tomato breaks down into the fat of the meat. The karahi gosht (mutton version) is richer; the karahi murgh (chicken) is faster-cooked and more delicate.
 
-Roadside karahi restaurants are widespread throughout Pakistan — large woks over gas flames, cooking to order, served with naan. The Karachi versions (particularly in Burns Road) are known for their simplicity; Peshawar's karahis are cooked in ghee and served with a generous hand of fresh ginger.
+Roadside karahi restaurants are widespread throughout [Pakistan](/pakistan) — large woks over gas flames, cooking to order, served with naan. The Karachi versions (particularly in Burns Road) are known for their simplicity; Peshawar's karahis are cooked in ghee and served with a generous hand of fresh ginger.
 
 ### Chapli Kebab
 Minced meat (beef or lamb) mixed with onion, tomatoes, coriander seeds, and spices, formed into a flat patty and fried in beef fat. The signature dish of the Pashtun belt (Peshawar and KPK). The name comes from the Pashto for "flat." A properly made chapli kebab should have crisp edges, a juicy interior, and the sour note of dried pomegranate seeds (*anardana*) in the spice mix.
 
-Where to eat it: Peshawar's Namak Mandi (the old spice market area) is the home of the best chapli kebab. In Islamabad: Afghan Colony restaurants and specific KPK-food spots.
+Where to eat it: Peshawar's Namak Mandi (the old spice market area) is the home of the best chapli kebab. In [Islamabad](/pakistan/islamabad-guide): Afghan Colony restaurants and specific KPK-food spots.
 
 ### Biryani
 Pakistan has several distinct biryani traditions. **Karachi biryani** is the most famous internationally — cooked in layers with spiced meat and partially cooked rice, the whole pot sealed and finished over a low flame (*dum* cooking). More heavily spiced and more aromatic than Indian versions. Potatoes are a common addition in the Karachi style.
@@ -66,6 +66,6 @@ Beef or goat trotters slow-cooked overnight in a rich, gelatinous broth with spi
 
 ## Practical Notes
 
-**Pakistani food is almost entirely halal** — beef, chicken, and mutton are standard; pork is absent. Alcohol is officially prohibited (though available in international hotels). The cuisine is heavily meat-based; vegetarian options exist (dhal, sabzi, mixed vegetable dishes) but are less central than in Hindu-majority India.
+**Pakistani food is almost entirely halal** — beef, chicken, and mutton are standard; pork is absent. Alcohol is officially prohibited (though available in international hotels). The cuisine is heavily meat-based; vegetarian options exist (dhal, sabzi, mixed vegetable dishes) but are less central than in Hindu-majority [India](/india).
 
 **Tea**: Chai (milky, spiced, sweet) is ubiquitous and excellent. Kashmiri chai (a salty, nutty, pink tea made with green tea and milk) is specific to the northern regions and entirely unlike any other tea you've had.

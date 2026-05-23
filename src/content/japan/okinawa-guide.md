@@ -20,9 +20,9 @@ The beaches are genuinely exceptional. The culture is unlike anywhere else in Ja
 
 ## Getting There
 
-**From Tokyo**: 2.5 hours by flight from Haneda or Narita to Naha Airport (¥10,000–25,000 depending on airline and season). The main carriers are ANA, JAL, Peach, and JetStar.
+**From [Tokyo](/japan/tokyo-guide)**: 2.5 hours by flight from Haneda or Narita to Naha Airport (¥10,000–25,000 depending on airline and season). The main carriers are ANA, JAL, Peach, and JetStar.
 
-**From Osaka/Fukuoka**: 1.5–2 hours by flight.
+**From [Osaka](/japan/osaka-guide)/[Fukuoka](/japan/fukuoka-guide)**: 1.5–2 hours by flight.
 
 **Shinkansen does not reach Okinawa** — it's an island, requiring a flight or a 24-hour ferry from Osaka (for the adventurous and patient).
 

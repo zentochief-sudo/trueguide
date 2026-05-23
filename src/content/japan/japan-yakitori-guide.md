@@ -22,7 +22,7 @@ The vocabulary of yakitori ordering is the entry point to the full culture:
 
 **Mune (胸)**: Breast meat — leaner, tends to dry out if overcooked. The better yakitori-ya keep it medium-rare inside (*namarashiku* — specifically requesting slightly underdone).
 
-**Negima (ねぎま)**: Alternating pieces of thigh and leek — the classic Tokyo yakitori skewer. The leek chars at the edges while the chicken cooks; the combination of sweetened soy tare with the caramelized leek is the most widely recognized yakitori flavor.
+**Negima (ねぎま)**: Alternating pieces of thigh and leek — the classic [Tokyo](/japan/tokyo-guide) yakitori skewer. The leek chars at the edges while the chicken cooks; the combination of sweetened soy tare with the caramelized leek is the most widely recognized yakitori flavor.
 
 **Tsukune (つくね)**: Chicken meatball — ground chicken with binding ingredients, shaped and skewered. Served with a raw egg yolk for dipping or already coated in tare. The textural contrast with the other cuts makes it a reliable ordering choice.
 

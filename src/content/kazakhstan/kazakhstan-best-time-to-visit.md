@@ -10,13 +10,13 @@ tags: []
 city: national
 ---
 
-Kazakhstan has one of the world's most extreme continental climates — winter temperatures below -30°C in Astana, summer highs above 40°C on the steppe. Almaty is significantly milder due to its mountain location. Timing is everything.
+[Kazakhstan](/kazakhstan) has one of the world's most extreme continental climates — winter temperatures below -30°C in [Astana](/kazakhstan/astana-guide), summer highs above 40°C on the steppe. [Almaty](/kazakhstan/almaty-travel-guide) is significantly milder due to its mountain location. Timing is everything.
 
 ## The Short Answer
 
 **Best for Almaty:** April–June and September–October  
 **Best for mountain hiking:** June–September  
-**Best for Charyn Canyon:** April–June and September–October  
+**Best for [Charyn Canyon](/kazakhstan/charyn-canyon-guide):** April–June and September–October  
 **Best for steppe travel:** May–September  
 **Avoid Astana:** December–February (extreme cold, -25 to -35°C)  
 **Avoid the steppe:** July–August (40°C+ heat)
@@ -52,7 +52,7 @@ Almaty: 28–35°C — hot but manageable. Burabay (Borovoe): busy family resort
 Autumn colours peak — especially spectacular in Altai and around Kolsai Lakes. Mountain trails beginning to close in upper zones. Almaty pleasant (10–18°C). Astana cold (5–10°C). Good for cultural travel and canyon landscapes.
 
 ### November
-Cold arriving fast. Snow above 2,000m in Almaty mountains. Astana becomes very cold (-5 to -15°C). Not recommended for outdoor travel.
+Cold arriving fast. Snow above 2,000m in [Almaty mountains](/kazakhstan/almaty-mountains-guide). Astana becomes very cold (-5 to -15°C). Not recommended for outdoor travel.
 
 ### December
 Ski season begins at Shymbulak (Almaty). Almaty: -5 to 5°C. Astana: -15 to -25°C. Christmas and New Year celebrations in Almaty are lively.
@@ -66,7 +66,7 @@ Ski season begins at Shymbulak (Almaty). Almaty: -5 to 5°C. Astana: -15 to -25�
 | March 21–23 | Nauryz — Kazakh New Year, national festival |
 | May | Kokpar (traditional horse sport) tournaments |
 | July | Qazaq Eli cultural festival |
-| July–August | Shymkent summer food festivals |
+| July–August | [Shymkent](/kazakhstan/shymkent-guide) summer food festivals |
 | September | Almaty City Day (September 25) |
 | October | Eagle hunting festivals (Altai region) |
 | December–February | Shymbulak ski season |
@@ -81,5 +81,5 @@ Ski season begins at Shymbulak (Almaty). Almaty: -5 to 5°C. Astana: -15 to -25�
 | Almaty mountains | Jun–Sep | Oct–May (snow) |
 | Charyn Canyon | Apr–Jun, Sep–Oct | Jul–Aug (extreme heat) |
 | Astana | May–Sep | Oct–Apr (extreme cold) |
-| Silk Road south (Shymkent, Turkestan) | Apr–May, Sep–Nov | Jun–Aug (40°C+ heat) |
+| [Silk Road](/kazakhstan/silk-road-guide) south (Shymkent, Turkestan) | Apr–May, Sep–Nov | Jun–Aug (40°C+ heat) |
 | Burabay / Borovoe | Jun–Sep | Winter |

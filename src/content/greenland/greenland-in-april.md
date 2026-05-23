@@ -10,7 +10,7 @@ tags: [Greenland, April, spring, hiking, Ilulissat, ice fjord, transition, Nuuk]
 city: national
 ---
 
-April is Greenland's transition month. The sea ice softens and dog sled season ends — often abruptly, when a warm spell makes the ice unsafe within days. The hiking trails at lower elevations around Nuuk and Sisimiut begin opening as the snow recedes. Daylight stretches toward 16 hours by month end. The icebergs in Disko Bay begin their seasonal movement as the sea ice releases them — April visitors watch icebergs the size of apartment buildings slowly rotating and drifting as the fjord opens. An awkward but rewarding transitional month.
+April is [Greenland](/greenland)'s transition month. The sea ice softens and dog sled season ends — often abruptly, when a warm spell makes the ice unsafe within days. The hiking trails at lower elevations around [Nuuk](/greenland/nuuk-travel-guide) and [Sisimiut](/greenland/sisimiut-guide) begin opening as the snow recedes. Daylight stretches toward 16 hours by month end. The icebergs in Disko Bay begin their seasonal movement as the sea ice releases them — April visitors watch icebergs the size of apartment buildings slowly rotating and drifting as the fjord opens. An awkward but rewarding transitional month.
 
 ## Weather & Conditions
 
@@ -20,13 +20,13 @@ April is Greenland's transition month. The sea ice softens and dog sled season e
 
 **Sisimiut:** -4 to -12°C. Dog sled season ending by mid-to-late April.
 
-**South Greenland (Qaqortoq):** 2 to -4°C. Earliest spring conditions in all of Greenland.
+**[South Greenland](/greenland/south-greenland-guide) (Qaqortoq):** 2 to -4°C. Earliest spring conditions in all of Greenland.
 
 **Sea ice:** Breaking up and becoming unreliable. Dog sled season effectively ends.
 
 ## What to Do
 
-**Ilulissat Icefjord iceberg season opening:** As the sea ice breaks up in April, the icebergs that have been frozen in place all winter begin to move. Watching a 50-meter-high iceberg — locked in place since October — slowly rotating and drifting is one of Greenland's most extraordinary experiences. Boat tours begin operating from Ilulissat harbor (initially small vessels, with larger boats as ice recedes). The Icefjord Centre provides context on the Sermeq Kujalleq glacier (the fastest-moving glacier in the world, calving 20–35 billion tons of ice annually).
+**[Ilulissat Icefjord](/greenland/ilulissat-icefjord-guide) iceberg season opening:** As the sea ice breaks up in April, the icebergs that have been frozen in place all winter begin to move. Watching a 50-meter-high iceberg — locked in place since October — slowly rotating and drifting is one of Greenland's most extraordinary experiences. Boat tours begin operating from Ilulissat harbor (initially small vessels, with larger boats as ice recedes). The Icefjord Centre provides context on the Sermeq Kujalleq glacier (the fastest-moving glacier in the world, calving 20–35 billion tons of ice annually).
 
 **Hiking from Nuuk:** April begins Nuuk's hiking season at lower elevations. The Nuuk fjord trails, the colonial harbor area walk, and the nearby Arctic Circle Trail starting point near Kangerlussuaq are accessible. The 165km Arctic Circle Trail from Kangerlussuaq to Sisimiut is not walkable in April (too much snow in passes), but lower-elevation day hikes around Nuuk work well.
 
@@ -42,7 +42,7 @@ April is Greenland's transition month. The sea ice softens and dog sled season e
 
 ## Practical Tips
 
-Dog sled season end: April is the most unpredictable dog sled month. A warm spell can end the season without notice. If dog sledding is a priority, book February or early March. April is not reliable.
+Dog sled season end: April is the most unpredictable dog sled month. A warm spell can end the season without notice. If [dog sledding](/greenland/dog-sledding-guide) is a priority, book February or early March. April is not reliable.
 
 Sea ice: do not walk on sea ice in April without local guidance. The ice that looked solid in March can become dangerous quickly in warm weather.
 

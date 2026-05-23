@@ -10,7 +10,7 @@ tags: [Hokkaido, Japan, Sapporo, nature, national park, skiing, Niseko, ramen, o
 city: national
 ---
 
-Hokkaido is Japan's second-largest island and its least populated by density. It covers 22% of Japan's land area and holds about 5% of its population — in national park terms, in available space per person, in mountain and forest scale, it belongs to a different country than Osaka or Tokyo.
+Hokkaido is Japan's second-largest island and its least populated by density. It covers 22% of Japan's land area and holds about 5% of its population — in national park terms, in available space per person, in mountain and forest scale, it belongs to a different country than [Osaka](/japan/osaka-guide) or [Tokyo](/japan/tokyo-guide).
 
 The island was not seriously settled by Japanese until the Meiji government pushed colonization in the 1870s, partly to counter Russian interest in the north. Before that, the land was Ainu — the indigenous people of Hokkaido, Sakhalin, and the Kuril Islands, whose culture, language, and relationship with the land were systematically dismantled during the Meiji modernization period and are only now receiving formal recognition.
 
@@ -20,13 +20,13 @@ Hokkaido rewards people who come for nature, winter sports, and food. It does no
 
 ## When to Go
 
-**Winter (December–March)**: The main draw for most international visitors — world-class powder snow, the Sapporo Snow Festival (February), icebreaker tours on the Sea of Okhotsk. **Niseko** gets 15 meters of annual snowfall and is legitimately one of the best ski destinations in Asia. Accommodation fills in January–February; book months ahead.
+**Winter (December–March)**: The main draw for most international visitors — world-class powder snow, the [Sapporo](/japan/sapporo-guide) Snow Festival (February), icebreaker tours on the Sea of Okhotsk. **Niseko** gets 15 meters of annual snowfall and is legitimately one of the best ski destinations in Asia. Accommodation fills in January–February; book months ahead.
 
 **Summer (June–August)**: Long days, cool temperatures (25°C average in Sapporo versus 35°C in Tokyo), lavender fields in Furano, hiking in Daisetsuzan. The season when Hokkaido is most comfortable and least crowded by Japanese domestic tourists.
 
 **Autumn (September–October)**: The foliage in Daisetsuzan turns first in Japan — usually by mid-September, weeks before the mainland. Dramatic color change on the mountain slopes. Hiking season at its best.
 
-**Spring (April–May)**: Late spring arrivals; cherry blossoms reach Hokkaido in late April when they have long finished in Kyushu. The combination of cherry blossom and remaining snow on mountains is specifically Hokkaido.
+**Spring (April–May)**: Late spring arrivals; cherry blossoms reach Hokkaido in late April when they have long finished in Kyushu. The combination of [cherry blossom](/japan/cherry-blossom-guide) and remaining snow on mountains is specifically Hokkaido.
 
 ---
 
@@ -98,7 +98,7 @@ The Ainu are the indigenous people of Hokkaido (and formerly the Kuril Islands a
 
 ## Hokkaido Food
 
-**Sea urchin (uni)**: Hokkaido produces Japan's finest uni, with two varieties: *murasaki uni* (purple, sweeter, summer) and *bafun uni* (horse dung urchin, darker, more intense, May–August). The Shakotan Peninsula and Rishiri Island have particularly regarded uni. Eating it fresh at a market stall in Sapporo's Nijo Market, at a counter in the Otaru fish market, or — ideally — at a small restaurant in a fishing town, is different from eating it elsewhere.
+**Sea urchin (uni)**: Hokkaido produces Japan's finest uni, with two varieties: *murasaki uni* (purple, sweeter, summer) and *bafun uni* (horse dung urchin, darker, more intense, May–August). The Shakotan Peninsula and Rishiri Island have particularly regarded uni. Eating it fresh at a market stall in Sapporo's Nijo Market, at a counter in the [Otaru](/japan/otaru-guide) fish market, or — ideally — at a small restaurant in a fishing town, is different from eating it elsewhere.
 
 **Snow crab (zuwai-gani)** and **king crab (taraba-gani)**: The crab season (November–March) brings enormous amounts of both to Hokkaido markets. Boiled simply, with rice, is the standard and correct approach. The hairy crab (*kegani*) is the premium Hokkaido variety; smaller but richer than the larger crabs.
 
@@ -118,4 +118,4 @@ Hokkaido is large and public transport outside Sapporo is limited. The JR Hokkai
 
 ---
 
-Hokkaido is Japan without compression. The distances are real, the nature is genuinely wild, and the food comes from landscapes you can see from the restaurant window. If you have already done Tokyo, Kyoto, and Osaka, and you're asking what else Japan has — this is the answer.
+Hokkaido is Japan without compression. The distances are real, the nature is genuinely wild, and the food comes from landscapes you can see from the restaurant window. If you have already done Tokyo, [Kyoto](/japan/kyoto-guide), and Osaka, and you're asking what else Japan has — this is the answer.

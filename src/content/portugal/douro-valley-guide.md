@@ -12,7 +12,7 @@ city: porto
 
 The Douro Valley is the world's oldest demarcated wine region — established in 1756 by the Marquis of Pombal to regulate the port wine trade. The landscape that resulted from 250 years of terraced viticulture on the steep schist slopes of the river valley is a UNESCO World Heritage Cultural Landscape (2001): a series of interlocking vine terraces carved into slopes that would otherwise be unworkable, rising 200–400 m above a river that cuts through the Iberian plateau.
 
-The valley is 3 hours from Porto by train or car — manageable as a long day trip, better as an overnight.
+The valley is 3 hours from [Porto](/portugal/porto-guide) by train or car — manageable as a long day trip, better as an overnight.
 
 ---
 
@@ -54,7 +54,7 @@ The Douro uses over 80 indigenous grape varieties, but the most important are:
 
 **Red (for port and table wine)**: Touriga Nacional (the premium variety — small berries, intense color, violet and dark fruit aromatics), Touriga Franca (productive, aromatic, black fruit), Tinta Roriz (the Portuguese name for Tempranillo — adds color and tannin), Tinta Barroca, and Tinto Cão.
 
-**White (for white port and dry whites)**: Rabigato, Viosinho, Gouveio, Arinto — the white Douro wines have improved dramatically in the last 15 years and are now among the most interesting whites in Portugal.
+**White (for white port and dry whites)**: Rabigato, Viosinho, Gouveio, Arinto — the white Douro wines have improved dramatically in the last 15 years and are now among the most interesting whites in [Portugal](/portugal).
 
 ---
 

@@ -10,7 +10,7 @@ tags: [Boston, budget, costs, World Cup 2026, travel costs, New England]
 city: boston
 ---
 
-Boston is a mid-to-upper cost World Cup city — more expensive than Dallas or Houston, comparable to Seattle, less expensive than New York or San Francisco. The specific cost variable that doesn't apply elsewhere is the Gillette Stadium commute: $12–16 round-trip by commuter rail per match day adds up across multiple matches in a way that the $2.50–5 transit costs in other cities don't.
+Boston is a mid-to-upper cost World Cup city — more expensive than Dallas or Houston, comparable to Seattle, less expensive than New York or [San Francisco](/united-states/san-francisco-guide). The specific cost variable that doesn't apply elsewhere is the [Gillette Stadium](/united-states/gillette-stadium-guide) commute: $12–16 round-trip by commuter rail per match day adds up across multiple matches in a way that the $2.50–5 transit costs in other cities don't.
 
 The genuine value in Boston is the airport-to-downtown Blue Line ($2.90) and the walkable density that reduces rideshare costs — a visitor staying in Back Bay or the Financial District can walk to most destinations.
 

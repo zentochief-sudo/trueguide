@@ -10,7 +10,7 @@ tags: [Kazakhstan, April, spring, tulips, Almaty, steppe, wildflowers, hiking]
 city: national
 ---
 
-April is one of Kazakhstan's most dramatic months for the natural landscape. The southern steppe — vast, flat, and brown through winter — erupts in wildflowers in April, including the wild red and yellow tulips that are the ancestors of all cultivated tulips (Kazakhstan is the genetic birthplace of the tulip). Almaty's trees blossom. The Tian Shan hiking season begins at lower elevations. April is genuinely beautiful.
+April is one of [Kazakhstan](/kazakhstan)'s most dramatic months for the natural landscape. The southern steppe — vast, flat, and brown through winter — erupts in wildflowers in April, including the wild red and yellow tulips that are the ancestors of all cultivated tulips (Kazakhstan is the genetic birthplace of the tulip). [Almaty](/kazakhstan/almaty-travel-guide)'s trees blossom. The Tian Shan hiking season begins at lower elevations. April is genuinely beautiful.
 
 ## Weather & Conditions
 
@@ -18,21 +18,21 @@ April is one of Kazakhstan's most dramatic months for the natural landscape. The
 
 **Steppe (south of Almaty):** 10–20°C. Wildflower explosion in the first three weeks.
 
-**Astana:** 0–12°C. Still cold. Spring arrives later in the north.
+**[Astana](/kazakhstan/astana-guide):** 0–12°C. Still cold. Spring arrives later in the north.
 
-**Charyn Canyon:** 10–20°C. Excellent for the canyon walk.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 10–20°C. Excellent for the canyon walk.
 
 **Tian Shan foothills:** 5–15°C. Lower elevation hiking trails opening.
 
 ## What to Do
 
-**Wild tulip season, southern steppe:** Wild Greig's tulip (Tulipa greigii) and Kaufmann's tulip (Tulipa kaufmanniana) bloom across Kazakhstan's southern steppe in April. The Qaratau Mountains south of Shymkent and the hills around Turkestan are among the best locations. Kazakhstan has 36 native tulip species. The sight of thousands of wild red tulips across open steppe with snow-capped mountains in the background is one of the world's most underknown natural spectacles.
+**Wild tulip season, southern steppe:** Wild Greig's tulip (Tulipa greigii) and Kaufmann's tulip (Tulipa kaufmanniana) bloom across Kazakhstan's southern steppe in April. The Qaratau Mountains south of [Shymkent](/kazakhstan/shymkent-guide) and the hills around Turkestan are among the best locations. Kazakhstan has 36 native tulip species. The sight of thousands of wild red tulips across open steppe with snow-capped mountains in the background is one of the world's most underknown natural spectacles.
 
 **Almaty blossoms:** The city planted millions of fruit trees (particularly apricot, cherry, and the famous apple varieties) in the Soviet era. April transforms the city's parks and boulevards. The botanical garden (Botanichesky Sad) on Timiryazev Street is the best location.
 
 **Charyn Canyon:** One of Central Asia's most spectacular geological formations — a sandstone canyon 195km east of Almaty with 300m walls. The Valley of Castles (Zamkov valley) section is the most dramatic. April conditions (15–20°C) make the canyon walk excellent. The Canyon opens early April as snow melts.
 
-**Big Almaty Lake hike (lower route):** The approach to Big Almaty Lake (2,500m altitude) in the Tian Shan National Park above Almaty is hikeable in late April as the lower trails clear. The lake fills with snowmelt in April — brilliant blue-green water surrounded by snow-capped peaks.
+**[Big Almaty Lake](/kazakhstan/big-almaty-lake-guide) hike (lower route):** The approach to Big Almaty Lake (2,500m altitude) in the Tian Shan National Park above Almaty is hikeable in late April as the lower trails clear. The lake fills with snowmelt in April — brilliant blue-green water surrounded by snow-capped peaks.
 
 **Turkestan and the Mausoleum of Khoja Ahmed Yasawi:** The 14th-century timurid mausoleum in Turkestan (south Kazakhstan) is one of Central Asia's great architectural monuments. April temperatures in Turkestan are warm but not yet hot. Combine with the wild tulip steppe in the surrounding region.
 

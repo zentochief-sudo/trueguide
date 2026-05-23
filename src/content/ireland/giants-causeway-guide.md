@@ -10,7 +10,7 @@ tags: [Ireland, Giant's Causeway, Northern Ireland, Belfast, Causeway Coast, Bus
 city: dublin
 ---
 
-The Giant's Causeway is technically in Northern Ireland — a separate country (part of the United Kingdom) with a different currency (pound sterling) and different regulations — but it sits only 90 km from Belfast and is accessible from Dublin in 3.5 hours by road. For visitors based in the Republic of Ireland, a day trip or overnight excursion to the Causeway Coast covers both the natural wonder and the landscape of the North's coast.
+The Giant's Causeway is technically in Northern [Ireland](/ireland) — a separate country (part of the United Kingdom) with a different currency (pound sterling) and different regulations — but it sits only 90 km from Belfast and is accessible from [Dublin](/ireland/dublin-travel-guide) in 3.5 hours by road. For visitors based in the Republic of Ireland, a day trip or overnight excursion to the Causeway Coast covers both the natural wonder and the landscape of the North's coast.
 
 The crossing from the Republic to Northern Ireland requires no passport check (the Common Travel Area agreement between the UK and Ireland means a seamless border), but the currency changes at the border — card payments are universal, but cash should be pounds rather than euros.
 

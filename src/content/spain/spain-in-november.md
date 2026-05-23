@@ -10,13 +10,13 @@ tags: [Spain, November, low season, Canary Islands, Andalusia, truffle season, a
 city: national
 ---
 
-November is Spain's most overlooked travel month — and one of its most rewarding for independent travelers. The tourist infrastructure is fully operational, the weather in the south remains mild, prices are at their annual minimum, and you move through sites that are often genuinely deserted. The Canary Islands enter peak season for northern Europeans chasing winter sun. And in Aragon and the Pyrenees foothills, the truffle season begins.
+November is [Spain](/spain)'s most overlooked travel month — and one of its most rewarding for independent travelers. The tourist infrastructure is fully operational, the weather in the south remains mild, prices are at their annual minimum, and you move through sites that are often genuinely deserted. The Canary Islands enter peak season for northern Europeans chasing winter sun. And in Aragon and the Pyrenees foothills, the truffle season begins.
 
 ## Weather in November
 
 **Madrid:** 7°C to 16°C. Autumn in full force — cold mornings, comfortable afternoons. The Retiro park in late autumn gold is one of the better park photographs in Europe.
 
-**Barcelona:** 12°C to 19°C. Mild enough for outdoor café life in the afternoon. Rain possible. Sea too cold for swimming (18°C) but coastal walks are excellent.
+**[Barcelona](/spain/barcelona-travel-guide):** 12°C to 19°C. Mild enough for outdoor café life in the afternoon. Rain possible. Sea too cold for swimming (18°C) but coastal walks are excellent.
 
 **Seville:** 13°C to 22°C. The best time to visit Seville after October — mild, clear, uncrowded. The streets are back to local rhythm.
 
@@ -51,7 +51,7 @@ The black winter truffle (*Tuber melanosporum*) season begins in November in Ara
 **Experiences:**
 - **Truffle hunting with dogs:** Several agro-tourism operations near Sarrión (Teruel, the self-described "truffle capital of the world") offer truffle hunting with truffle dogs (labradors trained to detect the fungus by scent)
 - **Truffle market in Mora de Rubielos:** The local market fills with truffles in November-December
-- **Restaurant scene in Zaragoza and Teruel:** Black truffle appears on menus in November across Aragon — at lower prices than in France or Italy for comparable quality
+- **Restaurant scene in Zaragoza and Teruel:** Black truffle appears on menus in November across Aragon — at lower prices than in [France](/france) or [Italy](/italy) for comparable quality
 
 ## Canary Islands Peak Season
 

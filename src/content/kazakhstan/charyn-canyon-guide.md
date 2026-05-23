@@ -10,7 +10,7 @@ tags: [Kazakhstan, Charyn Canyon, Almaty, day trip, nature, hiking, geology, Cen
 city: almaty
 ---
 
-Charyn Canyon is the geographical fact that most surprises first-time visitors to Kazakhstan — a 200-kilometer gorge carved by the Charyn River into the steppe southeast of Almaty, with walls reaching 150–300 meters and rock formations in ochre, rust, and purple that look implausibly like the American Southwest. The comparison to the Grand Canyon is made constantly by Kazakhstanis, who know it's an exaggeration and don't entirely care: the canyon is striking enough on its own terms.
+Charyn Canyon is the geographical fact that most surprises first-time visitors to [Kazakhstan](/kazakhstan) — a 200-kilometer gorge carved by the Charyn River into the steppe southeast of [Almaty](/kazakhstan/almaty-travel-guide), with walls reaching 150–300 meters and rock formations in ochre, rust, and purple that look implausibly like the American Southwest. The comparison to the Grand Canyon is made constantly by Kazakhstanis, who know it's an exaggeration and don't entirely care: the canyon is striking enough on its own terms.
 
 The centerpiece is the Valley of Castles (Zamki Dolina) — a 2-kilometer section where erosion has produced towers, buttresses, and spires that genuinely resemble ruined fortifications. It's a 200-kilometer drive from Almaty along good road, making it a natural day trip.
 

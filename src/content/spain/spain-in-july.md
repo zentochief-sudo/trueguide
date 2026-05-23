@@ -10,13 +10,13 @@ tags: [Spain, July, San Fermín, Pamplona, Running of the Bulls, Ibiza, beach, s
 city: national
 ---
 
-July is Spain's most extreme month — the heat is serious, the crowds are at peak, and the festivals are extraordinary. San Fermín in Pamplona opens July 7 with a cannon shot and runs for nine days of the most internationally famous street festival in Europe. The Mediterranean beaches are at maximum capacity. Seville and Córdoba regularly exceed 40°C. If you choose July, choose it knowing what you're getting: the fullest, loudest, hottest version of Spain.
+July is [Spain](/spain)'s most extreme month — the heat is serious, the crowds are at peak, and the festivals are extraordinary. San Fermín in Pamplona opens July 7 with a cannon shot and runs for nine days of the most internationally famous street festival in Europe. The Mediterranean beaches are at maximum capacity. Seville and Córdoba regularly exceed 40°C. If you choose July, choose it knowing what you're getting: the fullest, loudest, hottest version of Spain.
 
 ## Weather in July
 
 **Madrid:** 20°C to 36°C. Hot. The city empties partially as madrileños vacation on the coast; those who stay develop strict morning/evening rhythms. The Prado and Reina Sofía provide cold air conditioning.
 
-**Barcelona:** 22°C to 31°C. Hot and humid by Spanish standards; the sea breeze helps. Beaches are packed wall-to-wall. The city is at its most international.
+**[Barcelona](/spain/barcelona-travel-guide):** 22°C to 31°C. Hot and humid by Spanish standards; the sea breeze helps. Beaches are packed wall-to-wall. The city is at its most international.
 
 **Seville:** 26°C to 42°C. The hottest city in western Europe in summer. July is genuinely extreme — outdoor activity is only possible before 11 AM and after 8 PM. The city is beautiful in the evening.
 

@@ -10,19 +10,19 @@ tags: [Japan, July, summer, matsuri, festivals, fireworks, Hokkaido, lavender]
 city: national
 ---
 
-July is a tale of two Japans. In the cities — Tokyo, Kyoto, Osaka — it's hot, humid, and festive. The matsuri (summer festival) season begins, fireworks light up rivers and bays, and everyone is outdoors despite the 33°C heat. In Hokkaido, it's 22°C, the lavender fields are in full purple bloom, and you might forget it's summer at all.
+July is a tale of two Japans. In the cities — [Tokyo](/japan/tokyo-guide), [Kyoto](/japan/kyoto-guide), [Osaka](/japan/osaka-guide) — it's hot, humid, and festive. The matsuri (summer festival) season begins, fireworks light up rivers and bays, and everyone is outdoors despite the 33°C heat. In [Hokkaido](/japan/hokkaido-guide), it's 22°C, the lavender fields are in full purple bloom, and you might forget it's summer at all.
 
 Understanding this split is key to planning a good July trip.
 
 ## The Weather Divide
 
-**Honshu and Kyushu (Tokyo, Kyoto, Osaka, Hiroshima):**
+**Honshu and Kyushu (Tokyo, Kyoto, Osaka, [Hiroshima](/japan/hiroshima-guide)):**
 Rainy season (tsuyu) typically ends in mid-July. Before that — early July — you still get the muggy overcast days. After it ends, summer arrives hard: 30–35°C, 70–80% humidity, intense sun. Evenings are still warm (25°C+). It's manageable with the right mindset, hydration, and shade-seeking.
 
 **Hokkaido:**
 20–24°C average. Low humidity. Occasional rain but nothing like the south. This is why Hokkaido in July has become popular with domestic Japanese tourists escaping the mainland heat. Also why it's the one exception to "summer in Japan is brutal."
 
-**Okinawa:**
+**[Okinawa](/japan/okinawa-guide):**
 Typhoon season begins. The sea is warm and clear (great for diving and snorkeling), but tropical storms can disrupt plans.
 
 ## Summer Festivals: The Reason to Go
@@ -53,7 +53,7 @@ An artificially-created pond with extraordinary blue-green water, dead silver bi
 **Daisetsuzan National Park:**
 Japan's largest national park is at its best in July — alpine flowers in bloom, trails accessible, the Sounkyo Gorge surrounded by summer green. Hiking season is fully open.
 
-**Sapporo Beer Garden:**
+**[Sapporo](/japan/sapporo-guide) Beer Garden:**
 Open year-round but peak in summer — the famous outdoor beer garden with lamb BBQ (jingisukan) is a Hokkaido institution in July evenings.
 
 ## Surviving Summer Heat: Practical Notes
@@ -63,7 +63,7 @@ If you're in Honshu in July (post-rainy season):
 - **Go out early or late.** From noon to 4pm, find indoor activities — museums, depachika, covered markets.
 - **Konbini (convenience store) cold drinks** are your best friend. Green tea, Pocari Sweat, cold coffee.
 - **Yukata weather** — wearing a light cotton yukata to a matsuri or evening festival is not just cultural performance; it's genuinely more comfortable in the heat than Western summer clothes.
-- **Cool tourist sites:** Nikko's forested shrines stay reasonably cool even in summer. Underground shopping malls in Tokyo and Osaka are intentionally overcooled.
+- **Cool tourist sites:** [Nikko](/japan/nikko-guide)'s forested shrines stay reasonably cool even in summer. Underground shopping malls in Tokyo and Osaka are intentionally overcooled.
 
 ## Budget in July
 

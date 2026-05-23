@@ -10,17 +10,17 @@ tags: []
 city: national
 ---
 
-Tanzania is home to arguably the world's greatest wildlife spectacle — the Serengeti and its annual Great Migration — plus the extraordinary Ngorongoro Crater, the spice island of Zanzibar, and some of Africa's most experienced safari guides. Seven days covers the Northern Circuit essentials.
+[Tanzania](/tanzania) is home to arguably the world's greatest wildlife spectacle — the Serengeti and its annual Great Migration — plus the extraordinary [Ngorongoro](/tanzania/ngorongoro-guide) Crater, the spice island of [Zanzibar](/tanzania/zanzibar-guide), and some of Africa's most experienced safari guides. Seven days covers the Northern Circuit essentials.
 
 ## Day 1 – Arusha: Arrival & Briefing
 
-Arrive at Kilimanjaro International Airport (JRO) and transfer to Arusha — Tanzania's safari capital, a small city nestled between Kilimanjaro and Mount Meru. Your safari operator will brief you on the itinerary, and local guides are assigned.
+Arrive at [Kilimanjaro](/tanzania/kilimanjaro-guide) International Airport (JRO) and transfer to [Arusha](/tanzania/arusha-guide) — Tanzania's safari capital, a small city nestled between Kilimanjaro and Mount Meru. Your safari operator will brief you on the itinerary, and local guides are assigned.
 
 Explore the **Arusha Central Market** for Maasai textiles and African crafts. The **Cultural Heritage Centre** has a good curio market. Light dinner and early sleep before the first safari day.
 
 ## Day 2 – Tarangire National Park
 
-Drive west (2 hours) to **Tarangire National Park** — Tanzania's most underrated park, often skipped by first-time visitors who rush to the Serengeti. Tarangire is famous for extraordinary elephant concentrations (the largest in East Africa during dry season), ancient baobab trees, and a diversity of habitats.
+Drive west (2 hours) to **[Tarangire](/tanzania/tarangire-guide) National Park** — Tanzania's most underrated park, often skipped by first-time visitors who rush to the Serengeti. Tarangire is famous for extraordinary elephant concentrations (the largest in East Africa during dry season), ancient baobab trees, and a diversity of habitats.
 
 Full day game drive with picnic lunch inside the park. Species regularly seen: African elephants (100+ at a time during dry season), lions, leopard, cheetah, buffalo, and over 500 bird species — including the spectacular lilac-breasted roller and secretary bird.
 
@@ -50,7 +50,7 @@ Afternoon: final game drive before driving or flying to Arusha/Kilimanjaro Airpo
 
 ## Day 7 – Zanzibar: Stone Town & Beach
 
-Fly to **Zanzibar** (1 hour from Dar es Salaam, or 40 min from Arusha via direct charter). Stone Town — the UNESCO-listed historic quarter of Zanzibar City — is an extraordinary layered city of Arabic, Persian, Indian, and African architecture, trading history, and the legacy of the Indian Ocean spice trade.
+Fly to **Zanzibar** (1 hour from [Dar es Salaam](/tanzania/dar-es-salaam-guide), or 40 min from Arusha via direct charter). Stone Town — the UNESCO-listed historic quarter of Zanzibar City — is an extraordinary layered city of Arabic, Persian, Indian, and African architecture, trading history, and the legacy of the Indian Ocean spice trade.
 
 **Forodhani Gardens** on the waterfront fills with food stalls every evening — fresh seafood grilled to order, Zanzibari flatbread, and urojo (Zanzibar mix soup). The most atmospheric street food market in East Africa.
 

@@ -20,7 +20,7 @@ The cold season has two faces: the drawbacks are obvious (outdoor time is limite
 
 **Seoul**: December highs around 5°C, January average -3°C to 4°C, February beginning to warm. Wind chill is the main issue — Seoul isn't often brutally cold by Scandinavian standards, but the wind off the mountains can make -3°C feel like -12°C on exposed days.
 
-**Jeju**: 5–12°C in winter — considerably milder than the mainland, with more rain. The tangerine harvest runs through December.
+**[Jeju](/korea/jeju-guide)**: 5–12°C in winter — considerably milder than the mainland, with more rain. The tangerine harvest runs through December.
 
 **East Coast / Sokcho**: Cold and clear; Seoraksan gets snow cover that makes the mountain views exceptional from December to February.
 
@@ -104,7 +104,7 @@ Korean oyster season runs September–April. The raw oyster bars along the coast
 
 The most significant Korean holiday occurs in late January or early February (lunar calendar). The three-day holiday sees massive domestic migration as Koreans travel to their hometowns for ancestral rites and family gatherings.
 
-**For travelers**: Most museums, palaces, and tourist sites have free entry and special programming on Seollal. Gyeongbokgung and Gyeonghuigung host traditional games, *hanbok* rental, and ceremonies. The atmosphere is festive and explicitly cultural.
+**For travelers**: Most museums, palaces, and tourist sites have free entry and special programming on Seollal. Gyeongbokgung and Gyeonghuigung host traditional games, *[hanbok](/korea/hanbok-guide)* rental, and ceremonies. The atmosphere is festive and explicitly cultural.
 
 **Logistics caution**: Train and bus tickets sell out weeks in advance around Seollal. If you're in Korea during this period, book transport early or plan to stay in Seoul.
 

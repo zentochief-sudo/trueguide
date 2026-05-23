@@ -10,7 +10,7 @@ tags: [Mexico, January, dry season, whale watching, Baja, travel tips, winter]
 city: national
 ---
 
-January is Mexico's sweet spot. The holiday rush from December is over, the country returns to its normal pace, and the dry season weather — which will last until April — is perfect across virtually the entire country. Prices drop from their December spike. Beaches are still full but not overwhelmed.
+January is [Mexico](/mexico)'s sweet spot. The holiday rush from December is over, the country returns to its normal pace, and the dry season weather — which will last until April — is perfect across virtually the entire country. Prices drop from their December spike. Beaches are still full but not overwhelmed.
 
 ## Weather in January
 

@@ -22,7 +22,7 @@ The garden of Ginkakuji is a masterwork of Muromachi-period design attributed to
 
 **Kogetsudai** (Moon Viewing Platform): The large truncated cone of white sand in the front garden, approximately 2 meters tall, precisely formed. Its function — whether it reflects moonlight, serves as a viewing stand, or is purely sculptural — is uncertain and debated. Its presence is extraordinary: a cone of perfectly maintained sand in the formal garden, with no obvious precedent in Japanese garden design.
 
-**Ginshadan** (Sea of Silver Sand): The raked sand surface extending from the Kogetsudai toward the pavilion — when moonlight falls across the raked ridges, the effect was (in pre-electricity Kyoto) of a silver sea. The design of a raked sand garden anticipating moonlight rather than daylight is the Ginkakuji design sensibility in concentrated form.
+**Ginshadan** (Sea of Silver Sand): The raked sand surface extending from the Kogetsudai toward the pavilion — when moonlight falls across the raked ridges, the effect was (in pre-electricity [Kyoto](/japan/kyoto-guide)) of a silver sea. The design of a raked sand garden anticipating moonlight rather than daylight is the Ginkakuji design sensibility in concentrated form.
 
 **The hillside garden**: The path ascends through the forested hill behind the front garden to a viewpoint over the Kogetsudai, pavilion, and the Kyoto basin beyond. The moss-covered ground, the stone paths, the trees filtered light, and the garden as seen from above rather than from within are the upper garden's rewards.
 

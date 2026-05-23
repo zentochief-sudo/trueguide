@@ -12,7 +12,7 @@ city: national
 
 The rules of onsen bathing exist for practical reasons: a shared hot spring pool is a communal hygiene space, and the protocols that govern it — the washing before entering, the towel folding, the silence — are functions of that reality. They are not difficult, and once understood they become the context for one of the most genuinely restorative experiences Japan offers.
 
-This guide covers public bath etiquette (at standalone *sento* and *onsen* facilities), ryokan bathing, and the tattoo situation in detail.
+This guide covers public bath etiquette (at standalone *sento* and *onsen* facilities), [ryokan](/japan/ryokan-guide) bathing, and the tattoo situation in detail.
 
 ---
 
@@ -20,7 +20,7 @@ This guide covers public bath etiquette (at standalone *sento* and *onsen* facil
 
 **Onsen vs sento**:
 - *Onsen* (温泉): Natural hot spring water, geothermally heated. The water contains dissolved minerals (sulfur, iron, sodium chloride, carbonate) that vary by location and produce different skin and therapeutic effects. Legally regulated in Japan — a facility can only call itself *onsen* if the water meets specific mineral content or temperature standards.
-- *Sento* (銭湯): Public bathhouse using heated tap water (not spring water). The bathing format is the same; the water does not have the mineral content of onsen. Found in every Japanese city as neighborhood bathing facilities; price is regulated (¥500–600 in Tokyo).
+- *Sento* (銭湯): Public bathhouse using heated tap water (not spring water). The bathing format is the same; the water does not have the mineral content of onsen. Found in every Japanese city as neighborhood bathing facilities; price is regulated (¥500–600 in [Tokyo](/japan/tokyo-guide)).
 
 Both use the same bathing protocol.
 
@@ -86,7 +86,7 @@ Many onsen in Japan prohibit entry to guests with tattoos. This is the single mo
 
 **Options with tattoos**:
 1. **Kashikiri-buro** (private reserved bath): Most ryokan and many public facilities offer private bath rental by the hour. Tattoos are generally allowed in private baths even when prohibited in shared baths.
-2. **Tattoo-friendly facilities**: Japan Onsen Association member facilities with explicit tattoo-welcome policies exist and are increasing. The tourism board publishes lists; travel apps like *Relux* and *Jalan* allow filtering by tattoo policy.
+2. **Tattoo-friendly facilities**: [Japan Onsen](/japan/japan-onsen-guide) Association member facilities with explicit tattoo-welcome policies exist and are increasing. The tourism board publishes lists; travel apps like *Relux* and *Jalan* allow filtering by tattoo policy.
 3. **Cover with tape**: Some facilities allow entry with tattoos fully covered by waterproof bandage patches. Provide your own (swimming waterproof patches, available at pharmacies); the facility will usually verify coverage.
 
 ---
@@ -98,7 +98,7 @@ The open-air bath — one of the most distinctive onsen experiences. The same ru
 **Best outdoor bath contexts**:
 - Mountain ryokan in winter (bath in snow, body in 42°C water)
 - Cliff-face baths with ocean views (Atami, Kinugawa, Kinosaki)
-- Forest baths under cedar canopy (Nikko-Yunishigawa, Dewa Sanzan area)
+- Forest baths under cedar canopy ([Nikko](/japan/nikko-guide)-Yunishigawa, Dewa Sanzan area)
 
 **Temperature**: Outdoor baths are typically slightly cooler than indoor baths to account for air temperature; in summer they may be cooler than body temperature (cold spring baths exist as a specific category).
 
@@ -108,7 +108,7 @@ The open-air bath — one of the most distinctive onsen experiences. The same ru
 
 The mineral content changes the bathing experience and skin feel:
 
-**Sulfur onsen (*ryuosan-sen*)**: The classic "rotten egg" smell; white or cloudy water; associated with skin softening. Noboribetsu (Hokkaido), Kusatsu (Gunma), Beppu (Oita).
+**Sulfur onsen (*ryuosan-sen*)**: The classic "rotten egg" smell; white or cloudy water; associated with skin softening. Noboribetsu ([Hokkaido](/japan/hokkaido-guide)), Kusatsu (Gunma), [Beppu](/japan/beppu-guide) (Oita).
 
 **Iron onsen (*tetsu-sen*)**: Orange or brown water from iron content; associated with anemia treatment. Arima Onsen (Hyogo, "Kinsen" — golden spring).
 

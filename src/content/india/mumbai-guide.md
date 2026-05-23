@@ -10,9 +10,9 @@ tags: [Mumbai, India, Gateway of India, Bollywood, Dharavi, Elephanta Caves, col
 city: mumbai
 ---
 
-Mumbai (Bombay until 1995) is India's most financially powerful city and its most cosmopolitan — a reclaimed peninsula that hosts the Bombay Stock Exchange, Bollywood, the headquarters of India's largest conglomerates, and a population of 20 million compressed into 603 km². It is also a city of extraordinary spatial inequality, where a 27-story private residence (Antilia, owned by the Ambani family) rises above a neighborhood of million-dollar apartments overlooking Dharavi, one of the world's most densely populated areas.
+Mumbai (Bombay until 1995) is [India](/india)'s most financially powerful city and its most cosmopolitan — a reclaimed peninsula that hosts the Bombay Stock Exchange, Bollywood, the headquarters of India's largest conglomerates, and a population of 20 million compressed into 603 km². It is also a city of extraordinary spatial inequality, where a 27-story private residence (Antilia, owned by the Ambani family) rises above a neighborhood of million-dollar apartments overlooking Dharavi, one of the world's most densely populated areas.
 
-Mumbai is not the India of Rajasthan palaces and temple complexes; it is the India of ambition, commerce, and the collision of 50 languages and 10,000 years of continuous maritime culture.
+Mumbai is not the India of [Rajasthan](/india/rajasthan-guide) palaces and temple complexes; it is the India of ambition, commerce, and the collision of 50 languages and 10,000 years of continuous maritime culture.
 
 ---
 

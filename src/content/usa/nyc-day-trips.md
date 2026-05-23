@@ -42,7 +42,7 @@ The Hudson Valley is a 150-mile stretch of river, mountain, and agricultural lan
 
 **Cold Spring**: A preserved 19th-century river town with excellent views of Storm King Mountain across the Hudson. Easy Amtrak/Metro-North access. Main Street has antique stores and a few good restaurants. The **Hudson Highlands** hiking trails begin here — the **Bull Hill** (Mount Taurus) hike to the summit above the Hudson is 2.5 hours round-trip and provides some of the most dramatic river views accessible by public transit from New York.
 
-**Kingston and the Catskills**: Kingston is 2.5 hours north of Manhattan by car or Trailways bus — the starting point for exploring the Catskill Mountains. The Catskill Center towns (Woodstock, Phoenicia, Livingston Manor) have developed a food and accommodation scene that draws from Brooklyn's restaurant culture. Woodstock was the location (in name) of the 1969 festival; the town itself is a pleasant artist community with galleries and good food.
+**Kingston and the Catskills**: Kingston is 2.5 hours north of Manhattan by car or Trailways bus — the starting point for exploring the Catskill Mountains. The Catskill Center towns (Woodstock, Phoenicia, Livingston Manor) have developed a food and accommodation scene that draws from [Brooklyn](/united-states/brooklyn-guide)'s restaurant culture. Woodstock was the location (in name) of the 1969 festival; the town itself is a pleasant artist community with galleries and good food.
 
 ---
 

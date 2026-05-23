@@ -12,7 +12,7 @@ city: kuala-lumpur
 
 Kuala Lumpur is a city that announces itself dramatically — the Petronas Twin Towers (still among the tallest buildings in the world at 452m) visible from much of the city, rising above a chaotic, energetic, multilingual metropolis of 8 million people in the greater metro area. KL is the capital of a country that is simultaneously Malay-Muslim, Chinese, Indian, and colonial-British in its cultural DNA, and the city reflects all of it: mosques adjacent to Buddhist temples, Indian banana-leaf restaurants next to Chinese kopitiam coffee shops, colonial government buildings overlooking gleaming glass towers.
 
-For most visitors to Penang, KL is either the arrival point or a natural companion stop — the two cities together provide a complete picture of Malaysian urban life, with KL's scale and Penang's history complementing each other.
+For most visitors to [Penang](/malaysia/penang-travel-guide), KL is either the arrival point or a natural companion stop — the two cities together provide a complete picture of Malaysian urban life, with KL's scale and Penang's history complementing each other.
 
 ---
 
@@ -30,7 +30,7 @@ Built 1992–1998 by Cesar Pelli, the towers held the title of world's tallest b
 ### Batu Caves
 **12 km north of KL center | Entry: Free | KTM Commuter train from KL Sentral, 30 min**
 
-A limestone cave complex housing Hindu temples and shrines — one of the most important Hindu pilgrimage sites outside India, and the location of the massive annual Thaipusam festival (January/February). The main Cathedral Cave is accessed by 272 steps painted in rainbow colors, overlooked by a 43-meter gold-painted statue of Lord Murugan (the Hindu god of war, patron deity of Tamil Malaysians).
+A limestone cave complex housing Hindu temples and shrines — one of the most important Hindu pilgrimage sites outside [India](/india), and the location of the massive annual Thaipusam festival (January/February). The main Cathedral Cave is accessed by 272 steps painted in rainbow colors, overlooked by a 43-meter gold-painted statue of Lord Murugan (the Hindu god of war, patron deity of Tamil Malaysians).
 
 The caves are impressive and the religious activity is genuine — this is not a theme park recreation but an active pilgrimage site. The 272 steps are steep; monkeys occupy the staircase and steal food, bottles, and small objects from climbers. Secure your belongings.
 
@@ -44,7 +44,7 @@ The old Chinese commercial quarter — covered market stalls, Chinese temples, h
 **Sri Mahamariamman Temple** (on Jalan Tun HS Lee, adjacent): The oldest Hindu temple in KL (1873), with a tall gopuram covered in painted deities. Architecturally similar to the Penang version but earlier.
 
 ### Masjid Jamek
-At the confluence of the Gombak and Klang rivers — the meeting point that gave KL its name ("muddy confluence" in Malay). The mosque (1909, designed by Arthur Benison Hubback in Indo-Saracenic Mughal style) is one of the most beautiful colonial-era buildings in Malaysia. The riverside setting is best appreciated from the far bank. Free entry; modest dress required.
+At the confluence of the Gombak and Klang rivers — the meeting point that gave KL its name ("muddy confluence" in Malay). The mosque (1909, designed by Arthur Benison Hubback in Indo-Saracenic Mughal style) is one of the most beautiful colonial-era buildings in [Malaysia](/malaysia). The riverside setting is best appreciated from the far bank. Free entry; modest dress required.
 
 ---
 
@@ -92,7 +92,7 @@ KL is one of the great food cities of Southeast Asia — a competition between M
 
 **Getting there**: Kuala Lumpur International Airport (KLIA), 60 km south of the city. KLIA Express train to KL Sentral: 28 minutes, RM55.
 
-**To/from Penang**: KL to George Town by ETS (electric train service) via Butterworth: 3.5–4 hours, from RM50. Multiple daily departures from KL Sentral. Domestic flights: 55 minutes, from RM50–100 with AirAsia.
+**To/from Penang**: KL to [George Town](/malaysia/george-town-guide) by ETS (electric train service) via Butterworth: 3.5–4 hours, from RM50. Multiple daily departures from KL Sentral. Domestic flights: 55 minutes, from RM50–100 with AirAsia.
 
 **Currency**: Malaysian Ringgit (RM). Excellent ATM availability; cash useful for hawker stalls.
 

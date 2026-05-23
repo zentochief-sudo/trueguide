@@ -87,7 +87,7 @@ The sight of the Ulsanbawi granite peaks backed by forests in red and orange is 
 
 ## Sokcho
 
-The coastal base for Seoraksan is a small city (population ~80,000) with a character defined by the Cheongchoho Lagoon, the fishing port, and proximity to the DMZ.
+The coastal base for Seoraksan is a small city (population ~80,000) with a character defined by the Cheongchoho Lagoon, the fishing port, and proximity to the [DMZ](/korea/dmz-guide).
 
 ### Abai Village (아바이마을)
 

@@ -10,7 +10,7 @@ tags: [Porto, Portugal, port wine, Douro, Ribeira, Livraria Lello, Gaia, frances
 city: porto
 ---
 
-Porto is Portugal's second city and, in the opinion of many visitors, its best. Where Lisbon has been polished by a decade of mass tourism, Porto still functions as an active port and commercial city — the azulejo-tiled facades are more weathered, the hills are steeper, the food is more straightforwardly working-class, and the specific obsession with port wine gives the city a geographic and cultural identity that nothing in Lisbon can match.
+Porto is [Portugal](/portugal)'s second city and, in the opinion of many visitors, its best. Where [Lisbon](/portugal/lisbon-guide) has been polished by a decade of mass tourism, Porto still functions as an active port and commercial city — the azulejo-tiled facades are more weathered, the hills are steeper, the food is more straightforwardly working-class, and the specific obsession with port wine gives the city a geographic and cultural identity that nothing in Lisbon can match.
 
 The city is divided by the Douro river: Porto on the north bank (the old city, UNESCO-listed), Vila Nova de Gaia on the south bank (the port wine lodges). The two are connected by five bridges, the most dramatic being the Luís I Bridge (1886, iron double-deck by the company that built the Eiffel Tower).
 

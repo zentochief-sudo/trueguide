@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Tanzania is not a budget destination — safari travel in general carries high costs for park fees, guides, and camp infrastructure. But it can be done across a range of budgets, from camping safaris to ultra-luxury tented camps, and the wildlife experience is priceless at any level.
+[Tanzania](/tanzania) is not a budget destination — safari travel in general carries high costs for park fees, guides, and camp infrastructure. But it can be done across a range of budgets, from camping safaris to ultra-luxury tented camps, and the wildlife experience is priceless at any level.
 
 ## Quick Summary
 
@@ -21,7 +21,7 @@ Tanzania is not a budget destination — safari travel in general carries high c
 | Luxury tented camp | €500–1,200/day |
 | Ultra-luxury (private conservancy) | €1,000–3,000+/day |
 
-*These are all-inclusive figures for organised safari packages (accommodation, meals, game drives, guide, park fees). Zanzibar is priced separately and is significantly cheaper.*
+*These are all-inclusive figures for organised safari packages (accommodation, meals, game drives, guide, park fees). [Zanzibar](/tanzania/zanzibar-guide) is priced separately and is significantly cheaper.*
 
 ---
 
@@ -29,7 +29,7 @@ Tanzania is not a budget destination — safari travel in general carries high c
 
 Safari costs in Tanzania are high because of genuinely high underlying costs:
 
-**Conservation fees:** Tanzania National Park fees for foreigners are $70/24h in the Serengeti, $70 in Ngorongoro. A 3-day Serengeti trip generates $210/person in park fees before any other costs.
+**Conservation fees:** Tanzania National Park fees for foreigners are $70/24h in the Serengeti, $70 in [Ngorongoro](/tanzania/ngorongoro-guide). A 3-day Serengeti trip generates $210/person in park fees before any other costs.
 
 **Guide costs:** Professional safari guides with tracker vehicles command $200–400/day.
 
@@ -44,7 +44,7 @@ Safari costs in Tanzania are high because of genuinely high underlying costs:
 ## Budget Breakdown
 
 ### Camping Safaris (Budget)
-Group camping safaris using national park campsites and shared 4WD vehicles: **€100–180/person/day** for a 7-day package from Arusha (all inclusive). Accommodation is dome tents; meals are prepared by the camp cook; groups of 4–8 share a vehicle.
+Group camping safaris using national park campsites and shared 4WD vehicles: **€100–180/person/day** for a 7-day package from [Arusha](/tanzania/arusha-guide) (all inclusive). Accommodation is dome tents; meals are prepared by the camp cook; groups of 4–8 share a vehicle.
 
 This is genuinely affordable safari and the wildlife experience is identical to luxury — the same animals, the same landscapes. What differs is the camp quality.
 
@@ -106,4 +106,4 @@ Zanzibar is dramatically cheaper than mainland safari Tanzania.
 - **Green season (March–May):** 30–50% discounts at many lodges. Wildlife is still present; roads can be difficult
 - **Book in advance:** The best camp-and-game combination packages at mid-range prices sell out 6–12 months ahead for peak season
 - **Combine with Zanzibar:** Zanzibar's relative affordability balances the safari costs; 4 nights in Stone Town and on the beach adds enormous value at reasonable cost
-- **Tipping:** Expect to tip guides ($15–20/day), porters ($10–15/day for Kilimanjaro), and camp staff ($5–10/day). Budget this separately.
+- **Tipping:** Expect to tip guides ($15–20/day), porters ($10–15/day for [Kilimanjaro](/tanzania/kilimanjaro-guide)), and camp staff ($5–10/day). Budget this separately.

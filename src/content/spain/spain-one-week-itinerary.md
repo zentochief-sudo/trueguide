@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Spain rewards those who understand that it's really several different countries in one — Castilian Madrid and Catalan Barcelona are as different from each other as London and Rome. This seven-day itinerary splits time between both cities with a day trip into medieval Castile, giving you the full contrast.
+[Spain](/spain) rewards those who understand that it's really several different countries in one — Castilian Madrid and Catalan [Barcelona](/spain/barcelona-travel-guide) are as different from each other as London and Rome. This seven-day itinerary splits time between both cities with a day trip into medieval Castile, giving you the full contrast.
 
 ## Days 1–2 – Madrid
 

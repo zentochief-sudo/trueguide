@@ -10,19 +10,19 @@ tags: [Costa Rica, July, turtles, Tortuguero, humpback whales, green season, wil
 city: national
 ---
 
-July is Costa Rica's wildlife month. Tortuguero reaches maximum green sea turtle nesting activity — the most intensive turtle nesting in the Western Hemisphere is happening on the Caribbean coast through July and August. Humpback whales from the Northern Hemisphere continue feeding and calving in the Pacific. The rivers are full for rafting. The country is completely lush. And July brings a peculiarity: despite being deep green season, July is also one of the more popular months for international visitors — particularly European school holiday travelers — meaning Costa Rica in July is busy and affordable simultaneously.
+July is [Costa Rica](/costa-rica/costa-rica-travel-guide)'s wildlife month. Tortuguero reaches maximum green sea turtle nesting activity — the most intensive turtle nesting in the Western Hemisphere is happening on the Caribbean coast through July and August. Humpback whales from the Northern Hemisphere continue feeding and calving in the Pacific. The rivers are full for rafting. The country is completely lush. And July brings a peculiarity: despite being deep green season, July is also one of the more popular months for international visitors — particularly European school holiday travelers — meaning Costa Rica in July is busy and affordable simultaneously.
 
 ## Weather & Conditions
 
 **Guanacaste:** 23–32°C. Rainy season, with possible brief dry spells. Not beach season.
 
-**Manuel Antonio:** 24–30°C. Consistent rain. Wildlife active.
+**[Manuel Antonio](/costa-rica/manuel-antonio-guide):** 24–30°C. Consistent rain. Wildlife active.
 
-**Arenal:** 20–26°C. Heavy and consistent rain. Excellent waterfall conditions.
+**[Arenal](/costa-rica/arenal-guide):** 20–26°C. Heavy and consistent rain. Excellent waterfall conditions.
 
 **Caribbean (Tortuguero):** 23–29°C. Rain. Canals fully operational. Turtle season peak.
 
-**Osa Peninsula:** 23–30°C. Heaviest rain. Corcovado accessible with preparation.
+**[Osa Peninsula](/costa-rica/osa-peninsula-guide):** 23–30°C. Heaviest rain. Corcovado accessible with preparation.
 
 ## What to Do
 
@@ -34,7 +34,7 @@ July is Costa Rica's wildlife month. Tortuguero reaches maximum green sea turtle
 
 **San José cultural circuit:** July is a good month to use San José as a base for day trips when rain makes outdoor activities variable. The Pre-Columbian Gold Museum (Museo del Oro Precolombino, under the Plaza de la Cultura) has the most impressive collection of Costa Rican gold artifacts in the country. The Jade Museum (reopened 2014 in a new building) has the world's largest jade collection. The Central Market — the Mercado Central — is a functioning market for meat, vegetables, sodas (small lunch spots), and fresh fruit.
 
-**Los Quetzales National Park and Cerro de la Muerte:** The páramo ecosystem above the treeline on the Pan-American Highway south of Cartago — the Cerro de la Muerte range — has excellent quetzal sightings year-round and its own cloud forest character distinct from Monteverde. July morning drives along the highway often produce quetzal sightings directly from the road.
+**Los Quetzales National Park and Cerro de la Muerte:** The páramo ecosystem above the treeline on the Pan-American Highway south of Cartago — the Cerro de la Muerte range — has excellent quetzal sightings year-round and its own cloud forest character distinct from [Monteverde](/costa-rica/monteverde-guide). July morning drives along the highway often produce quetzal sightings directly from the road.
 
 ## Festivals & Events
 

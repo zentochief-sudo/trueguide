@@ -10,7 +10,7 @@ tags: [Shibamata, Tokyo neighborhoods, old Tokyo, Tora-san, shitamachi, Taishaku
 city: tokyo
 ---
 
-Shibamata (*柴又*) is a neighborhood in Katsushika ward in northeastern Tokyo that has remained nearly unchanged since the postwar era — a 200-meter covered shopping street, the unchanged wooden facade shops on either side, a 1,300-year-old temple at the end, and the Edogawa river levee where you can look across to Chiba prefecture.
+Shibamata (*柴又*) is a neighborhood in Katsushika ward in northeastern [Tokyo](/japan/tokyo-guide) that has remained nearly unchanged since the postwar era — a 200-meter covered shopping street, the unchanged wooden facade shops on either side, a 1,300-year-old temple at the end, and the Edogawa river levee where you can look across to Chiba prefecture.
 
 The neighborhood is the setting for *Otoko wa Tsurai yo* (It's Tough Being a Man) — the film series starring Atsumi Kiyoshi as Tora-san, a traveling merchant who always returns to Shibamata between journeys. The series ran from 1969 to 1995, producing 48 films, and is the longest-running film series in the world. Tora-san became synonymous with a specific Japanese working-class sentimentality; Shibamata became associated with the Japan that existed before economic growth changed everything.
 
@@ -64,6 +64,6 @@ The approach from Ueno via the Keisei Line is the most direct; the train to Shib
 
 **Weekends**: More crowded, particularly the approach street, but the neighborhood absorbs visitors without losing its character.
 
-**Cherry blossom season**: The Edogawa river levee has cherry trees; the combination of the shopping street, temple, and riverside bloom is one of Tokyo's better hanami experiences outside the main tourist circuits. Late March–early April.
+**[Cherry blossom](/japan/cherry-blossom-guide) season**: The Edogawa river levee has cherry trees; the combination of the shopping street, temple, and riverside bloom is one of Tokyo's better hanami experiences outside the main tourist circuits. Late March–early April.
 
 **Combine with**: A Shibamata visit pairs naturally with Katsushika Hokusai Museum (10 minutes by bus — dedicated to the ukiyo-e artist who was born in this area) or with a riverside walk along the Edogawa south toward Kameari.

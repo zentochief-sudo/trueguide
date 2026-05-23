@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Spain's climate varies dramatically from north to south and east to west. The Basque Country gets Atlantic weather (mild and rainy). Andalucía bakes in 40°C summers. Barcelona sits in a Mediterranean sweet spot. Understanding these differences helps enormously in planning.
+[Spain](/spain)'s climate varies dramatically from north to south and east to west. The Basque Country gets Atlantic weather (mild and rainy). Andalucía bakes in 40°C summers. [Barcelona](/spain/barcelona-travel-guide) sits in a Mediterranean sweet spot. Understanding these differences helps enormously in planning.
 
 ## The Short Answer
 

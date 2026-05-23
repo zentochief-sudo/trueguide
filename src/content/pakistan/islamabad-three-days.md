@@ -10,7 +10,7 @@ tags: []
 city: Islamabad
 ---
 
-Islamabad is unlike any other South Asian capital — a planned city built from scratch in the 1960s, with wide boulevards, forested hills, and an unhurried pace that startles visitors expecting chaos. It's Pakistan's most liveable city and, for international visitors, the safest and most accessible entry point for exploring the country.
+[Islamabad](/[pakistan](/pakistan)/islamabad-guide) is unlike any other South Asian capital — a planned city built from scratch in the 1960s, with wide boulevards, forested hills, and an unhurried pace that startles visitors expecting chaos. It's Pakistan's most liveable city and, for international visitors, the safest and most accessible entry point for exploring the country.
 
 ## Day 1 – Faisal Mosque, Margalla Hills & Pakistan Monument
 

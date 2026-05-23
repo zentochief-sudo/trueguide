@@ -10,7 +10,7 @@ tags: [Canada, June, summer, hiking, Banff, Yukon, midnight sun]
 city: national
 ---
 
-June is when Canada's landscape arrives at its full capability. The Rockies are green at valley level, still capped with white at the peaks, and the lakes are turning from winter grey to that implausible turquoise. The Yukon gets close to 20 hours of daylight. The cities warm up and outdoor life fully resumes. It's the first month of the year where you can genuinely say the weather cooperates almost everywhere.
+June is when [Canada](/canada)'s landscape arrives at its full capability. The Rockies are green at valley level, still capped with white at the peaks, and the lakes are turning from winter grey to that implausible turquoise. The Yukon gets close to 20 hours of daylight. The cities warm up and outdoor life fully resumes. It's the first month of the year where you can genuinely say the weather cooperates almost everywhere.
 
 ## Weather & Conditions
 

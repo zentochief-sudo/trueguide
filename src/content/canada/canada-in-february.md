@@ -10,7 +10,7 @@ tags: [Canada, February, winter, Quebec Winter Carnival, skiing, Montreal, Whist
 city: national
 ---
 
-February is Canada's coldest month on paper, but paradoxically it's the month the country commits most fully to winter fun. The Quebec Winter Carnival is at its peak. Montreal's outdoor scene is in full operation. Ski resorts across British Columbia, Alberta, and Quebec are running deep snowpacks. The cold is still there — dress for it — but the programming around it is excellent.
+February is [Canada](/canada)'s coldest month on paper, but paradoxically it's the month the country commits most fully to winter fun. The Quebec Winter Carnival is at its peak. Montreal's outdoor scene is in full operation. Ski resorts across British Columbia, Alberta, and Quebec are running deep snowpacks. The cold is still there — dress for it — but the programming around it is excellent.
 
 ## Weather & Conditions
 

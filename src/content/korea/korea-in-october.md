@@ -14,7 +14,7 @@ October in South Korea is the answer to the question: "What if I want fall folia
 
 ## Weather in October
 
-**Seoul:** 13–20°C, dropping to 7–12°C by late month. Clear, dry days dominate. Arguably the most comfortable weather of the year for walking the city.
+**[Seoul](/south-korea/seoul-guide):** 13–20°C, dropping to 7–12°C by late month. Clear, dry days dominate. Arguably the most comfortable weather of the year for walking the city.
 
 **Mountain national parks (Seoraksan, Jirisan):** Cooler at altitude — bring a warm layer. Morning temperatures can drop to 3–5°C in late October at elevation.
 

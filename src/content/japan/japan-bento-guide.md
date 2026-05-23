@@ -10,7 +10,7 @@ tags: [bento, ekiben, Japan train food, Japanese lunch, shinkansen food, station
 city: national
 ---
 
-The Japanese bento (*obento*, お弁当) is a portable meal served in a compartmentalized box — rice, protein, pickles, and seasonal vegetables arranged to be eaten cold or at room temperature. The form originated in the 16th century as a simple outdoor meal; over centuries of refinement it became a sophisticated expression of Japanese food culture, the quality of preparation, the visual arrangement, and the seasonal awareness now as important as the taste.
+The Japanese bento (*obento*, お弁当) is a portable meal served in a compartmentalized box — rice, protein, pickles, and seasonal vegetables arranged to be eaten cold or at room temperature. The form originated in the 16th century as a simple outdoor meal; over centuries of refinement it became a sophisticated expression of [Japanese food](/japan/japanese-food-guide) culture, the quality of preparation, the visual arrangement, and the seasonal awareness now as important as the taste.
 
 The *ekiben* (駅弁 — "station bento") is the shinkansen traveler's version: regional bentō sold at specific train stations, using local ingredients, often in containers designed to reference the region's history or landscape. Buying and eating an ekiben on a shinkansen is one of Japan's most satisfying travel rituals.
 
@@ -43,23 +43,23 @@ The most famous ekiben in Japan — trout (*masu*) pressed sushi packed in a rou
 Named after a famous mountain resort; the container is a small wooden box with a mountain pattern. Less about a single ingredient and more about the balanced quality of all components.
 
 **Hitachi Bento (常磐ものづくし), Hitachi/Mito**:
-Ibaraki seafood bento with multiple types of local fish; a good introduction to regional Tohoku seafood before arriving in the region.
+Ibaraki seafood bento with multiple types of local fish; a good introduction to regional [Tohoku](/japan/tohoku-guide) seafood before arriving in the region.
 
 **Yuki no Komachi (雪の香), Akita**:
 Akita rice (Akita Komachi is one of Japan's finest rice varieties) with local mountain vegetables, pickles, and sansho (Japanese pepper) seasoned chicken. Available at Akita Station (Komachi Shinkansen).
 
-**Hiroshima Anago Bento, Hiroshima**:
-Grilled conger eel (*anago*) over Hiroshima-grown rice. The local anago (from Miyajima) is a Hiroshima specialty; this bento makes the argument for it.
+**[Hiroshima](/japan/hiroshima-guide) Anago Bento, Hiroshima**:
+Grilled conger eel (*anago*) over Hiroshima-grown rice. The local anago (from [Miyajima](/japan/miyajima-guide)) is a Hiroshima specialty; this bento makes the argument for it.
 
 **Kobe Beef Bento, Shin-Kobe**:
 Several vendors at Shin-Kobe Station (Nozomi stop) sell Kobe beef bento — authentically sourced, with Wagyu in various preparations. ¥2,000–4,000.
 
-**Ika Meshi (イカめし), Mori Station (Hokkaido)**:
+**Ika Meshi (イカめし), Mori Station ([Hokkaido](/japan/hokkaido-guide))**:
 Squid (*ika*) stuffed with rice and simmered in soy sauce. Originally from the tiny JR Mori Station on the Hakodate Line; the bento became nationally famous and is now available in Tokyo's ekiben events. The stuffed squid, darkened to deep brown by the braising liquid, is served whole in a small container.
 
 ### Finding Ekiben
 
-**At the station**: Most major shinkansen stations have ekiben shops on the platform level or in the station shopping area. Kyoto, Osaka, Hiroshima, Kanazawa, Sendai, and Sapporo stations all have dedicated ekiben sections.
+**At the station**: Most major shinkansen stations have ekiben shops on the platform level or in the station shopping area. [Kyoto](/japan/kyoto-guide), Osaka, Hiroshima, [Kanazawa](/japan/kanazawa-guide), Sendai, and [Sapporo](/japan/sapporo-guide) stations all have dedicated ekiben sections.
 
 **Ekiben festivals**: Depa-chika food halls and major supermarkets hold ekiben tasting events (*ekiben taikai*) bringing regional varieties from across Japan to a single location — typically in January and October. The Takashimaya events in Tokyo and Kyoto are the most comprehensive.
 

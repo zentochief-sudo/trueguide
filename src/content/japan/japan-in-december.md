@@ -10,17 +10,17 @@ tags: [Japan, December, winter, illuminations, skiing, Hokkaido, Christmas]
 city: national
 ---
 
-December gets overlooked because it sits between the famous seasons. Cherry blossoms are months away. Fall foliage is finished. And yet Japan in December has things no other month does: the country glitters with winter light installations, the powder season opens in Hokkaido, the crowds are finally manageable, and the prices drop noticeably.
+December gets overlooked because it sits between the famous seasons. Cherry blossoms are months away. Fall foliage is finished. And yet Japan in December has things no other month does: the country glitters with winter light installations, the powder season opens in [Hokkaido](/japan/hokkaido-guide), the crowds are finally manageable, and the prices drop noticeably.
 
 If you've been putting Japan off because of cost and crowds — December is your window.
 
 ## Weather in December
 
-**Tokyo / Osaka / Kyoto:** Cold but dry. Days reach 8–12°C, dropping to 2–5°C at night. Clear skies are common — the famous blue winter light. Snow is rare in Tokyo and Kyoto (it happens, but don't count on it).
+**[Tokyo](/japan/tokyo-guide) / [Osaka](/japan/osaka-guide) / [Kyoto](/japan/kyoto-guide):** Cold but dry. Days reach 8–12°C, dropping to 2–5°C at night. Clear skies are common — the famous blue winter light. Snow is rare in Tokyo and Kyoto (it happens, but don't count on it).
 
 **Japanese Alps / Nagano:** Cold and snowy by mid-December. Skiing in Hakuba and Nozawa Onsen opens late November–early December.
 
-**Hokkaido:** Winter begins in earnest. Sapporo average high is -1°C in December, with heavy snowfall. Niseko and Furano powder season starts late November. By December it's excellent.
+**Hokkaido:** Winter begins in earnest. [Sapporo](/japan/sapporo-guide) average high is -1°C in December, with heavy snowfall. Niseko and Furano powder season starts late November. By December it's excellent.
 
 Pack accordingly: proper winter coat, wool layers, warm hat and gloves. This is not spring-in-Tokyo packing.
 
@@ -42,7 +42,7 @@ Japan's winter illumination culture is a genuine reason to visit in December. Ev
 
 **Kyoto Station:** The station's glass atrium facade gets a light installation every December, visible from the central staircase and rooftop terrace.
 
-**Kobe Luminarie:** Running since 1995 as a memorial to the 1995 earthquake. European-style arch illuminations through the central shopping street. Early–mid December.
+**[Kobe](/japan/kobe-guide) Luminarie:** Running since 1995 as a memorial to the 1995 earthquake. European-style arch illuminations through the central shopping street. Early–mid December.
 
 ## Skiing and Snow Activities
 
@@ -62,7 +62,7 @@ December is the opening of Japan's ski season, and Japan's ski season is genuine
 
 **New Year's preparations:** Late December sees shrines preparing for Hatsumode (the first shrine visit of the new year). The ritual preparations — hanging ropes, new decorations, priests in white — are quietly beautiful to observe.
 
-**New Year's Eve (Joya no Kane):** Buddhist temples ring their bells 108 times at midnight. Attending at a local temple (not the famous tourist ones) for this is one of the most atmospheric experiences Japan offers. Zojoji Temple in Tokyo, with Tokyo Tower behind it, is particularly photogenic.
+**New Year's Eve (Joya no Kane):** Buddhist temples ring their bells 108 times at midnight. Attending at a local temple (not the famous tourist ones) for this is one of the most atmospheric experiences Japan offers. Zojoji Temple in Tokyo, with [Tokyo Tower](/japan/tokyo-tower-guide) behind it, is particularly photogenic.
 
 **December 31 into January 1** is actually the busiest period of December — domestic travel spikes for Oshogatsu (New Year). Book accommodation for Dec 30 – Jan 3 well ahead.
 
@@ -72,7 +72,7 @@ Outside of New Year's week, December is one of Japan's quietest months. Internat
 
 **Advantages:**
 - No queue at Fushimi Inari at 9am (normal weeks)
-- Ryokan availability significantly better than spring or autumn
+- [Ryokan](/japan/ryokan-guide) availability significantly better than spring or autumn
 - Flight prices lower (outside of Christmas week)
 
 **Disadvantages:**

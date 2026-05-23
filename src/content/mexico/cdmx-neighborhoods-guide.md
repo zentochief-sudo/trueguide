@@ -10,7 +10,7 @@ tags: [Ciudad de México, colonias, Roma, Condesa, Polanco, Coyoacán, World Cup
 city: cdmx
 ---
 
-Mexico City is not organized into neighborhoods but into colonias — administrative units with their own characters that developed in different eras for different social classes. For World Cup visitors, the relevant colonias are those that offer the best combination of hotels or Airbnbs, access to food and nightlife, and connections to transport toward Estadio Azteca.
+[Mexico](/mexico) City is not organized into neighborhoods but into colonias — administrative units with their own characters that developed in different eras for different social classes. For World Cup visitors, the relevant colonias are those that offer the best combination of hotels or Airbnbs, access to food and nightlife, and connections to transport toward [Estadio Azteca](/mexico/estadio-azteca-guide).
 
 ---
 

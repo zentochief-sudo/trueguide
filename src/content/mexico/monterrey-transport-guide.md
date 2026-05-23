@@ -10,7 +10,7 @@ tags: [Monterrey, transport, Metro, Uber, Estadio BBVA, World Cup 2026]
 city: monterrey
 ---
 
-Monterrey has three Metro lines, a reliable Uber network, and organized match-day transport to Estadio BBVA. The city is spread across multiple municipalities and requires a mix of Metro and Uber to navigate efficiently. Taxis from the street (sitio taxis) exist but Uber is cheaper and more convenient for visitors.
+Monterrey has three Metro lines, a reliable Uber network, and organized match-day transport to [Estadio BBVA](/[mexico](/mexico)/estadio-bbva-guide). The city is spread across multiple municipalities and requires a mix of Metro and Uber to navigate efficiently. Taxis from the street (sitio taxis) exist but Uber is cheaper and more convenient for visitors.
 
 ---
 

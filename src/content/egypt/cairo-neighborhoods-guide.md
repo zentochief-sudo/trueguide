@@ -10,7 +10,7 @@ tags: [Cairo, neighborhoods, Zamalek, Downtown, Maadi, where to stay, Egypt]
 city: cairo
 ---
 
-Cairo is one of the most spatially complex cities in the world — a metropolitan area of 23 million people across dozens of districts, each with a distinct character. For visitors, the practical choice comes down to a few neighborhoods. Zamalek is the most visitor-friendly base for its restaurant and bar concentration, walkability, and central position on the Nile. Downtown (Wust el-Balad) is grittier and more authentically urban. Islamic Cairo and Coptic Cairo are historic districts best visited rather than stayed in.
+[Cairo](/egypt/cairo-travel-guide) is one of the most spatially complex cities in the world — a metropolitan area of 23 million people across dozens of districts, each with a distinct character. For visitors, the practical choice comes down to a few neighborhoods. Zamalek is the most visitor-friendly base for its restaurant and bar concentration, walkability, and central position on the Nile. Downtown (Wust el-Balad) is grittier and more authentically urban. [Islamic Cairo](/[egypt](/egypt)/islamic-cairo-guide) and [Coptic Cairo](/egypt/coptic-cairo-guide) are historic districts best visited rather than stayed in.
 
 ---
 
@@ -35,7 +35,7 @@ Zamalek occupies the northern tip of Gezira Island in the middle of the Nile —
 
 ## Downtown Cairo (Wust el-Balad)
 
-**Who it's for**: Urban explorers, budget travelers, those who want the Egyptian Museum proximity.
+**Who it's for**: Urban explorers, budget travelers, those who want the [Egyptian Museum](/egypt/egyptian-museum-guide) proximity.
 
 Downtown Cairo was built in the late 19th and early 20th centuries as a European-style city center — wide Haussmann-style boulevards, Art Nouveau and Art Deco buildings, and the layout that made Cairo briefly called "the Paris of the East." The buildings are mostly in various states of faded elegance; the street life is intense and authentically Cairene.
 

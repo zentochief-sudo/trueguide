@@ -10,7 +10,7 @@ tags: [Bordeaux, France, wine, Cité du Vin, Arcachon, UNESCO, waterfront, food,
 city: bordeaux
 ---
 
-Bordeaux was, until the early 2000s, a grey and provincial port city that happened to produce the world's most prestigious wine. The LGV (high-speed rail line from Paris, opened 2017, cutting the journey from 3 hours to 2 hours 4 minutes), a €5 billion urban renewal program, and the opening of the Cité du Vin (2016) have transformed it into one of France's most visited cities.
+Bordeaux was, until the early 2000s, a grey and provincial port city that happened to produce the world's most prestigious wine. The LGV (high-speed rail line from [Paris](/france/paris-travel-guide), opened 2017, cutting the journey from 3 hours to 2 hours 4 minutes), a €5 billion urban renewal program, and the opening of the Cité du Vin (2016) have transformed it into one of [France](/france)'s most visited cities.
 
 The historic center is now a UNESCO World Heritage Site; the waterfront has been rebuilt as a continuous public space; and the wine economy has diversified into wine tourism, gastronomy, and hospitality at every price point.
 
@@ -32,7 +32,7 @@ The historic center is now a UNESCO World Heritage Site; the waterfront has been
 
 The wine interpretation center opened in 2016 — a building shaped like a wine swirl (or, less charitably, a cruise ship mast), with 3,000 m² of permanent exhibition covering the history and culture of wine worldwide. More accessible than a simple wine museum; the permanent exhibition uses interactive technology effectively.
 
-The belvedere at the top has a 360° view of Bordeaux and includes a glass of Bordeaux wine (included in the €22 entry). The exhibition floor covers 23 wine civilizations from ancient Egypt to present; the Bordeaux content is one section among many.
+The belvedere at the top has a 360° view of Bordeaux and includes a glass of Bordeaux wine (included in the €22 entry). The exhibition floor covers 23 wine civilizations from ancient [Egypt](/egypt) to present; the Bordeaux content is one section among many.
 
 ---
 

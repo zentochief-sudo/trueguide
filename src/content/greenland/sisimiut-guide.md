@@ -10,9 +10,9 @@ tags: [Sisimiut, Greenland, Arctic Circle Trail, dog sledding, midnight sun, hik
 city: sisimiut
 ---
 
-Sisimiut is Greenland's second-largest town — a city of approximately 5,500 people just north of the Arctic Circle on the west coast, 350 km north of Nuuk. It has the features that define Greenlandic settlements: brightly painted houses (red, blue, yellow, green) against a backdrop of bare rock and winter snow, dog yards audible from anywhere in town, and the closeness of genuinely wild terrain that begins at the city edge.
+Sisimiut is [Greenland](/greenland)'s second-largest town — a city of approximately 5,500 people just north of the Arctic Circle on the west coast, 350 km north of [Nuuk](/greenland/nuuk-travel-guide). It has the features that define Greenlandic settlements: brightly painted houses (red, blue, yellow, green) against a backdrop of bare rock and winter snow, dog yards audible from anywhere in town, and the closeness of genuinely wild terrain that begins at the city edge.
 
-Where Ilulissat is defined by its icefjord and is primarily a destination for the Icefjord experience, Sisimiut is defined by its diversity of activity: the Arctic Circle Trail (a 160 km wilderness hike to Kangerlussuaq), winter dog sledding on sea ice and tundra, summer hiking on the hills immediately above the town, and a year-round boat access to fjords and islands.
+Where Ilulissat is defined by its icefjord and is primarily a destination for the Icefjord experience, Sisimiut is defined by its diversity of activity: the Arctic Circle Trail (a 160 km wilderness hike to Kangerlussuaq), winter [dog sledding](/greenland/dog-sledding-guide) on sea ice and tundra, summer hiking on the hills immediately above the town, and a year-round boat access to fjords and islands.
 
 ---
 

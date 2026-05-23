@@ -42,7 +42,7 @@ The upscale nightlife of Monterrey — a 10-minute Uber from the Centro, with a 
 
 ## The Paloma
 
-The Paloma (tequila + grapefruit soda + salt + lime) is the standard cocktail of northern Mexico — more specifically northern Mexico than the margarita. At San Pedro cocktail bars, house-squeezed grapefruit palomas: 150–250 MXN. At Barrio Antiguo cantinas, bottled grapefruit soda version: 80–120 MXN. The difference in quality is real; the cantina version is still enjoyable and more authentically regio.
+The Paloma (tequila + grapefruit soda + salt + lime) is the standard cocktail of northern [Mexico](/mexico) — more specifically northern Mexico than the margarita. At San Pedro cocktail bars, house-squeezed grapefruit palomas: 150–250 MXN. At Barrio Antiguo cantinas, bottled grapefruit soda version: 80–120 MXN. The difference in quality is real; the cantina version is still enjoyable and more authentically regio.
 
 ---
 
@@ -64,4 +64,4 @@ Norteño music (accordion-driven corridos and polkas) is the music of northern M
 
 **Tequila vs. beer pricing**: A Carta Blanca at a Barrio Antiguo cantina costs 50–70 MXN. The same quantity of tequila costs 80–150 MXN. San Pedro cocktail bars: 150–350 MXN per drink. The price difference between cantina and cocktail bar is significant but so is the difference in context.
 
-**Match night circuit**: Post-match from Estadio BBVA — the crowd typically flows toward Barrio Antiguo or San Pedro. Uber availability around the stadium post-match is competitive; a 10-minute wait is normal. Getting a ride to Barrio Antiguo from the stadium costs 80–130 MXN.
+**Match night circuit**: Post-match from [Estadio BBVA](/mexico/estadio-bbva-guide) — the crowd typically flows toward Barrio Antiguo or San Pedro. Uber availability around the stadium post-match is competitive; a 10-minute wait is normal. Getting a ride to Barrio Antiguo from the stadium costs 80–130 MXN.

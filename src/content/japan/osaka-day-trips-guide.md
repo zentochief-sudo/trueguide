@@ -10,7 +10,7 @@ tags: [Osaka, Japan, day trips, Kyoto, Nara, Kobe, Himeji, Kansai, itinerary, Wa
 city: osaka
 ---
 
-Osaka's central position in the Kansai region makes it the most logistically efficient base for exploring western Japan. Within 90 minutes you can reach Kyoto's temples, Nara's deer park, Kobe's beef restaurants, Himeji's castle, or the pilgrimage temples of Koyasan. The Shinkansen brings Hiroshima within 45 minutes. No Japanese city offers this concentration of accessible destinations.
+[Osaka](/japan/osaka-guide)'s central position in the Kansai region makes it the most logistically efficient base for exploring western Japan. Within 90 minutes you can reach [Kyoto](/japan/kyoto-guide)'s temples, Nara's deer park, [Kobe](/japan/kobe-guide)'s beef restaurants, [Himeji](/japan/himeji-guide)'s castle, or the pilgrimage temples of [Koyasan](/japan/koyasan-guide). The Shinkansen brings [Hiroshima](/japan/hiroshima-guide) within 45 minutes. No Japanese city offers this concentration of accessible destinations.
 
 This guide is for travelers who are using Osaka as their base — either because they prefer its energy, its food, or its lower accommodation prices relative to Kyoto.
 
@@ -70,7 +70,7 @@ Okunoin at dusk, with lanterns lit and the cedar-lined path leading to the inner
 
 **Getting there**: Kintetsu from Osaka-Abenobashi (Tennoji area) to Yoshino: 1 hour 20 minutes, ¥1,110.
 
-**Yoshino** is famous throughout Japan for one of its earliest and most reliable cherry blossom viewing spots — approximately 30,000 trees planted across the mountain, flowering at different elevations in a sequence that extends the sakura season across two weeks. The village of temples and shrines at the base and middle levels has been a pilgrimage destination since the 7th century.
+**Yoshino** is famous throughout Japan for one of its earliest and most reliable [cherry blossom](/japan/cherry-blossom-guide) viewing spots — approximately 30,000 trees planted across the mountain, flowering at different elevations in a sequence that extends the sakura season across two weeks. The village of temples and shrines at the base and middle levels has been a pilgrimage destination since the 7th century.
 
 Outside cherry blossom season (late March to late April), Yoshino is peaceful and rarely visited. **Kimpu-sen-ji** temple (the huge entrance gate featuring enormous Fudo Myoo statues) and the pilgrimage path up the mountain are compelling in any season.
 
@@ -86,7 +86,7 @@ Not exactly a day trip but an Osaka half-day worth knowing: **Kaiyukan** (the aq
 
 **Getting there**: JR Kinosaki Express from Osaka Station: 2 hours 40 minutes, ¥5,500.
 
-The most satisfying onsen day trip from Osaka, though the timing makes an overnight more comfortable. **Kinosaki** is a 17th-century hot spring town with willow trees along a central canal and seven public bathhouses (*sotoyu*), each with different water and atmosphere. The tradition is to stay in one ryokan and walk between all seven baths during your stay, wearing the provided yukata and geta sandals — the walk between baths is as much of the experience as the baths themselves.
+The most satisfying onsen day trip from Osaka, though the timing makes an overnight more comfortable. **Kinosaki** is a 17th-century hot spring town with willow trees along a central canal and seven public bathhouses (*sotoyu*), each with different water and atmosphere. The tradition is to stay in one [ryokan](/japan/ryokan-guide) and walk between all seven baths during your stay, wearing the provided yukata and geta sandals — the walk between baths is as much of the experience as the baths themselves.
 
 A day trip (morning departure, late evening return) is tiring but workable. An overnight gives you the full evening and morning bath circuit.
 

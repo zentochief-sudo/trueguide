@@ -10,19 +10,19 @@ tags: [Kazakhstan, June, Tian Shan, hiking, trekking, Almaty, steppe, summer]
 city: national
 ---
 
-June is Kazakhstan's summer prime for mountain travelers. The high Tian Shan passes above 3,000m open as snow melts. Alpine meadows bloom with wildflowers. The days are long (17+ hours of daylight at this latitude). And the steppe, before the July heat dries it out, is still green enough for horseback riding and camping. June is when Kazakhstan delivers its mountain and steppe promise.
+June is [Kazakhstan](/kazakhstan)'s summer prime for mountain travelers. The high Tian Shan passes above 3,000m open as snow melts. Alpine meadows bloom with wildflowers. The days are long (17+ hours of daylight at this latitude). And the steppe, before the July heat dries it out, is still green enough for horseback riding and camping. June is when Kazakhstan delivers its mountain and steppe promise.
 
 ## Weather & Conditions
 
-**Almaty:** 18–28°C. Warm. Some afternoon thunderstorms in the mountains.
+**[Almaty](/kazakhstan/almaty-travel-guide):** 18–28°C. Warm. Some afternoon thunderstorms in the mountains.
 
 **Tian Shan (high routes, 3,000m+):** 5–15°C. High passes opening. Snow at summits.
 
-**Astana:** 14–25°C. The steppe capital is genuinely pleasant in June.
+**[Astana](/kazakhstan/astana-guide):** 14–25°C. The steppe capital is genuinely pleasant in June.
 
 **Steppe:** 18–28°C. Long grass still green in early June, beginning to brown by late June.
 
-**Charyn Canyon:** 22–32°C. Getting warm. Morning visits recommended.
+**[Charyn Canyon](/kazakhstan/charyn-canyon-guide):** 22–32°C. Getting warm. Morning visits recommended.
 
 ## What to Do
 
@@ -52,4 +52,4 @@ June is the start of the domestic Kazakh summer travel season. Mountain huts and
 
 ## Who June Is For
 
-Serious hikers and trekkers who want the high Tian Shan routes in prime condition. Horseback riding and nomadic culture travelers. Altyn-Emel visitors. And anyone combining Almaty's city culture with mountain adventures in ideal June conditions.
+Serious hikers and trekkers who want the high Tian Shan routes in prime condition. Horseback riding and [nomadic culture](/kazakhstan/nomadic-culture-guide) travelers. Altyn-Emel visitors. And anyone combining Almaty's city culture with mountain adventures in ideal June conditions.

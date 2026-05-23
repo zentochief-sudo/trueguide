@@ -10,13 +10,13 @@ tags: [France, August, Paris, beach, Brittany, Riviera, Dordogne, summer, Avigno
 city: national
 ---
 
-August is France's great vacation. The French themselves take most of August off — Paris loses a significant portion of its population to the coast, the mountains, and rural holiday homes. For tourists, this creates a paradox: the major cultural sites have fewer French visitors but more international ones, producing a city that feels different from its normal self. Meanwhile, the Atlantic coast (Brittany, Basque Country) and the Mediterranean (Riviera, Languedoc) are at maximum capacity with the French holiday crowd. August France is about knowing where the French have gone — and deciding whether to follow them or have the museums to yourself.
+August is [France](/france)'s great vacation. The French themselves take most of August off — [Paris](/france/paris-travel-guide) loses a significant portion of its population to the coast, the mountains, and rural holiday homes. For tourists, this creates a paradox: the major cultural sites have fewer French visitors but more international ones, producing a city that feels different from its normal self. Meanwhile, the Atlantic coast (Brittany, Basque Country) and the Mediterranean (Riviera, Languedoc) are at maximum capacity with the French holiday crowd. August France is about knowing where the French have gone — and deciding whether to follow them or have the museums to yourself.
 
 ## Weather in August
 
 **Paris:** 19°C to 29°C. Hot, sometimes very hot. Heat waves in recent years have pushed Paris above 40°C. The city is manageable with air conditioning discipline (museums, department stores, the metro).
 
-**Provence:** 24°C to 38°C. The lavender season is winding down; the fields are harvested through August. The Gorges du Verdon and Luberon are at maximum tourist density.
+**[Provence](/france/provence-guide):** 24°C to 38°C. The lavender season is winding down; the fields are harvested through August. The Gorges du Verdon and Luberon are at maximum tourist density.
 
 **Côte d'Azur:** 23°C to 33°C. The Mediterranean at 26–27°C — the best swimming conditions of the year. The coast from Nice to Saint-Tropez is at absolute maximum capacity.
 

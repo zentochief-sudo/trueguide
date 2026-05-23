@@ -10,7 +10,7 @@ tags: [Réunion, Hell-Bourg, Salazie, cirque, Creole architecture, hiking, water
 city: hell-bourg
 ---
 
-Hell-Bourg is a village of approximately 2,000 people in the Salazie cirque at 930 meters altitude — one of the three high-altitude cirques that occupy the extinct volcanic calderas of Réunion's interior. The village was designated one of the *Plus Beaux Villages de France* (Most Beautiful Villages of France), a certification that the architecture and preservation of the place justify: Hell-Bourg has the highest concentration of intact Creole colonial architecture in Réunion, clustered along lanes with bougainvillea, ferns, and the continuous sound of waterfalls from the cirque walls above.
+Hell-Bourg is a village of approximately 2,000 people in the Salazie cirque at 930 meters altitude — one of the three high-altitude cirques that occupy the extinct volcanic calderas of Réunion's interior. The village was designated one of the *Plus Beaux Villages de [France](/france)* (Most Beautiful Villages of France), a certification that the architecture and preservation of the place justify: Hell-Bourg has the highest concentration of intact Creole colonial architecture in Réunion, clustered along lanes with bougainvillea, ferns, and the continuous sound of waterfalls from the cirque walls above.
 
 The name is not infernal in origin — it derives from the 19th-century governor Amiral de Hell, under whom the village developed as a thermal spa resort for Saint-Denis residents seeking the mountain climate.
 

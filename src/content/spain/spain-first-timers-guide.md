@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Spain is one of Europe's most visited countries, but it manages to surprise almost everyone who arrives. The culture runs deeper than sun and sangría — this is a country of extraordinary art, intense regional pride, world-class food, and a social rhythm that operates on a completely different clock.
+[Spain](/spain) is one of Europe's most visited countries, but it manages to surprise almost everyone who arrives. The culture runs deeper than sun and sangría — this is a country of extraordinary art, intense regional pride, world-class food, and a social rhythm that operates on a completely different clock.
 
 ## The Basics
 
@@ -20,7 +20,7 @@ Spain is one of Europe's most visited countries, but it manages to surprise almo
 **Time zone:** CET/CEST (GMT+1/+2)  
 **Driving:** Right-hand side  
 **Plugs:** Type F (two round pins)  
-**Visa:** EU/EEA no visa; US, UK, Canada, Australia — visa-free 90 days (Schengen)
+**Visa:** EU/EEA no visa; US, UK, [Canada](/canada), Australia — visa-free 90 days (Schengen)
 
 ---
 
@@ -30,7 +30,7 @@ Spain is one of Europe's most visited countries, but it manages to surprise almo
 This is the single biggest adjustment. Spaniards eat lunch between 2–4pm and dinner between 9–11pm. Showing up at a restaurant at 7pm means eating alone in an empty room. The evening paseo (stroll) starts around 7–8pm. Nightlife doesn't start until midnight. Life runs late — go with it.
 
 ### Don't conflate Barcelona with Spain
-Barcelona is a Catalan city. Locals speak Catalan as their first language and have a strong, proud regional identity separate from Spain. Many Barcelonans resent being lumped in with "Spain" culturally. Address locals in Spanish (or Catalan, if you can manage "gràcies") — not English first.
+[Barcelona](/spain/barcelona-travel-guide) is a Catalan city. Locals speak Catalan as their first language and have a strong, proud regional identity separate from Spain. Many Barcelonans resent being lumped in with "Spain" culturally. Address locals in Spanish (or Catalan, if you can manage "gràcies") — not English first.
 
 ### Siesta hours are real (sort of)
 Not everywhere and not always — but smaller shops, pharmacies, and services in cities outside Madrid and Barcelona often close between 2–5pm. Plan your shopping accordingly. Museums and major attractions stay open.

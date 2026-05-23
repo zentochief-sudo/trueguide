@@ -80,7 +80,7 @@ Check this website the day before and morning of any planned volcano hike. Condi
 
 ## Combining with Cilaos and the Southern Cirque
 
-La Fournaise sits in the southeastern quadrant of the island, accessible from Saint-Pierre (south coast) or via the island circuit from Saint-Denis. The Cilaos cirque is 2 hours west from Bourg-Murat — a logical multi-day combination covering Réunion's two most distinctive geological features.
+La Fournaise sits in the southeastern quadrant of the island, accessible from Saint-Pierre (south coast) or via the island circuit from Saint-Denis. The [Cilaos](/reunion/cilaos-guide) cirque is 2 hours west from Bourg-Murat — a logical multi-day combination covering Réunion's two most distinctive geological features.
 
 **Three-day itinerary for the south**:
 - Day 1: Drive to Bourg-Murat; afternoon hike or Plaine des Sables view

@@ -10,7 +10,7 @@ tags: [Peru, September, shoulder season, value, Machu Picchu, Inca Trail, Cusco]
 city: national
 ---
 
-September is the insider's month for Peru. The dry season continues — Machu Picchu is as clear as July, the Inca Trail is as good as June — but the July–August crowds have returned to school and work. Prices at Cusco hotels drop 15–25%. Inca Trail permits that were booked solid in July have availability. And the experience is essentially identical to peak season with meaningfully fewer visitors and lower costs.
+September is the insider's month for [Peru](/peru). The dry season continues — [Machu Picchu](/peru/machu-picchu-guide) is as clear as July, the Inca Trail is as good as June — but the July–August crowds have returned to school and work. Prices at [Cusco](/peru/cusco-guide) hotels drop 15–25%. Inca Trail permits that were booked solid in July have availability. And the experience is essentially identical to peak season with meaningfully fewer visitors and lower costs.
 
 ## Weather & Conditions
 
@@ -18,11 +18,11 @@ September is the insider's month for Peru. The dry season continues — Machu Pi
 
 **Machu Picchu:** 12–23°C. Excellent. Clear mornings, warm afternoons.
 
-**Lima:** 14–20°C. The garúa (coastal fog) begins lifting through September. The first sunny days on the Lima coast appear.
+**[Lima](/peru/lima-guide):** 14–20°C. The garúa (coastal fog) begins lifting through September. The first sunny days on the Lima coast appear.
 
-**Amazon:** Still dry season. River levels at their lowest. Wildlife concentrated.
+**[Amazon](/peru/amazon-guide):** Still dry season. River levels at their lowest. Wildlife concentrated.
 
-**Lake Titicaca:** 4–16°C. Clear and dry. The lake in September morning sun is extraordinary.
+**[Lake Titicaca](/peru/lake-titicaca-guide):** 4–16°C. Clear and dry. The lake in September morning sun is extraordinary.
 
 ## What to Do
 

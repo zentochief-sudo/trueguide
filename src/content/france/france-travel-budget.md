@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-France has a reputation for being expensive, and Paris can be. But the country as a whole offers enormous value if you know where to look — regional France, in particular, is significantly cheaper than the capital and arguably more rewarding.
+[France](/france) has a reputation for being expensive, and [Paris](/france/paris-travel-guide) can be. But the country as a whole offers enormous value if you know where to look — regional France, in particular, is significantly cheaper than the capital and arguably more rewarding.
 
 ## Quick Summary
 
@@ -30,7 +30,7 @@ France has a reputation for being expensive, and Paris can be. But the country a
 
 **Hotels (2-star):** €80–120/night in Paris, €55–90 in provincial cities. Basic but clean.
 
-**Mid-range hotels (3-star):** €130–200/night in Paris; €80–140 in Provence, Lyon, Bordeaux.
+**Mid-range hotels (3-star):** €130–200/night in Paris; €80–140 in [Provence](/france/provence-guide), Lyon, [Bordeaux](/france/bordeaux-guide).
 
 **Boutique hotels:** €180–280/night in Paris. Excellent options in Marais, Saint-Germain, and Montmartre.
 
@@ -72,7 +72,7 @@ France's food culture is one of the world's great pleasures — and eating well 
 
 **Intercity buses (BlaBlaBus, Flixbus):** €10–25 for major routes. Much slower than TGV but significantly cheaper.
 
-**Car rental:** €30–55/day. Essential for Provence, the Loire Valley, Burgundy, and Alsace. Petrol runs €1.80–2.00/litre.
+**Car rental:** €30–55/day. Essential for Provence, the [Loire Valley](/france/loire-valley-guide), Burgundy, and [Alsace](/france/alsace-guide). Petrol runs €1.80–2.00/litre.
 
 **Toll roads (autoroutes):** French motorways are excellent but expensive. Paris–Nice by autoroute costs approximately €60 in tolls.
 
@@ -85,7 +85,7 @@ France's food culture is one of the world's great pleasures — and eating well 
 | Louvre | €22 (free under 18 EU, free 1st Fri evening/month) |
 | Eiffel Tower (summit) | €32 |
 | Musée d'Orsay | €16 |
-| Palace of Versailles | €21 + €9.50 for gardens |
+| Palace of [Versailles](/france/versailles-guide) | €21 + €9.50 for gardens |
 | Musée Rodin | €14 |
 | Sainte-Chapelle | €15 |
 | Château de Chambord | €15 |

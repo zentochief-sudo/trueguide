@@ -70,7 +70,7 @@ The key insight: layering thin, watery products from thinnest to thickest allows
 
 **Laneige Water Sleeping Mask**: The overnight hydration mask that started the sleeping mask category globally.
 
-**Innisfree Green Tea Seed Serum**: Long-running cult product from Innisfree's Jeju green tea line.
+**Innisfree Green Tea Seed Serum**: Long-running cult product from Innisfree's [Jeju](/korea/jeju-guide) green tea line.
 
 **Dr. Jart+ Ceramidin Cream**: The ceramide barrier repair cream that entered Western markets via Sephora at a significant markup from its Korean price.
 
@@ -118,4 +118,4 @@ Medical tourism for plastic surgery from China, Southeast Asia, and Western coun
 
 ---
 
-The K-beauty industry is simultaneously a consumer market, a cultural export, and a reflection of the specific relationship Korean society has with skin care as a form of daily maintenance. The stores in Myeongdong are how that industry presents itself to the world; the dermatology clinics in Gangnam are where the more serious practice happens; and the skincare routine at a grandmother's house in Busan, unchanged for 40 years, is where the tradition started.
+The K-beauty industry is simultaneously a consumer market, a cultural export, and a reflection of the specific relationship Korean society has with skin care as a form of daily maintenance. The stores in Myeongdong are how that industry presents itself to the world; the dermatology clinics in Gangnam are where the more serious practice happens; and the skincare routine at a grandmother's house in [Busan](/korea/busan-guide), unchanged for 40 years, is where the tradition started.

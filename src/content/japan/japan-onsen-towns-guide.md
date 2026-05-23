@@ -10,9 +10,9 @@ tags: [onsen, hot springs, Kusatsu, Kinosaki, Ginzan, Nyuto Tsurunoyu, Beppu, on
 city: national
 ---
 
-Japan has the highest concentration of geothermal activity of any inhabited country in the world — over 27,000 registered hot springs in all 47 prefectures. The culture that has grown around this geology — the *onsen* (bathing) tradition, the *ryokan* (inn) system designed around it, the specific etiquette and ritual of the communal bath — is one of the most distinctive aspects of Japanese life.
+Japan has the highest concentration of geothermal activity of any inhabited country in the world — over 27,000 registered hot springs in all 47 prefectures. The culture that has grown around this geology — the *onsen* (bathing) tradition, the *[ryokan](/japan/ryokan-guide)* (inn) system designed around it, the specific etiquette and ritual of the communal bath — is one of the most distinctive aspects of Japanese life.
 
-The famous onsen destinations (Hakone, Beppu) are excellent but heavily visited. This guide focuses on the towns that offer the most complete onsen experience — places where the hot spring is not a hotel amenity but the organizing principle of the entire settlement.
+The famous onsen destinations ([Hakone](/japan/hakone-guide), [Beppu](/japan/beppu-guide)) are excellent but heavily visited. This guide focuses on the towns that offer the most complete onsen experience — places where the hot spring is not a hotel amenity but the organizing principle of the entire settlement.
 
 ---
 
@@ -28,7 +28,7 @@ Japan's most celebrated onsen town by domestic ranking — the *onsen dai-ichi* 
 
 **Public baths**: Kusatsu has 3 *soto-yu* (free public baths): Otakinoyu, Jizontyu, and Shokirinyu. No charge; bring your own towel.
 
-**Access**: Highway bus from Shinjuku or Tokyo Station, approximately 3 hours. JR train to Nagano Harashokan then bus; 2.5 hours. No direct rail connection.
+**Access**: Highway bus from Shinjuku or [Tokyo](/japan/tokyo-guide) Station, approximately 3 hours. JR train to Nagano Harashokan then bus; 2.5 hours. No direct rail connection.
 
 **Season**: Year-round, with late November–February the ski season (Kusatsu International Ski Resort adjacent). The snow-covered yubatake in winter is the most beautiful view.
 
@@ -49,7 +49,7 @@ Kinosaki is the *soto-yu meguri* (outdoor bath circuit) town — a village where
 
 **The circuit**: Check in to a ryokan, receive a *yukata* and the bath circuit ticket (typically included in accommodation or sold at the information center), and spend the afternoon-evening visiting 4–5 baths. The walk between them in *yukata* and wooden sandals (*geta*), through the willow canal street, past the ryokan frontages and small restaurants, is the Kinosaki experience.
 
-**Access**: JR Kinosaki Onsen Station on the San'in Main Line. From Kyoto by *Kounotori* limited express: 2h20m. From Osaka, 2h45m. The train journey to Kinosaki from Kyoto passes through the Hyogo countryside and is pleasant.
+**Access**: JR Kinosaki Onsen Station on the San'in Main Line. From [Kyoto](/japan/kyoto-guide) by *Kounotori* limited express: 2h20m. From [Osaka](/japan/osaka-guide), 2h45m. The train journey to Kinosaki from Kyoto passes through the Hyogo countryside and is pleasant.
 
 **Staying**: Most visitors stay 1 night in a ryokan with full board (dinner and breakfast included). Price range: ¥15,000–40,000 per person with meals.
 

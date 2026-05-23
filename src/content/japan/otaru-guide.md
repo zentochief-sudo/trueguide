@@ -10,7 +10,7 @@ tags: [Otaru, Hokkaido, canal, sushi, glass, Meiji, warehouse, Japan, day trip, 
 city: national
 ---
 
-Otaru's wealth came from herring. The Sea of Japan coast of Hokkaido produced massive herring runs in the late 19th and early 20th centuries; Otaru was the commercial and financial center of that industry, and of the broader Hokkaido development push of the Meiji era. The stone warehouses along the canal stored goods; the ornate brick bank buildings along Chuo-dori held the profits. When the herring runs collapsed in the 1950s, Otaru's economy contracted and many of those buildings were simply left.
+Otaru's wealth came from herring. The Sea of Japan coast of [Hokkaido](/japan/hokkaido-guide) produced massive herring runs in the late 19th and early 20th centuries; Otaru was the commercial and financial center of that industry, and of the broader Hokkaido development push of the Meiji era. The stone warehouses along the canal stored goods; the ornate brick bank buildings along Chuo-dori held the profits. When the herring runs collapsed in the 1950s, Otaru's economy contracted and many of those buildings were simply left.
 
 The preservation was inadvertent but thorough. Otaru today has one of the densest concentrations of intact Meiji and Taisho-era commercial architecture in Japan, concentrated along a short canal and a few parallel streets — all walkable from the train station in under 20 minutes.
 
@@ -18,7 +18,7 @@ The preservation was inadvertent but thorough. Otaru today has one of the denses
 
 ## Getting There
 
-**From Sapporo**: 35 minutes by JR Hakodate Main Line rapid train (¥750). JR Pass valid. Trains run approximately every 30 minutes.
+**From [Sapporo](/japan/sapporo-guide)**: 35 minutes by JR Hakodate Main Line rapid train (¥750). JR Pass valid. Trains run approximately every 30 minutes.
 
 **From Chitose Airport**: Take the JR Airport express to Sapporo, then the Hakodate Line to Otaru. Total: about 80 minutes. Alternatively, direct buses from the airport to Otaru (70 minutes, ¥1,500).
 
@@ -66,7 +66,7 @@ Otaru's sushi scene has a specific claim: the proximity to Hokkaido's fishing po
 
 Beyond the canal, Otaru's Chuo-dori and the surrounding streets contain some of the best Meiji-period bank and commercial building architecture in Japan.
 
-**Bank of Japan Otaru Branch** (now the Otaru Financial Museum): The 1912 bank building by the architect Tatsuno Kingo (who also designed Tokyo Station) — a heavy European Renaissance stone structure completely incongruous with its harbor-town setting, which was exactly the point. The Meiji government built imposing European-style buildings in Hokkaido specifically to signal development and permanence. The interior has been preserved and is open as a museum. Free entry.
+**Bank of Japan Otaru Branch** (now the Otaru Financial Museum): The 1912 bank building by the architect Tatsuno Kingo (who also designed [Tokyo](/japan/tokyo-guide) Station) — a heavy European Renaissance stone structure completely incongruous with its harbor-town setting, which was exactly the point. The Meiji government built imposing European-style buildings in Hokkaido specifically to signal development and permanence. The interior has been preserved and is open as a museum. Free entry.
 
 **Nomura Securities Otaru Branch building**: Baroque-influenced stone, 1908. The concentration of financial institution buildings along this street was Otaru's equivalent of a financial district.
 
@@ -82,4 +82,4 @@ Beyond the canal, Otaru's Chuo-dori and the surrounding streets contain some of 
 
 ---
 
-Otaru is the Japan that didn't get photographed into overexposure the way Kyoto or Tokyo did. The stone walls and canal water and the smell of the sea and fresh fish are the same as they were in 1930, and the sushi is as good as it gets anywhere in the country. One day from Sapporo, return.
+Otaru is the Japan that didn't get photographed into overexposure the way [Kyoto](/japan/kyoto-guide) or Tokyo did. The stone walls and canal water and the smell of the sea and fresh fish are the same as they were in 1930, and the sushi is as good as it gets anywhere in the country. One day from Sapporo, return.

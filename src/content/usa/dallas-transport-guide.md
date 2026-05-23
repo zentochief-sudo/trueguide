@@ -104,7 +104,7 @@ Uber and Lyft both operate extensively in Dallas. Standard pricing is lower than
 
 **Dallas B-Cycle**: A docked bike share system with stations primarily in Uptown, the Arts District, and downtown. $3.50 per 30-minute ride or a $12/day unlimited pass. Practical for short trips within the Uptown–downtown corridor where the bike infrastructure is reasonable.
 
-Dallas's cycling infrastructure is limited compared to cities like Seattle or San Francisco. Stick to the dedicated trail along **Katy Trail** (a paved rail-trail running 3.5 miles through Uptown and East Dallas) for safe, pleasant cycling.
+Dallas's cycling infrastructure is limited compared to cities like Seattle or [San Francisco](/united-states/san-francisco-guide). Stick to the dedicated trail along **Katy Trail** (a paved rail-trail running 3.5 miles through Uptown and East Dallas) for safe, pleasant cycling.
 
 ---
 

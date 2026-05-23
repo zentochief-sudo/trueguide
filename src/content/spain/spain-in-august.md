@@ -10,13 +10,13 @@ tags: [Spain, August, summer, La Tomatina, beach, Ibiza, Mallorca, northern Spai
 city: national
 ---
 
-August is Spain's absolute peak — and its most polarizing month. The beaches are at their best: warm water, long days, full infrastructure. The cities of Madrid and Seville partially empty as residents vacation elsewhere, making them quieter (if hotter) than July. And La Tomatina in Buñol turns an entire town into a tomato war for one hour. If you're at a resort or beach destination, August delivers everything. If you're doing cultural city tourism, it's the most challenging month.
+August is [Spain](/spain)'s absolute peak — and its most polarizing month. The beaches are at their best: warm water, long days, full infrastructure. The cities of Madrid and Seville partially empty as residents vacation elsewhere, making them quieter (if hotter) than July. And La Tomatina in Buñol turns an entire town into a tomato war for one hour. If you're at a resort or beach destination, August delivers everything. If you're doing cultural city tourism, it's the most challenging month.
 
 ## Weather in August
 
 **Madrid:** 21°C to 36°C. Actually less oppressive than July for cultural tourism — locals have left, the streets and museums are quieter than you'd expect. Still hot, still midday-only-indoors.
 
-**Barcelona:** 24°C to 32°C. The hottest and most crowded month. La Barceloneta beach is standing-room-only on weekends. The city is at maximum international tourist density.
+**[Barcelona](/spain/barcelona-travel-guide):** 24°C to 32°C. The hottest and most crowded month. La Barceloneta beach is standing-room-only on weekends. The city is at maximum international tourist density.
 
 **Seville:** 27°C to 43°C. The hottest month. Seville in August is genuinely extreme — a remarkable, slightly unreal experience. The city is beautiful in the evening when it cools to 28°C; the morning before 9 AM is manageable.
 

@@ -10,13 +10,13 @@ tags: [Malaysia, August, Merdeka Day, east coast, Perhentian, turtles, Borneo]
 city: national
 ---
 
-August is Malaysia's independence month and the continuation of the east coast beach peak. Merdeka Day on August 31 fills Kuala Lumpur with the national pride of a multicultural nation celebrating its independence. The Perhentian Islands and Redang remain in excellent condition. Turtle nesting season continues. Sabah and Sarawak in Borneo are in their drier months. August is peak season with an added national celebration.
+August is [Malaysia](/malaysia)'s independence month and the continuation of the east coast beach peak. Merdeka Day on August 31 fills [Kuala Lumpur](/malaysia/kuala-lumpur-guide) with the national pride of a multicultural nation celebrating its independence. The Perhentian Islands and Redang remain in excellent condition. Turtle nesting season continues. Sabah and Sarawak in [Borneo](/malaysia/borneo-guide) are in their drier months. August is peak season with an added national celebration.
 
 ## Weather & Conditions
 
 **East Coast:** 27–33°C. Excellent. The peak season continues.
 
-**West Coast:** Southwest monsoon continues — Langkawi and Penang are wet.
+**West Coast:** Southwest monsoon continues — [Langkawi](/malaysia/langkawi-guide) and [Penang](/malaysia/penang-travel-guide) are wet.
 
 **Kuala Lumpur:** 25–32°C. Hot and humid. Merdeka Day creates significant citywide activity.
 
@@ -34,7 +34,7 @@ August is Malaysia's independence month and the continuation of the east coast b
 
 **Kuching Heritage (Sarawak):** August in Kuching is manageable. The Sarawak Museum (one of the oldest and finest museums in Southeast Asia), the Cat Museum, the Waterfront walk, and the traditional longhouse day trips are all accessible. Evening dimsum at Top Spot Food Court.
 
-**Malacca (Melaka) heritage city:** The UNESCO World Heritage port city between KL and Johor Bahru is excellent year-round. The Dutch-era Stadthuys (red town hall), A Famosa Portuguese fort ruins, the Jonker Street night market (Fridays and Saturdays), and the Peranakan museum are the main draws.
+**Malacca ([Melaka](/malaysia/melaka-guide)) heritage city:** The UNESCO World Heritage port city between KL and Johor Bahru is excellent year-round. The Dutch-era Stadthuys (red town hall), A Famosa Portuguese fort ruins, the Jonker Street night market (Fridays and Saturdays), and the Peranakan museum are the main draws.
 
 ## Festivals & Events
 

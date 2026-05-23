@@ -10,14 +10,14 @@ tags: [day trips, Tokyo, Nikko, Hakone, Kamakura, Yokohama, Kawaguchiko, Fuji, Y
 city: tokyo
 ---
 
-Tokyo's rail connections are dense enough that you can leave the city at 8am, spend a full day at a World Heritage shrine complex, soak in a hot spring with a view of Mount Fuji, or walk through a 13th-century temple district, and be back in Shinjuku for dinner. The city's size and position in the Kantō plain make it the best day-trip base in Japan.
+[Tokyo](/japan/tokyo-guide)'s rail connections are dense enough that you can leave the city at 8am, spend a full day at a World Heritage shrine complex, soak in a hot spring with a view of [Mount Fuji](/japan/mount-fuji-guide), or walk through a 13th-century temple district, and be back in Shinjuku for dinner. The city's size and position in the Kantō plain make it the best day-trip base in Japan.
 
 The trips below are organized by what they offer, not just geography. Each is genuinely worth the time — they're not supplementary tourism but experiences that rival the main city attractions.
 
 ---
 
 ## Nikko — Ornate Shrines and Mountain Forests
-**Travel time**: 1h50m from Asakusa (Tobu Nikko Line, limited express)  
+**Travel time**: 1h50m from Asakusa (Tobu [Nikko](/japan/nikko-guide) Line, limited express)  
 **Cost**: ¥1,390 one way on Tobu Line; JR Pass users can take Shinkansen to Utsunomiya then local train (1h40m total)  
 **Best for**: Architectural excess, UNESCO heritage, waterfall hiking  
 **Ideal duration**: Full day (8+ hours)
@@ -34,7 +34,7 @@ The surrounding **Nikkō National Park** provides the natural counterpart: the *
 
 ## Hakone — Hot Springs and Fuji Views
 **Travel time**: 85 minutes from Shinjuku (Romancecar limited express on Odakyu Line)  
-**Cost**: ¥2,470 (Romancecar reserved seat) + ¥1,000 Hakone Free Pass base  
+**Cost**: ¥2,470 (Romancecar reserved seat) + ¥1,000 [Hakone](/japan/hakone-guide) Free Pass base  
 **Best for**: Onsen, mountain scenery, Mount Fuji sightings  
 **Ideal duration**: Full day; overnight worthwhile
 
@@ -42,7 +42,7 @@ The **Hakone Free Pass** (¥5,000–6,000 from Shinjuku) covers the entire trans
 
 **Hakone Open Air Museum** (*Hakone Chokoku-no-Mori Bijutsukan*): A sculpture park on the Hakone Tozan line with over 120 outdoor works including a Picasso pavilion. One of the most visited museums in Japan; the combination of Rodin, Henry Moore, and mountain forest background is effective.
 
-**Onsen**: Hakone-Yumoto has dozens of ryokan with day-use hot springs (¥800–1,500). **Tenzan Toji-kyo** is the best known day-use facility; **Kappa Tengoku** on the hillside is quieter and traditional.
+**Onsen**: Hakone-Yumoto has dozens of [ryokan](/japan/ryokan-guide) with day-use hot springs (¥800–1,500). **Tenzan Toji-kyo** is the best known day-use facility; **Kappa Tengoku** on the hillside is quieter and traditional.
 
 **Fuji visibility**: Mount Fuji is visible from Owakudani and Lake Ashi on clear days (roughly 50% of the time in summer, higher in winter). Check the Hakone Ropeway website for real-time Fuji visibility cameras before going.
 
@@ -54,7 +54,7 @@ The **Hakone Free Pass** (¥5,000–6,000 from Shinjuku) covers the entire trans
 **Best for**: The Daibutsu, hiking trails between temples, ocean backdrop  
 **Ideal duration**: 6–8 hours
 
-Kamakura was Japan's de facto capital in the 13th century when the Minamoto shogunate ruled here. The city retains 19 major temples, 19 major shrines, and one of Japan's most celebrated outdoor Buddha statues — all within walking distance or a short bus ride of each other.
+[Kamakura](/japan/kamakura-guide) was Japan's de facto capital in the 13th century when the Minamoto shogunate ruled here. The city retains 19 major temples, 19 major shrines, and one of Japan's most celebrated outdoor Buddha statues — all within walking distance or a short bus ride of each other.
 
 **Kōtoku-in Daibutsu**: The 13.35m bronze Great Buddha has been seated outdoors since 1495 when a storm destroyed the wooden hall surrounding it. The statue is open for visitors to walk inside (¥20 extra). The combination of scale, setting, and historical weight is significant; most people stand in front of it longer than they expected to.
 

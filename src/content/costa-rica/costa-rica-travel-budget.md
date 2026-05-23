@@ -10,7 +10,7 @@ tags: []
 city: national
 ---
 
-Costa Rica surprises visitors with its costs. It's significantly more expensive than neighbouring Nicaragua, Honduras, or Panama — and in some areas rivals European prices. The country has built a premium ecotourism model, and prices reflect it.
+[Costa Rica](/costa-rica/costa-rica-travel-guide) surprises visitors with its costs. It's significantly more expensive than neighbouring Nicaragua, Honduras, or Panama — and in some areas rivals European prices. The country has built a premium ecotourism model, and prices reflect it.
 
 ## Quick Summary
 
@@ -24,13 +24,13 @@ Costa Rica surprises visitors with its costs. It's significantly more expensive 
 
 ## Accommodation
 
-**Hostels:** €15–25/night in dorms; €45–70 for private rooms. Available in San José, La Fortuna, Santa Elena (Monteverde), and beach towns.
+**Hostels:** €15–25/night in dorms; €45–70 for private rooms. Available in San José, La Fortuna, Santa Elena ([Monteverde](/costa-rica/monteverde-guide)), and beach towns.
 
 **Guesthouses and cabinas:** €50–90/night. Costa Rica's standard accommodation — clean, simple, air-conditioned rooms.
 
 **Mid-range eco-lodges:** €100–200/night. The country's specialty — well-designed lodges in natural settings, often with excellent wildlife access and included guided walks.
 
-**Luxury eco-lodges:** €250–500+/night. Properties like Lapa Ríos (Osa Peninsula), Nayara Springs (Arenal), and Inkaterra-equivalent properties offer world-class service in extraordinary settings.
+**Luxury eco-lodges:** €250–500+/night. Properties like Lapa Ríos ([Osa Peninsula](/costa-rica/osa-peninsula-guide)), Nayara Springs ([Arenal](/costa-rica/arenal-guide)), and Inkaterra-equivalent properties offer world-class service in extraordinary settings.
 
 ---
 
@@ -54,7 +54,7 @@ Costa Rica surprises visitors with its costs. It's significantly more expensive 
 
 **Car rental:** €50–90/day for a basic 4WD. In peak season, rental cars sell out completely — book months ahead. Fuel: approximately €1.30/litre.
 
-**Shared shuttles (Interbus/Grayline):** €40–60/person per leg between major destinations. San José–Arenal, Arenal–Monteverde, Monteverde–Manuel Antonio, etc.
+**Shared shuttles (Interbus/Grayline):** €40–60/person per leg between major destinations. San José–Arenal, Arenal–Monteverde, Monteverde–[Manuel Antonio](/costa-rica/manuel-antonio-guide), etc.
 
 **Public buses:** €1–8 for most intercity routes. Cheap, but slower and more complex. Fine between major cities.
 

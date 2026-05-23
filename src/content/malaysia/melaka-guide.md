@@ -10,9 +10,9 @@ tags: [Melaka, Malacca, Malaysia, UNESCO, Peranakan, Jonker Street, Nyonya, Dutc
 city: melaka
 ---
 
-Melaka (also spelled Malacca) is a small city 150 km south of Kuala Lumpur that was once the most important trading port in Southeast Asia. For 100 years (1400–1511) the Melaka Sultanate controlled the Strait of Malacca — the maritime chokepoint between the Indian Ocean and the South China Sea — levying tolls on the spice trade between India, China, and the Arab world. The Portuguese conquered it in 1511, the Dutch in 1641, the British in 1824. Each colonial power left its architecture.
+Melaka (also spelled Malacca) is a small city 150 km south of [Kuala Lumpur](/[malaysia](/malaysia)/kuala-lumpur-guide) that was once the most important trading port in Southeast Asia. For 100 years (1400–1511) the Melaka Sultanate controlled the Strait of Malacca — the maritime chokepoint between the Indian Ocean and the South China Sea — levying tolls on the spice trade between [India](/india), China, and the Arab world. The Portuguese conquered it in 1511, the Dutch in 1641, the British in 1824. Each colonial power left its architecture.
 
-The result is a city where a Portuguese fort, a Dutch administrative square, and a Chinese shophouse row sit within a 10-minute walk of each other — and where the Peranakan (Baba-Nyonya) culture that developed from Chinese-Malay intermarriage over centuries is more visible than anywhere else in Malaysia. Inscribed as a UNESCO World Heritage Site in 2008 alongside Penang.
+The result is a city where a Portuguese fort, a Dutch administrative square, and a Chinese shophouse row sit within a 10-minute walk of each other — and where the Peranakan (Baba-Nyonya) culture that developed from Chinese-Malay intermarriage over centuries is more visible than anywhere else in Malaysia. Inscribed as a UNESCO World Heritage Site in 2008 alongside [Penang](/malaysia/penang-travel-guide).
 
 ---
 

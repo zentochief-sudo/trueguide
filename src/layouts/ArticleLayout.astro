@@ -10,6 +10,7 @@ import AdRail from '../components/AdRail.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import BookingCTA from '../components/BookingCTA.astro';
 import type { RelatedArticle } from '../lib/related-articles';
+import { extractFAQs, buildFAQSchema } from '../lib/faq';
 
 interface Heading {
   depth: number;
@@ -30,6 +31,7 @@ interface Props {
   city?: string;
   tocStyle?: 'sticky-scroll' | 'flow';
   relatedArticles?: RelatedArticle[];
+  rawBody?: string;
 }
 
 const {
@@ -44,6 +46,7 @@ const {
   headings = [],
   city = 'national',
   relatedArticles = [],
+  rawBody = '',
 } = Astro.props;
 
 const destSlug = destination.toLowerCase().replace(/\s+/g, '-').replace('south-korea', 'korea');
@@ -71,7 +74,7 @@ const formattedDate = publishDate.toLocaleDateString('en-US', {
 const hasToc = headings.filter((h) => h.depth === 2 || h.depth === 3).length > 1;
 
 const canonicalURL = `https://goinatlas.com/${destSlug}/${Astro.params.slug ?? ''}`;
-const articleSchema = {
+const blogPostingSchema = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
   headline: title,
@@ -82,6 +85,14 @@ const articleSchema = {
   url: canonicalURL,
   ...(heroImage ? { image: `https://goinatlas.com${heroImage}` } : {}),
 };
+
+// FAQPage schema for Seasonal articles — boosts featured snippets for "when to visit" queries
+const faqItems = (category === 'Seasonal' && rawBody) ? extractFAQs(rawBody) : [];
+const faqSchema = buildFAQSchema(faqItems);
+
+const articleSchema = faqSchema
+  ? { '@context': 'https://schema.org', '@graph': [blogPostingSchema, faqSchema] }
+  : blogPostingSchema;
 
 // Breadcrumb bar height — used to offset sticky TOC
 const BREADCRUMB_H = '2.75rem';

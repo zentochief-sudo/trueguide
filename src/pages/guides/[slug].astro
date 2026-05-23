@@ -28,6 +28,7 @@ const { Content, headings } = await render(article as any);
   city={article.data.city}
   tocStyle={article.data.tocStyle}
   relatedArticles={relatedArticles}
+  rawBody={article.body}
 >
   <Content />
 </ArticleLayout>

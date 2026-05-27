@@ -454,18 +454,19 @@ const BREADCRUMB_H = '2.75rem';
   @media (min-width: 1440px) {
     .toc-column {
       display: flex;
-      padding-left: 140px;
-      padding-right: 24px;
+      align-items: flex-end; /* Right-align TOC so it sits flush against the article */
+      padding-left: 1rem;
+      padding-right: 1.5rem;
     }
     .article-content-col {
       padding-left: 2.5rem;
       padding-right: 1.5rem;
     }
     .breadcrumb-indent {
-      padding-left: 140px;
+      padding-left: max(1.5rem, calc((100% - 680px) / 2 + 1.5rem));
     }
     .meta-pill-anchor {
-      right: 140px;
+      right: max(1.5rem, calc((100% - 680px) / 2 + 1.5rem));
     }
   }
 

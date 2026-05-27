@@ -10,6 +10,11 @@ export default defineConfig({
   site: 'https://goinatlas.com',
   output: 'static',
   integrations: [sitemap()],
+  build: {
+    // Inline all CSS as <style> tags — eliminates render-blocking <link> requests
+    // Saves ~1160ms FCP/LCP on article pages (BaseLayout + related-articles CSS)
+    inlineStylesheets: 'always',
+  },
   vite: {
     plugins: [tailwindcss()],
   },

@@ -118,6 +118,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </script>
   </head>
   <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
+    <!-- Navigation progress bar -->
+    <div id="nav-progress" aria-hidden="true"></div>
     <Header />
     <div class="flex flex-1 min-h-0">
       <GlobalSidebar />
@@ -217,4 +219,53 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     window.addEventListener('resize', () => placeFooter());
   })();
 
+  // ── Navigation progress bar ───────────────────────────────────────────────
+  (function initNavProgress() {
+    const bar = document.getElementById('nav-progress');
+    if (!bar) return;
+
+    let timer: ReturnType<typeof setTimeout>;
+
+    function start() {
+      clearTimeout(timer);
+      bar.style.transition = 'none';
+      bar.style.width = '0%';
+      bar.style.opacity = '1';
+      // Force reflow so transition resets
+      bar.getBoundingClientRect();
+      bar.style.transition = 'width 2.5s cubic-bezier(0.1, 0.05, 0, 1)';
+      bar.style.width = '85%';
+    }
+
+    function done() {
+      clearTimeout(timer);
+      bar.style.transition = 'width 0.15s ease';
+      bar.style.width = '100%';
+      timer = setTimeout(() => {
+        bar.style.transition = 'opacity 0.3s ease';
+        bar.style.opacity = '0';
+        timer = setTimeout(() => { bar.style.width = '0%'; }, 350);
+      }, 150);
+    }
+
+    document.addEventListener('astro:before-preparation', start);
+    document.addEventListener('astro:page-load', done);
+  })();
+
 </script>
+
+<style>
+  #nav-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    width: 0%;
+    background: var(--color-brand-600, #5269DB);
+    z-index: 99999;
+    opacity: 0;
+    pointer-events: none;
+    border-radius: 0 2px 2px 0;
+    box-shadow: 0 0 8px 0 color-mix(in srgb, var(--color-brand-600, #5269DB) 60%, transparent);
+  }
+</style>

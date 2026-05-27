@@ -101,7 +101,7 @@ const BREADCRUMB_H = '2.75rem';
 <BaseLayout title={title} description={description} image={heroImage} hideFooter={true} schema={articleSchema}>
 
   <!-- ── Hero image ───────────────────────────────────────── -->
-  <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);">
+  <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);" transition:name={`hero-${Astro.params.slug}`} transition:animate="fade">
     {heroImage && (
       <picture>
         {heroImageWebp && <source srcset={heroImageWebp} type="image/webp" />}
@@ -172,7 +172,7 @@ const BREADCRUMB_H = '2.75rem';
     ── 3-column grid: [TOC 1fr | article min(680px,100%) | right 1fr]
     Content is always centered — TOC floats in the left 1fr without displacing it.
   -->
-  <div class="article-grid">
+  <div class="article-grid" transition:animate="fade">
 
     <!-- Left: sticky TOC — left-aligned inside the 1fr column at 140px from sidebar -->
     <div class="toc-column flex-col">

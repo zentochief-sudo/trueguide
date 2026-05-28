@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import GlobalSidebar from '../components/GlobalSidebar.astro';
 import Footer from '../components/Footer.astro';
 import AuthModal from '../components/AuthModal.astro';
+import PageSkeleton from '../components/PageSkeleton.astro';
 
 interface Props {
   title: string;
@@ -123,7 +124,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <Header />
     <div class="flex flex-1 min-h-0">
       <GlobalSidebar />
-      <main class="flex-1 min-w-0 overflow-x-clip">
+      <main class="flex-1 min-w-0 overflow-x-clip" style="position: relative;">
+        <PageSkeleton />
         <slot />
       </main>
     </div>
@@ -219,33 +221,55 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     window.addEventListener('resize', () => placeFooter());
   })();
 
-  // ── Navigation progress bar ───────────────────────────────────────────────
+  // ── Navigation progress bar + skeleton ───────────────────────────────────
   (function initNavProgress() {
     const bar = document.getElementById('nav-progress');
-    if (!bar) return;
-
     let timer: ReturnType<typeof setTimeout>;
 
+    function getSkeleton() {
+      return document.getElementById('page-skeleton') as HTMLElement | null;
+    }
+
     function start() {
-      clearTimeout(timer);
-      bar.style.transition = 'none';
-      bar.style.width = '0%';
-      bar.style.opacity = '1';
-      // Force reflow so transition resets
-      bar.getBoundingClientRect();
-      bar.style.transition = 'width 2.5s cubic-bezier(0.1, 0.05, 0, 1)';
-      bar.style.width = '85%';
+      // Progress bar
+      if (bar) {
+        clearTimeout(timer);
+        bar.style.transition = 'none';
+        bar.style.width = '0%';
+        bar.style.opacity = '1';
+        bar.getBoundingClientRect();
+        bar.style.transition = 'width 2.5s cubic-bezier(0.1, 0.05, 0, 1)';
+        bar.style.width = '85%';
+      }
+      // Skeleton: fade out current content, show skeleton
+      const sk = getSkeleton();
+      if (sk) {
+        sk.style.display = 'block';
+        sk.style.opacity = '0';
+        sk.style.transition = 'opacity 0.15s ease';
+        requestAnimationFrame(() => { sk.style.opacity = '1'; });
+      }
     }
 
     function done() {
-      clearTimeout(timer);
-      bar.style.transition = 'width 0.15s ease';
-      bar.style.width = '100%';
-      timer = setTimeout(() => {
-        bar.style.transition = 'opacity 0.3s ease';
-        bar.style.opacity = '0';
-        timer = setTimeout(() => { bar.style.width = '0%'; }, 350);
-      }, 150);
+      // Progress bar
+      if (bar) {
+        clearTimeout(timer);
+        bar.style.transition = 'width 0.15s ease';
+        bar.style.width = '100%';
+        timer = setTimeout(() => {
+          bar.style.transition = 'opacity 0.3s ease';
+          bar.style.opacity = '0';
+          timer = setTimeout(() => { bar.style.width = '0%'; }, 350);
+        }, 150);
+      }
+      // Skeleton: hide (new page content is already in DOM after swap)
+      const sk = getSkeleton();
+      if (sk) {
+        sk.style.transition = 'opacity 0.2s ease';
+        sk.style.opacity = '0';
+        setTimeout(() => { sk.style.display = 'none'; }, 220);
+      }
     }
 
     document.addEventListener('astro:before-preparation', start);

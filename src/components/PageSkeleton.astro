@@ -1,0 +1,152 @@
+---
+// PageSkeleton — shown during page navigation to prevent blank flash.
+// Mirrors the article layout: hero + breadcrumb + 3-column grid.
+// Controlled by BaseLayout: shown on astro:before-preparation, hidden on astro:page-load.
+---
+
+<div id="page-skeleton" aria-hidden="true">
+
+  <!-- Hero placeholder -->
+  <div class="sk-hero sk-shimmer"></div>
+
+  <!-- Breadcrumb placeholder -->
+  <div class="sk-breadcrumb">
+    <div class="sk-line sk-shimmer" style="width:260px; height:13px;"></div>
+  </div>
+
+  <!-- 3-column grid -->
+  <div class="sk-grid">
+
+    <!-- Left: TOC -->
+    <div class="sk-toc">
+      <div class="sk-line sk-shimmer" style="width:58px; height:13px; margin-bottom:14px;"></div>
+      <div class="sk-line sk-shimmer" style="width:148px;"></div>
+      <div class="sk-line sk-shimmer" style="width:124px;"></div>
+      <div class="sk-line sk-shimmer" style="width:162px;"></div>
+      <div class="sk-line sk-shimmer" style="width:108px;"></div>
+      <div class="sk-line sk-shimmer" style="width:140px;"></div>
+      <div class="sk-line sk-shimmer" style="width:96px;"></div>
+    </div>
+
+    <!-- Center: content -->
+    <div class="sk-content">
+      <!-- Title -->
+      <div class="sk-line sk-shimmer" style="width:88%; height:38px; margin-bottom:8px;"></div>
+      <div class="sk-line sk-shimmer" style="width:64%; height:38px; margin-bottom:32px;"></div>
+      <!-- Inline ad placeholder -->
+      <div class="sk-block sk-shimmer" style="height:90px; margin-bottom:28px;"></div>
+      <!-- Body text -->
+      <div class="sk-line sk-shimmer" style="width:100%;"></div>
+      <div class="sk-line sk-shimmer" style="width:96%;"></div>
+      <div class="sk-line sk-shimmer" style="width:88%;"></div>
+      <div class="sk-line sk-shimmer" style="width:100%;"></div>
+      <div class="sk-line sk-shimmer" style="width:72%;"></div>
+      <div class="sk-line sk-shimmer" style="width:100%; margin-top:20px;"></div>
+      <div class="sk-line sk-shimmer" style="width:91%;"></div>
+      <div class="sk-line sk-shimmer" style="width:78%;"></div>
+      <div class="sk-line sk-shimmer" style="width:100%;"></div>
+      <div class="sk-line sk-shimmer" style="width:60%;"></div>
+    </div>
+
+    <!-- Right: rail -->
+    <div class="sk-rail">
+      <div class="sk-block sk-shimmer" style="height:110px; margin-bottom:12px;"></div>
+      <div class="sk-block sk-shimmer" style="height:200px; margin-bottom:12px;"></div>
+      <div class="sk-block sk-shimmer" style="height:200px;"></div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  /* ── Keyframes ─────────────────────────────────────────── */
+  @keyframes sk-sweep {
+    0%   { background-position: -600px 0; }
+    100% { background-position: 600px 0; }
+  }
+
+  /* ── Shimmer base ──────────────────────────────────────── */
+  .sk-shimmer {
+    background: linear-gradient(
+      90deg,
+      var(--sk-base, #ebebeb) 25%,
+      var(--sk-shine, #f5f5f5) 37%,
+      var(--sk-base, #ebebeb) 63%
+    );
+    background-size: 1200px 100%;
+    animation: sk-sweep 1.6s ease-in-out infinite;
+    border-radius: 6px;
+  }
+
+  /* ── Wrapper — sits on top of <main>, hidden by default ── */
+  #page-skeleton {
+    display: none;
+    position: absolute;
+    inset: 0;
+    z-index: 200;
+    background: var(--color-bg, #fff);
+    overflow: hidden;
+    pointer-events: none;
+  }
+
+  /* ── Hero ──────────────────────────────────────────────── */
+  .sk-hero {
+    width: 100%;
+    height: clamp(240px, 40vh, 420px);
+    border-radius: 0;
+  }
+
+  /* ── Breadcrumb bar ────────────────────────────────────── */
+  .sk-breadcrumb {
+    height: 2.75rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e7eb);
+  }
+
+  /* ── Grid — mirrors article-grid ──────────────────────── */
+  .sk-grid {
+    display: grid;
+    grid-template-columns: 1fr min(680px, 100%) 1fr;
+    gap: 0;
+    padding: 2.5rem 0;
+    max-width: 100%;
+  }
+
+  /* ── TOC column ────────────────────────────────────────── */
+  .sk-toc {
+    display: none;
+    padding: 0 1.5rem 0 0;
+    justify-self: end;
+    width: 220px;
+  }
+  @media (min-width: 1280px) {
+    .sk-toc { display: block; }
+  }
+
+  /* ── Content column ────────────────────────────────────── */
+  .sk-content {
+    padding: 0 2rem;
+    min-width: 0;
+  }
+
+  /* ── Right rail ────────────────────────────────────────── */
+  .sk-rail {
+    display: none;
+    padding: 0 0 0 1.5rem;
+  }
+  @media (min-width: 1280px) {
+    .sk-rail { display: block; }
+  }
+
+  /* ── Reusable skeleton atoms ───────────────────────────── */
+  .sk-line {
+    height: 14px;
+    margin-bottom: 10px;
+  }
+  .sk-block {
+    width: 100%;
+    border-radius: 8px;
+  }
+</style>

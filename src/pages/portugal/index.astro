@@ -52,7 +52,6 @@ const activityTypes = [
             </div>
           </div>
           <!-- Leaderboard — top of feed, full col2 width -->
-          <AdSlot variant="leaderboard" />
 
           <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0" style="padding-top: 1.25rem;">
             <div class="tabs-scroll">
@@ -69,6 +68,7 @@ const activityTypes = [
           </nav>
           <div id="articles-scroll" class="flex-1 min-h-0 overflow-y-auto">
             <div id="empty-state" class="hidden text-center py-20"><p class="text-[var(--color-text-muted)] text-sm">No guides found for this filter.</p><button id="empty-clear-btn" class="mt-3 text-xs text-[var(--color-brand-600)] hover:underline">Clear filters</button></div>
+            <AdSlot variant="leaderboard" />
             <div id="articles-list" class="pt-6">
               {sorted.map((article, i) => (
                 <>

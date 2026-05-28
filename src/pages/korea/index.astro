@@ -76,7 +76,6 @@ const activityTypes = [
           </div>
 
           <!-- Leaderboard — top of feed, full col2 width -->
-          <AdSlot variant="leaderboard" />
 
           <!-- Tabs row -->
           <nav class="flex items-center border-b border-[var(--color-border)] bg-[var(--color-bg)] shrink-0" style="padding-top: 1.25rem;">
@@ -118,6 +117,7 @@ const activityTypes = [
             </div>
 
             <!-- Articles list -->
+            <AdSlot variant="leaderboard" />
             <div id="articles-list" class="pt-6"
 >
               {sorted.map((article, i) => (

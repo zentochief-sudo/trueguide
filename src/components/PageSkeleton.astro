@@ -1,21 +1,24 @@
 ---
-// PageSkeleton — shown during page navigation to prevent blank flash.
-// Mirrors the article layout: hero + breadcrumb + 3-column grid.
-// Controlled by BaseLayout: shown on astro:before-preparation, hidden on astro:page-load.
+// PageSkeleton — shown during page navigation (astro:before-preparation → astro:page-load).
+// Includes two skeleton types:
+//   [data-sk="article"] → for /{dest}/{slug} pages
+//   [data-sk="hub"]     → for / and /{dest} pages
+// JS in BaseLayout detects destination URL and shows the correct one.
 ---
 
-<div id="page-skeleton" aria-hidden="true">
+<!-- ── Article skeleton ──────────────────────────────────── -->
+<div id="page-skeleton" data-sk="article" aria-hidden="true">
 
-  <!-- Hero placeholder -->
+  <!-- Hero -->
   <div class="sk-hero sk-shimmer"></div>
 
-  <!-- Breadcrumb placeholder -->
+  <!-- Breadcrumb bar -->
   <div class="sk-breadcrumb">
     <div class="sk-line sk-shimmer" style="width:260px; height:13px;"></div>
   </div>
 
   <!-- 3-column grid -->
-  <div class="sk-grid">
+  <div class="sk-grid sk-grid--article">
 
     <!-- Left: TOC -->
     <div class="sk-toc">
@@ -30,12 +33,9 @@
 
     <!-- Center: content -->
     <div class="sk-content">
-      <!-- Title -->
       <div class="sk-line sk-shimmer" style="width:88%; height:38px; margin-bottom:8px;"></div>
       <div class="sk-line sk-shimmer" style="width:64%; height:38px; margin-bottom:32px;"></div>
-      <!-- Inline ad placeholder -->
       <div class="sk-block sk-shimmer" style="height:90px; margin-bottom:28px;"></div>
-      <!-- Body text -->
       <div class="sk-line sk-shimmer" style="width:100%;"></div>
       <div class="sk-line sk-shimmer" style="width:96%;"></div>
       <div class="sk-line sk-shimmer" style="width:88%;"></div>
@@ -58,14 +58,56 @@
   </div>
 </div>
 
+<!-- ── Hub / Home skeleton ────────────────────────────────── -->
+<div id="page-skeleton-hub" data-sk="hub" aria-hidden="true">
+
+  <!-- Banner -->
+  <div class="sk-banner sk-shimmer"></div>
+
+  <!-- 2-column layout: feed + rail -->
+  <div class="sk-grid sk-grid--hub">
+
+    <!-- Feed column -->
+    <div class="sk-feed">
+
+      <!-- Tabs row -->
+      <div class="sk-tabs">
+        <div class="sk-tab-pill sk-shimmer" style="width:72px;"></div>
+        <div class="sk-tab-pill sk-shimmer" style="width:88px;"></div>
+        <div class="sk-tab-pill sk-shimmer" style="width:104px;"></div>
+      </div>
+
+      <!-- Article cards -->
+      {Array.from({ length: 7 }).map(() => (
+        <div class="sk-card">
+          <div class="sk-card-thumb sk-shimmer"></div>
+          <div class="sk-card-body">
+            <div class="sk-line sk-shimmer" style="width:80%; height:15px; margin-bottom:6px;"></div>
+            <div class="sk-line sk-shimmer" style="width:55%; height:13px; margin-bottom:10px;"></div>
+            <div class="sk-line sk-shimmer" style="width:100%; height:12px;"></div>
+            <div class="sk-line sk-shimmer" style="width:90%; height:12px;"></div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Right rail -->
+    <div class="sk-rail sk-rail--hub">
+      <div class="sk-block sk-shimmer" style="height:240px; margin-bottom:12px;"></div>
+      <div class="sk-block sk-shimmer" style="height:200px; margin-bottom:12px;"></div>
+      <div class="sk-block sk-shimmer" style="height:180px;"></div>
+    </div>
+
+  </div>
+</div>
+
 <style>
-  /* ── Keyframes ─────────────────────────────────────────── */
+  /* ── Shimmer keyframe ──────────────────────────────────── */
   @keyframes sk-sweep {
     0%   { background-position: -600px 0; }
     100% { background-position: 600px 0; }
   }
 
-  /* ── Shimmer base ──────────────────────────────────────── */
   .sk-shimmer {
     background: linear-gradient(
       90deg,
@@ -78,8 +120,9 @@
     border-radius: 6px;
   }
 
-  /* ── Wrapper — sits on top of <main>, hidden by default ── */
-  #page-skeleton {
+  /* ── Wrapper shared ────────────────────────────────────── */
+  #page-skeleton,
+  #page-skeleton-hub {
     display: none;
     position: absolute;
     inset: 0;
@@ -89,14 +132,16 @@
     pointer-events: none;
   }
 
-  /* ── Hero ──────────────────────────────────────────────── */
+  /* ════════════════════════════════════════════════════════ */
+  /* ARTICLE skeleton                                         */
+  /* ════════════════════════════════════════════════════════ */
+
   .sk-hero {
     width: 100%;
     height: clamp(240px, 40vh, 420px);
     border-radius: 0;
   }
 
-  /* ── Breadcrumb bar ────────────────────────────────────── */
   .sk-breadcrumb {
     height: 2.75rem;
     display: flex;
@@ -105,16 +150,12 @@
     border-bottom: 1px solid var(--color-border, #e5e7eb);
   }
 
-  /* ── Grid — mirrors article-grid ──────────────────────── */
-  .sk-grid {
+  .sk-grid--article {
     display: grid;
     grid-template-columns: 1fr min(680px, 100%) 1fr;
-    gap: 0;
     padding: 2.5rem 0;
-    max-width: 100%;
   }
 
-  /* ── TOC column ────────────────────────────────────────── */
   .sk-toc {
     display: none;
     padding: 0 1.5rem 0 0;
@@ -125,13 +166,11 @@
     .sk-toc { display: block; }
   }
 
-  /* ── Content column ────────────────────────────────────── */
   .sk-content {
     padding: 0 2rem;
     min-width: 0;
   }
 
-  /* ── Right rail ────────────────────────────────────────── */
   .sk-rail {
     display: none;
     padding: 0 0 0 1.5rem;
@@ -140,7 +179,77 @@
     .sk-rail { display: block; }
   }
 
-  /* ── Reusable skeleton atoms ───────────────────────────── */
+  /* ════════════════════════════════════════════════════════ */
+  /* HUB / HOME skeleton                                      */
+  /* ════════════════════════════════════════════════════════ */
+
+  .sk-banner {
+    width: 100%;
+    height: 2.5rem;
+    border-radius: 0;
+    margin-bottom: 0;
+  }
+
+  .sk-grid--hub {
+    display: flex;
+    height: calc(100vh - 4rem - 2.5rem);
+    overflow: hidden;
+  }
+
+  /* Feed */
+  .sk-feed {
+    flex: 1;
+    min-width: 0;
+    padding: 1.5rem 1.5rem 0;
+    overflow: hidden;
+  }
+
+  .sk-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border, #e5e7eb);
+  }
+
+  .sk-tab-pill {
+    height: 28px;
+    border-radius: 6px;
+  }
+
+  /* Article card */
+  .sk-card {
+    display: flex;
+    gap: 14px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--color-border, #e5e7eb);
+  }
+
+  .sk-card-thumb {
+    width: 88px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 8px;
+  }
+
+  .sk-card-body {
+    flex: 1;
+    min-width: 0;
+    padding-top: 2px;
+  }
+
+  /* Right rail - hub */
+  .sk-rail--hub {
+    display: none;
+    width: 300px;
+    flex-shrink: 0;
+    padding: 1.5rem 1.5rem 0;
+  }
+  @media (min-width: 1280px) {
+    .sk-rail--hub { display: block; }
+  }
+
+  /* ── Atoms ─────────────────────────────────────────────── */
   .sk-line {
     height: 14px;
     margin-bottom: 10px;

@@ -226,11 +226,25 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     const bar = document.getElementById('nav-progress');
     let timer: ReturnType<typeof setTimeout>;
 
-    function getSkeleton() {
-      return document.getElementById('page-skeleton') as HTMLElement | null;
+    function getSkeletonForUrl(pathname: string): HTMLElement | null {
+      // Segments: [] = home, [dest] = hub, [dest, slug] = article
+      const parts = pathname.split('/').filter(Boolean);
+      const id = parts.length >= 2 ? 'page-skeleton' : 'page-skeleton-hub';
+      return document.getElementById(id);
     }
 
-    function start() {
+    function hideAllSkeletons() {
+      ['page-skeleton', 'page-skeleton-hub'].forEach((id) => {
+        const el = document.getElementById(id);
+        if (el) {
+          el.style.transition = 'opacity 0.2s ease';
+          el.style.opacity = '0';
+          setTimeout(() => { el.style.display = 'none'; el.style.opacity = '1'; }, 220);
+        }
+      });
+    }
+
+    function start(e: Event) {
       // Progress bar
       if (bar) {
         clearTimeout(timer);
@@ -241,8 +255,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         bar.style.transition = 'width 2.5s cubic-bezier(0.1, 0.05, 0, 1)';
         bar.style.width = '85%';
       }
-      // Skeleton: fade out current content, show skeleton
-      const sk = getSkeleton();
+      // Show correct skeleton based on destination URL
+      const dest = (e as CustomEvent & { to?: URL }).to?.pathname ?? window.location.pathname;
+      const sk = getSkeletonForUrl(dest);
       if (sk) {
         sk.style.display = 'block';
         sk.style.opacity = '0';
@@ -263,13 +278,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
           timer = setTimeout(() => { bar.style.width = '0%'; }, 350);
         }, 150);
       }
-      // Skeleton: hide (new page content is already in DOM after swap)
-      const sk = getSkeleton();
-      if (sk) {
-        sk.style.transition = 'opacity 0.2s ease';
-        sk.style.opacity = '0';
-        setTimeout(() => { sk.style.display = 'none'; }, 220);
-      }
+      // Hide whichever skeleton is visible
+      hideAllSkeletons();
     }
 
     document.addEventListener('astro:before-preparation', start);

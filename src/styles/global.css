@@ -253,8 +253,29 @@ h1, h2, h3 { font-family: var(--font-display); }
   padding: 0 0.125rem 0.875rem;
 }
 
-.so-section { margin-bottom: 2rem; }
+.so-section { margin-bottom: 1.25rem; }
 .so-section:last-child { margin-bottom: 0; }
+
+/* Ad slot below each carousel */
+.so-ad-slot {
+  width: 100%;
+  height: 80px;
+  background: var(--color-bg-subtle);
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.875rem;
+}
+.so-ad-label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  opacity: 0.5;
+  user-select: none;
+}
 
 .so-section-head {
   display: flex;
@@ -304,7 +325,7 @@ h1, h2, h3 { font-family: var(--font-display); }
 
 .so-card-img {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 7;
   background: var(--color-bg-subtle);
   border-radius: 0.75rem;
   overflow: hidden;

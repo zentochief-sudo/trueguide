@@ -1,6 +1,6 @@
 ---
-title: "Day Trip from Cairo to Alexandria"
-description: "Egypt's Mediterranean city — the Bibliotheca Alexandrina, the Catacombs, the Corniche, and how to make the most of a day in Alexandria from Cairo."
+title: "Day Trip from Cairo to Alexandria: Complete Guide (Train, Sites + Itinerary)"
+description: "2 hours by train from Cairo. Bibliotheca Alexandrina, Catacombs of Kom El Shoqafa, Citadel of Qaitbay + Corniche seafood. Full one-day itinerary inside."
 destination: Egypt
 category: Day Trips
 publishDate: 2026-05-07
@@ -102,10 +102,59 @@ The royal summer palace complex built by Khedive Abbas II in 1892 — Moorish an
 
 ---
 
+## Getting Around Alexandria
+
+**Uber / Careem**: The easiest option for tourists — works reliably throughout Alexandria. Use for moving between sites (Bibliotheca → Catacombs → Citadel).
+
+**Trams**: Alexandria has one of the last working tram networks in Africa. Slow but atmospheric. Good for a Corniche ride.
+
+**Taxis**: Negotiate the fare before getting in — meters are rarely used. Short trips across central Alexandria: 30–60 EGP.
+
+---
+
+## 2026 Day Trip Budget
+
+| Expense | Cost (EGP) | USD equiv. |
+|---|---|---|
+| Express train Cairo → Alexandria (2nd class) | 100–200 EGP | ~$2–4 |
+| Bibliotheca Alexandrina entry | 70 EGP | ~$1.40 |
+| Catacombs entry | 300 EGP | ~$6 |
+| Citadel of Qaitbay entry | 100–150 EGP | ~$2–3 |
+| Seafood lunch (Corniche) | 200–400 EGP | ~$4–8 |
+| Ubering between sites (full day) | 150–250 EGP | ~$3–5 |
+| Return train Alexandria → Cairo | 100–200 EGP | ~$2–4 |
+| **Total day trip (budget)** | **~1,000–1,500 EGP** | **~$20–30** |
+
+*~50 EGP/USD at 2026 rates. One of the cheapest full-day excursions from any major city in the world.*
+
+---
+
 ## Practical Notes
 
-**Best seasons**: Alexandria is pleasant year-round; spring (March–May) and autumn (September–November) are optimal. Summer (June–August) is warm and humid.
+**Best seasons**: Spring (March–May) and autumn (September–November) are optimal. Summer (June–August) is warm and humid — still fine, but different from the pleasant Mediterranean autumn.
 
-**An overnight option**: If time allows, one night in Alexandria (Hotel Union, Sofitel Cecil) transforms the day trip into a fuller experience — the city is worth more than one day, and the overnight train (sleeper from Cairo) is comfortable.
+**An overnight option**: One night in Alexandria transforms the day trip into a fuller experience. The Sofitel Cecil (historic, on the Corniche) or the Four Seasons San Stefano are the standout options. An overnight adds the Eastern Harbor at night, the Montaza Palace gardens, and the Abu Qir seafood restaurants 15 km east.
 
-**What makes Alexandria distinct from Cairo**: Cooler, more Mediterranean, visually different (the sea, the Corniche, the European-influenced architecture from the 19th–early 20th century). The pace is slower. Greeks, Italians, and Syrians shaped the city's commercial culture through the early 20th century; the faded glory of that era is still visible in the downtown architecture.
+**What makes Alexandria distinct from Cairo**: Cooler, more Mediterranean, visually different (the sea, the Corniche, the European-influenced 19th–early 20th century architecture). Greeks, Italians, and Syrians shaped the city's commercial culture through the mid-20th century; the faded glory of that era is still visible in the downtown facades.
+
+---
+
+## Frequently Asked Questions
+
+**How far is Alexandria from Cairo?**
+220 km by road. By express train from Ramses Station: 2–2.5 hours. By bus: ~3 hours. By private car: 3–3.5 hours depending on traffic.
+
+**Is Alexandria worth a day trip from Cairo?**
+Yes — it's the most accessible major excursion from Cairo and justifies the journey. The Catacombs of Kom El Shoqafa alone are worth it. Budget 8–10 hours (leave Cairo by 8 AM, return by 8–9 PM) to see the main sites comfortably.
+
+**What is Alexandria famous for?**
+Historically: the ancient Library of Alexandria (the largest in the ancient world), the Lighthouse of Pharos (one of the Seven Wonders), and as the capital of Ptolemaic Egypt. Today: the modern Bibliotheca Alexandrina, the Catacombs of Kom El Shoqafa, Mediterranean seafood, and the Corniche.
+
+**How do I get from Cairo to Alexandria by train?**
+From Ramses Station in central Cairo. Buy tickets at the station same-day or book online via Egyptian National Railways. Express (Turbini) trains take 2–2.5 hours; first and second class available. Arrive 30 minutes early to find your platform.
+
+**Is Alexandria safe for tourists?**
+Yes. Alexandria is a safe destination. Standard city awareness applies (watch bags in crowds, use Uber instead of unmarked taxis). The main tourist areas around the Corniche, Bibliotheca, and Citadel are heavily trafficked and safe.
+
+**Can you do Alexandria as a day trip?**
+Yes, comfortably. The 8 AM train gets you there by 10 AM; a 7–8 PM return train gets you back in Cairo by 9:30–10 PM. That gives 9–10 hours, enough for the Bibliotheca, Catacombs, Citadel, lunch, and a Corniche walk.

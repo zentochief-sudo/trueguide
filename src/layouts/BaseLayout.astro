@@ -13,9 +13,10 @@ interface Props {
   image?: string;
   hideFooter?: boolean;
   schema?: Record<string, unknown>;
+  preloadHero?: string; // webp path for hero image — triggers <link rel="preload"> in <head>
 }
 
-const { title, description, image = '/og-default.jpg', hideFooter = false, schema } = Astro.props;
+const { title, description, image = '/og-default.jpg', hideFooter = false, schema, preloadHero } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -45,13 +46,22 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <!-- Google AdSense — async avoids render-blocking; fires after HTML parse -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1981760864692469" crossorigin="anonymous"></script>
 
-    <!-- Travelpayouts Drive — deferred until after page load to avoid LCP/TBT impact -->
+    <!-- Travelpayouts Drive — loaded at true idle to avoid any LCP/TBT/TBT impact -->
     <script is:inline>
       window.addEventListener('load', function () {
-        var script = document.createElement("script");
-        script.async = true;
-        script.src = 'https://emrld.ltd/NTMwODYx.js?t=530861';
-        document.head.appendChild(script);
+        var load = function() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://emrld.ltd/NTMwODYx.js?t=530861';
+          document.head.appendChild(s);
+        };
+        // requestIdleCallback: fires when browser has no urgent work.
+        // timeout:4000 ensures it still loads within 4s even on busy pages.
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(load, { timeout: 4000 });
+        } else {
+          setTimeout(load, 2000);
+        }
       });
     </script>
 
@@ -113,6 +123,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         } catch(e) {}
       })();
     </script>
+
+    {/* Hero image preload — fires before browser parses <img>, eliminates LCP discovery delay */}
+    {preloadHero && (
+      <link rel="preload" as="image" href={preloadHero} fetchpriority="high" />
+    )}
   </head>
   <body class="min-h-screen flex flex-col bg-[var(--color-bg)]">
     <!-- Navigation progress bar -->

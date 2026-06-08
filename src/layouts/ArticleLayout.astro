@@ -110,7 +110,7 @@ const articleSchema = faqSchema
 const BREADCRUMB_H = '2.75rem';
 ---
 
-<BaseLayout title={title} description={description} image={heroImage} hideFooter={true} schema={articleSchema}>
+<BaseLayout title={title} description={description} image={heroImage} hideFooter={true} schema={articleSchema} preloadHero={heroImageWebp ?? heroImage}>
 
   <!-- ── Hero image ───────────────────────────────────────── -->
   <div class="relative w-full overflow-hidden bg-[var(--color-brand-900)]" style="height: clamp(240px, 40vh, 420px);" transition:name={`hero-${Astro.params.slug}`} transition:animate="fade">
@@ -126,6 +126,7 @@ const BREADCRUMB_H = '2.75rem';
           decoding="async"
           width="1200"
           height="630"
+          sizes="(max-width: 768px) 100vw, (max-width: 1280px) calc(100vw - 192px), 1088px"
         />
       </picture>
     )}

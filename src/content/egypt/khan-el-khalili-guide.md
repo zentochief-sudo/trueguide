@@ -4,7 +4,7 @@ description: "Founded in 1382, Khan el-Khalili is one of the oldest markets in t
 destination: Egypt
 category: Experiences
 publishDate: 2026-05-07
-readingTime: 6
+readingTime: 11
 heroImage: /images/egypt-khan-el-khalili.jpg
 tags: [Khan el-Khalili, Cairo, bazaar, shopping, Egypt, Islamic Cairo]
 city: cairo
@@ -86,10 +86,65 @@ Coffee: 30–60 EGP. Tea: 25–50 EGP. Shisha: 80–150 EGP.
 
 ---
 
+## Common Scams at Khan el-Khalili (and How to Avoid Them)
+
+**The "my uncle's factory" offer**: A friendly local offers to take you to a wholesale shop where you'll get "factory prices." The shop pays them commission — prices are not lower. Politely decline and shop at stalls directly.
+
+**The papyrus bait-and-switch**: You're shown a high-quality papyrus painting, quoted a price, then handed a packaged version that turns out to be banana-leaf or paper. Always inspect the specific item being packaged, not the display copy.
+
+**The perfume "gift"**: A shopkeeper hands you a small bottle of perfume oil as a "gift for my friend." This opens a prolonged social obligation that makes leaving without buying feel rude. You are not obligated. Say thank you and leave.
+
+**The tea invitation**: A shopkeeper invites you for tea, no obligation. This is often genuine hospitality — but some operators use it to make walking away without buying feel socially awkward after 20 minutes of conversation. Have the tea if you like; you still owe nothing.
+
+**The "certificate of authenticity"**: Any "antique" or "genuine" artifact with a certificate sold inside the bazaar is almost certainly not genuine. Real Egyptian antiquities cannot legally be sold. The certificate is a prop.
+
+**The overprice entry**: Vendors will quote prices 5–10x the real value on first offer. This is not a scam — it's the opening position in a standard bargain. Countering at 30–40% of the initial price is normal. The scam version is vendors who refuse to negotiate at all on low-quality goods.
+
+---
+
+## 2026 Fair Price Reference
+
+Use these as a negotiation anchor — final price should be at or below:
+
+| Item | Fair price (EGP) | Opening ask (typical) |
+|---|---|---|
+| Spices (100g bag) | 40–80 EGP | 150–300 EGP |
+| Small perfume oil (10ml) | 80–150 EGP | 300–500 EGP |
+| Handmade copper tray (small) | 200–400 EGP | 800–1,500 EGP |
+| Decorative lantern (medium) | 200–400 EGP | 700–1,200 EGP |
+| Papyrus painting (A4 size) | 150–300 EGP | 500–1,500 EGP |
+| Cotton scarf/kufiya | 100–200 EGP | 300–600 EGP |
+| Tea at El-Fishawi | 25–50 EGP | fixed price |
+
+*Prices in EGP at 2026 rates (~50 EGP/USD). Spice prices are less negotiable (closer to fixed).*
+
+---
+
 ## Beyond the Main Bazaar
 
 **Souk Al-Attarine** (spice market): Immediately adjacent, on the lanes between Khan el-Khalili and the Al-Azhar mosque. Sells dried herbs, spices, and traditional medicine.
 
-**Al-Hussein Mosque square**: The plaza in front of the Al-Hussein Mosque (which contains what tradition holds is the head of Hussein, grandson of the Prophet Mohammed) is a gathering space for Cairenes, especially on religious occasions. The square is animated and sometimes closed to non-Muslims during significant religious events.
+**Al-Hussein Mosque square**: The plaza in front of the Al-Hussein Mosque (which contains what tradition holds is the head of Hussein, grandson of the Prophet Mohammed) is a gathering space for Cairenes, especially on religious occasions. Animated and sometimes closed to non-Muslims during significant religious events.
 
-**The al-Ghouri complex**: The Mamluk caravanserai and mosque complex at the southern entrance to Khan el-Khalili (1504 AD) — the whirling dervish performance is held here on certain evenings (check schedule locally).
+**The al-Ghouri complex**: The Mamluk caravanserai and mosque complex at the southern entrance (1504 AD) — the whirling dervish performance is held here on certain evenings (check locally for schedule).
+
+**Islamic Cairo**: Khan el-Khalili sits in the heart of Islamic Cairo — the medieval city, a UNESCO World Heritage Site, with 800+ monuments including mosques, madrasas, and Mamluk mausoleums stretching along Al-Muizz Street. A Khan el-Khalili visit pairs naturally with a walk down Al-Muizz Street toward the Fatimid gates. See our [Islamic Cairo guide →](/egypt/islamic-cairo-guide) for the full route.
+
+---
+
+## Frequently Asked Questions
+
+**Is Khan el-Khalili safe for tourists?**
+Yes — it's one of Cairo's most visited areas and is heavily trafficked by tourists and locals. Standard city caution applies (watch your pockets in crowded alleys), but violent crime is not a concern.
+
+**Do I have to bargain at Khan el-Khalili?**
+For non-food purchases, yes — fixed-price stalls are rare. Not bargaining means paying the tourist opening price, which is typically 3–5x fair value. El-Fishawi café and food vendors have fixed prices.
+
+**What is Khan el-Khalili famous for?**
+Historically, it's one of the oldest bazaars in the Islamic world (founded 1382). Today it's best known for spices, perfume oils, handmade copperware, and lanterns — plus El-Fishawi café, which has been open since 1773.
+
+**When is the best time to visit Khan el-Khalili?**
+Evening (after 6 PM) for atmosphere — the lanterns light up and the temperature drops. Morning (9:30–11 AM) for quieter shopping. Avoid Friday/Saturday afternoon peak crowds.
+
+**How long should I spend at Khan el-Khalili?**
+2–3 hours for a standard visit covering the main lanes, El-Fishawi, and the spice souk. Allow 4+ hours if you want to shop seriously or combine with a walk down Al-Muizz Street into Islamic Cairo.

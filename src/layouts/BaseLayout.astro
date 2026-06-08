@@ -29,10 +29,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <!-- DNS prefetch for third-party origins (non-blocking, speculative) -->
     <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-    <!-- Preconnect for Travelpayouts Drive — saves ~320ms LCP (Lighthouse candidate) -->
-    <link rel="preconnect" href="https://emrld.ltd" />
 
     <!-- Google Fonts — async (non-render-blocking) load -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />

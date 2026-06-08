@@ -80,9 +80,21 @@ const blogPostingSchema = {
   headline: title,
   description: description,
   datePublished: publishDate.toISOString(),
-  author: { '@type': 'Organization', name: 'GoinAtlas', url: 'https://goinatlas.com' },
-  publisher: { '@type': 'Organization', name: 'GoinAtlas', url: 'https://goinatlas.com' },
+  dateModified: publishDate.toISOString(),
+  author: {
+    '@type': 'Person',
+    name: 'GoinAtlas Editorial Team',
+    url: 'https://goinatlas.com/team',
+    worksFor: { '@type': 'Organization', name: 'GoinAtlas', url: 'https://goinatlas.com' },
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'GoinAtlas',
+    url: 'https://goinatlas.com',
+    logo: { '@type': 'ImageObject', url: 'https://goinatlas.com/images/logo.svg' },
+  },
   url: canonicalURL,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL },
   ...(heroImage ? { image: `https://goinatlas.com${heroImage}` } : {}),
 };
 
@@ -241,9 +253,20 @@ const BREADCRUMB_H = '2.75rem';
     <div class="min-w-0 article-content-col">
 
       <!-- Article title — top of content column, above prose -->
-      <h1 style="font-family: var(--font-display); font-size: clamp(1.6rem, 3vw, 2.6rem); font-weight: 700; line-height: 1.2; color: var(--color-text-primary); margin: 0 0 2rem 0;">
+      <h1 style="font-family: var(--font-display); font-size: clamp(1.6rem, 3vw, 2.6rem); font-weight: 700; line-height: 1.2; color: var(--color-text-primary); margin: 0 0 1rem 0;">
         {title}
       </h1>
+
+      <!-- Author byline — E-E-A-T signal for Google -->
+      <div class="flex items-center gap-2 mb-6" style="font-size: 0.8rem; color: var(--color-text-muted);">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;opacity:0.6">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+          <circle cx="12" cy="7" r="4"/>
+        </svg>
+        <span>By <a href="/team" class="font-medium hover:text-[var(--color-brand-600)] transition-colors" style="color:inherit">GoinAtlas Editorial Team</a></span>
+        <span style="opacity:0.3;">·</span>
+        <span>Updated {publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long' })}</span>
+      </div>
 
       {etsy_template && (
         <EtsyCTA label={etsy_template.label} url={etsy_template.url} position="top" />

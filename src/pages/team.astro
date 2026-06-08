@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const teamSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'GoinAtlas',
+  url: 'https://goinatlas.com',
+  description: 'Independent travel guides for curious, independent travelers.',
+  logo: 'https://goinatlas.com/images/logo.svg',
+  member: [
+    {
+      '@type': 'Person',
+      name: 'GoinAtlas Editorial Team',
+      url: 'https://goinatlas.com/team',
+      jobTitle: 'Travel Editors',
+      worksFor: { '@type': 'Organization', name: 'GoinAtlas' },
+    }
+  ]
+};
+---
+
+<BaseLayout
+  title="Our Team"
+  description="GoinAtlas is written by a team of travel editors and researchers dedicated to practical, independent travel guidance."
+  schema={teamSchema}
+>
+  <div class="max-w-2xl mx-auto px-6 py-16">
+    <h1 class="text-3xl font-bold mb-4" style="font-family: var(--font-display);">Our Team</h1>
+    <p class="text-[var(--color-text-muted)] mb-10 text-sm">The people behind GoinAtlas</p>
+
+    <!-- Editorial approach -->
+    <div class="mb-12">
+      <h2 class="text-xl font-bold mb-4" style="font-family: var(--font-display);">How we research & write</h2>
+      <p class="text-[var(--color-text-secondary)] mb-4 leading-relaxed">
+        Every guide on GoinAtlas is produced by our editorial team — a group of researchers, writers, and frequent travelers who combine on-the-ground knowledge with rigorous fact-checking. We don't publish filler. We focus on what actually matters when you're planning a trip.
+      </p>
+      <p class="text-[var(--color-text-secondary)] mb-4 leading-relaxed">
+        Our process: primary research (local sources, tourism boards, traveler communities) → draft → editorial review → fact-check → publish. Seasonal guides are updated annually. Practical guides (visa, budget, transport) are reviewed every 6 months.
+      </p>
+    </div>
+
+    <!-- Editorial standards -->
+    <div class="mb-12 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg)]">
+      <h2 class="text-lg font-bold mb-4" style="font-family: var(--font-display);">Editorial standards</h2>
+      <ul class="space-y-3 text-[var(--color-text-secondary)] text-sm leading-relaxed">
+        <li class="flex items-start gap-2">
+          <span class="text-[var(--color-brand-600)] font-bold mt-0.5">✓</span>
+          <span><strong class="text-[var(--color-text-primary)]">Accuracy first.</strong> Prices, visa rules, and transport info are sourced from official government sites and verified operators.</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span class="text-[var(--color-brand-600)] font-bold mt-0.5">✓</span>
+          <span><strong class="text-[var(--color-text-primary)]">No paid placements.</strong> We don't accept payment for editorial coverage. Affiliate links never influence our recommendations.</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span class="text-[var(--color-brand-600)] font-bold mt-0.5">✓</span>
+          <span><strong class="text-[var(--color-text-primary)]">Transparent monetization.</strong> Some links are affiliate links (flights, hotels). We earn a small commission if you book — at no cost to you.</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span class="text-[var(--color-brand-600)] font-bold mt-0.5">✓</span>
+          <span><strong class="text-[var(--color-text-primary)]">Regular updates.</strong> Content is reviewed and refreshed. We mark guides with their last-updated date.</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Contact -->
+    <div class="mb-8">
+      <h2 class="text-xl font-bold mb-4" style="font-family: var(--font-display);">Corrections & contact</h2>
+      <p class="text-[var(--color-text-secondary)] mb-4 leading-relaxed">
+        Found something out of date or incorrect? We appreciate corrections. Reach us at:
+      </p>
+      <a
+        href="mailto:hello@goinatlas.com"
+        class="text-[var(--color-brand-600)] font-semibold hover:underline"
+      >
+        hello@goinatlas.com
+      </a>
+    </div>
+
+    <!-- About the site -->
+    <div class="border-t border-[var(--color-border)] pt-8">
+      <p class="text-sm text-[var(--color-text-muted)] leading-relaxed">
+        GoinAtlas was founded with a simple premise: most travel content on the internet is either too generic, too outdated, or too sponsored to be genuinely useful. We set out to build the travel guide we always wanted — one that tells you what actually matters, in depth, without fluff. <a href="/about" class="text-[var(--color-brand-600)] hover:underline">Learn more about GoinAtlas →</a>
+      </p>
+    </div>
+  </div>
+</BaseLayout>

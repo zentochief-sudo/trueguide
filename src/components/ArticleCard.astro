@@ -10,12 +10,13 @@ interface Props {
   city?: string;
   tags?: string[];
   href?: string; // optional override — used for cross-destination guides
+  eager?: boolean; // true for first visible card — avoids lazy LCP penalty
 }
 
 const {
   title, description, destination, category,
   slug, heroImage, readingTime, city = 'national', tags = [],
-  href: hrefOverride,
+  href: hrefOverride, eager = false,
 } = Astro.props;
 
 // Convert destination to a URL-safe path segment
@@ -117,7 +118,8 @@ const href = hrefOverride ?? `/${destPath}/${slug}`;
         alt={title}
         width="160"
         height="107"
-        loading="lazy"
+        loading={eager ? 'eager' : 'lazy'}
+        fetchpriority={eager ? 'high' : undefined}
         decoding="async"
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
       />

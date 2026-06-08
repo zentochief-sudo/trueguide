@@ -10,8 +10,8 @@ import { getHubArticles } from '../../lib/get-hub-articles';
 
 const sorted = await getHubArticles('ireland', 'ireland');
 
-const cityOrder  = ['killarney', 'dublin', 'galway', 'cork'];
-const cityLabels: Record<string, string> = { killarney: 'Killarney', dublin: 'Dublin', galway: 'Galway', cork: 'Cork' };
+const cityOrder  = ['dublin', 'edinburgh', 'galway', 'cork', 'killarney'];
+const cityLabels: Record<string, string> = { dublin: 'Dublin', edinburgh: 'Edinburgh', galway: 'Galway', cork: 'Cork', killarney: 'Killarney' };
 const cityMap: Record<string, number> = {};
 for (const a of sorted) { const c = a.data.city ?? 'national'; cityMap[c] = (cityMap[c] ?? 0) + 1; }
 const cities = cityOrder.filter((id) => cityMap[id]).map((id) => ({ id, label: cityLabels[id] ?? id }));

@@ -112,4 +112,8 @@ export const collections = {
     loader: glob({ pattern: '**/*.md', base: './src/content/peru' }),
     schema: articleSchema,
   }),
+  germany: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/germany' }),
+    schema: articleSchema,
+  }),
 };

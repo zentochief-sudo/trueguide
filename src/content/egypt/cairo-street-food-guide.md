@@ -4,7 +4,7 @@ description: "Sugarcane juice, karkadeh, ta'ameya, hawawshi, and the street food
 destination: Egypt
 category: Food & Drink
 publishDate: 2026-05-07
-readingTime: 6
+readingTime: 12
 heroImage: /images/egypt-cairo-street-food.jpg
 tags: [Cairo, street food, koshari, ta'ameya, sugarcane juice, Egypt, food]
 city: cairo
@@ -96,10 +96,63 @@ Order: tea with fresh mint (shai bi na'na) or Turkish coffee (ahwa turki). The d
 
 ---
 
+## 2026 Street Food Price Reference
+
+| Dish | Where | Price (EGP) | USD equiv. |
+|---|---|---|---|
+| Koshari (medium bowl) | Koshary Abou Tarek | 35–50 EGP | ~$0.70–1.00 |
+| Ta'ameya sandwich | Breakfast stalls | 15–30 EGP | ~$0.30–0.60 |
+| Ful + bread (breakfast) | Neighborhood stalls | 20–40 EGP | ~$0.40–0.80 |
+| Hawawshi | Bakeries | 40–80 EGP | ~$0.80–1.60 |
+| Fiteer (savory) | Fotiar shops | 40–80 EGP | ~$0.80–1.60 |
+| Sugarcane juice | Street carts | 15–25 EGP | ~$0.30–0.50 |
+| Karkadeh (cold) | Juice stands | 20–40 EGP | ~$0.40–0.80 |
+| Tea at El-Fishawi | Khan el-Khalili | 30–60 EGP | ~$0.60–1.20 |
+| Full street breakfast | Various | 60–100 EGP | ~$1.20–2.00 |
+
+*~50 EGP/USD at 2026 rates. Cairo street food is among the cheapest in the world for quality.*
+
+---
+
+## Best Areas for Street Food in Cairo
+
+**Tahrir Square / Downtown (Wust al-Balad)**: The densest concentration of street food in Cairo. Koshary Abou Tarek is here (Marouf Street). Dozens of ta'ameya and ful carts operate from dawn. Best for a self-directed morning walk with breakfast on the go.
+
+**Khan el-Khalili / Islamic Cairo**: Sugarcane juice vendors cluster around the bazaar entrance. El-Fishawi Café inside the market. The surrounding streets have good hawawshi and ful options. Combine with sightseeing.
+
+**Zamalek**: The upscale island neighborhood has cleaner, slightly pricier versions of the same dishes. Good option if you want a familiar-feeling area. Less authentic atmosphere than downtown.
+
+**Imbaba / Bulaq**: Local working-class neighborhoods with the most neighborhood-level street food — not set up for tourists, which means lower prices and the dishes cooked for locals rather than visitor palates. Requires willingness to navigate without English signage.
+
+**Near Egyptian Museum / Ramses Station**: Transit hubs with dense street food. Good for eating before or after the museum. Ramses area has excellent overnight-style stalls open very late.
+
+---
+
 ## Street Food Navigation
 
-**Language**: Most street food vendors speak minimal English. Pointing works perfectly — point at what you want and show your fingers for quantity. The price will be shown on fingers or a phone calculator.
+**Language**: Most vendors speak minimal English. Pointing works perfectly — point at what you want, show fingers for quantity. Price shown on fingers or phone calculator.
 
-**Cash only**: All street food is cash. Keep small denominations (5, 10, 20 EGP notes) available.
+**Cash only**: All street food is cash. Keep small denominations (5, 10, 20 EGP notes) — vendors rarely make change for 100 EGP on a 25 EGP purchase.
 
-**Timing**: Egyptian street breakfast culture runs from 6 AM to noon — after that, many ful and ta'ameya stalls close. Koshari and hawawshi are available through the day. The evening brings different street food (more grilled meats, sandwiches, sweets).
+**Timing**: Egyptian street breakfast runs 6 AM–noon. Many ful and ta'ameya stalls close after that. Koshari and hawawshi run all day. Evening brings grilled meats, kofta sandwiches, and sweets.
+
+**Hygiene**: High-turnover stalls (Koshary Abou Tarek, established breakfast places) are safe. Avoid anything sitting under heat lamps at low-traffic stalls during afternoon heat. The general rule: busy stall = fresh food = safe.
+
+---
+
+## Frequently Asked Questions
+
+**Is Cairo street food safe to eat?**
+Yes, with basic judgment. High-turnover stalls serving hot food are safe — Koshary Abou Tarek, busy ta'ameya spots, and any cart with a queue. Avoid sitting cold food and anything at a visibly low-traffic stall in midday heat. Millions of Cairenes eat this food daily.
+
+**What is Egypt's national dish?**
+Koshari — a layered bowl of rice, lentils, chickpeas, macaroni, crispy onions, and spiced tomato sauce. Served at dedicated koshari restaurants throughout Cairo from around 35–60 EGP per bowl.
+
+**What is ta'ameya and how is it different from falafel?**
+Ta'ameya is Egyptian falafel made from fava beans (not chickpeas), giving it a greener interior and more herbaceous flavor. It's a breakfast food, served in sandwiches with salad and tahini. Best eaten fresh in the morning — after noon most stalls sell out.
+
+**How cheap is street food in Cairo?**
+Extremely cheap by any standard. A full street breakfast (ful, ta'ameya, bread, tea) costs 60–100 EGP (~$1.20–2.00 USD). A koshari bowl is 35–50 EGP. Sugarcane juice is 15–25 EGP. A tourist can eat three full meals per day from the street for under 300 EGP (~$6 USD).
+
+**Where is the best koshari in Cairo?**
+Koshary Abou Tarek (Marouf Street, near Tahrir Square) is the most famous — five floors dedicated exclusively to koshari since 1950. Most Cairenes have a local spot they prefer, but Abou Tarek is consistently excellent and easy to find.

@@ -4,7 +4,7 @@ description: "November combines October's comfortable temperatures with slightly
 destination: Egypt
 category: Seasonal
 publishDate: 2026-05-20
-readingTime: 6
+readingTime: 13
 heroImage: /images/egypt-november.jpg
 tags: [Egypt, November, autumn, value, Luxor, Nile cruise, Alexandria, Red Sea]
 city: national
@@ -12,19 +12,19 @@ city: national
 
 November is arguably [Egypt](/egypt)'s single best month for value travel. The oppressive heat is thoroughly gone. The January and February package tour peak hasn't arrived. Temperatures across the country are in the ideal exploration range — warm and sunny with cool evenings. And while October was slightly more pressure-free, November has the advantage of the full winter tourism infrastructure running (boats, guides, sites fully staffed) without the overcrowding.
 
-## Weather & Conditions
+## November Weather by City
 
-**[Cairo](/egypt/cairo-travel-guide):** 16–24°C. Comfortable for extended walking. Evenings cool to 12–14°C; a light jacket is needed after dark.
+| City | Daytime | Nights | Rain | Notes |
+|---|---|---|---|---|
+| [Cairo](/egypt/cairo-travel-guide) | 22–26°C | 12–16°C | Rare | Light jacket needed after dark |
+| Luxor | 25–30°C | 14–18°C | None | Ideal for full-day temple visits |
+| Aswan | 27–32°C | 16–20°C | None | Still warm afternoons; Abu Simbel very doable |
+| Red Sea (Hurghada) | 24–28°C | 18–22°C | Rare | Water 24–26°C; short wetsuit for long dives |
+| Alexandria | 18–23°C | 14–17°C | Occasional | Mediterranean autumn; bring a layer |
+| Sinai (Dahab/Sharm) | 22–28°C | 14–18°C | None | Perfect for desert trekking |
+| Siwa Oasis | 20–26°C | 10–14°C | None | Cool nights; ideal for desert camping |
 
-**Luxor:** 18–28°C. Ideal. The afternoon sun is warm but not punishing. Full-day outdoor exploration is comfortable.
-
-**Aswan:** 20–30°C. Warm afternoons. An afternoon at Abu Simbel is entirely manageable.
-
-**Red Sea:** 22–26°C air, 24–26°C water. The water is starting to cool. A light wetsuit improves extended dive comfort.
-
-**Alexandria:** 18–22°C. Mediterranean autumn. Cool and pleasant.
-
-**Sinai:** 18–25°C. Excellent for desert exploration.
+*Temperatures in Celsius. November has virtually zero rain risk outside Alexandria.*
 
 ## What to Do
 
@@ -56,6 +56,70 @@ November evenings in Luxor and Aswan are genuinely cool. A light fleece or jacke
 
 Red Sea diving in November is still good but the water cooling trend means longer dives benefit from a 3mm wetsuit.
 
+## November Prices vs Peak Season
+
+November sits in the sweet spot — past shoulder season, not yet peak. Expect these differences vs January (high season):
+
+| Category | November | January (peak) | Saving |
+|---|---|---|---|
+| Luxor/Aswan hotel (mid-range) | $50–90/night | $90–160/night | 30–45% less |
+| Nile cruise (3-night) | $300–500/person | $500–900/person | 30–40% less |
+| Cairo hotel (mid-range) | $60–100/night | $80–130/night | 15–25% less |
+| Guided tour (private, full day) | $80–120 | $100–150 | 15–20% less |
+| Site entry fees | Fixed | Fixed | No saving |
+| Flights (Europe → Cairo) | €250–450 | €350–600 | 20–35% less |
+
+*Early November (1–15) tends to be cheaper than late November (16–30) when winter travelers begin arriving.*
+
+---
+
+## What to Pack for Egypt in November
+
+November packing is slightly more varied than summer — you need both sun protection and a layer for evenings:
+
+**Essential:**
+- Light breathable clothing for daytime (linen, cotton)
+- Light jacket or fleece for evenings in Cairo, Luxor, Siwa
+- Comfortable walking shoes (you will walk a lot at temple sites)
+- Sunscreen (SPF 50) — the November sun is still strong, especially at open-air sites
+- Sunglasses and hat
+
+**If diving/snorkeling (Red Sea):**
+- 3mm wetsuit or shorty (water still warm enough without, but longer dives benefit)
+- Rashguard
+
+**Modest dress for sites:**
+- Shoulders and knees covered at mosques and some temples
+- A light scarf for women (useful at multiple sites)
+
+**Skip:**
+- Heavy winter coat — Cairo evenings are cool, not cold. Luxor and Aswan evenings are mild.
+- Umbrella — rain is very unlikely outside Alexandria.
+
+---
+
 ## Who November Is For
 
 The single most broadly applicable recommendation for Egypt. November suits first-time visitors, families, budget travelers, history enthusiasts, and divers equally. The tradeoffs are minimal: slightly warmer than January, slightly pricier than September. The conditions are excellent in almost every dimension.
+
+---
+
+## Frequently Asked Questions
+
+**Is November a good time to visit Egypt?**
+Yes — it's one of the best months. Heat is gone, crowds haven't peaked, and prices are 20–40% below January highs. The Nile Valley (Luxor, Aswan) and Cairo are in ideal condition for sightseeing.
+
+**Is Egypt hot in November?**
+No longer hot in the summer sense. Cairo daytime reaches 22–26°C (72–79°F) — warm and sunny, comfortable for walking. Luxor is 25–30°C. Evenings are cool (12–16°C in Cairo), requiring a light jacket. Only Aswan afternoons still feel warm.
+
+**Is November good for diving in Egypt?**
+Yes. The Red Sea water temperature in November is 24–26°C — still comfortable without a wetsuit for short dives. A 3mm wetsuit improves extended dive comfort. Visibility is excellent and the sites are less crowded than summer peak.
+
+**Is it safe to visit Egypt in November 2026?**
+Egypt is a safe destination for tourists. The main tourist areas — Cairo, Luxor, Aswan, the Red Sea coast — have extensive tourism infrastructure and security presence. Standard travel precautions apply. Check your government's current travel advisory before booking.
+
+**What should I wear in Egypt in November?**
+Light clothing during the day (t-shirts, linen trousers or dresses). A light jacket for evenings, especially in Cairo and at higher elevations. Modest clothing (covered shoulders and knees) for mosques and some sites. Comfortable walking shoes — temple sites involve significant walking on uneven ground.
+
+**How far in advance should I book November travel to Egypt?**
+For Nile dahabiya cruises: 2–3 months ahead (they fill up October–February). For hotels in Luxor: 4–6 weeks is usually sufficient, though the best properties sell out earlier. Cairo hotels have more availability. Flights: 6–8 weeks ahead for reasonable prices.

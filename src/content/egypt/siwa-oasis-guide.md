@@ -1,6 +1,6 @@
 ---
-title: "Siwa Oasis: Egypt's Remote Desert Gem"
-description: "The Oracle Temple where Alexander the Great was declared a god, salt lakes, Berber culture, and the most remote oasis in Egypt — a complete guide to Siwa."
+title: "Siwa Oasis Egypt: Complete Guide to the Desert's Most Remote Oasis"
+description: "Oracle Temple, salt lakes, Berber villages, and the Sahara's edge — complete guide to Siwa Oasis: how to get there, where to stay, and what to see."
 destination: Egypt
 category: Experiences
 publishDate: 2026-05-07

@@ -1,6 +1,6 @@
 ---
 title: "Canada vs USA for FIFA World Cup 2026: Which Host Country Should You Visit?"
-description: "The 2026 FIFA World Cup spreads across 16 cities in three countries. Canada gets Vancouver and Toronto. The USA gets everything else. Here's how to plan your trip around the matches — and the cities worth visiting anyway."
+description: "Canada: 2 cities (Vancouver + Toronto). USA: 11 cities including New York, LA, Miami. Full 2026 FIFA World Cup host country comparison — matches, fan zones, and costs."
 destination: "North America"
 category: Compare
 publishDate: 2026-05-20

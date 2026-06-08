@@ -1,6 +1,6 @@
 ---
-title: "Khan el-Khalili: How to Shop Cairo's Historic Bazaar"
-description: "Founded in 1382, Khan el-Khalili is one of the oldest markets in the Middle East — what to buy, what to avoid, and how to navigate without getting scammed."
+title: "Khan el-Khalili Cairo: Complete Bazaar Guide (What to Buy, Prices + Scam Tips)"
+description: "Founded in 1382, Khan el-Khalili is one of the oldest markets in the Middle East. What to buy, fair prices, and how to navigate without getting scammed."
 destination: Egypt
 category: Experiences
 publishDate: 2026-05-07
